@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab ‘strongly recommends’ patching critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/gitlab-strongly-recommends-patching-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab is urging users to install a security update for branches 15.1, 15.2, and 15.3 of its community and enterprise editions to fix a critical vulnerability that could enable an attacker to perform remote command execution via Github import.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-Gapped Devices Can Send Covert Morse Signals via Network Card LEDs<a href="https://thehackernews.com/2022/08/air-gapped-devices-can-send-covert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher who has a long line of work demonstrating novel data exfiltration methods from air-gapped systems has come up with yet another technique that involves sending Morse code signals via LEDs on network interface cards ( NICs ).  The approach, codenamed&nbsp; ETHERLED , comes from Dr. Mordechai Guri , the head of R&amp;D in the Cyber Security Research Center in the Ben Gurion University of the Negev in Israel, who recently outlined&nbsp; GAIROSCOPE , a method for transmitting data ultrasonically to smartphone gyroscopes.   "Malware installed on the device could programmatically control the status LED by blinking or alternating its colors, using documented methods or undocumented firmware commands," Dr. Guri said.  "Information can be encoded via simple encoding such as Morse code and modulated over these optical signals. An attacker can intercept and decode these signals from tens to hundreds of meters away."   A network interface card, also known as a netwo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a privilege escalation issue in VMware Tools<a href="https://securityaffairs.co/wordpress/134791/security/vmware-vmware-tools-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware this week released patches to address an important-severity vulnerability in the VMware Tools suite of utilities.
+
+
+
+The virtualization giant VMware this week released patches to address an important-severity flaw, tracked as CVE-2022-31676, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM Patches Severe Vulnerabilities in MQ Messaging Middleware<a href="https://www.securityweek.com/ibm-patches-severe-vulnerabilities-mq-messaging-middleware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM this week announced patches for high-severity vulnerabilities in IBM MQ, warning that attackers could exploit them to bypass security restrictions or access sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Issues Patch for Critical Flaw in its Community and Enterprise Software<a href="https://thehackernews.com/2022/08/gitlab-issues-patch-for-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform GitLab this week issued patches to address a critical security flaw in its software that could lead to arbitrary code execution on affected systems.  Tracked as&nbsp; CVE-2022-2884 , the issue is rated 9.9 on the CVSS vulnerability scoring system and impacts all versions of GitLab Community Edition (CE) and Enterprise Edition (EE) starting from 11.3.4 before 15.1.5, 15.2 before 15.2.3, and 15.3 before 15.3.1.  At its core, the security weakness is a case of authenticated remote code execution that can be triggered via the GitHub import API. GitLab credited&nbsp; yvvdwf &nbsp;with discovering and reporting the flaw.   While the issue has been resolved in versions 15.3.1, 15.2.3, 15.1.5, users also have the option of securing against the flaw by temporarily disabling the GitHub import option -   Click "Menu" -&gt; "Admin"  Click "Settings" -&gt; "General"  Expand the "Visibility and access controls" tab  Under "Import sources"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

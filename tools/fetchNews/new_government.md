@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Vulnerability in ​​Delta Electronics ICS Software Exploited in Attacks<a href="https://www.securityweek.com/cisa-vulnerability-delta-ics-software-exploited-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability affecting industrial automation software from Delta Electronics appears to have been exploited in attacks, and the US CISA is urging organizations to take action as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Spending Billions on Cybersecurity<a href="https://thehackernews.com/2022/08/us-government-spending-billions-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent months, the House of Representatives has been hard at work drafting various spending bills for the 2023 fiscal year. While these bills provide funding for a vast array of government programs and agencies, there was one thing that really stands out. Collectively, the bills that are making their way through the house&nbsp; allocate a staggering $15.6 billion to cybersecurity spending .  As you could probably guess, the lion's share of this spending ($11.2 billion) is being allocated to the Department of Defense. It is worth noting, however, that nearly $3 billion is going to the Cyber Security and Infrastructure Security Agency (CISA).  Although it may be tempting to think of these cybersecurity budget allocations as just another example of excessive government spending, it's worth considering what a $15.6 billion cash infusion will mean for the IT security industry. It's equally important to consider why the US government finds it necessary to ramp up its cybersecurity
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

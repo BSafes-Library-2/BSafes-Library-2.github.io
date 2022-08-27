@@ -8,6 +8,94 @@ nav_order: 900029
 
 ## Breach
 ---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The number of companies caught up in the Twilio hack keeps growing<a href="https://arstechnica.com/information-technology/2022/08/the-number-of-companies-caught-up-in-the-twilio-hack-keeps-growing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new companies—authentication service Authy, password manager LastPass, and food delivery service DoorDash—said in recent days that the Twilio compromise led to them being hacked.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoorDash discloses new data breach tied to Twilio hackers<a href="https://www.bleepingcomputer.com/news/security/doordash-discloses-new-data-breach-tied-to-twilio-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Food delivery firm DoorDash has disclosed a data breach exposing customer and employee data that is linked to the recent cyberattack on Twilio.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Breach LastPass Developer System to Steal Source Code<a href="https://thehackernews.com/2022/08/hackers-breach-lastpass-developer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management service LastPass confirmed a security incident that resulted in the theft of certain source code and technical information.  The security breach is said to have occurred two weeks ago, targeting its development environment. No customer data or encrypted passwords were accessed, although the company provided no further details regarding the hack and what source code was stolen.   "An unauthorized party gained access to portions of the LastPass development environment through a single compromised developer account and took portions of source code and some proprietary LastPass technical information," LastPass CEO Karim Toubba&nbsp; said .  Amidst ongoing investigation into the incident, the company said it has engaged the services of a leading cybersecurity and forensics firm and that it has implemented additional countermeasures.   LastPass, however, didn't elaborate on the exact mitigation techniques that it used to strengthen its environment. It also reiterated that the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let hackers gain access to Authy 2FA accounts<a href="https://www.bleepingcomputer.com/news/security/twilio-breach-let-hackers-gain-access-to-authy-2fa-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio's investigation into the attack on August 4 reveals that hackers gained access to some Authy&nbsp;user accounts and registered unauthorized devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass data breach: threat actors stole a portion of source code<a href="https://securityaffairs.co/wordpress/134858/data-breach/lastpass-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management software firm LastPass has suffered a data breach, threat actors have stole source code and other data.
+
+
+
+Password management software firm LastPass disclosed a security breach, threat actors had access to portions of the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This company paid a ransom demand. Hackers leaked its data anyway<a href="https://www.zdnet.com/article/this-company-paid-a-ransom-demand-hackers-leaked-its-data-anyway/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stealing sensitive data has become a common part of ransomware attacks. Criminals leverage it as part of their extortion attempts, threatening to release it if a ransom isn't received.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

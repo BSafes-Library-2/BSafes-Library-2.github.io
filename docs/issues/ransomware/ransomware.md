@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - August 26th 2022 - Fighting back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-26th-2022-fighting-back/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We saw a bit of ransomware drama this week, mostly centered around LockBit, who saw their data leak sites taken down by a DDoS attack after they started leaking the allegedly stolen Entrust data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang Ransomware Agenda Customizes Attacks Against Organizations in Asia and Africa<a href="https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that the new ransomware in question targeted enterprises in Asia and Africa. Based on dark web posts by a user named “Qilin,” and through ransom notes, the ransomware is called “Agenda.”
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

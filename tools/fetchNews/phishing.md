@@ -8,6 +8,38 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AiTM phishing campaign also targets G Suite users<a href="https://securityaffairs.co/wordpress/134796/cyber-crime/aitm-phishing-g-suite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a large-scale adversary-in-the-middle (AiTM)&nbsp;phishing campaign&nbsp;now target Google G Suite users
+
+
+
+The threat actors behind a large-scale adversary-in-the-middle (AiTM)&nbsp;phishing campaign&nbsp;targeting enterprise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use AiTM attack to monitor Microsoft 365 accounts for BEC scams<a href="https://www.bleepingcomputer.com/news/security/hackers-use-aitm-attack-to-monitor-microsoft-365-accounts-for-bec-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new business email compromise (BEC) campaign has been discovered combining sophisticated spear-phishing with Adversary-in-The-Middle (AiTM) tactics to hack corporate executives' Microsoft 365 accounts, even those protected by MFA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

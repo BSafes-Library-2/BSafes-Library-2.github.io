@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Should Uncle Sam Worry About ‘Foreign’ Open-Source Software? Geographic Known Unknowns and Open-Source Software Security<a href="https://www.lawfareblog.com/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avoiding “foreign” open-source software appears impossible and is unlikely to improve security.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are attempting to steal millions of dollars from businesses by bypassing multi-factor authentication<a href="https://www.zdnet.com/article/hackers-are-attempting-to-steal-millions-of-dollars-from-businesses-by-bypassing-multi-factor-authentication/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers change the bank details so that they receive the payment if the transfer is approved. Researchers say the attackers behind this campaign are attempting to steal millions of dollars in each transaction.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,80 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0ktapus phishing campaign: Twilio hackers targeted other 136 organizations<a href="https://securityaffairs.co/wordpress/134851/hacking/0ktapus-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind Twilio&nbsp;and&nbsp;Cloudflare&nbsp;attacks have been linked to a phishing campaign that targeted other 136 organizations.
+
+
+
+The threat actors behind the attacks on&nbsp;Twilio&nbsp;and&nbsp;Cloudflare&nbsp;have been linked to a large-scale phishing campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CFO Spoofed in Convincing Business Email Compromise Scam<a href="https://www.avanan.com/blog/cfo-spoofed-in-convincing-business-email-compromise-scam?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted users are presented with a phishing email from the CFO of a major corporation. The CFO asks the recipient of the email to make a payment to an insurance company.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hackers hit over 130 orgs in massive Okta phishing attack<a href="https://www.bleepingcomputer.com/news/security/twilio-hackers-hit-over-130-orgs-in-massive-okta-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have discovered the phishing kit responsible for thousands of attacks against 136 high-profile organizations that have compromised 9,931 accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Warns Python Project Maintainers About Ongoing Phishing Attacks<a href="https://thehackernews.com/2022/08/pypi-repository-warns-python-project.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index, PyPI, on Wednesday sounded the alarm about an ongoing phishing campaign that aims to steal developer credentials and inject malicious updates to legitimate packages.  "This is the first known phishing attack against PyPI," the maintainers of the official third-party software repository&nbsp; said &nbsp;in a series of tweets.  The social engineering attack entails sending security-themed messages that create a false sense of urgency by informing recipients that Google is implementing a mandatory validation process on all packages and that they need to click on a link to complete the validation before September, or risk getting their PyPI modules removed.   Should an unsuspecting developer fall for the scheme, users are directed to a lookalike landing page that mimics PyPI's login page and is hosted on Google Sites, from where the entered credentials are captured and abused to unauthorizedly access the accounts and compromise the packages to include malware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI packages hijacked after developers fall for phishing emails<a href="https://www.bleepingcomputer.com/news/security/pypi-packages-hijacked-after-developers-fall-for-phishing-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign caught yesterday was seen targeting maintainers of Python packages published to the&nbsp;PyPI registry. Python packages 'exotel' and&nbsp;'spam' are among hundreds seen laced with malware after attackers successfully compromised accounts of maintainers who fell for the phishing email.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

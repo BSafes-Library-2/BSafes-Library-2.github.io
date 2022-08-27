@@ -8,6 +8,60 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Mercury APT exploited Log4Shell in SysAid Apps for initial access<a href="https://securityaffairs.co/wordpress/134876/apt/mercury-exploit-log4shell-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked Mercury APT group exploited the Log4Shell vulnerability in SysAid applications for initial access to the targeted organizations.
+
+
+
+The&nbsp;Log4Shell flaw (CVE-2021-44228)&nbsp;made the headlines in December after Chinese security researcher...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldDragon campaign: North-Korea linked Kimsuky APT adopts victim verification technique<a href="https://securityaffairs.co/wordpress/134864/apt/kimsuky-golddragon-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Kimsuky APT is behind a new campaign, tracked as GoldDragon, targeting political and diplomatic entities in South Korea in early 2022.
+
+
+
+Researchers from Kaspersky attribute a series of attacks, tracked as GoldDragon, against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nobelium APT uses new Post-Compromise malware MagicWeb<a href="https://securityaffairs.co/wordpress/134838/apt/nobelium-magicweb-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Nobelium is behind a new sophisticated post-exploitation malware tracked by Microsoft as MagicWeb.
+
+
+
+Microsoft security researchers discovered a post-compromise malware, tracked as MagicWeb, which is used by the Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

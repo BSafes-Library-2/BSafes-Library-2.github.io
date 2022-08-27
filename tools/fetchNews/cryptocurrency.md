@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Miners Using Tox P2P Messenger as Command and Control Server<a href="https://thehackernews.com/2022/08/crypto-miners-using-tox-p2p-messenger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have begun to use the Tox peer-to-peer instant messaging service as a command-and-control method, marking a shift from its earlier role as a contact method for ransomware negotiations.  The findings from Uptycs, which analyzed an Executable and Linkable Format (ELF) artifact (" 72client ") that functions as a bot and can run scripts on the compromised host using the Tox protocol.  Tox is a&nbsp; serverless protocol &nbsp;for online communications that offers end-to-end encryption (E2EE) protections by making use of the Networking and Cryptography library ( NaCl , pronounced "salt") for encryption and authentication.   "The binary found in the wild is a stripped but dynamic executable, making decompilation easier," researchers Siddharth Sharma and Nischay Hedge&nbsp; said . "The entire binary appears to be written in C, and has only&nbsp; statically linked &nbsp;the c-toxcore library."  It's worth noting that c-toxcore is a&nbsp; reference implementation &nbsp;of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
