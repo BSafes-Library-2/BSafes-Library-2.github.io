@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of the first known phishing attack against PyPI<a href="https://securityaffairs.co/wordpress/134931/cyber-crime/pypi-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) warns of an ongoing phishing campaign to steal developer credentials and distribute malicious updates.
+
+
+
+The Python Package Index, PyPI, this week warned of an ongoing phishing campaign that aims to steal developer credentials...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

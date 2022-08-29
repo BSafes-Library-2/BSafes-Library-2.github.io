@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Ships Urgent Patch for Critical Bitbucket Vulnerability<a href="https://www.securityweek.com/atlassian-ships-urgent-patch-critical-bitbucket-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian’s security response team has issued an urgent advisory to warn of a critical command injection flaw in its Bitbucket Server and Data Center product. The vulnerability carries a CVSS severity score of 9.9 out of 10.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Discovered in Atlassian Bitbucket Server and Data Center<a href="https://thehackernews.com/2022/08/critical-vulnerability-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has rolled out fixes for a&nbsp; critical security flaw &nbsp;in Bitbucket Server and Data Center that could lead to the execution of malicious code on vulnerable installations.  Tracked as&nbsp; CVE-2022-36804 &nbsp;(CVSS score: 9.9), the issue has been characterized as a command injection vulnerability in multiple endpoints that could be exploited via specially crafted HTTP requests.   "An attacker with access to a public Bitbucket repository or with read permissions to a private one can execute arbitrary code by sending a malicious HTTP request," Atlassian&nbsp; said &nbsp;in an advisory.  The shortcoming, discovered and reported by security researcher&nbsp; @TheGrandPew &nbsp;impacts all versions of Bitbucket Server and Datacenter released after 6.10.17, inclusive of 7.0.0 and newer -   Bitbucket Server and Datacenter 7.6  Bitbucket Server and Datacenter 7.17  Bitbucket Server and Datacenter 7.21  Bitbucket Server and Datacenter 8.0  Bitbucket Server and Datacenter 8.1  Bitbucket Server and Datacenter 8.2, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Bitbucket Server vulnerable to critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-bitbucket-server-vulnerable-to-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has published a security advisory warning Bitbucket Server and Data Center users of a critical security flaw that attackers could leverage to execute arbitrary code on vulnerable instances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw impacts Atlassian Bitbucket Server and Data Center<a href="https://securityaffairs.co/wordpress/134896/hacking/atlassian-bitbucket-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian addressed a&nbsp;critical vulnerability&nbsp;in Bitbucket Server and Data Center that could lead to malicious code execution on vulnerable instances.
+
+
+
+Atlassian fixed a&nbsp;critical flaw&nbsp;in Bitbucket Server and Data Center, tracked as&nbsp;CVE-2022-36804&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian hackers still exploiting Log4j bugs against Israel<a href="https://www.bleepingcomputer.com/news/security/microsoft-iranian-hackers-still-exploiting-log4j-bugs-against-israel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers continue to exploit the Log4j vulnerability in vulnerable applications, as shown by the Iranian 'MuddyWater' threat actor who was found targeting Israeli organizations using the SysAid software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches High-Severity Vulnerabilities in Firefox, Thunderbird<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-firefox-thunderbird-0?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firefox 104 — as well as Firefox ESR 91.13 and 102.2 — patches a high-severity address bar spoofing issue related to XSLT error handling. The flaw, tracked as CVE-2022-38472, could be exploited for phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

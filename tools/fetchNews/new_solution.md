@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo opens its privacy-focused email service to everyone<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-opens-its-privacy-focused-email-service-to-everyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo has opened its 'Email Protection' service to anyone wishing to get their own '@duck.com' email address.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

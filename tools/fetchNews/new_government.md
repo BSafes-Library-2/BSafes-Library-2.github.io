@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Prepare now for quantum computers, not when hackers use them<a href="https://www.bleepingcomputer.com/news/security/cisa-prepare-now-for-quantum-computers-not-when-hackers-use-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although quantum computing is not commercially available, CISA (Cybersecurity and Infrastructure Security Agency) urges organizations to prepare for the dawn of this new age, which is expected to bring groundbreaking changes in cryptography, and how we protect our secrets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

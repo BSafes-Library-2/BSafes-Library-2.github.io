@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Stole Crypto from Bitcoin ATMs<a href="https://cyware.com/news/attackers-stole-crypto-from-bitcoin-atms-f3ec6501"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers abused a zero-day vulnerability in General Bytes Bitcoin ATM servers, allowing them to hijack transactions related to fund withdrawal and deposits. It's not known how many servers were attacked using the flaw and how much cryptocurrency was stolen. The ATM maker has provided steps to perfor ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Groups Increasingly Adopting Sliver Command-and-Control Framework<a href="https://thehackernews.com/2022/08/cybercrime-groups-increasingly-adopting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state threat actors are&nbsp; increasingly adopting &nbsp;and integrating the Sliver  command-and-control (C2) framework in their intrusion campaigns as a replacement for Cobalt Strike.  "Given Cobalt Strike's popularity as an attack tool, defenses against it have also improved over time," Microsoft security experts&nbsp; said . "Sliver thus presents an attractive alternative for actors looking for a lesser-known toolset with a low barrier for entry."  Sliver, first made public in late 2019 by cybersecurity company BishopFox, is a Go-based&nbsp; open source C2 platform &nbsp;that supports user-developed extensions, custom implant generation, and other commandeering options.   "A C2 framework usually includes a server that accepts connections from implants on a compromised system, and a client application that allows the C2 operators to interact with the implants and launch malicious commands," Microsoft said.  Besides facilitating long-term access to infected hosts, the cross-platform kit is also known
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

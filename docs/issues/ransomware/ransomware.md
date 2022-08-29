@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang gets aggressive with triple-extortion tactic<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-gets-aggressive-with-triple-extortion-tactic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang announced that it is improving defenses against distributed denial-of-service (DDoS) attacks and working to take the operation to triple extortion level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Agenda Ransomware appears in the threat landscape<a href="https://securityaffairs.co/wordpress/134911/cyber-crime/agenda-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers warn of a new ransomware family called Agenda, which has been used in attacks on organizations in Asia and Africa.
+
+
+
+Trend Micro researchers recently discovered a new piece of targeted&nbsp;ransomware, tracked as Agenda, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

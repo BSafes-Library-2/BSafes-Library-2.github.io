@@ -8,6 +8,84 @@ nav_order: 900015
 
 ## Attack
 ---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unprecedented cyber attack hit State Infrastructure of Montenegro<a href="https://securityaffairs.co/wordpress/134900/cyber-warfare-2/montenegro-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state Infrastructure of Montenegro was hit by a massive and "unprecedented" cyber attack, authorities announced.
+
+
+
+An unprecedented cyber attack hit the Government digital infrastructure in Montenegro, the government has timely adopted measures...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Twilio, Cloudflare Attacked in Campaign That Hit Over 130 Organizations<a href="https://www.securityweek.com/twilio-cloudflare-attacked-part-campaign-hit-over-130-organizations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks disclosed recently by Twilio and Cloudflare were part of a massive phishing campaign that targeted at least 130 other organizations, according to cybersecurity company Group-IB.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass developer systems hacked to steal source code<a href="https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management firm LastPass was hacked two weeks ago, enabling threat actors to steal the company's source code and proprietary technical information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GAIROSCOPE attack allows to exfiltrate data from Air-Gapped systems via ultrasonic tones<a href="https://securityaffairs.co/wordpress/134825/hacking/gairoscope-air-gapped-system-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GAIROSCOPE: An Israeli researcher demonstrated how to exfiltrate data from air-gapped systems using ultrasonic tones and smartphone gyroscopes.
+
+
+
+The popular researcher Mordechai Guri from the Ben-Gurion University of the Negev in Israel devise an attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Kimusky Infra Targeting South Korean Politicians and Diplomats<a href="https://thehackernews.com/2022/08/researchers-uncover-kimusky-infra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean nation-state group Kimusky has been linked to a new set of malicious activities directed against political and diplomatic entities located in its southern counterpart in early 2022.  Russian cybersecurity firm Kaspersky codenamed the cluster&nbsp; GoldDragon , with the infection chains leading to the deployment of Windows malware designed to file lists, user keystrokes, and stored web browser login credentials.  Included among the potential victims are South Korean university professors, think tank researchers, and government officials.&nbsp;   Kimsuky , also known as Black Banshee, Thallium, and Velvet Chollima, is the name given to a prolific North Korean advanced persistent threat (APT) group that targets entities globally, but with a primary focus on South Korea, to gain intelligence on various topics of interest to the regime.  Known to be operating since 2012, the group has a history of employing social engineering tactics, spear-phishing, and watering hole attacks to exf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,130 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 27, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploiting Unpatched Log4j 2 Bugs to Target Israeli Organizations<a href="https://thehackernews.com/2022/08/iranian-hackers-exploiting-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-sponsored actors are leaving no stone unturned to exploit unpatched systems running Log4j to target Israeli entities, indicating the vulnerability's&nbsp; long tail &nbsp;for remediation.  Microsoft attributed the latest set of activities to the&nbsp; umbrella threat group &nbsp;tracked as&nbsp; MuddyWater &nbsp;(aka Cobalt Ulster, Mercury, Seedworm, or Static Kitten), which is&nbsp; linked &nbsp;to the Iranian intelligence apparatus, the Ministry of Intelligence and Security (MOIS).   The attacks are notable for using SysAid Server instances unsecured against the&nbsp; Log4Shell flaw &nbsp;as a vector for initial access,&nbsp; marking &nbsp;a&nbsp; departure &nbsp;from the actors' pattern of leveraging VMware applications for breaching target environments.  "After gaining access, Mercury establishes persistence, dumps credentials, and moves laterally within the targeted organization using both custom and well-known hacking tools, as well as built-in operating system tools for its hands-on-keyboard attack," Microsoft&nbsp; said .   The tech gia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actor abuses Genshin Impact Anti-Cheat driver to disable antivirus<a href="https://securityaffairs.co/wordpress/134884/malware/anti-cheat-driver-disable-antivirus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors abused a vulnerable anti-cheat driver for the Genshin Impact video game to disable antivirus software.
+
+
+
+Threat actors abused a vulnerable anti-cheat driver, named mhyprot2.sys, for the Genshin Impact video game to disable antivirus software....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian attackers are using Log4Shell to target organizations in Israel<a href="https://www.zdnet.com/article/microsoft-iranian-attackers-using-log4shell-to-attack-organizations-in-israel/#ftag=RSSbaffb68?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the threat appears to be targeted exclusively at organizations based in Israel, Microsoft is urging all organizations to check whether SysAid is present on the network and apply the firm's patches for the Log4j flaws.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How 'Kimsuky' hackers ensure their malware only reach valid targets<a href="https://www.bleepingcomputer.com/news/security/how-kimsuky-hackers-ensure-their-malware-only-reach-valid-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean 'Kimsuky' threat actors are going to great lengths to ensure that their malicious payloads are only downloaded by valid targets and not on the systems of security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Hackers Behind Twilio and Cloudflare Breach Hit Over 130 Organizations<a href="https://thehackernews.com/2022/08/okta-hackers-behind-twilio-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the attacks on&nbsp; Twilio &nbsp;and&nbsp; Cloudflare &nbsp;earlier this month has been linked to a broader phishing campaign aimed at 136 organizations that resulted in a cumulative compromise of 9,931 accounts.  The activity has been condemned&nbsp; 0ktapus &nbsp;by Group-IB because the initial goal of the attacks was to "obtain Okta identity credentials and two-factor authentication (2FA) codes from users of the targeted organizations."  Calling the attacks well designed and executed, the Singapore-headquartered company said the adversary singled out employees of companies that are customers of identity services provider Okta.   The modus operandi involved sending targets text messages containing links to phishing sites that impersonated the Okta authentication page of the respective targeted entities.  "This case is of interest because despite using low-skill methods it was able to compromise a large number of well-known organizations," Group-IB&nbsp; said . "Furthe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers abuse Genshin Impact anti-cheat system to disable antivirus<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-genshin-impact-anti-cheat-system-to-disable-antivirus/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are abusing an anti-cheat system driver for the immensely popular Genshin Impact game to disable antivirus software while conducting ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are using the Tox P2P messenger as C2 server<a href="https://securityaffairs.co/wordpress/134806/malware/tox-p2p-c2-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the Tox peer-to-peer instant messaging service as a command-and-control server, Uptycs researchers reported. 
+
+
+
+Tox is a peer-to-peer serverless instant messaging services that uses NaCl for encryption and decryption.
+
+
+
+Uptycs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers adopt Sliver toolkit as a Cobalt Strike alternative<a href="https://www.bleepingcomputer.com/news/security/hackers-adopt-sliver-toolkit-as-a-cobalt-strike-alternative/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are dumping the Cobalt Strike penetration testing suite in favor of similar frameworks that are less known. After Brute Ratel, the open-source, cross-platform kit called Sliver is becoming an attractive alternative.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

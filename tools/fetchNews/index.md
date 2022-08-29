@@ -34,6 +34,190 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang gets aggressive with triple-extortion tactic<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-gets-aggressive-with-triple-extortion-tactic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang announced that it is improving defenses against distributed denial-of-service (DDoS) attacks and working to take the operation to triple extortion level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance firm’s leaked docs show the purchase of an $8M iOS RCE zero-day exploit￼<a href="https://securityaffairs.co/wordpress/134962/malware/surveillance-firm-intellexa-offer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaked documents show the surveillance firm Intellexa offering exploits for iOS and Android devices for $8 Million.
+
+
+
+Intellexa is an Israeli surveillance firm founded by Israeli entrepreneur Tal Dilian, it offers surveillance and hacking solution to law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let hackers see Okta's one-time MFA passwords<a href="https://www.bleepingcomputer.com/news/security/twilio-breach-let-hackers-see-oktas-one-time-mfa-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Twilio hack used their access to steal one-time passwords (OTPs) delivered over SMS to from customers of Okta identity and access management company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of the first known phishing attack against PyPI<a href="https://securityaffairs.co/wordpress/134931/cyber-crime/pypi-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) warns of an ongoing phishing campaign to steal developer credentials and distribute malicious updates.
+
+
+
+The Python Package Index, PyPI, this week warned of an ongoing phishing campaign that aims to steal developer credentials...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo opens its privacy-focused email service to everyone<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-opens-its-privacy-focused-email-service-to-everyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo has opened its 'Email Protection' service to anyone wishing to get their own '@duck.com' email address.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 381<a href="https://securityaffairs.co/wordpress/134928/security/security-affairs-newsletter-round-381.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Agenda Ransomware appears in the threat landscape<a href="https://securityaffairs.co/wordpress/134911/cyber-crime/agenda-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers warn of a new ransomware family called Agenda, which has been used in attacks on organizations in Asia and Africa.
+
+
+
+Trend Micro researchers recently discovered a new piece of targeted ransomware, tracked as Agenda, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake 'Cthulhu World' P2E project used to push info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-cthulhu-world-p2e-project-used-to-push-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have created a fake 'Cthulhu World' play-to-earn community, including websites, Discord groups, social accounts, and a Medium developer site, to distribute the Raccoon Stealer, AsyncRAT, and RedLine password-stealing malware infections on unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Prepare now for quantum computers, not when hackers use them<a href="https://www.bleepingcomputer.com/news/security/cisa-prepare-now-for-quantum-computers-not-when-hackers-use-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although quantum computing is not commercially available, CISA (Cybersecurity and Infrastructure Security Agency) urges organizations to prepare for the dawn of this new age, which is expected to bring groundbreaking changes in cryptography, and how we protect our secrets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hackers also breached the food delivery firm DoorDash<a href="https://securityaffairs.co/wordpress/134905/data-breach/twilio-hackers-breached-doordash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio hackers also compromised the food delivery firm DoorDash, the attackers had access to company data, including customer and employee info.
+
+
+
+On-demand food delivery service DoorDash disclosed a data breach, the threat actors behind the Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
