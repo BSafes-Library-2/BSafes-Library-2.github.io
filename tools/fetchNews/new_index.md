@@ -34,7 +34,191 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang gets aggressive with triple-extortion tactic<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-gets-aggressive-with-triple-extortion-tactic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang announced that it is improving defenses against distributed denial-of-service (DDoS) attacks and working to take the operation to triple extortion level.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance firm’s leaked docs show the purchase of an $8M iOS RCE zero-day exploit￼<a href="https://securityaffairs.co/wordpress/134962/malware/surveillance-firm-intellexa-offer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaked documents show the surveillance firm Intellexa offering exploits for iOS and Android devices for $8 Million.
+
+
+
+Intellexa is an Israeli surveillance firm founded by Israeli entrepreneur Tal Dilian, it offers surveillance and hacking solution to law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let hackers see Okta's one-time MFA passwords<a href="https://www.bleepingcomputer.com/news/security/twilio-breach-let-hackers-see-oktas-one-time-mfa-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Twilio hack used their access to steal one-time passwords (OTPs) delivered over SMS to from customers of Okta identity and access management company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of the first known phishing attack against PyPI<a href="https://securityaffairs.co/wordpress/134931/cyber-crime/pypi-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) warns of an ongoing phishing campaign to steal developer credentials and distribute malicious updates.
+
+
+
+The Python Package Index, PyPI, this week warned of an ongoing phishing campaign that aims to steal developer credentials...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo opens its privacy-focused email service to everyone<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-opens-its-privacy-focused-email-service-to-everyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo has opened its 'Email Protection' service to anyone wishing to get their own '@duck.com' email address.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 381<a href="https://securityaffairs.co/wordpress/134928/security/security-affairs-newsletter-round-381.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Agenda Ransomware appears in the threat landscape<a href="https://securityaffairs.co/wordpress/134911/cyber-crime/agenda-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers warn of a new ransomware family called Agenda, which has been used in attacks on organizations in Asia and Africa.
+
+
+
+Trend Micro researchers recently discovered a new piece of targeted ransomware, tracked as Agenda, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake 'Cthulhu World' P2E project used to push info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/fake-cthulhu-world-p2e-project-used-to-push-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have created a fake 'Cthulhu World' play-to-earn community, including websites, Discord groups, social accounts, and a Medium developer site, to distribute the Raccoon Stealer, AsyncRAT, and RedLine password-stealing malware infections on unsuspecting victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Prepare now for quantum computers, not when hackers use them<a href="https://www.bleepingcomputer.com/news/security/cisa-prepare-now-for-quantum-computers-not-when-hackers-use-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although quantum computing is not commercially available, CISA (Cybersecurity and Infrastructure Security Agency) urges organizations to prepare for the dawn of this new age, which is expected to bring groundbreaking changes in cryptography, and how we protect our secrets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hackers also breached the food delivery firm DoorDash<a href="https://securityaffairs.co/wordpress/134905/data-breach/twilio-hackers-breached-doordash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio hackers also compromised the food delivery firm DoorDash, the attackers had access to company data, including customer and employee info.
+
+
+
+On-demand food delivery service DoorDash disclosed a data breach, the threat actors behind the Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The number of companies caught up in the Twilio hack keeps growing<a href="https://arstechnica.com/information-technology/2022/08/the-number-of-companies-caught-up-in-the-twilio-hack-keeps-growing/?&web_view=true"> Full Text</a>
@@ -50,7 +234,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2022
+August 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Exploiting Unpatched Log4j 2 Bugs to Target Israeli Organizations<a href="https://thehackernews.com/2022/08/iranian-hackers-exploiting-unpatched.html"> Full Text</a>
@@ -66,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2022
+August 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unprecedented cyber attack hit State Infrastructure of Montenegro<a href="https://securityaffairs.co/wordpress/134900/cyber-warfare-2/montenegro-cyber-attack.html"> Full Text</a>
@@ -86,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2022
+August 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Ships Urgent Patch for Critical Bitbucket Vulnerability<a href="https://www.securityweek.com/atlassian-ships-urgent-patch-critical-bitbucket-vulnerability?&web_view=true"> Full Text</a>
@@ -102,7 +286,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2022
+August 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Discovered in Atlassian Bitbucket Server and Data Center<a href="https://thehackernews.com/2022/08/critical-vulnerability-discovered-in.html"> Full Text</a>
@@ -118,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2022
+August 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actor abuses Genshin Impact Anti-Cheat driver to disable antivirus<a href="https://securityaffairs.co/wordpress/134884/malware/anti-cheat-driver-disable-antivirus.html"> Full Text</a>
@@ -138,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - August 26th 2022 - Fighting back<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-26th-2022-fighting-back/"> Full Text</a>
@@ -154,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoorDash discloses new data breach tied to Twilio hackers<a href="https://www.bleepingcomputer.com/news/security/doordash-discloses-new-data-breach-tied-to-twilio-hackers/"> Full Text</a>
@@ -170,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Bitbucket Server vulnerable to critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/atlassian-bitbucket-server-vulnerable-to-critical-rce-vulnerability/"> Full Text</a>
@@ -186,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Stole Crypto from Bitcoin ATMs<a href="https://cyware.com/news/attackers-stole-crypto-from-bitcoin-atms-f3ec6501"> Full Text</a>
@@ -202,7 +386,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Breach LastPass Developer System to Steal Source Code<a href="https://thehackernews.com/2022/08/hackers-breach-lastpass-developer.html"> Full Text</a>
@@ -218,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw impacts Atlassian Bitbucket Server and Data Center<a href="https://securityaffairs.co/wordpress/134896/hacking/atlassian-bitbucket-flaw.html"> Full Text</a>
@@ -238,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio breach let hackers gain access to Authy 2FA accounts<a href="https://www.bleepingcomputer.com/news/security/twilio-breach-let-hackers-gain-access-to-authy-2fa-accounts/"> Full Text</a>
@@ -254,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iranian attackers are using Log4Shell to target organizations in Israel<a href="https://www.zdnet.com/article/microsoft-iranian-attackers-using-log4shell-to-attack-organizations-in-israel/#ftag=RSSbaffb68?&web_view=true"> Full Text</a>
@@ -270,7 +454,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Groups Increasingly Adopting Sliver Command-and-Control Framework<a href="https://thehackernews.com/2022/08/cybercrime-groups-increasingly-adopting.html"> Full Text</a>
@@ -286,7 +470,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Mercury APT exploited Log4Shell in SysAid Apps for initial access<a href="https://securityaffairs.co/wordpress/134876/apt/mercury-exploit-log4shell-flaw.html"> Full Text</a>
@@ -306,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iranian hackers still exploiting Log4j bugs against Israel<a href="https://www.bleepingcomputer.com/news/security/microsoft-iranian-hackers-still-exploiting-log4j-bugs-against-israel/"> Full Text</a>
@@ -322,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Vulnerability in ​​Delta Electronics ICS Software Exploited in Attacks<a href="https://www.securityweek.com/cisa-vulnerability-delta-ics-software-exploited-attacks?&web_view=true"> Full Text</a>
@@ -338,7 +522,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoldDragon campaign: North-Korea linked Kimsuky APT adopts victim verification technique<a href="https://securityaffairs.co/wordpress/134864/apt/kimsuky-golddragon-apt.html"> Full Text</a>
@@ -358,7 +542,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Open Sources 'Paranoid' Crypto Testing Library<a href="https://www.securityweek.com/google-open-sources-paranoid-crypto-testing-library?&web_view=true"> Full Text</a>
@@ -374,7 +558,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2022
+August 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 0ktapus phishing campaign: Twilio hackers targeted other 136 organizations<a href="https://securityaffairs.co/wordpress/134851/hacking/0ktapus-phishing-campaign.html"> Full Text</a>
@@ -394,7 +578,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How 'Kimsuky' hackers ensure their malware only reach valid targets<a href="https://www.bleepingcomputer.com/news/security/how-kimsuky-hackers-ensure-their-malware-only-reach-valid-targets/"> Full Text</a>
@@ -410,7 +594,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Twilio, Cloudflare Attacked in Campaign That Hit Over 130 Organizations<a href="https://www.securityweek.com/twilio-cloudflare-attacked-part-campaign-hit-over-130-organizations?&web_view=true"> Full Text</a>
@@ -426,7 +610,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta Hackers Behind Twilio and Cloudflare Breach Hit Over 130 Organizations<a href="https://thehackernews.com/2022/08/okta-hackers-behind-twilio-and.html"> Full Text</a>
@@ -442,7 +626,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Should Uncle Sam Worry About ‘Foreign’ Open-Source Software? Geographic Known Unknowns and Open-Source Software Security<a href="https://www.lawfareblog.com/should-uncle-sam-worry-about-foreign-open-source-software-geographic-known-unknowns-and-open-source"> Full Text</a>
@@ -458,7 +642,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass data breach: threat actors stole a portion of source code<a href="https://securityaffairs.co/wordpress/134858/data-breach/lastpass-data-breach.html"> Full Text</a>
@@ -478,7 +662,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass developer systems hacked to steal source code<a href="https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/"> Full Text</a>
@@ -494,7 +678,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are attempting to steal millions of dollars from businesses by bypassing multi-factor authentication<a href="https://www.zdnet.com/article/hackers-are-attempting-to-steal-millions-of-dollars-from-businesses-by-bypassing-multi-factor-authentication/?&web_view=true"> Full Text</a>
@@ -510,7 +694,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Uncovers New Post-Compromise Malware Used by Nobelium Hackers<a href="https://thehackernews.com/2022/08/microsoft-uncovers-new-post-compromise.html"> Full Text</a>
@@ -526,7 +710,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nobelium APT uses new Post-Compromise malware MagicWeb<a href="https://securityaffairs.co/wordpress/134838/apt/nobelium-magicweb-tool.html"> Full Text</a>
@@ -546,7 +730,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers abuse Genshin Impact anti-cheat system to disable antivirus<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-genshin-impact-anti-cheat-system-to-disable-antivirus/"> Full Text</a>
@@ -562,7 +746,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CFO Spoofed in Convincing Business Email Compromise Scam<a href="https://www.avanan.com/blog/cfo-spoofed-in-convincing-business-email-compromise-scam?&web_view=true"> Full Text</a>
@@ -578,7 +762,7 @@ Avanan
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Spending Billions on Cybersecurity<a href="https://thehackernews.com/2022/08/us-government-spending-billions-on.html"> Full Text</a>
@@ -594,7 +778,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GAIROSCOPE attack allows to exfiltrate data from Air-Gapped systems via ultrasonic tones<a href="https://securityaffairs.co/wordpress/134825/hacking/gairoscope-air-gapped-system-attack.html"> Full Text</a>
@@ -614,7 +798,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Russian malware hijacks ADFS to log in as anyone in Windows<a href="https://www.bleepingcomputer.com/news/security/microsoft-russian-malware-hijacks-adfs-to-log-in-as-anyone-in-windows/"> Full Text</a>
@@ -630,7 +814,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang Ransomware Agenda Customizes Attacks Against Organizations in Asia and Africa<a href="https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html?&web_view=true"> Full Text</a>
@@ -646,7 +830,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Kimusky Infra Targeting South Korean Politicians and Diplomats<a href="https://thehackernews.com/2022/08/researchers-uncover-kimusky-infra.html"> Full Text</a>
@@ -662,7 +846,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are using the Tox P2P messenger as C2 server<a href="https://securityaffairs.co/wordpress/134806/malware/tox-p2p-c2-server.html"> Full Text</a>
@@ -686,7 +870,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio hackers hit over 130 orgs in massive Okta phishing attack<a href="https://www.bleepingcomputer.com/news/security/twilio-hackers-hit-over-130-orgs-in-massive-okta-phishing-attack/"> Full Text</a>
@@ -702,7 +886,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Patches High-Severity Vulnerabilities in Firefox, Thunderbird<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-firefox-thunderbird-0?&web_view=true"> Full Text</a>
@@ -718,7 +902,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Repository Warns Python Project Maintainers About Ongoing Phishing Attacks<a href="https://thehackernews.com/2022/08/pypi-repository-warns-python-project.html"> Full Text</a>
@@ -734,7 +918,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers adopt Sliver toolkit as a Cobalt Strike alternative<a href="https://www.bleepingcomputer.com/news/security/hackers-adopt-sliver-toolkit-as-a-cobalt-strike-alternative/"> Full Text</a>
@@ -750,7 +934,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This company paid a ransom demand. Hackers leaked its data anyway<a href="https://www.zdnet.com/article/this-company-paid-a-ransom-demand-hackers-leaked-its-data-anyway/?&web_view=true"> Full Text</a>
@@ -766,7 +950,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
+August 25, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI packages hijacked after developers fall for phishing emails<a href="https://www.bleepingcomputer.com/news/security/pypi-packages-hijacked-after-developers-fall-for-phishing-emails/"> Full Text</a>
