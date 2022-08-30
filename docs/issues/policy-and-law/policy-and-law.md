@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US FTC sued US data broker Kochava for selling sensitive and geolocation data<a href="https://securityaffairs.co/wordpress/135004/security/ftc-sued-data-broker-kochava.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FTC sued US data broker Kochava for selling sensitive and precise geolocation data collected from hundreds of millions of mobile devices.
+
+
+
+The U.S. Federal Trade Commission (FTC) filed a lawsuit against the US-based data broker Kochava for selling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare CDN clients caught in Austrian fight against pirate sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-cdn-clients-caught-in-austrian-fight-against-pirate-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Excessive and indiscriminate blocking is underway in Austria, with internet service providers (ISPs) complying to a court order to block pirate sites causing significant collateral damage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt sues Kochava for selling sensitive geolocation data<a href="https://www.bleepingcomputer.com/news/security/us-govt-sues-kochava-for-selling-sensitive-geolocation-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) announced today that it filed a lawsuit against Idaho-based location data broker Kochava for selling sensitive and precise geolocation data (in meters) collected from hundreds of millions of mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,446 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hackers increasingly exploit DeFi bugs to steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-increasingly-exploit-defi-bugs-to-steal-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning investors that cyber criminals increasingly exploiting security vulnerabilities in Decentralized Finance (DeFi) platforms to steal cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and Israel Strengthen Cybersecurity Partnership<a href="https://www.nextgov.com/cybersecurity/2022/08/us-and-israel-strengthen-cybersecurity-partnership/376428/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Treasury and Israel’s Ministry of Finance have maintained a partnership in cybersecurity matters since 2021 through a bilateral task force to help protect the financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim<a href="https://thehackernews.com/2022/08/new-golang-based-agenda-ransomware-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain written in Golang dubbed " Agenda " has been spotted in the wild, targeting healthcare and education entities in Indonesia, Saudi Arabia, South Africa, and Thailand.  "Agenda can reboot systems in safe mode, attempts to stop many server-specific processes and services, and has multiple modes to run," Trend Micro researchers  said  in an analysis last week.  Qilin, the threat actor advertising the ransomware on the dark web, is said to provide affiliates with options to tailor the binary payloads for each victim, enabling the operators to decide the ransom note, encryption extension, as well as the list of processes and services to terminate before commencing the encryption process.   Additionally, the ransomware incorporates techniques for detection evasion by taking advantage of the 'safe mode' feature of a device to proceed with its file encryption routine unnoticed, but not before changing the default user's password and enabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US FTC sued US data broker Kochava for selling sensitive and geolocation data<a href="https://securityaffairs.co/wordpress/135004/security/ftc-sued-data-broker-kochava.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FTC sued US data broker Kochava for selling sensitive and precise geolocation data collected from hundreds of millions of mobile devices.
+
+
+
+The U.S. Federal Trade Commission (FTC) filed a lawsuit against the US-based data broker Kochava for selling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nelnet Servicing breach exposes data of 2.5M student loan accounts<a href="https://www.bleepingcomputer.com/news/security/nelnet-servicing-breach-exposes-data-of-25m-student-loan-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nelnet Serving, a Nebraska-based student loan technology services provider, has been breached by unauthorized network intruders who exploited a vulnerability in its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed for OPC UA Vulnerabilities Exploited at ICS Hacking Competition<a href="https://www.securityweek.com/details-disclosed-opc-ua-vulnerabilities-exploited-ics-hacking-competition?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software development and security solutions provider JFrog has disclosed the details of several vulnerabilities affecting the OPC UA protocol, including flaws exploited by its employees at a hacking competition earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nitrokod Crypto Miner Infected Over 111,000 Users with Copies of Popular Software<a href="https://thehackernews.com/2022/08/nitrokod-crypto-miner-infected-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Turkish-speaking entity called Nitrokod  has been attributed to an active cryptocurrency mining campaign that involves impersonating a desktop application for Google Translate to infect over 111,000 victims in 11 countries since 2019.   "The malicious tools can be used by anyone," Maya Horowitz, vice president of research at Check Point, said in a statement shared with The Hacker News. "They can be found by a simple web search, downloaded from a link, and installation is a simple double-click."  The list of countries with victims includes the U.K., the U.S., Sri Lanka, Greece, Israel, Germany, Turkey, Cyprus, Australia, Mongolia, and Poland.   The  campaign  entails serving malware through free software hosted on popular sites such as Softpedia and Uptodown. But in an interesting tactic, the malware puts off its execution for weeks and separates its malicious activity from the downloaded fake software to avoid detection.   The installation of the infected program
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let attackers access Authy two-factor accounts of 93 users<a href="https://securityaffairs.co/wordpress/134984/data-breach/twilio-hack-authy-2fa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Twilio hack also gained access to the accounts of 93 individual users of its Authy two-factor authentication (2FA) service.
+
+
+
+Early August, the communications company Twilio discloses a data breach, threat actors had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading library services firm Baker & Taylor hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/leading-library-services-firm-baker-and-taylor-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baker & Taylor, which describes itself as the world's largest distributor of books to libraries worldwide, today confirmed it's still working on restoring systems after being hit by ransomware more than a week ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kiwi Farms Goes Offline amid DDoS Attack and Hosting Issues<a href="https://www.hackread.com/kiwi-farms-offline-ddos-attack-hosting-issues/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiwi Farms is a website that hosts user-generated content and discussion forums. The site has been accused of doxing, harassment, and cyberbullying. Kiwi Farms has been banned from several social media platforms and domain providers.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A CISO's Ultimate Security Validation Checklist<a href="https://thehackernews.com/2022/08/a-cisos-ultimate-security-validation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're heading out of the office on a well-deserved vacation, are you certain the security controls you have in place will let you rest easy while you're away? More importantly – do you have the right action plan in place for a seamless return?  Whether you're on the way out of – or back to – the office, our Security Validation Checklist can help make sure your security posture is in good shape.  1. Check the logs and security events of your key critical systems . Stay up-to-date on recent activities. Check for changes – and attempted changes – and any potential indicators of compromise. Planning to be gone for longer than a week? Designate a team member to perform a weekly review in your absence, reducing the chances of a critical event going undetected.  2. Check for any new security vulnerabilities that were identified on your vacation . Use your preferred scanning tool or check one of the regularly updated databases, such as  CVE Details .  3. Investigate failures o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nitrokod crypto miner infected systems across 11 countries since 2019<a href="https://securityaffairs.co/wordpress/134985/cyber-crime/nitrokod-crypto-miner-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a Turkish-based crypto miner malware campaign, tracked as Nitrokod, which infected systems across 11 countries.
+
+
+
+Check Point researchers discovered a Turkish based crypto miner malware campaign, dubbed Nitrokod, which infected machines...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows malware delays coinminer install by a month to evade detection<a href="https://www.bleepingcomputer.com/news/security/windows-malware-delays-coinminer-install-by-a-month-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign disguised as Google Translate or MP3 downloader programs was found distributing cryptocurrency mining malware across 11 countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data of Thai Citizens with COVID Symptoms Exposed<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the acquired samples and additional insights related to the security incident, the bad actors were able to gain unauthorized access to the government portal allowing them to manage users and records illegally.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio Breach Also Compromised Authy Two-Factor Accounts of Some Users<a href="https://thehackernews.com/2022/08/twilio-breach-also-compromised-authy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio, which earlier this month became a  sophisticated phishing attack , disclosed last week that the threat actors also managed to gain access to the accounts of 93 individual users of its Authy two-factor authentication (2FA) service.  The communication tools company  said  the unauthorized access made it possible for the adversary to register additional devices to those accounts. It has since identified and removed the illegitimately added devices from the impacted accounts.  Authy, acquired by Twilio in February 2015, allows  safeguarding online accounts  with a second security layer to prevent account takeover attacks. It's estimated to have nearly 75 million users.  Twilio further noted its investigation as of August 24, 2022, turned up 163 affected customers, up from 125 it reported on August 10, whose accounts it said were hacked for a limited period of time.   Besides Twilio, the sprawling campaign, dubbed  0ktapus  by Group-IB, is believed to have struck 136 companies,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 10 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134975/security/cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 10 new flaws to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 10 new vulnerabilities to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare CDN clients caught in Austrian fight against pirate sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-cdn-clients-caught-in-austrian-fight-against-pirate-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Excessive and indiscriminate blocking is underway in Austria, with internet service providers (ISPs) complying to a court order to block pirate sites causing significant collateral damage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Found In India Supreme Court Snooping Investigation<a href="https://www.bankinfosecurity.com/malware-found-in-india-supreme-court-snooping-investigation-a-19918?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into the alleged use of Pegasus spyware on Indian citizens identified malware on five of the 29 volunteers who submitted their devices for forensic examination.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 10 New Known Actively Exploited Vulnerabilities to its Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-10-new-known-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added 10 new actively exploited vulnerabilities to its  Known Exploited Vulnerabilities (KEV) Catalog , including a high-severity security flaw affecting industrial automation software from Delta Electronics.  The issue, tracked as  CVE-2021-38406  (CVSS score: 7.8), impacts DOPSoft 2 versions 2.00.07 and prior. A successful exploitation of the flaw may lead to arbitrary code execution.  "Delta Electronics DOPSoft 2 lacks proper validation of user-supplied data when parsing specific project files (improper input validation) resulting in an out-of-bounds write that allows for code execution," CISA said in an alert.  It's worth noting that CVE-2021-38406 was originally disclosed as part of an industrial control systems (ICS) advisory  published  in September 2021.   However, there are no patches that address the vulnerability, with CISA noting that the "impacted product is end-of-life and shoul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers used a deepfake AI hologram of Binance executive to scam crypto projects<a href="https://securityaffairs.co/wordpress/134942/hacking/binance-scammers-deepfake-video.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers used a deepfake AI hologram of the Binance chief communications officer for fraudulent activities. 
+
+
+
+Patrick Hillmann, chief communications officer of Binance, confirmed that scammers used his Deepfake AI hologram to trick users into online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt sues Kochava for selling sensitive geolocation data<a href="https://www.bleepingcomputer.com/news/security/us-govt-sues-kochava-for-selling-sensitive-geolocation-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) announced today that it filed a lawsuit against Idaho-based location data broker Kochava for selling sensitive and precise geolocation data (in meters) collected from hundreds of millions of mobile devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hampshire Lottery Website Experiences Disruptive Cyberattack<a href="https://www.wmur.com/article/new-hampshire-lottery-website-experiences-cyber-attack/41000488#?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lottery officials announced this cyberattack around 9:30 a.m., though it is unclear when the attack first began. Officials said people visiting the site should not click on any pop-up messages.
+</details>
+<div style="text-align: right" markdown="1">
+WMUR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 data put for sale on Dark Web<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered leaked PII stolen from Thailand’s Department of Medical Sciences containing information about citizens with COVID-19. 
+
+
+
+Resecurity, a California-based cybersecurity company protecting Fortune 500, has identified leaked PII stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Montenegro says Russian cyberattacks threaten key state functions<a href="https://www.bleepingcomputer.com/news/security/montenegro-says-russian-cyberattacks-threaten-key-state-functions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the government in Montenegro are stating that the country is being hit with sophisticated and persistent cyberattacks that threaten the country's essential infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: U.K. NHS cyberattack causing ‘total chaos’ in hospitals could take a year to recover<a href="https://www.independent.co.uk/news/health/nhs-cyber-attack-hospitals-b2153382.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been 22 days since the outage and Carenotes is yet to be restored. Staff at a Birmingham hospital were told on 17 August that restoration could take a further five weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Independent
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta one-time MFA passcodes exposed in Twilio cyberattack<a href="https://www.bleepingcomputer.com/news/security/okta-one-time-mfa-passcodes-exposed-in-twilio-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Twilio hack used their access to steal one-time passwords (OTPs) delivered over SMS to from customers of Okta identity and access management company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

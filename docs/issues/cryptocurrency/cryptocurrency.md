@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nitrokod Crypto Miner Infected Over 111,000 Users with Copies of Popular Software<a href="https://thehackernews.com/2022/08/nitrokod-crypto-miner-infected-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Turkish-speaking entity called Nitrokod  has been attributed to an active cryptocurrency mining campaign that involves impersonating a desktop application for Google Translate to infect over 111,000 victims in 11 countries since 2019.&nbsp;  "The malicious tools can be used by anyone," Maya Horowitz, vice president of research at Check Point, said in a statement shared with The Hacker News. "They can be found by a simple web search, downloaded from a link, and installation is a simple double-click."  The list of countries with victims includes the U.K., the U.S., Sri Lanka, Greece, Israel, Germany, Turkey, Cyprus, Australia, Mongolia, and Poland.   The&nbsp; campaign &nbsp;entails serving malware through free software hosted on popular sites such as Softpedia and Uptodown. But in an interesting tactic, the malware puts off its execution for weeks and separates its malicious activity from the downloaded fake software to avoid detection.   The installation of the infected program
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,98 @@ nav_order: 900029
 
 ## Breach
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nelnet Servicing breach exposes data of 2.5M student loan accounts<a href="https://www.bleepingcomputer.com/news/security/nelnet-servicing-breach-exposes-data-of-25m-student-loan-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nelnet Serving, a Nebraska-based student loan technology services provider, has been breached by unauthorized network intruders who exploited a vulnerability in its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let attackers access Authy two-factor accounts of 93 users<a href="https://securityaffairs.co/wordpress/134984/data-breach/twilio-hack-authy-2fa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Twilio hack also gained access to the accounts of 93 individual users of its Authy two-factor authentication (2FA) service.
+
+
+
+Early August, the communications company Twilio discloses a data breach, threat actors had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data of Thai Citizens with COVID Symptoms Exposed<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the acquired samples and additional insights related to the security incident, the bad actors were able to gain unauthorized access to the government portal allowing them to manage users and records illegally.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio Breach Also Compromised Authy Two-Factor Accounts of Some Users<a href="https://thehackernews.com/2022/08/twilio-breach-also-compromised-authy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio, which earlier this month became a&nbsp; sophisticated phishing attack , disclosed last week that the threat actors also managed to gain access to the accounts of 93 individual users of its Authy two-factor authentication (2FA) service.  The communication tools company&nbsp; said &nbsp;the unauthorized access made it possible for the adversary to register additional devices to those accounts. It has since identified and removed the illegitimately added devices from the impacted accounts.  Authy, acquired by Twilio in February 2015, allows&nbsp; safeguarding online accounts &nbsp;with a second security layer to prevent account takeover attacks. It's estimated to have nearly 75 million users.  Twilio further noted its investigation as of August 24, 2022, turned up 163 affected customers, up from 125 it reported on August 10, whose accounts it said were hacked for a limited period of time.   Besides Twilio, the sprawling campaign, dubbed&nbsp; 0ktapus &nbsp;by Group-IB, is believed to have struck 136 companies,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+COVID-19 data put for sale on Dark Web<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered leaked PII stolen from Thailand’s Department of Medical Sciences containing information about citizens with COVID-19. 
+
+
+
+Resecurity, a California-based cybersecurity company protecting Fortune 500, has identified leaked PII stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta one-time MFA passcodes exposed in Twilio cyberattack<a href="https://www.bleepingcomputer.com/news/security/okta-one-time-mfa-passcodes-exposed-in-twilio-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Twilio hack used their access to steal one-time passwords (OTPs) delivered over SMS to from customers of Okta identity and access management company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

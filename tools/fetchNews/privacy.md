@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance firm’s leaked docs show the purchase of an $8M iOS RCE zero-day exploit￼<a href="https://securityaffairs.co/wordpress/134962/malware/surveillance-firm-intellexa-offer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaked documents show the surveillance firm Intellexa offering exploits for iOS and Android devices for $8 Million.
+
+
+
+Intellexa is an Israeli surveillance firm founded by Israeli entrepreneur Tal Dilian, it offers surveillance and hacking solution to law enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

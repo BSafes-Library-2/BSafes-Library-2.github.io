@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Hackers increasingly exploit DeFi bugs to steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-increasingly-exploit-defi-bugs-to-steal-cryptocurrency/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. and Israel Strengthen Cybersecurity Partnership<a href="https://www.nextgov.com/cybersecurity/2022/08/us-and-israel-strengthen-cybersecurity-partnership/376428/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim<a href="https://thehackernews.com/2022/08/new-golang-based-agenda-ransomware-can.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US FTC sued US data broker Kochava for selling sensitive and geolocation data<a href="https://securityaffairs.co/wordpress/135004/security/ftc-sued-data-broker-kochava.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nelnet Servicing breach exposes data of 2.5M student loan accounts<a href="https://www.bleepingcomputer.com/news/security/nelnet-servicing-breach-exposes-data-of-25m-student-loan-accounts/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Details Disclosed for OPC UA Vulnerabilities Exploited at ICS Hacking Competition<a href="https://www.securityweek.com/details-disclosed-opc-ua-vulnerabilities-exploited-ics-hacking-competition?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nitrokod Crypto Miner Infected Over 111,000 Users with Copies of Popular Software<a href="https://thehackernews.com/2022/08/nitrokod-crypto-miner-infected-over.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio breach let attackers access Authy two-factor accounts of 93 users<a href="https://securityaffairs.co/wordpress/134984/data-breach/twilio-hack-authy-2fa.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leading library services firm Baker & Taylor hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/leading-library-services-firm-baker-and-taylor-hit-by-ransomware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kiwi Farms Goes Offline amid DDoS Attack and Hosting Issues<a href="https://www.hackread.com/kiwi-farms-offline-ddos-attack-hosting-issues/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A CISO's Ultimate Security Validation Checklist<a href="https://thehackernews.com/2022/08/a-cisos-ultimate-security-validation.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nitrokod crypto miner infected systems across 11 countries since 2019<a href="https://securityaffairs.co/wordpress/134985/cyber-crime/nitrokod-crypto-miner-campaign.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows malware delays coinminer install by a month to evade detection<a href="https://www.bleepingcomputer.com/news/security/windows-malware-delays-coinminer-install-by-a-month-to-evade-detection/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Data of Thai Citizens with COVID Symptoms Exposed<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio Breach Also Compromised Authy Two-Factor Accounts of Some Users<a href="https://thehackernews.com/2022/08/twilio-breach-also-compromised-authy.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 10 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134975/security/cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare CDN clients caught in Austrian fight against pirate sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-cdn-clients-caught-in-austrian-fight-against-pirate-sites/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Found In India Supreme Court Snooping Investigation<a href="https://www.bankinfosecurity.com/malware-found-in-india-supreme-court-snooping-investigation-a-19918?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds 10 New Known Actively Exploited Vulnerabilities to its Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-10-new-known-actively.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers used a deepfake AI hologram of Binance executive to scam crypto projects<a href="https://securityaffairs.co/wordpress/134942/hacking/binance-scammers-deepfake-video.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt sues Kochava for selling sensitive geolocation data<a href="https://www.bleepingcomputer.com/news/security/us-govt-sues-kochava-for-selling-sensitive-geolocation-data/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hampshire Lottery Website Experiences Disruptive Cyberattack<a href="https://www.wmur.com/article/new-hampshire-lottery-website-experiences-cyber-attack/41000488#?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ WMUR
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 data put for sale on Dark Web<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Montenegro says Russian cyberattacks threaten key state functions<a href="https://www.bleepingcomputer.com/news/security/montenegro-says-russian-cyberattacks-threaten-key-state-functions/"> Full Text</a>
@@ -442,7 +442,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: U.K. NHS cyberattack causing ‘total chaos’ in hospitals could take a year to recover<a href="https://www.independent.co.uk/news/health/nhs-cyber-attack-hospitals-b2153382.html?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Independent
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2022
+August 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta one-time MFA passcodes exposed in Twilio cyberattack<a href="https://www.bleepingcomputer.com/news/security/okta-one-time-mfa-passcodes-exposed-in-twilio-cyberattack/"> Full Text</a>

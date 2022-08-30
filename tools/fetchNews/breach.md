@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+August 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio breach let hackers see Okta's one-time MFA passwords<a href="https://www.bleepingcomputer.com/news/security/twilio-breach-let-hackers-see-oktas-one-time-mfa-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Twilio hack used their access to steal one-time passwords (OTPs) delivered over SMS to from customers of Okta identity and access management company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio hackers also breached the food delivery firm DoorDash<a href="https://securityaffairs.co/wordpress/134905/data-breach/twilio-hackers-breached-doordash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio hackers also compromised the food delivery firm DoorDash, the attackers had access to company data, including customer and employee info.
+
+
+
+On-demand&nbsp;food delivery&nbsp;service DoorDash disclosed a data breach, the threat actors behind the Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
