@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim<a href="https://thehackernews.com/2022/08/new-golang-based-agenda-ransomware-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain written in Golang dubbed " Agenda " has been spotted in the wild, targeting healthcare and education entities in Indonesia, Saudi Arabia, South Africa, and Thailand.  "Agenda can reboot systems in safe mode, attempts to stop many server-specific processes and services, and has multiple modes to run," Trend Micro researchers&nbsp; said &nbsp;in an analysis last week.  Qilin, the threat actor advertising the ransomware on the dark web, is said to provide affiliates with options to tailor the binary payloads for each victim, enabling the operators to decide the ransom note, encryption extension, as well as the list of processes and services to terminate before commencing the encryption process.   Additionally, the ransomware incorporates techniques for detection evasion by taking advantage of the 'safe mode' feature of a device to proceed with its file encryption routine unnoticed, but not before changing the default user's password and enabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

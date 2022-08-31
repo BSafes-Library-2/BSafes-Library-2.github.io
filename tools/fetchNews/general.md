@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A CISO's Ultimate Security Validation Checklist<a href="https://thehackernews.com/2022/08/a-cisos-ultimate-security-validation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're heading out of the office on a well-deserved vacation, are you certain the security controls you have in place will let you rest easy while you're away? More importantly – do you have the right action plan in place for a seamless return?  Whether you're on the way out of – or back to – the office, our Security Validation Checklist can help make sure your security posture is in good shape.  1. Check the logs and security events of your key critical systems . Stay up-to-date on recent activities. Check for changes – and attempted changes – and any potential indicators of compromise. Planning to be gone for longer than a week? Designate a team member to perform a weekly review in your absence, reducing the chances of a critical event going undetected.  2. Check for any new security vulnerabilities that were identified on your vacation . Use your preferred scanning tool or check one of the regularly updated databases, such as&nbsp; CVE Details .  3. Investigate failures o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Montenegro says Russian cyberattacks threaten key state functions<a href="https://www.bleepingcomputer.com/news/security/montenegro-says-russian-cyberattacks-threaten-key-state-functions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the government in Montenegro are stating that the country is being hit with sophisticated and persistent cyberattacks that threaten the country's essential infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

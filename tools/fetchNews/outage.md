@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hampshire Lottery Website Experiences Disruptive Cyberattack<a href="https://www.wmur.com/article/new-hampshire-lottery-website-experiences-cyber-attack/41000488#?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lottery officials announced this cyberattack around 9:30 a.m., though it is unclear when the attack first began. Officials said people visiting the site should not click on any pop-up messages.
+</details>
+<div style="text-align: right" markdown="1">
+WMUR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

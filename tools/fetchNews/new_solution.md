@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Galois Open Sources Tools for Finding Vulnerabilities in C, C++ Code<a href="https://www.securityweek.com/galois-open-sources-tools-finding-vulnerabilities-c-c-code?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now available under the BSD 3-clause license, MATE relies on code property graphs (CPGs) for static program analysis, and can identify application-specific bugs that depend on implementation details and high-level semantics.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands-on Review: Stellar Cyber Security Operations Platform for MSSPs<a href="https://thehackernews.com/2022/08/hands-on-review-stellar-cyber-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As threat complexity increases and the boundaries of an organization have all but disappeared, security teams are more challenged than ever to deliver consistent security outcomes. One company aiming to help security teams meet this challenge is&nbsp; Stellar Cyber .&nbsp;  Stellar Cyber claims to address the needs of MSSPs by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their Open XDR platform, managed with a single license. According to Stellar Cyber, this consolidation means faster security analyst ramp time and customer onboarding with far less manually intensive tasks required. Stellar Cyber currently counts 20+ of the top MSSP providers as customers, providing security for over 3 million assets. In addition, stellar Cyber claims after deployment, users see up to 20x faster mean time to respond (MTTR), a bold claim.  We recently took a closer look at the Stellar Cyber Security Operations Platform.&nbsp;  Before we begin  Before digging into the platform, here are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

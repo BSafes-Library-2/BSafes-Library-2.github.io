@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine takes down cybercrime group hitting crypto fraud victims<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-cybercrime-group-hitting-crypto-fraud-victims/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cerberus Sentinel Announces Acquisition of CUATROi<a href="https://www.darkreading.com/cloud/cerberus-sentinel-announces-acquisition-of-cuatroi?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use ModernLoader to Infect Systems with Stealers and Cryptominers<a href="https://thehackernews.com/2022/08/hackers-use-modernloader-to-infect.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Cyclops Blink’ Shows Why the SEC’s Proposed Cybersecurity Disclosure Rule Could Undermine the Nation’s Cybersecurity<a href="https://www.lawfareblog.com/cyclops-blink-shows-why-secs-proposed-cybersecurity-disclosure-rule-could-undermine-nations"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Google bug bounty program now covers Open Source projects￼<a href="https://securityaffairs.co/wordpress/135059/security/google-bug-bounty-open-source.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hide malware in James Webb telescope images<a href="https://www.bleepingcomputer.com/news/security/hackers-hide-malware-in-james-webb-telescope-images/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Galois Open Sources Tools for Finding Vulnerabilities in C, C++ Code<a href="https://www.securityweek.com/galois-open-sources-tools-finding-vulnerabilities-c-c-code?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hands-on Review: Stellar Cyber Security Operations Platform for MSSPs<a href="https://thehackernews.com/2022/08/hands-on-review-stellar-cyber-security.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three campaigns delivering multiple malware, including ModernLoader and XMRig miner<a href="https://securityaffairs.co/wordpress/135046/malware/malware-campaigns-modernloader.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian streaming platform confirms data breach affecting 7.5M users<a href="https://www.bleepingcomputer.com/news/security/russian-streaming-platform-confirms-data-breach-affecting-75m-users/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT40 Hackers Targeted Australian Manufacturers, Wind Turbine Operators Using ScanBox Malware<a href="https://www.cyberscoop.com/chinese-hackers-australian-manufacturers/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India's Newest Airline Akasa Air Found Leaking Passengers' Personal Information<a href="https://thehackernews.com/2022/08/indias-newest-airline-akasa-air-suffers.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A study on malicious plugins in WordPress Marketplaces<a href="https://securityaffairs.co/wordpress/135032/reports/wordpress-malicious-plugins.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers target Australian govt with ScanBox malware<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-australian-govt-with-scanbox-malware/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Launches Bug Bounty Program for Open Source Projects<a href="https://www.securityweek.com/google-launches-bug-bounty-program-open-source-projects?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns Investors to Take Precautions with Decentralized Financial Platforms<a href="https://thehackernews.com/2022/08/fbi-warns-investors-to-take-precautions.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 World’s largest distributors of books Baker & Taylor hit by ransomware<a href="https://securityaffairs.co/wordpress/135026/cyber-crime/baker-taylor-ransomware.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome extensions with 1.4 million installs steal browsing data<a href="https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Invests AU$9.9 Billion in Cybersecurity<a href="https://securityintelligence.com/news/australian-government-invests-cybersecurity/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Sues Data Broker Over Selling Location Data for Hundreds of Millions of Phones<a href="https://thehackernews.com/2022/08/ftc-sues-data-broker-over-selling.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks are increasingly targeting DeFi platforms to steal cryptocurrency<a href="https://securityaffairs.co/wordpress/135017/cyber-crime/fbi-warns-defi-attacks.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google launches open-source software bug bounty program<a href="https://www.bleepingcomputer.com/news/google/google-launches-open-source-software-bug-bounty-program/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
+August 30, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Known Phishing Campaign Against PyPI<a href="https://cyware.com/news/first-known-phishing-campaign-against-pypi-f5331948"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pirate sites ban in Austria took down Cloudflare CDNs by mistake<a href="https://www.bleepingcomputer.com/news/security/pirate-sites-ban-in-austria-took-down-cloudflare-cdns-by-mistake/"> Full Text</a>

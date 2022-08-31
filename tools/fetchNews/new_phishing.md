@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Known Phishing Campaign Against PyPI<a href="https://cyware.com/news/first-known-phishing-campaign-against-pypi-f5331948"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers send security-themed emails creating a false sense of urgency.&nbsp;The lure included informing targets that Google is executing a mandatory validation process on all packages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

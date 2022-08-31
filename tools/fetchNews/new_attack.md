@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three campaigns delivering multiple malware, including ModernLoader and XMRig miner<a href="https://securityaffairs.co/wordpress/135046/malware/malware-campaigns-modernloader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted three campaigns delivering multiple malware, including ModernLoader, RedLine Stealer, and cryptocurrency miners
+
+
+
+Cisco Talos researchers observed three separate, but related, campaigns between March and June 2022 that were delivering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World’s largest distributors of books Baker &amp; Taylor hit by ransomware<a href="https://securityaffairs.co/wordpress/135026/cyber-crime/baker-taylor-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baker &amp; Taylor, one of the world's largest distributors of books, revealed that it was hit by a ransomware attack.
+
+
+
+Baker &amp; Taylor, one of the world's largest distributors of books worldwide, suffered a ransomware attack on August 23. The incident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

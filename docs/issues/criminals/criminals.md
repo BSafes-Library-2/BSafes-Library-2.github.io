@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine takes down cybercrime group hitting crypto fraud victims<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-cybercrime-group-hitting-crypto-fraud-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Police of Ukraine (NPU) took down a network of call centers used by a cybercrime group focused on financial scams and targeting victims of cryptocurrency scams under the guise of helping them recover their stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks are increasingly targeting DeFi platforms to steal cryptocurrency<a href="https://securityaffairs.co/wordpress/135017/cyber-crime/fbi-warns-defi-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI warns investors that crooks are increasingly exploiting security issues in Decentralized Finance (DeFi) platforms to steal cryptocurrency.
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) published a Public Service Announcement (PSA) to warn...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

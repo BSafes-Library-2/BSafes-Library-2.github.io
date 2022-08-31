@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers used a deepfake AI hologram of Binance executive to scam crypto projects<a href="https://securityaffairs.co/wordpress/134942/hacking/binance-scammers-deepfake-video.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers used a deepfake AI hologram of the Binance chief communications officer for fraudulent activities. 
+
+
+
+Patrick Hillmann, chief communications officer of Binance, confirmed that scammers used his Deepfake AI hologram to trick users into online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

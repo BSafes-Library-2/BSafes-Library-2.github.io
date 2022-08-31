@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kiwi Farms Goes Offline amid DDoS Attack and Hosting Issues<a href="https://www.hackread.com/kiwi-farms-offline-ddos-attack-hosting-issues/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiwi Farms is a website that hosts user-generated content and discussion forums. The site has been accused of doxing, harassment, and cyberbullying. Kiwi Farms has been banned from several social media platforms and domain providers.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

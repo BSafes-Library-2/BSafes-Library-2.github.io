@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hackers increasingly exploit DeFi bugs to steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-increasingly-exploit-defi-bugs-to-steal-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI)&nbsp;is warning investors that&nbsp;cyber criminals increasingly exploiting security vulnerabilities in Decentralized Finance (DeFi) platforms to steal cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and Israel Strengthen Cybersecurity Partnership<a href="https://www.nextgov.com/cybersecurity/2022/08/us-and-israel-strengthen-cybersecurity-partnership/376428/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Treasury and Israel’s Ministry of Finance have maintained a partnership in cybersecurity matters since 2021 through a bilateral task force to help protect the financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 10 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134975/security/cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 10 new flaws to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 10 new vulnerabilities to its&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 10 New Known Actively Exploited Vulnerabilities to its Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-10-new-known-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added 10 new actively exploited vulnerabilities to its&nbsp; Known Exploited Vulnerabilities (KEV) Catalog , including a high-severity security flaw affecting industrial automation software from Delta Electronics.  The issue, tracked as&nbsp; CVE-2021-38406 &nbsp;(CVSS score: 7.8), impacts DOPSoft 2 versions 2.00.07 and prior. A successful exploitation of the flaw may lead to arbitrary code execution.  "Delta Electronics DOPSoft 2 lacks proper validation of user-supplied data when parsing specific project files (improper input validation) resulting in an out-of-bounds write that allows for code execution," CISA said in an alert.  It's worth noting that CVE-2021-38406 was originally disclosed as part of an industrial control systems (ICS) advisory&nbsp; published &nbsp;in September 2021.   However, there are no patches that address the vulnerability, with CISA noting that the "impacted product is end-of-life and shoul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

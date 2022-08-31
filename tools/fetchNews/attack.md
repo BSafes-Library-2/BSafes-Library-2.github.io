@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading library services firm Baker &amp; Taylor hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/leading-library-services-firm-baker-and-taylor-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baker &amp; Taylor, which describes itself as the world's largest distributor of books to libraries worldwide, today confirmed it's still working on restoring systems after being hit by ransomware more than a week ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: U.K. NHS cyberattack causing ‘total chaos’ in hospitals could take a year to recover<a href="https://www.independent.co.uk/news/health/nhs-cyber-attack-hospitals-b2153382.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been 22 days since the outage and Carenotes is yet to be restored. Staff at a Birmingham hospital were told on 17 August that restoration could take a further five weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Independent
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

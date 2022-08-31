@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cerberus Sentinel Announces Acquisition of CUATROi<a href="https://www.darkreading.com/cloud/cerberus-sentinel-announces-acquisition-of-cuatroi?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cerberus Cyber Sentinel Corporation announced that it has completed the acquisition of CUATROi, a cloud-based managed services provider and cybersecurity company with headquarters in Santiago, Chile, and offices in Bogotá, Colombia, and Lima, Peru.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT40 Hackers Targeted Australian Manufacturers, Wind Turbine Operators Using ScanBox Malware<a href="https://www.cyberscoop.com/chinese-hackers-australian-manufacturers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this latest campaign that took place between April and June, the hacking group appeared to focus on global heavy industry manufacturers that conduct maintenance of fleets of wind turbines in the South China Sea.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

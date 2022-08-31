@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Cyclops Blink’ Shows Why the SEC’s Proposed Cybersecurity Disclosure Rule Could Undermine the Nation’s Cybersecurity<a href="https://www.lawfareblog.com/cyclops-blink-shows-why-secs-proposed-cybersecurity-disclosure-rule-could-undermine-nations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Well-timed public notification is a critical component of proper incident response. But mandating premature disclosure is irresponsible and would imperil public-private coordination focused on protecting the nation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Sues Data Broker Over Selling Location Data for Hundreds of Millions of Phones<a href="https://thehackernews.com/2022/08/ftc-sues-data-broker-over-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) on Monday said it filed a lawsuit against Kochava, a location data broker, for collecting and selling precise geolocation data gathered from consumers' mobile devices.  The complaint alleges that the U.S. company&nbsp; amasses &nbsp;a "wealth of information" about users by purchasing data from other data brokers to sell to its own clients.  "Kochava then sells customized data feeds to its clients to, among other purposes, assist in advertising and analyzing foot traffic at stores or other locations," the FTC&nbsp; said . "Among other categories, Kochava sells timestamped latitude and longitude coordinates showing the location of mobile devices."  The company advertises itself as a "real-time data solutions company" and the "largest independent data marketplace for connected devices." It also claims its&nbsp; Kochava Collective &nbsp;data marketplace provides "premium data feeds, audience targeting, and audience
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

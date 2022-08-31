@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed for OPC UA Vulnerabilities Exploited at ICS Hacking Competition<a href="https://www.securityweek.com/details-disclosed-opc-ua-vulnerabilities-exploited-ics-hacking-competition?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software development and security solutions provider JFrog has disclosed the details of several vulnerabilities affecting the OPC UA protocol, including flaws exploited by its employees at a hacking competition earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

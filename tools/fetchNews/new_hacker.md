@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use ModernLoader to Infect Systems with Stealers and Cryptominers<a href="https://thehackernews.com/2022/08/hackers-use-modernloader-to-infect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as three disparate but related campaigns between March and Jun 2022 have been found to deliver a variety of malware, including ModernLoader, RedLine Stealer, and cryptocurrency miners onto compromised systems.  "The actors use PowerShell, .NET assemblies, and HTA and VBS files to spread across a targeted network, eventually dropping other pieces of malware, such as the&nbsp; SystemBC &nbsp;trojan and&nbsp; DCRat , to enable various stages of their operations," Cisco Talos researcher Vanja Svajcer said in a report  shared with The Hacker News.   The malicious implant in question, ModernLoader , is designed to provide attackers with remote control over the victim's machine, which enables the adversaries to deploy additional malware, steal sensitive information, or even ensnare the computer in a botnet.  Cisco Talos attributed the infections to a previously undocumented but Russian-speaking threat actor, citing the use of off-the-shelf tools. Potential targets included Eastern Eur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers target Australian govt with ScanBox malware<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-australian-govt-with-scanbox-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-based threat actors have been targeting Australian government agencies and wind turbine fleets in the South China Sea by directing select individuals to a fake impersonating an Australian news media outlet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

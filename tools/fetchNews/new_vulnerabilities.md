@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Google bug bounty program now covers Open Source projects￼<a href="https://securityaffairs.co/wordpress/135059/security/google-bug-bounty-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week launched a new bug bounty program that covers the open source projects of the IT giant.
+
+
+
+Google launched a new bug bounty program as part of the new Open Source Software Vulnerability Rewards Program (OSS VRP) that covers the source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches Bug Bounty Program for Open Source Projects<a href="https://www.securityweek.com/google-launches-bug-bounty-program-open-source-projects?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the new Open Source Software Vulnerability Rewards Program (OSS VRP), Google is offering bug bounty payouts of up to $31,337. The lowest vulnerability reward will be $100.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches open-source software bug bounty program<a href="https://www.bleepingcomputer.com/news/google/google-launches-open-source-software-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will now pay security researchers to find and report bugs in the latest versions of Google-released open-source software (Google OSS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
