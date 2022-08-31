@@ -34,7 +34,411 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine takes down cybercrime group hitting crypto fraud victims<a href="https://www.bleepingcomputer.com/news/security/ukraine-takes-down-cybercrime-group-hitting-crypto-fraud-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Police of Ukraine (NPU) took down a network of call centers used by a cybercrime group focused on financial scams and targeting victims of cryptocurrency scams under the guise of helping them recover their stolen funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cerberus Sentinel Announces Acquisition of CUATROi<a href="https://www.darkreading.com/cloud/cerberus-sentinel-announces-acquisition-of-cuatroi?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cerberus Cyber Sentinel Corporation announced that it has completed the acquisition of CUATROi, a cloud-based managed services provider and cybersecurity company with headquarters in Santiago, Chile, and offices in Bogotá, Colombia, and Lima, Peru.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use ModernLoader to Infect Systems with Stealers and Cryptominers<a href="https://thehackernews.com/2022/08/hackers-use-modernloader-to-infect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as three disparate but related campaigns between March and Jun 2022 have been found to deliver a variety of malware, including ModernLoader, RedLine Stealer, and cryptocurrency miners onto compromised systems.  "The actors use PowerShell, .NET assemblies, and HTA and VBS files to spread across a targeted network, eventually dropping other pieces of malware, such as the  SystemBC  trojan and  DCRat , to enable various stages of their operations," Cisco Talos researcher Vanja Svajcer said in a report  shared with The Hacker News.   The malicious implant in question, ModernLoader , is designed to provide attackers with remote control over the victim's machine, which enables the adversaries to deploy additional malware, steal sensitive information, or even ensnare the computer in a botnet.  Cisco Talos attributed the infections to a previously undocumented but Russian-speaking threat actor, citing the use of off-the-shelf tools. Potential targets included Eastern Eur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Cyclops Blink’ Shows Why the SEC’s Proposed Cybersecurity Disclosure Rule Could Undermine the Nation’s Cybersecurity<a href="https://www.lawfareblog.com/cyclops-blink-shows-why-secs-proposed-cybersecurity-disclosure-rule-could-undermine-nations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Well-timed public notification is a critical component of proper incident response. But mandating premature disclosure is irresponsible and would imperil public-private coordination focused on protecting the nation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Google bug bounty program now covers Open Source projects￼<a href="https://securityaffairs.co/wordpress/135059/security/google-bug-bounty-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week launched a new bug bounty program that covers the open source projects of the IT giant.
+
+
+
+Google launched a new bug bounty program as part of the new Open Source Software Vulnerability Rewards Program (OSS VRP) that covers the source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hide malware in James Webb telescope images<a href="https://www.bleepingcomputer.com/news/security/hackers-hide-malware-in-james-webb-telescope-images/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a new malware campaign dubbed 'GO#WEBBFUSCATOR' that relies on phishing emails, malicious documents, and space images from the James Webb telescope to spread malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Galois Open Sources Tools for Finding Vulnerabilities in C, C++ Code<a href="https://www.securityweek.com/galois-open-sources-tools-finding-vulnerabilities-c-c-code?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now available under the BSD 3-clause license, MATE relies on code property graphs (CPGs) for static program analysis, and can identify application-specific bugs that depend on implementation details and high-level semantics.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands-on Review: Stellar Cyber Security Operations Platform for MSSPs<a href="https://thehackernews.com/2022/08/hands-on-review-stellar-cyber-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As threat complexity increases and the boundaries of an organization have all but disappeared, security teams are more challenged than ever to deliver consistent security outcomes. One company aiming to help security teams meet this challenge is  Stellar Cyber .   Stellar Cyber claims to address the needs of MSSPs by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their Open XDR platform, managed with a single license. According to Stellar Cyber, this consolidation means faster security analyst ramp time and customer onboarding with far less manually intensive tasks required. Stellar Cyber currently counts 20+ of the top MSSP providers as customers, providing security for over 3 million assets. In addition, stellar Cyber claims after deployment, users see up to 20x faster mean time to respond (MTTR), a bold claim.  We recently took a closer look at the Stellar Cyber Security Operations Platform.   Before we begin  Before digging into the platform, here are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three campaigns delivering multiple malware, including ModernLoader and XMRig miner<a href="https://securityaffairs.co/wordpress/135046/malware/malware-campaigns-modernloader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted three campaigns delivering multiple malware, including ModernLoader, RedLine Stealer, and cryptocurrency miners
+
+
+
+Cisco Talos researchers observed three separate, but related, campaigns between March and June 2022 that were delivering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian streaming platform confirms data breach affecting 7.5M users<a href="https://www.bleepingcomputer.com/news/security/russian-streaming-platform-confirms-data-breach-affecting-75m-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian media streaming platform 'START' (start.ru) has confirmed rumors of a data breach impacting millions of users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT40 Hackers Targeted Australian Manufacturers, Wind Turbine Operators Using ScanBox Malware<a href="https://www.cyberscoop.com/chinese-hackers-australian-manufacturers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this latest campaign that took place between April and June, the hacking group appeared to focus on global heavy industry manufacturers that conduct maintenance of fleets of wind turbines in the South China Sea.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Newest Airline Akasa Air Found Leaking Passengers' Personal Information<a href="https://thehackernews.com/2022/08/indias-newest-airline-akasa-air-suffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akasa Air, India's newest commercial airline, exposed the personal data belonging to its customers that the company blamed on a technical configuration error.  According to security researcher Ashutosh Barot , the issue is rooted in the account registration process, leading to the exposure of details such as names, gender, email addresses, and phone numbers.  The bug was identified on August 7, 2022, the same day the low-cost airline commenced its operations in the country.   "I found an HTTP request which gave my name, email, phone number, gender, etc. in JSON format," Barot  said  in a write-up. "I immediately changed some parameters in [the] request and I was able to see other user's PII. It took around ~30 minutes to find this issue."   Upon receiving the report, the company  said  it temporarily shut down parts of its system to incorporate additional security guardrails. It has also reported the incident to the Indian Computer Emergency Response Team (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A study on malicious plugins in WordPress Marketplaces<a href="https://securityaffairs.co/wordpress/135032/reports/wordpress-malicious-plugins.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers from the Georgia Institute of Technology discovered malicious plugins on tens of thousands of WordPress sites.
+
+
+
+A team of researchers from the Georgia Institute of Technology has analyzed the backups of more than 400,000 unique...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers target Australian govt with ScanBox malware<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-australian-govt-with-scanbox-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-based threat actors have been targeting Australian government agencies and wind turbine fleets in the South China Sea by directing select individuals to a fake impersonating an Australian news media outlet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches Bug Bounty Program for Open Source Projects<a href="https://www.securityweek.com/google-launches-bug-bounty-program-open-source-projects?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the new Open Source Software Vulnerability Rewards Program (OSS VRP), Google is offering bug bounty payouts of up to $31,337. The lowest vulnerability reward will be $100.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Investors to Take Precautions with Decentralized Financial Platforms<a href="https://thehackernews.com/2022/08/fbi-warns-investors-to-take-precautions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Monday warned of cyber criminals increasingly exploiting flaws in decentralized finance (DeFi) platforms to plunder cryptocurrency.  "The FBI has observed cyber criminals exploiting vulnerabilities in the smart contracts governing DeFi platforms to steal investors' cryptocurrency," the agency  said  in a notification.  Attackers are said to have used different methods to hack and steal cryptocurrency from DeFi platforms, including initiating flash loans that trigger exploits in the platforms' smart contracts and exploiting signature verification flaws in their token bridge to withdraw all investments.   The agency has also observed criminals defrauding the platforms by manipulating cryptocurrency price pairs – assets that can be traded for each other on an exchange – by exploiting a series of vulnerabilities to bypass  slippage checks  and steal roughly $35 million in digital funds.  It further said that the threat ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+World’s largest distributors of books Baker & Taylor hit by ransomware<a href="https://securityaffairs.co/wordpress/135026/cyber-crime/baker-taylor-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baker & Taylor, one of the world's largest distributors of books, revealed that it was hit by a ransomware attack.
+
+
+
+Baker & Taylor, one of the world's largest distributors of books worldwide, suffered a ransomware attack on August 23. The incident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome extensions with 1.4 million installs steal browsing data<a href="https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts at McAfee found five Google Chrome extensions that steal track users' browsing activity. Collectively, the extensions have been downloaded  more then 1.4  million times.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Invests AU$9.9 Billion in Cybersecurity<a href="https://securityintelligence.com/news/australian-government-invests-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the REDSPICE Blueprint, the purpose of the initiative is to build on Australia’s strong cybersecurity foundation by expanding the range and sophistication of the country’s intelligence and offensive and defensive cyber capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Sues Data Broker Over Selling Location Data for Hundreds of Millions of Phones<a href="https://thehackernews.com/2022/08/ftc-sues-data-broker-over-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) on Monday said it filed a lawsuit against Kochava, a location data broker, for collecting and selling precise geolocation data gathered from consumers' mobile devices.  The complaint alleges that the U.S. company  amasses  a "wealth of information" about users by purchasing data from other data brokers to sell to its own clients.  "Kochava then sells customized data feeds to its clients to, among other purposes, assist in advertising and analyzing foot traffic at stores or other locations," the FTC  said . "Among other categories, Kochava sells timestamped latitude and longitude coordinates showing the location of mobile devices."  The company advertises itself as a "real-time data solutions company" and the "largest independent data marketplace for connected devices." It also claims its  Kochava Collective  data marketplace provides "premium data feeds, audience targeting, and audience
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks are increasingly targeting DeFi platforms to steal cryptocurrency<a href="https://securityaffairs.co/wordpress/135017/cyber-crime/fbi-warns-defi-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI warns investors that crooks are increasingly exploiting security issues in Decentralized Finance (DeFi) platforms to steal cryptocurrency.
+
+
+
+The U.S. Federal Bureau of Investigation (FBI) published a Public Service Announcement (PSA) to warn...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches open-source software bug bounty program<a href="https://www.bleepingcomputer.com/news/google/google-launches-open-source-software-bug-bounty-program/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will now pay security researchers to find and report bugs in the latest versions of Google-released open-source software (Google OSS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Known Phishing Campaign Against PyPI<a href="https://cyware.com/news/first-known-phishing-campaign-against-pypi-f5331948"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers send security-themed emails creating a false sense of urgency. The lure included informing targets that Google is executing a mandatory validation process on all packages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pirate sites ban in Austria took down Cloudflare CDNs by mistake<a href="https://www.bleepingcomputer.com/news/security/pirate-sites-ban-in-austria-took-down-cloudflare-cdns-by-mistake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Excessive and indiscriminate blocking is underway in Austria, with internet service providers (ISPs) complying to a court order to block pirate sites causing significant collateral damage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Hackers increasingly exploit DeFi bugs to steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-increasingly-exploit-defi-bugs-to-steal-cryptocurrency/"> Full Text</a>
@@ -50,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. and Israel Strengthen Cybersecurity Partnership<a href="https://www.nextgov.com/cybersecurity/2022/08/us-and-israel-strengthen-cybersecurity-partnership/376428/?&web_view=true"> Full Text</a>
@@ -66,7 +470,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim<a href="https://thehackernews.com/2022/08/new-golang-based-agenda-ransomware-can.html"> Full Text</a>
@@ -82,7 +486,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US FTC sued US data broker Kochava for selling sensitive and geolocation data<a href="https://securityaffairs.co/wordpress/135004/security/ftc-sued-data-broker-kochava.html"> Full Text</a>
@@ -102,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nelnet Servicing breach exposes data of 2.5M student loan accounts<a href="https://www.bleepingcomputer.com/news/security/nelnet-servicing-breach-exposes-data-of-25m-student-loan-accounts/"> Full Text</a>
@@ -118,7 +522,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Details Disclosed for OPC UA Vulnerabilities Exploited at ICS Hacking Competition<a href="https://www.securityweek.com/details-disclosed-opc-ua-vulnerabilities-exploited-ics-hacking-competition?&web_view=true"> Full Text</a>
@@ -134,7 +538,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nitrokod Crypto Miner Infected Over 111,000 Users with Copies of Popular Software<a href="https://thehackernews.com/2022/08/nitrokod-crypto-miner-infected-over.html"> Full Text</a>
@@ -150,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio breach let attackers access Authy two-factor accounts of 93 users<a href="https://securityaffairs.co/wordpress/134984/data-breach/twilio-hack-authy-2fa.html"> Full Text</a>
@@ -170,7 +574,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leading library services firm Baker & Taylor hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/leading-library-services-firm-baker-and-taylor-hit-by-ransomware/"> Full Text</a>
@@ -186,7 +590,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kiwi Farms Goes Offline amid DDoS Attack and Hosting Issues<a href="https://www.hackread.com/kiwi-farms-offline-ddos-attack-hosting-issues/?&web_view=true"> Full Text</a>
@@ -202,7 +606,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A CISO's Ultimate Security Validation Checklist<a href="https://thehackernews.com/2022/08/a-cisos-ultimate-security-validation.html"> Full Text</a>
@@ -218,7 +622,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nitrokod crypto miner infected systems across 11 countries since 2019<a href="https://securityaffairs.co/wordpress/134985/cyber-crime/nitrokod-crypto-miner-campaign.html"> Full Text</a>
@@ -238,7 +642,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows malware delays coinminer install by a month to evade detection<a href="https://www.bleepingcomputer.com/news/security/windows-malware-delays-coinminer-install-by-a-month-to-evade-detection/"> Full Text</a>
@@ -254,7 +658,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Data of Thai Citizens with COVID Symptoms Exposed<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html?&web_view=true"> Full Text</a>
@@ -270,7 +674,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio Breach Also Compromised Authy Two-Factor Accounts of Some Users<a href="https://thehackernews.com/2022/08/twilio-breach-also-compromised-authy.html"> Full Text</a>
@@ -286,7 +690,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 10 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/134975/security/cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -306,7 +710,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare CDN clients caught in Austrian fight against pirate sites<a href="https://www.bleepingcomputer.com/news/security/cloudflare-cdn-clients-caught-in-austrian-fight-against-pirate-sites/"> Full Text</a>
@@ -322,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Found In India Supreme Court Snooping Investigation<a href="https://www.bankinfosecurity.com/malware-found-in-india-supreme-court-snooping-investigation-a-19918?&web_view=true"> Full Text</a>
@@ -338,7 +742,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds 10 New Known Actively Exploited Vulnerabilities to its Catalog<a href="https://thehackernews.com/2022/08/cisa-adds-10-new-known-actively.html"> Full Text</a>
@@ -354,7 +758,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers used a deepfake AI hologram of Binance executive to scam crypto projects<a href="https://securityaffairs.co/wordpress/134942/hacking/binance-scammers-deepfake-video.html"> Full Text</a>
@@ -374,7 +778,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt sues Kochava for selling sensitive geolocation data<a href="https://www.bleepingcomputer.com/news/security/us-govt-sues-kochava-for-selling-sensitive-geolocation-data/"> Full Text</a>
@@ -390,7 +794,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hampshire Lottery Website Experiences Disruptive Cyberattack<a href="https://www.wmur.com/article/new-hampshire-lottery-website-experiences-cyber-attack/41000488#?&web_view=true"> Full Text</a>
@@ -406,7 +810,7 @@ WMUR
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 COVID-19 data put for sale on Dark Web<a href="https://securityaffairs.co/wordpress/134952/deep-web/covid-19-data-dark-web.html"> Full Text</a>
@@ -426,7 +830,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Montenegro says Russian cyberattacks threaten key state functions<a href="https://www.bleepingcomputer.com/news/security/montenegro-says-russian-cyberattacks-threaten-key-state-functions/"> Full Text</a>
@@ -442,7 +846,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022
+August 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: U.K. NHS cyberattack causing ‘total chaos’ in hospitals could take a year to recover<a href="https://www.independent.co.uk/news/health/nhs-cyber-attack-hospitals-b2153382.html?&web_view=true"> Full Text</a>
@@ -458,7 +862,7 @@ Independent
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2022
+August 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta one-time MFA passcodes exposed in Twilio cyberattack<a href="https://www.bleepingcomputer.com/news/security/okta-one-time-mfa-passcodes-exposed-in-twilio-cyberattack/"> Full Text</a>
