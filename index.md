@@ -34,6 +34,434 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS Update for Older iPhones to Fix Actively Exploited Vulnerability<a href="https://thehackernews.com/2022/09/apple-releases-ios-update-for-older.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday backported security updates to older iPhones, iPads, and iPod touch devices to address a  critical security flaw  that has been actively exploited in the wild.  The issue, tracked as  CVE-2022-32893  (CVSS score: 8.8), is an out-of-bounds write issue affecting WebKit that could lead to arbitrary code execution when processing maliciously crafted web content.   The tech giant said it fixed the bug with improved bounds checking. An anonymous researcher has been credited for reporting the vulnerability.  The iOS 12.5.6 update is available for iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6th generation).  "iOS 12 is not impacted by CVE-2022-32894," Apple  noted  in its advisory.  The latest set of patches arrived weeks after the iPhone maker  remediated the two flaws  in iOS 15.6.1, iPadOS 15.6.1, macOS 12.5.1, and Safari 15.6.1 as part of updates shipped on August 18, 2022.   "Apple is aware of a report that thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fix for actively exploited iOS zero-day to older iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-backports-fix-for-actively-exploited-ios-zero-day-to-older-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released new security updates to backport patches released earlier this month to older iPhones and iPads addressing a remotely exploitable WebKit zero-day that allows attackers to execute arbitrary code on unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Excel attacks fall out of fashion with hackers<a href="https://www.techtarget.com/searchsecurity/news/252524400/Microsoft-Excel-attacks-fall-out-of-fashion-with-hackers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendor Hornetsecurity said its researchers logged a significant drop over July in the volume of malware-laden emails that relied on malicious Microsoft Excel documents.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Lawfare Hacking and Cybersecurity Course<a href="https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday evenings starting on Sept. 20, you can take a live hacking class on Lawfare. Join us!
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in TikTok Android app could have allowed the hijacking of users’ accounts<a href="https://securityaffairs.co/wordpress/135125/mobile-2/tiktok-android-app-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered a vulnerability in the TikTok app for Android that could lead to one-click account hijacking.
+
+
+
+Microsoft researchers discovered a high-severity flaw (CVE-2022-28799) in the TikTok Android app, which could have allowed attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AdGuard’s new ad blocker struggles with Google’s Manifest v3 rules<a href="https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AdGuard has published the first ad blocker extension for Chrome that is compatible with Manifest V3, Google's newest extension platform protocol for the world's most popular web browser.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Released Mini Stealer's Builder & Panel for Free<a href="https://gbhackers.com/cybercriminals-released-mini-stealers-builder/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a lot of stuff that MiniStealer targets, but it mostly targets FTP applications and browsers that are based on Chromium. Threat actors claim that their stealer can target different OS, including Windows 7, Windows 10, and Windows 11.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find Malicious Cookie Stuffing Chrome Extensions Used by 1.4 Million Users<a href="https://thehackernews.com/2022/08/experts-find-malicious-cookie-stuffing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five imposter extensions for the Google Chrome web browser masquerading as Netflix viewers and others have been found to track users' browsing activity and profit off retail affiliate programs.  "The extensions offer various functions such as enabling users to watch Netflix shows together, website coupons, and taking screenshots of a website," McAfee researchers Oliver Devane and Vallabh Chole  said . "The latter borrows several phrases from another popular extension called GoFullPage."   The browser add-ons in question – available via the Chrome Web Store and downloaded 1.4 million times – are as follows -   Netflix Party (mmnbenehknklpbendgmgngeaignppnbe) - 800,000 downloads  Netflix Party (flijfnhifgdcbhglkneplegafminjnhn) - 300,000 downloads  FlipShope – Price Tracker Extension (adikhbfjdbjkhelbdnffogkobkekkkej) - 80,000 downloads  Full Page Screenshot Capture – Screenshotting (pojgkmkfincpdkdgjepkmdekcahmckjp) - 200,000 downloads  AutoBuy Flash Sales (gbna
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawfare Hacking and Cybersecurity Course: Instructions and Materials<a href="https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course-instructions-and-materials"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The class will make use of Virtual Machines and VirtualBox. Please see this page for instructions and required files.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors breached the network of the Italian oil company ENI<a href="https://securityaffairs.co/wordpress/135116/hacking/eni-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian oil giant Eni was hit by a cyber attack, attackers compromised its computer networks, but the consequences appear to be minor.
+
+
+
+Italian oil giant company Eni disclosed a security breach, threat actors gained access to its network, but according...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome bug lets sites write to clipboard without asking<a href="https://www.bleepingcomputer.com/news/security/google-chrome-bug-lets-sites-write-to-clipboard-without-asking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome version 104 accidentally introduced a bug that removes the user requirement to approve clipboard writing events from websites they visit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command injection vulnerability in GitHub Pages nets bug hunter $4k<a href="https://portswigger.net/daily-swig/command-injection-vulnerability-in-github-pages-nets-bug-hunter-4k?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researcher Joren Vrancken, the security issue existed in GitHub Pages, a static hosting service able to pull data from repositories, run code through a build process, and then publish websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hide Malware in Stunning Images Taken by James Webb Space Telescope<a href="https://thehackernews.com/2022/08/hackers-hide-malware-in-stunning-images.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent Golang-based malware campaign dubbed GO#WEBBFUSCATOR has leveraged the deep field image taken from NASA's James Webb Space Telescope (JWST) as a lure to deploy malicious payloads on infected systems.  The development, revealed by Securonix , points to the growing adoption of Go among threat actors, given the programming language's cross-platform support, effectively allowing the operators to leverage a common codebase to target different operating systems.  Go binaries also have the added benefit of rendering reverse engineering a lot more challenging as opposed to malware written in other languages like C++ or C#, not to mention prolong analysis and detection attempts.  Phishing emails containing a Microsoft Office attachment act as the entry point for the attack chain that, when opened, retrieves an obfuscated VBA macro, which, in turn, is auto-executed should the recipient enable macros.   The execution of the macro results in the download of an image file &quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GO#WEBBFUSCATOR campaign hides malware in NASA’s James Webb Space Telescope image<a href="https://securityaffairs.co/wordpress/135090/malware/gowebbfuscator-james-webb-space-telescope.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malware campaign tracked as GO#WEBBFUSCATOR used an image taken from NASA's James Webb Space Telescope (JWST) as a lure.
+
+
+
+Securonix Threat researchers uncovered a persistent Golang-based malware campaign tracked as GO#WEBBFUSCATOR that leveraged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware claims attack on Portugal's flag airline<a href="https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomware-claims-attack-on-portugals-flag-airline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang has claimed an attack on the flag carrier of Portugal, TAP Air Portugal, disclosed by the airline last Friday. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 6.0.2 Patches Vulnerability That Could Impact Millions of Legacy Sites<a href="https://www.securityweek.com/wordpress-602-patches-vulnerability-could-impact-millions-legacy-sites?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WordPress team this week announced the release of version 6.0.2 of the content management system (CMS), with patches for three security bugs, including a high-severity SQL injection vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interested in Reducing Your Risk Profile? Jamf Has a Solution for That<a href="https://thehackernews.com/2022/08/interested-in-reducing-your-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat landscape has changed dramatically over the past decade. While cybercriminals continue to look for new ways to gain access to networks and steal sensitive information, the mobile attack surface is also expanding.  Mobile devices are not only becoming more powerful but also more vulnerable to cyberattacks, making mobile security an increasingly important concern for enterprises.  This means that anyone accessing the Internet via their cell phone or logging into their home or work network at any time is putting both their own personal data and that of their company at risk.  No matter how big or small your business is, you should always take steps to ensure the security of your employees and customers. Recent global attacks have shown us just how vulnerable businesses are to cyberattacks.  There are several ways hackers can attack mobile devices. To protect their data, businesses should take a comprehensive approach that addresses both internal and external threats.  Jamf Thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted five malicious Google Chrome extensions used by 1.4M users<a href="https://securityaffairs.co/wordpress/135091/hacking/malicious-google-chrome-extensions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted 5 malicious Google Chrome extensions used to track users' browsing activity and profit of retail affiliate programs.
+
+
+
+McAfee researchers discovered five malicious Google Chrome extensions with a total install base of over 1,400,000....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found TikTok Android flaw that let hackers hijack accounts<a href="https://www.bleepingcomputer.com/news/security/microsoft-found-tiktok-android-flaw-that-let-hackers-hijack-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft found and reported a high severity flaw in the TikTok Android app in February that allowed attackers to "quickly and quietly" take over accounts with one click by tricking targets into clicking a specially crafted malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Cuba Ransomware Apparently Involved in Russia-Linked Attack on Montenegro Government<a href="https://www.securityweek.com/cybercriminals-apparently-involved-russia-linked-attack-montenegro-government?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware gang claimed to have stolen files on August 19, including financial documents and source code. They allegedly obtained correspondence with bank employees, balance sheets, account activity, compensation data, and tax documents.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches New Open Source Bug Bounty to Tackle Supply Chain Attacks<a href="https://thehackernews.com/2022/08/google-launches-new-open-source-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday introduced a new bug bounty program for its open source projects, offering payouts anywhere from $100 to $31,337 (a reference to  eleet or leet ) to secure the ecosystem from  supply chain attacks .  Called the Open Source Software Vulnerability Rewards Program (OSS VRP), the offering is one of the first open source-specific vulnerability programs.  With the tech giant the maintainer of major projects such as Angular, Bazel, Golang, Protocol Buffers, and Fuchsia, the program aims to reward vulnerability discoveries that could otherwise have a significant impact on the larger open source landscape.   Other projects managed by Google and hosted on public repositories such as GitHub as well as the third-party dependencies that are included in those projects are also eligible.   Submissions  from bug hunters are expected to meet the following criteria -   Vulnerabilities that lead to supply chain compromise  Design issues that cause product vulnerabilities  Other security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT40 used ScanBox Framework in a long-running espionage campaign<a href="https://securityaffairs.co/wordpress/135076/apt/apt40-scanbox-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered a cyber espionage campaign conducted by a China-linked APT group and aimed at several entities in the South China Sea.
+
+
+
+Proofpoint’s Threat Research Team uncovered a cyber espionage campaign targeting entities across the world that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Ways No-Code Developers Can Shoot Themselves in the Foot<a href="https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Low/no-code tools allow citizen developers to design creative solutions to address immediate problems, but without sufficient training and oversight, the technology can make it easy to make security mistakes.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used ScanBox Framework in Recent Cyber Espionage Attacks<a href="https://thehackernews.com/2022/08/chinese-hackers-used-scanbox-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A months-long cyber espionage campaign undertaken by a Chinese nation-state group targeted several entities with reconnaissance malware so as to glean information about its victims and meet its strategic goals.  "The targets of this recent campaign spanned Australia, Malaysia, and Europe, as well as entities that operate in the South China Sea," enterprise security firm Proofpoint  said  in a published in partnership with PwC.  Targets encompass local and federal Australian Governmental agencies, Australian news media companies, and global heavy industry manufacturers which conduct maintenance of fleets of wind turbines in the South China Sea.  Proofpoint and PwC attributed the intrusions with moderate confidence to a threat actor tracked by the two companies under the names TA423 and Red Ladon respectively, which is also known as APT40 and Leviathan.  APT40 is the name designated to a China-based, espionage-motivated threat actor that's known to be active since 2013 and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian streaming platform Start discloses a data breach impacting 7.5M users<a href="https://securityaffairs.co/wordpress/135069/data-breach/start-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian subscription-based streaming service Start discloses a data breach affecting 7.5 million users.
+
+
+
+The Russian media streaming platform START disclosed a data breach that impacted 7.5 millions of its users.
+
+
+
+According to the company, the attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
