@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Excel attacks fall out of fashion with hackers<a href="https://www.techtarget.com/searchsecurity/news/252524400/Microsoft-Excel-attacks-fall-out-of-fashion-with-hackers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vendor Hornetsecurity said its researchers logged a significant drop over July in the volume of malware-laden emails that relied on malicious Microsoft Excel documents.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

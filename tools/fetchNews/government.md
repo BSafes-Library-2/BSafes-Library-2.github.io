@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Investors to Take Precautions with Decentralized Financial Platforms<a href="https://thehackernews.com/2022/08/fbi-warns-investors-to-take-precautions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Monday warned of cyber criminals increasingly exploiting flaws in decentralized finance (DeFi) platforms to plunder cryptocurrency.  "The FBI has observed cyber criminals exploiting vulnerabilities in the smart contracts governing DeFi platforms to steal investors' cryptocurrency," the agency&nbsp; said &nbsp;in a notification.  Attackers are said to have used different methods to hack and steal cryptocurrency from DeFi platforms, including initiating flash loans that trigger exploits in the platforms' smart contracts and exploiting signature verification flaws in their token bridge to withdraw all investments.   The agency has also observed criminals defrauding the platforms by manipulating cryptocurrency price pairs – assets that can be traded for each other on an exchange – by exploiting a series of vulnerabilities to bypass&nbsp; slippage checks &nbsp;and steal roughly $35 million in digital funds.  It further said that the threat ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Invests AU$9.9 Billion in Cybersecurity<a href="https://securityintelligence.com/news/australian-government-invests-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the REDSPICE Blueprint, the purpose of the initiative is to build on Australia’s strong cybersecurity foundation by expanding the range and sophistication of the country’s intelligence and offensive and defensive cyber capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

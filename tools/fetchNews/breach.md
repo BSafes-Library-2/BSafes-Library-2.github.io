@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian streaming platform confirms data breach affecting 7.5M users<a href="https://www.bleepingcomputer.com/news/security/russian-streaming-platform-confirms-data-breach-affecting-75m-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian media streaming platform 'START' (start.ru) has confirmed rumors of a data breach impacting millions of users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Newest Airline Akasa Air Found Leaking Passengers' Personal Information<a href="https://thehackernews.com/2022/08/indias-newest-airline-akasa-air-suffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akasa Air, India's newest commercial airline, exposed the personal data belonging to its customers that the company blamed on a technical configuration error.  According to security researcher Ashutosh Barot , the issue is rooted in the account registration process, leading to the exposure of details such as names, gender, email addresses, and phone numbers.  The bug was identified on August 7, 2022, the same day the low-cost airline commenced its operations in the country.   "I found an HTTP request which gave my name, email, phone number, gender, etc. in JSON format," Barot&nbsp; said &nbsp;in a write-up. "I immediately changed some parameters in [the] request and I was able to see other user's PII. It took around ~30 minutes to find this issue."   Upon receiving the report, the company&nbsp; said &nbsp;it temporarily shut down parts of its system to incorporate additional security guardrails. It has also reported the incident to the Indian Computer Emergency Response Team (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

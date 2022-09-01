@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Ways No-Code Developers Can Shoot Themselves in the Foot<a href="https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Low/no-code tools allow citizen developers to design creative solutions to address immediate problems, but without sufficient training and oversight, the technology can make it easy to make security mistakes.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

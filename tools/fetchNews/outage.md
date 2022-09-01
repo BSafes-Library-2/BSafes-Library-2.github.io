@@ -11,6 +11,20 @@ nav_order: 900140
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pirate sites ban in Austria took down Cloudflare CDNs by mistake<a href="https://www.bleepingcomputer.com/news/security/pirate-sites-ban-in-austria-took-down-cloudflare-cdns-by-mistake/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Excessive and indiscriminate blocking is underway in Austria, with internet service providers (ISPs) complying to a court order to block pirate sites causing significant collateral damage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Hampshire Lottery Website Experiences Disruptive Cyberattack<a href="https://www.wmur.com/article/new-hampshire-lottery-website-experiences-cyber-attack/41000488#?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

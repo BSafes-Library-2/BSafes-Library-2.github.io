@@ -8,6 +8,46 @@ nav_order: 900029
 
 ## Breach
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors breached the network of the Italian oil company ENI<a href="https://securityaffairs.co/wordpress/135116/hacking/eni-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian oil giant Eni was hit by a cyber attack, attackers compromised its computer networks, but the consequences appear to be minor.
+
+
+
+Italian oil giant company Eni disclosed a security breach, threat actors gained access to its network, but according...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian streaming platform Start discloses a data breach impacting 7.5M users<a href="https://securityaffairs.co/wordpress/135069/data-breach/start-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian subscription-based streaming service Start discloses a data breach affecting 7.5 million users.
+
+
+
+The Russian media streaming platform START disclosed a data breach that impacted 7.5 millions of its users.
+
+
+
+According to the company, the attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

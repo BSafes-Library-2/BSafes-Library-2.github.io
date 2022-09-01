@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases iOS Update for Older iPhones to Fix Actively Exploited Vulnerability<a href="https://thehackernews.com/2022/09/apple-releases-ios-update-for-older.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple backports fix for actively exploited iOS zero-day to older iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-backports-fix-for-actively-exploited-ios-zero-day-to-older-iphones/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Excel attacks fall out of fashion with hackers<a href="https://www.techtarget.com/searchsecurity/news/252524400/Microsoft-Excel-attacks-fall-out-of-fashion-with-hackers?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Lawfare Hacking and Cybersecurity Course<a href="https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in TikTok Android app could have allowed the hijacking of users’ accounts<a href="https://securityaffairs.co/wordpress/135125/mobile-2/tiktok-android-app-bug.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AdGuard’s new ad blocker struggles with Google’s Manifest v3 rules<a href="https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Released Mini Stealer's Builder & Panel for Free<a href="https://gbhackers.com/cybercriminals-released-mini-stealers-builder/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Find Malicious Cookie Stuffing Chrome Extensions Used by 1.4 Million Users<a href="https://thehackernews.com/2022/08/experts-find-malicious-cookie-stuffing.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawfare Hacking and Cybersecurity Course: Instructions and Materials<a href="https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course-instructions-and-materials"> Full Text</a>
@@ -182,7 +182,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors breached the network of the Italian oil company ENI<a href="https://securityaffairs.co/wordpress/135116/hacking/eni-suffered-cyberattack.html"> Full Text</a>
@@ -202,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome bug lets sites write to clipboard without asking<a href="https://www.bleepingcomputer.com/news/security/google-chrome-bug-lets-sites-write-to-clipboard-without-asking/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Command injection vulnerability in GitHub Pages nets bug hunter $4k<a href="https://portswigger.net/daily-swig/command-injection-vulnerability-in-github-pages-nets-bug-hunter-4k?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Hide Malware in Stunning Images Taken by James Webb Space Telescope<a href="https://thehackernews.com/2022/08/hackers-hide-malware-in-stunning-images.html"> Full Text</a>
@@ -250,7 +250,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GO#WEBBFUSCATOR campaign hides malware in NASA’s James Webb Space Telescope image<a href="https://securityaffairs.co/wordpress/135090/malware/gowebbfuscator-james-webb-space-telescope.html"> Full Text</a>
@@ -270,7 +270,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker ransomware claims attack on Portugal's flag airline<a href="https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomware-claims-attack-on-portugals-flag-airline/"> Full Text</a>
@@ -286,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress 6.0.2 Patches Vulnerability That Could Impact Millions of Legacy Sites<a href="https://www.securityweek.com/wordpress-602-patches-vulnerability-could-impact-millions-legacy-sites?&web_view=true"> Full Text</a>
@@ -302,7 +302,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interested in Reducing Your Risk Profile? Jamf Has a Solution for That<a href="https://thehackernews.com/2022/08/interested-in-reducing-your-risk.html"> Full Text</a>
@@ -318,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted five malicious Google Chrome extensions used by 1.4M users<a href="https://securityaffairs.co/wordpress/135091/hacking/malicious-google-chrome-extensions.html"> Full Text</a>
@@ -338,7 +338,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft found TikTok Android flaw that let hackers hijack accounts<a href="https://www.bleepingcomputer.com/news/security/microsoft-found-tiktok-android-flaw-that-let-hackers-hijack-accounts/"> Full Text</a>
@@ -354,7 +354,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Cuba Ransomware Apparently Involved in Russia-Linked Attack on Montenegro Government<a href="https://www.securityweek.com/cybercriminals-apparently-involved-russia-linked-attack-montenegro-government?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Launches New Open Source Bug Bounty to Tackle Supply Chain Attacks<a href="https://thehackernews.com/2022/08/google-launches-new-open-source-bug.html"> Full Text</a>
@@ -386,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT40 used ScanBox Framework in a long-running espionage campaign<a href="https://securityaffairs.co/wordpress/135076/apt/apt40-scanbox-campaign.html"> Full Text</a>
@@ -406,7 +406,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Ways No-Code Developers Can Shoot Themselves in the Foot<a href="https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Used ScanBox Framework in Recent Cyber Espionage Attacks<a href="https://thehackernews.com/2022/08/chinese-hackers-used-scanbox-framework.html"> Full Text</a>
@@ -438,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2022
+August 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian streaming platform Start discloses a data breach impacting 7.5M users<a href="https://securityaffairs.co/wordpress/135069/data-breach/start-data-breach.html"> Full Text</a>
