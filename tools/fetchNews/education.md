@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Lawfare Hacking and Cybersecurity Course<a href="https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday evenings starting on Sept. 20, you can take a live hacking class on Lawfare. Join us!
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawfare Hacking and Cybersecurity Course: Instructions and Materials<a href="https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course-instructions-and-materials"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The class will make use of Virtual Machines and VirtualBox. Please see this page for instructions and required files.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interested in Reducing Your Risk Profile? Jamf Has a Solution for That<a href="https://thehackernews.com/2022/08/interested-in-reducing-your-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat landscape has changed dramatically over the past decade. While cybercriminals continue to look for new ways to gain access to networks and steal sensitive information, the mobile attack surface is also expanding.  Mobile devices are not only becoming more powerful but also more vulnerable to cyberattacks, making mobile security an increasingly important concern for enterprises.  This means that anyone accessing the Internet via their cell phone or logging into their home or work network at any time is putting both their own personal data and that of their company at risk.  No matter how big or small your business is, you should always take steps to ensure the security of your employees and customers. Recent global attacks have shown us just how vulnerable businesses are to cyberattacks.  There are several ways hackers can attack mobile devices. To protect their data, businesses should take a comprehensive approach that addresses both internal and external threats.  Jamf Thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT40 used ScanBox Framework in a long-running espionage campaign<a href="https://securityaffairs.co/wordpress/135076/apt/apt40-scanbox-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts uncovered a cyber espionage campaign conducted by a China-linked APT group and aimed at several entities in the South China Sea.
+
+
+
+Proofpoint’s Threat Research Team uncovered a cyber espionage campaign targeting entities across the world that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

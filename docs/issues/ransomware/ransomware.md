@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks<a href="https://thehackernews.com/2022/09/researchers-detail-emerging-cross.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the emerging cross-platform BianLian ransomware have increased their command-and-control (C2) infrastructure this month, a development that alludes to an increase in the group's operational tempo.  BianLian, written in the Go programming language, was first discovered in mid-July 2022 and has claimed 15 victim organizations as of September 1, cybersecurity firm [redacted] said in a&nbsp; report &nbsp;shared with The Hacker News.  It's worth noting that the double extortion ransomware family has no connection to an&nbsp; Android banking trojan &nbsp;of the same name, which targets mobile banking and cryptocurrency apps to siphon sensitive information.   Initial access to victim networks is achieved via successful exploitation of the&nbsp; ProxyShell &nbsp;Microsoft Exchange Server flaws, leveraging it to either drop a web shell or an ngrok payload for follow-on activities.  "BianLian has also targeted SonicWall VPN devices for exploitation, another common target for ransomware groups,&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

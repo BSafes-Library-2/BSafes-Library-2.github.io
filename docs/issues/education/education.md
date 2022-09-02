@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Culture: An OT Survival Story<a href="https://www.darkreading.com/operations/security-culture-an-ot-survival-story?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A risk-based approach will help IT and OT professionals by standardizing key metrics like life, health, safety, not to mention the impact on production capacity and efficiency.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

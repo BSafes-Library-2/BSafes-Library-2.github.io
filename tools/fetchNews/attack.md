@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware claims attack on Portugal's flag airline<a href="https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomware-claims-attack-on-portugals-flag-airline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang has claimed an attack on the flag carrier of Portugal, TAP Air Portugal, disclosed by the&nbsp;airline last Friday.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Cuba Ransomware Apparently Involved in Russia-Linked Attack on Montenegro Government<a href="https://www.securityweek.com/cybercriminals-apparently-involved-russia-linked-attack-montenegro-government?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba ransomware gang claimed to have stolen files on August 19, including financial documents and source code. They allegedly obtained correspondence with bank employees, balance sheets, account activity, compensation data, and tax documents.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Used ScanBox Framework in Recent Cyber Espionage Attacks<a href="https://thehackernews.com/2022/08/chinese-hackers-used-scanbox-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A months-long cyber espionage campaign undertaken by a Chinese nation-state group targeted several entities with reconnaissance malware so as to glean information about its victims and meet its strategic goals.  "The targets of this recent campaign spanned Australia, Malaysia, and Europe, as well as entities that operate in the South China Sea," enterprise security firm Proofpoint&nbsp; said &nbsp;in a published in partnership with PwC.  Targets encompass local and federal Australian Governmental agencies, Australian news media companies, and global heavy industry manufacturers which conduct maintenance of fleets of wind turbines in the South China Sea.  Proofpoint and PwC attributed the intrusions with moderate confidence to a threat actor tracked by the two companies under the names TA423 and Red Ladon respectively, which is also known as APT40 and Leviathan.  APT40 is the name designated to a China-based, espionage-motivated threat actor that's known to be active since 2013 and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

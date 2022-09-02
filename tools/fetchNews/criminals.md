@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Released Mini Stealer's Builder &amp; Panel for Free<a href="https://gbhackers.com/cybercriminals-released-mini-stealers-builder/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a lot of stuff that MiniStealer targets, but it mostly targets FTP applications and browsers that are based on Chromium. Threat actors claim that their stealer can target different OS, including Windows 7, Windows 10, and Windows 11.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

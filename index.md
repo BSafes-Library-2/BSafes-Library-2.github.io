@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ransomware hits Windows, Linux servers of Chile govt agency<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-hits-windows-linux-servers-of-chile-govt-agency/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tulsa Tech Hit By Data Breach<a href="https://www.news9.com/story/63108358ff2538070b06b321/tulsa-tech-hit-by-data-breach-?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ News9
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stop Worrying About Passwords Forever<a href="https://thehackernews.com/2022/09/stop-worrying-about-passwords-forever.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers analyzed a new JavaScript skimmer used by Magecart threat actors<a href="https://securityaffairs.co/wordpress/135177/cyber-crime/javascript-skimmer-magecart.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft will disable Exchange Online basic auth next month<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-disable-exchange-online-basic-auth-next-month/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WatchGuard firewall exploit threatens appliance takeover<a href="https://portswigger.net/daily-swig/watchguard-firewall-exploit-threatens-appliance-takeover?&web_view=true"> Full Text</a>
@@ -135,7 +135,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks<a href="https://thehackernews.com/2022/09/researchers-detail-emerging-cross.html"> Full Text</a>
@@ -151,7 +151,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ragnar Locker ransomware gang claims to have stolen data from TAP Air Portugal<a href="https://securityaffairs.co/wordpress/135168/data-breach/ragnar-locker-ransomware-tap-air-portugal.html"> Full Text</a>
@@ -171,7 +171,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Montenegro hit by ransomware attack, hackers demand $10 million<a href="https://www.bleepingcomputer.com/news/security/montenegro-hit-by-ransomware-attack-hackers-demand-10-million/"> Full Text</a>
@@ -187,7 +187,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Extortionist' cybersecurity firm headed back to court<a href="https://www.theregister.com/2022/09/01/labmd_tiversa_defamation_lawsuit/?&web_view=true"> Full Text</a>
@@ -203,7 +203,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials<a href="https://thehackernews.com/2022/09/over-1800-android-and-ios-apps-found.html"> Full Text</a>
@@ -219,7 +219,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1,859 Android and iOS apps were containing hard-coded Amazon AWS credentials<a href="https://securityaffairs.co/wordpress/135152/hacking/apps-hard-coded-aws-credentials.html"> Full Text</a>
@@ -239,7 +239,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA and CISA share tips to secure the software supply chain<a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-tips-to-secure-the-software-supply-chain/"> Full Text</a>
@@ -255,7 +255,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Migration Policy Organization Confirms Cyberattack After Extortion Group Touts Data Theft<a href="https://therecord.media/migration-policy-org-confirms-cyberattack-after-extortion-group-touts-theft/?&web_view=true"> Full Text</a>
@@ -271,7 +271,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infra Used in Cisco Hack Also Targeted Workforce Management Solution<a href="https://thehackernews.com/2022/09/infra-used-in-cisco-hack-also-targeted.html"> Full Text</a>
@@ -287,7 +287,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI is helping Montenegro in investigating the ongoing cyberattack<a href="https://securityaffairs.co/wordpress/135143/cyber-warfare-2/fbi-helps-montenegro-investigation.html"> Full Text</a>
@@ -307,7 +307,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands lured with blue badges in Instagram phishing attack<a href="https://www.bleepingcomputer.com/news/security/thousands-lured-with-blue-badges-in-instagram-phishing-attack/"> Full Text</a>
@@ -323,7 +323,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Culture: An OT Survival Story<a href="https://www.darkreading.com/operations/security-culture-an-ot-survival-story?&web_view=true"> Full Text</a>
@@ -339,7 +339,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Discover Severe 'One-Click' Exploit for TikTok Android App<a href="https://thehackernews.com/2022/09/microsoft-discover-severe-one-click.html"> Full Text</a>
@@ -355,7 +355,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple released patches for recently disclosed WebKit zero-day in older iPhones and iPads<a href="https://securityaffairs.co/wordpress/135136/security/apple-security-flaws-iphone.html"> Full Text</a>
@@ -375,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neopets says hackers had access to its systems for 18 months<a href="https://www.bleepingcomputer.com/news/security/neopets-says-hackers-had-access-to-its-systems-for-18-months/"> Full Text</a>
@@ -391,7 +391,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Target Chilean Government Agencies Through Windows and VMware ESXi Servers<a href="https://www.securityweek.com/ransomware-attacks-target-government-agencies-latin-america?&web_view=true"> Full Text</a>
@@ -407,7 +407,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2022
+September 01, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 1,000 iOS apps found exposing hardcoded AWS credentials<a href="https://www.bleepingcomputer.com/news/security/over-1-000-ios-apps-found-exposing-hardcoded-aws-credentials/"> Full Text</a>
@@ -423,7 +423,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2022
+September 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Army to create new offensive cyber and space program office<a href="https://www.fedscoop.com/army-to-create-new-offensive-cyber-and-space-program-office/?&web_view=true"> Full Text</a>

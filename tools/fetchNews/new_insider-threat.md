@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,000 iOS apps found exposing hardcoded AWS credentials<a href="https://www.bleepingcomputer.com/news/security/over-1-000-ios-apps-found-exposing-hardcoded-aws-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are raising the alarm about mobile app developers relying on insecure practices that expose Amazon Web Services (AWS) credentials, making the supply chain vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

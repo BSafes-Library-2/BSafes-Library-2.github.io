@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware hits Windows, Linux servers of Chile govt agency<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-hits-windows-linux-servers-of-chile-govt-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chile's national computer security and incident response team (CSIRT) has announced that a ransomware attack&nbsp;has impacted operations and online services of a government agency in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Montenegro hit by ransomware attack, hackers demand $10 million<a href="https://www.bleepingcomputer.com/news/security/montenegro-hit-by-ransomware-attack-hackers-demand-10-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government of Montenegro has admitted that its previous allegations about Russian threat actors attacking critical infrastructure in the country were false and now blames ransomware for the damage to its IT infrastructure that has caused extensive service disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Migration Policy Organization Confirms Cyberattack After Extortion Group Touts Data Theft<a href="https://therecord.media/migration-policy-org-confirms-cyberattack-after-extortion-group-touts-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization is in the process of investigating what information was compromised, according to Bernhard Schragl, communication coordinator for ICMPD, who added that they have reported the incident to law enforcement agencies.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infra Used in Cisco Hack Also Targeted Workforce Management Solution<a href="https://thehackernews.com/2022/09/infra-used-in-cisco-hack-also-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack infrastructure used to&nbsp; target Cisco &nbsp;in the May 2022 incident was also employed against an attempted compromise of an unnamed workforce management solutions holding company a month earlier in April 2022.  Cybersecurity firm Sentire, which&nbsp; disclosed &nbsp;the findings, raised the possibility that the intrusions could be the work of a criminal actor known as mx1r, who is said to be a member of the Evil Corp affiliate cluster dubbed&nbsp; UNC2165 .  Evil Corp, the progenitors of the infamous Dridex banking trojan, have, over the years, refined their modus operandi to run a series of ransomware operations to sidestep sanctions imposed by the U.S. Treasury in December 2019.   Initial access to the company's IT network was made possible by using stolen Virtual Private Network (VPN) credentials, followed by leveraging off-the-shelf tools for lateral movement and gaining deeper access into the victim's environment.  "Using Cobalt Strike, the attackers were able to gain an init
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Target Chilean Government Agencies Through Windows and VMware ESXi Servers<a href="https://www.securityweek.com/ransomware-attacks-target-government-agencies-latin-america?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chile’s Ministry of Interior reported last week that a government agency had its systems and online services disrupted by a piece of ransomware that targeted Windows and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

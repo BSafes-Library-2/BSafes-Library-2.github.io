@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS Update for Older iPhones to Fix Actively Exploited Vulnerability<a href="https://thehackernews.com/2022/09/apple-releases-ios-update-for-older.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday backported security updates to older iPhones, iPads, and iPod touch devices to address a&nbsp; critical security flaw &nbsp;that has been actively exploited in the wild.  The issue, tracked as&nbsp; CVE-2022-32893 &nbsp;(CVSS score: 8.8), is an out-of-bounds write issue affecting WebKit that could lead to arbitrary code execution when processing maliciously crafted web content.   The tech giant said it fixed the bug with improved bounds checking. An anonymous researcher has been credited for reporting the vulnerability.  The iOS 12.5.6 update is available for iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6th generation).  "iOS 12 is not impacted by CVE-2022-32894," Apple&nbsp; noted &nbsp;in its advisory.  The latest set of patches arrived weeks after the iPhone maker&nbsp; remediated the two flaws &nbsp;in iOS 15.6.1, iPadOS 15.6.1, macOS 12.5.1, and Safari 15.6.1 as part of updates shipped on August 18, 2022.   "Apple is aware of a report that thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fix for actively exploited iOS zero-day to older iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-backports-fix-for-actively-exploited-ios-zero-day-to-older-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released new security updates to&nbsp;backport&nbsp;patches released earlier this month&nbsp;to older iPhones and iPads&nbsp;addressing&nbsp;a remotely exploitable WebKit zero-day that allows attackers to execute arbitrary code on unpatched&nbsp;devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in TikTok Android app could have allowed the hijacking of users’ accounts<a href="https://securityaffairs.co/wordpress/135125/mobile-2/tiktok-android-app-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft discovered a vulnerability in the TikTok app for Android that could lead to one-click account hijacking.
+
+
+
+Microsoft researchers discovered a high-severity flaw (CVE-2022-28799) in the TikTok Android app, which could have allowed attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome bug lets sites write to clipboard without asking<a href="https://www.bleepingcomputer.com/news/security/google-chrome-bug-lets-sites-write-to-clipboard-without-asking/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome version 104 accidentally introduced a bug that removes the user requirement to approve clipboard writing events from websites they visit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Command injection vulnerability in GitHub Pages nets bug hunter $4k<a href="https://portswigger.net/daily-swig/command-injection-vulnerability-in-github-pages-nets-bug-hunter-4k?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researcher Joren Vrancken, the security issue existed in GitHub Pages, a static hosting service able to pull data from repositories, run code through a build process, and then publish websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress 6.0.2 Patches Vulnerability That Could Impact Millions of Legacy Sites<a href="https://www.securityweek.com/wordpress-602-patches-vulnerability-could-impact-millions-legacy-sites?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WordPress team this week announced the release of version 6.0.2 of the content management system (CMS), with patches for three security bugs, including a high-severity SQL injection vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found TikTok Android flaw that let hackers hijack accounts<a href="https://www.bleepingcomputer.com/news/security/microsoft-found-tiktok-android-flaw-that-let-hackers-hijack-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft found and reported a high severity flaw in the TikTok Android app&nbsp;in February that allowed attackers to "quickly and quietly" take over accounts with one click by tricking targets into clicking a specially crafted malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches New Open Source Bug Bounty to Tackle Supply Chain Attacks<a href="https://thehackernews.com/2022/08/google-launches-new-open-source-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday introduced a new bug bounty program for its open source projects, offering payouts anywhere from $100 to $31,337 (a reference to&nbsp; eleet or leet ) to secure the ecosystem from&nbsp; supply chain attacks .  Called the Open Source Software Vulnerability Rewards Program (OSS VRP), the offering is one of the first open source-specific vulnerability programs.  With the tech giant the maintainer of major projects such as Angular, Bazel, Golang, Protocol Buffers, and Fuchsia, the program aims to reward vulnerability discoveries that could otherwise have a significant impact on the larger open source landscape.&nbsp;  Other projects managed by Google and hosted on public repositories such as GitHub as well as the third-party dependencies that are included in those projects are also eligible.   Submissions &nbsp;from bug hunters are expected to meet the following criteria -   Vulnerabilities that lead to supply chain compromise  Design issues that cause product vulnerabilities  Other security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

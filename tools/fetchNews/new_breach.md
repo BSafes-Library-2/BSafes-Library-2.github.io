@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tulsa Tech Hit By Data Breach<a href="https://www.news9.com/story/63108358ff2538070b06b321/tulsa-tech-hit-by-data-breach-?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the school, an unknown actor accessed the district's systems in June and took files from the network, including the names and Social Security numbers of students.
+</details>
+<div style="text-align: right" markdown="1">
+News9
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials<a href="https://thehackernews.com/2022/09/over-1800-android-and-ios-apps-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified 1,859 apps across Android and iOS containing hard-coded Amazon Web Services (AWS) credentials, posing a major security risk.  "Over three-quarters (77%) of the apps contained valid AWS access tokens allowing access to private AWS cloud services," Symantec's Threat Hunter team, a part of Broadcom Software, said in a&nbsp; report &nbsp;shared with The Hacker News.  Interestingly, a little more than 50% of the apps were found using the same AWS tokens found in other apps maintained by other developers and companies, indicating a supply chain vulnerability.   "The AWS access tokens could be traced to a shared library, third-party SDK, or other shared component used in developing the apps," the researchers said.  These credentials are typically used for downloading appropriate resources necessary for the app's functions as well as accessing configuration files and authenticating to other cloud services.  To make matters worse, 47% of the identi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neopets says hackers had access to its systems for 18 months<a href="https://www.bleepingcomputer.com/news/security/neopets-says-hackers-had-access-to-its-systems-for-18-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Neopets has released details about the recently disclosed data breach incident that exposed personal information of more than 69 million members.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
