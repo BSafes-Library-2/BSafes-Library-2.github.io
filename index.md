@@ -34,6 +34,411 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware hits Windows, Linux servers of Chile govt agency<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-hits-windows-linux-servers-of-chile-govt-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chile's national computer security and incident response team (CSIRT) has announced that a ransomware attack has impacted operations and online services of a government agency in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tulsa Tech Hit By Data Breach<a href="https://www.news9.com/story/63108358ff2538070b06b321/tulsa-tech-hit-by-data-breach-?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the school, an unknown actor accessed the district's systems in June and took files from the network, including the names and Social Security numbers of students.
+</details>
+<div style="text-align: right" markdown="1">
+News9
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Worrying About Passwords Forever<a href="https://thehackernews.com/2022/09/stop-worrying-about-passwords-forever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So far 2022 confirms that passwords are not dead yet. Neither will they be anytime soon. Even though Microsoft and Apple are championing passwordless authentication methods, most applications and websites will not remove this option for a very long time.  Think about it, internal apps that you do not want to integrate with third-party identity providers, government services, legacy applications, and even SaaS providers may not want to invest in new integrations or restrict their existing authentication methods. After all, online businesses are interested in user traction, and security usually brings friction. For example, a few days ago,  Kickstarter sent out millions of password reset  emails "simplifying its login process," including for people that used social login without a password.   Though you may be able to remove passwords from many enterprise components, a large portion of third-party providers, government portals, business suppliers, and SaaS services will still
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers analyzed a new JavaScript skimmer used by Magecart threat actors<a href="https://securityaffairs.co/wordpress/135177/cyber-crime/javascript-skimmer-magecart.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cyble analyzed a new, highly evasive JavaScript skimmer used by Magecart threat actors.
+
+
+
+Cyble Research & Intelligence Labs started its investigation after seeing a post on Twitter a new JavaScript skimmer developed by the Magecart...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will disable Exchange Online basic auth next month<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-disable-exchange-online-basic-auth-next-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned customers today that it will finally disable basic authentication in random tenants worldwide to improve Exchange Online security starting October 1, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchGuard firewall exploit threatens appliance takeover<a href="https://portswigger.net/daily-swig/watchguard-firewall-exploit-threatens-appliance-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WatchGuard has patched several vulnerabilities in two main firewall brands that have been rated between medium and critical severity.
+In combination, two of the flaws enable pre-authentication remote root on every WatchGuard Firebox or XTM appliance.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Emerging Cross-Platform BianLian Ransomware Attacks<a href="https://thehackernews.com/2022/09/researchers-detail-emerging-cross.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the emerging cross-platform BianLian ransomware have increased their command-and-control (C2) infrastructure this month, a development that alludes to an increase in the group's operational tempo.  BianLian, written in the Go programming language, was first discovered in mid-July 2022 and has claimed 15 victim organizations as of September 1, cybersecurity firm [redacted] said in a  report  shared with The Hacker News.  It's worth noting that the double extortion ransomware family has no connection to an  Android banking trojan  of the same name, which targets mobile banking and cryptocurrency apps to siphon sensitive information.   Initial access to victim networks is achieved via successful exploitation of the  ProxyShell  Microsoft Exchange Server flaws, leveraging it to either drop a web shell or an ngrok payload for follow-on activities.  "BianLian has also targeted SonicWall VPN devices for exploitation, another common target for ransomware groups,&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ragnar Locker ransomware gang claims to have stolen data from TAP Air Portugal<a href="https://securityaffairs.co/wordpress/135168/data-breach/ragnar-locker-ransomware-tap-air-portugal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang claims to have hacked the Portuguese state-owned flag carrier airline TAP Air Portugal and stolen customers' data.
+
+
+
+The Ragnar Locker ransomware added the Portuguese state-owned flag carrier airline TAP Air Portugal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Montenegro hit by ransomware attack, hackers demand $10 million<a href="https://www.bleepingcomputer.com/news/security/montenegro-hit-by-ransomware-attack-hackers-demand-10-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government of Montenegro has admitted that its previous allegations about Russian threat actors attacking critical infrastructure in the country were false and now blames ransomware for the damage to its IT infrastructure that has caused extensive service disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Extortionist' cybersecurity firm headed back to court<a href="https://www.theregister.com/2022/09/01/labmd_tiversa_defamation_lawsuit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to LabMD, it declined to hire Tiversa after it could find no evidence of a leak. And in response, the cybersecurity shop retaliated against LabMD, the medical company claimed.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,800 Android and iOS Apps Found Leaking Hard-Coded AWS Credentials<a href="https://thehackernews.com/2022/09/over-1800-android-and-ios-apps-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified 1,859 apps across Android and iOS containing hard-coded Amazon Web Services (AWS) credentials, posing a major security risk.  "Over three-quarters (77%) of the apps contained valid AWS access tokens allowing access to private AWS cloud services," Symantec's Threat Hunter team, a part of Broadcom Software, said in a  report  shared with The Hacker News.  Interestingly, a little more than 50% of the apps were found using the same AWS tokens found in other apps maintained by other developers and companies, indicating a supply chain vulnerability.   "The AWS access tokens could be traced to a shared library, third-party SDK, or other shared component used in developing the apps," the researchers said.  These credentials are typically used for downloading appropriate resources necessary for the app's functions as well as accessing configuration files and authenticating to other cloud services.  To make matters worse, 47% of the identi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,859 Android and iOS apps were containing hard-coded Amazon AWS credentials<a href="https://securityaffairs.co/wordpress/135152/hacking/apps-hard-coded-aws-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered 1,859 Android and iOS apps containing hard-coded Amazon Web Services (AWS) credentials.
+
+
+
+Researchers from Broadcom Symantec's Threat Hunter team discovered 1,859 Android and iOS apps containing hard-coded Amazon Web Services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and CISA share tips to secure the software supply chain<a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-tips-to-secure-the-software-supply-chain/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) and the Cybersecurity and Infrastructure Security Agency (CISA) have released guidance today with tips on how to secure the software supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Migration Policy Organization Confirms Cyberattack After Extortion Group Touts Data Theft<a href="https://therecord.media/migration-policy-org-confirms-cyberattack-after-extortion-group-touts-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization is in the process of investigating what information was compromised, according to Bernhard Schragl, communication coordinator for ICMPD, who added that they have reported the incident to law enforcement agencies.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infra Used in Cisco Hack Also Targeted Workforce Management Solution<a href="https://thehackernews.com/2022/09/infra-used-in-cisco-hack-also-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack infrastructure used to  target Cisco  in the May 2022 incident was also employed against an attempted compromise of an unnamed workforce management solutions holding company a month earlier in April 2022.  Cybersecurity firm Sentire, which  disclosed  the findings, raised the possibility that the intrusions could be the work of a criminal actor known as mx1r, who is said to be a member of the Evil Corp affiliate cluster dubbed  UNC2165 .  Evil Corp, the progenitors of the infamous Dridex banking trojan, have, over the years, refined their modus operandi to run a series of ransomware operations to sidestep sanctions imposed by the U.S. Treasury in December 2019.   Initial access to the company's IT network was made possible by using stolen Virtual Private Network (VPN) credentials, followed by leveraging off-the-shelf tools for lateral movement and gaining deeper access into the victim's environment.  "Using Cobalt Strike, the attackers were able to gain an init
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI is helping Montenegro in investigating the ongoing cyberattack<a href="https://securityaffairs.co/wordpress/135143/cyber-warfare-2/fbi-helps-montenegro-investigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of cybersecurity experts from the US FBI will help the authorities in Montenegro to investigate the recent massive cyberattack.
+
+
+
+A team of cybersecurity experts from the FBI is heading to Montenegro to help local authorities in investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands lured with blue badges in Instagram phishing attack<a href="https://www.bleepingcomputer.com/news/security/thousands-lured-with-blue-badges-in-instagram-phishing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Instagram phishing campaign is underway, attempting to scam users of the popular social media platform by luring them with a blue-badge offer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Culture: An OT Survival Story<a href="https://www.darkreading.com/operations/security-culture-an-ot-survival-story?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A risk-based approach will help IT and OT professionals by standardizing key metrics like life, health, safety, not to mention the impact on production capacity and efficiency.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discover Severe 'One-Click' Exploit for TikTok Android App<a href="https://thehackernews.com/2022/09/microsoft-discover-severe-one-click.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed details of a now-patched "high severity vulnerability" in the TikTok app for Android that could let attackers take over accounts when victims clicked on a malicious link.  "Attackers could have leveraged the vulnerability to hijack an account without users' awareness if a targeted user simply clicked a specially crafted link," Dimitrios Valsamaras of the Microsoft 365 Defender Research Team  said  in a write-up.  Successful exploitation of the flaw could have permitted malicious actors to access and modify users' TikTok profiles and sensitive information, leading to the unauthorized exposure of private videos. Attackers could also have abused the bug to send messages and upload videos on behalf of users.   The issue, addressed in version 23.7.3, impacts two flavors of its Android app com.ss.android.ugc.trill (for East and Southeast Asian users) and com.zhiliaoapp.musically (for users in other countries except for India, wher
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released patches for recently disclosed WebKit zero-day in older iPhones and iPads<a href="https://securityaffairs.co/wordpress/135136/security/apple-security-flaws-iphone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released new security updates for older iPhone and iPad devices addressing recently fixed WebKit zero-day.
+
+
+
+Apple has released new updates to backport patches released this month to older iPhone and iPad devices addressing the...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neopets says hackers had access to its systems for 18 months<a href="https://www.bleepingcomputer.com/news/security/neopets-says-hackers-had-access-to-its-systems-for-18-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Neopets has released details about the recently disclosed data breach incident that exposed personal information of more than 69 million members.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Target Chilean Government Agencies Through Windows and VMware ESXi Servers<a href="https://www.securityweek.com/ransomware-attacks-target-government-agencies-latin-america?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chile’s Ministry of Interior reported last week that a government agency had its systems and online services disrupted by a piece of ransomware that targeted Windows and VMware ESXi servers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1,000 iOS apps found exposing hardcoded AWS credentials<a href="https://www.bleepingcomputer.com/news/security/over-1-000-ios-apps-found-exposing-hardcoded-aws-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are raising the alarm about mobile app developers relying on insecure practices that expose Amazon Web Services (AWS) credentials, making the supply chain vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Army to create new offensive cyber and space program office<a href="https://www.fedscoop.com/army-to-create-new-offensive-cyber-and-space-program-office/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new colonel-led, or O-6 level, program office will be under Program Executive Office Intelligence Electronic Warfare and Sensors and will be aptly called Program Manager Cyber and Space, officials told reporters on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
