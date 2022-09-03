@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+September 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Admits Data Breach that Exposed Details of Some U.S. Customers<a href="https://thehackernews.com/2022/09/samsung-admits-data-breach-that-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean chaebol Samsung on Friday said it experienced a cybersecurity incident that resulted in the unauthorized access of some customer information, the second time this year it has reported such a breach.  "In late July 2022, an unauthorized third-party acquired information from some of Samsung's U.S. systems," the company&nbsp; disclosed &nbsp;in a notice. "On or around August 4, 2022, we determined through our ongoing investigation that personal information of certain customers was affected."   Samsung said the infiltration enabled hackers to access certain data such as names, contact and demographic information, dates of birth, and product registration details.  It stressed that the incident did not affect users' Social Security numbers or credit and debit card numbers, but noted the information leaked for each relevant customer may vary.  The collected information is necessary to help the company deliver the best experience with its products and services,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung discloses a second data breach this year<a href="https://securityaffairs.co/wordpress/135241/data-breach/samsung-second-data-breach-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics giant Samsung has confirmed a new data breach after some of its US systems were compromised in July.
+
+
+
+After the attack that hit the company in late July 2022, Samsung disclosed a data breach. The Electronics giant discovered on August 4 that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung discloses data breach after July hack<a href="https://www.bleepingcomputer.com/news/security/samsung-discloses-data-breach-after-july-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics giant Samsung has confirmed a new data breach today after some of its U.S. systems were hacked to steal&nbsp;customer data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

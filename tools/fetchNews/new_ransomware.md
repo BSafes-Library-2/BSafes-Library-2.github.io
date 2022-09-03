@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux devices 'increasingly' under attack from hackers, warn security researchers<a href="https://www.zdnet.com/article/linux-devices-increasingly-under-attack-from-hackers-warn-security-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's been a big rise in ransomware attacks targeting Linux as cybercriminals look to expand their options and exploit an operating system that is often overlooked when businesses think about security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware claims attack on Italian energy agency<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-italian-energy-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware gang claimed responsibility&nbsp;for&nbsp;an attack that hit the systems of Italy's energy agency Gestore dei Servizi Energetici SpA (GSE) over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Ransomware For Linux Likely In Development<a href="https://securityaffairs.co/wordpress/135218/malware/linux-ransomware-under-development.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs researchers recently spotted a new Linux ransomware that appears to be under active development.
+
+
+
+The Uptycs Threat Research team recently observed an Executable and Linkable Format (ELF) ransomware which encrypts the files inside Linux systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Ransomware for Linux Likely in Development<a href="https://securityaffairs.co/wordpress/135218/malware/linux-ransomware-under-development.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs Threat Research team recently observed an Executable and Linkable Format (ELF) ransomware that encrypts the files inside Linux systems based on the given folder path.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

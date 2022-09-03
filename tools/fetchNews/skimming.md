@@ -8,6 +8,24 @@ nav_order: 900190
 
 ## Skimming
 ---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers analyzed a new JavaScript skimmer used by Magecart threat actors<a href="https://securityaffairs.co/wordpress/135177/cyber-crime/javascript-skimmer-magecart.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cyble analyzed a new, highly evasive JavaScript skimmer used by Magecart threat actors.
+
+
+
+Cyble Research &amp; Intelligence Labs started its investigation after seeing a post on Twitter&nbsp;a new JavaScript skimmer developed by the Magecart...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

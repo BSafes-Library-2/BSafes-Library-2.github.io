@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity ranked most serious enterprise risk in 2022<a href="https://www.securitymagazine.com/articles/98268-cybersecurity-ranked-most-serious-enterprise-risk-in-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid increasing geopolitical tensions and consumer privacy concerns, 40% of business leaders ranked cybersecurity as the number one serious risk facing their companies in a new survey by PwC.
+</details>
+<div style="text-align: right" markdown="1">
+Security Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate Security Blind Spot You Don't Know You Have<a href="https://thehackernews.com/2022/09/the-ultimate-security-blind-spot-you.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How much time do developers spend actually writing code?  According to recent studies , developers spend more time maintaining, testing and securing existing code than they do writing or improving code. Security vulnerabilities have a bad habit of popping up during the software development process, only to surface after an application has been deployed. The disappointing part is that many of these security flaws and bugs could have been resolved in an earlier stage and there are proper methods and tools to uncover them.  How much time does a developer spend on learning to write a functioning code? And how much is spent on learning about code security? Or learning how not to code?"  Wouldn't it be better to eradicate the problem from the system rather than having it there, and then trying to detect and stop an ongoing attack targeting it?  You can test your secure coding skills with this short&nbsp; self-assessment.  The true cost of bugs  Everyone makes mistakes, even developers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

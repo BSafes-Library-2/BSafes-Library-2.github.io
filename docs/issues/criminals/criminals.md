@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link Raspberry Robin Malware to Evil Corp cybercrime gang<a href="https://securityaffairs.co/wordpress/135206/cyber-crime/raspberry-robin-linked-to-evil-corp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers attribute the Raspberry Robin malware to the Russian cybercrime group known as Evil Corp group.
+
+
+
+IBM Security X-Force researchers discovered similarities between a component used in the Raspberry Robin malware and a Dridex malware loader,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Terrorists relying on cybercrime for funding since Covid-19: APG Report<a href="https://economictimes.indiatimes.com/news/india/terrorists-relying-on-cybercrime-for-funding-since-covid-19-apg-report/articleshow/93913482.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Terrorist groups are increasingly relying on criminal activities, including cybercrime and online frauds, scams to finance their illicit activities, according to the annual report of Asia Pacific Group on Money Laundering.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers: Blackbyte ransomware gang stole info of 20K people<a href="https://www.bleepingcomputer.com/news/security/san-francisco-49ers-blackbyte-ransomware-gang-stole-info-of-20k-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NFL's San Francisco 49ers are mailing notification letters confirming a&nbsp;data breach affecting more than 20,000 individuals following a ransomware attack that hit its network earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

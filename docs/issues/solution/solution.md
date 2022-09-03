@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple overhauls built-in Mac anti-malware you probably don’t know about<a href="https://arstechnica.com/gadgets/2022/08/apple-quietly-revamps-malware-scanning-features-in-newer-macos-versions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Called "XProtect," this system service downloads and installs new malware definitions in the background in between major macOS security updates, mostly to protect against the installation of known, in-the-wild malware.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

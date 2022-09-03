@@ -34,6 +34,446 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Admits Data Breach that Exposed Details of Some U.S. Customers<a href="https://thehackernews.com/2022/09/samsung-admits-data-breach-that-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean chaebol Samsung on Friday said it experienced a cybersecurity incident that resulted in the unauthorized access of some customer information, the second time this year it has reported such a breach.  "In late July 2022, an unauthorized third-party acquired information from some of Samsung's U.S. systems," the company  disclosed  in a notice. "On or around August 4, 2022, we determined through our ongoing investigation that personal information of certain customers was affected."   Samsung said the infiltration enabled hackers to access certain data such as names, contact and demographic information, dates of birth, and product registration details.  It stressed that the incident did not affect users' Social Security numbers or credit and debit card numbers, but noted the information leaked for each relevant customer may vary.  The collected information is necessary to help the company deliver the best experience with its products and services,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability<a href="https://thehackernews.com/2022/09/google-release-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday shipped emergency fixes to address a security vulnerability in the Chrome web browser that it said is being actively exploited in the wild.  The issue, assigned the identifier  CVE-2022-3075 , concerns a case of insufficient data validating in  Mojo , which refers to a collection of runtime libraries that provide a platform-agnostic mechanism for inter-process communication (IPC).  An anonymous researcher has been credited with reporting the high-severity flaw on August 30, 2022.  "Google is aware of reports that an exploit for CVE-2022-3075 exists in the wild," the internet giant  said , without delving into additional specifics about the nature of the attacks to prevent additional threat actors from taking advantage of the flaw.   The latest update makes it the sixth zero-day vulnerability in Chrome that Google has resolved since the start of the year -   CVE-2022-0609  - Use-after-free in Animation  CVE-2022-1096  - Type confusion in V8  CVE-2022-1364  -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes new zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-new-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 105.0.5195.102 for Windows, Mac, and Linux users to address a single high-severity security flaw, the sixth Chrome zero-day exploited in attacks patched this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux devices 'increasingly' under attack from hackers, warn security researchers<a href="https://www.zdnet.com/article/linux-devices-increasingly-under-attack-from-hackers-warn-security-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's been a big rise in ransomware attacks targeting Linux as cybercriminals look to expand their options and exploit an operating system that is often overlooked when businesses think about security.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung discloses a second data breach this year<a href="https://securityaffairs.co/wordpress/135241/data-breach/samsung-second-data-breach-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics giant Samsung has confirmed a new data breach after some of its US systems were compromised in July.
+
+
+
+After the attack that hit the company in late July 2022, Samsung disclosed a data breach. The Electronics giant discovered on August 4 that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware claims attack on Italian energy agency<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-attack-on-italian-energy-agency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware gang claimed responsibility for an attack that hit the systems of Italy's energy agency Gestore dei Servizi Energetici SpA (GSE) over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity ranked most serious enterprise risk in 2022<a href="https://www.securitymagazine.com/articles/98268-cybersecurity-ranked-most-serious-enterprise-risk-in-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid increasing geopolitical tensions and consumer privacy concerns, 40% of business leaders ranked cybersecurity as the number one serious risk facing their companies in a new survey by PwC.
+</details>
+<div style="text-align: right" markdown="1">
+Security Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Prynt Stealer malware contains a secret backdoor. Crooks steal data from other cybercriminals<a href="https://securityaffairs.co/wordpress/135229/malware/prynt-stealer-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information-stealing malware Prynt Stealer contains a backdoor that allows stealing the data it has infiltrated from victims.
+
+
+
+Zscaler researchers discovered Telegram channel-based backdoor in the information stealing malware, Prynt Stealer, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev backdoors own malware to steal data from other hackers<a href="https://www.bleepingcomputer.com/news/security/dev-backdoors-own-malware-to-steal-data-from-other-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals using Prynt Stealer to collect data from victims are being swindled by the malware developer, who also receives a copy of the info over Telegram messaging service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Crooks stole $1b+ in cryptocurrency already this year<a href="https://www.theregister.com/2022/09/01/fbi_cybercrime_defi_cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has urged people to be cautious and heavily research a DeFi – decentralized finance – provider before putting your money into it, after more than a billion dollars was stolen from these providers in three months.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prynt Stealer Contains a Backdoor to Steal Victims' Data Stolen by Other Cybercriminals<a href="https://thehackernews.com/2022/09/prynt-stealer-contains-backdoor-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a private Telegram channel-based backdoor in the information stealing malware, dubbed Prynt Stealer , which its developer added with the intention of secretly stealing a copy of victims' exfiltrated data when used by other cybercriminals.  "While this untrustworthy behavior is nothing new in the world of cybercrime, the victims' data end up in the hands of multiple threat actors, increasing the risks of one or more large scale attacks to follow," Zscaler ThreatLabz researchers Atinderpal Singh and Brett Stone-Gross  said  in a new report.  Prynt Stealer, which  came to light  earlier this April, comes with capabilities to log keystrokes, steal credentials from web browsers, and siphon data from Discord and Telegram. It's sold for $100 for a one-month license and $900 for a lifetime subscription.   The cybersecurity firm analysis of Prynt Stealer shows that its codebase is derived from two other open source malware families,  AsyncRAT  and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Ransomware For Linux Likely In Development<a href="https://securityaffairs.co/wordpress/135218/malware/linux-ransomware-under-development.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uptycs researchers recently spotted a new Linux ransomware that appears to be under active development.
+
+
+
+The Uptycs Threat Research team recently observed an Executable and Linkable Format (ELF) ransomware which encrypts the files inside Linux systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung discloses data breach after July hack<a href="https://www.bleepingcomputer.com/news/security/samsung-discloses-data-breach-after-july-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electronics giant Samsung has confirmed a new data breach today after some of its U.S. systems were hacked to steal customer data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple overhauls built-in Mac anti-malware you probably don’t know about<a href="https://arstechnica.com/gadgets/2022/08/apple-quietly-revamps-malware-scanning-features-in-newer-macos-versions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Called "XProtect," this system service downloads and installs new malware definitions in the background in between major macOS security updates, mostly to protect against the installation of known, in-the-wild malware.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JuiceLedger Hackers Behind the Recent Phishing Attacks Against PyPI Users<a href="https://thehackernews.com/2022/09/juiceledger-hackers-behind-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about the operators behind the  first-known phishing campaign  specifically aimed at the Python Package Index (PyPI), the official third-party software repository for the programming language.  Connecting it to a threat actor tracked as  JuiceLedger , cybersecurity firm SentinelOne, along with Checkmarx, described the group as a relatively new entity that surfaced in early 2022.  Initial "low-key" campaigns are said to have involved the use of rogue Python installer applications to deliver a .NET-based malware called JuiceStealer that's engineered to siphon passwords and other sensitive data from victims' web browsers.   The attacks received a significant facelift last month when the JuiceLedger actors  targeted PyPi package contributors  in a phishing campaign, resulting in the compromise of three packages with malware.   "The supply chain attack on PyPI package contributors appears to be an escalation of a campaign begun earlier in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link Raspberry Robin Malware to Evil Corp cybercrime gang<a href="https://securityaffairs.co/wordpress/135206/cyber-crime/raspberry-robin-linked-to-evil-corp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers attribute the Raspberry Robin malware to the Russian cybercrime group known as Evil Corp group.
+
+
+
+IBM Security X-Force researchers discovered similarities between a component used in the Raspberry Robin malware and a Dridex malware loader,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Damart clothing store hit by Hive ransomware, $2 million demanded<a href="https://www.bleepingcomputer.com/news/security/damart-clothing-store-hit-by-hive-ransomware-2-million-demanded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Damart, a French clothing company with over 130 stores across the world, is being extorted for $2 million after a cyberattack from the Hive ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Terrorists relying on cybercrime for funding since Covid-19: APG Report<a href="https://economictimes.indiatimes.com/news/india/terrorists-relying-on-cybercrime-for-funding-since-covid-19-apg-report/articleshow/93913482.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Terrorist groups are increasingly relying on criminal activities, including cybercrime and online frauds, scams to finance their illicit activities, according to the annual report of Asia Pacific Group on Money Laundering.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate Security Blind Spot You Don't Know You Have<a href="https://thehackernews.com/2022/09/the-ultimate-security-blind-spot-you.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How much time do developers spend actually writing code?  According to recent studies , developers spend more time maintaining, testing and securing existing code than they do writing or improving code. Security vulnerabilities have a bad habit of popping up during the software development process, only to surface after an application has been deployed. The disappointing part is that many of these security flaws and bugs could have been resolved in an earlier stage and there are proper methods and tools to uncover them.  How much time does a developer spend on learning to write a functioning code? And how much is spent on learning about code security? Or learning how not to code?"  Wouldn't it be better to eradicate the problem from the system rather than having it there, and then trying to detect and stop an ongoing attack targeting it?  You can test your secure coding skills with this short  self-assessment.  The true cost of bugs  Everyone makes mistakes, even developers.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome issue allows overwriting the clipboard content<a href="https://securityaffairs.co/wordpress/135197/hacking/google-chrome-bug-clipboard-overwrite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security issue in the Google Chrome browser could allow malicious web pages to automatically overwrite clipboard content.
+
+
+
+A vulnerability in the Google Chrome browser, as well as Chromium-based browsers, could allow malicious web pages to automatically...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers: Blackbyte ransomware gang stole info of 20K people<a href="https://www.bleepingcomputer.com/news/security/san-francisco-49ers-blackbyte-ransomware-gang-stole-info-of-20k-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NFL's San Francisco 49ers are mailing notification letters confirming a data breach affecting more than 20,000 individuals following a ransomware attack that hit its network earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Ransomware for Linux Likely in Development<a href="https://securityaffairs.co/wordpress/135218/malware/linux-ransomware-under-development.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Uptycs Threat Research team recently observed an Executable and Linkable Format (ELF) ransomware that encrypts the files inside Linux systems based on the given folder path.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: PyPI Feature Executes Code Automatically After Python Package Download<a href="https://thehackernews.com/2022/09/warning-pypi-feature-executes-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In another finding that could expose developers to increased risk of a supply chain attack, it has emerged that nearly one-third of the packages in PyPI, the Python Package Index, trigger automatic code execution upon downloading them.  "A worrying feature in pip/PyPI allows code to automatically run when developers are merely downloading a package," Checkmarx researcher Yehuda Gelb  said  in a technical report published this week.  "Also, this feature is alarming due to the fact that a great deal of the malicious packages we are finding in the wild use this feature of code execution upon installation to achieve higher infection rates."  One of the ways by which packages can be installed for Python is by executing the " pip install " command, which, in turn, invokes a file called "setup.py" that comes bundled along with the module.   "setup.py," as the name implies, is a  setup script  that's used to specify metadata associated wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack infrastructure used in Cisco hack linked to Evil Corp affiliate<a href="https://securityaffairs.co/wordpress/135188/cyber-crime/cisco-hack-atatck-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the infrastructure used in Cisco hack was the same used to target a Workforce Management Solution firm.
+
+
+
+Researchers from cybersecurity firm eSentire discovered that the attack infrastructure used in recent Cisco hack was also...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traffers threat: The invisible thieves<a href="https://www.techrepublic.com/article/traffers-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traffers — from the Russian word “???????,” also referred to as “worker” — are cybercriminals responsible for redirecting Internet users network traffic to malicious content that they operate, this content being malware most of the time.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evidence Links Raspberry Robin Malware to Dridex and Russian Evil Corp Hackers<a href="https://thehackernews.com/2022/09/new-evidence-links-raspberry-robin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified functional similarities between a malicious component used in the Raspberry Robin infection chain and a Dridex malware loader, further strengthening the operators' connections to the Russia-based Evil Corp group.  The findings suggest that "Evil Corp is likely using Raspberry Robin infrastructure to carry out its attacks," IBM Security X-Force researcher Kevin Henson  said  in a Thursday analysis.  Raspberry Robin (aka QNAP Worm), first  discovered  by cybersecurity company Red Canary in September 2021, has remained something of a mystery for nearly a year, partly owing to the noticeable lack of post-exploitation activities in the wild.   That changed in July 2022 when Microsoft  revealed  that it observed the  FakeUpdates  (aka SocGholish) malware being delivered via existing Raspberry Robin infections, with potential connections identified between DEV-0206 and DEV-0243 (aka Evil Corp).  The malware is known to be delivered from a compromised
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 01, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

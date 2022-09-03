@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Damart clothing store hit by Hive ransomware, $2 million demanded<a href="https://www.bleepingcomputer.com/news/security/damart-clothing-store-hit-by-hive-ransomware-2-million-demanded/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Damart, a French clothing company with over 130 stores across the world, is being extorted for $2 million&nbsp;after a cyberattack&nbsp;from the Hive ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack infrastructure used in Cisco hack linked to Evil Corp affiliate<a href="https://securityaffairs.co/wordpress/135188/cyber-crime/cisco-hack-atatck-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the infrastructure used in Cisco hack was the same used to target a Workforce Management Solution firm.
+
+
+
+Researchers from cybersecurity firm eSentire discovered that the attack infrastructure used in recent Cisco hack was also...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

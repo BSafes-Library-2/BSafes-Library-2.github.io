@@ -8,6 +8,71 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchGuard firewall exploit threatens appliance takeover<a href="https://portswigger.net/daily-swig/watchguard-firewall-exploit-threatens-appliance-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WatchGuard has patched several vulnerabilities in two main firewall brands that have been rated between medium and critical severity.
+In combination, two of the flaws enable pre-authentication remote root on every WatchGuard Firebox or XTM appliance.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,859 Android and iOS apps were containing hard-coded Amazon AWS credentials<a href="https://securityaffairs.co/wordpress/135152/hacking/apps-hard-coded-aws-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered 1,859 Android and iOS apps containing hard-coded Amazon Web Services (AWS) credentials.
+
+
+
+Researchers from Broadcom Symantec's Threat Hunter team discovered 1,859 Android and iOS apps containing hard-coded Amazon Web Services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discover Severe 'One-Click' Exploit for TikTok Android App<a href="https://thehackernews.com/2022/09/microsoft-discover-severe-one-click.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed details of a now-patched "high severity vulnerability" in the TikTok app for Android that could let attackers take over accounts when victims clicked on a malicious link.  "Attackers could have leveraged the vulnerability to hijack an account without users' awareness if a targeted user simply clicked a specially crafted link," Dimitrios Valsamaras of the Microsoft 365 Defender Research Team&nbsp; said &nbsp;in a write-up.  Successful exploitation of the flaw could have permitted malicious actors to access and modify users' TikTok profiles and sensitive information, leading to the unauthorized exposure of private videos. Attackers could also have abused the bug to send messages and upload videos on behalf of users.   The issue, addressed in version 23.7.3, impacts two flavors of its Android app com.ss.android.ugc.trill (for East and Southeast Asian users) and com.zhiliaoapp.musically (for users in other countries except for India, wher
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released patches for recently disclosed WebKit zero-day in older iPhones and iPads<a href="https://securityaffairs.co/wordpress/135136/security/apple-security-flaws-iphone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released new security updates for older iPhone and iPad&nbsp;devices addressing recently fixed WebKit zero-day.
+
+
+
+Apple has released new updates to&nbsp;backport&nbsp;patches released this month&nbsp;to older iPhone and iPad devices&nbsp;addressing&nbsp;the...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

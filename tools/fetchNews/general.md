@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Worrying About Passwords Forever<a href="https://thehackernews.com/2022/09/stop-worrying-about-passwords-forever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+So far 2022 confirms that passwords are not dead yet. Neither will they be anytime soon. Even though Microsoft and Apple are championing passwordless authentication methods, most applications and websites will not remove this option for a very long time.  Think about it, internal apps that you do not want to integrate with third-party identity providers, government services, legacy applications, and even SaaS providers may not want to invest in new integrations or restrict their existing authentication methods. After all, online businesses are interested in user traction, and security usually brings friction. For example, a few days ago,&nbsp; Kickstarter sent out millions of password reset &nbsp;emails "simplifying its login process," including for people that used social login without a password.&nbsp;  Though you may be able to remove passwords from many enterprise components, a large portion of third-party providers, government portals, business suppliers, and SaaS services will still
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will disable Exchange Online basic auth next month<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-disable-exchange-online-basic-auth-next-month/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned customers today that it will finally disable basic authentication in random tenants worldwide to improve Exchange Online security starting October 1, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

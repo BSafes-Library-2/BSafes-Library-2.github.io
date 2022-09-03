@@ -31,7 +31,7 @@ KNOWN EXPLOITED VULNERABILITIES CATALOG
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2022 - CISA
+August 29, 2022 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Criminals Increasingly Exploit Vulnerabilities in Decentralized Finance Platforms to Obtain Cryptocurrency, Causing Investors to Lose Money <a href="https://www.ic3.gov/Media/Y2022/PSA220829"> Full Text</a>

@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+September 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA and CISA share tips to secure the software supply chain<a href="https://www.bleepingcomputer.com/news/security/nsa-and-cisa-share-tips-to-secure-the-software-supply-chain/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) and the Cybersecurity and Infrastructure Security Agency (CISA) have&nbsp;released guidance today with tips on how to secure the software supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI is helping Montenegro in investigating the ongoing cyberattack<a href="https://securityaffairs.co/wordpress/135143/cyber-warfare-2/fbi-helps-montenegro-investigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of cybersecurity experts from the US FBI will help the authorities in Montenegro to investigate the recent massive cyberattack.
+
+
+
+A team of cybersecurity experts from the FBI is heading to Montenegro to help local authorities in investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Army to create new offensive cyber and space program office<a href="https://www.fedscoop.com/army-to-create-new-offensive-cyber-and-space-program-office/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new colonel-led, or O-6 level, program office will be under Program Executive Office Intelligence Electronic Warfare and Sensors and will be aptly called Program Manager Cyber and Space, officials told reporters on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Fed Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
