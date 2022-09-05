@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traffers threat: The invisible thieves<a href="https://www.techrepublic.com/article/traffers-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traffers — from the Russian word “???????,” also referred to as “worker” — are cybercriminals responsible for redirecting Internet users network traffic to malicious content that they operate, this content being malware most of the time.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

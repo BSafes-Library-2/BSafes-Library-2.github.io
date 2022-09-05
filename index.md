@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2022
+September 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender falsely detects Win32/Hive.ZY in Google Chrome, Electron apps<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-falsely-detects-win32-hivezy-in-google-chrome-electron-apps/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2022
+September 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new phishing scam targets American Express cardholders<a href="https://securityaffairs.co/wordpress/135292/hacking/phishing-scam-targets-american-express.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2022
+September 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SharkBot malware sneaks back on Google Play to steal your logins<a href="https://www.bleepingcomputer.com/news/security/sharkbot-malware-sneaks-back-on-google-play-to-steal-your-logins/"> Full Text</a>
@@ -90,7 +90,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2022
+September 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Yandex taxi causing a massive traffic jam in Moscow<a href="https://securityaffairs.co/wordpress/135280/hacktivism/anonyomus-hacked-yandex-taxi.html"> Full Text</a>
@@ -110,7 +110,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2022
+September 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IRS mistakenly published confidential info for roughly 120K taxpayers<a href="https://securityaffairs.co/wordpress/135271/security/irs-data-leak.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2022
+September 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged Iranian threat actors leak the code of their CodeRAT malware<a href="https://securityaffairs.co/wordpress/135255/malware/coderat-malware.html"> Full Text</a>
@@ -154,7 +154,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2022
+September 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects<a href="https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2022
+September 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous hacked Russian Yandex taxi app causing a massive traffic jam<a href="https://www.hackread.com/anonymous-russian-yandex-taxi-app-hacked/?&web_view=true"> Full Text</a>
@@ -186,7 +186,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2022
+September 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IRS data leak exposes personal info of 120,000 taxpayers<a href="https://www.bleepingcomputer.com/news/security/irs-data-leak-exposes-personal-info-of-120-000-taxpayers/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 03, 2022
+September 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware dev open-sources CodeRAT after being exposed<a href="https://www.bleepingcomputer.com/news/security/malware-dev-open-sources-coderat-after-being-exposed/"> Full Text</a>
@@ -218,7 +218,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2022
+September 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 382<a href="https://securityaffairs.co/wordpress/135269/breaking-news/security-affairs-newsletter-round-382.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 3, 2022
+September 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google rolled out emergency fixes to address actively exploited Chrome zero-day<a href="https://securityaffairs.co/wordpress/135249/security/chrome-emergency-patches.html"> Full Text</a>

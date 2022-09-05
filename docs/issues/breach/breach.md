@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+September 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS mistakenly published confidential info for roughly 120K taxpayers<a href="https://securityaffairs.co/wordpress/135271/security/irs-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service (IRS) mistakenly leaked confidential information for approximately 120,000 taxpayers.
+
+
+
+Bad news for approximately 120,000 taxpayers who filed a form 990-T as part of their tax returns, the Internal Revenue Service has accidentally...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian Yandex taxi app causing a massive traffic jam<a href="https://www.hackread.com/anonymous-russian-yandex-taxi-app-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Forbes Russia, the cabs were directed to one of the main avenues in Moscow, Kutuzovsky Prospekt, which is widely known for the Stalinist-era building called Hotel Ukraina (Hotel Ukraine).
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS data leak exposes personal info of 120,000 taxpayers<a href="https://www.bleepingcomputer.com/news/security/irs-data-leak-exposes-personal-info-of-120-000-taxpayers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service has accidentally leaked confidential information for approximately 120,000 taxpayers who filed a form 990-T as part of their tax returns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

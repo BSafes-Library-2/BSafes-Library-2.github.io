@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability<a href="https://thehackernews.com/2022/09/google-release-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday shipped emergency fixes to address a security vulnerability in the Chrome web browser that it said is being actively exploited in the wild.  The issue, assigned the identifier&nbsp; CVE-2022-3075 , concerns a case of insufficient data validating in&nbsp; Mojo , which refers to a collection of runtime libraries that provide a platform-agnostic mechanism for inter-process communication (IPC).  An anonymous researcher has been credited with reporting the high-severity flaw on August 30, 2022.  "Google is aware of reports that an exploit for CVE-2022-3075 exists in the wild," the internet giant&nbsp; said , without delving into additional specifics about the nature of the attacks to prevent additional threat actors from taking advantage of the flaw.   The latest update makes it the sixth zero-day vulnerability in Chrome that Google has resolved since the start of the year -   CVE-2022-0609 &nbsp;- Use-after-free in Animation  CVE-2022-1096 &nbsp;- Type confusion in V8  CVE-2022-1364 &nbsp;-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes new zero-day used in attacks<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-new-zero-day-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 105.0.5195.102 for Windows, Mac, and Linux users to address a single high-severity security flaw, the sixth Chrome zero-day exploited in attacks patched this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome issue allows overwriting the clipboard content<a href="https://securityaffairs.co/wordpress/135197/hacking/google-chrome-bug-clipboard-overwrite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security issue in the Google Chrome browser could allow malicious web pages to automatically overwrite clipboard content.
+
+
+
+A vulnerability in the Google Chrome browser, as well as Chromium-based browsers, could allow malicious web pages to automatically...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: PyPI Feature Executes Code Automatically After Python Package Download<a href="https://thehackernews.com/2022/09/warning-pypi-feature-executes-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In another finding that could expose developers to increased risk of a supply chain attack, it has emerged that nearly one-third of the packages in PyPI, the Python Package Index, trigger automatic code execution upon downloading them.  "A worrying feature in pip/PyPI allows code to automatically run when developers are merely downloading a package," Checkmarx researcher Yehuda Gelb&nbsp; said &nbsp;in a technical report published this week.  "Also, this feature is alarming due to the fact that a great deal of the malicious packages we are finding in the wild use this feature of code execution upon installation to achieve higher infection rates."  One of the ways by which packages can be installed for Python is by executing the " pip install " command, which, in turn, invokes a file called "setup.py" that comes bundled along with the module.   "setup.py," as the name implies, is a&nbsp; setup script &nbsp;that's used to specify metadata associated wit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

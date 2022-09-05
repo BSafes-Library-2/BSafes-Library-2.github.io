@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Crooks stole $1b+ in cryptocurrency already this year<a href="https://www.theregister.com/2022/09/01/fbi_cybercrime_defi_cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has urged people to be cautious and heavily research a DeFi – decentralized finance – provider before putting your money into it, after more than a billion dollars was stolen from these providers in three months.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

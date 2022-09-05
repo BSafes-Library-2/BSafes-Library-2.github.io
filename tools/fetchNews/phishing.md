@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JuiceLedger Hackers Behind the Recent Phishing Attacks Against PyPI Users<a href="https://thehackernews.com/2022/09/juiceledger-hackers-behind-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about the operators behind the&nbsp; first-known phishing campaign &nbsp;specifically aimed at the Python Package Index (PyPI), the official third-party software repository for the programming language.  Connecting it to a threat actor tracked as&nbsp; JuiceLedger , cybersecurity firm SentinelOne, along with Checkmarx, described the group as a relatively new entity that surfaced in early 2022.  Initial "low-key" campaigns are said to have involved the use of rogue Python installer applications to deliver a .NET-based malware called JuiceStealer that's engineered to siphon passwords and other sensitive data from victims' web browsers.   The attacks received a significant facelift last month when the JuiceLedger actors&nbsp; targeted PyPi package contributors &nbsp;in a phishing campaign, resulting in the compromise of three packages with malware.   "The supply chain attack on PyPI package contributors appears to be an escalation of a campaign begun earlier in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

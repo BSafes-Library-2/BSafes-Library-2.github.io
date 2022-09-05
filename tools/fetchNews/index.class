@@ -34,6 +34,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender falsely detects Win32/Hive.ZY in Google Chrome, Electron apps<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-falsely-detects-win32-hivezy-in-google-chrome-electron-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bad Microsoft Defender signature update mistakenly detects Google Chrome, Microsoft Edge, Discord, and other Electron apps as 'Win32/Hive.ZY' each time the apps are opened in Windows.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new phishing scam targets American Express cardholders<a href="https://securityaffairs.co/wordpress/135292/hacking/phishing-scam-targets-american-express.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Armorblox discovered a new phishing campaign aimed at American Express customers.
+
+
+
+Armorblox researchers uncovered a new phishing campaign that is targeting American Express customers.
+
+
+
+The messages use a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SharkBot malware sneaks back on Google Play to steal your logins<a href="https://www.bleepingcomputer.com/news/security/sharkbot-malware-sneaks-back-on-google-play-to-steal-your-logins/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new and upgraded version of the SharkBot malware has returned to Google's Play Store, targeting banking logins of Android users through apps that have tens of thousands of installations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Yandex taxi causing a massive traffic jam in Moscow<a href="https://securityaffairs.co/wordpress/135280/hacktivism/anonyomus-hacked-yandex-taxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous and the IT Army of Ukraine hacked the Yandex Taxi app causing a massive traffic jam in Moscow.
+
+
+
+This week Anonymous announced to have hacked the Yandex Taxi app, the largest taxi service in Russia, and used it to cause...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS mistakenly published confidential info for roughly 120K taxpayers<a href="https://securityaffairs.co/wordpress/135271/security/irs-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service (IRS) mistakenly leaked confidential information for approximately 120,000 taxpayers.
+
+
+
+Bad news for approximately 120,000 taxpayers who filed a form 990-T as part of their tax returns, the Internal Revenue Service has accidentally...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Iranian threat actors leak the code of their CodeRAT malware<a href="https://securityaffairs.co/wordpress/135255/malware/coderat-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The author of the remote access trojan (RAT) CodeRAT has leaked the source code of its malware on GitHub. 
+
+
+
+The development team behind the remote access trojan (RAT) CodeRAT has leaked the source code of its malware on GitHub after the 
+
+
+
+SafeBreach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects<a href="https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of security vulnerabilities discovered in the GitHub environments of two very popular open source projects from Apache and Google could be used to stealthily modify project source code, steal secrets, and move laterally inside an organization.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Russian Yandex taxi app causing a massive traffic jam<a href="https://www.hackread.com/anonymous-russian-yandex-taxi-app-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Forbes Russia, the cabs were directed to one of the main avenues in Moscow, Kutuzovsky Prospekt, which is widely known for the Stalinist-era building called Hotel Ukraina (Hotel Ukraine).
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS data leak exposes personal info of 120,000 taxpayers<a href="https://www.bleepingcomputer.com/news/security/irs-data-leak-exposes-personal-info-of-120-000-taxpayers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service has accidentally leaked confidential information for approximately 120,000 taxpayers who filed a form 990-T as part of their tax returns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware dev open-sources CodeRAT after being exposed<a href="https://www.bleepingcomputer.com/news/security/malware-dev-open-sources-coderat-after-being-exposed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code of a remote access trojan (RAT) dubbed 'CodeRAT' has been leaked on GitHub after malware analysts confronted the developer about attacks that used the tool.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 382<a href="https://securityaffairs.co/wordpress/135269/breaking-news/security-affairs-newsletter-round-382.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google rolled out emergency fixes to address actively exploited Chrome zero-day<a href="https://securityaffairs.co/wordpress/135249/security/chrome-emergency-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google rolled out emergency fixes to address a vulnerability in the Chrome web browser that is being actively exploited in the wild.
+
+
+
+Google on Friday released emergency fixes to address a vulnerability, tracked as CVE-2022-3075, in the Chrome web browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

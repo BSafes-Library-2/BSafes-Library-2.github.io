@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+September 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous hacked Yandex taxi causing a massive traffic jam in Moscow<a href="https://securityaffairs.co/wordpress/135280/hacktivism/anonyomus-hacked-yandex-taxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous and the IT Army of Ukraine hacked the Yandex Taxi app causing a massive traffic jam in Moscow.
+
+
+
+This week Anonymous announced to have hacked the Yandex Taxi app, the largest taxi service in Russia, and used it to cause...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
