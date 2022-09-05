@@ -34,6 +34,370 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EvilProxy service lets all hackers use advanced phishing tactics<a href="https://www.bleepingcomputer.com/news/security/new-evilproxy-service-lets-all-hackers-use-advanced-phishing-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reverse-proxy Phishing-as-a-Service (PaaS) platform called EvilProxy has emerged, promising to steal authentication tokens to bypass multi-factor authentication (MFA) on Apple, Google, Facebook, Microsoft, Twitter, GitHub, GoDaddy, and even PyPI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in TikTok Allows Account Hijacking<a href="https://cyware.com/news/critical-flaw-in-tiktok-allows-account-hijacking-f4f65b99"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched, high-severity flaw in the Android version of TikTok could have resulted in attackers hijacking user accounts with a single click - disclosed Microsoft.  Attackers can use that access to modify users' TikTok profiles and sensitive information, such as sending messages, posting private ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Denies Data Breach Reportedly Exposing Over 2 Billion Users' Information<a href="https://thehackernews.com/2022/09/tiktok-denies-data-breach-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form social video service TikTok denied reports that it was breached by a hacking group, after it claimed to have gained access to an insecure cloud server.  "TikTok prioritizes the privacy and security of our users' data," the ByteDance-owned company told The Hacker News. "Our security team investigated these claims and found no evidence of a security breach."  The denial follows alleged reports of a hack that surfaced on the Breach Forums message board on September 3, with the threat actor noting that the server holds 2.05 billion records in a humongous 790GB database.   "Who would have thought that TikTok would decide to store all their internal backend source code on one Alibaba Cloud instance using a trashy password?," the hacking group known as BlueHornet (aka  AgainstTheWest )  tweeted  over the weekend.   Bob Diachenko, threat intelligence researcher at Security Discovery,  said  the breach is "real" and that the data i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns new Deadbolt ransomware attacks exploiting zero-day<a href="https://securityaffairs.co/wordpress/135347/malware/qnap-deadbolt-ransomware-new-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of ongoing DeadBolt ransomware attacks that are exploiting a zero-day vulnerability in Photo Station.
+
+
+
+QNAP warns customers of an ongoing wave of DeadBolt ransomware attacks, threat actors are exploiting a zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol dismantles sextortion ring, warns of increased attacks<a href="https://www.bleepingcomputer.com/news/security/interpol-dismantles-sextortion-ring-warns-of-increased-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A transnational sextortion ring was uncovered and dismantled following a joint investigation between Interpol's cybercrime division and police in Singapore and Hong Kong.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Election Officials Have Been Largely Successful in Deterring Cyber Threats, CISA Official Says<a href="https://www.nextgov.com/cybersecurity/2022/09/election-officials-have-been-largely-successful-deterring-cyber-threats-cisa-official-says/376722/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The head of CISA’s National Risk Management Center pointed to public-private partnerships and enhanced resource-sharing activities as key to defending against outside threats to voting systems.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is Your Security Team Profile? Prevention, Detection, or Risk Management<a href="https://thehackernews.com/2022/09/what-is-your-security-team-profile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not all security teams are born equal. Each organization has a different objective.  In cybersecurity, adopting a proactive approach is not just a buzzword. It actually is what makes the difference between staying behind attackers and getting ahead of them. And the solutions to do that do exist!  Most attacks succeed by taking advantage of common failures in their target's systems. Whether new or not, known, unknown, or even unknown, attacks leverage security gaps such as   unpatched or uncharted vulnerabilities, misconfigurations, out-of-date systems, expired certificates, human errors, etc.  As attackers rely on a range of automated offensive testing tools to scan their targets' attack surfaces and propagate inside their network, a purely reactive defensive stance based on detection and response is increasingly likely to be overwhelmed by an attack.  The logical tactical move is to emulate attackers' TTPs and behaviors beforehand by integrating attack simulation tools to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok denies data breach following leak of user data<a href="https://securityaffairs.co/wordpress/135333/data-breach/tiktok-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors published a sample of data allegedly stolen from TikTok, but the company denies it was breached.
+
+
+
+The hacking collective AgainstTheWest recently published a post on Breach Forums message board claiming to have hacked TikTok and stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP patches zero-day used in new Deadbolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-patches-zero-day-used-in-new-deadbolt-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP is warning customers of ongoing DeadBolt ransomware attacks that started on Saturday by exploiting a zero-day vulnerability in Photo Station.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSRF flaw in csurf NPM package aimed at protecting against the same flaws<a href="https://portswigger.net/daily-swig/csrf-flaw-in-csurf-npm-package-aimed-at-protecting-against-the-same-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that while the popular package was intended to defend against CSRF, a CSRF bug has lain dormant within the code since the last version release, impacting any application using the open source package.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Abuse Genshin Impact Anti-Cheat System to Disable Antivirus<a href="https://thehackernews.com/2022/09/ransomware-attackers-abuse-genshin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerable anti-cheat driver for the Genshin Impact video game has been leveraged by a cybercrime actor to disable antivirus programs to facilitate the deployment of ransomware, according to findings from Trend Micro.  The ransomware infection, which was triggered in the last week of July 2022, banked on the fact that the driver in question ("mhyprot2.sys") is signed with a valid certificate, thereby making it possible to circumvent privileges and terminate services associated with endpoint protection applications.  Genshin Impact is a popular action role-playing game that was developed and published by Shanghai-based developer miHoYo in September 2020.   The driver used in the attack chain is said to have been built in August 2020, with the existence of the flaw in the module  discussed  after the release of the game, and leading to  exploits   demonstrating  the ability to kill any arbitrary process and escalate to kernel mode.  The idea, in a nutshell, is to use the leg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Defender identified Chromium, Electron apps as Hive Ransomware<a href="https://securityaffairs.co/wordpress/135326/security/windows-defender-flase-positive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released a Windows Defender update to fix a problem that caused Defender antivirus to identify Chromium, Electron, as malware
+
+
+
+Microsoft released a Windows Defender update to fix a problem that caused Defender antivirus software to identify...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok denies security breach after hackers leak user data, source code<a href="https://www.bleepingcomputer.com/news/security/tiktok-denies-security-breach-after-hackers-leak-user-data-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok denies recent claims it was breached, and source code and user data were stolen, telling BleepingComputer that data posted to a hacking forum is "completely unrelated" to the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Titan Security Group acquires Prudential Security to expand its service footprint<a href="https://www.helpnetsecurity.com/2022/09/04/titan-security-group-prudential-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Titan Security Group has completed the acquisition of the security staffing operation of Prudential Security, a security solutions provider based in Taylor, Michigan. Titan is a portfolio company of Quad C Management.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Antivirus and Cleaner Apps Caught Installing SharkBot Android Banking Trojan<a href="https://thehackernews.com/2022/09/fake-antivirus-and-cleaner-apps-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Android banking trojan known as  SharkBot  has once again made an appearance on the Google Play Store by masquerading as antivirus and cleaner apps.  "This new dropper doesn't rely on Accessibility permissions to automatically perform the installation of the dropper Sharkbot malware," NCC Group's Fox-IT  said  in a report. "Instead, this new version asks the victim to install the malware as a fake update for the antivirus to stay protected against threats."  The apps in question, Mister Phone Cleaner and Kylhavy Mobile Security, have over 60,000 installations between them and are designed to target users in Spain, Australia, Poland, Germany, the U.S., and Austria -    Mister Phone Cleaner (com.mbkristine8.cleanmaster, 50,000+ downloads)  Kylhavy Mobile Security (com.kylhavy.antivirus, 10,000+ downloads)   The  droppers  are designed to drop a new version of SharkBot,  dubbed V2  by Dutch security firm ThreatFabric, which features an updated co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilProxy Phishing-As-A-Service With MFA Bypass Emerged In Dark Web<a href="https://securityaffairs.co/wordpress/135318/cyber-crime/evilproxy-phishing-as-a-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity researchers discovered a new Phishing-as-a-Service (PhaaS) called EvilProxy advertised on the Dark Web. 
+
+
+
+Original post: https://resecurity.com/blog/article/evilproxy-phishing-as-a-service-with-mfa-bypass-emerged-in-dark-web
+
+
+
+Following...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilProxy Phishing-as-a-Service with MFA Bypass Capability Emerged in the Dark Web<a href="https://resecurity.com/blog/article/evilproxy-phishing-as-a-service-with-mfa-bypass-emerged-in-dark-web?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Early occurrences of EvilProxy have been initially identified in connection to attacks against Google and MSFT customers who have MFA enabled on their accounts – either with SMS or Application Token.
+</details>
+<div style="text-align: right" markdown="1">
+Resecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new SharkBot variant bypassed Google Play checks again<a href="https://securityaffairs.co/wordpress/135303/malware/sharkbot-variant-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted an upgraded version of the SharkBot malware that was uploaded to the official Google Play Store.
+
+
+
+Fox IT researchers have spotted an upgraded version of a SharkBot dropper that was uploaded to the official Google Play Store.
+
+
+
+While...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Tax Agency Inadvertently Exposed 120,000 Taxpayers’ Confidential Information<a href="https://news.yahoo.com/irs-inadvertently-publishes-120-000-234841222.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed data did not include Social Security numbers, full individual income information, detailed financial account data, or other information that could impact a taxpayer’s credit.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SharkBot Banking Trojan Variant Bypassed Google Play Store Checks Again<a href="https://securityaffairs.co/wordpress/135303/malware/sharkbot-variant-google-play.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware was observed targeting the mobile users of banks in Italy, the UK, and the US. The trojan allows to hijack users’ mobile devices and steal funds from online banking and cryptocurrency accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart’s New JavaScript Skimmer Targets Magento Websites<a href="https://cyware.com/news/magecarts-new-javascript-skimmer-targets-magento-websites-e2b125fc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers spotted and analyzed a new JavaScript skimmer used by the Magecart threat group to target Magento e-commerce sites and steal payment data. The malicious JS code is loaded with standard skimmer anti-detection features. Magento e-commerce site owners should deploy the right too ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 04, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
