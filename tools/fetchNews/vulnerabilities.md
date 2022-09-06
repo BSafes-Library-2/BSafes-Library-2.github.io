@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender falsely detects Win32/Hive.ZY in Google Chrome, Electron apps<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-falsely-detects-win32-hivezy-in-google-chrome-electron-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bad Microsoft Defender signature update mistakenly detects Google Chrome, Microsoft Edge, Discord, and other Electron apps as 'Win32/Hive.ZY' each time the apps are opened in Windows.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects<a href="https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of security vulnerabilities discovered in the GitHub environments of two very popular open source projects from Apache and Google could be used to stealthily modify project source code, steal secrets, and move laterally inside an organization.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google rolled out emergency fixes to address actively exploited Chrome zero-day<a href="https://securityaffairs.co/wordpress/135249/security/chrome-emergency-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google rolled out emergency fixes to address a vulnerability in the Chrome web browser that is being actively exploited in the wild.
+
+
+
+Google on Friday released emergency fixes to address a vulnerability, tracked as CVE-2022-3075, in the Chrome web browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

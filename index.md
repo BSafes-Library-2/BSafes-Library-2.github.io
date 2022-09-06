@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New EvilProxy service lets all hackers use advanced phishing tactics<a href="https://www.bleepingcomputer.com/news/security/new-evilproxy-service-lets-all-hackers-use-advanced-phishing-tactics/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in TikTok Allows Account Hijacking<a href="https://cyware.com/news/critical-flaw-in-tiktok-allows-account-hijacking-f4f65b99"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Denies Data Breach Reportedly Exposing Over 2 Billion Users' Information<a href="https://thehackernews.com/2022/09/tiktok-denies-data-breach-reportedly.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns new Deadbolt ransomware attacks exploiting zero-day<a href="https://securityaffairs.co/wordpress/135347/malware/qnap-deadbolt-ransomware-new-attacks.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol dismantles sextortion ring, warns of increased attacks<a href="https://www.bleepingcomputer.com/news/security/interpol-dismantles-sextortion-ring-warns-of-increased-attacks/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Election Officials Have Been Largely Successful in Deterring Cyber Threats, CISA Official Says<a href="https://www.nextgov.com/cybersecurity/2022/09/election-officials-have-been-largely-successful-deterring-cyber-threats-cisa-official-says/376722/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Is Your Security Team Profile? Prevention, Detection, or Risk Management<a href="https://thehackernews.com/2022/09/what-is-your-security-team-profile.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok denies data breach following leak of user data<a href="https://securityaffairs.co/wordpress/135333/data-breach/tiktok-data-leak.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP patches zero-day used in new Deadbolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-patches-zero-day-used-in-new-deadbolt-ransomware-attacks/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CSRF flaw in csurf NPM package aimed at protecting against the same flaws<a href="https://portswigger.net/daily-swig/csrf-flaw-in-csurf-npm-package-aimed-at-protecting-against-the-same-flaws?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attackers Abuse Genshin Impact Anti-Cheat System to Disable Antivirus<a href="https://thehackernews.com/2022/09/ransomware-attackers-abuse-genshin.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Defender identified Chromium, Electron apps as Hive Ransomware<a href="https://securityaffairs.co/wordpress/135326/security/windows-defender-flase-positive.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok denies security breach after hackers leak user data, source code<a href="https://www.bleepingcomputer.com/news/security/tiktok-denies-security-breach-after-hackers-leak-user-data-source-code/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Titan Security Group acquires Prudential Security to expand its service footprint<a href="https://www.helpnetsecurity.com/2022/09/04/titan-security-group-prudential-security/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2022
+September 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Antivirus and Cleaner Apps Caught Installing SharkBot Android Banking Trojan<a href="https://thehackernews.com/2022/09/fake-antivirus-and-cleaner-apps-caught.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EvilProxy Phishing-As-A-Service With MFA Bypass Emerged In Dark Web<a href="https://securityaffairs.co/wordpress/135318/cyber-crime/evilproxy-phishing-as-a-service.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EvilProxy Phishing-as-a-Service with MFA Bypass Capability Emerged in the Dark Web<a href="https://resecurity.com/blog/article/evilproxy-phishing-as-a-service-with-mfa-bypass-emerged-in-dark-web?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Resecurity
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new SharkBot variant bypassed Google Play checks again<a href="https://securityaffairs.co/wordpress/135303/malware/sharkbot-variant-google-play.html"> Full Text</a>
@@ -350,7 +350,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Federal Tax Agency Inadvertently Exposed 120,000 Taxpayers’ Confidential Information<a href="https://news.yahoo.com/irs-inadvertently-publishes-120-000-234841222.html?&web_view=true"> Full Text</a>
@@ -366,7 +366,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SharkBot Banking Trojan Variant Bypassed Google Play Store Checks Again<a href="https://securityaffairs.co/wordpress/135303/malware/sharkbot-variant-google-play.html?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2022
+September 5, 2022 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart’s New JavaScript Skimmer Targets Magento Websites<a href="https://cyware.com/news/magecarts-new-javascript-skimmer-targets-magento-websites-e2b125fc"> Full Text</a>

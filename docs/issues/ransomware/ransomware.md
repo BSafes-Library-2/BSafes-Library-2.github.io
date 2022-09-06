@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns new Deadbolt ransomware attacks exploiting zero-day<a href="https://securityaffairs.co/wordpress/135347/malware/qnap-deadbolt-ransomware-new-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP warns customers of ongoing DeadBolt ransomware attacks that are exploiting a zero-day vulnerability in Photo Station.
+
+
+
+QNAP warns customers of an ongoing wave of DeadBolt ransomware attacks, threat actors are exploiting a zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart’s New JavaScript Skimmer Targets Magento Websites<a href="https://cyware.com/news/magecarts-new-javascript-skimmer-targets-magento-websites-e2b125fc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers spotted and analyzed a new JavaScript skimmer used by the Magecart threat group to target Magento e-commerce sites and steal payment data.&nbsp;The malicious JS code is loaded with standard skimmer anti-detection features. Magento e-commerce site owners should deploy the right too ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

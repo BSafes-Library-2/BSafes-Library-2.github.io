@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Denies Data Breach Reportedly Exposing Over 2 Billion Users' Information<a href="https://thehackernews.com/2022/09/tiktok-denies-data-breach-reportedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form social video service TikTok denied reports that it was breached by a hacking group, after it claimed to have gained access to an insecure cloud server.  "TikTok prioritizes the privacy and security of our users' data," the ByteDance-owned company told The Hacker News. "Our security team investigated these claims and found no evidence of a security breach."  The denial follows alleged reports of a hack that surfaced on the Breach Forums message board on September 3, with the threat actor noting that the server holds 2.05 billion records in a humongous 790GB database.   "Who would have thought that TikTok would decide to store all their internal backend source code on one Alibaba Cloud instance using a trashy password?," the hacking group known as BlueHornet (aka&nbsp; AgainstTheWest )&nbsp; tweeted &nbsp;over the weekend.   Bob Diachenko, threat intelligence researcher at Security Discovery,&nbsp; said &nbsp;the breach is "real" and that the data i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

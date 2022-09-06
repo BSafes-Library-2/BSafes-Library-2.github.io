@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok denies data breach following leak of user data<a href="https://securityaffairs.co/wordpress/135333/data-breach/tiktok-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors published a sample of data allegedly stolen from TikTok, but the company denies it was breached.
+
+
+
+The hacking collective AgainstTheWest recently published a post on Breach Forums message board claiming to have hacked TikTok and stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Federal Tax Agency Inadvertently Exposed 120,000 Taxpayers’ Confidential Information<a href="https://news.yahoo.com/irs-inadvertently-publishes-120-000-234841222.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed data did not include Social Security numbers, full individual income information, detailed financial account data, or other information that could impact a taxpayer’s credit.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

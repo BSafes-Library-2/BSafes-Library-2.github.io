@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Election Officials Have Been Largely Successful in Deterring Cyber Threats, CISA Official Says<a href="https://www.nextgov.com/cybersecurity/2022/09/election-officials-have-been-largely-successful-deterring-cyber-threats-cisa-official-says/376722/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The head of CISA’s National Risk Management Center pointed to public-private partnerships and enhanced resource-sharing activities as key to defending against outside threats to voting systems.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

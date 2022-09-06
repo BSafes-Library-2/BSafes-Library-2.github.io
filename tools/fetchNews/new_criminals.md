@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol dismantles sextortion ring, warns of increased attacks<a href="https://www.bleepingcomputer.com/news/security/interpol-dismantles-sextortion-ring-warns-of-increased-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A transnational sextortion ring was uncovered and dismantled following a joint investigation&nbsp;between Interpol's&nbsp;cybercrime division and police in Singapore and Hong Kong.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Abuse Genshin Impact Anti-Cheat System to Disable Antivirus<a href="https://thehackernews.com/2022/09/ransomware-attackers-abuse-genshin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerable anti-cheat driver for the Genshin Impact video game has been leveraged by a cybercrime actor to disable antivirus programs to facilitate the deployment of ransomware, according to findings from Trend Micro.  The ransomware infection, which was triggered in the last week of July 2022, banked on the fact that the driver in question ("mhyprot2.sys") is signed with a valid certificate, thereby making it possible to circumvent privileges and terminate services associated with endpoint protection applications.  Genshin Impact is a popular action role-playing game that was developed and published by Shanghai-based developer miHoYo in September 2020.   The driver used in the attack chain is said to have been built in August 2020, with the existence of the flaw in the module&nbsp; discussed &nbsp;after the release of the game, and leading to&nbsp; exploits &nbsp; demonstrating &nbsp;the ability to kill any arbitrary process and escalate to kernel mode.  The idea, in a nutshell, is to use the leg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

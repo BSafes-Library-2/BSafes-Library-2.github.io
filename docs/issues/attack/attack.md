@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok denies security breach after hackers leak user data, source code<a href="https://www.bleepingcomputer.com/news/security/tiktok-denies-security-breach-after-hackers-leak-user-data-source-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok denies recent claims it was breached, and source code and user data were stolen, telling BleepingComputer that data posted to a hacking forum is "completely unrelated" to the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

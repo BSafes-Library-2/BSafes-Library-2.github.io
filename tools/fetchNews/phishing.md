@@ -8,6 +8,28 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new phishing scam targets American Express cardholders<a href="https://securityaffairs.co/wordpress/135292/hacking/phishing-scam-targets-american-express.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Armorblox discovered a&nbsp;new phishing campaign&nbsp;aimed at American Express customers.
+
+
+
+Armorblox researchers uncovered a&nbsp;new phishing campaign&nbsp;that is targeting American Express customers.
+
+
+
+The messages use a malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
