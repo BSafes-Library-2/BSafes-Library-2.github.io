@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes WT1SHOP market selling credit cards, credentials, and IDs<a href="https://www.bleepingcomputer.com/news/security/us-seizes-wt1shop-market-selling-credit-cards-credentials-and-ids/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has seized the website and domains for WT1SHOP, a criminal marketplace that sold stolen credit cards, I.D. cards, and millions of login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s polluting your data lake?<a href="https://www.helpnetsecurity.com/2022/09/06/data-lake-pollution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With digital transformations having occurred over the past couple of years, cloud data storage has significantly increased. As enterprise data lakes and cloud storage environments expand, cybersecurity will become a greater challenge.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worok Hackers Target High-Profile Asian Companies and Governments<a href="https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile companies and local governments located primarily in Asia are the subjects of targeted attacks by a previously undocumented espionage group dubbed  Worok  that has been active since late 2020.  "Worok's toolset includes a C++ loader CLRLoad, a PowerShell backdoor PowHeartBeat, and a C# loader PNGLoad that uses steganography to extract hidden malicious payloads from PNG files," ESET researcher Thibaut Passilly  said  in a new report published today.  Worok is said to share overlaps in tools and interests with another adversarial collective tracked as  TA428 , with the group linked to attacks against entities spanning energy, financial, maritime, and telecom sectors in Asia as well as a government agency in the Middle East and a private firm in southern Africa.   Malicious activities undertaken by the group experienced a noticeable break from May 2021 to January 2022, before resuming the next month. The Slovak cybersecurity firm assessed the group's goals
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Los Angeles Unified School District hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/135411/cyber-crime/los-angeles-unified-school-district-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the US largest School districts, the Los Angeles Unified School District, suffered a ransomware attack during the weekend.
+
+
+
+The Los Angeles Unified School District is one of the largest school distinct in the US, it was hit by a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet is coming for your unpatched D-Link router<a href="https://www.bleepingcomputer.com/news/security/moobot-botnet-is-coming-for-your-unpatched-d-link-router/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai malware botnet variant known as 'MooBot' has re-emerged in a new attack wave that started early last month, targeting vulnerable D-Link routers with a mix of old and new exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Attack Playbook Similar to that of Hive, Nokoyawa<a href="https://www.trendmicro.com/en_us/research/22/i/play-ransomware-s-attack-playbook-unmasks-it-as-another-hive-aff.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of this ransomware first surfaced in Bleeping Computer forums in June 2022. A month later, more details about Play ransomware were published on the “No-logs No breach” website.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA505 Hackers Using TeslaGun Panel to Manage ServHelper Backdoor Attacks<a href="https://thehackernews.com/2022/09/ta505-hackers-using-teslagun-panel-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have offered fresh insight into a previously undocumented software control panel used by a financially motivated threat group known as TA505.  "The group frequently changes its malware attack strategies in response to global cybercrime trends," Swiss cybersecurity firm PRODAFT  said  in a report shared with The Hacker News. "It opportunistically adopts new technologies in order to gain leverage over victims before the wider cybersecurity industry catches on."  Also tracked under the names Evil Corp, Gold Drake, Dudear, Indrik Spider, and SectorJ04, TA505 is an aggressive  Russian cybercrime syndicate  behind the infamous Dridex banking trojan and which has been linked to a  number of ransomware campaigns  in recent years.    It's also said to be connected to the  Raspberry Robin attacks  that emerged in September 2021, with similarities uncovered between the malware and Dridex.   Other notable malware families associated with the group
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Android malware used to spy on the Uyghur Community<a href="https://securityaffairs.co/wordpress/135403/malware/android-malware-spy-uyghur.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted new Android spyware that was used by China-linked threat actors to spy on the Uyghur community in China.
+
+
+
+Researchers from Cyble Research & Intelligence Labs (CRIL) started their investigation after MalwareHunterTeam experts shared...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minecraft is hackers’ favorite game title for hiding malware<a href="https://www.bleepingcomputer.com/news/security/minecraft-is-hackers-favorite-game-title-for-hiding-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered that Minecraft is the most heavily abused game title by cybercriminals, who use it to lure unsuspecting players into installing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-speaking cyber criminals feel economic pinch<a href="https://www.computerweekly.com/news/252524585/Russian-speaking-cyber-criminals-feel-economic-pinch?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-speaking cybercriminals face falling financial returns following Russia’s invasion of Ukraine, with many scams becoming redundant almost overnight due to sanctions and increased scrutiny of Russian entities, say Digital Shadows researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Computer Weekly
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integrating Live Patching in SecDevOps Workflows<a href="https://thehackernews.com/2022/09/integrating-live-patching-in-secdevops.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SecDevOps is, just like DevOps, a transformational change that organizations undergo at some point during their lifetime. Just like many other big changes, SecDevOps is commonly adopted after a reality check of some kind: a big damaging cybersecurity incident, for example.  A major security breach or, say, consistent problems in achieving development goals signals to organizations that the existing development framework doesn't work and that something new is needed. But what exactly is SecDevOps, why should you embrace it – and how can you do it more easily in practice?  The fundamentals of SecDevOps  By itself, SecDevOps is not just one single improvement. You may see it as a new tool, or set of tools, or perhaps a different mindset. Some might see SecDevOps as a culture. In reality, it's all of those factors wrapped into a new approach to development that's intended to put security first.  SecDevOps rely on highly reproducible scenarios, touching on topics such as system
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered TeslaGun Panel used by TA505 to manage its ServHelper Backdoor<a href="https://securityaffairs.co/wordpress/135387/apt/ta505-teslagun-control-panel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a previously undocumented software control panel, named TeslaGun, used by a cybercrime gang known as TA505.
+
+
+
+Researchers from cybersecurity firm PRODAFT have discovered a previously undocumented software control panel, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of Vice Society ransomware attacks on school districts<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-vice-society-ransomware-attacks-on-school-districts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI, CISA, and MS-ISAC warned today of U.S. school districts being increasingly targeted by the Vice Society ransomware group, with more attacks expected after the new school year start.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant MooBot Targeting D-Link Devices<a href="https://unit42.paloaltonetworks.com/moobot-d-link-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In early August, Unit 42 researchers discovered attacks leveraging several vulnerabilities in devices made by D-Link, a company that specializes in network and connectivity products.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EvilProxy Phishing Service Allowing Cybercriminals to Bypass 2-Factor Security<a href="https://thehackernews.com/2022/09/new-evilproxy-phishing-service-allowing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service (PhaaS) toolkit dubbed EvilProxy is being advertised on the criminal underground as a means for threat actors to bypass two-factor authentication (2FA) protections employed against online services.  "EvilProxy actors are using reverse proxy and cookie injection methods to bypass 2FA authentication – proxifying victim's session," Resecurity researchers  said  in a Monday write-up.   The platform generates phishing links that are nothing but cloned pages designed to compromise user accounts associated with Apple iCloud, Facebook, GoDaddy, GitHub, Google, Dropbox, Instagram, Microsoft, NPM, PyPI, RubyGems, Twitter, Yahoo, and Yandex, among others.  EvilProxy is similar to adversary-in-the-middle ( AiTM ) attacks in that users interact with a malicious proxy server that acts as a go-between for the target website, covertly harvesting the credentials and 2FA passcodes entered in the login pages.  It's offered on a subscription basis per service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China accuses the US of cyberattacks<a href="https://securityaffairs.co/wordpress/135369/cyber-warfare-2/china-accuses-us-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China accuses the United States of conducting tens of thousands of cyberattacks on its country, including cyberespionage campaigns.
+
+
+
+The Government of Beijing accused the United States of launching tens of thousands of cyberattacks on China. The attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel releases new NAS firmware to fix critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/zyxel-releases-new-nas-firmware-to-fix-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel Corporation, the Taiwanese networking and data storage device maker, has issued a security advisory to warn clients of a critical remote code execution (RCE) vulnerability impacting three models of its NAS products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The rise of ransomware and what can be done about it<a href="https://blog.avast.com/rise-of-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware cybercriminal gangs and markets have made adjustments to their original ransom demands and found a near limitless demand for targeted ransomware, enabling them to up their extortion demands.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Android Spyware Campaign Targeting Uyghur Community<a href="https://thehackernews.com/2022/09/researchers-find-new-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented strain of Android spyware with extensive information gathering capabilities has been found disguised as a book likely designed to target the  Uyghur community  in China.  The malware comes under the guise of a book titled " The China Freedom Trap ," a biography written by the exiled Uyghur leader Dolkun Isa.   "In light of the ongoing conflict between the Government of the People's Republic of China and the Uyghur community, the malware disguised as the book is a lucrative bait employed by threat actors (TAs) to spread malicious infection in the targeted community," cybersecurity firm Cyble  said  in a report published Monday.  The existence of the malware samples, which come with the package name " com.emc.pdf ," was first disclosed by researchers from the  MalwareHunterTeam  late last month.   Distributed outside of the official Google Play Store, the app, once installed and opened, displays a few pages of the book, includi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol dismantled sextortion ring in Asia<a href="https://securityaffairs.co/wordpress/135357/cyber-crime/interpol-dismantled-sextortion-ring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol arrested 12 individuals which are suspected to be core members of a transnational sextortion ring.
+
+
+
+Interpol announced the arrest of 12 individuals suspected to be core members of a transnational sextortion ring. The arrests took place in July...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InterContinental Hotels Group cyberattack disrupts booking systems<a href="https://www.bleepingcomputer.com/news/security/intercontinental-hotels-group-cyberattack-disrupts-booking-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading hospitality company InterContinental Hotels Group PLC (also known as IHG Hotels & Resorts) says its information technology (IT) systems have been disrupted since yesterday after its network was breached.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy Malware Dubbed Shikitega Targeting Linux Systems<a href="https://cybersecurity.att.com/blogs/labs-research/shikitega-new-stealthy-malware-targeting-linux?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware downloads and executes Metasploit’s “Mettle” meterpreter to maximize its control of infected machines. Shikitega exploits system vulnerabilities to gain high privileges, persist and execute cryptominer.
+</details>
+<div style="text-align: right" markdown="1">
+AT&T Cybersecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Warns of New DeadBolt Ransomware Attacks Exploiting Photo Station Flaw<a href="https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has issued a new advisory urging users of its network-attached storage (NAS) devices to upgrade to the latest version of  Photo Station  following yet another wave of  DeadBolt ransomware attacks  in the wild by exploiting a zero-day flaw in the software.  The Taiwanese company  said  it detected the attacks on September 3 and that "the campaign appears to target QNAP NAS devices running Photo Station with internet exposure."   The issue has been addressed in the following versions -   QTS 5.0.1: Photo Station 6.1.2 and later  QTS 5.0.0/4.5.x: Photo Station 6.0.22 and later  QTS 4.3.6: Photo Station 5.7.18 and later  QTS 4.3.3: Photo Station 5.4.15 and later  QTS 4.2.6: Photo Station 5.2.14 and later    Details of the flaw have been kept under wraps for now, but the company is advising users to disable port forwarding on the routers, prevent NAS devices from being accessible on the Internet, upgrade NAS firmware, apply strong passwords for user accounts, and take regula
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux malware evades detection using multi-stage deployment<a href="https://www.bleepingcomputer.com/news/security/new-linux-malware-evades-detection-using-multi-stage-deployment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new stealthy Linux malware known as Shikitega has been discovered infecting computers and IoT devices with additional payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New strategic growth investment in Hornetsecurity<a href="https://www.helpnetsecurity.com/2022/09/06/hornetsecurity-ta-associates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hornetsecurity announced that TA Associates has signed a definitive agreement to make a strategic growth investment in the Company. TA will join existing investors PSG Equity and Verdane, as well as the Company’s management team.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Worok cyber-espionage group targets governments, high-profile firms<a href="https://www.bleepingcomputer.com/news/security/new-worok-cyber-espionage-group-targets-governments-high-profile-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered cyber-espionage group has been hacking governments and high-profile companies in Asia since at least 2020 using a combination of custom and existing malicious tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second largest U.S. school district LAUSD hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/second-largest-us-school-district-lausd-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Los Angeles Unified (LAUSD), the second largest school district in the U.S., disclosed that a ransomware attack hit its Information Technology (IT) systems over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 05, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
