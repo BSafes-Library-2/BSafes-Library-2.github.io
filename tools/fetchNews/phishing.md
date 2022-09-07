@@ -8,6 +8,56 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EvilProxy service lets all hackers use advanced phishing tactics<a href="https://www.bleepingcomputer.com/news/security/new-evilproxy-service-lets-all-hackers-use-advanced-phishing-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reverse-proxy Phishing-as-a-Service (PaaS) platform called EvilProxy has emerged, promising to steal authentication tokens to bypass multi-factor authentication (MFA) on Apple, Google, Facebook, Microsoft, Twitter, GitHub, GoDaddy, and even PyPI.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilProxy Phishing-As-A-Service With MFA Bypass Emerged In Dark Web<a href="https://securityaffairs.co/wordpress/135318/cyber-crime/evilproxy-phishing-as-a-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity researchers discovered a new Phishing-as-a-Service (PhaaS) called&nbsp;EvilProxy&nbsp;advertised on the Dark Web. 
+
+
+
+Original post: https://resecurity.com/blog/article/evilproxy-phishing-as-a-service-with-mfa-bypass-emerged-in-dark-web
+
+
+
+Following...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilProxy Phishing-as-a-Service with MFA Bypass Capability Emerged in the Dark Web<a href="https://resecurity.com/blog/article/evilproxy-phishing-as-a-service-with-mfa-bypass-emerged-in-dark-web?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Early occurrences of EvilProxy have been initially identified in connection to attacks against Google and MSFT customers who have MFA enabled on their accounts – either with SMS or Application Token.
+</details>
+<div style="text-align: right" markdown="1">
+Resecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

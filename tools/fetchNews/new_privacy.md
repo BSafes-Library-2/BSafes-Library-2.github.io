@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find New Android Spyware Campaign Targeting Uyghur Community<a href="https://thehackernews.com/2022/09/researchers-find-new-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented strain of Android spyware with extensive information gathering capabilities has been found disguised as a book likely designed to target the&nbsp; Uyghur community &nbsp;in China.  The malware comes under the guise of a book titled " The China Freedom Trap ," a biography written by the exiled Uyghur leader Dolkun Isa.   "In light of the ongoing conflict between the Government of the People's Republic of China and the Uyghur community, the malware disguised as the book is a lucrative bait employed by threat actors (TAs) to spread malicious infection in the targeted community," cybersecurity firm Cyble&nbsp; said &nbsp;in a report published Monday.  The existence of the malware samples, which come with the package name " com.emc.pdf ," was first disclosed by researchers from the&nbsp; MalwareHunterTeam &nbsp;late last month.   Distributed outside of the official Google Play Store, the app, once installed and opened, displays a few pages of the book, includi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

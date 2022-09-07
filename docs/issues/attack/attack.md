@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Los Angeles Unified School District hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/135411/cyber-crime/los-angeles-unified-school-district-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the US largest School districts, the Los Angeles Unified School District, suffered a ransomware attack during the weekend.
+
+
+
+The Los Angeles Unified School District is one of the largest school distinct in the US, it was hit by a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

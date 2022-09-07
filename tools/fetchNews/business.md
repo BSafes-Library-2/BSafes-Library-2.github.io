@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Titan Security Group acquires Prudential Security to expand its service footprint<a href="https://www.helpnetsecurity.com/2022/09/04/titan-security-group-prudential-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Titan Security Group has completed the acquisition of the security staffing operation of Prudential Security, a security solutions provider based in Taylor, Michigan. Titan is a portfolio company of Quad C Management.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

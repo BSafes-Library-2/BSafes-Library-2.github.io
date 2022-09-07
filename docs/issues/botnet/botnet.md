@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet is coming for your unpatched D-Link router<a href="https://www.bleepingcomputer.com/news/security/moobot-botnet-is-coming-for-your-unpatched-d-link-router/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai malware botnet variant known as 'MooBot' has re-emerged in a new attack wave that started early last month, targeting vulnerable D-Link routers with a mix of old and new exploits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

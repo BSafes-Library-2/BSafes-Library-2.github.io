@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant MooBot Targeting D-Link Devices<a href="https://unit42.paloaltonetworks.com/moobot-d-link-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In early August, Unit 42 researchers discovered attacks leveraging several vulnerabilities in devices made by D-Link, a company that specializes in network and connectivity products.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel releases new NAS firmware to fix critical RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/zyxel-releases-new-nas-firmware-to-fix-critical-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel Corporation, the Taiwanese networking and data storage device maker, has issued a security advisory to warn clients of a critical remote code execution (RCE) vulnerability impacting three models of its NAS products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

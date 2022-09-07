@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in TikTok Allows Account Hijacking<a href="https://cyware.com/news/critical-flaw-in-tiktok-allows-account-hijacking-f4f65b99"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched, high-severity flaw in the Android version of TikTok could have resulted in attackers hijacking user accounts with a single click - disclosed Microsoft.  Attackers can use that access to modify users' TikTok profiles and sensitive information, such as sending messages, posting private ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP patches zero-day used in new Deadbolt ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/qnap-patches-zero-day-used-in-new-deadbolt-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP is warning customers of ongoing DeadBolt ransomware attacks that started on Saturday by exploiting a zero-day vulnerability in Photo Station.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSRF flaw in csurf NPM package aimed at protecting against the same flaws<a href="https://portswigger.net/daily-swig/csrf-flaw-in-csurf-npm-package-aimed-at-protecting-against-the-same-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that while the popular package was intended to defend against CSRF, a CSRF bug has lain dormant within the code since the last version release, impacting any application using the open source package.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Defender identified Chromium, Electron apps as Hive Ransomware<a href="https://securityaffairs.co/wordpress/135326/security/windows-defender-flase-positive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released a Windows Defender update to fix a problem that caused Defender antivirus to identify Chromium, Electron, as malware
+
+
+
+Microsoft released a Windows Defender update to fix a problem that caused Defender antivirus software to identify...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

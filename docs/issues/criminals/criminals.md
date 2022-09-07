@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US seizes WT1SHOP market selling credit cards, credentials, and IDs<a href="https://www.bleepingcomputer.com/news/security/us-seizes-wt1shop-market-selling-credit-cards-credentials-and-ids/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has seized the website and domains for WT1SHOP, a criminal marketplace that sold stolen credit cards, I.D. cards, and millions of login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-speaking cyber criminals feel economic pinch<a href="https://www.computerweekly.com/news/252524585/Russian-speaking-cyber-criminals-feel-economic-pinch?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-speaking cybercriminals face falling financial returns following Russia’s invasion of Ukraine, with many scams becoming redundant almost overnight due to sanctions and increased scrutiny of Russian entities, say Digital Shadows researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Computer Weekly
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol dismantled sextortion ring in Asia<a href="https://securityaffairs.co/wordpress/135357/cyber-crime/interpol-dismantled-sextortion-ring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol arrested 12 individuals which are suspected to be core members of a transnational sextortion ring.
+
+
+
+Interpol announced the arrest of 12 individuals suspected to be core members of a transnational sextortion ring. The arrests took place in July...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

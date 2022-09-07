@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is Your Security Team Profile? Prevention, Detection, or Risk Management<a href="https://thehackernews.com/2022/09/what-is-your-security-team-profile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not all security teams are born equal. Each organization has a different objective.  In cybersecurity, adopting a proactive approach is not just a buzzword. It actually is what makes the difference between staying behind attackers and getting ahead of them. And the solutions to do that do exist!  Most attacks succeed by taking advantage of common failures in their target's systems. Whether new or not, known, unknown, or even unknown, attacks leverage security gaps such as&nbsp;  unpatched or uncharted vulnerabilities, misconfigurations, out-of-date systems, expired certificates, human errors, etc.  As attackers rely on a range of automated offensive testing tools to scan their targets' attack surfaces and propagate inside their network, a purely reactive defensive stance based on detection and response is increasingly likely to be overwhelmed by an attack.  The logical tactical move is to emulate attackers' TTPs and behaviors beforehand by integrating attack simulation tools to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
