@@ -34,6 +34,446 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP fixes severe bug in pre-installed Support Assistant tool<a href="https://www.bleepingcomputer.com/news/security/hp-fixes-severe-bug-in-pre-installed-support-assistant-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP issued a security advisory alerting users about a newly discovered vulnerability in HP Support Assistant, a software tool that comes pre-installed on all HP laptops and desktop computers, including the Omen sub-brand.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Iran-linked APT42 group deploys Android spyware for cyberespionage<a href="https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant has collected enough evidence to determine that APT42 is a state-sponsored threat actor who engages in cyberespionage against individuals and organizations of particular interest to the Iranian government.
+</details>
+<div style="text-align: right" markdown="1">
+Mandiant
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Members of Conti Group Targeting Ukraine in Financially Motivated Attacks<a href="https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former members of the Conti cybercrime cartel have been implicated in five different campaigns targeting Ukraine from April to August 2022.  The findings, which come from Google's Threat Analysis Group (TAG), builds upon a  prior report  published in July 2022, detailing the continued cyber activity aimed at the Eastern European nation amid the ongoing Russo-Ukrainian war.  "UAC-0098 is a threat actor that historically delivered the  IcedID banking trojan , leading to human-operated ransomware attacks," TAG researcher Pierre-Marc Bureau  said  in a report shared with The Hacker News.   "The attacker has recently shifted their focus to targeting Ukrainian organizations, the Ukrainian government, and European humanitarian and non-profit organizations."  UAC-0098 is believed to have functioned as an initial access broker for ransomware groups such as Quantum and  Conti  (aka FIN12, Gold Ulrick, or Wizard Spiker), the former of which was  subsumed by Conti  in Apri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new stealthy Linux malware dubbed Shikitega<a href="https://securityaffairs.co/wordpress/135437/malware/shikitega-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux malware dubbed Shikitega leverages a multi-stage infection chain to target endpoints and IoT devices.
+
+
+
+Researchers from AT&T Alien Labs discovered a new piece of stealthy Linux malware, dubbed Shikitega, that targets endpoints and IoT devices....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco won’t fix authentication bypass zero-day in EoL routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco says that a new authentication bypass flaw affecting multiple small business VPN routers will not be patched because the devices have reached end-of-life (EoL).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 5 Million Attacks Blocked Targeting 0-Day in BackupBuddy Plugin<a href="https://www.wordfence.com/blog/2022/09/psa-nearly-5-million-attacks-blocked-targeting-0-day-in-backupbuddy-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Late evening, on September 6, 2022, the Wordfence Threat Intelligence team was alerted to the presence of a vulnerability being actively exploited in BackupBuddy, a WordPress plugin we estimate has around 140,000 active installations.
+</details>
+<div style="text-align: right" markdown="1">
+Wordfence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Shut Down WT1SHOP Site for Selling Stolen Credentials and Credit Cards<a href="https://thehackernews.com/2022/09/authorities-shut-down-wt1shop-site-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has resulted in the dismantling of  WT1SHOP , an online criminal marketplace that specialized in the sales of stolen login credentials and other personal information.  The seizure was orchestrated by Portuguese authorities, with the U.S. officials taking control of four domains used by the website: "wt1shop[.]net," "wt1store[.]cc," "wt1store[.]com," and "wt1store[.]net."  The website peddled over 5.85 million records of personally identifying information (PII), including approximately 25,000 scanned driver's licenses/passports, 1.7 million login credentials for various online shops, 108,000 bank accounts, 21,800 credit cards, the U.S. Justice Department (DoJ)  said .   The DoJ also unveiled a criminal complaint against Nicolai Colesnicov, accusing the 36-year-old individual from the Republic of Moldova of running the marketplace. Colesnicov has been charged with conspiracy and with trafficking in un
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Challenges of User Authentication: What You Need to Know<a href="https://securityaffairs.co/wordpress/135434/security/challenges-of-user-authentication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the digital age, authentication is paramount to a strong security strategy. Which are the challenges of user authentication?
+
+
+
+In the digital age, authentication is paramount to a strong security strategy. As virtually every aspect of day-to-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine dismantles more bot farms spreading Russian disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-more-bot-farms-spreading-russian-disinformation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Department of the Ukrainian Security Service (SSU) dismantled two more bot farms that spread Russian disinformation on social networks and messaging platforms via thousands of fake accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware in House of the Dragon downloads<a href="https://cyberwarzone.com/malware-in-house-of-the-dragon-downloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals abuse popular TV shows for their reach. The criminals load illegal downloads with malware and upload them to torrent and file-sharing websites. House of the Dragon is the latest such show to be targeted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberwarzone
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy Shikitega Malware Targeting Linux Systems and IoT Devices<a href="https://thehackernews.com/2022/09/new-stealthy-shikitega-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new piece of stealthy Linux malware called Shikitega has been uncovered adopting a multi-stage infection chain to compromise endpoints and IoT devices and deposit additional payloads.  "An attacker can gain full control of the system, in addition to the cryptocurrency miner that will be executed and set to persist," AT&T Alien Labs  said  in a new report published Tuesday.  The findings add to a growing list of Linux malware that has been found in the wild in recent months, including  BPFDoor ,  Symbiote ,  Syslogk ,  OrBit , and  Lightning Framework .   Once deployed on a targeted host, the attack chain downloads and executes the Metasploit's " Mettle " meterpreter to maximize control, exploits vulnerabilities to elevate its privileges, adds persistence on the host via crontab, and ultimately launches a cryptocurrency miner on infected devices.  The exact method by which the initial compromise is achieved remains unknown as yet, but what makes Shikitega
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel addressed a critical RCE flaw in its NAS devices<a href="https://securityaffairs.co/wordpress/135426/hacking/zyxel-rce-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment vendor Zyxel addressed a critical vulnerability impacting its network-attached storage (NAS) devices.
+
+
+
+Zyxel addressed a critical vulnerability, tracked as CVE-2022-34747, impacting its network-attached storage (NAS) devices.
+
+
+
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200,000 North Face accounts hacked in credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Outdoor apparel brand 'The North Face' was targeted in a large-scale credential stuffing attack that has resulted in the hacking of 194,905 accounts on the thenorthface.com website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cost of a Data Breach for Government Agencies<a href="https://securityintelligence.com/articles/cost-data-breach-government-agencies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research shows that there is a knowledge and awareness gap in the public sector when it comes to security measures. This makes government offices attractive targets for cyber gangs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Deploying New MagicRAT Malware in Targeted Campaigns<a href="https://thehackernews.com/2022/09/north-korean-hackers-spotted-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific North Korean nation-state actor known as the Lazarus Group has been linked to a new remote access trojan called  MagicRAT .  The previously unknown piece of malware is said to have been deployed in victim networks that had been initially breached via successful exploitation of internet-facing VMware Horizon servers, Cisco Talos said in a report shared with The Hacker News.  "While being a relatively simple RAT capability-wise, it was built with recourse to the  Qt Framework , with the sole intent of making human analysis harder, and automated detection through machine learning and heuristics less likely," Talos researchers Jung soo An, Asheer Malhotra, and Vitor Ventura  said .   Lazarus Group , also known as APT38, Dark Seoul, Hidden Cobra, and Zinc, refers to a cluster of financial motivated and espionage-driven  cyber activities  undertaken by the North Korean government as a means to sidestep sanctions imposed on the country and meet its strategic objectives
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet is back and targets vulnerable D-Link routers<a href="https://securityaffairs.co/wordpress/135414/malware/moobot-botnet-targets-d-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Moobot botnet is behind a new wave of attacks that started in early August and that target vulnerable D-Link routers.
+
+
+
+Palo Alto Network’s Unit 42 researchers reported a new wave of attacks launched by the Moobot botnet that target vulnerable...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Iranian hacking group APT42 deploys custom Android spyware<a href="https://www.bleepingcomputer.com/news/security/new-iranian-hacking-group-apt42-deploys-custom-android-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Iranian state-sponsored hacking group known as APT42 has been discovered using a custom Android malware to spy on targets of interest.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram faces $402 million fine for alleged mishandling of children’s data<a href="https://www.csoonline.com/article/3672212/instagram-faces-402-million-fine-for-alleged-mishandling-of-childrens-data.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram's parent company Meta said that it plans to appeal the decision by the Irish Data Protection Commissioner, which is the second-largest, privacy-based fine on record.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Key Takeaways from "XDR is the Perfect Solution for SMEs" webinar<a href="https://thehackernews.com/2022/09/4-key-takeaways-from-xdr-is-perfect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks on large organizations dominate news headlines. So, you may be surprised to learn that small and medium enterprises (SMEs) are actually  more frequent  targets of cyberattacks. Many SMEs understand this risk firsthand.   In a recent  survey , 58% of CISOs of SMEs said that their risk of attack was higher compared to enterprises. Yet, they don't have the same resources as enterprises – making it nearly impossible to protect their organizations from widespread and increasingly more sophisticated attacks that don't discriminate based on company size.  What's their solution?  Extended detection and response (XDR).   During a recent webinar, Cynet's Director of Product Strategy, George Tubin ,  and guest speaker Senior Analyst at Forrester,Allie Mellen, discussed the most serious cybersecurity challenges for SMEs and how they can benefit from XDR platforms.   Here are the four key takeaways from the  conversation .   The Biggest Cybersecurity Challenges for SME
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Default Passwords Hiding in Your Active Directory? Here's how to check<a href="https://www.bleepingcomputer.com/news/security/are-default-passwords-hiding-in-your-active-directory-heres-how-to-check/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the biggest cybersecurity mistakes that an organization can make is failing to change a default password. The question is, how can you track down default passwords in your Windows Active Directory once they're no longer useful?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMTSO Publishes Guidance for Testing IoT Security Products<a href="https://www.securityweek.com/amtso-publishes-guidance-testing-iot-security-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guidelines for Testing of IoT Security Products cover the principles for testing security products for IoT, recommendations on setting up testing environments, the testing for specific security functionality, and performance benchmarking.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities<a href="https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of the Mirai botnet known as MooBot is co-opting vulnerable D-Link devices into an army of denial-of-service bots by taking advantage of multiple exploits.  "If the devices are compromised, they will be fully controlled by attackers, who could utilize those devices to conduct further attacks such as distributed denial-of-service (DDoS) attacks," Palo Alto Networks Unit 42  said  in a Tuesday report.  MooBot, first disclosed by Qihoo 360's Netlab team in September 2019, has previously targeted  LILIN digital video recorders  and  Hikvision video surveillance products  to expand its network.   In the latest wave of attacks discovered by Unit 42 in early August 2022, as many as four different flaws in D-Link devices, both old and new, have paved the way for the deployment of MooBot samples. These include -   CVE-2015-2051  (CVSS score: 10.0) - D-Link HNAP SOAPAction Header Command Execution Vulnerability  CVE-2018-6530  (CVSS score: 9.8) - D-Link SOAP Interface Re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang's Cobalt Strike servers DDoSed with anti-Russia messages<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-cobalt-strike-servers-ddosed-with-anti-russia-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Someone is flooding Cobalt Strike servers operated by former members of the Conti ransomware gang with anti-Russian messages to disrupt their activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released<a href="https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Zyxel has released patches for a critical security flaw impacting its network-attached storage (NAS) devices.  Tracked as  CVE-2022-34747  (CVSS score: 9.8), the issue relates to a "format string vulnerability" affecting NAS326, NAS540, and NAS542 models. Zyxel credited researcher Shaposhnikov Ilya for reporting the flaw.  "A format string vulnerability was found in a specific binary of Zyxel NAS products that could allow an attacker to achieve unauthorized remote code execution via a crafted UDP packet," the company  said  in an advisory released on September 6.   The flaw affects the following versions -   NAS326 (V5.21(AAZF.11)C0 and earlier)  NAS540 (V5.21(AATB.8)C0 and earlier), and  NAS542 (V5.21(ABAG.8)C0 and earlier)   The disclosure comes as Zyxel previously addressed local privilege escalation and authenticated directory traversal vulnerabilities ( CVE-2022-30526 and CVE-2022-2030 ) affecting its firewall products in July. Hacki
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania blames Iran for July cyberattack, severs diplomatic ties<a href="https://www.bleepingcomputer.com/news/security/albania-blames-iran-for-july-cyberattack-severs-diplomatic-ties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albanian Prime Minister Edi Rama announced on Wednesday that the entire staff of the Embassy of the Islamic Republic of Iran was asked to leave within 24 hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google says former Conti ransomware members now attack Ukraine<a href="https://www.bleepingcomputer.com/news/security/google-says-former-conti-ransomware-members-now-attack-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says some former Conti cybercrime gang members, now part of a threat group tracked as UAC-0098, are targeting Ukrainian organizations and European non-governmental organizations (NGOs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
