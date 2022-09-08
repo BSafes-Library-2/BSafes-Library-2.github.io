@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EvilProxy Phishing Service Allowing Cybercriminals to Bypass 2-Factor Security<a href="https://thehackernews.com/2022/09/new-evilproxy-phishing-service-allowing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service (PhaaS) toolkit dubbed EvilProxy is being advertised on the criminal underground as a means for threat actors to bypass two-factor authentication (2FA) protections employed against online services.  "EvilProxy actors are using reverse proxy and cookie injection methods to bypass 2FA authentication – proxifying victim's session," Resecurity researchers&nbsp; said &nbsp;in a Monday write-up.   The platform generates phishing links that are nothing but cloned pages designed to compromise user accounts associated with Apple iCloud, Facebook, GoDaddy, GitHub, Google, Dropbox, Instagram, Microsoft, NPM, PyPI, RubyGems, Twitter, Yahoo, and Yandex, among others.  EvilProxy is similar to adversary-in-the-middle ( AiTM ) attacks in that users interact with a malicious proxy server that acts as a&nbsp;go-between for the target website, covertly harvesting the credentials and 2FA passcodes entered in the login pages.  It's offered on a subscription basis per service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

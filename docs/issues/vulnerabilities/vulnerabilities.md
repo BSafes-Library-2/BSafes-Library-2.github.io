@@ -8,6 +8,74 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP fixes severe bug in pre-installed Support Assistant tool<a href="https://www.bleepingcomputer.com/news/security/hp-fixes-severe-bug-in-pre-installed-support-assistant-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP issued a security advisory alerting users about a newly discovered vulnerability in HP Support Assistant, a software tool that comes pre-installed on all HP laptops and desktop computers, including the Omen sub-brand.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco won’t fix authentication bypass zero-day in EoL routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco says that a new authentication bypass flaw affecting multiple small business VPN routers will not be patched because the devices have reached end-of-life (EoL).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel addressed a critical RCE flaw in its NAS devices<a href="https://securityaffairs.co/wordpress/135426/hacking/zyxel-rce-nas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment vendor Zyxel addressed a critical vulnerability impacting its network-attached storage (NAS) devices.
+
+
+
+Zyxel addressed a critical vulnerability, tracked as CVE-2022-34747, impacting its network-attached storage (NAS) devices.
+
+
+
+
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released<a href="https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Zyxel has released patches for a critical security flaw impacting its network-attached storage (NAS) devices.  Tracked as&nbsp; CVE-2022-34747 &nbsp;(CVSS score: 9.8), the issue relates to a "format string vulnerability" affecting NAS326, NAS540, and NAS542 models. Zyxel credited researcher Shaposhnikov Ilya for reporting the flaw.  "A format string vulnerability was found in a specific binary of Zyxel NAS products that could allow an attacker to achieve unauthorized remote code execution via a crafted UDP packet," the company&nbsp; said &nbsp;in an advisory released on September 6.   The flaw affects the following versions -   NAS326 (V5.21(AAZF.11)C0 and earlier)  NAS540 (V5.21(AATB.8)C0 and earlier), and  NAS542 (V5.21(ABAG.8)C0 and earlier)   The disclosure comes as Zyxel previously addressed local privilege escalation and authenticated directory traversal vulnerabilities ( CVE-2022-30526 and CVE-2022-2030 ) affecting its firewall products in July. Hacki
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

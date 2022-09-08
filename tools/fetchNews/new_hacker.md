@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Deploying New MagicRAT Malware in Targeted Campaigns<a href="https://thehackernews.com/2022/09/north-korean-hackers-spotted-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific North Korean nation-state actor known as the Lazarus Group has been linked to a new remote access trojan called&nbsp; MagicRAT .  The previously unknown piece of malware is said to have been deployed in victim networks that had been initially breached via successful exploitation of internet-facing VMware Horizon servers, Cisco Talos said in a report shared with The Hacker News.  "While being a relatively simple RAT capability-wise, it was built with recourse to the&nbsp; Qt Framework , with the sole intent of making human analysis harder, and automated detection through machine learning and heuristics less likely," Talos researchers Jung soo An, Asheer Malhotra, and Vitor Ventura&nbsp; said .   Lazarus Group , also known as APT38, Dark Seoul, Hidden Cobra, and Zinc, refers to a cluster of financial motivated and espionage-driven&nbsp; cyber activities &nbsp;undertaken by the North Korean government as a means to sidestep sanctions imposed on the country and meet its strategic objectives
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

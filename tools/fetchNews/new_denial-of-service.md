@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang's Cobalt Strike servers DDoSed with anti-Russia messages<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-cobalt-strike-servers-ddosed-with-anti-russia-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Someone is flooding Cobalt Strike servers operated by former members of the Conti ransomware gang with anti-Russian messages to disrupt their activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Shut Down WT1SHOP Site for Selling Stolen Credentials and Credit Cards<a href="https://thehackernews.com/2022/09/authorities-shut-down-wt1shop-site-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has resulted in the dismantling of&nbsp; WT1SHOP , an online criminal marketplace that specialized in the sales of stolen login credentials and other personal information.  The seizure was orchestrated by Portuguese authorities, with the U.S. officials taking control of four domains used by the website: "wt1shop[.]net," "wt1store[.]cc," "wt1store[.]com," and "wt1store[.]net."  The website peddled over 5.85 million records of personally identifying information (PII), including approximately 25,000 scanned driver's licenses/passports, 1.7 million login credentials for various online shops, 108,000 bank accounts, 21,800 credit cards, the U.S. Justice Department (DoJ)&nbsp; said .   The DoJ also unveiled a criminal complaint against Nicolai Colesnicov, accusing the 36-year-old individual from the Republic of Moldova of running the marketplace. Colesnicov has been charged with conspiracy and with trafficking in un
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram faces $402 million fine for alleged mishandling of children’s data<a href="https://www.csoonline.com/article/3672212/instagram-faces-402-million-fine-for-alleged-mishandling-of-childrens-data.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram's parent company Meta said that it plans to appeal the decision by the Irish Data Protection Commissioner, which is the second-largest, privacy-based fine on record.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

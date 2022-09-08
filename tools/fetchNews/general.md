@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s polluting your data lake?<a href="https://www.helpnetsecurity.com/2022/09/06/data-lake-pollution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With digital transformations having occurred over the past couple of years, cloud data storage has significantly increased. As enterprise data lakes and cloud storage environments expand, cybersecurity will become a greater challenge.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Integrating Live Patching in SecDevOps Workflows<a href="https://thehackernews.com/2022/09/integrating-live-patching-in-secdevops.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SecDevOps is, just like DevOps, a transformational change that organizations undergo at some point during their lifetime. Just like many other big changes, SecDevOps is commonly adopted after a reality check of some kind: a big damaging cybersecurity incident, for example.  A major security breach or, say, consistent problems in achieving development goals signals to organizations that the existing development framework doesn't work and that something new is needed. But what exactly is SecDevOps, why should you embrace it – and how can you do it more easily in practice?  The fundamentals of SecDevOps  By itself, SecDevOps is not just one single improvement. You may see it as a new tool, or set of tools, or perhaps a different mindset. Some might see SecDevOps as a culture. In reality, it's all of those factors wrapped into a new approach to development that's intended to put security first.  SecDevOps rely on highly reproducible scenarios, touching on topics such as system
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The rise of ransomware and what can be done about it<a href="https://blog.avast.com/rise-of-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware cybercriminal gangs and markets have made adjustments to their original ransom demands and found a near limitless demand for targeted ransomware, enabling them to up their extortion demands.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

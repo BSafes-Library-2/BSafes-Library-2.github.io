@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 5 Million Attacks Blocked Targeting 0-Day in BackupBuddy Plugin<a href="https://www.wordfence.com/blog/2022/09/psa-nearly-5-million-attacks-blocked-targeting-0-day-in-backupbuddy-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Late evening, on September 6, 2022, the Wordfence Threat Intelligence team was alerted to the presence of a vulnerability being actively exploited in BackupBuddy, a WordPress plugin we estimate has around 140,000 active installations.
+</details>
+<div style="text-align: right" markdown="1">
+Wordfence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200,000 North Face accounts hacked in credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Outdoor apparel brand 'The North Face' was targeted in a large-scale credential stuffing attack that has resulted in the hacking of 194,905 accounts on the&nbsp;thenorthface.com website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania blames Iran for July cyberattack, severs diplomatic ties<a href="https://www.bleepingcomputer.com/news/security/albania-blames-iran-for-july-cyberattack-severs-diplomatic-ties/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albanian&nbsp;Prime Minister Edi Rama announced on Wednesday that the entire staff of the&nbsp;Embassy of the Islamic Republic of Iran&nbsp;was asked&nbsp;to leave&nbsp;within 24 hours.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google says former Conti ransomware members now attack Ukraine<a href="https://www.bleepingcomputer.com/news/security/google-says-former-conti-ransomware-members-now-attack-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google says some former Conti cybercrime gang members, now part of a threat group tracked as UAC-0098, are targeting Ukrainian organizations and&nbsp;European non-governmental organizations (NGOs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

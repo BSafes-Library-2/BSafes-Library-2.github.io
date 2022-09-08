@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Attack Playbook Similar to that of Hive, Nokoyawa<a href="https://www.trendmicro.com/en_us/research/22/i/play-ransomware-s-attack-playbook-unmasks-it-as-another-hive-aff.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Victims of this ransomware first surfaced in Bleeping Computer forums in June 2022. A month later, more details about Play ransomware were published on the “No-logs No breach” website.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Warns of New DeadBolt Ransomware Attacks Exploiting Photo Station Flaw<a href="https://thehackernews.com/2022/09/qnap-warns-of-new-deadbolt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has issued a new advisory urging users of its network-attached storage (NAS) devices to upgrade to the latest version of&nbsp; Photo Station &nbsp;following yet another wave of&nbsp; DeadBolt ransomware attacks &nbsp;in the wild by exploiting a zero-day flaw in the software.  The Taiwanese company&nbsp; said &nbsp;it detected the attacks on September 3 and that "the campaign appears to target QNAP NAS devices running Photo Station with internet exposure."   The issue has been addressed in the following versions -   QTS 5.0.1: Photo Station 6.1.2 and later  QTS 5.0.0/4.5.x: Photo Station 6.0.22 and later  QTS 4.3.6: Photo Station 5.7.18 and later  QTS 4.3.3: Photo Station 5.4.15 and later  QTS 4.2.6: Photo Station 5.2.14 and later    Details of the flaw have been kept under wraps for now, but the company is advising users to disable port forwarding on the routers, prevent NAS devices from being accessible on the Internet, upgrade NAS firmware, apply strong passwords for user accounts, and take regula
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Second largest U.S. school district LAUSD hit by ransomware<a href="https://www.bleepingcomputer.com/news/security/second-largest-us-school-district-lausd-hit-by-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Los Angeles Unified (LAUSD), the second largest school district in the U.S., disclosed that a ransomware attack hit its Information Technology (IT) systems over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

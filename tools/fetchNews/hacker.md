@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worok Hackers Target High-Profile Asian Companies and Governments<a href="https://thehackernews.com/2022/09/worok-hackers-target-high-profile-asian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile companies and local governments located primarily in Asia are the subjects of targeted attacks by a previously undocumented espionage group dubbed&nbsp; Worok &nbsp;that has been active since late 2020.  "Worok's toolset includes a C++ loader CLRLoad, a PowerShell backdoor PowHeartBeat, and a C# loader PNGLoad that uses steganography to extract hidden malicious payloads from PNG files," ESET researcher Thibaut Passilly&nbsp; said &nbsp;in a new report published today.  Worok is said to share overlaps in tools and interests with another adversarial collective tracked as&nbsp; TA428 , with the group linked to attacks against entities spanning energy, financial, maritime, and telecom sectors in Asia as well as a government agency in the Middle East and a private firm in southern Africa.   Malicious activities undertaken by the group experienced a noticeable break from May 2021 to January 2022, before resuming the next month. The Slovak cybersecurity firm assessed the group's goals
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA505 Hackers Using TeslaGun Panel to Manage ServHelper Backdoor Attacks<a href="https://thehackernews.com/2022/09/ta505-hackers-using-teslagun-panel-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have offered fresh insight into a previously undocumented software control panel used by a financially motivated threat group known as TA505.  "The group frequently changes its malware attack strategies in response to global cybercrime trends," Swiss cybersecurity firm PRODAFT&nbsp; said &nbsp;in a report shared with The Hacker News. "It opportunistically adopts new technologies in order to gain leverage over victims before the wider cybersecurity industry catches on."  Also tracked under the names Evil Corp, Gold Drake, Dudear, Indrik Spider, and SectorJ04, TA505 is an aggressive&nbsp; Russian cybercrime syndicate &nbsp;behind the infamous Dridex banking trojan and which has been linked to a&nbsp; number of ransomware campaigns &nbsp;in recent years.&nbsp;   It's also said to be connected to the&nbsp; Raspberry Robin attacks &nbsp;that emerged in September 2021, with similarities uncovered between the malware and Dridex.   Other notable malware families associated with the group
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered TeslaGun Panel used by TA505 to manage its ServHelper Backdoor<a href="https://securityaffairs.co/wordpress/135387/apt/ta505-teslagun-control-panel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a previously undocumented software control panel, named TeslaGun, used by a cybercrime gang known as TA505.
+
+
+
+Researchers from cybersecurity firm PRODAFT have discovered a previously undocumented software control panel, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Worok cyber-espionage group targets governments, high-profile firms<a href="https://www.bleepingcomputer.com/news/security/new-worok-cyber-espionage-group-targets-governments-high-profile-firms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered cyber-espionage group has been hacking governments and high-profile companies in Asia since at least 2020 using a combination of custom and existing malicious tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

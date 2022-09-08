@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HP fixes severe bug in pre-installed Support Assistant tool<a href="https://www.bleepingcomputer.com/news/security/hp-fixes-severe-bug-in-pre-installed-support-assistant-tool/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Iran-linked APT42 group deploys Android spyware for cyberespionage<a href="https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Mandiant
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some Members of Conti Group Targeting Ukraine in Financially Motivated Attacks<a href="https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new stealthy Linux malware dubbed Shikitega<a href="https://securityaffairs.co/wordpress/135437/malware/shikitega-linux-malware.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco won’t fix authentication bypass zero-day in EoL routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 5 Million Attacks Blocked Targeting 0-Day in BackupBuddy Plugin<a href="https://www.wordfence.com/blog/2022/09/psa-nearly-5-million-attacks-blocked-targeting-0-day-in-backupbuddy-plugin/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Wordfence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Shut Down WT1SHOP Site for Selling Stolen Credentials and Credit Cards<a href="https://thehackernews.com/2022/09/authorities-shut-down-wt1shop-site-for.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Challenges of User Authentication: What You Need to Know<a href="https://securityaffairs.co/wordpress/135434/security/challenges-of-user-authentication.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine dismantles more bot farms spreading Russian disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-more-bot-farms-spreading-russian-disinformation/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware in House of the Dragon downloads<a href="https://cyberwarzone.com/malware-in-house-of-the-dragon-downloads/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Cyberwarzone
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy Shikitega Malware Targeting Linux Systems and IoT Devices<a href="https://thehackernews.com/2022/09/new-stealthy-shikitega-malware.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel addressed a critical RCE flaw in its NAS devices<a href="https://securityaffairs.co/wordpress/135426/hacking/zyxel-rce-nas.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 200,000 North Face accounts hacked in credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cost of a Data Breach for Government Agencies<a href="https://securityintelligence.com/articles/cost-data-breach-government-agencies/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Deploying New MagicRAT Malware in Targeted Campaigns<a href="https://thehackernews.com/2022/09/north-korean-hackers-spotted-using-new.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet is back and targets vulnerable D-Link routers<a href="https://securityaffairs.co/wordpress/135414/malware/moobot-botnet-targets-d-link.html"> Full Text</a>
@@ -314,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Iranian hacking group APT42 deploys custom Android spyware<a href="https://www.bleepingcomputer.com/news/security/new-iranian-hacking-group-apt42-deploys-custom-android-spyware/"> Full Text</a>
@@ -330,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram faces $402 million fine for alleged mishandling of children’s data<a href="https://www.csoonline.com/article/3672212/instagram-faces-402-million-fine-for-alleged-mishandling-of-childrens-data.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Key Takeaways from "XDR is the Perfect Solution for SMEs" webinar<a href="https://thehackernews.com/2022/09/4-key-takeaways-from-xdr-is-perfect.html"> Full Text</a>
@@ -362,7 +362,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Default Passwords Hiding in Your Active Directory? Here's how to check<a href="https://www.bleepingcomputer.com/news/security/are-default-passwords-hiding-in-your-active-directory-heres-how-to-check/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMTSO Publishes Guidance for Testing IoT Security Products<a href="https://www.securityweek.com/amtso-publishes-guidance-testing-iot-security-products?&web_view=true"> Full Text</a>
@@ -394,7 +394,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities<a href="https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html"> Full Text</a>
@@ -410,7 +410,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang's Cobalt Strike servers DDoSed with anti-Russia messages<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-cobalt-strike-servers-ddosed-with-anti-russia-messages/"> Full Text</a>
@@ -426,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released<a href="https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html"> Full Text</a>
@@ -442,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albania blames Iran for July cyberattack, severs diplomatic ties<a href="https://www.bleepingcomputer.com/news/security/albania-blames-iran-for-july-cyberattack-severs-diplomatic-ties/"> Full Text</a>
@@ -458,7 +458,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google says former Conti ransomware members now attack Ukraine<a href="https://www.bleepingcomputer.com/news/security/google-says-former-conti-ransomware-members-now-attack-ukraine/"> Full Text</a>

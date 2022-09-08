@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Iran-linked APT42 group deploys Android spyware for cyberespionage<a href="https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant has collected enough evidence to determine that APT42 is a state-sponsored threat actor who engages in cyberespionage against individuals and organizations of particular interest to the Iranian government.
+</details>
+<div style="text-align: right" markdown="1">
+Mandiant
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Iranian hacking group APT42 deploys custom Android spyware<a href="https://www.bleepingcomputer.com/news/security/new-iranian-hacking-group-apt42-deploys-custom-android-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Iranian state-sponsored hacking group known as APT42 has been discovered using a custom Android malware to spy on targets of interest.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

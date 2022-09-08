@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Members of Conti Group Targeting Ukraine in Financially Motivated Attacks<a href="https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former members of the Conti cybercrime cartel have been implicated in five different campaigns targeting Ukraine from April to August 2022.  The findings, which come from Google's Threat Analysis Group (TAG), builds upon a&nbsp; prior report &nbsp;published in July 2022, detailing the continued cyber activity aimed at the Eastern European nation amid the ongoing Russo-Ukrainian war.  "UAC-0098 is a threat actor that historically delivered the&nbsp; IcedID banking trojan , leading to human-operated ransomware attacks," TAG researcher Pierre-Marc Bureau&nbsp; said &nbsp;in a report shared with The Hacker News.   "The attacker has recently shifted their focus to targeting Ukrainian organizations, the Ukrainian government, and European humanitarian and non-profit organizations."  UAC-0098 is believed to have functioned as an initial access broker for ransomware groups such as Quantum and&nbsp; Conti &nbsp;(aka FIN12, Gold Ulrick, or Wizard Spiker), the former of which was&nbsp; subsumed by Conti &nbsp;in Apri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

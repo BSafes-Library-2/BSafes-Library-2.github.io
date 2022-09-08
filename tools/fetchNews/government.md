@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+September 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of Vice Society ransomware attacks on school districts<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-vice-society-ransomware-attacks-on-school-districts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FBI,&nbsp;CISA, and&nbsp;MS-ISAC&nbsp;warned today of U.S. school districts being increasingly targeted by the Vice Society ransomware group, with more attacks expected after the new school year start.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China accuses the US of cyberattacks<a href="https://securityaffairs.co/wordpress/135369/cyber-warfare-2/china-accuses-us-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China accuses the United States of conducting tens of thousands of cyberattacks on its country, including cyberespionage campaigns.
+
+
+
+The Government of Beijing accused the United States of launching tens of thousands of cyberattacks on China. The attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

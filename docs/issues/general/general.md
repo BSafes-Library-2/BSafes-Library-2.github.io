@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Challenges of User Authentication: What You Need to Know<a href="https://securityaffairs.co/wordpress/135434/security/challenges-of-user-authentication.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the digital age, authentication is paramount to a strong security strategy. Which are the challenges of user authentication?
+
+
+
+In the digital age, authentication is paramount to a strong security strategy. As virtually every aspect of day-to-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cost of a Data Breach for Government Agencies<a href="https://securityintelligence.com/articles/cost-data-breach-government-agencies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research shows that there is a knowledge and awareness gap in the public sector when it comes to security measures. This makes government offices attractive targets for cyber gangs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Default Passwords Hiding in Your Active Directory? Here's how to check<a href="https://www.bleepingcomputer.com/news/security/are-default-passwords-hiding-in-your-active-directory-heres-how-to-check/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the biggest cybersecurity mistakes that an organization can make is failing to change a default password. The question is, how can you track down default passwords in your Windows Active Directory once they're no longer useful?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AMTSO Publishes Guidance for Testing IoT Security Products<a href="https://www.securityweek.com/amtso-publishes-guidance-testing-iot-security-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guidelines for Testing of IoT Security Products cover the principles for testing security products for IoT, recommendations on setting up testing environments, the testing for specific security functionality, and performance benchmarking.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

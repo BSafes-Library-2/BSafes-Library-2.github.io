@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Key Takeaways from "XDR is the Perfect Solution for SMEs" webinar<a href="https://thehackernews.com/2022/09/4-key-takeaways-from-xdr-is-perfect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks on large organizations dominate news headlines. So, you may be surprised to learn that small and medium enterprises (SMEs) are actually&nbsp; more frequent &nbsp;targets of cyberattacks. Many SMEs understand this risk firsthand.&nbsp;  In a recent&nbsp; survey , 58% of CISOs of SMEs said that their risk of attack was higher compared to enterprises. Yet, they don't have the same resources as enterprises – making it nearly impossible to protect their organizations from widespread and increasingly more sophisticated attacks that don't discriminate based on company size.  What's their solution?  Extended detection and response (XDR).&nbsp;  During a recent webinar, Cynet's Director of Product Strategy, George Tubin , &nbsp;and guest speaker Senior Analyst at Forrester,Allie Mellen, discussed the most serious cybersecurity challenges for SMEs and how they can benefit from XDR platforms.&nbsp;  Here are the four key takeaways from the&nbsp; conversation .&nbsp;  The Biggest Cybersecurity Challenges for SME
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
