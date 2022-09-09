@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bumblebee malware adds post-exploitation tool for stealthy infections<a href="https://www.bleepingcomputer.com/news/security/bumblebee-malware-adds-post-exploitation-tool-for-stealthy-infections/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Security Company Open Raven Raises $20 Million<a href="https://www.securityweek.com/data-security-company-open-raven-raises-20-million?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vulnerabilities Reported in Baxter's Internet-Connected Infusion Pumps<a href="https://thehackernews.com/2022/09/new-vulnerabilities-reported-in-baxters.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rethinking Responsible Disclosure for Cryptocurrency Security<a href="https://www.lawfareblog.com/rethinking-responsible-disclosure-cryptocurrency-security"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds 12 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135491/security/cisa-known-exploited-vulnerabilities-catalog-flaws-2.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GIFShell attack creates reverse shell using Microsoft Teams GIFs<a href="https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: SEBI rejigs panel on cyber security, expands to six members<a href="https://www.livemint.com/news/india/sebi-rejigs-panel-on-cyber-security-expands-to-six-members-read-here-11662036342054.html?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Live Mint
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Lazarus Hackers Targeting Energy Providers Around the World<a href="https://thehackernews.com/2022/09/north-korean-lazarus-hackers-targeting.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Classified NATO documents sold on darkweb after they were stolen from Portugal<a href="https://securityaffairs.co/wordpress/135480/data-breach/nato-docs-stolen-from-portugal.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch Chrome, D-Link flaws used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-chrome-d-link-flaws-used-in-attacks/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most IT pros think a company breach could threaten national security<a href="https://www.zdnet.com/article/most-it-pros-think-a-company-breach-could-threaten-national-security/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target Government Officials in Europe, South America, and Middle East<a href="https://thehackernews.com/2022/09/chinese-hackers-target-government.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT targets energy providers around the world<a href="https://securityaffairs.co/wordpress/135469/apt/north-korea-linked-lazarus-apt-targets-energy-providers-around-the-world.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US recovers $30 million stolen from Axie Infinity by Lazarus hackers<a href="https://www.bleepingcomputer.com/news/security/us-recovers-30-million-stolen-from-axie-infinity-by-lazarus-hackers/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vendor disputes seriousness of firewall plugin RCE flaw<a href="https://portswigger.net/daily-swig/vendor-disputes-seriousness-of-firewall-plugin-rce-flaw?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shopify Fails to Prevent Known Breached Passwords<a href="https://thehackernews.com/2022/09/shopify-fails-to-prevent-known-breached.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco will not fix the authentication bypass flaw in EoL routers<a href="https://securityaffairs.co/wordpress/135464/security/cisco-security-flaws.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iranian hackers encrypt Windows systems using BitLocker<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iranian-hackers-encrypt-windows-systems-using-bitlocker/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Advantages of Threat Intelligence for Combating Fraud<a href="https://www.securityweek.com/advantages-threat-intelligence-combating-fraud?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Repeatedly Targeting Financial Services in French-Speaking African Countries<a href="https://thehackernews.com/2022/09/hackers-repeatedly-targeting-financial.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-members of the Conti ransomware gang target Ukraine<a href="https://securityaffairs.co/wordpress/135447/cyber-crime/conti-ransomware-members-target-ukraine.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 80% of the top websites leak user searches to advertisers<a href="https://www.bleepingcomputer.com/news/security/over-80-percent-of-the-top-websites-leak-user-searches-to-advertisers/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple ransomware data leak sites experience DDoS attacks, facing intermittent outages and connectivity issues<a href="https://blog.talosintelligence.com/2022/09/ransomware-leaksite-ddos.html?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group<a href="https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html"> Full Text</a>
@@ -438,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albania interrupted diplomatic ties with Iran over the mid-July attack<a href="https://securityaffairs.co/wordpress/135455/cyber-warfare-2/albania-interrupted-diplomatic-ties-iran.html"> Full Text</a>
@@ -458,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Classified NATO documents stolen from Portugal, now sold on darkweb<a href="https://www.bleepingcomputer.com/news/security/classified-nato-documents-stolen-from-portugal-now-sold-on-darkweb/"> Full Text</a>
@@ -474,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2022
+September 8, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks against U.S. hospitals mean higher mortality rates, study finds<a href="https://www.nbcnews.com/tech/security/cyberattacks-us-hospitals-mean-higher-mortality-rates-study-finds-rcna46697?&web_view=true"> Full Text</a>
@@ -490,7 +490,7 @@ NBC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products<a href="https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html"> Full Text</a>
@@ -506,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2022
+September 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Lazarus hackers take aim at U.S. energy providers<a href="https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-take-aim-at-us-energy-providers/"> Full Text</a>

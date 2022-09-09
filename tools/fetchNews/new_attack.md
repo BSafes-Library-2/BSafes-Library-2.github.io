@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GIFShell attack creates reverse shell using Microsoft Teams GIFs<a href="https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack technique called 'GIFShell' allows threat actors to abuse Microsoft Teams for novel phishing attacks and covertly executing commands to steal data using ... GIFs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Repeatedly Targeting Financial Services in French-Speaking African Countries<a href="https://thehackernews.com/2022/09/hackers-repeatedly-targeting-financial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major financial and insurance companies located in French-speaking nations in Africa have been targeted over the past two years as part of a persistent malicious campaign codenamed&nbsp; DangerousSavanna .  Countries targeted include Ivory Coast, Morocco, Cameroon, Senegal, and Togo, with the spear-phishing attacks heavily focusing on Ivory Coast in recent months, Israeli cybersecurity firm Check Point&nbsp; said &nbsp;in a Tuesday report.  Infection chains entail targeting employees of financial institutions with social engineering messages containing malicious attachments as a means of initial access, ultimately leading to the deployment of off-the-shelf malware such as&nbsp; Metasploit ,&nbsp; PoshC2 ,&nbsp; DWservice , and&nbsp; AsyncRAT .   "The threat actors' creativity is on display in the initial infection stage, as they persistently pursue the employees of the targeted companies, constantly changing infection chains that utilize a wide range of malicious file types, from self-written executable loader
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

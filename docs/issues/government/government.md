@@ -8,6 +8,84 @@ nav_order: 900075
 
 ## Government
 ---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 12 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135491/security/cisa-known-exploited-vulnerabilities-catalog-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added 12 more security flaws to its&nbsp;Known Exploited Vulnerabilities Catalog including four D-Link vulnerabilities.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 12 new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: SEBI rejigs panel on cyber security, expands to six members<a href="https://www.livemint.com/news/india/sebi-rejigs-panel-on-cyber-security-expands-to-six-members-read-here-11662036342054.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notably, the high-powered steering committee has been entrusted with the task of overseeing and providing overall guidance on cyber security initiatives for SEBI as well as for the entire capital market.
+</details>
+<div style="text-align: right" markdown="1">
+Live Mint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch Chrome, D-Link flaws used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-chrome-d-link-flaws-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added 12 more security flaws to its list of bugs exploited in attacks, including two critical D-Link vulnerabilities and two (now-patched) zero-days in Google Chrome and the Photo Station QNAP software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Government Officials in Europe, South America, and Middle East<a href="https://thehackernews.com/2022/09/chinese-hackers-target-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese hacking group has been attributed to a new campaign aimed at infecting government officials in Europe, the Middle East, and South America with a modular malware known as PlugX.  Cybersecurity firm Secureworks said it identified the intrusions in June and July 2022, once again demonstrating the adversary's continued focus on espionage against governments around the world.  "PlugX is modular malware that contacts a command and control (C2) server for tasking and can download additional plugins to enhance its capability beyond basic information gathering," Secureworks Counter Threat Unit (CTU) said in a report  shared with The Hacker News.   Bronze President is a China-based threat actor active since at least July 2018 and is likely estimated to be a state-sponsored group that leverages a mix of proprietary and publicly available tools to compromise and collect data from its targets.  It's also publicly documented under other names such as HoneyMyte, Mustang P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania interrupted diplomatic ties with Iran over the mid-July attack<a href="https://securityaffairs.co/wordpress/135455/cyber-warfare-2/albania-interrupted-diplomatic-ties-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania interrupted diplomatic ties with Iran and expelled the country’s embassy staff over the mid-July attack.
+
+
+
+Albanian Prime Minister Edi Rama announced that Albania interrupted diplomatic ties with Iran and expelled the country’s embassy staff...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

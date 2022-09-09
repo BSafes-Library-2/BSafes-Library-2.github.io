@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Security Company Open Raven Raises $20 Million<a href="https://www.securityweek.com/data-security-company-open-raven-raises-20-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cloud-native data security company plans to use the new funding to expand its engineering, sales, and marketing operations, to accelerate its roadmap and support for large enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

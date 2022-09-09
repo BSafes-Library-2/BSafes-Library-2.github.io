@@ -8,6 +8,52 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine dismantles more bot farms spreading Russian disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-more-bot-farms-spreading-russian-disinformation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Department of the Ukrainian Security Service (SSU) dismantled two more bot farms that spread Russian disinformation on social networks and messaging platforms via thousands of fake accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet is back and targets vulnerable D-Link routers<a href="https://securityaffairs.co/wordpress/135414/malware/moobot-botnet-targets-d-link.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Moobot botnet is behind a new wave of attacks that started in early August and that target vulnerable D-Link routers.
+
+
+
+Palo Alto Network’s&nbsp;Unit 42 researchers reported a new wave of attacks launched by the Moobot botnet that target vulnerable...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities<a href="https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of the Mirai botnet known as MooBot is co-opting vulnerable D-Link devices into an army of denial-of-service bots by taking advantage of multiple exploits.  "If the devices are compromised, they will be fully controlled by attackers, who could utilize those devices to conduct further attacks such as distributed denial-of-service (DDoS) attacks," Palo Alto Networks Unit 42&nbsp; said &nbsp;in a Tuesday report.  MooBot, first disclosed by Qihoo 360's Netlab team in September 2019, has previously targeted&nbsp; LILIN digital video recorders &nbsp;and&nbsp; Hikvision video surveillance products &nbsp;to expand its network.   In the latest wave of attacks discovered by Unit 42 in early August 2022, as many as four different flaws in D-Link devices, both old and new, have paved the way for the deployment of MooBot samples. These include -   CVE-2015-2051 &nbsp;(CVSS score: 10.0) - D-Link HNAP SOAPAction Header Command Execution Vulnerability  CVE-2018-6530 &nbsp;(CVSS score: 9.8) - D-Link SOAP Interface Re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

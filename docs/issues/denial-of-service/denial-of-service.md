@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple ransomware data leak sites experience DDoS attacks, facing intermittent outages and connectivity issues<a href="https://blog.talosintelligence.com/2022/09/ransomware-leaksite-ddos.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since August 20, Cisco Talos has been monitoring suspected DDoS attacks resulting in intermittent downtime and outages affecting several ransomware-as-a-service (RaaS) data leak sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

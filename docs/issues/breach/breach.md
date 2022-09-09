@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classified NATO documents sold on darkweb after they were stolen from Portugal<a href="https://securityaffairs.co/wordpress/135480/data-breach/nato-docs-stolen-from-portugal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claimed to have stolen classified NATO documents from the Armed Forces General Staff agency of Portugal (EMGFA).
+
+
+
+After discovering that Classified NATO documents belonging to the Armed Forces General Staff agency of Portugal (EMGFA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shopify Fails to Prevent Known Breached Passwords<a href="https://thehackernews.com/2022/09/shopify-fails-to-prevent-known-breached.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report revealed that ecommerce provider,&nbsp; Shopify uses particularly weak password policies &nbsp;on the customer-facing portion of its Website. According to the report, Shopify's requires its customers to use a password that is at least five characters in length and that does not begin or end with a space.&nbsp;  According to the report, Specops researchers analyzed a list of a billion passwords that were known to have been breached and found that 99.7% of those passwords adhere to Shopify's requirements. While this is not meant to suggest that Shopify customers' passwords have been breached, the fact that so many known breached passwords adhere to Shopify's minimum password requirements does underscore the dangers associated with using weak passwords.  The danger of weak passwords in your Active Directory&nbsp;  A recent study by Hive Systems &nbsp;echoes the dangers of using weak passwords. The study examines the amount of time that would be required to brute force crack passwo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classified NATO documents stolen from Portugal, now sold on darkweb<a href="https://www.bleepingcomputer.com/news/security/classified-nato-documents-stolen-from-portugal-now-sold-on-darkweb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Armed Forces General Staff agency of Portugal (EMGFA) has suffered a cyberattack that allegedly allowed the theft of classified NATO documents, which are now sold on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

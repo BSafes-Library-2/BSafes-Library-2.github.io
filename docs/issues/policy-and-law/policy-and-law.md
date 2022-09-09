@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers $30 million stolen from Axie Infinity by Lazarus hackers<a href="https://www.bleepingcomputer.com/news/security/us-recovers-30-million-stolen-from-axie-infinity-by-lazarus-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the help of blockchain analysts and FBI agents, the U.S. government seized $30 million worth of cryptocurrency stolen by the North Korean threat group 'Lazarus' from the token-based 'play-to-earn' game Axie Infinity earlier in the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
