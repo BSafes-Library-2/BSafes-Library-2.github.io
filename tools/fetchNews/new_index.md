@@ -34,7 +34,495 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bumblebee malware adds post-exploitation tool for stealthy infections<a href="https://www.bleepingcomputer.com/news/security/bumblebee-malware-adds-post-exploitation-tool-for-stealthy-infections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Bumblebee malware loader has been spotted in the wild, featuring a new infection chain that uses the PowerSploit framework for stealthy reflective injection of a DLL payload into memory.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Security Company Open Raven Raises $20 Million<a href="https://www.securityweek.com/data-security-company-open-raven-raises-20-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cloud-native data security company plans to use the new funding to expand its engineering, sales, and marketing operations, to accelerate its roadmap and support for large enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerabilities Reported in Baxter's Internet-Connected Infusion Pumps<a href="https://thehackernews.com/2022/09/new-vulnerabilities-reported-in-baxters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Baxter's internet-connected infusion pumps used by healthcare professionals in clinical environments to dispense medication to patients.  "Successful exploitation of these vulnerabilities could result in access to sensitive data and alteration of system configuration," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in a coordinated advisory.  Infusion pumps are internet-enabled devices used by hospitals to deliver medication and nutrition directly into a patient's circulatory system.  The four vulnerabilities in question, discovered by  cybersecurity firm Rapid7  and reported to Baxter in April 2022, affect the following Sigma Spectrum Infusion systems -   Sigma Spectrum v6.x model 35700BAX  Sigma Spectrum v8.x model 35700BAX2  Baxter Spectrum IQ (v9.x) model 35700BAX3  Sigma Spectrum LVP v6.x Wireless Battery Modules v16, v16D38, v17, v17D19, v20D29 to v20D32, and v22D24 to v22D28  Sig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rethinking Responsible Disclosure for Cryptocurrency Security<a href="https://www.lawfareblog.com/rethinking-responsible-disclosure-cryptocurrency-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency security really is worse than other digital technologies, and there’s a good chance it always will be.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds 12 new flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135491/security/cisa-known-exploited-vulnerabilities-catalog-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added 12 more security flaws to its Known Exploited Vulnerabilities Catalog including four D-Link vulnerabilities.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 12 new vulnerabilities to its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GIFShell attack creates reverse shell using Microsoft Teams GIFs<a href="https://www.bleepingcomputer.com/news/security/gifshell-attack-creates-reverse-shell-using-microsoft-teams-gifs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack technique called 'GIFShell' allows threat actors to abuse Microsoft Teams for novel phishing attacks and covertly executing commands to steal data using ... GIFs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: SEBI rejigs panel on cyber security, expands to six members<a href="https://www.livemint.com/news/india/sebi-rejigs-panel-on-cyber-security-expands-to-six-members-read-here-11662036342054.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Notably, the high-powered steering committee has been entrusted with the task of overseeing and providing overall guidance on cyber security initiatives for SEBI as well as for the entire capital market.
+</details>
+<div style="text-align: right" markdown="1">
+Live Mint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Lazarus Hackers Targeting Energy Providers Around the World<a href="https://thehackernews.com/2022/09/north-korean-lazarus-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign mounted by the North Korea-linked Lazarus Group  targeted energy providers around the world, including those based in the United States, Canada, and Japan, between February and July 2022.  "The campaign is meant to infiltrate organizations around the world for establishing long-term access and subsequently exfiltrating data of interest to the adversary's nation-state," Cisco Talos  said  in a report shared with The Hacker News.  Some elements of the espionage attacks have already entered public domain, courtesy of prior reports from Broadcom-owned  Symantec  and  AhnLab  earlier this April and May. Symantec attributed the operation to a group referred to as Stonefly, a Lazarus subgroup which is better known as Andariel, Guardian of Peace, OperationTroy, and Silent Chollima.   While these attacks previously led to the instrumentation of Preft (aka Dtrack) and NukeSped (aka Manuscrypt) implants, the latest attack wave is notable for employing two other pieces of mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classified NATO documents sold on darkweb after they were stolen from Portugal<a href="https://securityaffairs.co/wordpress/135480/data-breach/nato-docs-stolen-from-portugal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors claimed to have stolen classified NATO documents from the Armed Forces General Staff agency of Portugal (EMGFA).
+
+
+
+After discovering that Classified NATO documents belonging to the Armed Forces General Staff agency of Portugal (EMGFA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch Chrome, D-Link flaws used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-chrome-d-link-flaws-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added 12 more security flaws to its list of bugs exploited in attacks, including two critical D-Link vulnerabilities and two (now-patched) zero-days in Google Chrome and the Photo Station QNAP software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most IT pros think a company breach could threaten national security<a href="https://www.zdnet.com/article/most-it-pros-think-a-company-breach-could-threaten-national-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When asked, "Do you believe a breach of your organization could potentially constitute a threat to U.S. national security?", a hearty 69.4% insisted they thought this was possible in a new survey.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Government Officials in Europe, South America, and Middle East<a href="https://thehackernews.com/2022/09/chinese-hackers-target-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese hacking group has been attributed to a new campaign aimed at infecting government officials in Europe, the Middle East, and South America with a modular malware known as PlugX.  Cybersecurity firm Secureworks said it identified the intrusions in June and July 2022, once again demonstrating the adversary's continued focus on espionage against governments around the world.  "PlugX is modular malware that contacts a command and control (C2) server for tasking and can download additional plugins to enhance its capability beyond basic information gathering," Secureworks Counter Threat Unit (CTU) said in a report  shared with The Hacker News.   Bronze President is a China-based threat actor active since at least July 2018 and is likely estimated to be a state-sponsored group that leverages a mix of proprietary and publicly available tools to compromise and collect data from its targets.  It's also publicly documented under other names such as HoneyMyte, Mustang P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT targets energy providers around the world<a href="https://securityaffairs.co/wordpress/135469/apt/north-korea-linked-lazarus-apt-targets-energy-providers-around-the-world.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is targeting energy providers around the world, including organizations in the US, Canada, and Japan.
+
+
+
+Talos researchers tracked a campaign, orchestrated by North Korea-linked Lazarus APT group, aimed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US recovers $30 million stolen from Axie Infinity by Lazarus hackers<a href="https://www.bleepingcomputer.com/news/security/us-recovers-30-million-stolen-from-axie-infinity-by-lazarus-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the help of blockchain analysts and FBI agents, the U.S. government seized $30 million worth of cryptocurrency stolen by the North Korean threat group 'Lazarus' from the token-based 'play-to-earn' game Axie Infinity earlier in the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor disputes seriousness of firewall plugin RCE flaw<a href="https://portswigger.net/daily-swig/vendor-disputes-seriousness-of-firewall-plugin-rce-flaw?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from IHTeam have uncovered a serious vulnerability in a plugin to the pfSense firewall technology. The pfSense pfBlockerNG vulnerability is tracked as CVE-2022-31814.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shopify Fails to Prevent Known Breached Passwords<a href="https://thehackernews.com/2022/09/shopify-fails-to-prevent-known-breached.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report revealed that ecommerce provider,  Shopify uses particularly weak password policies  on the customer-facing portion of its Website. According to the report, Shopify's requires its customers to use a password that is at least five characters in length and that does not begin or end with a space.   According to the report, Specops researchers analyzed a list of a billion passwords that were known to have been breached and found that 99.7% of those passwords adhere to Shopify's requirements. While this is not meant to suggest that Shopify customers' passwords have been breached, the fact that so many known breached passwords adhere to Shopify's minimum password requirements does underscore the dangers associated with using weak passwords.  The danger of weak passwords in your Active Directory   A recent study by Hive Systems  echoes the dangers of using weak passwords. The study examines the amount of time that would be required to brute force crack passwo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not fix the authentication bypass flaw in EoL routers<a href="https://securityaffairs.co/wordpress/135464/security/cisco-security-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed new security flaws affecting its products, including a recently disclosed high-severity issue in NVIDIA Data Plane Development Kit.
+
+
+
+The most severe issues fixed by Cisco are an unauthenticated Access to Messaging Services Vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian hackers encrypt Windows systems using BitLocker<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iranian-hackers-encrypt-windows-systems-using-bitlocker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says an Iranian state-sponsored threat group it tracks as DEV-0270 (aka Nemesis Kitten) has been abusing the BitLocker Windows feature in attacks to encrypt victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Advantages of Threat Intelligence for Combating Fraud<a href="https://www.securityweek.com/advantages-threat-intelligence-combating-fraud?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While solutions exist for prevention, most solutions focus on one or a few types of fraud. Fraud happens at such an unprecedented scale that utilizing law enforcement to disrupt bad actors is a hard value proposition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Repeatedly Targeting Financial Services in French-Speaking African Countries<a href="https://thehackernews.com/2022/09/hackers-repeatedly-targeting-financial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major financial and insurance companies located in French-speaking nations in Africa have been targeted over the past two years as part of a persistent malicious campaign codenamed  DangerousSavanna .  Countries targeted include Ivory Coast, Morocco, Cameroon, Senegal, and Togo, with the spear-phishing attacks heavily focusing on Ivory Coast in recent months, Israeli cybersecurity firm Check Point  said  in a Tuesday report.  Infection chains entail targeting employees of financial institutions with social engineering messages containing malicious attachments as a means of initial access, ultimately leading to the deployment of off-the-shelf malware such as  Metasploit ,  PoshC2 ,  DWservice , and  AsyncRAT .   "The threat actors' creativity is on display in the initial infection stage, as they persistently pursue the employees of the targeted companies, constantly changing infection chains that utilize a wide range of malicious file types, from self-written executable loader
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-members of the Conti ransomware gang target Ukraine<a href="https://securityaffairs.co/wordpress/135447/cyber-crime/conti-ransomware-members-target-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some members of the Conti ransomware gang were involved in financially motivated attacks targeting Ukraine from April to August 2022.
+
+
+
+Researchers from Google's Threat Analysis Group (TAG) reported that some former members of the Conti cybercrime group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80% of the top websites leak user searches to advertisers<a href="https://www.bleepingcomputer.com/news/security/over-80-percent-of-the-top-websites-leak-user-searches-to-advertisers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Norton Labs have found that roughly eight out of ten websites featuring a search bar will leak their visitor's search terms to online advertisers like Google.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple ransomware data leak sites experience DDoS attacks, facing intermittent outages and connectivity issues<a href="https://blog.talosintelligence.com/2022/09/ransomware-leaksite-ddos.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since August 20, Cisco Talos has been monitoring suspected DDoS attacks resulting in intermittent downtime and outages affecting several ransomware-as-a-service (RaaS) data leak sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group<a href="https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's threat intelligence division on Wednesday assessed that a subgroup of the Iranian threat actor tracked as  Phosphorus  is conducting ransomware attacks as a "form of moonlighting" for personal gain.  The tech giant, which is monitoring the activity cluster under the moniker  DEV-0270  (aka Nemesis Kitten), said it's operated by a company that functions under the public aliases Secnerd and Lifeweb, citing infrastructure overlaps between the group and the two organizations.  "DEV-0270 leverages exploits for high-severity vulnerabilities to gain access to devices and is known for the early adoption of newly disclosed vulnerabilities," Microsoft  said .   "DEV-0270 also extensively uses living-off-the-land binaries (LOLBINs) throughout the attack chain for discovery and credential access. This extends to its abuse of the built-in BitLocker tool to encrypt files on compromised devices."  The use of BitLocker and DiskCryptor by Iranian actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania interrupted diplomatic ties with Iran over the mid-July attack<a href="https://securityaffairs.co/wordpress/135455/cyber-warfare-2/albania-interrupted-diplomatic-ties-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania interrupted diplomatic ties with Iran and expelled the country’s embassy staff over the mid-July attack.
+
+
+
+Albanian Prime Minister Edi Rama announced that Albania interrupted diplomatic ties with Iran and expelled the country’s embassy staff...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classified NATO documents stolen from Portugal, now sold on darkweb<a href="https://www.bleepingcomputer.com/news/security/classified-nato-documents-stolen-from-portugal-now-sold-on-darkweb/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Armed Forces General Staff agency of Portugal (EMGFA) has suffered a cyberattack that allegedly allowed the theft of classified NATO documents, which are now sold on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks against U.S. hospitals mean higher mortality rates, study finds<a href="https://www.nbcnews.com/tech/security/cyberattacks-us-hospitals-mean-higher-mortality-rates-study-finds-rcna46697?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of respondents in the Ponemon study who had experienced ransomware attacks said they disrupted patient care, and 59% of them found they increased the length of patients’ stays, straining resources.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products<a href="https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out patches to address  three security flaws  affecting its products, including a high-severity weakness disclosed in NVIDIA Data Plane Development Kit (MLNX_DPDK) late last month.  Tracked as  CVE-2022-28199  (CVSS score: 8.6), the vulnerability stems from a lack of proper error handling in DPDK's network stack, enabling a remote adversary to trigger a denial-of-service (DoS) condition and cause an impact on data integrity and confidentiality.  "If an error condition is observed on the device interface, the device may either reload or fail to receive traffic, resulting in a denial-of-service (DoS) condition," Cisco  said  in a notice published on September 7.   DPDK  refers to a set of libraries and optimized network interface card (NIC) drivers for fast packet processing, offering a framework and common API for high-speed networking applications.  Cisco said it investigated its product lineup and determined the following services to be affecte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Lazarus hackers take aim at U.S. energy providers<a href="https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-take-aim-at-us-energy-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean APT group 'Lazarus' (APT38) is exploiting VMWare Horizon servers to access the corporate networks of energy providers in the United States, Canada, and Japan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HP fixes severe bug in pre-installed Support Assistant tool<a href="https://www.bleepingcomputer.com/news/security/hp-fixes-severe-bug-in-pre-installed-support-assistant-tool/"> Full Text</a>
@@ -50,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Iran-linked APT42 group deploys Android spyware for cyberespionage<a href="https://www.mandiant.com/resources/blog/apt42-charms-cons-compromises?&web_view=true"> Full Text</a>
@@ -66,7 +554,7 @@ Mandiant
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some Members of Conti Group Targeting Ukraine in Financially Motivated Attacks<a href="https://thehackernews.com/2022/09/some-members-of-conti-group-targeting.html"> Full Text</a>
@@ -82,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new stealthy Linux malware dubbed Shikitega<a href="https://securityaffairs.co/wordpress/135437/malware/shikitega-linux-malware.html"> Full Text</a>
@@ -102,7 +590,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco won’t fix authentication bypass zero-day in EoL routers<a href="https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers/"> Full Text</a>
@@ -118,7 +606,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 5 Million Attacks Blocked Targeting 0-Day in BackupBuddy Plugin<a href="https://www.wordfence.com/blog/2022/09/psa-nearly-5-million-attacks-blocked-targeting-0-day-in-backupbuddy-plugin/?&web_view=true"> Full Text</a>
@@ -134,7 +622,7 @@ Wordfence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Shut Down WT1SHOP Site for Selling Stolen Credentials and Credit Cards<a href="https://thehackernews.com/2022/09/authorities-shut-down-wt1shop-site-for.html"> Full Text</a>
@@ -150,7 +638,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Challenges of User Authentication: What You Need to Know<a href="https://securityaffairs.co/wordpress/135434/security/challenges-of-user-authentication.html"> Full Text</a>
@@ -170,7 +658,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine dismantles more bot farms spreading Russian disinformation<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-more-bot-farms-spreading-russian-disinformation/"> Full Text</a>
@@ -186,7 +674,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware in House of the Dragon downloads<a href="https://cyberwarzone.com/malware-in-house-of-the-dragon-downloads/?&web_view=true"> Full Text</a>
@@ -202,7 +690,7 @@ Cyberwarzone
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy Shikitega Malware Targeting Linux Systems and IoT Devices<a href="https://thehackernews.com/2022/09/new-stealthy-shikitega-malware.html"> Full Text</a>
@@ -218,7 +706,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel addressed a critical RCE flaw in its NAS devices<a href="https://securityaffairs.co/wordpress/135426/hacking/zyxel-rce-nas.html"> Full Text</a>
@@ -246,7 +734,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 200,000 North Face accounts hacked in credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/200-000-north-face-accounts-hacked-in-credential-stuffing-attack/"> Full Text</a>
@@ -262,7 +750,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cost of a Data Breach for Government Agencies<a href="https://securityintelligence.com/articles/cost-data-breach-government-agencies/?&web_view=true"> Full Text</a>
@@ -278,7 +766,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Deploying New MagicRAT Malware in Targeted Campaigns<a href="https://thehackernews.com/2022/09/north-korean-hackers-spotted-using-new.html"> Full Text</a>
@@ -294,7 +782,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet is back and targets vulnerable D-Link routers<a href="https://securityaffairs.co/wordpress/135414/malware/moobot-botnet-targets-d-link.html"> Full Text</a>
@@ -314,7 +802,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Iranian hacking group APT42 deploys custom Android spyware<a href="https://www.bleepingcomputer.com/news/security/new-iranian-hacking-group-apt42-deploys-custom-android-spyware/"> Full Text</a>
@@ -330,7 +818,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram faces $402 million fine for alleged mishandling of children’s data<a href="https://www.csoonline.com/article/3672212/instagram-faces-402-million-fine-for-alleged-mishandling-of-childrens-data.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -346,7 +834,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Key Takeaways from "XDR is the Perfect Solution for SMEs" webinar<a href="https://thehackernews.com/2022/09/4-key-takeaways-from-xdr-is-perfect.html"> Full Text</a>
@@ -362,7 +850,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Default Passwords Hiding in Your Active Directory? Here's how to check<a href="https://www.bleepingcomputer.com/news/security/are-default-passwords-hiding-in-your-active-directory-heres-how-to-check/"> Full Text</a>
@@ -378,7 +866,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2022
+September 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AMTSO Publishes Guidance for Testing IoT Security Products<a href="https://www.securityweek.com/amtso-publishes-guidance-testing-iot-security-products?&web_view=true"> Full Text</a>
@@ -394,7 +882,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Variant MooBot Botnet Exploiting D-Link Router Vulnerabilities<a href="https://thehackernews.com/2022/09/mirai-variant-moobot-botnet-exploiting.html"> Full Text</a>
@@ -410,7 +898,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang's Cobalt Strike servers DDoSed with anti-Russia messages<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-cobalt-strike-servers-ddosed-with-anti-russia-messages/"> Full Text</a>
@@ -426,7 +914,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released<a href="https://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html"> Full Text</a>
@@ -442,7 +930,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albania blames Iran for July cyberattack, severs diplomatic ties<a href="https://www.bleepingcomputer.com/news/security/albania-blames-iran-for-july-cyberattack-severs-diplomatic-ties/"> Full Text</a>
@@ -458,7 +946,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 07, 2022
+September 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google says former Conti ransomware members now attack Ukraine<a href="https://www.bleepingcomputer.com/news/security/google-says-former-conti-ransomware-members-now-attack-ukraine/"> Full Text</a>
