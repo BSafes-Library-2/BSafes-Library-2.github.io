@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Ransomware Attacks by Iranian Phosphorus Hacker Group<a href="https://thehackernews.com/2022/09/microsoft-warns-of-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's threat intelligence division on Wednesday assessed that a subgroup of the Iranian threat actor tracked as&nbsp; Phosphorus &nbsp;is conducting ransomware attacks as a "form of moonlighting" for personal gain.  The tech giant, which is monitoring the activity cluster under the moniker&nbsp; DEV-0270 &nbsp;(aka Nemesis Kitten), said it's operated by a company that functions under the public aliases Secnerd and Lifeweb, citing infrastructure overlaps between the group and the two organizations.  "DEV-0270 leverages exploits for high-severity vulnerabilities to gain access to devices and is known for the early adoption of newly disclosed vulnerabilities," Microsoft&nbsp; said .   "DEV-0270 also extensively uses living-off-the-land binaries (LOLBINs) throughout the attack chain for discovery and credential access. This extends to its abuse of the built-in BitLocker tool to encrypt files on compromised devices."  The use of BitLocker and DiskCryptor by Iranian actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

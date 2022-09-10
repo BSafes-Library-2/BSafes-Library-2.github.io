@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury sanctioned Iran ’s Ministry of Intelligence over Albania cyberattack<a href="https://securityaffairs.co/wordpress/135532/intelligence/us-treasury-sanctioned-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department sanctioned Iran 's Ministry of Intelligence and Security (MOIS) and its Minister of Intelligence over the Albania cyberattack.
+
+
+
+The U.S. Treasury Department announced sanctions against Iran 's Ministry of Intelligence and Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions Iran’s Ministry of Intelligence over Albania cyberattack<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-iran-s-ministry-of-intelligence-over-albania-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department announced sanctions today against Iran's Ministry of Intelligence and Security (MOIS) and its Minister of Intelligence for their role in the July cyberattack&nbsp;against the&nbsp;government of Albania, a&nbsp;U.S. ally and a NATO member state.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traffic Safety Agency Issues Final Guidelines for Vehicle Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/09/traffic-safety-agency-issues-final-guidelines-vehicle-cybersecurity/376890/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Highway Traffic Safety Administration will announce its final cybersecurity guidelines draft Friday as modern vehicles become more technologically integrated.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

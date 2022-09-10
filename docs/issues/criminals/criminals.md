@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Seizes Cryptocurrency Worth $30 Million Stolen by North Korean Hackers<a href="https://thehackernews.com/2022/09/us-seizes-cryptocurrency-worth-30.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than $30 million worth of cryptocurrency plundered by the North Korea-linked Lazarus Group from online video game Axie Infinity has been recovered, marking the first time digital assets stolen by the threat actor have been seized.  "The seizures represent approximately 10% of the total funds stolen from Axie Infinity (accounting for price differences between time stolen and seized), and demonstrate that it is becoming more difficult for bad actors to successfully cash out their ill-gotten crypto gains," Erin Plante, senior director of investigations at Chainalysis,&nbsp; said .  The development arrives more than five months after the&nbsp; crypto hack &nbsp;resulted in the theft of $620 million from the decentralized finance (DeFi) platform Ronin Network, with the attackers laundering a majority of the proceeds – amounting to $455 million – through the Ethereum-based cryptocurrency tumbler Tornado Cash.   The March 2022 cryptocurrency heist resulted in losses totaling 173,600 ETH wort
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

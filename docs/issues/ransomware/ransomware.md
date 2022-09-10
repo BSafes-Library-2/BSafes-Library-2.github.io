@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 9th 2022 - Schools under fire<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-9th-2022-schools-under-fire/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs have been busy this week, launching attacks against NAS devices, one of the largest hotel groups, IHG, and LAUSD, the second largest school district in the USA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Developers Turn to Intermittent Encryption to Evade Detection<a href="https://www.sentinelone.com/labs/crimeware-trends-ransomware-developers-turn-to-intermittent-encryption-to-evade-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In contrast to full encryption, intermittent encryption helps to evade analysis by exhibiting a significantly lower intensity of file IO operations and much higher similarity between non-encrypted and encrypted versions of a given file.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

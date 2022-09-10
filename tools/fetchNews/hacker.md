@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Lazarus Hackers Targeting Energy Providers Around the World<a href="https://thehackernews.com/2022/09/north-korean-lazarus-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious campaign mounted by the North Korea-linked Lazarus Group &nbsp;targeted energy providers around the world, including those based in the United States, Canada, and Japan, between February and July 2022.  "The campaign is meant to infiltrate organizations around the world for establishing long-term access and subsequently exfiltrating data of interest to the adversary's nation-state," Cisco Talos&nbsp; said &nbsp;in a report shared with The Hacker News.  Some elements of the espionage attacks have already entered public domain, courtesy of prior reports from Broadcom-owned&nbsp; Symantec &nbsp;and&nbsp; AhnLab &nbsp;earlier this April and May. Symantec attributed the operation to a group referred to as Stonefly, a Lazarus subgroup which is better known as Andariel, Guardian of Peace, OperationTroy, and Silent Chollima.   While these attacks previously led to the instrumentation of Preft (aka Dtrack) and NukeSped (aka Manuscrypt) implants, the latest attack wave is notable for employing two other pieces of mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian hackers encrypt Windows systems using BitLocker<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-iranian-hackers-encrypt-windows-systems-using-bitlocker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says an Iranian state-sponsored threat group it tracks as DEV-0270 (aka Nemesis Kitten) has been abusing the BitLocker Windows feature in attacks to encrypt victims' systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Lazarus hackers take aim at U.S. energy providers<a href="https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-take-aim-at-us-energy-providers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean APT group 'Lazarus' (APT38) is exploiting VMWare Horizon servers to access the corporate networks of energy providers in the United States, Canada, and Japan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

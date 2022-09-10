@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society claims LAUSD ransomware attack, theft of 500GB of data<a href="https://www.bleepingcomputer.com/news/security/vice-society-claims-lausd-ransomware-attack-theft-of-500gb-of-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society gang has claimed the ransomware attack&nbsp;that hit Los Angeles Unified (LAUSD), the second largest school district in the United States, over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Vice Society ransomware claims credit for Los Angeles school attack<a href="https://statescoop.com/los-angeles-ransomware-vice-society/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware outfit known as Vice Society has claimed credit for an attack earlier this week that disabled several IT systems at the Los Angeles Unified School District, according to a report.
+</details>
+<div style="text-align: right" markdown="1">
+State Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most IT pros think a company breach could threaten national security<a href="https://www.zdnet.com/article/most-it-pros-think-a-company-breach-could-threaten-national-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When asked, "Do you believe a breach of your organization could potentially constitute a threat to U.S. national security?", a hearty 69.4% insisted they thought this was possible in a new survey.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Advantages of Threat Intelligence for Combating Fraud<a href="https://www.securityweek.com/advantages-threat-intelligence-combating-fraud?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While solutions exist for prevention, most solutions focus on one or a few types of fraud. Fraud happens at such an unprecedented scale that utilizing law enforcement to disrupt bad actors is a hard value proposition.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 80% of the top websites leak user searches to advertisers<a href="https://www.bleepingcomputer.com/news/security/over-80-percent-of-the-top-websites-leak-user-searches-to-advertisers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Norton Labs have found that roughly eight out of ten websites featuring a search bar will leak their visitor's search terms to online advertisers like Google.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks against U.S. hospitals mean higher mortality rates, study finds<a href="https://www.nbcnews.com/tech/security/cyberattacks-us-hospitals-mean-higher-mortality-rates-study-finds-rcna46697?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two-thirds of respondents in the Ponemon study who had experienced ransomware attacks said they disrupted patient care, and 59% of them found they increased the length of patients’ stays, straining resources.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

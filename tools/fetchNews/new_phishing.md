@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lampion malware returns in phishing attacks abusing WeTransfer<a href="https://www.bleepingcomputer.com/news/security/lampion-malware-returns-in-phishing-attacks-abusing-wetransfer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lampion malware is being distributed in greater volumes lately, with threat actors abusing WeTransfer as part of their phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

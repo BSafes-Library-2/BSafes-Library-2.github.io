@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rethinking Responsible Disclosure for Cryptocurrency Security<a href="https://www.lawfareblog.com/rethinking-responsible-disclosure-cryptocurrency-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency security really is worse than other digital technologies, and there’s a good chance it always will be.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting zero-day in WordPress BackupBuddy plugin<a href="https://securityaffairs.co/wordpress/135518/hacking/backupbuddy-wordpress-zero-day.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2022-31474 (CVSS score: 7.5), can be exploited by an unauthenticated user to download arbitrary files from the affected site. It has been estimated that the plugin has around 140,000 active installations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting zero-day in WordPress BackupBuddy plugin<a href="https://securityaffairs.co/wordpress/135518/hacking/backupbuddy-wordpress-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a zero-day vulnerability in a WordPress plugin called&nbsp;BackupBuddy, Wordfence researchers warned.
+
+
+
+On September 6, 2022, the Wordfence Threat Intelligence team&nbsp;was informed of a vulnerability being actively exploited in the BackupBuddy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report identified key vulnerabilities two years before cyberattack on L.A. Unified<a href="https://www.latimes.com/california/story/2022-09-08/report-identified-key-vulnerabilities-prior-to-cyberattack-on-l-a-unified?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report indicated that district staff agreed with its findings and committed to addressing them, but district officials did not clarify Wednesday which of the recommended actions were carried out.
+</details>
+<div style="text-align: right" markdown="1">
+LA Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ManageEngine vulnerability posed code injection risk for password management software<a href="https://portswigger.net/daily-swig/manageengine-vulnerability-posed-code-injection-risk-for-password-management-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has discovered a vulnerability in ManageEngine that could allow an attacker to execute arbitrary code on affected installations of some of its password and access management tools.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

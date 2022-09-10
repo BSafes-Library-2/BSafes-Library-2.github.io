@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$30 Million worth of cryptocurrency stolen by Lazarus from Axie Infinity was recovered<a href="https://securityaffairs.co/wordpress/135524/apt/30m-stolen-axie-infinity-recovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities recovered more than $30 million worth of cryptocurrency stolen by the North Korea-linked Lazarus APT from Axie Infinity.
+
+
+
+A joint operation conducted by enforcement and leading organizations in the cryptocurrency industry allowed to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

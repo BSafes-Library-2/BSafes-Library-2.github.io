@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Top API Security Risks! Favored Targets for Attackers If Left Unmanaged<a href="https://thehackernews.com/2022/09/6-top-api-security-risks-favored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security threats are always a concern when it comes to APIs. API security can be compared to driving a car. You must be cautious and review everything closely before releasing it into the world. By failing to do so, you're putting yourself and others at risk.  API attacks are more dangerous than other breaches. Facebook had a 50M user account affected by an API breach, and an API data breach on the Hostinger account exposed 14M customer records.&nbsp;  If a hacker gets into your API endpoints, it could spell disaster for your project. Depending on the industries and geographies you're talking about, insecure APIs could get you into hot water. Especially in the EU, if you're serving the banking, you could face massive legal and compliance problems if you're discovered to be using insecure APIs.&nbsp;  To mitigate these risks, you need to be aware of the potential&nbsp; API vulnerabilities &nbsp;that cybercriminals can exploit.  &nbsp; 6 Commonly Overlooked API Security Risks  #1 No API Visibili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chasing the Cyber 1%: How to Beat the Cybersecurity Poverty Line<a href="https://securityintelligence.com/articles/rise-above-cybersecurity-poverty-line/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber poverty line (CPL) is a threshold that divides all organizations into two distinct categories: those that are able to implement essential measures well and those that are unable.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

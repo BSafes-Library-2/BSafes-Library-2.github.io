@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerabilities Reported in Baxter's Internet-Connected Infusion Pumps<a href="https://thehackernews.com/2022/09/new-vulnerabilities-reported-in-baxters.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Baxter's internet-connected infusion pumps used by healthcare professionals in clinical environments to dispense medication to patients.  "Successful exploitation of these vulnerabilities could result in access to sensitive data and alteration of system configuration," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in a coordinated advisory.  Infusion pumps are internet-enabled devices used by hospitals to deliver medication and nutrition directly into a patient's circulatory system.  The four vulnerabilities in question, discovered by&nbsp; cybersecurity firm Rapid7 &nbsp;and reported to Baxter in April 2022, affect the following Sigma Spectrum Infusion systems -   Sigma Spectrum v6.x model 35700BAX  Sigma Spectrum v8.x model 35700BAX2  Baxter Spectrum IQ (v9.x) model 35700BAX3  Sigma Spectrum LVP v6.x Wireless Battery Modules v16, v16D38, v17, v17D19, v20D29 to v20D32, and v22D24 to v22D28  Sig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendor disputes seriousness of firewall plugin RCE flaw<a href="https://portswigger.net/daily-swig/vendor-disputes-seriousness-of-firewall-plugin-rce-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from IHTeam have uncovered a serious vulnerability in a plugin to the pfSense firewall technology. The pfSense pfBlockerNG vulnerability is tracked as CVE-2022-31814.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco will not fix the authentication bypass flaw in EoL routers<a href="https://securityaffairs.co/wordpress/135464/security/cisco-security-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed&nbsp;new security flaws&nbsp;affecting its products, including a recently disclosed high-severity issue in NVIDIA Data Plane Development Kit.
+
+
+
+The most severe issues fixed by Cisco are an unauthenticated Access to Messaging Services Vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Security Patches for New Vulnerabilities Impacting Multiple Products<a href="https://thehackernews.com/2022/09/cisco-releases-security-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out patches to address&nbsp; three security flaws &nbsp;affecting its products, including a high-severity weakness disclosed in NVIDIA Data Plane Development Kit (MLNX_DPDK) late last month.  Tracked as&nbsp; CVE-2022-28199 &nbsp;(CVSS score: 8.6), the vulnerability stems from a lack of proper error handling in DPDK's network stack, enabling a remote adversary to trigger a denial-of-service (DoS) condition and cause an impact on data integrity and confidentiality.  "If an error condition is observed on the device interface, the device may either reload or fail to receive traffic, resulting in a denial-of-service (DoS) condition," Cisco&nbsp; said &nbsp;in a notice published on September 7.   DPDK &nbsp;refers to a set of libraries and optimized network interface card (NIC) drivers for fast packet processing, offering a framework and common API for high-speed networking applications.  Cisco said it investigated its product lineup and determined the following services to be affecte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

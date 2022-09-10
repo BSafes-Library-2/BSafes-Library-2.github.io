@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase funds lawsuit against Tornado Cash cryptomixer sanctions<a href="https://www.bleepingcomputer.com/news/security/coinbase-funds-lawsuit-against-tornado-cash-cryptomixer-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase announced on Tuesday that it is funding a lawsuit brought by six people in the U.S. against the Department of Treasury's for the sanctions on the Tornado Cash open-source cryptocurrency mixer platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
