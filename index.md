@@ -34,6 +34,358 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux malware combines unusual stealth with a full suite of capabilities<a href="https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Shikitega by the researchers at AT&T Alien Labs who discovered it, the malware is delivered through a multistage infection chain using polymorphic encoding. It also abuses legitimate cloud services to host command-and-control servers.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting zero-day in WordPress BackupBuddy plugin<a href="https://securityaffairs.co/wordpress/135518/hacking/backupbuddy-wordpress-zero-day.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2022-31474 (CVSS score: 7.5), can be exploited by an unauthenticated user to download arbitrary files from the affected site. It has been estimated that the plugin has around 140,000 active installations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 9th 2022 - Schools under fire<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-9th-2022-schools-under-fire/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs have been busy this week, launching attacks against NAS devices, one of the largest hotel groups, IHG, and LAUSD, the second largest school district in the USA.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Top API Security Risks! Favored Targets for Attackers If Left Unmanaged<a href="https://thehackernews.com/2022/09/6-top-api-security-risks-favored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security threats are always a concern when it comes to APIs. API security can be compared to driving a car. You must be cautious and review everything closely before releasing it into the world. By failing to do so, you're putting yourself and others at risk.  API attacks are more dangerous than other breaches. Facebook had a 50M user account affected by an API breach, and an API data breach on the Hostinger account exposed 14M customer records.   If a hacker gets into your API endpoints, it could spell disaster for your project. Depending on the industries and geographies you're talking about, insecure APIs could get you into hot water. Especially in the EU, if you're serving the banking, you could face massive legal and compliance problems if you're discovered to be using insecure APIs.   To mitigate these risks, you need to be aware of the potential  API vulnerabilities  that cybercriminals can exploit.    6 Commonly Overlooked API Security Risks  #1 No API Visibili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Treasury sanctioned Iran ’s Ministry of Intelligence over Albania cyberattack<a href="https://securityaffairs.co/wordpress/135532/intelligence/us-treasury-sanctioned-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department sanctioned Iran 's Ministry of Intelligence and Security (MOIS) and its Minister of Intelligence over the Albania cyberattack.
+
+
+
+The U.S. Treasury Department announced sanctions against Iran 's Ministry of Intelligence and Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase funds lawsuit against Tornado Cash cryptomixer sanctions<a href="https://www.bleepingcomputer.com/news/security/coinbase-funds-lawsuit-against-tornado-cash-cryptomixer-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Coinbase announced on Tuesday that it is funding a lawsuit brought by six people in the U.S. against the Department of Treasury's for the sanctions on the Tornado Cash open-source cryptocurrency mixer platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Seizes Cryptocurrency Worth $30 Million Stolen by North Korean Hackers<a href="https://thehackernews.com/2022/09/us-seizes-cryptocurrency-worth-30.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than $30 million worth of cryptocurrency plundered by the North Korea-linked Lazarus Group from online video game Axie Infinity has been recovered, marking the first time digital assets stolen by the threat actor have been seized.  "The seizures represent approximately 10% of the total funds stolen from Axie Infinity (accounting for price differences between time stolen and seized), and demonstrate that it is becoming more difficult for bad actors to successfully cash out their ill-gotten crypto gains," Erin Plante, senior director of investigations at Chainalysis,  said .  The development arrives more than five months after the  crypto hack  resulted in the theft of $620 million from the decentralized finance (DeFi) platform Ronin Network, with the attackers laundering a majority of the proceeds – amounting to $455 million – through the Ethereum-based cryptocurrency tumbler Tornado Cash.   The March 2022 cryptocurrency heist resulted in losses totaling 173,600 ETH wort
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$30 Million worth of cryptocurrency stolen by Lazarus from Axie Infinity was recovered<a href="https://securityaffairs.co/wordpress/135524/apt/30m-stolen-axie-infinity-recovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities recovered more than $30 million worth of cryptocurrency stolen by the North Korea-linked Lazarus APT from Axie Infinity.
+
+
+
+A joint operation conducted by enforcement and leading organizations in the cryptocurrency industry allowed to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US sanctions Iran’s Ministry of Intelligence over Albania cyberattack<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-iran-s-ministry-of-intelligence-over-albania-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department announced sanctions today against Iran's Ministry of Intelligence and Security (MOIS) and its Minister of Intelligence for their role in the July cyberattack against the government of Albania, a U.S. ally and a NATO member state.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chasing the Cyber 1%: How to Beat the Cybersecurity Poverty Line<a href="https://securityintelligence.com/articles/rise-above-cybersecurity-poverty-line/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber poverty line (CPL) is a threshold that divides all organizations into two distinct categories: those that are able to implement essential measures well and those that are unable.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Zero-Day in WordPress BackupBuddy Plugin in ~5 Million Attempts<a href="https://thehackernews.com/2022/09/hackers-exploit-zero-day-in-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in a WordPress plugin called  BackupBuddy  is being actively exploited, WordPress security company Wordfence has disclosed.  "This vulnerability makes it possible for unauthenticated users to download arbitrary files from the affected site which can include sensitive information," it  said .  BackupBuddy allows users to back up their entire WordPress installation from within the dashboard, including theme files, pages, posts, widgets, users, and media files, among others.   The plugin is estimated to have around 140,000 active installations, with the flaw (CVE-2022-31474, CVSS score: 7.5) affecting versions 8.5.8.0 to 8.7.4.1. It's been addressed in version 8.7.5 released on September 2, 2022.  The issue is rooted in the function called "Local Directory Copy" that's designed to store a local copy of the backups. According to Wordfence, the vulnerability is the result of the insecure implementation, which enables an unauthenticated threat act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting zero-day in WordPress BackupBuddy plugin<a href="https://securityaffairs.co/wordpress/135518/hacking/backupbuddy-wordpress-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a zero-day vulnerability in a WordPress plugin called BackupBuddy, Wordfence researchers warned.
+
+
+
+On September 6, 2022, the Wordfence Threat Intelligence team was informed of a vulnerability being actively exploited in the BackupBuddy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society claims LAUSD ransomware attack, theft of 500GB of data<a href="https://www.bleepingcomputer.com/news/security/vice-society-claims-lausd-ransomware-attack-theft-of-500gb-of-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society gang has claimed the ransomware attack that hit Los Angeles Unified (LAUSD), the second largest school district in the United States, over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Vice Society ransomware claims credit for Los Angeles school attack<a href="https://statescoop.com/los-angeles-ransomware-vice-society/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware outfit known as Vice Society has claimed credit for an attack earlier this week that disabled several IT systems at the Los Angeles Unified School District, according to a report.
+</details>
+<div style="text-align: right" markdown="1">
+State Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked DEV-0270 group abuses BitLocker to encrypt victims’ devices<a href="https://securityaffairs.co/wordpress/135511/apt/dev-0270-abuses-bitlocker-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group DEV-0270 (aka Nemesis Kitten) is abusing the BitLocker Windows feature to encrypt victims' devices.
+
+
+
+Microsoft Security Threat Intelligence researchers reported that Iran-linked APT group DEV-0270 (Nemesis Kitten) has been abusing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lampion malware returns in phishing attacks abusing WeTransfer<a href="https://www.bleepingcomputer.com/news/security/lampion-malware-returns-in-phishing-attacks-abusing-wetransfer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lampion malware is being distributed in greater volumes lately, with threat actors abusing WeTransfer as part of their phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report identified key vulnerabilities two years before cyberattack on L.A. Unified<a href="https://www.latimes.com/california/story/2022-09-08/report-identified-key-vulnerabilities-prior-to-cyberattack-on-l-a-unified?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report indicated that district staff agreed with its findings and committed to addressing them, but district officials did not clarify Wednesday which of the recommended actions were carried out.
+</details>
+<div style="text-align: right" markdown="1">
+LA Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ManageEngine vulnerability posed code injection risk for password management software<a href="https://portswigger.net/daily-swig/manageengine-vulnerability-posed-code-injection-risk-for-password-management-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has discovered a vulnerability in ManageEngine that could allow an attacker to execute arbitrary code on affected installations of some of its password and access management tools.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traffic Safety Agency Issues Final Guidelines for Vehicle Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/09/traffic-safety-agency-issues-final-guidelines-vehicle-cybersecurity/376890/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Highway Traffic Safety Administration will announce its final cybersecurity guidelines draft Friday as modern vehicles become more technologically integrated.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Developers Turn to Intermittent Encryption to Evade Detection<a href="https://www.sentinelone.com/labs/crimeware-trends-ransomware-developers-turn-to-intermittent-encryption-to-evade-detection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In contrast to full encryption, intermittent encryption helps to evade analysis by exhibiting a significantly lower intensity of file IO operations and much higher similarity between non-encrypted and encrypted versions of a given file.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntress Scores $40M Funding, Plans International Expansion<a href="https://www.securityweek.com/huntress-scores-40m-funding-plans-international-expansion?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huntress, based in Ellicott City, said the new financing will be used to shop for acquisition opportunities and to speed up expansion into international markets across Canada, the U.K., Europe, Australia, and New Zealand.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 08, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
