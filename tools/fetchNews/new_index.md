@@ -34,7 +34,219 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware bugs in many HP computer models left unfixed for over a year<a href="https://www.bleepingcomputer.com/news/security/firmware-bugs-in-many-hp-computer-models-left-unfixed-for-over-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of six high-severity firmware vulnerabilities impacting a broad range of HP devices used in enterprise environments are still waiting to be patched, although some of them were publicly disclosed since July 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus hackers are exploiting Log4j flaw to hack US energy companies<a href="https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have linked a new cyber espionage campaign targeting U.S., Canadian and Japanese energy providers to the North Korean state-sponsored Lazarus hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT42 Launched Over 30 Espionage Attacks Against Activists and Dissidents<a href="https://thehackernews.com/2022/09/iranian-apt42-launched-over-30.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored advanced persistent threat (APT) actor newly christened APT42 (formerly UNC788) has been attributed to over 30 confirmed espionage attacks against individuals and organizations of strategic interest to the Iranian government at least since 2015.  Cybersecurity firm Mandiant said the group operates as the intelligence gathering arm of Iran's Islamic Revolutionary Guard Corps (IRGC), not to mention shares partial overlaps with another cluster called  APT35 , which is also known as Charming Kitten, Cobalt Illusion, ITG18, Phosphorus, TA453, and Yellow Garuda.  APT42 has exhibited a propensity to strike various industries such as non-profits, education, governments, healthcare, legal, manufacturing, media, and pharmaceuticals spanning at least 14 countries, including in Australia, Europe, the Middle East, and the U.S.  Intrusions aimed at the pharmaceutical sector are also notable for the fact that they commenced at the onset of the COVID-19 pandemic in March 2020, i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania was hit by a new cyberattack and blames Iran￼<a href="https://securityaffairs.co/wordpress/135602/cyber-warfare-2/albania-second-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania blamed Iran for a new cyberattack that hit computer systems used by the state police on Friday. 
+
+
+
+Albania blamed the government of Teheran for a new cyberattack that hit computer systems used by the state police on Saturday.
+
+
+
+
+
+
+
+"The national...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 383<a href="https://securityaffairs.co/wordpress/135593/breaking-news/security-affairs-newsletter-round-383.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+IHG...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT42 is behind over 30 espionage attacks<a href="https://securityaffairs.co/wordpress/135581/apt/iran-apt42-espionage-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT42 (formerly UNC788) is suspected to be the actor behind over 30 cyber espionage attacks against activists and dissidents. 
+
+
+
+Experts attribute over 30 cyber espionage attacks against activists and dissidents to the Iran-linked APT42...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs switching to new intermittent encryption tactic<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-switching-to-new-intermittent-encryption-tactic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A growing number of ransomware groups are adopting a new tactic that helps them encrypt their victims' systems faster while reducing the chances of being detected and stopped.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Imposes New Sanctions on Iran Over Cyberattack on Albania<a href="https://thehackernews.com/2022/09/us-imposes-new-sanctions-on-iran-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Friday announced sanctions against Iran's Ministry of Intelligence and Security (MOIS) and its Minister of Intelligence, Esmaeil Khatib, for engaging in cyber-enabled activities against the nation and its allies.  "Since at least 2007, the MOIS and its cyber actor proxies have conducted malicious cyber operations targeting a range of government and private-sector organizations around the world and across various critical infrastructure sectors," the Treasury  said .  The agency also accused Iranian state-sponsored actors of  staging disruptive attacks  aimed at Albanian government computer systems in mid-July 2022, an incident that forced the latter to temporarily suspend its online services.  The development comes months nearly nine months after the U.S. Cyber Command characterized the advanced persistent threat (APT) known as MuddyWater as a  subordinate element  within MOIS. It also comes almost two years following the Treasury's sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IHG suffered a cyberattack that severely impacted its booking process<a href="https://securityaffairs.co/wordpress/135572/hacking/ihg-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+InterContinental Hotels Group PLC (IHG) discloses a security breach, parts of its IT infrastructure has been subject to unauthorised activity
+
+
+
+The hospitality conglomerate, InterContinental Hotel Group (IHG) manages 17 hotel chains, including the Regent,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked BRONZE PRESIDENT APT targets Government officials worldwide<a href="https://securityaffairs.co/wordpress/135557/apt/bronze-president-plugx-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked BRONZE PRESIDENT group is targeting government officials in Europe, the Middle East, and South America with PlugX malware.
+
+
+
+Secureworks researchers reported that China-linked APT group BRONZE PRESIDENT conducted a new campaign aimed at government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers live-streamed on YouTube a fake Apple crypto event<a href="https://securityaffairs.co/wordpress/135549/cyber-crime/fake-apple-crypto-event-youtube.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers live-streamed on YouTube an old interview with Tim Cook as part of a fake Apple crypto event, and tens of thousands of users viewed it.
+
+
+
+Cybercriminals were live-streaming on YouTube an old interview with Tim Cook as part of a fake Apple crypto...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux malware combines unusual stealth with a full suite of capabilities<a href="https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/?&web_view=true"> Full Text</a>
@@ -50,7 +262,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2022
+September 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of attacks exploiting zero-day in WordPress BackupBuddy plugin<a href="https://securityaffairs.co/wordpress/135518/hacking/backupbuddy-wordpress-zero-day.html?&web_view=true"> Full Text</a>
@@ -66,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 9th 2022 - Schools under fire<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-9th-2022-schools-under-fire/"> Full Text</a>
@@ -82,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 6 Top API Security Risks! Favored Targets for Attackers If Left Unmanaged<a href="https://thehackernews.com/2022/09/6-top-api-security-risks-favored.html"> Full Text</a>
@@ -98,7 +310,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Treasury sanctioned Iran ’s Ministry of Intelligence over Albania cyberattack<a href="https://securityaffairs.co/wordpress/135532/intelligence/us-treasury-sanctioned-iran.html"> Full Text</a>
@@ -118,7 +330,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coinbase funds lawsuit against Tornado Cash cryptomixer sanctions<a href="https://www.bleepingcomputer.com/news/security/coinbase-funds-lawsuit-against-tornado-cash-cryptomixer-sanctions/"> Full Text</a>
@@ -134,7 +346,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Seizes Cryptocurrency Worth $30 Million Stolen by North Korean Hackers<a href="https://thehackernews.com/2022/09/us-seizes-cryptocurrency-worth-30.html"> Full Text</a>
@@ -150,7 +362,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $30 Million worth of cryptocurrency stolen by Lazarus from Axie Infinity was recovered<a href="https://securityaffairs.co/wordpress/135524/apt/30m-stolen-axie-infinity-recovered.html"> Full Text</a>
@@ -170,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US sanctions Iran’s Ministry of Intelligence over Albania cyberattack<a href="https://www.bleepingcomputer.com/news/security/us-sanctions-iran-s-ministry-of-intelligence-over-albania-cyberattack/"> Full Text</a>
@@ -186,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chasing the Cyber 1%: How to Beat the Cybersecurity Poverty Line<a href="https://securityintelligence.com/articles/rise-above-cybersecurity-poverty-line/?&web_view=true"> Full Text</a>
@@ -202,7 +414,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Zero-Day in WordPress BackupBuddy Plugin in ~5 Million Attempts<a href="https://thehackernews.com/2022/09/hackers-exploit-zero-day-in-wordpress.html"> Full Text</a>
@@ -218,7 +430,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of attacks exploiting zero-day in WordPress BackupBuddy plugin<a href="https://securityaffairs.co/wordpress/135518/hacking/backupbuddy-wordpress-zero-day.html"> Full Text</a>
@@ -238,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society claims LAUSD ransomware attack, theft of 500GB of data<a href="https://www.bleepingcomputer.com/news/security/vice-society-claims-lausd-ransomware-attack-theft-of-500gb-of-data/"> Full Text</a>
@@ -254,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Vice Society ransomware claims credit for Los Angeles school attack<a href="https://statescoop.com/los-angeles-ransomware-vice-society/?&web_view=true"> Full Text</a>
@@ -270,7 +482,7 @@ State Scoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked DEV-0270 group abuses BitLocker to encrypt victims’ devices<a href="https://securityaffairs.co/wordpress/135511/apt/dev-0270-abuses-bitlocker-attacks.html"> Full Text</a>
@@ -290,7 +502,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 09, 2022
+September 09, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lampion malware returns in phishing attacks abusing WeTransfer<a href="https://www.bleepingcomputer.com/news/security/lampion-malware-returns-in-phishing-attacks-abusing-wetransfer/"> Full Text</a>
@@ -306,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report identified key vulnerabilities two years before cyberattack on L.A. Unified<a href="https://www.latimes.com/california/story/2022-09-08/report-identified-key-vulnerabilities-prior-to-cyberattack-on-l-a-unified?&web_view=true"> Full Text</a>
@@ -322,7 +534,7 @@ LA Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ManageEngine vulnerability posed code injection risk for password management software<a href="https://portswigger.net/daily-swig/manageengine-vulnerability-posed-code-injection-risk-for-password-management-software?&web_view=true"> Full Text</a>
@@ -338,7 +550,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Traffic Safety Agency Issues Final Guidelines for Vehicle Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/09/traffic-safety-agency-issues-final-guidelines-vehicle-cybersecurity/376890/?&web_view=true"> Full Text</a>
@@ -354,7 +566,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Developers Turn to Intermittent Encryption to Evade Detection<a href="https://www.sentinelone.com/labs/crimeware-trends-ransomware-developers-turn-to-intermittent-encryption-to-evade-detection/?&web_view=true"> Full Text</a>
@@ -370,7 +582,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 9, 2022
+September 9, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huntress Scores $40M Funding, Plans International Expansion<a href="https://www.securityweek.com/huntress-scores-40m-funding-plans-international-expansion?&web_view=true"> Full Text</a>
