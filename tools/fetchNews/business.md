@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntress Scores $40M Funding, Plans International Expansion<a href="https://www.securityweek.com/huntress-scores-40m-funding-plans-international-expansion?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Huntress, based in Ellicott City, said the new financing will be used to shop for acquisition opportunities and to speed up expansion into international markets across Canada, the U.K., Europe, Australia, and New Zealand.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers live-streamed on YouTube a fake Apple crypto event<a href="https://securityaffairs.co/wordpress/135549/cyber-crime/fake-apple-crypto-event-youtube.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers live-streamed on YouTube an old interview with Tim Cook as part of a fake Apple crypto event, and tens of thousands of users viewed it.
+
+
+
+Cybercriminals were live-streaming on YouTube an old interview with Tim Cook as part of a fake Apple crypto...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

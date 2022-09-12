@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs switching to new intermittent encryption tactic<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-switching-to-new-intermittent-encryption-tactic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A growing number of ransomware groups are adopting a new tactic that helps them encrypt their victims' systems faster&nbsp;while reducing the chances of being detected and stopped.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

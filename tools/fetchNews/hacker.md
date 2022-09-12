@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Zero-Day in WordPress BackupBuddy Plugin in ~5 Million Attempts<a href="https://thehackernews.com/2022/09/hackers-exploit-zero-day-in-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in a WordPress plugin called&nbsp; BackupBuddy &nbsp;is being actively exploited, WordPress security company Wordfence has disclosed.  "This vulnerability makes it possible for unauthenticated users to download arbitrary files from the affected site which can include sensitive information," it&nbsp; said .  BackupBuddy allows users to back up their entire WordPress installation from within the dashboard, including theme files, pages, posts, widgets, users, and media files, among others.   The plugin is estimated to have around 140,000 active installations, with the flaw (CVE-2022-31474, CVSS score: 7.5) affecting versions 8.5.8.0 to 8.7.4.1. It's been addressed in version 8.7.5 released on September 2, 2022.  The issue is rooted in the function called "Local Directory Copy" that's designed to store a local copy of the backups. According to Wordfence, the vulnerability is the result of the insecure implementation, which enables an unauthenticated threat act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked DEV-0270 group abuses BitLocker to encrypt victims’ devices<a href="https://securityaffairs.co/wordpress/135511/apt/dev-0270-abuses-bitlocker-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group DEV-0270 (aka Nemesis Kitten) is abusing the BitLocker Windows feature to encrypt victims' devices.
+
+
+
+Microsoft Security Threat Intelligence researchers reported that Iran-linked APT group DEV-0270 (Nemesis Kitten) has been abusing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

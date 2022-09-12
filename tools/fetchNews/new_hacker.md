@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus hackers are exploiting Log4j flaw to hack US energy companies<a href="https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have linked a new cyber espionage campaign targeting U.S., Canadian and Japanese energy providers to the North Korean state-sponsored Lazarus hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
