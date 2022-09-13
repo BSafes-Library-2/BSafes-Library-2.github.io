@@ -34,7 +34,439 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2022
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal Steam accounts in new Browser-in-the-Browser attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-steam-accounts-in-new-browser-in-the-browser-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are launching new attacks to steal Steam credentials using a Browser-in-the-Browser phishing technique that is rising in popularity among threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Xalan-J could allow arbitrary code execution<a href="https://portswigger.net/daily-swig/vulnerability-in-xalan-j-could-allow-arbitrary-code-execution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xalan-J is a Java version implementation of an XSLT processor. The project is vulnerable to an integer truncation issue when processing malicious XSLT stylesheets, discovered by Google Project Zero’s Felix Wilhelm.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Accuses NSA's TAO Unit of Hacking its Military Research University<a href="https://thehackernews.com/2022/09/china-accuses-nsas-tao-unit-of-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China has accused the U.S. National Security Agency (NSA) of conducting a string of cyberattacks aimed at aeronautical and military research-oriented Northwestern Polytechnical University in the city of Xi'an in June 2022.  The National Computer Virus Emergency Response Centre (NCVERC) disclosed its findings last week, and accused the Office of Tailored Access Operations ( TAO ) at the USA's National Security Agency (NSA) of orchestrating thousands of attacks against the entities located within the country.  "The U.S. NSA's TAO has carried out tens of thousands of malicious cyber attacks on China's domestic network targets, controlled tens of thousands of network devices (network servers, Internet terminals, network switches, telephone exchanges, routers, firewalls, etc.), and stole more than 140GB of high-value data," the NCVERC  said .   The agency further said that the attack on the Northwestern Polytechnical University employed no fewer than 40 different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the eighth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/135647/security/apple-fixes-eighth-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed the eighth zero-day vulnerability that is actively exploited in attacks against iPhones and Macs since January.
+
+
+
+Apple has released security updates to fix a zero-day vulnerability, tracked as CVE-2022-32917, which is actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U-Haul discloses data breach exposing customer driver licenses<a href="https://www.bleepingcomputer.com/news/security/u-haul-discloses-data-breach-exposing-customer-driver-licenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moving and storage giant U-Haul International (U-Haul) disclosed a data breach after a customer contract search tool was hacked to access customers' names and driver's license information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks on retail increase, average retail payment grows to more than $200K<a href="https://therecord.media/ransomware-attacks-on-retail-increase-average-retail-payment-grows-to-more-than-200k/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos researchers spoke to 422 IT workers at mid-sized organizations in the retail sector across 31 countries, finding startling increases in the number of respondents who said their organizations suffered ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Group GhostSec Compromises 55 Berghof PLCs Across Israel<a href="https://thehackernews.com/2022/09/palestinian-hacktivist-group-ghostsec.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacktivist collective called  GhostSec  has claimed credit for compromising as many as 55 Berghof programmable logic controllers ( PLCs ) used by Israeli organizations as part of a "Free Palestine" campaign.  Industrial cybersecurity firm OTORIO, which  dug deeper  into the incident, said the breach was made possible owing to the fact that the PLCs were accessible through the Internet and were secured by trivially guessable credentials.  Details of the compromise first came to light on September 4 after GhostSec shared a video on its Telegram channel demonstrating a successful login to the PLC's admin panel, in addition to dumping data from the hacked controllers.  The Israeli company said the system dumps and screenshots were exported directly from the admin panel following unauthorized access to the controllers through their public IP addresses.   GhostSec (aka Ghost Security), first identified in 2015, is a self-proclaimed  vigilante group  that was initially formed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announced the completion of the acquisition of Mandiant for $5.4 billion<a href="https://securityaffairs.co/wordpress/135638/security/google-announced-acquisition-of-mandiant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google completed the acquisition of the threat intelligence firm Mandiant, the IT giant will pay $5.4 billion.
+
+
+
+Google announced the completion of the $5.4 billion acquisition of threat intelligence firm Mandiant. The acquisition was announced in March...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes eighth zero-day used to hack iPhones and Macs this year<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-eighth-zero-day-used-to-hack-iphones-and-macs-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address the eighth zero-day vulnerability used in attacks against iPhones and Macs since the start of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Path Filter Bypass Vulnerabilities in Java Open Source Projects<a href="https://www.fortinet.com/blog/threat-research/path-filter-bypass-vulnerabilities-on-java-open-source-projects?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a security precaution, a web application typically has a path filter mechanism to prevent an unauthorized user from exploiting an unintended functionality via a specially crafted URL.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Vulnerability Scanning is Critical for SOC 2<a href="https://thehackernews.com/2022/09/why-vulnerability-scanning-is-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOC 2 may be a voluntary standard, but for today's security-conscious business, it's a minimal requirement when considering a SaaS provider. Compliance can be a long and complicated process, but a scanner like  Intruder  makes it easy to tick the vulnerability management box.  Security is critical for all organisations, including those that outsource key business operations to third parties like SaaS vendors and cloud providers. Rightfully so, since mishandled data – especially by application and network security providers – can leave organisations vulnerable to attacks, such as data theft, extortion and malware.  But how secure are the third parties you've entrusted with your data? SOC 2 is a framework that ensures these service providers securely manage data to protect their customers and clients. For security-conscious businesses – and security should be a priority for every business today – SOC 2 is now a minimal requirement when considering a SaaS provider.  What SOC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco confirms that data leaked by the Yanluowang ransomware gang were stolen from its systems<a href="https://securityaffairs.co/wordpress/135625/cyber-crime/cisco-hack-yanluowang-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco confirmed the May attack and that the data leaked by the Yanluowang ransomware group was stolen from its systems.
+
+
+
+In August, Cisco disclosed a security breach, the Yanluowang ransomware gang breached its corporate network in late May and stole...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz ransomware breaches corporate network via phone systems<a href="https://www.bleepingcomputer.com/news/security/lorenz-ransomware-breaches-corporate-network-via-phone-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz ransomware gang now uses a critical vulnerability in Mitel MiVoice VOIP appliances to breach enterprises using their phone systems for initial access to their corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Alerts Raises $22 Million to Help MSPs Protect Business Applications<a href="https://www.securityweek.com/saas-alerts-raises-22-million-help-msps-protect-business-applications?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS Alerts, a cybersecurity startup that helps managed service providers (MSPs) protect their customers' core business SaaS applications, has received a $22 million growth investment from Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Firmware Security Flaws Left Unpatched in HP Enterprise Devices<a href="https://thehackernews.com/2022/09/high-severity-firmware-security-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of firmware security flaws uncovered in HP's business-oriented high-end notebooks continue to be left unpatched in some devices even months after public disclosure.  Binarly, which first  revealed details  of the issues at the  Black Hat USA conference  in mid-August 2022, said the vulnerabilities "can't be detected by firmware integrity monitoring systems due to limitations of the Trusted Platform Module (TPM) measurement."  Firmware flaws can have serious implications as they can be abused by an adversary to achieve long-term persistence on a device in a manner that can survive reboots and evade traditional operating system-level security protections.   The high-severity weaknesses identified by Binarly affect HP EliteBook devices and concern a case of memory corruption in the System Management Mode (SMM) of the firmware, thereby enabling the execution of arbitrary code with the highest privileges -   CVE-2022-23930  (CVSS score: 8.2) - Stack-based buffer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some firmware bugs in HP business devices are yet to be fixed<a href="https://securityaffairs.co/wordpress/135592/security/firmware-bugs-hp-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six high-severity firmware bugs affecting several HP Enterprise devices are yet to be patched, some of them since July 2021.
+
+
+
+The Binarly security research team reported several HP Enterprise devices are affected by six high-severity firmware vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware: 70% drop in Linux ESXi VM performance with Retbleed fixes<a href="https://www.bleepingcomputer.com/news/linux/vmware-70-percent-drop-in-linux-esxi-vm-performance-with-retbleed-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware is warning that ESXi VMs running on Linux kernel 5.19 can have up to a 70% performance drop when Retbleed mitigations are enabled compared to the Linux kernel 5.18 release.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania Hit by Second Cyberattack Allegedly by Same Group of Iranian Hackers<a href="https://securityaffairs.co/wordpress/135602/cyber-warfare-2/albania-second-cyber-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The national police’s computer systems were hit Friday by a cyberattack which, according to initial information, was committed by the same actors who in July attacked the country’s public and government service systems,” said the interior ministry.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released iOS 16 with Lockdown, Safety Check security features<a href="https://www.bleepingcomputer.com/news/apple/apple-released-ios-16-with-lockdown-safety-check-security-features/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released iOS 16 today with new features to boost iPhone users' security and privacy, including Lockdown Mode and Security Check.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser extensions: more dangerous than you think<a href="https://www.kaspersky.com/blog/dangers-of-browser-extensions/45448/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years, cybercriminals have been actively spreading malicious WebSearch adware extensions. Members of this family are usually disguised as tools for Office files, for example, for Word-to-PDF conversion.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five ways your data may be at risk — and what to do about it<a href="https://www.bleepingcomputer.com/news/security/five-ways-your-data-may-be-at-risk-and-what-to-do-about-it/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We store vast amounts of data — financial records, photos/videos, family schedules, freelance projects and more — on our personal computers and smartphones. Let's take a look at some of the most common threats to your data, and how you can step up your protection today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Knocked Kentucky City-based ISP Offline Before Holiday<a href="https://therecord.media/bardstown-ransomware-isp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initial outage struck last Friday and lasted 18 hours, the Nelson County Gazette reported. Bardstown is a small city of roughly 13,000 people — and Bardstown Connect is the high-speed ISP for a majority of the city’s residents and businesses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco confirms Yanluowang ransomware leaked stolen company data<a href="https://www.bleepingcomputer.com/news/security/cisco-confirms-yanluowang-ransomware-leaked-stolen-company-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has confirmed that the data leaked yessterday by the Yanluowang ransomware gang was stolen from the company network during a cyberattack in May.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad bots are coming at APIs! How to beat the API bot attacks?<a href="https://www.helpnetsecurity.com/2022/09/12/api-bot-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+75% of login attempts from Application Programming Interface (API) endpoints are malicious – according to perimeterx. Hackers systematically use bots for malicious login attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical KEPServerEX Flaws Can Put Attackers in Powerful Position in OT Networks<a href="https://www.securityweek.com/critical-kepserverex-flaws-can-put-attackers-powerful-position-ot-networks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claroty discovered that KEPServerEX is affected by two critical vulnerabilities that could allow an attacker to crash a server, obtain data, or remotely execute arbitrary code by sending specially crafted OPC UA messages to the targeted system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Triple Extortion Ransomware: A New Trend Among Cybercriminals<a href="https://heimdalsecurity.com/blog/triple-extortion-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In addition to data encryption (the first layer), and the threat of leaking important data (the second layer), the cybercriminal can add another tactic of his choosing (the third layer).
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firmware bugs in many HP computer models left unfixed for over a year<a href="https://www.bleepingcomputer.com/news/security/firmware-bugs-in-many-hp-computer-models-left-unfixed-for-over-a-year/"> Full Text</a>
@@ -50,7 +482,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2022
+September 11, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Lazarus hackers are exploiting Log4j flaw to hack US energy companies<a href="https://techcrunch.com/2022/09/08/north-korea-lazarus-united-states-energy/?&web_view=true"> Full Text</a>
@@ -66,7 +498,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2022
+September 11, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT42 Launched Over 30 Espionage Attacks Against Activists and Dissidents<a href="https://thehackernews.com/2022/09/iranian-apt42-launched-over-30.html"> Full Text</a>
@@ -82,7 +514,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2022
+September 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albania was hit by a new cyberattack and blames Iran￼<a href="https://securityaffairs.co/wordpress/135602/cyber-warfare-2/albania-second-cyber-attack.html"> Full Text</a>
@@ -110,7 +542,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2022
+September 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 383<a href="https://securityaffairs.co/wordpress/135593/breaking-news/security-affairs-newsletter-round-383.html"> Full Text</a>
@@ -134,7 +566,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2022
+September 11, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked APT42 is behind over 30 espionage attacks<a href="https://securityaffairs.co/wordpress/135581/apt/iran-apt42-espionage-attacks.html"> Full Text</a>
@@ -154,7 +586,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2022
+September 10, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs switching to new intermittent encryption tactic<a href="https://www.bleepingcomputer.com/news/security/ransomware-gangs-switching-to-new-intermittent-encryption-tactic/"> Full Text</a>
@@ -170,7 +602,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2022
+September 10, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Imposes New Sanctions on Iran Over Cyberattack on Albania<a href="https://thehackernews.com/2022/09/us-imposes-new-sanctions-on-iran-over.html"> Full Text</a>
@@ -186,7 +618,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2022
+September 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IHG suffered a cyberattack that severely impacted its booking process<a href="https://securityaffairs.co/wordpress/135572/hacking/ihg-suffered-cyberattack.html"> Full Text</a>
@@ -206,7 +638,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2022
+September 10, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked BRONZE PRESIDENT APT targets Government officials worldwide<a href="https://securityaffairs.co/wordpress/135557/apt/bronze-president-plugx-malware.html"> Full Text</a>
@@ -226,7 +658,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 10, 2022
+September 10, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers live-streamed on YouTube a fake Apple crypto event<a href="https://securityaffairs.co/wordpress/135549/cyber-crime/fake-apple-crypto-event-youtube.html"> Full Text</a>
