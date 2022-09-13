@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Xalan-J could allow arbitrary code execution<a href="https://portswigger.net/daily-swig/vulnerability-in-xalan-j-could-allow-arbitrary-code-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xalan-J is a Java version implementation of an XSLT processor. The project is vulnerable to an integer truncation issue when processing malicious XSLT stylesheets, discovered by Google Project Zero’s Felix Wilhelm.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the eighth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/135647/security/apple-fixes-eighth-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has addressed the eighth zero-day vulnerability that is actively exploited in attacks against iPhones and Macs since January.
+
+
+
+Apple has released security updates to fix a zero-day vulnerability, tracked as CVE-2022-32917, which is actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes eighth zero-day used to hack iPhones and Macs this year<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-eighth-zero-day-used-to-hack-iphones-and-macs-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address the eighth zero-day vulnerability used in attacks against iPhones and Macs since the start of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Path Filter Bypass Vulnerabilities in Java Open Source Projects<a href="https://www.fortinet.com/blog/threat-research/path-filter-bypass-vulnerabilities-on-java-open-source-projects?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a security precaution, a web application typically has a path filter mechanism to prevent an unauthorized user from exploiting an unintended functionality via a specially crafted URL.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Firmware Security Flaws Left Unpatched in HP Enterprise Devices<a href="https://thehackernews.com/2022/09/high-severity-firmware-security-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of firmware security flaws uncovered in HP's business-oriented high-end notebooks continue to be left unpatched in some devices even months after public disclosure.  Binarly, which first&nbsp; revealed details &nbsp;of the issues at the&nbsp; Black Hat USA conference &nbsp;in mid-August 2022, said the vulnerabilities "can't be detected by firmware integrity monitoring systems due to limitations of the Trusted Platform Module (TPM) measurement."  Firmware flaws can have serious implications as they can be abused by an adversary to achieve long-term persistence on a device in a manner that can survive reboots and evade traditional operating system-level security protections.   The high-severity weaknesses identified by Binarly affect HP EliteBook devices and concern a case of memory corruption in the System Management Mode (SMM) of the firmware, thereby enabling the execution of arbitrary code with the highest privileges -   CVE-2022-23930 &nbsp;(CVSS score: 8.2) - Stack-based buffer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some firmware bugs in HP business devices are yet to be fixed<a href="https://securityaffairs.co/wordpress/135592/security/firmware-bugs-hp-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six high-severity firmware bugs affecting several HP Enterprise devices are yet to be patched, some of them since July 2021.
+
+
+
+The Binarly security research team reported several HP Enterprise devices are affected by six high-severity firmware vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware: 70% drop in Linux ESXi VM performance with Retbleed fixes<a href="https://www.bleepingcomputer.com/news/linux/vmware-70-percent-drop-in-linux-esxi-vm-performance-with-retbleed-fixes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware&nbsp;is warning that ESXi VMs running on Linux kernel 5.19 can have up to a 70% performance drop when Retbleed mitigations&nbsp;are enabled compared to the Linux kernel 5.18 release.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical KEPServerEX Flaws Can Put Attackers in Powerful Position in OT Networks<a href="https://www.securityweek.com/critical-kepserverex-flaws-can-put-attackers-powerful-position-ot-networks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claroty discovered that KEPServerEX is affected by two critical vulnerabilities that could allow an attacker to crash a server, obtain data, or remotely execute arbitrary code by sending specially crafted OPC UA messages to the targeted system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad bots are coming at APIs! How to beat the API bot attacks?<a href="https://www.helpnetsecurity.com/2022/09/12/api-bot-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+75% of login attempts from Application Programming Interface (API) endpoints are malicious – according to perimeterx. Hackers systematically use bots for malicious login attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

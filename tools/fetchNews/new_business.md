@@ -8,6 +8,38 @@ nav_order: 900027
 
 ## Business
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announced the completion of the acquisition of Mandiant for $5.4 billion<a href="https://securityaffairs.co/wordpress/135638/security/google-announced-acquisition-of-mandiant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google completed the acquisition of the threat intelligence firm Mandiant, the IT giant will pay $5.4 billion.
+
+
+
+Google announced the completion of the $5.4 billion acquisition of threat intelligence firm Mandiant. The acquisition was announced in March...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Alerts Raises $22 Million to Help MSPs Protect Business Applications<a href="https://www.securityweek.com/saas-alerts-raises-22-million-help-msps-protect-business-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS Alerts, a cybersecurity startup that helps managed service providers (MSPs) protect their customers' core business SaaS applications, has received a $22 million growth investment from Insight Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

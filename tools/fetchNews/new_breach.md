@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U-Haul discloses data breach exposing customer driver licenses<a href="https://www.bleepingcomputer.com/news/security/u-haul-discloses-data-breach-exposing-customer-driver-licenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Moving and storage giant U-Haul International (U-Haul) disclosed a data breach after a customer contract search tool was hacked to access customers' names and driver's license information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Group GhostSec Compromises 55 Berghof PLCs Across Israel<a href="https://thehackernews.com/2022/09/palestinian-hacktivist-group-ghostsec.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacktivist collective called&nbsp; GhostSec &nbsp;has claimed credit for compromising as many as 55 Berghof programmable logic controllers ( PLCs ) used by Israeli organizations as part of a "Free Palestine" campaign.  Industrial cybersecurity firm OTORIO, which&nbsp; dug deeper &nbsp;into the incident, said the breach was made possible owing to the fact that the PLCs were accessible through the Internet and were secured by trivially guessable credentials.  Details of the compromise first came to light on September 4 after GhostSec shared a video on its Telegram channel demonstrating a successful login to the PLC's admin panel, in addition to dumping data from the hacked controllers.  The Israeli company said the system dumps and screenshots were exported directly from the admin panel following unauthorized access to the controllers through their public IP addresses.   GhostSec (aka Ghost Security), first identified in 2015, is a self-proclaimed&nbsp; vigilante group &nbsp;that was initially formed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco confirms that data leaked by the Yanluowang ransomware gang were stolen from its systems<a href="https://securityaffairs.co/wordpress/135625/cyber-crime/cisco-hack-yanluowang-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco confirmed the May attack and that the data leaked by the Yanluowang ransomware group was stolen from its systems.
+
+
+
+In August, Cisco disclosed a security breach, the Yanluowang ransomware gang breached its corporate network in late May and stole...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco confirms Yanluowang ransomware leaked stolen company data<a href="https://www.bleepingcomputer.com/news/security/cisco-confirms-yanluowang-ransomware-leaked-stolen-company-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has confirmed that the data leaked yessterday by the Yanluowang ransomware gang was stolen from the company network during a cyberattack in May.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

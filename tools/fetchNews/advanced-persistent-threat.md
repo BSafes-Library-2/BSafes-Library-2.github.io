@@ -8,6 +8,56 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT42 Launched Over 30 Espionage Attacks Against Activists and Dissidents<a href="https://thehackernews.com/2022/09/iranian-apt42-launched-over-30.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A state-sponsored advanced persistent threat (APT) actor newly christened APT42 (formerly UNC788) has been attributed to over 30 confirmed espionage attacks against individuals and organizations of strategic interest to the Iranian government at least since 2015.  Cybersecurity firm Mandiant said the group operates as the intelligence gathering arm of Iran's Islamic Revolutionary Guard Corps (IRGC), not to mention shares partial overlaps with another cluster called&nbsp; APT35 , which is also known as Charming Kitten, Cobalt Illusion, ITG18, Phosphorus, TA453, and Yellow Garuda.  APT42 has exhibited a propensity to strike various industries such as non-profits, education, governments, healthcare, legal, manufacturing, media, and pharmaceuticals spanning at least 14 countries, including in Australia, Europe, the Middle East, and the U.S.  Intrusions aimed at the pharmaceutical sector are also notable for the fact that they commenced at the onset of the COVID-19 pandemic in March 2020, i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT42 is behind over 30 espionage attacks<a href="https://securityaffairs.co/wordpress/135581/apt/iran-apt42-espionage-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT42 (formerly UNC788) is suspected to be the actor behind over 30 cyber espionage attacks against activists and dissidents. 
+
+
+
+Experts attribute over 30 cyber espionage attacks against activists and dissidents to the Iran-linked APT42...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked BRONZE PRESIDENT APT targets Government officials worldwide<a href="https://securityaffairs.co/wordpress/135557/apt/bronze-president-plugx-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked BRONZE PRESIDENT group is targeting government officials in Europe, the Middle East, and South America with PlugX malware.
+
+
+
+Secureworks researchers reported that China-linked APT group BRONZE PRESIDENT conducted a new campaign aimed at government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+September 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albania was hit by a new cyberattack and blames Iran￼<a href="https://securityaffairs.co/wordpress/135602/cyber-warfare-2/albania-second-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Albania blamed Iran for a new cyberattack that hit computer systems used by the state police on Friday. 
+
+
+
+Albania blamed the government of Teheran for a new cyberattack that hit computer systems used by the state police on Saturday.
+
+
+
+
+
+
+
+"The national...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IHG suffered a cyberattack that severely impacted its booking process<a href="https://securityaffairs.co/wordpress/135572/hacking/ihg-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+InterContinental Hotels Group PLC (IHG) discloses a security breach, parts of its IT infrastructure has been subject to unauthorised activity
+
+
+
+The hospitality conglomerate, InterContinental Hotel Group (IHG) manages 17 hotel chains, including the Regent,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

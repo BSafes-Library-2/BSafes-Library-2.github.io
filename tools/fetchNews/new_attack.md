@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal Steam accounts in new Browser-in-the-Browser attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-steam-accounts-in-new-browser-in-the-browser-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are launching new attacks to steal Steam credentials using a Browser-in-the-Browser phishing technique that is rising in popularity among threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Accuses NSA's TAO Unit of Hacking its Military Research University<a href="https://thehackernews.com/2022/09/china-accuses-nsas-tao-unit-of-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China has accused the U.S. National Security Agency (NSA) of conducting a string of cyberattacks aimed at aeronautical and military research-oriented Northwestern Polytechnical University in the city of Xi'an in June 2022.  The National Computer Virus Emergency Response Centre (NCVERC) disclosed its findings last week, and accused the Office of Tailored Access Operations ( TAO ) at the USA's National Security Agency (NSA) of orchestrating thousands of attacks against the entities located within the country.  "The U.S. NSA's TAO has carried out tens of thousands of malicious cyber attacks on China's domestic network targets, controlled tens of thousands of network devices (network servers, Internet terminals, network switches, telephone exchanges, routers, firewalls, etc.), and stole more than 140GB of high-value data," the NCVERC&nbsp; said .   The agency further said that the attack on the Northwestern Polytechnical University employed no fewer than 40 different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

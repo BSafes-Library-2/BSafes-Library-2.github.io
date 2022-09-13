@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Imposes New Sanctions on Iran Over Cyberattack on Albania<a href="https://thehackernews.com/2022/09/us-imposes-new-sanctions-on-iran-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Friday announced sanctions against Iran's Ministry of Intelligence and Security (MOIS) and its Minister of Intelligence, Esmaeil Khatib, for engaging in cyber-enabled activities against the nation and its allies.  "Since at least 2007, the MOIS and its cyber actor proxies have conducted malicious cyber operations targeting a range of government and private-sector organizations around the world and across various critical infrastructure sectors," the Treasury&nbsp; said .  The agency also accused Iranian state-sponsored actors of&nbsp; staging disruptive attacks &nbsp;aimed at Albanian government computer systems in mid-July 2022, an incident that forced the latter to temporarily suspend its online services.  The development comes months nearly nine months after the U.S. Cyber Command characterized the advanced persistent threat (APT) known as MuddyWater as a&nbsp; subordinate element &nbsp;within MOIS. It also comes almost two years following the Treasury's sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

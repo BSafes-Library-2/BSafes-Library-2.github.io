@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks on retail increase, average retail payment grows to more than $200K<a href="https://therecord.media/ransomware-attacks-on-retail-increase-average-retail-payment-grows-to-more-than-200k/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos researchers spoke to 422 IT workers at mid-sized organizations in the retail sector across 31 countries, finding startling increases in the number of respondents who said their organizations suffered ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser extensions: more dangerous than you think<a href="https://www.kaspersky.com/blog/dangers-of-browser-extensions/45448/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years, cybercriminals have been actively spreading malicious WebSearch adware extensions. Members of this family are usually disguised as tools for Office files, for example, for Word-to-PDF conversion.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

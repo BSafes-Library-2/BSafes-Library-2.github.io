@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released iOS 16 with Lockdown, Safety Check security features<a href="https://www.bleepingcomputer.com/news/apple/apple-released-ios-16-with-lockdown-safety-check-security-features/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released iOS 16 today with new features to boost iPhone users' security and privacy, including Lockdown Mode and Security Check.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
