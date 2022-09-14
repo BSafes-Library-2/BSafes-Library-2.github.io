@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Knocked Kentucky City-based ISP Offline Before Holiday<a href="https://therecord.media/bardstown-ransomware-isp/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initial outage struck last Friday and lasted 18 hours, the Nelson County Gazette reported. Bardstown is a small city of roughly 13,000 people — and Bardstown Connect is the high-speed ISP for a majority of the city’s residents and businesses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,78 @@ nav_order: 900015
 
 ## Attack
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asian Governments and Organizations Targeted in Latest Cyber Espionage Attacks<a href="https://thehackernews.com/2022/09/asian-governments-and-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and state-owned organizations in a number of Asian countries have been targeted by a distinct group of espionage hackers as part of an intelligence gathering mission that has been underway since early 2021.  "A notable feature of these attacks is that the attackers leveraged a wide range of legitimate software packages in order to load their malware payloads using a technique known as&nbsp; DLL side-loading ," the Symantec Threat Hunter team, part of Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News.  The campaign is said to be exclusively geared towards government institutions related to finance, aerospace, and defense, as well as state-owned media, IT, and telecom firms.&nbsp;  Dynamic-link library (DLL) side-loading is a popular cyberattack method that leverages how Microsoft Windows applications handle DLL files. In these intrusions, a spoofed malicious DLL is planted in the Windows Side-by-Side ( WinSxS ) directory so that the operating system loads it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked TA453 used new Multi-Persona Impersonation technique in recent attacks<a href="https://securityaffairs.co/wordpress/135679/apt/iran-ta453-multi-persona-impersonation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors target individuals specializing in Middle Eastern affairs, nuclear security and genome research.
+
+
+
+In mid-2022, Proofpoint researchers uncovered a cyberespionage campaign conducted by Iran-linked TA453 threat actors.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Montenegro and its allies are working to recover from the massive cyber attack<a href="https://securityaffairs.co/wordpress/135667/hacking/montenegro-massive-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyberattack hit Montenegro, officials believe that it was launched by pro-Russian hackers and the security services of Moscow.
+
+
+
+A massive cyberattack hit Montenegro, the offensive forced government headquarters to disconnect the systems from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian group GhostSec hacked Berghof PLCs in Israel<a href="https://securityaffairs.co/wordpress/135656/hacktivism/ghostsec-hacked-berghof-plcs-israel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacktivist collective GhostSec&nbsp;claimed to have compromised 55 Berghof PLCs used by Israeli organizations.
+
+
+
+Pro-Palestinian Hacking Group GhostSec&nbsp;claimed to have compromised 55 Berghof programmable logic controllers (PLCs) used by Israeli organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

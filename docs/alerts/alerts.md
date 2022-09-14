@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2022 - CISA, DHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Request for Information on the Cyber Incident Reporting for Critical Infrastructure Act of 2022 <a href="https://www.federalregister.gov/documents/2022/09/12/2022-19551/request-for-information-on-the-cyber-incident-reporting-for-critical-infrastructure-act-of-2022"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) is issuing this Request for Information (RFI) to receive input from the public as CISA develops proposed regulations required by the Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA)
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 9, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -19,6 +31,18 @@ KNOWN EXPLOITED VULNERABILITIES CATALOG
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baxter Sigma Spectrum Infusion Pump <a href="https://www.cisa.gov/uscert/ics/advisories/icsma-22-251-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Baxter Spectrum WBM (v16, v16D38, v17, v17D19, v20D29 to v20D32, and v22D19 to v22D28) stores network credentials and patient health information (PHI) in unencrypted form. PHI is only stored in Spectrum IQ pumps using auto programming. An attacker with physical access to a device without all data and settings erased may be able to extract sensitive information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 6, 2022 - FBI, CISA, MS-ISAC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -27,6 +51,18 @@ September 6, 2022 - FBI, CISA, MS-ISAC
 <details>
   <summary>Abstract</summary>
 The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) are releasing this joint CSA to disseminate IOCs and TTPs associated with Vice Society actors identified through FBI investigations as recently as September 2022. The FBI, CISA, and the MS-ISAC have recently observed Vice Society actors disproportionately targeting the education sector with ransomware attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Contec Health CMS8000 <a href="https://www.cisa.gov/uscert/ics/advisories/icsma-22-244-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with momentary access to the device can plug in a USB drive and perform a malicious firmware update, resulting in permanent changes to device functionality. No authentication or controls are in place to prevent a threat actor from maliciously modifying firmware and performing a drive-by attack to load the firmware on any CMS8000 device.
 </details>
 </div>
 

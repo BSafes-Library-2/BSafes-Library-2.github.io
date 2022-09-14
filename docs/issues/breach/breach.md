@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach software vendor for Magento supply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-software-vendor-for-magento-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have injected malware in multiple extensions from FishPig, a vendor of&nbsp;Magento-WordPress integrations that count over 200,000 downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

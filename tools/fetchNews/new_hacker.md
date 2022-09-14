@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government hackers using diverse toolset to target Asian prime ministers, telecoms<a href="https://therecord.media/chinese-govt-hackers-using-diverse-toolset-to-target-asian-prime-ministers-telecoms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with the Chinese military are leveraging a wide range of legitimate software packages in order to load their malware payloads and target government leaders across Asia, according to the Symantec Threat Hunter team.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target High-Value Targets in Nuclear Security and Genomic Research<a href="https://thehackernews.com/2022/09/iranian-hackers-target-high-value.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers tied to the Iranian government have been targeting individuals specializing in Middle Eastern affairs, nuclear security, and genome research as part of a new social engineering campaign designed to hunt for sensitive information.  Enterprise security firm Proofpoint attributed the targeted attacks to a threat actor named&nbsp; TA453 , which broadly overlaps with cyber activities monitored under the monikers APT42, Charming Kitten, and Phosphorus.  It all starts with a phishing email impersonating legitimate individuals at Western foreign policy research organizations that's ultimately designed to gather intelligence on behalf of Iran's Islamic Revolutionary Guard Corps (IRGC).  Spoofed personas include people from Pew Research Center, the Foreign Policy Research Institute (FRPI), the U.K.'s Chatham House, and the scientific journal Nature. The technique is said to have been deployed in mid-June 2022.  What's different from other phishing attacks is the use of a tact
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PsExec spinoff lets hackers bypass network security defenses<a href="https://www.bleepingcomputer.com/news/security/new-psexec-spinoff-lets-hackers-bypass-network-security-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have developed an implementation of the Sysinternals PsExec utility that allows moving laterally in a network using a less monitored port.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

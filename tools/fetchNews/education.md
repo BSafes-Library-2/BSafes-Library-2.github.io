@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Vulnerability Scanning is Critical for SOC 2<a href="https://thehackernews.com/2022/09/why-vulnerability-scanning-is-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOC 2 may be a voluntary standard, but for today's security-conscious business, it's a minimal requirement when considering a SaaS provider. Compliance can be a long and complicated process, but a scanner like&nbsp; Intruder &nbsp;makes it easy to tick the vulnerability management box.  Security is critical for all organisations, including those that outsource key business operations to third parties like SaaS vendors and cloud providers. Rightfully so, since mishandled data – especially by application and network security providers – can leave organisations vulnerable to attacks, such as data theft, extortion and malware.  But how secure are the third parties you've entrusted with your data? SOC 2 is a framework that ensures these service providers securely manage data to protect their customers and clients. For security-conscious businesses – and security should be a priority for every business today – SOC 2 is now a minimal requirement when considering a SaaS provider.  What SOC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five ways your data may be at risk — and what to do about it<a href="https://www.bleepingcomputer.com/news/security/five-ways-your-data-may-be-at-risk-and-what-to-do-about-it/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We store vast amounts of data — financial records, photos/videos, family schedules, freelance projects and more — on our personal computers and smartphones. Let's take a look at some of the most common threats to your data, and how you can step up your protection today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

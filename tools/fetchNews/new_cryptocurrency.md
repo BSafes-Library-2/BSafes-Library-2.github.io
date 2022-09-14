@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest man for laundering tens of millions in stolen crypto<a href="https://www.bleepingcomputer.com/news/security/police-arrest-man-for-laundering-tens-of-millions-in-stolen-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police arrested a 39-year-old man on suspicions of laundering tens of millions of euros worth of cryptocurrency stolen in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

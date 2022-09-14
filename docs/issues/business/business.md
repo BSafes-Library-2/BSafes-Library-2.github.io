@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Data Security Startup Theom Emerges From Stealth With $16 Million in Funding<a href="https://www.securityweek.com/cloud-data-security-startup-theom-emerges-stealth-16-million-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded by former executives from Google, Cisco, and Yahoo, Theom has developed a solution designed to help organizations secure their data in the cloud and SaaS data stores.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

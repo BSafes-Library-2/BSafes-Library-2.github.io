@@ -34,6 +34,478 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now use ‘sock puppets’ for more realistic phishing attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-now-use-sock-puppets-for-more-realistic-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-aligned hacking group uses a new, elaborate phishing technique involving multiple personas and email accounts to lure targets into opening malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of vulnerabilities in medical devices following several CISA alerts<a href="https://therecord.media/fbi-warns-of-vulnerabilities-in-medical-devices-following-several-cisa-alerts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Cyber threat actors exploiting medical device vulnerabilities adversely impact healthcare facilities’ operational functions, patient safety, data confidentiality, and data integrity,” the alert said.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How GRC protects the value of organizations — A simple guide to data quality and integrity<a href="https://thehackernews.com/2022/09/how-grc-protects-value-of-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contemporary organizations understand the importance of data and its impact on improving interactions with customers, offering quality products or services, and building loyalty.  Data is fundamental to business success. It allows companies to make the right decisions at the right time and deliver the high-quality, personalized products and services that customers expect.  There is a challenge, though.  Businesses are collecting more data than ever before, and new technologies have accelerated this process dramatically. As a result, organizations have significant volumes of data, making it hard to manage, protect, and get value from it.  Here is where Governance, Risk, and Compliance (GRC) comes in. GRC enables companies to define and implement the best practices, procedures, and governance to ensure the data is clean, safe, and reliable across the board.   More importantly,  organizations can use GRC platforms like StandardFusion  to create an organizational culture around security.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber espionage campaign targets Asian countries since 2021<a href="https://securityaffairs.co/wordpress/135700/intelligence/cyber-espionage-target-asian-countries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber espionage group targets governments and state-owned organizations in multiple Asian countries since early 2021.
+
+
+
+Threat actors are targeting government and state-owned organizations in multiple Asian countries as parts of a cyber espionage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day in WPGateway Wordpress plugin actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/zero-day-in-wpgateway-wordpress-plugin-actively-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wordfence Threat Intelligence team warned today that WordPress sites are actively targeted with exploits targeting a zero-day vulnerability in the WPGateway premium plugin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA launches solicitation for public feedback on incident reporting rule<a href="https://therecord.media/cisa-preps-solicitation-for-public-feedback-on-incident-reporting-rule/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA also will hold a series of listening sessions across the country in the coming months to collect additional input, with events slated in cities like Oakland, Boston, Atlanta, and Chicago.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asian Governments and Organizations Targeted in Latest Cyber Espionage Attacks<a href="https://thehackernews.com/2022/09/asian-governments-and-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and state-owned organizations in a number of Asian countries have been targeted by a distinct group of espionage hackers as part of an intelligence gathering mission that has been underway since early 2021.  "A notable feature of these attacks is that the attackers leveraged a wide range of legitimate software packages in order to load their malware payloads using a technique known as  DLL side-loading ," the Symantec Threat Hunter team, part of Broadcom Software,  said  in a report shared with The Hacker News.  The campaign is said to be exclusively geared towards government institutions related to finance, aerospace, and defense, as well as state-owned media, IT, and telecom firms.   Dynamic-link library (DLL) side-loading is a popular cyberattack method that leverages how Microsoft Windows applications handle DLL files. In these intrusions, a spoofed malicious DLL is planted in the Windows Side-by-Side ( WinSxS ) directory so that the operating system loads it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro addresses actively exploited Apex One zero-day<a href="https://securityaffairs.co/wordpress/135689/security/trend-micro-apex-one-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro addressed multiple vulnerabilities in its Apex One endpoint security product, including actively exploited zero-day flaws.
+
+
+
+Trend Micro announced this week the release of security patches to address multiple vulnerabilities in its Apex...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft September 2022 Patch Tuesday fixes zero-day used in attacks, 63 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2022-patch-tuesday-fixes-zero-day-used-in-attacks-63-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's September 2022 Patch Tuesday, and with it comes fixes for an actively exploited Windows vulnerability and a total of 63 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese government hackers using diverse toolset to target Asian prime ministers, telecoms<a href="https://therecord.media/chinese-govt-hackers-using-diverse-toolset-to-target-asian-prime-ministers-telecoms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with the Chinese military are leveraging a wide range of legitimate software packages in order to load their malware payloads and target government leaders across Asia, according to the Symantec Threat Hunter team.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target High-Value Targets in Nuclear Security and Genomic Research<a href="https://thehackernews.com/2022/09/iranian-hackers-target-high-value.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers tied to the Iranian government have been targeting individuals specializing in Middle Eastern affairs, nuclear security, and genome research as part of a new social engineering campaign designed to hunt for sensitive information.  Enterprise security firm Proofpoint attributed the targeted attacks to a threat actor named  TA453 , which broadly overlaps with cyber activities monitored under the monikers APT42, Charming Kitten, and Phosphorus.  It all starts with a phishing email impersonating legitimate individuals at Western foreign policy research organizations that's ultimately designed to gather intelligence on behalf of Iran's Islamic Revolutionary Guard Corps (IRGC).  Spoofed personas include people from Pew Research Center, the Foreign Policy Research Institute (FRPI), the U.K.'s Chatham House, and the scientific journal Nature. The technique is said to have been deployed in mid-June 2022.  What's different from other phishing attacks is the use of a tact
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked TA453 used new Multi-Persona Impersonation technique in recent attacks<a href="https://securityaffairs.co/wordpress/135679/apt/iran-ta453-multi-persona-impersonation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors target individuals specializing in Middle Eastern affairs, nuclear security and genome research.
+
+
+
+In mid-2022, Proofpoint researchers uncovered a cyberespionage campaign conducted by Iran-linked TA453 threat actors.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax fraud ring leader jailed for selling children’s stolen identities<a href="https://www.bleepingcomputer.com/news/security/tax-fraud-ring-leader-jailed-for-selling-children-s-stolen-identities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The owner of a fraudulent tax preparation business, Ariel Jimenez, was sentenced to 12 years in prison for selling the stolen identities of children on welfare and helping "customers" to falsely claim tax credits, causing tens of millions of dollars in tax loss.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil Corp Deploys ServHelper Backdoor Via Custom-made Software Panel<a href="https://cyware.com/news/evil-corp-deploys-servhelper-backdoor-via-custom-made-software-panel-e49477f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers provided insights into TeslaGun, a never-seen-before software control panel, used by the TA505, aka Evil Corp, to deploy the ServHelper backdoor. The ServHelper backdoor, once downloaded, sets up reverse SSH tunnels that allow attackers to access the infected system via RDP. The threat  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS and macOS Updates to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/09/apple-releases-ios-and-macos-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released another round of security updates to address multiple vulnerabilities in iOS and macOS, including a new zero-day flaw that has been used in attacks in the wild.  The issue, assigned the identifier  CVE-2022-32917 , is rooted in the Kernel component and could enable a malicious app to execute arbitrary code with kernel privileges.  "Apple is aware of a report that this issue may have been actively exploited," the iPhone maker acknowledged in a brief statement, adding it resolved the bug with improved bound checks.  An anonymous researcher has been credited with reporting the shortcoming. It's worth noting that CVE-2022-32917 is also the  second Kernel related zero-day flaw  that Apple has remediated in less than a month.   Patches are available in versions  iOS 15.7, iPadOS 15.7 ,  iOS 16 ,  macOS Big Sur 11.7 , and  macOS Monterey 12.6 . The iOS and iPadOS updates cover iPhone 6s and later, iPad Pro (all models), iPad Air 2 and later, iPad 5th generati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Montenegro and its allies are working to recover from the massive cyber attack<a href="https://securityaffairs.co/wordpress/135667/hacking/montenegro-massive-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive cyberattack hit Montenegro, officials believe that it was launched by pro-Russian hackers and the security services of Moscow.
+
+
+
+A massive cyberattack hit Montenegro, the offensive forced government headquarters to disconnect the systems from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest man for laundering tens of millions in stolen crypto<a href="https://www.bleepingcomputer.com/news/security/police-arrest-man-for-laundering-tens-of-millions-in-stolen-crypto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police arrested a 39-year-old man on suspicions of laundering tens of millions of euros worth of cryptocurrency stolen in phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC proposes cybersecurity changes to emergency alert system<a href="https://therecord.media/fcc-proposes-cybersecurity-changes-to-emergency-alert-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FCC chairwoman Jessica Rosenworcel has proposed several changes to the U.S. Emergency Alert System (EAS) and Wireless Emergency Alerts designed to beef up the cybersecurity of the systems following the discovery of vulnerabilities last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian group GhostSec hacked Berghof PLCs in Israel<a href="https://securityaffairs.co/wordpress/135656/hacktivism/ghostsec-hacked-berghof-plcs-israel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacktivist collective GhostSec claimed to have compromised 55 Berghof PLCs used by Israeli organizations.
+
+
+
+Pro-Palestinian Hacking Group GhostSec claimed to have compromised 55 Berghof programmable logic controllers (PLCs) used by Israeli organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach software vendor for Magento supply-chain attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-software-vendor-for-magento-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have injected malware in multiple extensions from FishPig, a vendor of Magento-WordPress integrations that count over 200,000 downloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Active Directory Pass-Through Authentication Flaws<a href="https://www.secureworks.com/research/azure-active-directory-pass-through-authentication-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secureworks CTU researchers shared their findings with Microsoft on May 10, 2022. Microsoft responded on July 2 that PTA is working as intended and gave no indication of plans to address the reported flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro warns of actively exploited Apex One RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-actively-exploited-apex-one-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security software firm Trend Micro warned customers today to patch an actively exploited Apex One security vulnerability as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS 16 Has 2 New Security Features for Worst-Case Scenarios<a href="https://www.wired.com/story/apple-ios-16-safety-check-lockdown-mode/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Safety Check and Lockdown Mode are very different tools, but Apple has built them both into its latest mobile operating system release as lifelines for digital worst-case scenarios.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PsExec spinoff lets hackers bypass network security defenses<a href="https://www.bleepingcomputer.com/news/security/new-psexec-spinoff-lets-hackers-bypass-network-security-defenses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have developed an implementation of the Sysinternals PsExec utility that allows moving laterally in a network using a less monitored port.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens and Schneider Electric Fix High-Severity Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-fix-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric have released their Patch Tuesday security advisories to inform customers about dozens of vulnerabilities affecting their industrial products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspies drop new infostealer malware on govt networks in Asia<a href="https://www.bleepingcomputer.com/news/security/cyberspies-drop-new-infostealer-malware-on-govt-networks-in-asia/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified new cyber-espionage activity focusing on government entities in Asia, as well as state-owned aerospace and defense firms, telecom companies, and IT organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Data Security Startup Theom Emerges From Stealth With $16 Million in Funding<a href="https://www.securityweek.com/cloud-data-security-startup-theom-emerges-stealth-16-million-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded by former executives from Google, Cisco, and Yahoo, Theom has developed a solution designed to help organizations secure their data in the cloud and SaaS data stores.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Another Apex One Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/trend-micro-patches-another-apex-one-vulnerability-exploited-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security hole allows the agent to download unverified rollback components and execute arbitrary code, according to a translation of a Japanese-language advisory released by Trend Micro.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
