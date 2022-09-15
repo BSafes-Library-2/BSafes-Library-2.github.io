@@ -34,6 +34,506 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hackers steal millions from healthcare payment processors<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-steal-millions-from-healthcare-payment-processors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has issued an alert about hackers targeting healthcare payment processors to route payments to bank accounts controlled by the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modernizing data security with a zero trust approach to data access<a href="https://www.helpnetsecurity.com/2022/09/13/zero-trust-data-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of the approach to zero trust, to follow the zero trust principle, every organization must continuously validate users who need access to data – i.e., continuously authenticate, authorize and validate users across all data sources.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Exploit Mitel VoIP Systems to Breach Business Networks<a href="https://thehackernews.com/2022/09/lorenz-ransomware-exploit-mitel-voip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the Lornenz ransomware operation have been observed exploiting a now-patched critical security flaw in Mitel MiVoice Connect to obtain a foothold into target environments for follow-on malicious activities.  "Initial malicious activity originated from a Mitel appliance sitting on the network perimeter," researchers from cybersecurity firm Arctic Wolf  said  in a report published this week.  "Lorenz exploited  CVE-2022-29499 , a remote code execution vulnerability impacting the Mitel Service Appliance component of MiVoice Connect, to obtain a reverse shell and subsequently used  Chisel  as a tunneling tool to pivot into the environment."   Lorenz, like many other ransomware groups, is known for double extortion by exfiltrating data prior to encrypting systems, with the actor targeting small and medium businesses (SMBs) located in the U.S., and to a lesser extent in China and Mexico, since at least February 2021.  Calling it an "ever-evolvin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 2 more security flaws to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135753/security/cisa-known-exploited-vulnerabilities-catalog-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added more security flaws to its Known Exploited Vulnerabilities Catalog, including Windows and iOS flaws.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 2 new vulnerabilities to its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gay hookup site typosquatted by 50 domains to push dodgy Chrome extensions<a href="https://www.bleepingcomputer.com/news/security/gay-hookup-site-typosquatted-by-50-domains-to-push-dodgy-chrome-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gay hookup and cruising web app Sniffies is being impersonated by opportunistic threat actors hoping to target the website's users with many typosquatting domains that push scams and dubious Google Chrome extensions. In some cases, these illicit domains launch the Apple Music app prompting users to buy a subscription.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GIFShell, a New Tool to Abuse Microsoft Teams GIFs<a href="https://cyware.com/news/gifshell-a-new-tool-to-abuse-microsoft-teams-gifs-65cebdad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybersecurity consultant has discovered a new attack chain, GIFShell, that leverages GIF images in Microsoft Teams to execute arbitrary commands on the target’s machine. Since the data exfiltration is performed by leveraging Microsoft's own servers, it is challenging to identify the traffic and d ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SparklingGoblin APT Hackers Using New Linux Variant of SideWalk Backdoor<a href="https://thehackernews.com/2022/09/sparklinggoblin-apt-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux variant of a backdoor known as SideWalk was used to target a Hong Kong university in February 2021, underscoring the cross-platform abilities of the implant.   Slovak cybersecurity firm ESET, which detected the malware in the university's network, attributed the backdoor to a nation-state actor dubbed  SparklingGoblin . The unnamed university is said to have been already targeted by the group in May 2020 during the  student protests .  "The group continuously targeted this organization over a long period of time, successfully compromising multiple key servers, including a print server, an email server, and a server used to manage student schedules and course registrations," ESET  said  in a report shared with The Hacker News.   SparklingGoblin is the name given to a Chinese advanced persistent threat (APT) group with connections to the  Winnti umbrella  (aka APT41, Barium, Earth Baku, or Wicked Panda). It's primarily known for its attacks targeting various en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SparklingGoblin APT adds a new Linux variant of SideWalk implant to its arsenal<a href="https://securityaffairs.co/wordpress/135736/malware/sparklinggoblin-sidewalk-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked SparklingGoblin APT was spotted using a Linux variant of a backdoor known as SideWalk against a Hong Kong university.
+
+
+
+Researchers from ESET discovered a Linux variant of the SideWalk backdoor, which is a custom implant used by the China-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Death of Queen Elizabeth II exploited to steal Microsoft credentials<a href="https://www.bleepingcomputer.com/news/security/death-of-queen-elizabeth-ii-exploited-to-steal-microsoft-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the death of Queen Elizabeth II in phishing attacks to lure their targets to malicious sites designed to steal their Microsoft account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers take aim at Facebook page owners<a href="https://www.helpnetsecurity.com/2022/09/14/phishers-facebook/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishers are looking to trick owners of Facebook pages with fake notices from the social network (i.e., Meta, the company behind Facebook, Instagram and WhatsApp), in an attempt to get them to part with sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Do Malware Analysis?<a href="https://thehackernews.com/2022/09/how-to-do-malware-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the findings of Malwarebytes' Threat Review for 2022, 40 million Windows business computers' threats were detected in 2021. In order to combat and avoid these kinds of attacks, malware analysis is essential. In this article, we will break down the goal of malicious programs' investigation and how to do malware analysis  with a sandbox.  What is malware analysis?   Malware analysis is a process of studying a malicious sample. During the study, a researcher's goal is to understand a malicious program's type, functions, code, and potential dangers. Receive the information organization needs to respond to the intrusion.  Results of analysis that you get:   how malware works: if you investigate the code of the program and its algorithm, you will be able to stop it from infecting the whole system.  characteristics of the program: improve detection by using data on malware like its family, type, version, etc.  what is the goal of malware: trigger the sample's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter former head of security told the Senate of severe security failings by the company<a href="https://securityaffairs.co/wordpress/135726/security/twitter-head-security-concerns-senate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter whistleblower, and former head of security, Peiter Zatko, told the US Congress that the platform ignored his security concerns.
+
+
+
+Peiter ‘Mudge’ Zatko, former head of security, testified in front of Congress on Tuesday, sustaining that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lenovo BIOS updates fix security bugs in hundreds of models<a href="https://www.bleepingcomputer.com/news/security/new-lenovo-bios-updates-fix-security-bugs-in-hundreds-of-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese computer manufacturer Lenovo has issued a security advisory to warn its clients about several high-severity vulnerabilities impacting a wide range of products in the Desktop, All in One, Notebook, ThinkPad, ThinkServer, and ThinkStation lines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Requests Input on Terms Already Defined by Incident Reporting Law<a href="https://www.nextgov.com/cybersecurity/2022/09/cisa-requests-input-terms-already-defined-incident-reporting-law/377023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA is casting the widest net possible to get feedback for its implementation of the Cyber Incident Reporting for Critical Infrastructure Act, asking stakeholders to opine on the most basic of terms used in the legislation.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail OriginLogger RAT — Successor to Agent Tesla Malware<a href="https://thehackernews.com/2022/09/researchers-detail-originlogger-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks Unit 42 has detailed the inner workings of a malware called  OriginLogger , which has been touted as a successor to the widely used information stealer and remote access trojan (RAT) known as  Agent Tesla .  A .NET based keylogger and remote access, Agent Tesla has had a long-standing presence in the threat landscape, allowing malicious actors to gain remote access to targeted systems and beacon sensitive information to an actor-controlled domain.  Known to be used in the wild since 2014, it's advertised for sale on dark web forums and is generally distributed through malicious spam emails as an attachment.  In February 2021, cybersecurity firm Sophos  disclosed two new variants  of the commodity malware (version 2 and 3) that featured capabilities to steal credentials from web browsers, email apps, and VPN clients, as well as use Telegram API for command-and-control.   Now according to Unit 42 researcher Jeff White, what has been tagged as AgentTesla version 3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are actively exploiting a zero-day in WPGateway WordPress plugin<a href="https://securityaffairs.co/wordpress/135715/cyber-crime/wordpress-wpgateway-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a zero-day vulnerability in the WPGateway premium plugin to target WordPress websites.
+
+
+
+The Wordfence Threat Intelligence team reported that threat actors are actively exploiting a zero-day vulnerability (CVE-2022-3180)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch Windows, iOS bugs used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-windows-ios-bugs-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added two new vulnerabilities to its list of security bugs exploited in the wild today, including a Windows privilege escalation vulnerability and an arbitrary code execution flaw affecting iPhones and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passengers Exposed to Hacking via Vulnerabilities in Airplane Wi-Fi Devices<a href="https://www.securityweek.com/passengers-exposed-hacking-vulnerabilities-airplane-wi-fi-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Thomas Knudsen and Samy Younsi of Necrum Security Labs identified the vulnerabilities in the Flexlan FX3000 and FX2000 series wireless LAN devices made by Contec.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Latest Security Update Fixes 64 New Flaws, Including a Zero-Day<a href="https://thehackernews.com/2022/09/microsofts-latest-security-update-fixes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Microsoft on Tuesday shipped fixes to quash  64 new security flaws  across its software lineup, including one zero-day flaw that has been actively exploited in real-world attacks.  Of the 64 bugs, five are rated Critical, 57 are rated Important, one is rated Moderate, and one is rated Low in severity. The patches are in addition to  16 vulnerabilities  that Microsoft addressed in its Chromium-based Edge browser earlier this month.  "In terms of CVEs released, this Patch Tuesday may appear on the lighter side in comparison to other months," Bharat Jogi, director of vulnerability and threat research at Qualys, said in a statement shared with The Hacker News.  "However, this month hit a sizable milestone for the calendar year, with MSFT having fixed the 1000th CVE of 2022 – likely on track to surpass 2021 which patched 1,200 CVEs in total."   The actively exploited vulnerability in question is  CVE-2022-37969  (CVSS score: 7.8), a privilege escalation flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft September 2022 Patch Tuesday fixed actively exploited zero-day<a href="https://securityaffairs.co/wordpress/135706/security/microsoft-patch-tuesday-sept-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released September 2022 Patch Tuesday security updates to address 64 flaws, including an actively exploited Windows zero-day.
+
+
+
+Microsoft September 2022 Patch Tuesday security updates address 64 vulnerabilities, including an actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt sanctions ten Iranians linked to ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-govt-sanctions-ten-iranians-linked-to-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions today against ten individuals and two entities affiliated with Iran's Islamic Revolutionary Guard Corps (IRGC) for their involvement in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One in 10 employees leaks sensitive company data every 6 months: report<a href="https://www.csoonline.com/article/3673260/one-in-10-employees-leaks-sensitive-company-data-every-6-months-report.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On average, 2.5% of employees exfiltrate sensitive information in a month, but over a six-month period, nearly one in 10, or 9.4% of employees, do so, Cyberhaven noted in its report.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability<a href="https://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in the latest version of a WordPress premium plugin known as  WPGateway  is being actively exploited in the wild, potentially allowing malicious actors to completely take over affected sites.  Tracked as  CVE-2022-3180  (CVSS score: 9.8), the issue is being weaponized to add a malicious administrator user to sites running the WPGateway plugin, WordPress security company Wordfence noted.  "Part of the plugin functionality exposes a vulnerability that allows unauthenticated attackers to insert a malicious administrator," Wordfence researcher Ram Gall  said  in an advisory.   WPGateway is billed as a means for site administrators to install, backup, and clone WordPress plugins and themes from a unified dashboard.  The most common indicator that a website running the plugin has been compromised is the presence of an administrator with the username "rangex."  Additionally, the appearance of requests to "//wp-content/plugins/wpgateway/wpgateway-webse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams stores auth tokens as cleartext in Windows, Linux, Macs<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have found a severe security vulnerability in the desktop app for Microsoft Teams that gives threat actors access to authentication tokens and accounts with multi-factor authentication (MFA) turned on.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks on Agriculture Potentially Timed to Critical Seasons<a href="https://securityintelligence.com/news/ransomware-attacks-agriculture/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has warned the Food and Agriculture (FA) sector that ransomware actors may be preparing to attack agricultural cooperatives during critical planting and harvest seasons.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing page embeds keylogger to steal passwords as you type<a href="https://www.bleepingcomputer.com/news/security/phishing-page-embeds-keylogger-to-steal-passwords-as-you-type/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel phishing campaign is underway, targeting Greeks with phishing sites that mimic the state's official tax refund platform and steal credentials as they type them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New Linux Variant of 'SideWalk' Modular Backdoor<a href="https://www.welivesecurity.com/2022/09/14/you-never-walk-alone-sidewalk-backdoor-linux-variant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This variant was deployed against a Hong Kong university in February 2021, the same university that had already been targeted by SparklingGoblin during the student protests in May 2020.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing your IoT devices against cyber attacks in 5 steps<a href="https://www.bleepingcomputer.com/news/security/securing-your-iot-devices-against-cyber-attacks-in-5-steps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How is IoT being used in the enterprise, and how can it be secured? We will demonstrate important security best practices and how a secure password policy is paramount to the security of devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legislature of Argentinian Capital City Suffers Disruptive Ransomware Attack<a href="https://therecord.media/buenos-aires-legislature-announces-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The legislature’s website is still down as of Tuesday afternoon EST. The affected government agencies did not respond to requests for comment about the state of the restoration effort.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers create Linux version of the SideWalk Windows malware<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-create-linux-version-of-the-sidewalk-windows-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-backed Chinese hackers have developed a Linux variant for the SideWalk backdoor used against Windows systems belonging to targets in the academic sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
