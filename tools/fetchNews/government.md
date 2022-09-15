@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of vulnerabilities in medical devices following several CISA alerts<a href="https://therecord.media/fbi-warns-of-vulnerabilities-in-medical-devices-following-several-cisa-alerts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Cyber threat actors exploiting medical device vulnerabilities adversely impact healthcare facilities’ operational functions, patient safety, data confidentiality, and data integrity,” the alert said.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA launches solicitation for public feedback on incident reporting rule<a href="https://therecord.media/cisa-preps-solicitation-for-public-feedback-on-incident-reporting-rule/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA also will hold a series of listening sessions across the country in the coming months to collect additional input, with events slated in cities like Oakland, Boston, Atlanta, and Chicago.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC proposes cybersecurity changes to emergency alert system<a href="https://therecord.media/fcc-proposes-cybersecurity-changes-to-emergency-alert-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FCC chairwoman Jessica Rosenworcel has proposed several changes to the U.S. Emergency Alert System (EAS) and Wireless Emergency Alerts designed to beef up the cybersecurity of the systems following the discovery of vulnerabilities last month.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

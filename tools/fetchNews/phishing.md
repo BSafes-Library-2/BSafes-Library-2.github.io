@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now use ‘sock puppets’ for more realistic phishing attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-now-use-sock-puppets-for-more-realistic-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-aligned hacking group uses a new, elaborate phishing technique involving multiple personas and email accounts to lure targets into opening malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

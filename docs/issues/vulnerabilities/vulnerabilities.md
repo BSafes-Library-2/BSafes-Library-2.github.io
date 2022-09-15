@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lenovo BIOS updates fix security bugs in hundreds of models<a href="https://www.bleepingcomputer.com/news/security/new-lenovo-bios-updates-fix-security-bugs-in-hundreds-of-models/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese computer manufacturer Lenovo has issued a security advisory to warn its clients about several high-severity vulnerabilities impacting a wide range of products in the Desktop, All in One, Notebook, ThinkPad, ThinkServer, and ThinkStation lines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are actively exploiting a zero-day in WPGateway WordPress plugin<a href="https://securityaffairs.co/wordpress/135715/cyber-crime/wordpress-wpgateway-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a zero-day vulnerability in the WPGateway premium plugin to target WordPress websites.
+
+
+
+The Wordfence Threat Intelligence team reported that threat actors are actively exploiting a zero-day vulnerability (CVE-2022-3180)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passengers Exposed to Hacking via Vulnerabilities in Airplane Wi-Fi Devices<a href="https://www.securityweek.com/passengers-exposed-hacking-vulnerabilities-airplane-wi-fi-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers Thomas Knudsen and Samy Younsi of Necrum Security Labs identified the vulnerabilities in the Flexlan FX3000 and FX2000 series wireless LAN devices made by Contec.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Latest Security Update Fixes 64 New Flaws, Including a Zero-Day<a href="https://thehackernews.com/2022/09/microsofts-latest-security-update-fixes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Microsoft on Tuesday shipped fixes to quash&nbsp; 64 new security flaws &nbsp;across its software lineup, including one zero-day flaw that has been actively exploited in real-world attacks.  Of the 64 bugs, five are rated Critical, 57 are rated Important, one is rated Moderate, and one is rated Low in severity. The patches are in addition to&nbsp; 16 vulnerabilities &nbsp;that Microsoft addressed in its Chromium-based Edge browser earlier this month.  "In terms of CVEs released, this Patch Tuesday may appear on the lighter side in comparison to other months," Bharat Jogi, director of vulnerability and threat research at Qualys, said in a statement shared with The Hacker News.  "However, this month hit a sizable milestone for the calendar year, with MSFT having fixed the 1000th CVE of 2022 – likely on track to surpass 2021 which patched 1,200 CVEs in total."   The actively exploited vulnerability in question is&nbsp; CVE-2022-37969 &nbsp;(CVSS score: 7.8), a privilege escalation flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft September 2022 Patch Tuesday fixed actively exploited zero-day<a href="https://securityaffairs.co/wordpress/135706/security/microsoft-patch-tuesday-sept-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released September 2022 Patch Tuesday security updates to address 64 flaws, including an actively exploited Windows zero-day.
+
+
+
+Microsoft September 2022 Patch Tuesday security updates address 64 vulnerabilities, including an actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability<a href="https://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in the latest version of a WordPress premium plugin known as&nbsp; WPGateway &nbsp;is being actively exploited in the wild, potentially allowing malicious actors to completely take over affected sites.  Tracked as&nbsp; CVE-2022-3180 &nbsp;(CVSS score: 9.8), the issue is being weaponized to add a malicious administrator user to sites running the WPGateway plugin, WordPress security company Wordfence noted.  "Part of the plugin functionality exposes a vulnerability that allows unauthenticated attackers to insert a malicious administrator," Wordfence researcher Ram Gall&nbsp; said &nbsp;in an advisory.   WPGateway is billed as a means for site administrators to install, backup, and clone WordPress plugins and themes from a unified dashboard.  The most common indicator that a website running the plugin has been compromised is the presence of an administrator with the username "rangex."  Additionally, the appearance of requests to "//wp-content/plugins/wpgateway/wpgateway-webse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams stores auth tokens as cleartext in Windows, Linux, Macs<a href="https://www.bleepingcomputer.com/news/security/microsoft-teams-stores-auth-tokens-as-cleartext-in-windows-linux-macs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have found a severe security vulnerability in the desktop app for Microsoft Teams that gives threat actors access to authentication tokens and accounts with multi-factor authentication (MFA) turned on.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How GRC protects the value of organizations — A simple guide to data quality and integrity<a href="https://thehackernews.com/2022/09/how-grc-protects-value-of-organizations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contemporary organizations understand the importance of data and its impact on improving interactions with customers, offering quality products or services, and building loyalty.  Data is fundamental to business success. It allows companies to make the right decisions at the right time and deliver the high-quality, personalized products and services that customers expect.  There is a challenge, though.  Businesses are collecting more data than ever before, and new technologies have accelerated this process dramatically. As a result, organizations have significant volumes of data, making it hard to manage, protect, and get value from it.  Here is where Governance, Risk, and Compliance (GRC) comes in. GRC enables companies to define and implement the best practices, procedures, and governance to ensure the data is clean, safe, and reliable across the board.&nbsp;  More importantly,&nbsp; organizations can use GRC platforms like StandardFusion &nbsp;to create an organizational culture around security.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

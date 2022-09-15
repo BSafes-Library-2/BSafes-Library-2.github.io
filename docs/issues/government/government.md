@@ -8,6 +8,98 @@ nav_order: 900075
 
 ## Government
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hackers steal millions from healthcare payment processors<a href="https://www.bleepingcomputer.com/news/security/fbi-hackers-steal-millions-from-healthcare-payment-processors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) has issued an alert about hackers targeting healthcare payment processors to route payments to bank accounts controlled by the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA added 2 more security flaws to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135753/security/cisa-known-exploited-vulnerabilities-catalog-new-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added more security flaws to its&nbsp;Known Exploited Vulnerabilities Catalog, including Windows and iOS flaws.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added 2 new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter former head of security told the Senate of severe security failings by the company<a href="https://securityaffairs.co/wordpress/135726/security/twitter-head-security-concerns-senate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter whistleblower, and former head of security, Peiter Zatko,&nbsp;told the US Congress that the platform ignored his security concerns.
+
+
+
+Peiter ‘Mudge’ Zatko, former head of security, testified in front of Congress on Tuesday, sustaining that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Requests Input on Terms Already Defined by Incident Reporting Law<a href="https://www.nextgov.com/cybersecurity/2022/09/cisa-requests-input-terms-already-defined-incident-reporting-law/377023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA is casting the widest net possible to get feedback for its implementation of the Cyber Incident Reporting for Critical Infrastructure Act, asking stakeholders to opine on the most basic of terms used in the legislation.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch Windows, iOS bugs used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-windows-ios-bugs-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added two new vulnerabilities to its list of security bugs exploited in the wild today, including a Windows privilege escalation vulnerability and an arbitrary code execution flaw affecting iPhones and Macs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt sanctions ten Iranians linked to ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/us-govt-sanctions-ten-iranians-linked-to-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions today against&nbsp;ten individuals and two entities&nbsp;affiliated with Iran's Islamic Revolutionary Guard Corps (IRGC) for their involvement in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

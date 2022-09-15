@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax fraud ring leader jailed for selling children’s stolen identities<a href="https://www.bleepingcomputer.com/news/security/tax-fraud-ring-leader-jailed-for-selling-children-s-stolen-identities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The owner of a fraudulent tax preparation business, Ariel Jimenez, was sentenced to 12 years in prison for selling the stolen identities of children on welfare and helping "customers" to falsely claim tax credits, causing tens of millions of dollars in tax loss.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gay hookup site typosquatted by 50 domains to push dodgy Chrome extensions<a href="https://www.bleepingcomputer.com/news/security/gay-hookup-site-typosquatted-by-50-domains-to-push-dodgy-chrome-extensions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gay hookup and cruising web app&nbsp;Sniffies is being impersonated by opportunistic threat actors&nbsp;hoping to target the website's users with many&nbsp;typosquatting&nbsp;domains that push scams and&nbsp;dubious&nbsp;Google Chrome extensions. In some cases, these illicit domains launch the Apple Music app prompting users to buy a&nbsp;subscription.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Death of Queen Elizabeth II exploited to steal Microsoft credentials<a href="https://www.bleepingcomputer.com/news/security/death-of-queen-elizabeth-ii-exploited-to-steal-microsoft-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the death of Queen Elizabeth II in phishing attacks to lure their targets to malicious sites designed to steal&nbsp;their&nbsp;Microsoft account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers take aim at Facebook page owners<a href="https://www.helpnetsecurity.com/2022/09/14/phishers-facebook/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishers are looking to trick owners of Facebook pages with fake notices from the social network (i.e., Meta, the company behind Facebook, Instagram and WhatsApp), in an attempt to get them to part with sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing page embeds keylogger to steal passwords as you type<a href="https://www.bleepingcomputer.com/news/security/phishing-page-embeds-keylogger-to-steal-passwords-as-you-type/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel phishing campaign is underway, targeting Greeks with phishing sites that mimic the state's official tax refund platform and steal credentials as they type them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

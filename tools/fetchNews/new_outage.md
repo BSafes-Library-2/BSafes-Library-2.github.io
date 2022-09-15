@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legislature of Argentinian Capital City Suffers Disruptive Ransomware Attack<a href="https://therecord.media/buenos-aires-legislature-announces-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The legislature’s website is still down as of Tuesday afternoon EST. The affected government agencies did not respond to requests for comment about the state of the restoration effort.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

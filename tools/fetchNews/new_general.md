@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modernizing data security with a zero trust approach to data access<a href="https://www.helpnetsecurity.com/2022/09/13/zero-trust-data-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of the approach to zero trust, to follow the zero trust principle, every organization must continuously validate users who need access to data – i.e., continuously authenticate, authorize and validate users across all data sources.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day in WPGateway Wordpress plugin actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/zero-day-in-wpgateway-wordpress-plugin-actively-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Wordfence Threat Intelligence team warned today that WordPress sites are actively targeted with exploits targeting a zero-day vulnerability in the&nbsp;WPGateway premium plugin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro addresses actively exploited Apex One zero-day<a href="https://securityaffairs.co/wordpress/135689/security/trend-micro-apex-one-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro addressed multiple vulnerabilities in its Apex One endpoint security product, including actively exploited zero-day flaws.
+
+
+
+Trend Micro announced this week the release of security patches to address multiple vulnerabilities in its Apex...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft September 2022 Patch Tuesday fixes zero-day used in attacks, 63 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2022-patch-tuesday-fixes-zero-day-used-in-attacks-63-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's September 2022 Patch Tuesday, and with it comes fixes for an actively exploited Windows vulnerability and a total of 63 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases iOS and macOS Updates to Patch Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/09/apple-releases-ios-and-macos-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released another round of security updates to address multiple vulnerabilities in iOS and macOS, including a new zero-day flaw that has been used in attacks in the wild.  The issue, assigned the identifier&nbsp; CVE-2022-32917 , is rooted in the Kernel component and could enable a malicious app to execute arbitrary code with kernel privileges.  "Apple is aware of a report that this issue may have been actively exploited," the iPhone maker acknowledged in a brief statement, adding it resolved the bug with improved bound checks.  An anonymous researcher has been credited with reporting the shortcoming. It's worth noting that CVE-2022-32917 is also the&nbsp; second Kernel related zero-day flaw &nbsp;that Apple has remediated in less than a month.   Patches are available in versions&nbsp; iOS 15.7, iPadOS 15.7 ,&nbsp; iOS 16 ,&nbsp; macOS Big Sur 11.7 , and&nbsp; macOS Monterey 12.6 . The iOS and iPadOS updates cover iPhone 6s and later, iPad Pro (all models), iPad Air 2 and later, iPad 5th generati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Active Directory Pass-Through Authentication Flaws<a href="https://www.secureworks.com/research/azure-active-directory-pass-through-authentication-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secureworks CTU researchers shared their findings with Microsoft on May 10, 2022. Microsoft responded on July 2 that PTA is working as intended and gave no indication of plans to address the reported flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro warns of actively exploited Apex One RCE vulnerability<a href="https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-actively-exploited-apex-one-rce-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security software firm Trend Micro warned customers today to patch an actively exploited Apex One security vulnerability as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens and Schneider Electric Fix High-Severity Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-fix-high-severity-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric have released their Patch Tuesday security advisories to inform customers about dozens of vulnerabilities affecting their industrial products.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Patches Another Apex One Vulnerability Exploited in Attacks<a href="https://www.securityweek.com/trend-micro-patches-another-apex-one-vulnerability-exploited-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security hole allows the agent to download unverified rollback components and execute arbitrary code, according to a translation of a Japanese-language advisory released by Trend Micro.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

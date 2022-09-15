@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Exploit Mitel VoIP Systems to Breach Business Networks<a href="https://thehackernews.com/2022/09/lorenz-ransomware-exploit-mitel-voip.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the Lornenz ransomware operation have been observed exploiting a now-patched critical security flaw in Mitel MiVoice Connect to obtain a foothold into target environments for follow-on malicious activities.  "Initial malicious activity originated from a Mitel appliance sitting on the network perimeter," researchers from cybersecurity firm Arctic Wolf&nbsp; said &nbsp;in a report published this week.  "Lorenz exploited&nbsp; CVE-2022-29499 , a remote code execution vulnerability impacting the Mitel Service Appliance component of MiVoice Connect, to obtain a reverse shell and subsequently used&nbsp; Chisel &nbsp;as a tunneling tool to pivot into the environment."   Lorenz, like many other ransomware groups, is known for double extortion by exfiltrating data prior to encrypting systems, with the actor targeting small and medium businesses (SMBs) located in the U.S., and to a lesser extent in China and Mexico, since at least February 2021.  Calling it an "ever-evolvin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks on Agriculture Potentially Timed to Critical Seasons<a href="https://securityintelligence.com/news/ransomware-attacks-agriculture/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has warned the Food and Agriculture (FA) sector that ransomware actors may be preparing to attack agricultural cooperatives during critical planting and harvest seasons.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

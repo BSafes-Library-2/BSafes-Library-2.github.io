@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Targeting Healthcare Payment Processors, Costing Victims Millions in Losses <a href="https://publications.bsafes.com/docs/fbi/pin-2022-0914-001-cyber-criminals-targeting-healthcare-payment-processors-costing-victims-millions-in-losses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has received multiple reports of cyber criminals increasingly targeting healthcare payment processors to redirect victim payments. In each of these reports, unknown cyber criminals used employees’ publicly-available Personally Identifiable Information (PII) and social engineering techniques to impersonate victims and obtain access to files, healthcare portals, payment information, and websites. In one case, the attacker changed victims’ direct deposit information to a bank account controlled by the attacker, redirecting $3.1 million from victims’ payments.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/09/14/cisa-adds-two-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2022 - CISA, DHS
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
