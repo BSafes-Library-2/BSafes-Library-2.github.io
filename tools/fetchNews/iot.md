@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Securing your IoT devices against cyber attacks in 5 steps<a href="https://www.bleepingcomputer.com/news/security/securing-your-iot-devices-against-cyber-attacks-in-5-steps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How is IoT being used in the enterprise, and how can it be secured? We will demonstrate important security best practices and how a secure password policy is paramount to the security of devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

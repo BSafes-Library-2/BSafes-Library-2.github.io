@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers trojanize PuTTY SSH client to backdoor media company<a href="https://www.bleepingcomputer.com/news/security/hackers-trojanize-putty-ssh-client-to-backdoor-media-company/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMBs are hardest-hit by ransomware<a href="https://www.helpnetsecurity.com/2022/09/15/small-businesses-ransomware-targets/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Self-Spreading Malware Targeting Gamers via YouTube<a href="https://thehackernews.com/2022/09/researchers-warn-of-self-spreading.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai mitigated a new record-breaking DDoS attack against a Europen customer<a href="https://securityaffairs.co/wordpress/135803/security/record-ddos-sept-2022.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware claims cyberattack on Bell Canada subsidiary<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-cyberattack-on-bell-canada-subsidiary/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SandboxAQ acquires Cryptosense to accelerate the deployment of PQC solutions to organizations<a href="https://www.helpnetsecurity.com/2022/09/15/sandboxaq-cryptosense/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Gamaredon Hackers Target Ukrainian Government Using Info-Stealing Malware<a href="https://thehackernews.com/2022/09/russian-gamaredon-hackers-target.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of self-spreading malware targeting gamers looking for cheats on YouTube<a href="https://securityaffairs.co/wordpress/135788/malware/self-spreading-malware-target-gamers.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai stopped new record-breaking DDoS attack in Europe<a href="https://www.bleepingcomputer.com/news/security/akamai-stopped-new-record-breaking-ddos-attack-in-europe/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Improves Chrome Protections Against Use-After-Free Bug Exploitation<a href="https://www.securityweek.com/google-improves-chrome-protections-against-use-after-free-bug-exploitation?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Ways to Mitigate Your New Insider Threats in the Great Resignation<a href="https://thehackernews.com/2022/09/5-ways-to-mitigate-your-new-insider.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Gamaredon APT target Ukraine with a new info-stealer<a href="https://securityaffairs.co/wordpress/135780/apt/gamaredon-new-stealing-malware.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge’s News Feed ads abused for tech support scams<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-s-news-feed-ads-abused-for-tech-support-scams/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gamaredon APT Targets Ukrainian Government, Defense Agencies in New Campaign<a href="https://blog.talosintelligence.com/2022/09/gamaredon-apt-targets-ukrainian-agencies.html?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webworm Hackers Using Modified RATs in Latest Cyber Espionage Attacks<a href="https://thehackernews.com/2022/09/webworm-hackers-using-modified-rats-in.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Millions in Losses resulted from attacks against Healthcare payment processors<a href="https://securityaffairs.co/wordpress/135774/cyber-crime/attacks-healthcare-payment-processors.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware bundle self-spreads through YouTube gaming videos<a href="https://www.bleepingcomputer.com/news/security/new-malware-bundle-self-spreads-through-youtube-gaming-videos/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Token-Mining Weakness in Microsoft Teams Makes for Perfect Phish<a href="https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks<a href="https://thehackernews.com/2022/09/us-charges-3-iranian-hackers-and.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks are using lures related to Her Majesty Queen Elizabeth II in phishing attacks<a href="https://securityaffairs.co/wordpress/135764/cyber-crime/queen-elizabeth-ii-phishing.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom outage left users unable to sign in or join meetings<a href="https://www.bleepingcomputer.com/news/security/zoom-outage-left-users-unable-to-sign-in-or-join-meetings/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. charges three Iranians for ransomware attacks on women's shelter, businesses<a href="https://www.reuters.com/world/repeat-us-imposes-fresh-sanctions-over-irans-cyber-activities-2022-09-14/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers use new info stealer malware against Ukrainian orgs<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-info-stealer-malware-against-ukrainian-orgs/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webworm hackers modify old malware in new attacks to evade attribution<a href="https://www.bleepingcomputer.com/news/security/webworm-hackers-modify-old-malware-in-new-attacks-to-evade-attribution/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2022
+September 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gay hookup site typosquatted to push dodgy Chrome extensions, scams<a href="https://www.bleepingcomputer.com/news/security/gay-hookup-site-typosquatted-to-push-dodgy-chrome-extensions-scams/"> Full Text</a>

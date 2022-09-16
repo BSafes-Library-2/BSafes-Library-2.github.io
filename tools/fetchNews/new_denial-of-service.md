@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai mitigated a new record-breaking DDoS attack against a Europen customer<a href="https://securityaffairs.co/wordpress/135803/security/record-ddos-sept-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai announced to have recently blocked a new record-breaking distributed denial-of-service (DDoS) attack.
+
+
+
+On Monday, September 12, 2022, Akamai mitigated the largest DDoS attack ever that hit one of its European customers. The malicious traffic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai stopped new record-breaking DDoS attack in Europe<a href="https://www.bleepingcomputer.com/news/security/akamai-stopped-new-record-breaking-ddos-attack-in-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new distributed denial-of-service (DDoS) attack that took place on Monday, September 12, has broken the previous record that Akamai recorded recently in July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

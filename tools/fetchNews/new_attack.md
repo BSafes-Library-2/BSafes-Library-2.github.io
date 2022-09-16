@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers use new info stealer malware against Ukrainian orgs<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-info-stealer-malware-against-ukrainian-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers have been targeting Ukrainian entities with previously unseen info-stealing malware during a new espionage campaign that is still active.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webworm hackers modify old malware in new attacks to evade attribution<a href="https://www.bleepingcomputer.com/news/security/webworm-hackers-modify-old-malware-in-new-attacks-to-evade-attribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cyberespionage hackers of the 'Webworm' group are undergoing experimentation, using modified decade-old RATs (remote access trojans) in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

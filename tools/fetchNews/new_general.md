@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMBs are hardest-hit by ransomware<a href="https://www.helpnetsecurity.com/2022/09/15/small-businesses-ransomware-targets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first half of 2022, the average cost of a claim for a small business owner increased to $139,000, which is 58% higher than levels during the first half of 2021, according to the 2022 Cyber Claims Report by Coalition.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

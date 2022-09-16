@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom outage left users unable to sign in or join meetings<a href="https://www.bleepingcomputer.com/news/security/zoom-outage-left-users-unable-to-sign-in-or-join-meetings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zoom video conference platform was down and experienced an outage preventing users&nbsp;from logging in or joining meetings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

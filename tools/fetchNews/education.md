@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Do Malware Analysis?<a href="https://thehackernews.com/2022/09/how-to-do-malware-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the findings of Malwarebytes' Threat Review for 2022, 40 million Windows business computers' threats were detected in 2021. In order to combat and avoid these kinds of attacks, malware analysis is essential. In this article, we will break down the goal of malicious programs' investigation and how to do malware analysis  with a sandbox.  What is malware analysis?&nbsp;  Malware analysis is a process of studying a malicious sample. During the study, a researcher's goal is to understand a malicious program's type, functions, code, and potential dangers. Receive the information organization needs to respond to the intrusion.  Results of analysis that you get:   how malware works: if you investigate the code of the program and its algorithm, you will be able to stop it from infecting the whole system.  characteristics of the program: improve detection by using data on malware like its family, type, version, etc.  what is the goal of malware: trigger the sample's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

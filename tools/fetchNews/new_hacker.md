@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Gamaredon Hackers Target Ukrainian Government Using Info-Stealing Malware<a href="https://thehackernews.com/2022/09/russian-gamaredon-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing espionage campaign operated by the Russia-linked Gamaredon group is targeting employees of Ukrainian government, defense, and law enforcement agencies with a piece of custom-made information stealing malware.  "The adversary is using phishing documents containing lures related to the Russian invasion of Ukraine," Cisco Talos researchers Asheer Malhotra and Guilherme Venere&nbsp; said &nbsp;in a technical write-up shared with The Hacker News. "LNK files, PowerShell, and VBScript enable initial access, while malicious binaries are deployed in the post-infection phase."  Active since 2013, Gamaredon – also known as Actinium, Armageddon, Primitive Bear, Shuckworm, and Trident Ursa – has been linked to numerous attacks aimed at Ukrainian entities in the aftermath of Russia's military invasion of Ukraine in late February 2022.   The targeted phishing operation, observed as recently as August 2022, also follows similar intrusions&nbsp; uncovered &nbsp;by Symantec last month in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webworm Hackers Using Modified RATs in Latest Cyber Espionage Attacks<a href="https://thehackernews.com/2022/09/webworm-hackers-using-modified-rats-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked under the moniker Webworm  has been linked to bespoke Windows-based remote access trojans, some of which are said to be in pre-deployment or testing phases.  "The group has developed customized versions of three older remote access trojans (RATs), including&nbsp; Trochilus RAT ,&nbsp; Gh0st RAT , and&nbsp; 9002 RAT ," the Symantec Threat Hunter team, part of Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News.   The cybersecurity firm said at least one of the indicators of compromise (IOCs) was used in an attack against an IT service provider operating in multiple Asian countries.  It's worth pointing out that all the three backdoors are primarily associated with Chinese threat actors such as Stone Panda (APT10), Aurora Panda (APT17), Emissary Panda (APT27), and Judgement Panda (APT31), among others, although they have been put to use by other hacking groups.  Symantec said the Webworm threat actor exhibits tactical overlaps with another new adversa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

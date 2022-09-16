@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware claims cyberattack on Bell Canada subsidiary<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-cyberattack-on-bell-canada-subsidiary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang claimed responsibility for an attack that hit the systems of Bell Canada subsidiary Bell Technical Solutions (BTS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

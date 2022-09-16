@@ -34,6 +34,426 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers trojanize PuTTY SSH client to backdoor media company<a href="https://www.bleepingcomputer.com/news/security/hackers-trojanize-putty-ssh-client-to-backdoor-media-company/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers are using trojanized versions of the PuTTY SSH client to deploy backdoors on targets' devices as part of a fake Amazon job assessment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMBs are hardest-hit by ransomware<a href="https://www.helpnetsecurity.com/2022/09/15/small-businesses-ransomware-targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the first half of 2022, the average cost of a claim for a small business owner increased to $139,000, which is 58% higher than levels during the first half of 2021, according to the 2022 Cyber Claims Report by Coalition.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Self-Spreading Malware Targeting Gamers via YouTube<a href="https://thehackernews.com/2022/09/researchers-warn-of-self-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gamers looking for cheats on YouTube are being targeted with links to malicious password-protected archive files designed to install the RedLine Stealer malware and crypto miners on compromised machines.  "The videos advertise cheats and cracks and provide instructions on hacking popular games and software," Kaspersky security researcher Oleg Kupreev  said  in a new report published today.   Games mentioned in the videos are APB Reloaded, CrossFire, DayZ, Farming Simulator, Farthest Frontier, FIFA 22, Final Fantasy XIV, Forza, Lego Star Wars, Sniper Elite, and Spider-Man, among others.   Downloading the self-extracting RAR archive leads to the execution of Redline Stealer, a coin miner, as well as a number of other binaries that enable the bundle's self-propagation.  Specifically, this is achieved by means of an open-source C#-based password stealer that's capable of extracting cookies from browsers, which is then used by the operators to gain unauthorized access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai mitigated a new record-breaking DDoS attack against a Europen customer<a href="https://securityaffairs.co/wordpress/135803/security/record-ddos-sept-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai announced to have recently blocked a new record-breaking distributed denial-of-service (DDoS) attack.
+
+
+
+On Monday, September 12, 2022, Akamai mitigated the largest DDoS attack ever that hit one of its European customers. The malicious traffic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware claims cyberattack on Bell Canada subsidiary<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-cyberattack-on-bell-canada-subsidiary/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang claimed responsibility for an attack that hit the systems of Bell Canada subsidiary Bell Technical Solutions (BTS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SandboxAQ acquires Cryptosense to accelerate the deployment of PQC solutions to organizations<a href="https://www.helpnetsecurity.com/2022/09/15/sandboxaq-cryptosense/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition of Cryptosense complements and accelerates the deployment of SandboxAQ’s Post-Quantum Cryptography (PQC) solutions to corporations and government institutions worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Gamaredon Hackers Target Ukrainian Government Using Info-Stealing Malware<a href="https://thehackernews.com/2022/09/russian-gamaredon-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing espionage campaign operated by the Russia-linked Gamaredon group is targeting employees of Ukrainian government, defense, and law enforcement agencies with a piece of custom-made information stealing malware.  "The adversary is using phishing documents containing lures related to the Russian invasion of Ukraine," Cisco Talos researchers Asheer Malhotra and Guilherme Venere  said  in a technical write-up shared with The Hacker News. "LNK files, PowerShell, and VBScript enable initial access, while malicious binaries are deployed in the post-infection phase."  Active since 2013, Gamaredon – also known as Actinium, Armageddon, Primitive Bear, Shuckworm, and Trident Ursa – has been linked to numerous attacks aimed at Ukrainian entities in the aftermath of Russia's military invasion of Ukraine in late February 2022.   The targeted phishing operation, observed as recently as August 2022, also follows similar intrusions  uncovered  by Symantec last month in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of self-spreading malware targeting gamers looking for cheats on YouTube<a href="https://securityaffairs.co/wordpress/135788/malware/self-spreading-malware-target-gamers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target gamers looking for cheats on YouTube with the RedLine Stealer information-stealing malware and crypto miners
+
+
+
+Researchers from Kaspersky have spotted a self-extracting archive, served to gamers looking for cheats on YouTube, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai stopped new record-breaking DDoS attack in Europe<a href="https://www.bleepingcomputer.com/news/security/akamai-stopped-new-record-breaking-ddos-attack-in-europe/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new distributed denial-of-service (DDoS) attack that took place on Monday, September 12, has broken the previous record that Akamai recorded recently in July.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Improves Chrome Protections Against Use-After-Free Bug Exploitation<a href="https://www.securityweek.com/google-improves-chrome-protections-against-use-after-free-bug-exploitation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For security flaws in the browser process, Google has introduced MiraclePtr, which rewrites the codebase to use a smart pointer type called ‘raw_ptr’ to prevent the exploitation of use-after-free bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Ways to Mitigate Your New Insider Threats in the Great Resignation<a href="https://thehackernews.com/2022/09/5-ways-to-mitigate-your-new-insider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are in the midst of an employee  "turnover tsunami"  with no signs of a slowdown.  According to Fortune Magazine,  40% of the U.S. is considering quitting their jobs. This trend – coined the great resignation - creates instability in organizations. High employee turnover increases security risks, and companies are more vulnerable to attacks from human factors worldwide.   At  Davos 2022 , statistics connect the turmoil of the great resignation to the rise of new insider threats. Security teams are feeling the impact. It's even harder to keep up with your employee security. Companies need a fresh approach to close the gaps and prevent attacks. This article will examine what your security teams must do within the new organizational dynamics to quickly and effectively address unique challenges.  Handling Your New Insider Threats   Implementing a successful security awareness program is more challenging than ever for your security team—the new blood coming in cause
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT target Ukraine with a new info-stealer<a href="https://securityaffairs.co/wordpress/135780/apt/gamaredon-new-stealing-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Gamaredon APT targets employees of the Ukrainian government, defense, and law enforcement agencies with a custom information-stealing malware.
+
+
+
+Russia-linked Gamaredon APT group (aka Shuckworm, Actinium, Armageddon, Primitive Bear,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge’s News Feed ads abused for tech support scams<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-s-news-feed-ads-abused-for-tech-support-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malvertising campaign is injecting ads in the Microsoft Edge News Feed to redirect potential victims to websites pushing tech support scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon APT Targets Ukrainian Government, Defense Agencies in New Campaign<a href="https://blog.talosintelligence.com/2022/09/gamaredon-apt-targets-ukrainian-agencies.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign aims to deliver information-stealing malware to Ukrainian victim machines and makes heavy use of multiple modular PowerShell and VBScript (VBS) scripts as part of the infection chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webworm Hackers Using Modified RATs in Latest Cyber Espionage Attacks<a href="https://thehackernews.com/2022/09/webworm-hackers-using-modified-rats-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked under the moniker Webworm  has been linked to bespoke Windows-based remote access trojans, some of which are said to be in pre-deployment or testing phases.  "The group has developed customized versions of three older remote access trojans (RATs), including  Trochilus RAT ,  Gh0st RAT , and  9002 RAT ," the Symantec Threat Hunter team, part of Broadcom Software,  said  in a report shared with The Hacker News.   The cybersecurity firm said at least one of the indicators of compromise (IOCs) was used in an attack against an IT service provider operating in multiple Asian countries.  It's worth pointing out that all the three backdoors are primarily associated with Chinese threat actors such as Stone Panda (APT10), Aurora Panda (APT17), Emissary Panda (APT27), and Judgement Panda (APT31), among others, although they have been put to use by other hacking groups.  Symantec said the Webworm threat actor exhibits tactical overlaps with another new adversa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Millions in Losses resulted from attacks against Healthcare payment processors<a href="https://securityaffairs.co/wordpress/135774/cyber-crime/attacks-healthcare-payment-processors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued an alert about threat actors targeting healthcare payment processors in an attempt to hijack the payments.
+
+
+
+The Federal Bureau of Investigation (FBI) has issued an alert about cyber attacks against healthcare payment processors to redirect...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New malware bundle self-spreads through YouTube gaming videos<a href="https://www.bleepingcomputer.com/news/security/new-malware-bundle-self-spreads-through-youtube-gaming-videos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware bundle uses victims' YouTube channels to upload malicious video tutorials advertising fake cheats and cracks for popular video games to spread the malicious package further.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Token-Mining Weakness in Microsoft Teams Makes for Perfect Phish<a href="https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an advisory by Vectra, access tokens for other Teams users can be recovered, allowing attackers to move from a single compromise to the ability to impersonate critical employees, but Microsoft isn't planning to patch.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks<a href="https://thehackernews.com/2022/09/us-charges-3-iranian-hackers-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sweeping sanctions against ten individuals and two entities backed by Iran's Islamic Revolutionary Guard Corps (IRGC) for their involvement in ransomware attacks at least since October 2020.  The agency said the cyber activity mounted by the individuals is partially attributable to intrusion sets tracked under the names APT35, Charming Kitten, Nemesis Kitten, Phosphorus, and TunnelVision.  "This group has launched extensive campaigns against organizations and officials across the globe, particularly targeting U.S. and Middle Eastern defense, diplomatic, and government personnel, as well as private industries including media, energy, business services, and telecommunications," the Treasury  said .  The Nemesis Kitten actor, which is also known as  Cobalt Mirage ,  DEV-0270 , and  UNC2448 , has come under the scanner in recent months for its pattern of ransomware attacks for o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks are using lures related to Her Majesty Queen Elizabeth II in phishing attacks<a href="https://securityaffairs.co/wordpress/135764/cyber-crime/queen-elizabeth-ii-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the death of Queen Elizabeth II as bait in phishing attacks to steal Microsoft account credentials from victims.
+
+
+
+Researchers from Proofpoint are warning of threat actors that are using the death of Queen Elizabeth II as bait...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom outage left users unable to sign in or join meetings<a href="https://www.bleepingcomputer.com/news/security/zoom-outage-left-users-unable-to-sign-in-or-join-meetings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zoom video conference platform was down and experienced an outage preventing users from logging in or joining meetings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. charges three Iranians for ransomware attacks on women's shelter, businesses<a href="https://www.reuters.com/world/repeat-us-imposes-fresh-sanctions-over-irans-cyber-activities-2022-09-14/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the criminal charges do not say whether the alleged hackers worked for the Iranian government, a separate U.S. Treasury Department statement said they were affiliated with the Islamic Revolutionary Guard Corps (IRGC).
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers use new info stealer malware against Ukrainian orgs<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-info-stealer-malware-against-ukrainian-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers have been targeting Ukrainian entities with previously unseen info-stealing malware during a new espionage campaign that is still active.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webworm hackers modify old malware in new attacks to evade attribution<a href="https://www.bleepingcomputer.com/news/security/webworm-hackers-modify-old-malware-in-new-attacks-to-evade-attribution/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese cyberespionage hackers of the 'Webworm' group are undergoing experimentation, using modified decade-old RATs (remote access trojans) in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gay hookup site typosquatted to push dodgy Chrome extensions, scams<a href="https://www.bleepingcomputer.com/news/security/gay-hookup-site-typosquatted-to-push-dodgy-chrome-extensions-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gay hookup and cruising web app Sniffies is being impersonated by opportunistic threat actors hoping to target the website's users with many typosquatting domains that push scams and dubious Google Chrome extensions. In some cases, these illicit domains launch the Apple Music app prompting users to buy a subscription.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

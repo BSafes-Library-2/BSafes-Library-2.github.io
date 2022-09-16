@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SparklingGoblin APT Hackers Using New Linux Variant of SideWalk Backdoor<a href="https://thehackernews.com/2022/09/sparklinggoblin-apt-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux variant of a backdoor known as SideWalk was used to target a Hong Kong university in February 2021, underscoring the cross-platform abilities of the implant.&nbsp;  Slovak cybersecurity firm ESET, which detected the malware in the university's network, attributed the backdoor to a nation-state actor dubbed&nbsp; SparklingGoblin . The unnamed university is said to have been already targeted by the group in May 2020 during the&nbsp; student protests .  "The group continuously targeted this organization over a long period of time, successfully compromising multiple key servers, including a print server, an email server, and a server used to manage student schedules and course registrations," ESET&nbsp; said &nbsp;in a report shared with The Hacker News.   SparklingGoblin is the name given to a Chinese advanced persistent threat (APT) group with connections to the&nbsp; Winnti umbrella &nbsp;(aka APT41, Barium, Earth Baku, or Wicked Panda). It's primarily known for its attacks targeting various en
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SparklingGoblin APT adds a new Linux variant of SideWalk implant to its arsenal<a href="https://securityaffairs.co/wordpress/135736/malware/sparklinggoblin-sidewalk-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked SparklingGoblin APT was spotted using a Linux variant of a backdoor known as SideWalk against a Hong Kong university.
+
+
+
+Researchers from ESET discovered a Linux variant of the SideWalk backdoor, which is a custom implant used by the China-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

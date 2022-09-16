@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT target Ukraine with a new info-stealer<a href="https://securityaffairs.co/wordpress/135780/apt/gamaredon-new-stealing-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Gamaredon APT targets employees of the Ukrainian government, defense, and law enforcement agencies with a custom information-stealing malware.
+
+
+
+Russia-linked Gamaredon APT group (aka&nbsp;Shuckworm,&nbsp;Actinium,&nbsp;Armageddon,&nbsp;Primitive Bear,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon APT Targets Ukrainian Government, Defense Agencies in New Campaign<a href="https://blog.talosintelligence.com/2022/09/gamaredon-apt-targets-ukrainian-agencies.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign aims to deliver information-stealing malware to Ukrainian victim machines and makes heavy use of multiple modular PowerShell and VBScript (VBS) scripts as part of the infection chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

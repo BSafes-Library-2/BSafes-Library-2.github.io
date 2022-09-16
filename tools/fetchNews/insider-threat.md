@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One in 10 employees leaks sensitive company data every 6 months: report<a href="https://www.csoonline.com/article/3673260/one-in-10-employees-leaks-sensitive-company-data-every-6-months-report.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On average, 2.5% of employees exfiltrate sensitive information in a month, but over a six-month period, nearly one in 10, or 9.4% of employees, do so, Cyberhaven noted in its report.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
