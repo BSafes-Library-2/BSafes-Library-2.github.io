@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake cryptocurrency giveaway sites have tripled this year<a href="https://www.bleepingcomputer.com/news/security/fake-cryptocurrency-giveaway-sites-have-tripled-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of websites promoting&nbsp;cryptocurrency giveaway scams to lure gullible victims&nbsp;has increased by more than 300% in the first half of this year, targeting mostly English and Spanish speakers using celebrity deepfakes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks<a href="https://thehackernews.com/2022/09/us-charges-3-iranian-hackers-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sweeping sanctions against ten individuals and two entities backed by Iran's Islamic Revolutionary Guard Corps (IRGC) for their involvement in ransomware attacks at least since October 2020.  The agency said the cyber activity mounted by the individuals is partially attributable to intrusion sets tracked under the names APT35, Charming Kitten, Nemesis Kitten, Phosphorus, and TunnelVision.  "This group has launched extensive campaigns against organizations and officials across the globe, particularly targeting U.S. and Middle Eastern defense, diplomatic, and government personnel, as well as private industries including media, energy, business services, and telecommunications," the Treasury&nbsp; said .  The Nemesis Kitten actor, which is also known as&nbsp; Cobalt Mirage ,&nbsp; DEV-0270 , and&nbsp; UNC2448 , has come under the scanner in recent months for its pattern of ransomware attacks for o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. charges three Iranians for ransomware attacks on women's shelter, businesses<a href="https://www.reuters.com/world/repeat-us-imposes-fresh-sanctions-over-irans-cyber-activities-2022-09-14/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the criminal charges do not say whether the alleged hackers worked for the Iranian government, a separate U.S. Treasury Department statement said they were affiliated with the Islamic Revolutionary Guard Corps (IRGC).
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

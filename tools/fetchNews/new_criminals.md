@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells stolen Starbucks data of 219,000 Singapore customers<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-stolen-starbucks-data-of-219-000-singapore-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singapore division of Starbucks, the popular American coffeehouse chain, has admitted that it suffered a data breach incident impacting over 219,000 of its customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

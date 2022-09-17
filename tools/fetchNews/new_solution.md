@@ -8,6 +8,38 @@ nav_order: 900195
 
 ## Solution
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender releases Universal LockerGoga ransomware decryptor<a href="https://securityaffairs.co/wordpress/135843/malware/lockergoga-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender has released a free decryptor to allow the victims of the LockerGoga ransomware to recover their files without paying a ransom.
+
+
+
+The cybersecurity firm Bitdefender has released a free decryptor to allow LockerGoga ransomware victims to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open source CMS TYPO3 tackles XSS vulnerability<a href="https://portswigger.net/daily-swig/open-source-cms-typo3-tackles-xss-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw has been patched in 7.6.58, 8.7.48, 9.5.37, 10.4.32, and 11.5.16 of typo3/cms-core. All prior versions on these release lines are affected. As user interaction is required, the bug is classified as moderate severity (CVSS score of 6.1).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

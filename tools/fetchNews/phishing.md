@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Token-Mining Weakness in Microsoft Teams Makes for Perfect Phish<a href="https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an advisory by Vectra, access tokens for other Teams users can be recovered, allowing attackers to move from a single compromise to the ability to impersonate critical employees, but Microsoft isn't planning to patch.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks are using lures related to Her Majesty Queen Elizabeth II in phishing attacks<a href="https://securityaffairs.co/wordpress/135764/cyber-crime/queen-elizabeth-ii-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting the death of Queen Elizabeth II as bait in phishing attacks to steal Microsoft account credentials from victims.
+
+
+
+Researchers from Proofpoint are warning of threat actors that are using the death of Queen Elizabeth II as bait...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gay hookup site typosquatted to push dodgy Chrome extensions, scams<a href="https://www.bleepingcomputer.com/news/security/gay-hookup-site-typosquatted-to-push-dodgy-chrome-extensions-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gay hookup and cruising web app&nbsp;Sniffies is being impersonated by opportunistic threat actors&nbsp;hoping to target the website's users with many&nbsp;typosquatting&nbsp;domains that push scams and&nbsp;dubious&nbsp;Google Chrome extensions. In some cases, these illicit domains launch the Apple Music app prompting users to buy a&nbsp;subscription.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

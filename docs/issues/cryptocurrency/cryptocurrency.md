@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 16, 2022 <br>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting WebLogic Servers and Docker APIs for Mining Cryptocurrencies<a href="https://thehackernews.com/2022/09/hackers-targeting-weblogic-servers-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors such as Kinsing are taking advantage of both recently disclosed and older security flaws in Oracle WebLogic Server to deliver cryptocurrency-mining malware.  Cybersecurity company Trend Micro said it&nbsp; found &nbsp;the financially-motivated group leveraging the vulnerability to drop Python scripts with capabilities to disable operating system (OS) security features such as Security-Enhanced Linux ( SELinux ), and others.  The operators behind the&nbsp; Kinsing malware &nbsp;have a history of scanning for vulnerable servers to co-opt them into a botnet, including that of&nbsp; Redis ,&nbsp; SaltStack ,&nbsp; Log4Shell ,&nbsp; Spring4Shell , and the Atlassian Confluence flaw ( CVE-2022-26134 ).   The Kinsing actors have also been involved in campaigns against container environments via&nbsp; misconfigured open Docker Daemon API ports &nbsp;to launch a crypto miner and subsequently spread the malware to other containers and hosts.  The latest wave of attacks entails the actor weaponizing&nbsp; CVE-2020-14882 &nbsp;(CVSS score:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

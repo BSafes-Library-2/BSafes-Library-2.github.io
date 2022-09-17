@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Improves Chrome Protections Against Use-After-Free Bug Exploitation<a href="https://www.securityweek.com/google-improves-chrome-protections-against-use-after-free-bug-exploitation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For security flaws in the browser process, Google has introduced MiraclePtr, which rewrites the codebase to use a smart pointer type called ‘raw_ptr’ to prevent the exploitation of use-after-free bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Edge’s News Feed ads abused for tech support scams<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-s-news-feed-ads-abused-for-tech-support-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malvertising campaign is injecting ads in the Microsoft Edge News Feed to redirect potential victims to websites pushing tech support scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

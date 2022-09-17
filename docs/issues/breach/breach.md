@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Had Access to LastPass's Development Systems for Four Days<a href="https://thehackernews.com/2022/09/hackers-had-access-to-lastpasss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management solution LastPass shared more details pertaining to the security incident last month, disclosing that the threat actor had access to its systems for a four-day period in August 2022.  "There is no evidence of any threat actor activity beyond the established timeline," LastPass CEO Karim Toubba&nbsp; said &nbsp;in an update shared on September 15, adding, "there is no evidence that this incident involved any access to customer data or encrypted password vaults."  LastPass in late August&nbsp; revealed &nbsp;that a breach targeting its development environment resulted in the theft of some of its source code and technical information, although no further specifics were offered.   The company, which said it completed the probe into the hack in partnership with incident response firm Mandiant, said the access was achieved using a developer's compromised endpoint.  While the exact method of initial entry remains "inconclusive," LastPass noted the adversary
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber hacked, internal systems and confidential documents were allegedly compromised<a href="https://securityaffairs.co/wordpress/135811/data-breach/uber-hacked-systems-allegedly-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber on Thursday disclosed a security breach, threat actors gained access to its network, and stole internal documents.
+
+
+
+Uber on Thursday suffered a cyberattack, the attackers were able to penetrate its internal network and access internal documents,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Says It's Investigating a Potential Breach of Its Computer Systems<a href="https://thehackernews.com/2022/09/uber-says-its-investigating-potential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ride hailing giant Uber&nbsp; disclosed &nbsp;Thursday it's responding to a cybersecurity incident involving a breach of its network and that it's in touch with law enforcement authorities.  The New York Times first&nbsp; reported &nbsp;the incident.&nbsp;&nbsp;The company pointed to its tweeted statement when asked for comment on the matter.   The hack is said to have forced the company to take its internal communications and engineering systems offline as it investigated the extent of the breach.  The publication said the malicious intruder compromised an employee's Slack account, and leveraged it to broadcast a message that the company had "suffered a data breach," in addition to listing internal databases that's supposed to have been compromised.  "It appeared that the hacker was later able to gain access to other internal systems, posting an explicit photo on an internal information page for employees," the New York Times said.  Uber has yet to offer additional details abou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber hacked, internal systems breached and vulnerability reports stolen<a href="https://www.bleepingcomputer.com/news/security/uber-hacked-internal-systems-breached-and-vulnerability-reports-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber suffered a cyberattack Thursday afternoon with a hacker gaining access to vulnerability reports and sharing screenshots of the company's internal systems, email dashboard, and Slack server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

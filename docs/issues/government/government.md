@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden admin launches $1B cyber grant program for state, local governments<a href="https://therecord.media/biden-admin-launches-1b-cyber-grant-program-for-state-local-governments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Friday launched a long-awaited federal cybersecurity grant program that will funnel up to $1 billion to state and local governments to upgrade their digital defenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House gives U.S. agencies 90 days to create inventory of all software<a href="https://therecord.media/white-house-u-s-agencies-have-90-days-to-create-inventory-of-all-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now that NIST has finished creating its guidance, the OMB wants all agencies to implement it for any third-party software used with an organization’s computer systems. The rules do not apply to software developed by agencies themselves.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch vulnerability used in Stuxnet attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-vulnerability-used-in-stuxnet-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added half a dozen vulnerabilities to its catalog of Known Exploited Vulnerabilities and is ordering federal agencies to follow vendor's instructions to fix them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Sets Strategic Plan for 2023-2025, Eyes Unity of Efforts<a href="https://www.meritalk.com/articles/cisa-sets-strategic-plan-for-2023-2025-eyes-unity-of-efforts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first three goals in the plan focus on how the agency will “reduce risk and build resilience to cyber and physical threats,” while the fourth goal pledges an internal focus to unify as “One CISA.”
+</details>
+<div style="text-align: right" markdown="1">
+Meritalk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

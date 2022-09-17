@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OIG Warns USCIS Over Unauthorized Access to Systems and Information<a href="https://www.hstoday.us/subject-matter-areas/customs-immigration/oig-warns-uscis-over-unauthorized-access-to-systems-and-information/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OIG said the deficiencies stemmed from insufficient internal controls and day-to-day oversight to ensure access controls are administered appropriately and effectively to prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+HS Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches High-Severity Flaws in Business One, BusinessObjects, GRC<a href="https://www.securityweek.com/sap-patches-high-severity-flaws-business-one-businessobjects-grc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most important of the newly released security notes deals with a high-severity vulnerability, tracked as CVE-2022-35292 (CVSS score of 7.8), in Business One that could lead to escalation of privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Ways to Mitigate Your New Insider Threats in the Great Resignation<a href="https://thehackernews.com/2022/09/5-ways-to-mitigate-your-new-insider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are in the midst of an employee&nbsp; "turnover tsunami" &nbsp;with no signs of a slowdown.&nbsp; According to Fortune Magazine, &nbsp;40% of the U.S. is considering quitting their jobs. This trend – coined the great resignation - creates instability in organizations. High employee turnover increases security risks, and companies are more vulnerable to attacks from human factors worldwide.&nbsp;  At&nbsp; Davos 2022 , statistics connect the turmoil of the great resignation to the rise of new insider threats. Security teams are feeling the impact. It's even harder to keep up with your employee security. Companies need a fresh approach to close the gaps and prevent attacks. This article will examine what your security teams must do within the new organizational dynamics to quickly and effectively address unique challenges.  Handling Your New Insider Threats&nbsp;  Implementing a successful security awareness program is more challenging than ever for your security team—the new blood coming in cause
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

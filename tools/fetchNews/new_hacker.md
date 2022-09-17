@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opsec Mistakes Reveal COBALT MIRAGE Threat Actors<a href="https://www.secureworks.com/blog/opsec-mistakes-reveal-cobalt-mirage-threat-actors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite Secureworks CTU researchers publicly disclosing COBALT MIRAGE tactics, techniques, and procedures (TTPs) in May 2022, the threat actors continue to demonstrate many of the same behaviors.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Spreading Trojanized Versions of PuTTY Client Application<a href="https://thehackernews.com/2022/09/north-korean-hackers-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat with a North Korea nexus has been found leveraging a "novel spear phish methodology" that involves making use of trojanized versions of the PuTTY SSH and Telnet client.  Google-owned threat intelligence firm Mandiant attributed the new campaign to an emerging threat cluster it tracks under the name&nbsp; UNC4034 .  "UNC4034 established communication with the victim over WhatsApp and lured them to download a malicious ISO package regarding a fake job offering that led to the deployment of the AIRDRY.V2 backdoor through a trojanized instance of the PuTTY utility," Mandiant researchers&nbsp; said .   The utilization of fabricated job lures as a pathway for malware distribution is an oft-used tactic by North Korean state-sponsored actors, including the Lazarus Group, as part of an enduring campaign called&nbsp; Operation Dream Job .  The entry point of the attack is an ISO file that masquerades as an Amazon Assessment as part of a potential job opportunity at the tech giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

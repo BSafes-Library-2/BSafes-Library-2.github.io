@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT spreads tainted versions of PuTTY via WhatsApp<a href="https://securityaffairs.co/wordpress/135831/malware/north-korea-linked-apt-backdoored-putty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actor UNC4034 is spreading tainted versions of the PuTTY SSH and Telnet client.
+
+
+
+In July 2022, Mandiant identified a novel spear phish methodology that was employed by North Korea-linked threat actor UNC4034. The attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Use a UTM Solution &amp; Win Time, Money and Resources<a href="https://thehackernews.com/2022/09/how-to-use-utm-solution-win-time-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unified threat management is thought to be a universal solution for many reasons. First of all, it is compatible with almost any hardware. As a business or an MSP, you don't have to bother with leasing or subleasing expensive equipment. There is no need to chase your clients to return your costly hardware. The all-in-one UTM solution will save you money and time &amp; make work routine less stressful.  However, solely purchasing a sophisticated IT solution might end up in a waste of money, if the vendor does not tailor it up specifically for your needs. More troubles occur if your staff does not have much IT background or simply is not tech-savvy enough.  We put together a compilation of the best use cases of&nbsp; SafeUTM &nbsp;so you can see how to integrate such a solution into your infrastructure &amp; help you cut back on unnecessary expenses of all kinds.  UTM as a lifesaver for enterprise cybersecurity   Large metal industry company of 4,500 users  Among the challenges faced before imple
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
