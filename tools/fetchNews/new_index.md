@@ -34,7 +34,387 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Had Access to LastPass's Development Systems for Four Days<a href="https://thehackernews.com/2022/09/hackers-had-access-to-lastpasss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password management solution LastPass shared more details pertaining to the security incident last month, disclosing that the threat actor had access to its systems for a four-day period in August 2022.  "There is no evidence of any threat actor activity beyond the established timeline," LastPass CEO Karim Toubba  said  in an update shared on September 15, adding, "there is no evidence that this incident involved any access to customer data or encrypted password vaults."  LastPass in late August  revealed  that a breach targeting its development environment resulted in the theft of some of its source code and technical information, although no further specifics were offered.   The company, which said it completed the probe into the hack in partnership with incident response firm Mandiant, said the access was achieved using a developer's compromised endpoint.  While the exact method of initial entry remains "inconclusive," LastPass noted the adversary
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 16th 2022 - Iranian Sanctions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-16th-2022-iranian-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been a fairly quiet week on the ransomware front, with the biggest news being US sanctions on Iranians linked to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden admin launches $1B cyber grant program for state, local governments<a href="https://therecord.media/biden-admin-launches-1b-cyber-grant-program-for-state-local-governments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration on Friday launched a long-awaited federal cybersecurity grant program that will funnel up to $1 billion to state and local governments to upgrade their digital defenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender releases Universal LockerGoga ransomware decryptor<a href="https://securityaffairs.co/wordpress/135843/malware/lockergoga-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender has released a free decryptor to allow the victims of the LockerGoga ransomware to recover their files without paying a ransom.
+
+
+
+The cybersecurity firm Bitdefender has released a free decryptor to allow LockerGoga ransomware victims to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass says hackers had internal access for four days<a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass says the attacker behind the August security breach had internal access to the company's systems for four days until they were detected and evicted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House gives U.S. agencies 90 days to create inventory of all software<a href="https://therecord.media/white-house-u-s-agencies-have-90-days-to-create-inventory-of-all-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now that NIST has finished creating its guidance, the OMB wants all agencies to implement it for any third-party software used with an organization’s computer systems. The rules do not apply to software developed by agencies themselves.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Link b/w PrivateLoader and Ruzki Pay-Per-Install Services<a href="https://thehackernews.com/2022/09/researchers-find-link-bw-privateloader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have exposed new connections between a widely used pay-per-install (PPI) malware service known as PrivateLoader and another PPI platform offered by a cybercriminal actor dubbed ruzki.  "The threat actor ruzki (aka les0k, zhigalsz) advertises their PPI service on underground Russian-speaking forums and their Telegram channels under the name ruzki or zhigalsz since at least May 2021," SEKOIA  said.  The cybersecurity firm said its investigations into the twin services led it to conclude that PrivateLoader is the proprietary loader of the ruzki PPI malware service.  PrivateLoader, as the name implies, functions as a C++-based loader to download and deploy additional malicious payloads on infected Windows hosts. It's primarily distributed through SEO-optimized websites that claim to provide cracked software.  Although it was  first documented  earlier this February by Intel471, it's said to have been put to use starting as early as May 2021.   S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT spreads tainted versions of PuTTY via WhatsApp<a href="https://securityaffairs.co/wordpress/135831/malware/north-korea-linked-apt-backdoored-putty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actor UNC4034 is spreading tainted versions of the PuTTY SSH and Telnet client.
+
+
+
+In July 2022, Mandiant identified a novel spear phish methodology that was employed by North Korea-linked threat actor UNC4034. The attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch vulnerability used in Stuxnet attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-vulnerability-used-in-stuxnet-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added half a dozen vulnerabilities to its catalog of Known Exploited Vulnerabilities and is ordering federal agencies to follow vendor's instructions to fix them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opsec Mistakes Reveal COBALT MIRAGE Threat Actors<a href="https://www.secureworks.com/blog/opsec-mistakes-reveal-cobalt-mirage-threat-actors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite Secureworks CTU researchers publicly disclosing COBALT MIRAGE tactics, techniques, and procedures (TTPs) in May 2022, the threat actors continue to demonstrate many of the same behaviors.
+</details>
+<div style="text-align: right" markdown="1">
+Secure Works
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Spreading Trojanized Versions of PuTTY Client Application<a href="https://thehackernews.com/2022/09/north-korean-hackers-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat with a North Korea nexus has been found leveraging a "novel spear phish methodology" that involves making use of trojanized versions of the PuTTY SSH and Telnet client.  Google-owned threat intelligence firm Mandiant attributed the new campaign to an emerging threat cluster it tracks under the name  UNC4034 .  "UNC4034 established communication with the victim over WhatsApp and lured them to download a malicious ISO package regarding a fake job offering that led to the deployment of the AIRDRY.V2 backdoor through a trojanized instance of the PuTTY utility," Mandiant researchers  said .   The utilization of fabricated job lures as a pathway for malware distribution is an oft-used tactic by North Korean state-sponsored actors, including the Lazarus Group, as part of an enduring campaign called  Operation Dream Job .  The entry point of the attack is an ISO file that masquerades as an Amazon Assessment as part of a potential job opportunity at the tech giant.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber hacked, internal systems and confidential documents were allegedly compromised<a href="https://securityaffairs.co/wordpress/135811/data-breach/uber-hacked-systems-allegedly-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber on Thursday disclosed a security breach, threat actors gained access to its network, and stole internal documents.
+
+
+
+Uber on Thursday suffered a cyberattack, the attackers were able to penetrate its internal network and access internal documents,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker sells stolen Starbucks data of 219,000 Singapore customers<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-stolen-starbucks-data-of-219-000-singapore-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singapore division of Starbucks, the popular American coffeehouse chain, has admitted that it suffered a data breach incident impacting over 219,000 of its customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open source CMS TYPO3 tackles XSS vulnerability<a href="https://portswigger.net/daily-swig/open-source-cms-typo3-tackles-xss-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw has been patched in 7.6.58, 8.7.48, 9.5.37, 10.4.32, and 11.5.16 of typo3/cms-core. All prior versions on these release lines are affected. As user interaction is required, the bug is classified as moderate severity (CVSS score of 6.1).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Use a UTM Solution & Win Time, Money and Resources<a href="https://thehackernews.com/2022/09/how-to-use-utm-solution-win-time-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unified threat management is thought to be a universal solution for many reasons. First of all, it is compatible with almost any hardware. As a business or an MSP, you don't have to bother with leasing or subleasing expensive equipment. There is no need to chase your clients to return your costly hardware. The all-in-one UTM solution will save you money and time & make work routine less stressful.  However, solely purchasing a sophisticated IT solution might end up in a waste of money, if the vendor does not tailor it up specifically for your needs. More troubles occur if your staff does not have much IT background or simply is not tech-savvy enough.  We put together a compilation of the best use cases of  SafeUTM  so you can see how to integrate such a solution into your infrastructure & help you cut back on unnecessary expenses of all kinds.  UTM as a lifesaver for enterprise cybersecurity   Large metal industry company of 4,500 users  Among the challenges faced before imple
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender releases free decryptor for LockerGoga ransomware<a href="https://www.bleepingcomputer.com/news/security/bitdefender-releases-free-decryptor-for-lockergoga-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian cybersecurity firm Bitdefender has released a free decryptor to help LockerGoga ransomware victims recover their files without paying a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Sets Strategic Plan for 2023-2025, Eyes Unity of Efforts<a href="https://www.meritalk.com/articles/cisa-sets-strategic-plan-for-2023-2025-eyes-unity-of-efforts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first three goals in the plan focus on how the agency will “reduce risk and build resilience to cyber and physical threats,” while the fourth goal pledges an internal focus to unify as “One CISA.”
+</details>
+<div style="text-align: right" markdown="1">
+Meritalk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting WebLogic Servers and Docker APIs for Mining Cryptocurrencies<a href="https://thehackernews.com/2022/09/hackers-targeting-weblogic-servers-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors such as Kinsing are taking advantage of both recently disclosed and older security flaws in Oracle WebLogic Server to deliver cryptocurrency-mining malware.  Cybersecurity company Trend Micro said it  found  the financially-motivated group leveraging the vulnerability to drop Python scripts with capabilities to disable operating system (OS) security features such as Security-Enhanced Linux ( SELinux ), and others.  The operators behind the  Kinsing malware  have a history of scanning for vulnerable servers to co-opt them into a botnet, including that of  Redis ,  SaltStack ,  Log4Shell ,  Spring4Shell , and the Atlassian Confluence flaw ( CVE-2022-26134 ).   The Kinsing actors have also been involved in campaigns against container environments via  misconfigured open Docker Daemon API ports  to launch a crypto miner and subsequently spread the malware to other containers and hosts.  The latest wave of attacks entails the actor weaponizing  CVE-2020-14882  (CVSS score:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake cryptocurrency giveaway sites have tripled this year<a href="https://www.bleepingcomputer.com/news/security/fake-cryptocurrency-giveaway-sites-have-tripled-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of websites promoting cryptocurrency giveaway scams to lure gullible victims has increased by more than 300% in the first half of this year, targeting mostly English and Spanish speakers using celebrity deepfakes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OIG Warns USCIS Over Unauthorized Access to Systems and Information<a href="https://www.hstoday.us/subject-matter-areas/customs-immigration/oig-warns-uscis-over-unauthorized-access-to-systems-and-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OIG said the deficiencies stemmed from insufficient internal controls and day-to-day oversight to ensure access controls are administered appropriately and effectively to prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+HS Today
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Says It's Investigating a Potential Breach of Its Computer Systems<a href="https://thehackernews.com/2022/09/uber-says-its-investigating-potential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ride hailing giant Uber  disclosed  Thursday it's responding to a cybersecurity incident involving a breach of its network and that it's in touch with law enforcement authorities.  The New York Times first  reported  the incident.  The company pointed to its tweeted statement when asked for comment on the matter.   The hack is said to have forced the company to take its internal communications and engineering systems offline as it investigated the extent of the breach.  The publication said the malicious intruder compromised an employee's Slack account, and leveraged it to broadcast a message that the company had "suffered a data breach," in addition to listing internal databases that's supposed to have been compromised.  "It appeared that the hacker was later able to gain access to other internal systems, posting an explicit photo on an internal information page for employees," the New York Times said.  Uber has yet to offer additional details abou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber hacked, internal systems breached and vulnerability reports stolen<a href="https://www.bleepingcomputer.com/news/security/uber-hacked-internal-systems-breached-and-vulnerability-reports-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber suffered a cyberattack Thursday afternoon with a hacker gaining access to vulnerability reports and sharing screenshots of the company's internal systems, email dashboard, and Slack server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches High-Severity Flaws in Business One, BusinessObjects, GRC<a href="https://www.securityweek.com/sap-patches-high-severity-flaws-business-one-businessobjects-grc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most important of the newly released security notes deals with a high-severity vulnerability, tracked as CVE-2022-35292 (CVSS score of 7.8), in Business One that could lead to escalation of privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers trojanize PuTTY SSH client to backdoor media company<a href="https://www.bleepingcomputer.com/news/security/hackers-trojanize-putty-ssh-client-to-backdoor-media-company/"> Full Text</a>
@@ -50,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMBs are hardest-hit by ransomware<a href="https://www.helpnetsecurity.com/2022/09/15/small-businesses-ransomware-targets/?&web_view=true"> Full Text</a>
@@ -66,7 +446,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Self-Spreading Malware Targeting Gamers via YouTube<a href="https://thehackernews.com/2022/09/researchers-warn-of-self-spreading.html"> Full Text</a>
@@ -82,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai mitigated a new record-breaking DDoS attack against a Europen customer<a href="https://securityaffairs.co/wordpress/135803/security/record-ddos-sept-2022.html"> Full Text</a>
@@ -102,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware claims cyberattack on Bell Canada subsidiary<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-cyberattack-on-bell-canada-subsidiary/"> Full Text</a>
@@ -118,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SandboxAQ acquires Cryptosense to accelerate the deployment of PQC solutions to organizations<a href="https://www.helpnetsecurity.com/2022/09/15/sandboxaq-cryptosense/?&web_view=true"> Full Text</a>
@@ -134,7 +514,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Gamaredon Hackers Target Ukrainian Government Using Info-Stealing Malware<a href="https://thehackernews.com/2022/09/russian-gamaredon-hackers-target.html"> Full Text</a>
@@ -150,7 +530,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of self-spreading malware targeting gamers looking for cheats on YouTube<a href="https://securityaffairs.co/wordpress/135788/malware/self-spreading-malware-target-gamers.html"> Full Text</a>
@@ -170,7 +550,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai stopped new record-breaking DDoS attack in Europe<a href="https://www.bleepingcomputer.com/news/security/akamai-stopped-new-record-breaking-ddos-attack-in-europe/"> Full Text</a>
@@ -186,7 +566,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Improves Chrome Protections Against Use-After-Free Bug Exploitation<a href="https://www.securityweek.com/google-improves-chrome-protections-against-use-after-free-bug-exploitation?&web_view=true"> Full Text</a>
@@ -202,7 +582,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Ways to Mitigate Your New Insider Threats in the Great Resignation<a href="https://thehackernews.com/2022/09/5-ways-to-mitigate-your-new-insider.html"> Full Text</a>
@@ -218,7 +598,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Gamaredon APT target Ukraine with a new info-stealer<a href="https://securityaffairs.co/wordpress/135780/apt/gamaredon-new-stealing-malware.html"> Full Text</a>
@@ -238,7 +618,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Edge’s News Feed ads abused for tech support scams<a href="https://www.bleepingcomputer.com/news/security/microsoft-edge-s-news-feed-ads-abused-for-tech-support-scams/"> Full Text</a>
@@ -254,7 +634,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gamaredon APT Targets Ukrainian Government, Defense Agencies in New Campaign<a href="https://blog.talosintelligence.com/2022/09/gamaredon-apt-targets-ukrainian-agencies.html?&web_view=true"> Full Text</a>
@@ -270,7 +650,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webworm Hackers Using Modified RATs in Latest Cyber Espionage Attacks<a href="https://thehackernews.com/2022/09/webworm-hackers-using-modified-rats-in.html"> Full Text</a>
@@ -286,7 +666,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Millions in Losses resulted from attacks against Healthcare payment processors<a href="https://securityaffairs.co/wordpress/135774/cyber-crime/attacks-healthcare-payment-processors.html"> Full Text</a>
@@ -306,7 +686,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New malware bundle self-spreads through YouTube gaming videos<a href="https://www.bleepingcomputer.com/news/security/new-malware-bundle-self-spreads-through-youtube-gaming-videos/"> Full Text</a>
@@ -322,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Token-Mining Weakness in Microsoft Teams Makes for Perfect Phish<a href="https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish?&web_view=true"> Full Text</a>
@@ -338,7 +718,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges 3 Iranian Hackers and Sanctions Several Others Over Ransomware Attacks<a href="https://thehackernews.com/2022/09/us-charges-3-iranian-hackers-and.html"> Full Text</a>
@@ -354,7 +734,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks are using lures related to Her Majesty Queen Elizabeth II in phishing attacks<a href="https://securityaffairs.co/wordpress/135764/cyber-crime/queen-elizabeth-ii-phishing.html"> Full Text</a>
@@ -374,7 +754,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom outage left users unable to sign in or join meetings<a href="https://www.bleepingcomputer.com/news/security/zoom-outage-left-users-unable-to-sign-in-or-join-meetings/"> Full Text</a>
@@ -390,7 +770,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. charges three Iranians for ransomware attacks on women's shelter, businesses<a href="https://www.reuters.com/world/repeat-us-imposes-fresh-sanctions-over-irans-cyber-activities-2022-09-14/?&web_view=true"> Full Text</a>
@@ -406,7 +786,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers use new info stealer malware against Ukrainian orgs<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-info-stealer-malware-against-ukrainian-orgs/"> Full Text</a>
@@ -422,7 +802,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2022
+September 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webworm hackers modify old malware in new attacks to evade attribution<a href="https://www.bleepingcomputer.com/news/security/webworm-hackers-modify-old-malware-in-new-attacks-to-evade-attribution/"> Full Text</a>
@@ -438,7 +818,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2022
+September 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gay hookup site typosquatted to push dodgy Chrome extensions, scams<a href="https://www.bleepingcomputer.com/news/security/gay-hookup-site-typosquatted-to-push-dodgy-chrome-extensions-scams/"> Full Text</a>
