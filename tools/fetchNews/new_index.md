@@ -34,7 +34,255 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GTA 6 source code and videos leaked after Rockstar Games hack<a href="https://www.bleepingcomputer.com/news/security/gta-6-source-code-and-videos-leaked-after-rockstar-games-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grand Theft Auto 6 gameplay videos and source code have been leaked after a hacker allegedly breached Rockstar Game's Slack server and Confluence wiki.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Routers impacted by FunJSQ Game Acceleration Module flaw<a href="https://securityaffairs.co/wordpress/135887/security/netgear-game-acceleration-module-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Netgear router models are impacted by an arbitrary code execution via FunJSQ, which is a third-party module for online game acceleration.
+
+
+
+Researchers at security and compliance assessment firm Onekey warns of an arbitrary code execution via FunJSQ,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT hijacking servers to run Bitcoin encryption solvers<a href="https://www.bleepingcomputer.com/news/security/teamtnt-hijacking-servers-to-run-bitcoin-encryption-solvers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts at AquaSec have spotted signs of TeamTNT activity on their honeypots since early September, leading them to believe the notorious hacking group is back in action.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber says there is no evidence that users’ private information was compromised<a href="https://securityaffairs.co/wordpress/135876/data-breach/uber-data-breach-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber hack update: There is no evidence that users' private information was compromised in the data breach.
+
+
+
+Uber provided an update regarding the recent security breach of its internal computer systems, the company confirmed that there is no evidence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter pranksters derail GPT-3 bot with newly discovered “prompt injection” hack<a href="https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few Twitter users discovered how to hijack an automated tweet bot, dedicated to remote jobs, running on the GPT-3 language model by OpenAI, using a newly discovered technique called a "prompt injection attack."
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Claims No Sensitive Data Exposed in Latest Breach… But There's More to This<a href="https://thehackernews.com/2022/09/uber-claims-no-sensitive-data-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber, in an update, said there is "no evidence" that users' private information was compromised in a breach of its internal computer systems that was discovered late Thursday.  "We have no evidence that the incident involved access to sensitive user data (like trip history)," the company  said . "All of our services including Uber, Uber Eats, Uber Freight, and the Uber Driver app are operational."  The ride-hailing company also said it's brought back online all the internal software tools it took down previously as a precaution, reiterating it's notified law enforcement of the matter.  It's not immediately clear if the incident resulted in the theft of any other information or how long the intruder was inside Uber's network.  Uber has not provided more specifics of how the incident played out beyond saying its investigation and response efforts are ongoing. But independent security researcher Bill Demirkapi characterized Uber's &qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Tank Management System Used Worldwide Has Unpatched Security Hole<a href="https://www.securityweek.com/water-tank-management-system-used-worldwide-has-unpatched-security-hole?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A water tank management system used by organizations worldwide is affected by a critical vulnerability that can be exploited remotely and the vendor does not appear to want to patch it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Microsoft can get your passwords via web browser's spellcheck<a href="https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enhanced Spellcheck features in Google Chrome and Microsoft Edge web browsers transmit form data, including personally identifiable information (PII) and in some cases, passwords, to Google and Microsoft respectively.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Starbucks Singapore Says Customer Database Breached<a href="https://www.securityweek.com/starbucks-singapore-says-customer-database-breached?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The customer database was breached online, with local media reporting that 200,000 people's information was stolen. However, the company said that no credit card details were taken as it does not store them.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 384<a href="https://securityaffairs.co/wordpress/135877/breaking-news/security-affairs-newsletter-round-384.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+LastPass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet now pushes Quantum and BlackCat ransomware<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-now-pushes-quantum-and-blackcat-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While monitoring the Emotet botnet's current activity, security researchers found that the malware is now being used by the Quantum and BlackCat ransomware gang to deploy their payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass revealed that intruders had internal access for four days during the August hack<a href="https://securityaffairs.co/wordpress/135869/hacking/lastpass-august-hack-notice.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Password management solution LastPass revealed that the threat actors had access to its systems for four days during the August hack.
+
+
+
+Password management solution LastPass shared more details about the security breach that the company suffered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York ambulance service discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/new-york-ambulance-service-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Empress EMS (Emergency Medical Services), a New York-based emergency response and ambulance service provider, has disclosed a data breach that exposed customer information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Stuxnet bug to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135853/security/known-exploited-vulnerabilities-catalog-stuxnet-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds new vulnerabilities to its Known Exploited Vulnerabilities Catalog, including the bug used in the Stuxnet attacks.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Had Access to LastPass's Development Systems for Four Days<a href="https://thehackernews.com/2022/09/hackers-had-access-to-lastpasss.html"> Full Text</a>
@@ -50,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 16th 2022 - Iranian Sanctions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-16th-2022-iranian-sanctions/"> Full Text</a>
@@ -66,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden admin launches $1B cyber grant program for state, local governments<a href="https://therecord.media/biden-admin-launches-1b-cyber-grant-program-for-state-local-governments/?&web_view=true"> Full Text</a>
@@ -82,7 +330,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitdefender releases Universal LockerGoga ransomware decryptor<a href="https://securityaffairs.co/wordpress/135843/malware/lockergoga-ransomware-decryptor.html"> Full Text</a>
@@ -102,7 +350,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass says hackers had internal access for four days<a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/"> Full Text</a>
@@ -118,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House gives U.S. agencies 90 days to create inventory of all software<a href="https://therecord.media/white-house-u-s-agencies-have-90-days-to-create-inventory-of-all-software/?&web_view=true"> Full Text</a>
@@ -134,7 +382,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Link b/w PrivateLoader and Ruzki Pay-Per-Install Services<a href="https://thehackernews.com/2022/09/researchers-find-link-bw-privateloader.html"> Full Text</a>
@@ -150,7 +398,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked APT spreads tainted versions of PuTTY via WhatsApp<a href="https://securityaffairs.co/wordpress/135831/malware/north-korea-linked-apt-backdoored-putty.html"> Full Text</a>
@@ -170,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch vulnerability used in Stuxnet attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-vulnerability-used-in-stuxnet-attacks/"> Full Text</a>
@@ -186,7 +434,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Opsec Mistakes Reveal COBALT MIRAGE Threat Actors<a href="https://www.secureworks.com/blog/opsec-mistakes-reveal-cobalt-mirage-threat-actors?&web_view=true"> Full Text</a>
@@ -202,7 +450,7 @@ Secure Works
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Spreading Trojanized Versions of PuTTY Client Application<a href="https://thehackernews.com/2022/09/north-korean-hackers-spreading.html"> Full Text</a>
@@ -218,7 +466,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber hacked, internal systems and confidential documents were allegedly compromised<a href="https://securityaffairs.co/wordpress/135811/data-breach/uber-hacked-systems-allegedly-compromised.html"> Full Text</a>
@@ -238,7 +486,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker sells stolen Starbucks data of 219,000 Singapore customers<a href="https://www.bleepingcomputer.com/news/security/hacker-sells-stolen-starbucks-data-of-219-000-singapore-customers/"> Full Text</a>
@@ -254,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open source CMS TYPO3 tackles XSS vulnerability<a href="https://portswigger.net/daily-swig/open-source-cms-typo3-tackles-xss-vulnerability?&web_view=true"> Full Text</a>
@@ -270,7 +518,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Use a UTM Solution & Win Time, Money and Resources<a href="https://thehackernews.com/2022/09/how-to-use-utm-solution-win-time-money.html"> Full Text</a>
@@ -302,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Sets Strategic Plan for 2023-2025, Eyes Unity of Efforts<a href="https://www.meritalk.com/articles/cisa-sets-strategic-plan-for-2023-2025-eyes-unity-of-efforts/?&web_view=true"> Full Text</a>
@@ -318,7 +566,8 @@ Meritalk
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting WebLogic Servers and Docker APIs for Mining Cryptocurrencies<a href="https://thehackernews.com/2022/09/hackers-targeting-weblogic-servers-and.html"> Full Text</a>
@@ -334,7 +583,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake cryptocurrency giveaway sites have tripled this year<a href="https://www.bleepingcomputer.com/news/security/fake-cryptocurrency-giveaway-sites-have-tripled-this-year/"> Full Text</a>
@@ -350,7 +599,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OIG Warns USCIS Over Unauthorized Access to Systems and Information<a href="https://www.hstoday.us/subject-matter-areas/customs-immigration/oig-warns-uscis-over-unauthorized-access-to-systems-and-information/?&web_view=true"> Full Text</a>
@@ -366,7 +615,7 @@ HS Today
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber Says It's Investigating a Potential Breach of Its Computer Systems<a href="https://thehackernews.com/2022/09/uber-says-its-investigating-potential.html"> Full Text</a>
@@ -382,7 +631,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber hacked, internal systems breached and vulnerability reports stolen<a href="https://www.bleepingcomputer.com/news/security/uber-hacked-internal-systems-breached-and-vulnerability-reports-stolen/"> Full Text</a>
@@ -398,7 +647,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 16, 2022
+September 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP Patches High-Severity Flaws in Business One, BusinessObjects, GRC<a href="https://www.securityweek.com/sap-patches-high-severity-flaws-business-one-businessobjects-grc?&web_view=true"> Full Text</a>
