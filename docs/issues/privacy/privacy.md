@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google, Microsoft can get your passwords via web browser's spellcheck<a href="https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enhanced Spellcheck features in Google Chrome and Microsoft Edge web browsers transmit form data, including personally identifiable information (PII) and in some cases, passwords, to Google and Microsoft respectively.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

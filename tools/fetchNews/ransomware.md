@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 16th 2022 - Iranian Sanctions<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-16th-2022-iranian-sanctions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has been a fairly quiet week on the ransomware front, with the biggest news being US sanctions on Iranians linked to ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

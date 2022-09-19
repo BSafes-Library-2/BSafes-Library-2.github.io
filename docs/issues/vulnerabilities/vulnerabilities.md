@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Routers impacted by FunJSQ Game Acceleration Module flaw<a href="https://securityaffairs.co/wordpress/135887/security/netgear-game-acceleration-module-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple Netgear router models are impacted by an arbitrary code execution via FunJSQ, which is a third-party module for online game acceleration.
+
+
+
+Researchers at security and compliance assessment firm Onekey warns of an arbitrary code execution via FunJSQ,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter pranksters derail GPT-3 bot with newly discovered “prompt injection” hack<a href="https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few Twitter users discovered how to hijack an automated tweet bot, dedicated to remote jobs, running on the GPT-3 language model by OpenAI, using a newly discovered technique called a "prompt injection attack."
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Tank Management System Used Worldwide Has Unpatched Security Hole<a href="https://www.securityweek.com/water-tank-management-system-used-worldwide-has-unpatched-security-hole?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A water tank management system used by organizations worldwide is affected by a critical vulnerability that can be exploited remotely and the vendor does not appear to want to patch it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

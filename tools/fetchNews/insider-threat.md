@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass says hackers had internal access for four days<a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass says the attacker&nbsp;behind the August security breach had internal access to the company's systems for four days until they were detected and evicted.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

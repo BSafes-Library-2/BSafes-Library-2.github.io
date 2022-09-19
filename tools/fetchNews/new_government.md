@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Stuxnet bug to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/135853/security/known-exploited-vulnerabilities-catalog-stuxnet-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds new vulnerabilities to its Known Exploited Vulnerabilities Catalog, including the bug used in the Stuxnet attacks.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
