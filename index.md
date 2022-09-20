@@ -34,6 +34,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT giants warn of ongoing Chromeloader malware campaigns<a href="https://securityaffairs.co/wordpress/135949/malware/chromeloader-malware-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware and Microsoft are warning of a widespread Chromeloader malware campaign that distributes several malware families.
+
+
+
+ChromeLoader is a malicious Chrome browser extension, it is classified as a pervasive browser hijacker that modifies browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 19, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
