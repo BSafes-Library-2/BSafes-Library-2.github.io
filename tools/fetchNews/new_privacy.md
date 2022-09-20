@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU moves to protect journalists from spyware<a href="https://therecord.media/eu-moves-to-protect-journalists-from-spyware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alongside measures promoting ownership transparency and editorial independence, the European Media Freedom Act (EMFA) proposed on Friday will introduce “strong safeguards against the use of spyware against media, journalists and their families.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

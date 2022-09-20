@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Botnet Started Distributing Quantum and BlackCat Ransomware<a href="https://thehackernews.com/2022/09/emotet-botnet-started-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware is now being leveraged by ransomware-as-a-service (RaaS) groups, including Quantum and BlackCat, after&nbsp; Conti's official retirement &nbsp;from the threat landscape this year.  Emotet &nbsp;started off as a banking trojan in 2014, but updates added to it over time have transformed the malware into a highly potent threat that's capable of downloading other payloads onto the victim's machine, which would allow the attacker to control it remotely.  Although the infrastructure associated with the invasive malware loader was taken down as part of a law enforcement effort in January 2021, the Conti ransomware cartel is said to have&nbsp; played an instrumental role &nbsp;in its comeback late last year.   "From November 2021 to Conti's dissolution in June 2022, Emotet was an exclusive Conti ransomware tool, however, the Emotet infection chain is currently attributed to Quantum and BlackCat," AdvIntel&nbsp; said &nbsp;in an advisory published last week.  Typical attack sequences
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How botnet attacks work and how to defend against them<a href="https://www.bleepingcomputer.com/news/security/how-botnet-attacks-work-and-how-to-defend-against-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts believe that the development of serverless technologies will further simplify the creation of botnets for DDoS attacks. Here's how Gcore can counter these threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

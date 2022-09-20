@@ -34,6 +34,442 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT giants warn of ongoing Chromeloader malware campaigns<a href="https://securityaffairs.co/wordpress/135949/malware/chromeloader-malware-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware and Microsoft are warning of a widespread Chromeloader malware campaign that distributes several malware families.
+
+
+
+ChromeLoader is a malicious Chrome browser extension, it is classified as a pervasive browser hijacker that modifies browser...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines discloses data breach after employee email compromise<a href="https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Airlines has notified customers of a recent data breach after attackers compromised an undisclosed number of employee email accounts and gained access to sensitive personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU moves to protect journalists from spyware<a href="https://therecord.media/eu-moves-to-protect-journalists-from-spyware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alongside measures promoting ownership transparency and editorial independence, the European Media Freedom Act (EMFA) proposed on Friday will introduce “strong safeguards against the use of spyware against media, journalists and their families.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rockstar Games Confirms Hacker Stole Early Grand Theft Auto VI Footage<a href="https://thehackernews.com/2022/09/rockstar-games-confirms-hacker-stole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American video game publisher Rockstar Games  on Monday revealed it was a victim of a "network intrusion" that allowed an unauthorized party to illegally download early footage for the Grand Theft Auto VI.  "At this time, we do not anticipate any disruption to our live game services nor any long-term effect on the development of our ongoing projects," the company  said  in a notice shared on its social media handles.   The company said that the third-party accessed "confidential information from our systems," although it's not immediately clear if it involved any other data beyond the game footage.  The trove of data, contains some 90 videos of clips from the game, leaked over the weekend on  GTAForums  by a user with an alias "teapotuberhacker," hinting that the party is also the same person responsible for the  recent Uber breach .   The Uber hacker, who is going by the name  Tea Pot , is believed to be an 18-year-old teenager. No other de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revolut security breach: data of +50,000 users exposed<a href="https://securityaffairs.co/wordpress/135935/data-breach/revolut-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Revolut has suffered a cyberattack, threat actors have had access to personal information of tens of thousands of customers.
+
+
+
+The financial technology company Revolut suffered a 'highly targeted' cyberattack over the weekend, threat actors had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft 365 phishing attacks impersonate U.S. govt agencies<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-impersonate-us-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing campaign targeting U.S. government contractors has expanded its operation to push higher-quality lures and better-crafted documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: September 30 deadline for Demat account holders to enable 2-factor authentication<a href="https://www.hindustantimes.com/business/sept-30-deadline-for-demat-account-holders-to-enable-2-factor-authentication-101663500113743.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a notification issued by the National Stock Exchange (NSE) on June 14, the two-factor authentication can be done using biometric authentication along with the knowledge/possession factor.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Botnet Started Distributing Quantum and BlackCat Ransomware<a href="https://thehackernews.com/2022/09/emotet-botnet-started-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware is now being leveraged by ransomware-as-a-service (RaaS) groups, including Quantum and BlackCat, after  Conti's official retirement  from the threat landscape this year.  Emotet  started off as a banking trojan in 2014, but updates added to it over time have transformed the malware into a highly potent threat that's capable of downloading other payloads onto the victim's machine, which would allow the attacker to control it remotely.  Although the infrastructure associated with the invasive malware loader was taken down as part of a law enforcement effort in January 2021, the Conti ransomware cartel is said to have  played an instrumental role  in its comeback late last year.   "From November 2021 to Conti's dissolution in June 2022, Emotet was an exclusive Conti ransomware tool, however, the Emotet infection chain is currently attributed to Quantum and BlackCat," AdvIntel  said  in an advisory published last week.  Typical attack sequences
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Grand Theft Auto 6 (GTA6) gameplay videos and source code leaked online<a href="https://securityaffairs.co/wordpress/135923/data-breach/gta6-gameplay-videos-source-code-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors leaked source code and gameplay videos of Grand Theft Auto 6 (GTA6) after they have allegedly breached Rockstar Game.
+
+
+
+Threat actors allegedly compromised Rockstar Game's Slack server and Confluence wiki and leaked Grand Theft Auto 6 gameplay...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm hackers pose as Ukrainian telcos to drop malware<a href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-ukrainian-telcos-to-drop-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored hacking group known as Sandworm has been observed masquerading as telecommunication providers to target Ukrainian entities with malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High severity vulnerabilities found in Harbor open-source artifact registry<a href="https://www.helpnetsecurity.com/2022/09/19/vulnerabilities-harbor-open-source-artifact-registry/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oxeye security researchers have uncovered several new high severity variants of the Insecure Director Object Reference (IDOR) vulnerabilities in CNCF-graduated project Harbor, the popular open-source artifact registry by VMware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams' GIFShell Attack: What Is It and How You Can Protect Yourself from It<a href="https://thehackernews.com/2022/09/microsoft-teams-gifshell-attack-what-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations and security teams work to protect themselves from any vulnerability, and often don't realize that risk is also brought on by configurations in their SaaS apps that have not been hardened. The newly published GIFShell attack method, which occurs through Microsoft Teams, is a perfect example of how threat actors can exploit legitimate features and configurations that haven't been correctly set. This article takes a look at what the method entails and the steps needed to combat it.   The GifShell Attack Method  Discovered by Bobby Rauch , the GIFShell attack technique enables bad actors to exploit several Microsoft Teams features to act as a C&C for malware, and exfiltrate data using GIFs without being detected by EDR and other network monitoring tools. This attack method requires a device or user that is already compromised.   Learn how an SSPM can assess, monitor and remediate SaaS misconfigurations and Device-to-SaaS user risk .  The main component of this a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT is back and targets servers to run Bitcoin encryption solvers<a href="https://securityaffairs.co/wordpress/135911/cyber-crime/teamtnt-is-back-encryption-solvers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AquaSec researchers observed the cybercrime gang TeamTNT hijacking servers to run Bitcoin solver since early September.
+
+
+
+In the first week of September, AquaSec researchers identified at least three different attacks targeting their honeypots, the experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber links breach to Lapsus$ group, blames contractor for hack<a href="https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber believes the hacker behind last week's breach is affiliated with the Lapsus$ extortion group, known for breaching other high-profile tech companies such as Microsoft, Cisco, Nvidia, Samsung, and Okta.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: CERT-In issues advisory of ‘Best Practices’ to protect against online fraud while using smartphones<a href="https://www.hindustantimes.com/technology/how-to-protect-smartphone-from-online-fraud-follow-these-government-guidelines-101663490800692.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advisory asks users to be cautious while downloading applications. It can be harmful to download apps from sources other than the official app stores only; Google Play Store and App Store.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol and Bitdefender Release Free Decryptor for LockerGoga Ransomware<a href="https://thehackernews.com/2022/09/europol-and-bitdefender-release-free.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A decryptor for the LockerGoga ransomware has been  made available  by Romanian cybersecurity firm Bitdefender in collaboration with Europol, the No More Ransom project, and Zürich law enforcement authorities.  Identified in January 2019, LockerGoga drew headlines for its attacks against the Norwegian aluminum giant  Norsk Hydro . It's said to have infected more than 1,800 victims in 71 countries, causing an estimated $104 million in damages.   The ransomware operation received a significant blow in October 2021 when 12 people in connection with the group, alongside MegaCortex and Dharma, were apprehended as part of an  international law enforcement effort .   The arrests, which took place in Ukraine and Switzerland, also saw the seizure of cash worth $52,000, five luxury vehicles, and a number of electronic devices. One of the accused is currently in pretrial detention in Zurich.  The Zurich Cantonal Police further said it spent the past months examining the data storage devices
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of critical flaws in Flexlan devices that provide WiFi on airplanes<a href="https://securityaffairs.co/wordpress/135898/security/flexlan-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered two critical vulnerabilities (CVE–2022–36158 and CVE–2022–36159) in Flexlan devices that provide WiFi on airplanes.
+
+
+
+Researchers from Necrum Security Labs discovered a couple of critical vulnerabilities, tracked as CVE–2022–36158...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware, Microsoft warn of widespread Chromeloader malware attacks<a href="https://www.bleepingcomputer.com/news/security/vmware-microsoft-warn-of-widespread-chromeloader-malware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Chromeloader adware are evolving their attack methods and gradually transforming the low-risk tool into a dangerous malware loader, seen dropping ransomware in some cases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 'Vindictive' couple behind IHG hack deleted hotel chain data for fun<a href="https://www.bbc.com/news/technology-62937678?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Describing themselves as a couple from Vietnam, they say they first tried a ransomware attack, then deleted large amounts of data when they were foiled. An expert says the case highlights the vindictive side of criminal hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Large-Scale Click Fraud Campaign Targeting Gamers<a href="https://thehackernews.com/2022/09/microsoft-warns-of-large-scale-click.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it's tracking an ongoing large-scale click fraud campaign targeting gamers by means of stealthily deployed browser extensions on compromised systems.  "[The] attackers monetize clicks generated by a browser node-webkit or malicious browser extension secretly installed on devices," Microsoft Security Intelligence said  in a sequence of tweets over the weekend.  The tech giant's cybersecurity division is tracking the developing threat cluster under the name DEV-0796.   Attach chains mounted by the adversary commence with an ISO file that's downloaded onto a victim's machine upon clicking on a malicious ad or comments on YouTube. The ISO file, when opened, is designed to install a browser node-webkit (aka  NW.js ) or rogue browser extension.   It's worth noting that the  ISO file  masquerades as hacks and cheats for the Krunker first-person shooter game. Cheats are programs that help gamers gain an added advantage beyond the available capabili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revolut hack exposes data of 50,000 users, fuels new phishing wave<a href="https://www.bleepingcomputer.com/news/security/revolut-hack-exposes-data-of-50-000-users-fuels-new-phishing-wave/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Revolut is sending out notices of a data breach to a small percentage of impacted users, informing them of a security incident where an unauthorized third party accessed internal data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ClearBalance data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/clearbalance-data-breach-class-action-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement benefits a nationwide Class of individuals whose personal identifying information was compromised in the CSI Financial Services data breach between March 8, 2021, and April 26, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Top Class Actions
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How botnet attacks work and how to defend against them<a href="https://www.bleepingcomputer.com/news/security/how-botnet-attacks-work-and-how-to-defend-against-them/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts believe that the development of serverless technologies will further simplify the creation of botnets for DDoS attacks. Here's how Gcore can counter these threats.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gamaredon Campaign Targets Ukrainian entities with New Info-stealer<a href="https://cyware.com/news/new-gamaredon-campaign-targets-ukrainian-entities-with-new-info-stealer-9976fab9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyberespionage campaign by Gamaredon is targeting employees from the Ukrainian government, law enforcement, and defense agencies, with custom-made malware. Researchers claim that its new infostealer is capable of stealing files from attached storage devices (local and remote).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Routers impacted by FunJSQ Game Acceleration Module flaw<a href="https://securityaffairs.co/wordpress/135887/security/netgear-game-acceleration-module-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at security firm Onekey warned of an arbitrary code execution flaw via FunJSQ, a third-party module developed by Xiamen Xunwang Network Technology for online game acceleration, that impacts multiple Netgear router models.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Dieguito High School 1.75M Data Breach Settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/san-dieguito-high-school-1-75m-data-breach-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement benefits individuals who had an Aeries account through the San Dieguito Union High School District during the Aeries Software data breach around November 4, 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Top Class Actions
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

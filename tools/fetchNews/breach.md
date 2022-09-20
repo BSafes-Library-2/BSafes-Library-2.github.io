@@ -8,6 +8,84 @@ nav_order: 900029
 
 ## Breach
 ---
+September 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GTA 6 source code and videos leaked after Rockstar Games hack<a href="https://www.bleepingcomputer.com/news/security/gta-6-source-code-and-videos-leaked-after-rockstar-games-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grand Theft Auto 6 gameplay videos and source code have been leaked after a hacker allegedly breached Rockstar Game's Slack server and Confluence wiki.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber says there is no evidence that users’ private information was compromised<a href="https://securityaffairs.co/wordpress/135876/data-breach/uber-data-breach-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber hack update: There is no evidence that users' private information was compromised in the data breach.
+
+
+
+Uber provided an update regarding the recent security breach of its internal computer systems, the company confirmed that there is no evidence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Claims No Sensitive Data Exposed in Latest Breach… But There's More to This<a href="https://thehackernews.com/2022/09/uber-claims-no-sensitive-data-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber, in an update, said there is "no evidence" that users' private information was compromised in a breach of its internal computer systems that was discovered late Thursday.  "We have no evidence that the incident involved access to sensitive user data (like trip history)," the company&nbsp; said . "All of our services including Uber, Uber Eats, Uber Freight, and the Uber Driver app are operational."  The ride-hailing company also said it's brought back online all the internal software tools it took down previously as a precaution, reiterating it's notified law enforcement of the matter.  It's not immediately clear if the incident resulted in the theft of any other information or how long the intruder was inside Uber's network.  Uber has not provided more specifics of how the incident played out beyond saying its investigation and response efforts are ongoing. But independent security researcher Bill Demirkapi characterized Uber's &amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass revealed that intruders had internal access for four days during the August hack<a href="https://securityaffairs.co/wordpress/135869/hacking/lastpass-august-hack-notice.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Password management solution LastPass revealed that the threat actors had access to its systems for four days during the August hack.
+
+
+
+Password management solution LastPass shared more details about the security breach that the company suffered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York ambulance service discloses data breach after ransomware attack<a href="https://www.bleepingcomputer.com/news/security/new-york-ambulance-service-discloses-data-breach-after-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Empress EMS (Emergency Medical Services), a New York-based emergency response and ambulance service provider, has disclosed a data breach that exposed customer information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

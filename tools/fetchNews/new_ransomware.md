@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol and Bitdefender Release Free Decryptor for LockerGoga Ransomware<a href="https://thehackernews.com/2022/09/europol-and-bitdefender-release-free.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A decryptor for the LockerGoga ransomware has been&nbsp; made available &nbsp;by Romanian cybersecurity firm Bitdefender in collaboration with Europol, the No More Ransom project, and Zürich law enforcement authorities.  Identified in January 2019, LockerGoga drew headlines for its attacks against the Norwegian aluminum giant&nbsp; Norsk Hydro . It's said to have infected more than 1,800 victims in 71 countries, causing an estimated $104 million in damages.   The ransomware operation received a significant blow in October 2021 when 12 people in connection with the group, alongside MegaCortex and Dharma, were apprehended as part of an&nbsp; international law enforcement effort .   The arrests, which took place in Ukraine and Switzerland, also saw the seizure of cash worth $52,000, five luxury vehicles, and a number of electronic devices. One of the accused is currently in pretrial detention in Zurich.  The Zurich Cantonal Police further said it spent the past months examining the data storage devices
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

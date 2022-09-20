@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gamaredon Campaign Targets Ukrainian entities with New Info-stealer<a href="https://cyware.com/news/new-gamaredon-campaign-targets-ukrainian-entities-with-new-info-stealer-9976fab9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyberespionage campaign by Gamaredon is targeting employees from the Ukrainian government, law enforcement, and defense agencies, with custom-made malware. Researchers claim that its new infostealer is capable of stealing files from attached storage devices (local and remote).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

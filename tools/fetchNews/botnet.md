@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet now pushes Quantum and BlackCat ransomware<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-now-pushes-quantum-and-blackcat-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While monitoring the Emotet botnet's current activity, security researchers found that the malware is now being used by the&nbsp;Quantum and BlackCat ransomware gang to deploy their payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

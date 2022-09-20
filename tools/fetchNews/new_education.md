@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Teams' GIFShell Attack: What Is It and How You Can Protect Yourself from It<a href="https://thehackernews.com/2022/09/microsoft-teams-gifshell-attack-what-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations and security teams work to protect themselves from any vulnerability, and often don't realize that risk is also brought on by configurations in their SaaS apps that have not been hardened. The newly published GIFShell attack method, which occurs through Microsoft Teams, is a perfect example of how threat actors can exploit legitimate features and configurations that haven't been correctly set. This article takes a look at what the method entails and the steps needed to combat it.&nbsp;  The GifShell Attack Method  Discovered by Bobby Rauch , the GIFShell attack technique enables bad actors to exploit several Microsoft Teams features to act as a C&amp;C for malware, and exfiltrate data using GIFs without being detected by EDR and other network monitoring tools. This attack method requires a device or user that is already compromised.&nbsp;  Learn how an SSPM can assess, monitor and remediate SaaS misconfigurations and Device-to-SaaS user risk .  The main component of this a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

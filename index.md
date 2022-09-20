@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT giants warn of ongoing Chromeloader malware campaigns<a href="https://securityaffairs.co/wordpress/135949/malware/chromeloader-malware-campaigns.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Airlines discloses data breach after employee email compromise<a href="https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU moves to protect journalists from spyware<a href="https://therecord.media/eu-moves-to-protect-journalists-from-spyware/?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rockstar Games Confirms Hacker Stole Early Grand Theft Auto VI Footage<a href="https://thehackernews.com/2022/09/rockstar-games-confirms-hacker-stole.html"> Full Text</a>
@@ -102,7 +102,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revolut security breach: data of +50,000 users exposed<a href="https://securityaffairs.co/wordpress/135935/data-breach/revolut-data-breach.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft 365 phishing attacks impersonate U.S. govt agencies<a href="https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-impersonate-us-govt-agencies/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: September 30 deadline for Demat account holders to enable 2-factor authentication<a href="https://www.hindustantimes.com/business/sept-30-deadline-for-demat-account-holders-to-enable-2-factor-authentication-101663500113743.html?&web_view=true"> Full Text</a>
@@ -154,7 +154,7 @@ Hindustan Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Botnet Started Distributing Quantum and BlackCat Ransomware<a href="https://thehackernews.com/2022/09/emotet-botnet-started-distributing.html"> Full Text</a>
@@ -170,7 +170,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged Grand Theft Auto 6 (GTA6) gameplay videos and source code leaked online<a href="https://securityaffairs.co/wordpress/135923/data-breach/gta6-gameplay-videos-source-code-leak.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm hackers pose as Ukrainian telcos to drop malware<a href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-ukrainian-telcos-to-drop-malware/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High severity vulnerabilities found in Harbor open-source artifact registry<a href="https://www.helpnetsecurity.com/2022/09/19/vulnerabilities-harbor-open-source-artifact-registry/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Teams' GIFShell Attack: What Is It and How You Can Protect Yourself from It<a href="https://thehackernews.com/2022/09/microsoft-teams-gifshell-attack-what-is.html"> Full Text</a>
@@ -238,7 +238,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT is back and targets servers to run Bitcoin encryption solvers<a href="https://securityaffairs.co/wordpress/135911/cyber-crime/teamtnt-is-back-encryption-solvers.html"> Full Text</a>
@@ -258,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber links breach to Lapsus$ group, blames contractor for hack<a href="https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: CERT-In issues advisory of ‘Best Practices’ to protect against online fraud while using smartphones<a href="https://www.hindustantimes.com/technology/how-to-protect-smartphone-from-online-fraud-follow-these-government-guidelines-101663490800692.html?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Hindustan Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol and Bitdefender Release Free Decryptor for LockerGoga Ransomware<a href="https://thehackernews.com/2022/09/europol-and-bitdefender-release-free.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of critical flaws in Flexlan devices that provide WiFi on airplanes<a href="https://securityaffairs.co/wordpress/135898/security/flexlan-critical-flaws.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware, Microsoft warn of widespread Chromeloader malware attacks<a href="https://www.bleepingcomputer.com/news/security/vmware-microsoft-warn-of-widespread-chromeloader-malware-attacks/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 'Vindictive' couple behind IHG hack deleted hotel chain data for fun<a href="https://www.bbc.com/news/technology-62937678?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ BBC
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Large-Scale Click Fraud Campaign Targeting Gamers<a href="https://thehackernews.com/2022/09/microsoft-warns-of-large-scale-click.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revolut hack exposes data of 50,000 users, fuels new phishing wave<a href="https://www.bleepingcomputer.com/news/security/revolut-hack-exposes-data-of-50-000-users-fuels-new-phishing-wave/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ClearBalance data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/clearbalance-data-breach-class-action-settlement/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Top Class Actions
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How botnet attacks work and how to defend against them<a href="https://www.bleepingcomputer.com/news/security/how-botnet-attacks-work-and-how-to-defend-against-them/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Gamaredon Campaign Targets Ukrainian entities with New Info-stealer<a href="https://cyware.com/news/new-gamaredon-campaign-targets-ukrainian-entities-with-new-info-stealer-9976fab9"> Full Text</a>
@@ -438,7 +438,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Routers impacted by FunJSQ Game Acceleration Module flaw<a href="https://securityaffairs.co/wordpress/135887/security/netgear-game-acceleration-module-flaw.html?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2022
+September 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Dieguito High School 1.75M Data Breach Settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/san-dieguito-high-school-1-75m-data-breach-settlement/?&web_view=true"> Full Text</a>

@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT is back and targets servers to run Bitcoin encryption solvers<a href="https://securityaffairs.co/wordpress/135911/cyber-crime/teamtnt-is-back-encryption-solvers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AquaSec researchers observed the cybercrime gang TeamTNT hijacking servers to run Bitcoin solver since early September.
+
+
+
+In the first week of September, AquaSec researchers identified at least three different attacks targeting their honeypots, the experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 'Vindictive' couple behind IHG hack deleted hotel chain data for fun<a href="https://www.bbc.com/news/technology-62937678?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Describing themselves as a couple from Vietnam, they say they first tried a ransomware attack, then deleted large amounts of data when they were foiled. An expert says the case highlights the vindictive side of criminal hackers.
+</details>
+<div style="text-align: right" markdown="1">
+BBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

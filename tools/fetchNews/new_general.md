@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: September 30 deadline for Demat account holders to enable 2-factor authentication<a href="https://www.hindustantimes.com/business/sept-30-deadline-for-demat-account-holders-to-enable-2-factor-authentication-101663500113743.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a notification issued by the National Stock Exchange (NSE) on June 14, the two-factor authentication can be done using biometric authentication along with the knowledge/possession factor.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
