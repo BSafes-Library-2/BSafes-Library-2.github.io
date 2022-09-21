@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: CERT-In issues advisory of ‘Best Practices’ to protect against online fraud while using smartphones<a href="https://www.hindustantimes.com/technology/how-to-protect-smartphone-from-online-fraud-follow-these-government-guidelines-101663490800692.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advisory asks users to be cautious while downloading applications. It can be harmful to download apps from sources other than the official app stores only; Google Play Store and App Store.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

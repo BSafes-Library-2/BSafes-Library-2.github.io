@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $162 million from Wintermute crypto market maker<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-162-million-from-wintermute-crypto-market-maker/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital assets trading firm Wintermute has been hacked and lost $162.2&nbsp;million in DeFi operations, the company CEO,&nbsp;Evgeny Gaevoy, announced earlier today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Market Maker Wintermute Loses $160 Million in DeFi Hack<a href="https://techcrunch.com/2022/09/20/crypto-market-maker-wintermute-loses-160-million-in-defi-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wintermute, a leading crypto market maker, has lost about $160 million in a hack, a top executive said Tuesday, becoming the latest firm in the industry to suffer a breach.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

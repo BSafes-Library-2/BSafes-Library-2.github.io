@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Management Fatigue Fueled by Non-Exploitable Bugs<a href="https://www.securityweek.com/vulnerability-management-fatigue-fueled-non-exploitable-bugs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are faced with a backlog of 100,000 vulnerabilities within their systems. Not all are exploitable – in fact, 85% cannot or cannot really be exploited. Nevertheless, 15,000 remaining vulnerabilities is a frightening number.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Fatigue: Hackers’ new favorite tactic in high-profile breaches<a href="https://www.bleepingcomputer.com/news/security/mfa-fatigue-hackers-new-favorite-tactic-in-high-profile-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are more frequently using social engineering attacks to gain access to corporate credentials and breach large networks. One component of these attacks that is becoming more popular with the rise of multi-factor authentication is a technique called MFA Fatigue.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

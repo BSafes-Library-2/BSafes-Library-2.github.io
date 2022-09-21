@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High severity vulnerabilities found in Harbor open-source artifact registry<a href="https://www.helpnetsecurity.com/2022/09/19/vulnerabilities-harbor-open-source-artifact-registry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oxeye security researchers have uncovered several new high severity variants of the Insecure Director Object Reference (IDOR) vulnerabilities in CNCF-graduated project Harbor, the popular open-source artifact registry by VMware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of critical flaws in Flexlan devices that provide WiFi on airplanes<a href="https://securityaffairs.co/wordpress/135898/security/flexlan-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered two critical vulnerabilities (CVE–2022–36158 and CVE–2022–36159) in Flexlan devices that provide WiFi on airplanes.
+
+
+
+Researchers from Necrum Security Labs discovered a couple of critical vulnerabilities, tracked as CVE–2022–36158...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

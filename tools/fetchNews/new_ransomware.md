@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware claims attack on New York Racing Association<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-attack-on-new-york-racing-association/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware operation claimed responsibility for an attack on the New York Racing Association (NYRA), which previously disclosed that a cyber attack on June 30, 2022, impacted IT operations and website availability and compromised member data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

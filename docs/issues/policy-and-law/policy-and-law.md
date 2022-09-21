@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Court Rules Against German Data Collection Law<a href="https://www.securityweek.com/eu-court-rules-against-german-data-collection-law?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firms Telekom Deutschland and SpaceNet took action in the German courts challenging the law that obliged telecom companies to retain customers' traffic and location data for several weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China: Cybersecurity law violators to face heavier penalties<a href="https://www.chinadaily.com.cn/a/202209/19/WS63288b98a310fd2b29e7882b.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberspace Administration of China proposed a set of amendments to the Cybersecurity Law last week that would raise the size of fines for some violations and diversify penalties for infractions committed by operators of critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+China Daily
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

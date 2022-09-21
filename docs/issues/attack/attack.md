@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber believes that the LAPSUS$ gang is behind the recent attack<a href="https://securityaffairs.co/wordpress/135980/cyber-crime/uber-hacked-by-lapsus-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber disclosed additional details about the security breach, the company blames a threat actor allegedly affiliated with the LAPSUS$ hacking group.
+
+
+
+Uber revealed additional details about the recent security breach, the company believes that the threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bosnia and Herzegovina Investigating Alleged Ransomware Attack on Parliament<a href="https://therecord.media/bosnia-and-herzegovina-investigating-alleged-ransomware-attack-on-parliament/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the prosecutor would not say what type of attack it is, sources confirmed to Nezavisne that it involved ransomware. The Sarajevo Times reported that the main server of parliament was shut off after the attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

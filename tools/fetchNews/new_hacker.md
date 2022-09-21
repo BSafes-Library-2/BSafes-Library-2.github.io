@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm Hackers Impersonate Ukrainian Telecoms to Distribute Malware<a href="https://thehackernews.com/2022/09/russian-sandworm-hackers-impersonate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat cluster linked to the Russian nation-state actor tracked as Sandworm has continued its targeting of Ukraine with commodity malware by masquerading as telecom providers, new findings show.  Recorded Future said it discovered new infrastructure belonging to UAC-0113 that mimics operators like Datagroup and EuroTransTelecom to deliver payloads such as&nbsp; Colibri loader &nbsp;and&nbsp; Warzone RAT .  The attacks are said to be an expansion of the&nbsp; same campaign &nbsp;that previously distributed&nbsp; DCRat &nbsp;(or DarkCrystal RAT) using phishing emails with legal aid-themed lures against providers of telecommunications in Ukraine.   Sandworm is a&nbsp; destructive Russian threat group &nbsp;that's best known for carrying out attacks such as the 2015 and 2016 targeting of Ukrainian electrical grid and 2017's NotPetya attacks. It's confirmed to be Unit 74455 of Russia's GRU military intelligence agency.  The adversarial collective, also known as Voodoo Bear, sought to damage high-voltage electrical s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

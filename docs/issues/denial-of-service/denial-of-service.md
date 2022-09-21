@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Imperva mitigated long-lasting, 25.3 billion request DDoS attack<a href="https://www.bleepingcomputer.com/news/security/imperva-mitigated-long-lasting-253-billion-request-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet security company Imperva has announced its DDoS (distributed denial of service) mitigation solution has broken a new record, defending against a single attack that sent over 25.3 billion requests to one of its customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

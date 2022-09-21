@@ -8,6 +8,80 @@ nav_order: 900072
 
 ## General
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantifying ROI in Cybersecurity Spend<a href="https://www.securityweek.com/quantifying-roi-cybersecurity-spend?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When it comes to cybersecurity, there are too many variables on both the attack and defense sides to easily calculate the return on investment (ROI) for specific expenditures.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing IP Addresses to Prevent Fraud for Enterprises<a href="https://securityaffairs.co/wordpress/135975/security/preventing-fraud-for-enterprises.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How can businesses protect themselves from fraudulent activities by examining IP addresses?
+
+
+
+The police would track burglars if they left calling cards at the attacked properties. Internet fraudsters usually leave a trail of breadcrumbs whenever they...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Countering the Future Growth of Ransomware<a href="https://www.cfr.org/blog/countering-future-growth-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has grown into a major threat to organizations globally. The United States and its partners should work through international institutions to prevent ransomware gangs from expanding into other countries.
+</details>
+<div style="text-align: right" markdown="1">
+CFR
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 8 takeaways from the VMWare Cybersecurity Threat Report<a href="https://www.bleepingcomputer.com/news/security/top-8-takeaways-from-the-vmware-cybersecurity-threat-report/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has recently released the 2022 edition of its annual Global Incident Response Threat Report. It is critically important for IT professionals to understand these trends and what they could mean for your organization's cyber security efforts. Let's break down VMware's 8 key findings and offer meaningful insights into each.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Infrastructure Takes Center Stage<a href="https://securityboulevard.com/2022/09/critical-infrastructure-takes-center-stage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every service provider that may be a valuable target for attackers needs to take into account how their IT infrastructure may be vulnerable. Modern networks are diverse and uncentralized, opening companies to greater risk along their supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

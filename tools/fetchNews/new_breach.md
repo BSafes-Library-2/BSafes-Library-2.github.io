@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2K Games says hacked help desk targeted players with malware<a href="https://www.bleepingcomputer.com/news/security/2k-games-says-hacked-help-desk-targeted-players-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American video game publisher 2K has confirmed that its help desk platform was hacked and used to target customers with fake support tickets pushing malware via embedded links.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Blames LAPSUS$ Hacking Group for Recent Security Breach<a href="https://thehackernews.com/2022/09/uber-blames-lapsus-hacking-group-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber on Monday disclosed more details related to the&nbsp; security incident &nbsp;that happened last week, pinning the attack on a threat actor it believes is affiliated to the notorious LAPSUS$ hacking group.  "This group typically uses similar techniques to target technology companies, and in 2022 alone has breached Microsoft, Cisco, Samsung, NVIDIA, and Okta, among others," the San Francisco-based company&nbsp; said &nbsp;in an update.  The financially-motivated extortionist gang was dealt a huge blow in March 2022 when the City of London Police&nbsp; moved to arrest &nbsp;seven suspected LAPSUS$ gang members aged between 16 and 21. Weeks later, two of them were charged for their actions.  The hacker behind the Uber breach, an 18-year-old teenager who goes by the moniker Tea Pot, has also claimed responsibility for breaking into video game maker&nbsp; Rockstar Games &nbsp;over the weekend.   Uber said it's working with "several leading digital forensics firms" as the company's investigation i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines disclosed a data breach<a href="https://securityaffairs.co/wordpress/135963/data-breach/american-airlines-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Airlines disclosed a data breach, threat actors had access to an undisclosed number of&nbsp;employee&nbsp;email accounts.
+
+
+
+American Airlines recently suffered a data breach, threat actors compromised a limited number of&nbsp;employee&nbsp;email accounts.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2K game support hacked to email RedLine info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/2k-game-support-hacked-to-email-redline-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have compromised the support system of American video game publisher 2K and now are sending support tickets to gamers containing the RedLine password-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

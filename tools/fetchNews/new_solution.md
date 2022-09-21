@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 22H2 adds kernel exploit protection to security baseline<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-adds-kernel-exploit-protection-to-security-baseline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released the final version of security configuration baseline settings for Windows 11, version 22H2, downloadable today using the Microsoft Security Compliance Toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender for Endpoint will turn on tamper protection by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-will-turn-on-tamper-protection-by-default/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says tamper protection will soon be turned on by default for all enterprise customers in Microsoft Defender for Endpoint (MDE) for better defense against ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

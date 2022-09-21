@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm hackers pose as Ukrainian telcos to drop malware<a href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-ukrainian-telcos-to-drop-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored hacking group known as Sandworm has been observed masquerading as telecommunication providers to target Ukrainian entities with malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

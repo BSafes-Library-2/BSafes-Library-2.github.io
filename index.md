@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Imperva mitigated long-lasting, 25.3 billion request DDoS attack<a href="https://www.bleepingcomputer.com/news/security/imperva-mitigated-long-lasting-253-billion-request-ddos-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Court Rules Against German Data Collection Law<a href="https://www.securityweek.com/eu-court-rules-against-german-data-collection-law?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm Hackers Impersonate Ukrainian Telecoms to Distribute Malware<a href="https://thehackernews.com/2022/09/russian-sandworm-hackers-impersonate.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm APT impersonates Ukrainian telcos to deliver malware<a href="https://securityaffairs.co/wordpress/135996/apt/sandworm-targets-ukraine-teleco.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2K Games says hacked help desk targeted players with malware<a href="https://www.bleepingcomputer.com/news/security/2k-games-says-hacked-help-desk-targeted-players-with-malware/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantifying ROI in Cybersecurity Spend<a href="https://www.securityweek.com/quantifying-roi-cybersecurity-spend?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber Blames LAPSUS$ Hacking Group for Recent Security Breach<a href="https://thehackernews.com/2022/09/uber-blames-lapsus-hacking-group-for.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber believes that the LAPSUS$ gang is behind the recent attack<a href="https://securityaffairs.co/wordpress/135980/cyber-crime/uber-hacked-by-lapsus-group.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 22H2 adds kernel exploit protection to security baseline<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-adds-kernel-exploit-protection-to-security-baseline/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Management Fatigue Fueled by Non-Exploitable Bugs<a href="https://www.securityweek.com/vulnerability-management-fatigue-fueled-non-exploitable-bugs?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analyzing IP Addresses to Prevent Fraud for Enterprises<a href="https://securityaffairs.co/wordpress/135975/security/preventing-fraud-for-enterprises.html"> Full Text</a>
@@ -222,7 +222,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware claims attack on New York Racing Association<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-attack-on-new-york-racing-association/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China: Cybersecurity law violators to face heavier penalties<a href="https://www.chinadaily.com.cn/a/202209/19/WS63288b98a310fd2b29e7882b.html?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ China Daily
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Airlines disclosed a data breach<a href="https://securityaffairs.co/wordpress/135963/data-breach/american-airlines-data-breach.html"> Full Text</a>
@@ -278,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2K game support hacked to email RedLine info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/2k-game-support-hacked-to-email-redline-info-stealing-malware/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Plans to Measure the Effect of Coming Standards on Industry’s Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/09/cisa-plans-measure-effect-coming-standards-industrys-cybersecurity/377363/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal $162 million from Wintermute crypto market maker<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-162-million-from-wintermute-crypto-market-maker/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Countering the Future Growth of Ransomware<a href="https://www.cfr.org/blog/countering-future-growth-ransomware?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ CFR
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 8 takeaways from the VMWare Cybersecurity Threat Report<a href="https://www.bleepingcomputer.com/news/security/top-8-takeaways-from-the-vmware-cybersecurity-threat-report/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bosnia and Herzegovina Investigating Alleged Ransomware Attack on Parliament<a href="https://therecord.media/bosnia-and-herzegovina-investigating-alleged-ransomware-attack-on-parliament/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Endpoint will turn on tamper protection by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-will-turn-on-tamper-protection-by-default/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government rejects ransom payment ban to spur disclosure<a href="https://www.cybersecuritydive.com/news/government-ransomware-guidance/632136/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Cybersecurity Dive
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Fatigue: Hackers’ new favorite tactic in high-profile breaches<a href="https://www.bleepingcomputer.com/news/security/mfa-fatigue-hackers-new-favorite-tactic-in-high-profile-breaches/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Market Maker Wintermute Loses $160 Million in DeFi Hack<a href="https://techcrunch.com/2022/09/20/crypto-market-maker-wintermute-loses-160-million-in-defi-hack/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Infrastructure Takes Center Stage<a href="https://securityboulevard.com/2022/09/critical-infrastructure-takes-center-stage/?&web_view=true"> Full Text</a>

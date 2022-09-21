@@ -8,6 +8,126 @@ nav_order: 900029
 
 ## Breach
 ---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines discloses data breach after employee email compromise<a href="https://www.bleepingcomputer.com/news/security/american-airlines-discloses-data-breach-after-employee-email-compromise/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Airlines has notified customers of a recent data breach after attackers compromised an undisclosed number of&nbsp;employee&nbsp;email accounts and gained access to sensitive personal information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rockstar Games Confirms Hacker Stole Early Grand Theft Auto VI Footage<a href="https://thehackernews.com/2022/09/rockstar-games-confirms-hacker-stole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American video game publisher Rockstar Games  on Monday revealed it was a victim of a "network intrusion" that allowed an unauthorized party to illegally download early footage for the Grand Theft Auto VI.  "At this time, we do not anticipate any disruption to our live game services nor any long-term effect on the development of our ongoing projects," the company&nbsp; said &nbsp;in a notice shared on its social media handles.   The company said that the third-party accessed "confidential information from our systems," although it's not immediately clear if it involved any other data beyond the game footage.  The trove of data, contains some 90 videos of clips from the game, leaked over the weekend on&nbsp; GTAForums &nbsp;by a user with an alias "teapotuberhacker," hinting that the party is also the same person responsible for the&nbsp; recent Uber breach .   The Uber hacker, who is going by the name&nbsp; Tea Pot , is believed to be an 18-year-old teenager. No other de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revolut security breach: data of +50,000 users exposed<a href="https://securityaffairs.co/wordpress/135935/data-breach/revolut-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Revolut&nbsp;has suffered a cyberattack, threat actors have had access to personal information of tens of thousands of customers.
+
+
+
+The financial technology company Revolut&nbsp;suffered a 'highly targeted' cyberattack over the weekend, threat actors had access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Grand Theft Auto 6 (GTA6) gameplay videos and source code leaked online<a href="https://securityaffairs.co/wordpress/135923/data-breach/gta6-gameplay-videos-source-code-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors leaked source code and gameplay videos of Grand Theft Auto 6 (GTA6) after they have allegedly breached Rockstar Game.
+
+
+
+Threat actors allegedly compromised Rockstar Game's Slack server and Confluence wiki and leaked Grand Theft Auto 6 gameplay...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber links breach to Lapsus$ group, blames contractor for hack<a href="https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber believes the hacker behind last week's breach is affiliated with the Lapsus$ extortion group, known for breaching other high-profile tech companies such as Microsoft, Cisco, Nvidia, Samsung, and Okta.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revolut hack exposes data of 50,000 users, fuels new phishing wave<a href="https://www.bleepingcomputer.com/news/security/revolut-hack-exposes-data-of-50-000-users-fuels-new-phishing-wave/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Revolut is sending out notices of a data breach to a small percentage of impacted users, informing them of a security incident where an unauthorized third party accessed internal data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ClearBalance data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/clearbalance-data-breach-class-action-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement benefits a nationwide Class of individuals whose personal identifying information was compromised in the CSI Financial Services data breach between March 8, 2021, and April 26, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Top Class Actions
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Dieguito High School 1.75M Data Breach Settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/san-dieguito-high-school-1-75m-data-breach-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement benefits individuals who had an Aeries account through the San Dieguito Union High School District during the Aeries Software data breach around November 4, 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Top Class Actions
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
