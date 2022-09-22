@@ -34,7 +34,487 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 gets better protection against SMB brute-force attacks<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-better-protection-against-smb-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that the Windows 11 SMB server is now better protected against brute-force attacks with the release of the Insider Preview Build 25206 to the Dev Channel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One freed from consent order tied to 2019 breach<a href="https://www.cybersecuritydive.com/news/capital-one-breach-cloud-treasury-consent-order/632183/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the termination of the consent order, Capital One is no longer required to submit quarterly updates detailing its risk management and auditing practices to the OCC, which it was required to do following the discovery of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 39,000 Unauthenticated Redis Instances Found Exposed on the Internet<a href="https://thehackernews.com/2022/09/over-39000-unauthenticated-redis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown attacker targeted tens of thousands of unauthenticated Redis servers exposed on the internet in an attempt to  install a cryptocurrency miner .  It's not immediately known if all of these hosts were successfully compromised. Nonetheless, it was made possible by means of a "lesser-known technique" designed to trick the servers into writing data to arbitrary files – a case of  unauthorized access  that was first documented in September 2018.  "The general idea behind this exploitation technique is to configure Redis to write its file-based database to a directory containing some method to authorize a user (like adding a key to '.ssh/authorized_keys'), or start a process (like adding a script to '/etc/cron.d')," Censys  said  in a new write-up.   The attack surface management platform said it uncovered evidence (i.e., Redis commands) indicating efforts on part of the attacker to store malicious  crontab entries  into the file "/var/
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 39K unauthenticated Redis services on the internet targeted in cryptocurrency campaign<a href="https://securityaffairs.co/wordpress/136045/hacking/redis-cryptocurrency-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted tens thousands of unauthenticated Redis servers exposed on the internet as part of a cryptocurrency campaign. 
+
+
+
+Redis, is a popular open source data structure tool that can be used as an in-memory distributed database, message...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Domain shadowing becoming more popular among cybercriminals<a href="https://www.bleepingcomputer.com/news/security/domain-shadowing-becoming-more-popular-among-cybercriminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts at Palo Alto Networks (Unit 42) discovered that the phenomenon of 'domain shadowing' might be more prevalent than previously thought, uncovering 12,197 cases while scanning the web between April and June 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: CERT-In warns of vulnerabilities in Zoom<a href="https://economictimes.indiatimes.com/tech/technology/cert-in-reports-vulnerabilities-in-zoom/articleshow/94328941.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber security agency said that vulnerabilities can be exploited by a remote attacker to join meetings they are authorized to join without appearing to other participants.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Trading Firm Wintermute Loses $160 Million in Hacking Incident<a href="https://thehackernews.com/2022/09/crypto-trading-firm-wintermute-loses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's the latest crypto heist to target the decentralized finance (DeFi) space, hackers have stolen digital assets worth around $160 million from crypto trading firm Wintermute .  The hack involved a series of unauthorized transactions that transferred USD Coin, Binance USD, Tether USD, Wrapped ETH, and 66 other cryptocurrencies to the  attacker's wallet .  The company said that its centralized finance (CeFi) and over-the-counter (OTC) operations have not been impacted by the security incident. It did not disclose when the hack took place.   The digital asset market maker, which provides liquidity to more several exchanges and crypto platforms, warned of disruption to its services in the coming days, but stressed that it's "solvent with twice over that amount in equity left."  "We are (still) open to treat[ing] this as a white hat, so if you are the attacker – get in touch," the company's founder and CEO, Evgeny Gaevoy,  said  in a tweet.  Detai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $160 Million from Crypto market maker Wintermute<a href="https://securityaffairs.co/wordpress/136029/hacking/wintermute-l160m-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen around $160 million worth of digital assets worth from crypto trading firm Wintermute.
+
+
+
+Malicious actors continue to target organizations in the cryptocurrency industry, the last victim in order of time is crypto trading...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter failed to log you out of all devices after password resets<a href="https://www.bleepingcomputer.com/news/security/twitter-failed-to-log-you-out-of-all-devices-after-password-resets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter logged out some users after addressing a bug where some Twitter accounts remained logged on some mobile devices after voluntary password resets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution bug in Chromium bypassed Sanitizer API<a href="https://portswigger.net/daily-swig/prototype-pollution-bug-in-chromium-bypassed-sanitizer-api?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported by security researcher Micha? Bentkowski, the bug highlights the challenges of preventing client-side prototype pollution attacks. Prototype pollution can happen both on the client side (browser) and server side (Node.js servers).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Zero Trust Should be the Foundation of Your Cybersecurity Ecosystem<a href="https://thehackernews.com/2022/09/why-zero-trust-should-be-foundation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For cybersecurity professionals, it is a huge challenge to separate the "good guys" from the "villains". In the past, most cyberattacks could simply be traced to external cybercriminals, cyberterrorists, or rogue nation-states.  But not anymore .  Threats from within organizations – also known as "insider threats" – are increasing and cybersecurity practitioners are feeling the pain.   Traditional perimeter defenses are not designed to prevent these attacks. They also struggle to keep  external  attackers out. Clever hackers continuously find ways in and "weaponize" their trusted status inside the network to compromise sensitive assets and orchestrate larger attacks.  And an increasing number of enterprise resources – applications, devices, data, and even people – now live outside the perimeter. It's difficult to protect these assets with legacy approaches, much less fortify the perimeter to keep attackers out completely.  How can you protect your organization in this landscape?  The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. gov adds more Chinese Telecom firms to the Covered List<a href="https://securityaffairs.co/wordpress/136018/intelligence/covered-list-chinese-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) has added more Chinese telecom firms to the Covered List.
+
+
+
+The U.S. Federal Communications Commission (FCC) has added Pacific Network Corp, ComNet (USA) LLC, and China Unicom (Americas) Operations Limited,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Iranian hackers lurked in Albania’s govt network for 14 months<a href="https://www.bleepingcomputer.com/news/security/fbi-iranian-hackers-lurked-in-albania-s-govt-network-for-14-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and CISA said that one of the Iranian threat groups behind the destructive attack on the Albanian government's network in July lurked inside its systems for roughly 14 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sardine raises $51.5M led by a16z to sniff out fishy fintech transactions<a href="https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company announced it has raised $51.5 million in a Series B round led by Andreessen Horowitz’s (a16z) Growth Fund after closing $19.5 million for its Series A earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Adds 2 More Chinese Telecom Firms to National Security Threat List<a href="https://thehackernews.com/2022/09/us-adds-2-more-chinese-telecom-firms-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) has added Pacific Network Corp, along with its subsidiary ComNet (USA) LLC, and China Unicom (Americas) Operations Limited, to the list of communications equipment and services that have been deemed a threat to national security.  The agency  said  the companies are subject to the Chinese government's exploitation, influence, and control, and could be forced to comply with requests for intercepting and misrouting communications, without the ability to challenge such requests.   The Public Safety and Homeland Security Bureau further noted that equipment and services from ComNet and China Unicom could present an opportunity for the Chinese government to carry out espionage operations and gather intelligence against the U.S.  Alternatively, they could also provide the Chinese government with a strategic capability to "target, collect, alter, block, and reroute network traffic."  China Unicom also earned a place on the list fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Imperva blocked a record DDoS attack with 25.3 billion requests<a href="https://securityaffairs.co/wordpress/136009/cyber-crime/record-breaking-ddos-imperva.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Imperva announced to have mitigated a distributed denial-of-service (DDoS) attack with a total of over 25.3 billion requests.
+
+
+
+Cybersecurity firm Imperva mitigated a DDoS attack with over 25.3 billion requests on June 27, 2022....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware builder leaked online by “angry developer”<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-builder-leaked-online-by-angry-developer-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware operation has suffered a breach, with an allegedly disgruntled developer leaking the builder for the gang's newest encryptor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parse Server fixes brute-forcing bug that put sensitive user data at risk<a href="https://portswigger.net/daily-swig/parse-server-fixes-brute-forcing-bug-that-put-sensitive-user-data-at-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-36079, the high severity issue was assigned a CVSS rating of 8.6 by GitHub but 7.5 by the National Institute of Standards and Technology (NIST). Attack complexity was deemed ‘low’.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record DDoS Attack with 25.3 Billion Requests Abused HTTP/2 Multiplexing<a href="https://thehackernews.com/2022/09/record-ddos-attack-with-253-billion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Imperva has disclosed that it mitigated a distributed denial-of-service (DDoS) attack with a total of over 25.3 billion requests on June 27, 2022.  The "strong attack," which targeted an unnamed Chinese telecommunications company, is said to have lasted for four hours and peaked at 3.9 million requests per second (RPS).  "Attackers used HTTP/2 multiplexing, or combining multiple packets into one, to send multiple requests at once over individual connections," Imperva  said  in a report published on September 19.  The attack was launched from a botnet that comprised nearly 170,000 different IP addresses spanning routers, security cameras, and compromised servers located in more than 180 countries, primarily the U.S., Indonesia, and Brazil.   The disclosure also comes as web infrastructure provider Akamai said it fielded a new DDoS assault aimed at a customer based in Eastern Europe on September 12, with attack traffic spiking at 704.8 million p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched 15-year old Python bug allows code execution in 350k projects<a href="https://www.bleepingcomputer.com/news/security/unpatched-15-year-old-python-bug-allows-code-execution-in-350k-projects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Python programming language that has been overlooked for 15 years is now back in the spotlight as it likely affects more than 350,000 open-source repositories and can lead to code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrivateLoader and Ruzki PPI - What's the Connection?<a href="https://cyware.com/news/privateloader-and-ruzki-ppi-whats-the-connection-532565a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upon tracking PrivateLoader’s network infrastructure and activities associated with ruzki PPI, SEKOIA researchers observed an overlap between the former’s C2 servers and the latter’s URLs offered to subscribers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Hack Flaws Found in Dataprobe's Power Distribution Units<a href="https://thehackernews.com/2022/09/critical-remote-hack-flaws-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released an industrial control systems (ICS) advisory warning of seven security flaws in Dataprobe's iBoot-PDU power distribution unit product, mostly used in industrial environments and data centers.  "Successful exploitation of these vulnerabilities could lead to unauthenticated remote code execution on the Dataprobe iBoot-PDU device," the agency  said  in a notice.  Credited with disclosing the flaws is industrial cybersecurity firm Claroty, which  said  the weaknesses could be remotely triggered "either through a direct web connection to the device or via the cloud."   iBoot-PDU  is a power distribution unit (PDU) that provides users with real-time monitoring capabilities and sophisticated alerting mechanisms via a web interface so as to control the power supply to devices and other equipment in an OT environment.   The vulnerabilities assume new significance when taking into consid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS and bot attacks in 2022: Business sectors at risk and how to defend<a href="https://www.bleepingcomputer.com/news/security/ddos-and-bot-attacks-in-2022-business-sectors-at-risk-and-how-to-defend/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Gcore, in 2022, the number and volume of DDoS attacks will roughly double compared to 2021. The average attack power will grow from 150-300 Gbps to 500-700 Gbps. Andrew Slastenov, Head of Web Security, at Gcore talks to his colleagues about trends in the cybersecurity market:
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers post residents' data stolen in Suffolk cyberattack<a href="https://www.newsday.com/long-island/politics/suffolk-ransom-cyber-bellone-attack-y0eibsv6?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents published by a group taking responsibility for the ransomware attack on Suffolk County government include speeding tickets, contracts with county vendors, and a handwritten marriage license from 1908, according to a Newsday review.
+</details>
+<div style="text-align: right" markdown="1">
+News Day
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Review: Stellar Cyber Open XDR Platform<a href="https://thehackernews.com/2022/09/product-review-stellar-cyber-open-xdr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost every vendor, from email gateway companies to developers of threat intelligence platforms, is positioning themselves as an XDR player. But unfortunately, the noise around XDR makes it harder for buyers to find solutions that might be right for them or, more importantly, avoid ones that don't meet their needs.   Stellar Cyber delivers an Open XDR solution that allows organizations to use whatever security tools they desire in their security stack, feeding alerts and logs into Stellar Cyber. Stellar Cyber's "Open" approach means their platform can work with any product. As a result, a security team can make changes without wondering if the Stellar Cyber Open XDR platform will still work.   Stellar Cyber address the needs of lean enterprise security teams by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their Open XDR platform, managed by a single license. This consolidation enables customers to eliminate security stack complexity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn Smart Links abused in evasive email phishing attacks<a href="https://www.bleepingcomputer.com/news/security/linkedin-smart-links-abused-in-evasive-email-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing actors are abusing LinkedIn's Smart Link feature to bypass email security products and successfully redirect targeted users to phishing pages that steal login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace Solarium Commission members push to advance remaining recommendations<a href="https://www.cyberscoop.com/cyberspace-solarium-commission-leadership-more-work/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report released Wednesday shows the Cyberspace Solarium Commission is on track to have 85% of all of its recommendations implemented with the remaining either facing some hurdles or “significant barriers.”
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta: Credential stuffing accounts for 34% of all login attempts<a href="https://www.bleepingcomputer.com/news/security/okta-credential-stuffing-accounts-for-34-percent-of-all-login-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credential stuffing attacks have become so prevalent in the first quarter of 2022 that their traffic surpassed that of legitimate login attempts from normal users in some countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine Hacktivists Claim to Have Hacked Notorious Russian Mercenary Group<a href="https://www.vice.com/en/article/4ax459/pro-ukraine-hacktivists-claim-to-have-hacked-notorious-russian-mercenary-group?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers did not post any data that would help verify their claims. Motherboard could not independently verify whether the hacktivists stole the personal data of Wagner mercenaries.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Imperva mitigated long-lasting, 25.3 billion request DDoS attack<a href="https://www.bleepingcomputer.com/news/security/imperva-mitigated-long-lasting-253-billion-request-ddos-attack/"> Full Text</a>
@@ -50,7 +530,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Court Rules Against German Data Collection Law<a href="https://www.securityweek.com/eu-court-rules-against-german-data-collection-law?&web_view=true"> Full Text</a>
@@ -66,7 +546,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm Hackers Impersonate Ukrainian Telecoms to Distribute Malware<a href="https://thehackernews.com/2022/09/russian-sandworm-hackers-impersonate.html"> Full Text</a>
@@ -82,7 +562,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm APT impersonates Ukrainian telcos to deliver malware<a href="https://securityaffairs.co/wordpress/135996/apt/sandworm-targets-ukraine-teleco.html"> Full Text</a>
@@ -102,7 +582,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2K Games says hacked help desk targeted players with malware<a href="https://www.bleepingcomputer.com/news/security/2k-games-says-hacked-help-desk-targeted-players-with-malware/"> Full Text</a>
@@ -118,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantifying ROI in Cybersecurity Spend<a href="https://www.securityweek.com/quantifying-roi-cybersecurity-spend?&web_view=true"> Full Text</a>
@@ -134,7 +614,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber Blames LAPSUS$ Hacking Group for Recent Security Breach<a href="https://thehackernews.com/2022/09/uber-blames-lapsus-hacking-group-for.html"> Full Text</a>
@@ -150,7 +630,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber believes that the LAPSUS$ gang is behind the recent attack<a href="https://securityaffairs.co/wordpress/135980/cyber-crime/uber-hacked-by-lapsus-group.html"> Full Text</a>
@@ -170,7 +650,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows 11 22H2 adds kernel exploit protection to security baseline<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-adds-kernel-exploit-protection-to-security-baseline/"> Full Text</a>
@@ -186,7 +666,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Management Fatigue Fueled by Non-Exploitable Bugs<a href="https://www.securityweek.com/vulnerability-management-fatigue-fueled-non-exploitable-bugs?&web_view=true"> Full Text</a>
@@ -202,7 +682,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analyzing IP Addresses to Prevent Fraud for Enterprises<a href="https://securityaffairs.co/wordpress/135975/security/preventing-fraud-for-enterprises.html"> Full Text</a>
@@ -222,7 +702,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware claims attack on New York Racing Association<a href="https://www.bleepingcomputer.com/news/security/hive-ransomware-claims-attack-on-new-york-racing-association/"> Full Text</a>
@@ -238,7 +718,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China: Cybersecurity law violators to face heavier penalties<a href="https://www.chinadaily.com.cn/a/202209/19/WS63288b98a310fd2b29e7882b.html?&web_view=true"> Full Text</a>
@@ -254,7 +734,7 @@ China Daily
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Airlines disclosed a data breach<a href="https://securityaffairs.co/wordpress/135963/data-breach/american-airlines-data-breach.html"> Full Text</a>
@@ -278,7 +758,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2K game support hacked to email RedLine info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/2k-game-support-hacked-to-email-redline-info-stealing-malware/"> Full Text</a>
@@ -294,7 +774,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Plans to Measure the Effect of Coming Standards on Industry’s Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/09/cisa-plans-measure-effect-coming-standards-industrys-cybersecurity/377363/?&web_view=true"> Full Text</a>
@@ -310,7 +790,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal $162 million from Wintermute crypto market maker<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-162-million-from-wintermute-crypto-market-maker/"> Full Text</a>
@@ -326,7 +806,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Countering the Future Growth of Ransomware<a href="https://www.cfr.org/blog/countering-future-growth-ransomware?&web_view=true"> Full Text</a>
@@ -342,7 +822,7 @@ CFR
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 8 takeaways from the VMWare Cybersecurity Threat Report<a href="https://www.bleepingcomputer.com/news/security/top-8-takeaways-from-the-vmware-cybersecurity-threat-report/"> Full Text</a>
@@ -358,7 +838,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bosnia and Herzegovina Investigating Alleged Ransomware Attack on Parliament<a href="https://therecord.media/bosnia-and-herzegovina-investigating-alleged-ransomware-attack-on-parliament/?&web_view=true"> Full Text</a>
@@ -374,7 +854,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender for Endpoint will turn on tamper protection by default<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-for-endpoint-will-turn-on-tamper-protection-by-default/"> Full Text</a>
@@ -390,7 +870,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government rejects ransom payment ban to spur disclosure<a href="https://www.cybersecuritydive.com/news/government-ransomware-guidance/632136/?&web_view=true"> Full Text</a>
@@ -406,7 +886,7 @@ Cybersecurity Dive
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Fatigue: Hackers’ new favorite tactic in high-profile breaches<a href="https://www.bleepingcomputer.com/news/security/mfa-fatigue-hackers-new-favorite-tactic-in-high-profile-breaches/"> Full Text</a>
@@ -422,7 +902,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Market Maker Wintermute Loses $160 Million in DeFi Hack<a href="https://techcrunch.com/2022/09/20/crypto-market-maker-wintermute-loses-160-million-in-defi-hack/?&web_view=true"> Full Text</a>
@@ -438,7 +918,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 20, 2022
+September 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Infrastructure Takes Center Stage<a href="https://securityboulevard.com/2022/09/critical-infrastructure-takes-center-stage/?&web_view=true"> Full Text</a>
