@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Plans to Measure the Effect of Coming Standards on Industry’s Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2022/09/cisa-plans-measure-effect-coming-standards-industrys-cybersecurity/377363/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency will spend the next three years measuring the success of the government’s effort to protect both publicly and privately controlled critical infrastructure from cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government rejects ransom payment ban to spur disclosure<a href="https://www.cybersecuritydive.com/news/government-ransomware-guidance/632136/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ultimately, U.S. officials decided against an outright ban, Anne Neuberger, deputy national security advisor for cyber and emerging technology on the National Security Council, said earlier this month at the Code Conference.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

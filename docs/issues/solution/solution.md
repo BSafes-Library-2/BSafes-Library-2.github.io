@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 gets better protection against SMB brute-force attacks<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-better-protection-against-smb-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that the Windows 11 SMB server is now better protected against brute-force attacks with the release of the Insider Preview Build 25206 to the Dev Channel.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

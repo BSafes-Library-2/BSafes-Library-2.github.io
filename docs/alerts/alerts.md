@@ -7,7 +7,19 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2022 - FBI
+September 21, 2022 - FBI, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State Actors Conduct Cyber Operations Against the Government of Albania <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-264a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are releasing this joint Cybersecurity Advisory to provide information on recent cyber operations against the Government of Albania in July and September. This advisory provides a timeline of activity observed, from initial access to execution of encryption and wiper attacks. Additional information concerning files used by the actors during their exploitation of and cyber attack against the victim organization is provided in Appendices A and B.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Criminals Targeting Healthcare Payment Processors, Costing Victims Millions in Losses <a href="https://publications.bsafes.com/docs/fbi/pin-2022-0914-001-cyber-criminals-targeting-healthcare-payment-processors-costing-victims-millions-in-losses/"> Full Text</a>

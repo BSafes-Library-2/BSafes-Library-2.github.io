@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Imperva blocked a record DDoS attack with 25.3 billion requests<a href="https://securityaffairs.co/wordpress/136009/cyber-crime/record-breaking-ddos-imperva.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Imperva announced to have mitigated a distributed denial-of-service (DDoS) attack with a total of over 25.3 billion requests.
+
+
+
+Cybersecurity firm Imperva mitigated a DDoS attack with over&nbsp;25.3 billion requests on June 27, 2022....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record DDoS Attack with 25.3 Billion Requests Abused HTTP/2 Multiplexing<a href="https://thehackernews.com/2022/09/record-ddos-attack-with-253-billion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Imperva has disclosed that it mitigated a distributed denial-of-service (DDoS) attack with a total of over 25.3 billion requests on June 27, 2022.  The "strong attack," which targeted an unnamed Chinese telecommunications company, is said to have lasted for four hours and peaked at 3.9 million requests per second (RPS).  "Attackers used HTTP/2 multiplexing, or combining multiple packets into one, to send multiple requests at once over individual connections," Imperva&nbsp; said &nbsp;in a report published on September 19.  The attack was launched from a botnet that comprised nearly 170,000 different IP addresses spanning routers, security cameras, and compromised servers located in more than 180 countries, primarily the U.S., Indonesia, and Brazil.   The disclosure also comes as web infrastructure provider Akamai said it fielded a new DDoS assault aimed at a customer based in Eastern Europe on September 12, with attack traffic spiking at 704.8 million p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

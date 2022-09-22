@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 39,000 Unauthenticated Redis Instances Found Exposed on the Internet<a href="https://thehackernews.com/2022/09/over-39000-unauthenticated-redis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown attacker targeted tens of thousands of unauthenticated Redis servers exposed on the internet in an attempt to&nbsp; install a cryptocurrency miner .  It's not immediately known if all of these hosts were successfully compromised. Nonetheless, it was made possible by means of a "lesser-known technique" designed to trick the servers into writing data to arbitrary files – a case of&nbsp; unauthorized access &nbsp;that was first documented in September 2018.  "The general idea behind this exploitation technique is to configure Redis to write its file-based database to a directory containing some method to authorize a user (like adding a key to '.ssh/authorized_keys'), or start a process (like adding a script to '/etc/cron.d')," Censys&nbsp; said &nbsp;in a new write-up.   The attack surface management platform said it uncovered evidence (i.e., Redis commands) indicating efforts on part of the attacker to store malicious&nbsp; crontab entries &nbsp;into the file "/var/
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter failed to log you out of all devices after password resets<a href="https://www.bleepingcomputer.com/news/security/twitter-failed-to-log-you-out-of-all-devices-after-password-resets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter logged out some&nbsp;users after addressing a bug where some Twitter accounts remained logged on some mobile devices after&nbsp;voluntary password resets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution bug in Chromium bypassed Sanitizer API<a href="https://portswigger.net/daily-swig/prototype-pollution-bug-in-chromium-bypassed-sanitizer-api?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported by security researcher Micha? Bentkowski, the bug highlights the challenges of preventing client-side prototype pollution attacks. Prototype pollution can happen both on the client side (browser) and server side (Node.js servers).
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parse Server fixes brute-forcing bug that put sensitive user data at risk<a href="https://portswigger.net/daily-swig/parse-server-fixes-brute-forcing-bug-that-put-sensitive-user-data-at-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-36079, the high severity issue was assigned a CVSS rating of 8.6 by GitHub but 7.5 by the National Institute of Standards and Technology (NIST). Attack complexity was deemed ‘low’.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched 15-year old Python bug allows code execution in 350k projects<a href="https://www.bleepingcomputer.com/news/security/unpatched-15-year-old-python-bug-allows-code-execution-in-350k-projects/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the Python programming language that has been overlooked for 15 years is now back in the spotlight as it likely affects more than 350,000 open-source repositories and can lead to code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Hack Flaws Found in Dataprobe's Power Distribution Units<a href="https://thehackernews.com/2022/09/critical-remote-hack-flaws-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released an industrial control systems (ICS) advisory warning of seven security flaws in Dataprobe's iBoot-PDU power distribution unit product, mostly used in&nbsp;industrial environments and data centers.  "Successful exploitation of these vulnerabilities could lead to unauthenticated remote code execution on the Dataprobe iBoot-PDU device," the agency&nbsp; said &nbsp;in a notice.  Credited with disclosing the flaws is industrial cybersecurity firm Claroty, which&nbsp; said &nbsp;the weaknesses could be remotely triggered "either through a direct web connection to the device or via the cloud."   iBoot-PDU &nbsp;is a power distribution unit (PDU) that provides users with real-time monitoring capabilities and sophisticated alerting mechanisms via a web interface so as to control the power supply to devices and other equipment in an OT environment.   The vulnerabilities assume new significance when taking into consid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine Hacktivists Claim to Have Hacked Notorious Russian Mercenary Group<a href="https://www.vice.com/en/article/4ax459/pro-ukraine-hacktivists-claim-to-have-hacked-notorious-russian-mercenary-group?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers did not post any data that would help verify their claims. Motherboard could not independently verify whether the hacktivists stole the personal data of Wagner mercenaries.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

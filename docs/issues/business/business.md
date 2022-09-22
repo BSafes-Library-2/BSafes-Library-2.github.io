@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sardine raises $51.5M led by a16z to sniff out fishy fintech transactions<a href="https://techcrunch.com/2022/09/20/sardine-fintech-crypto-fraud-startup-a16z-series-b-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company announced it has raised $51.5 million in a Series B round led by Andreessen Horowitz’s (a16z) Growth Fund after closing $19.5 million for its Series A earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
