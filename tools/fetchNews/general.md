@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Zero Trust Should be the Foundation of Your Cybersecurity Ecosystem<a href="https://thehackernews.com/2022/09/why-zero-trust-should-be-foundation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For cybersecurity professionals, it is a huge challenge to separate the "good guys" from the "villains". In the past, most cyberattacks could simply be traced to external cybercriminals, cyberterrorists, or rogue nation-states.&nbsp; But not anymore .  Threats from within organizations – also known as "insider threats" – are increasing and cybersecurity practitioners are feeling the pain.&nbsp;  Traditional perimeter defenses are not designed to prevent these attacks. They also struggle to keep&nbsp; external &nbsp;attackers out. Clever hackers continuously find ways in and "weaponize" their trusted status inside the network to compromise sensitive assets and orchestrate larger attacks.  And an increasing number of enterprise resources – applications, devices, data, and even people – now live outside the perimeter. It's difficult to protect these assets with legacy approaches, much less fortify the perimeter to keep attackers out completely.  How can you protect your organization in this landscape?  The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrivateLoader and Ruzki PPI - What's the Connection?<a href="https://cyware.com/news/privateloader-and-ruzki-ppi-whats-the-connection-532565a5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upon tracking PrivateLoader’s network infrastructure and activities associated with ruzki PPI, SEKOIA researchers observed an overlap between the former’s C2 servers and the latter’s URLs offered to subscribers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS and bot attacks in 2022: Business sectors at risk and how to defend<a href="https://www.bleepingcomputer.com/news/security/ddos-and-bot-attacks-in-2022-business-sectors-at-risk-and-how-to-defend/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Gcore, in 2022, the number and volume of DDoS attacks will roughly double compared to 2021. The average attack power will grow from 150-300&nbsp;Gbps to 500-700&nbsp;Gbps. Andrew Slastenov, Head of Web Security,&nbsp;at Gcore talks to his colleagues about trends in the cybersecurity market:
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Review: Stellar Cyber Open XDR Platform<a href="https://thehackernews.com/2022/09/product-review-stellar-cyber-open-xdr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost every vendor, from email gateway companies to developers of threat intelligence platforms, is positioning themselves as an XDR player. But unfortunately, the noise around XDR makes it harder for buyers to find solutions that might be right for them or, more importantly, avoid ones that don't meet their needs.&nbsp;  Stellar Cyber delivers an Open XDR solution that allows organizations to use whatever security tools they desire in their security stack, feeding alerts and logs into Stellar Cyber. Stellar Cyber's "Open" approach means their platform can work with any product. As a result, a security team can make changes without wondering if the Stellar Cyber Open XDR platform will still work.&nbsp;  Stellar Cyber address the needs of lean enterprise security teams by providing capabilities typically found in NG-SIEM, NDR, and SOAR products in their Open XDR platform, managed by a single license. This consolidation enables customers to eliminate security stack complexity.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta: Credential stuffing accounts for 34% of all login attempts<a href="https://www.bleepingcomputer.com/news/security/okta-credential-stuffing-accounts-for-34-percent-of-all-login-attempts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credential stuffing attacks have become so prevalent in the first quarter of 2022 that their traffic surpassed that of legitimate login attempts from normal users in some countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

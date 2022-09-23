@@ -8,6 +8,38 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 39K unauthenticated Redis services on the internet targeted in cryptocurrency campaign<a href="https://securityaffairs.co/wordpress/136045/hacking/redis-cryptocurrency-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors targeted tens thousands of unauthenticated Redis servers exposed on the internet as part of a cryptocurrency campaign. 
+
+
+
+Redis, is a popular open source data structure tool that can be used as an in-memory distributed database, message...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Trading Firm Wintermute Loses $160 Million in Hacking Incident<a href="https://thehackernews.com/2022/09/crypto-trading-firm-wintermute-loses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's the latest crypto heist to target the decentralized finance (DeFi) space, hackers have stolen digital assets worth around $160 million from crypto trading firm Wintermute .  The hack involved a series of unauthorized transactions that transferred USD Coin, Binance USD, Tether USD, Wrapped ETH, and 66 other cryptocurrencies to the&nbsp; attacker's wallet .  The company said that its centralized finance (CeFi) and over-the-counter (OTC) operations have not been impacted by the security incident. It did not disclose when the hack took place.   The digital asset market maker, which provides liquidity to more several exchanges and crypto platforms, warned of disruption to its services in the coming days, but stressed that it's "solvent with twice over that amount in equity left."  "We are (still) open to treat[ing] this as a white hat, so if you are the attacker – get in touch," the company's founder and CEO, Evgeny Gaevoy,&nbsp; said &nbsp;in a tweet.  Detai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

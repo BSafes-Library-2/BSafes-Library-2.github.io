@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs<a href="https://thehackernews.com/2022/09/researchers-uncover-years-long-mobile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of a mobile surveillance campaign has been observed targeting the Uyghur community as part of a long-standing spyware operation active since at least 2015, cybersecurity researchers disclosed Thursday.  The intrusions, originally attributed to a threat actor named&nbsp; Scarlet Mimic &nbsp;back in January 2016, is said to have encompassed 20 different variants of the Android malware, which were disguised as book, pictures, and an audio version of the Quran.  The malware, while relatively unsophisticated from a technical standpoint, comes with extensive capabilities to steal sensitive data from an infected device, send SMS messages on the victim's behalf, make phone calls, and track their locations.   Additionally, it allows the recording of incoming and outgoing phone calls as well as surrounding audio.  "All this makes it a powerful and dangerous surveillance tool," Israeli cybersecurity firm Check Point&nbsp; said &nbsp;in a technical deepdive, calling the spyware&nbsp; MobileOrder
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

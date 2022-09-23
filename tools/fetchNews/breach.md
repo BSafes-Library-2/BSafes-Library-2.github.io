@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capital One freed from consent order tied to 2019 breach<a href="https://www.cybersecuritydive.com/news/capital-one-breach-cloud-treasury-consent-order/632183/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the termination of the consent order, Capital One is no longer required to submit quarterly updates detailing its risk management and auditing practices to the OCC, which it was required to do following the discovery of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Hackers post residents' data stolen in Suffolk cyberattack<a href="https://www.newsday.com/long-island/politics/suffolk-ransom-cyber-bellone-attack-y0eibsv6?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents published by a group taking responsibility for the ransomware attack on Suffolk County government include speeding tickets, contracts with county vendors, and a handwritten marriage license from 1908, according to a Newsday review.
+</details>
+<div style="text-align: right" markdown="1">
+News Day
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

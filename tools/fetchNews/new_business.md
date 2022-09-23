@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DataGuard locks down $61M for data protection as a service<a href="https://techcrunch.com/2022/09/21/dataguard-locks-down-61m-for-data-protection-as-a-service/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B round was led by Morgan Stanley Expansion Capital to double down on the market. The investment also includes One Peak, the U.K. VC that led DataGuard’s last fundraise of $20 million in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

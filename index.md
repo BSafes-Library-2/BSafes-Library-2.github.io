@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of critical ManageEngine RCE bug used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-manageengine-rce-bug-used-in-attacks/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gaming Sector Under Relentless Attack<a href="https://cyware.com/news/gaming-sector-under-relentless-attack-62063b00"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs<a href="https://thehackernews.com/2022/09/researchers-uncover-years-long-mobile.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AttachMe: a critical flaw affects Oracle Cloud Infrastructure (OCI)<a href="https://securityaffairs.co/wordpress/136094/security/oracle-cloud-infrastructure-flaw.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA shares guidance to help secure OT/ICS critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-to-help-secure-ot-ics-critical-infrastructure/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Fatigue - New Social Engineering Attack Takes Toll on Corporate Firms<a href="https://cyware.com/news/mfa-fatigue-new-social-engineering-attack-takes-toll-on-corporate-firms-93416f07"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM Package Caught Mimicking Material Tailwind CSS Package<a href="https://thehackernews.com/2022/09/malicious-npm-package-caught-mimicking.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A 15-Year-Old Unpatched Python bug potentially impacts over 350,000 projects<a href="https://securityaffairs.co/wordpress/136081/hacking/python-bug-cve-2007-4559.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange servers hacked via OAuth apps for phishing<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-via-oauth-apps-for-phishing/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DataGuard locks down $61M for data protection as a service<a href="https://techcrunch.com/2022/09/21/dataguard-locks-down-61m-for-data-protection-as-a-service/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT Security Takeaways from the Wiseasy Hack<a href="https://thehackernews.com/2022/09/it-security-takeaways-from-wiseasy-hack.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Confluence bug CVE-2022-26134 exploited in cryptocurrency mining campaign<a href="https://securityaffairs.co/wordpress/136071/malware/atlassian-confluence-flaw-cryptomining.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Magento vulnerability targeted in new surge of attacks<a href="https://www.bleepingcomputer.com/news/security/critical-magento-vulnerability-targeted-in-new-surge-of-attacks/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous takes down Iranian government websites amid protests following death of Mahsa Amini<a href="https://therecord.media/anonymous-takes-down-iranian-government-websites-amid-protests-following-death-of-mahsa-amini/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Critical Vulnerability in Oracle Cloud Infrastructure<a href="https://thehackernews.com/2022/09/researchers-disclose-critical.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A disgruntled developer is the alleged source of the leak of the Lockbit 3.0 builder<a href="https://securityaffairs.co/wordpress/136056/data-breach/lockbit-3-0-builder-leak.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stealing GitHub accounts using fake CircleCI notifications<a href="https://www.bleepingcomputer.com/news/security/hackers-stealing-github-accounts-using-fake-circleci-notifications/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChromeLoader Campaign Spreads Several Malware<a href="https://cyware.com/news/chromeloader-campaign-spreads-several-malware-04593bd2"> Full Text</a>
@@ -354,7 +354,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15-Year-Old Unpatched Python Vulnerability Potentially Affects Over 350,000 Projects<a href="https://thehackernews.com/2022/09/15-year-old-unpatched-python.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat ransomware’s data exfiltration tool gets an upgrade<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-s-data-exfiltration-tool-gets-an-upgrade/"> Full Text</a>
@@ -386,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malaysia: Cyber security awareness master plan to be ready in 2023, says NSC<a href="https://www.thestar.com.my/news/nation/2022/09/20/cyber-security-awareness-master-plan-to-be-ready-in-2023-says-nsc?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ The Star
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
+September 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners<a href="https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html"> Full Text</a>

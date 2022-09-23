@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Domain shadowing becoming more popular among cybercriminals<a href="https://www.bleepingcomputer.com/news/security/domain-shadowing-becoming-more-popular-among-cybercriminals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts at Palo Alto Networks (Unit 42) discovered that the phenomenon of 'domain shadowing' might be more prevalent than previously thought, uncovering 12,197 cases while scanning the web between April and June 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $160 Million from Crypto market maker Wintermute<a href="https://securityaffairs.co/wordpress/136029/hacking/wintermute-l160m-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen around $160 million worth of digital assets worth from crypto trading firm&nbsp;Wintermute.
+
+
+
+Malicious actors continue to target organizations in the cryptocurrency industry, the last victim in order of time is crypto trading...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

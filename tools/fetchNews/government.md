@@ -8,6 +8,80 @@ nav_order: 900075
 
 ## Government
 ---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: CERT-In warns of vulnerabilities in Zoom<a href="https://economictimes.indiatimes.com/tech/technology/cert-in-reports-vulnerabilities-in-zoom/articleshow/94328941.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber security agency said that vulnerabilities can be exploited by a remote attacker to join meetings they are authorized to join without appearing to other participants.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. gov adds more Chinese Telecom firms to the Covered List<a href="https://securityaffairs.co/wordpress/136018/intelligence/covered-list-chinese-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) has added more Chinese telecom firms to the Covered List.
+
+
+
+The U.S. Federal Communications Commission (FCC) has added Pacific Network Corp, ComNet (USA) LLC, and China Unicom (Americas) Operations Limited,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Iranian hackers lurked in Albania’s govt network for 14 months<a href="https://www.bleepingcomputer.com/news/security/fbi-iranian-hackers-lurked-in-albania-s-govt-network-for-14-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and CISA said that one of the Iranian threat groups behind the destructive attack on the Albanian government's network in July lurked inside its systems for roughly 14 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Adds 2 More Chinese Telecom Firms to National Security Threat List<a href="https://thehackernews.com/2022/09/us-adds-2-more-chinese-telecom-firms-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) has added Pacific Network Corp, along with its subsidiary ComNet (USA) LLC, and China Unicom (Americas) Operations Limited, to the list of communications equipment and services that have been deemed a threat to national security.  The agency&nbsp; said &nbsp;the companies are subject to the Chinese government's exploitation, influence, and control, and could be forced to comply with requests for intercepting and misrouting communications, without the ability to challenge such requests.   The Public Safety and Homeland Security Bureau further noted that equipment and services from ComNet and China Unicom could present an opportunity for the Chinese government to carry out espionage operations and gather intelligence against the U.S.  Alternatively, they could also provide the Chinese government with a strategic capability to "target, collect, alter, block, and reroute network traffic."  China Unicom also earned a place on the list fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace Solarium Commission members push to advance remaining recommendations<a href="https://www.cyberscoop.com/cyberspace-solarium-commission-leadership-more-work/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report released Wednesday shows the Cyberspace Solarium Commission is on track to have 85% of all of its recommendations implemented with the remaining either facing some hurdles or “significant barriers.”
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

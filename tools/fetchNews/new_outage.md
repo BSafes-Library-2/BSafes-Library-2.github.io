@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous takes down Iranian government websites amid protests following death of Mahsa Amini<a href="https://therecord.media/anonymous-takes-down-iranian-government-websites-amid-protests-following-death-of-mahsa-amini/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several websites, including the ones for the central bank, the national government portal, and state-owned media sites, have been intermittently unreachable following the hacktivist attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

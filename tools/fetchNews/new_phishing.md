@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked via OAuth apps for phishing<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-via-oauth-apps-for-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says a threat actor gained access to cloud tenants hosting Microsoft Exchange servers in credential stuffing attacks, with the end goal of deploying malicious OAuth applications and sending phishing&nbsp;emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

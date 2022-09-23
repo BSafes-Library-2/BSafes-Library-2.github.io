@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of critical ManageEngine RCE bug used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-manageengine-rce-bug-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a critical severity Java deserialization vulnerability affecting multiple Zoho ManageEngine products to its catalog&nbsp;of bugs exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA shares guidance to help secure OT/ICS critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-to-help-secure-ot-ics-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) and&nbsp;CISA&nbsp;have issued guidance on how to secure&nbsp;operational technology (OT) and industrial control systems (ICSs) part of U.S. critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malaysia: Cyber security awareness master plan to be ready in 2023, says NSC<a href="https://www.thestar.com.my/news/nation/2022/09/20/cyber-security-awareness-master-plan-to-be-ready-in-2023-says-nsc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber security awareness master plan is expected to be completed next year as the primary reference in the implementation of cyber security awareness programs at the national level, says the National Security Council (NSC).
+</details>
+<div style="text-align: right" markdown="1">
+The Star
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
