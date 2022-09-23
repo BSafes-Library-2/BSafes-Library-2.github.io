@@ -34,6 +34,390 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of critical ManageEngine RCE bug used in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-manageengine-rce-bug-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added a critical severity Java deserialization vulnerability affecting multiple Zoho ManageEngine products to its catalog of bugs exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Sector Under Relentless Attack<a href="https://cyware.com/news/gaming-sector-under-relentless-attack-62063b00"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are relentlessly targeting the gaming sector. In less than a month, hackers have carried out five major attacks on gamers and gaming platforms; 2K Games became the recent victim. The gaming industry has been a bastion for cyberattackers, owing to its exponential growth over the years,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Years-Long Mobile Spyware Campaign Targeting Uyghurs<a href="https://thehackernews.com/2022/09/researchers-uncover-years-long-mobile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of a mobile surveillance campaign has been observed targeting the Uyghur community as part of a long-standing spyware operation active since at least 2015, cybersecurity researchers disclosed Thursday.  The intrusions, originally attributed to a threat actor named  Scarlet Mimic  back in January 2016, is said to have encompassed 20 different variants of the Android malware, which were disguised as book, pictures, and an audio version of the Quran.  The malware, while relatively unsophisticated from a technical standpoint, comes with extensive capabilities to steal sensitive data from an infected device, send SMS messages on the victim's behalf, make phone calls, and track their locations.   Additionally, it allows the recording of incoming and outgoing phone calls as well as surrounding audio.  "All this makes it a powerful and dangerous surveillance tool," Israeli cybersecurity firm Check Point  said  in a technical deepdive, calling the spyware  MobileOrder
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the Supreme Court’s abortion ruling in Dobbs this past June, cross-border data requests between states for abortion-related investigations may start to resemble cross-border requests between countries and trigger new conflicts of law.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AttachMe: a critical flaw affects Oracle Cloud Infrastructure (OCI)<a href="https://securityaffairs.co/wordpress/136094/security/oracle-cloud-infrastructure-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Oracle Cloud Infrastructure (OCI) could be exploited to access the virtual disks of other Oracle customers.
+
+
+
+Wiz researchers discovered a critical flaw in Oracle Cloud Infrastructure (OCI) that could be exploited by users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA shares guidance to help secure OT/ICS critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-to-help-secure-ot-ics-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA) and CISA have issued guidance on how to secure operational technology (OT) and industrial control systems (ICSs) part of U.S. critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Fatigue - New Social Engineering Attack Takes Toll on Corporate Firms<a href="https://cyware.com/news/mfa-fatigue-new-social-engineering-attack-takes-toll-on-corporate-firms-93416f07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MFA Fatigue is coming out as a new technique for cybercriminals excelling in social engineering attacks. They are targeting big firms to obtain corporate credentials. This method is turning out to be more successful as it does not need malware or phishing infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Package Caught Mimicking Material Tailwind CSS Package<a href="https://thehackernews.com/2022/09/malicious-npm-package-caught-mimicking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious NPM package has been found masquerading as the legitimate software library for Material Tailwind, once again indicating attempts on the part of threat actors to distribute malicious code in open source software repositories.  Material Tailwind is a  CSS-based framework  advertised by its maintainers as an "easy to use components library for Tailwind CSS and Material Design."  "The malicious Material Tailwind npm package, while posing as a helpful development tool, has an automatic post-install script," Karlo Zanki, security researcher at ReversingLabs,  said  in a report shared with The Hacker News.   This script is engineered to download a password-protected ZIP archive file that contains a Windows executable capable of running PowerShell scripts.  The rogue package, named  material-tailwindcss , has been downloaded 320 times to date, all of which occurred on or after September 15, 2022.  In a tactic that's becoming increasingly common, the threat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A 15-Year-Old Unpatched Python bug potentially impacts over 350,000 projects<a href="https://securityaffairs.co/wordpress/136081/hacking/python-bug-cve-2007-4559.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 350,000 open source projects can be potentially affected by a 15-Year-Old unpatched Python vulnerability
+
+
+
+More than 350,000 open source projects can be potentially affected by an unpatched Python vulnerability, tracked as CVE-2007-4559 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked via OAuth apps for phishing<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-via-oauth-apps-for-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says a threat actor gained access to cloud tenants hosting Microsoft Exchange servers in credential stuffing attacks, with the end goal of deploying malicious OAuth applications and sending phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DataGuard locks down $61M for data protection as a service<a href="https://techcrunch.com/2022/09/21/dataguard-locks-down-61m-for-data-protection-as-a-service/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B round was led by Morgan Stanley Expansion Capital to double down on the market. The investment also includes One Peak, the U.K. VC that led DataGuard’s last fundraise of $20 million in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Security Takeaways from the Wiseasy Hack<a href="https://thehackernews.com/2022/09/it-security-takeaways-from-wiseasy-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month Tech Crunch reported that  payment terminal manufacturer Wiseasy had been hacked . Although Wiseasy might not be well known in North America, their Android-based payment terminals are widely used in the Asia Pacific region and hackers managed to steal passwords for 140,000 payment terminals.  How Did the Wiseasy Hack Happen?  Wiseasy employees use a cloud-based dashboard for remotely managing payment terminals. This dashboard allows the company to perform a variety of configuration and management tasks such as managing payment terminal users, adding or removing apps, and even locking the terminal.   Hackers were able to gain access to the Wiseasy dashboard by infecting employee's computers with malware. This allowed hackers to gain access to two different employee's dashboards, ultimately leading to a massive harvesting of payment terminal credentials once they gained access.  Top Lessons Learned from the Wiseasy Hack  1 — Transparency isn't always the best policy   While i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence bug CVE-2022-26134 exploited in cryptocurrency mining campaign<a href="https://securityaffairs.co/wordpress/136071/malware/atlassian-confluence-flaw-cryptomining.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting unpatched Atlassian Confluence servers as part of an ongoing crypto mining campaign.
+
+
+
+Trend Micro researchers warn of an ongoing crypto mining campaign targeting Atlassian Confluence servers affected by the CVE-2022-26134...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Magento vulnerability targeted in new surge of attacks<a href="https://www.bleepingcomputer.com/news/security/critical-magento-vulnerability-targeted-in-new-surge-of-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a surge in hacking attempts targeting CVE-2022-24086, a critical Magento 2 vulnerability allowing unauthenticated attackers to execute code on unpatched sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous takes down Iranian government websites amid protests following death of Mahsa Amini<a href="https://therecord.media/anonymous-takes-down-iranian-government-websites-amid-protests-following-death-of-mahsa-amini/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several websites, including the ones for the central bank, the national government portal, and state-owned media sites, have been intermittently unreachable following the hacktivist attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Critical Vulnerability in Oracle Cloud Infrastructure<a href="https://thehackernews.com/2022/09/researchers-disclose-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new severe Oracle Cloud Infrastructure (OCI) vulnerability that could be exploited by users to access the virtual disks of other Oracle customers.  "Each virtual disk in Oracle's cloud has a unique identifier called OCID," Shir Tamari, head of research at Wiz,  said  in a series of tweets. "This identifier is not considered secret, and organizations do not treat it as such."  "Given the OCID of a victim's disk that is not currently attached to an active server or configured as shareable, an attacker could 'attach' to it and obtain read/write over it," Tamari added.   The cloud security firm, which dubbed the tenant isolation vulnerability " AttachMe ," said Oracle  patched the issue  within 24 hours of responsible disclosure on June 9, 2022.  Accessing a volume using the CLI without sufficient permissions  At its core, the vulnerability is rooted in the fact that a disk could be attached to a compute
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A disgruntled developer is the alleged source of the leak of the Lockbit 3.0 builder<a href="https://securityaffairs.co/wordpress/136056/data-breach/lockbit-3-0-builder-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A disgruntled developer seems to be responsible for the leak of the builder for the latest encryptor of the LockBit ransomware gang.
+
+
+
+The leak of the builder for the latest encryptor of the LockBit ransomware gang made the headlines, it seems that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stealing GitHub accounts using fake CircleCI notifications<a href="https://www.bleepingcomputer.com/news/security/hackers-stealing-github-accounts-using-fake-circleci-notifications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub is warning of an ongoing phishing campaign that started on September 16 and is targeting its users with emails that impersonate the CircleCI continuous integration and delivery platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChromeLoader Campaign Spreads Several Malware<a href="https://cyware.com/news/chromeloader-campaign-spreads-several-malware-04593bd2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-stage malware attack chain hijacks the browser and redirects targets to advertising sites, for the threat actors to generate revenue from ad clicks and views.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-Year-Old Unpatched Python Vulnerability Potentially Affects Over 350,000 Projects<a href="https://thehackernews.com/2022/09/15-year-old-unpatched-python.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 350,000 open source projects are believed to be potentially vulnerable to exploitation as a result of a security flaw in a Python module that has remained unpatched for 15 years.  The open source repositories span a number of industry verticals, such as software development, artificial intelligence/machine learning, web development, media, security, IT management.  The shortcoming, tracked as  CVE-2007-4559  (CVSS score: 6.8), is rooted in the tarfile module, successful exploitation of which could lead to code execution from an arbitrary file write.   "The vulnerability is a path traversal attack in the extract and extractall functions in the tarfile module that allow an attacker to overwrite arbitrary files by adding the '..' sequence to filenames in a TAR archive," Trellix security researcher Kasimir Schulz  said  in a writeup.  Originally disclosed in August 2007, the bug has to do with how a specially crafted tar archive can be leveraged to overwrite a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware’s data exfiltration tool gets an upgrade<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-s-data-exfiltration-tool-gets-an-upgrade/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware (aka ALPHV) isn't showing any signs of slowing down, and the latest example of its evolution is a new version of the gang's data exfiltration tool used for double-extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malaysia: Cyber security awareness master plan to be ready in 2023, says NSC<a href="https://www.thestar.com.my/news/nation/2022/09/20/cyber-security-awareness-master-plan-to-be-ready-in-2023-says-nsc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber security awareness master plan is expected to be completed next year as the primary reference in the implementation of cyber security awareness programs at the national level, says the National Security Council (NSC).
+</details>
+<div style="text-align: right" markdown="1">
+The Star
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners<a href="https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched critical security flaw affecting Atlassian Confluence Server that came to light a few months ago is being actively exploited for illicit cryptocurrency mining on unpatched installations.  "If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment information stealers, remote access trojans (RATs), and ransomware," Trend Micro threat researcher Sunil Bharti  said  in a report.  The issue, tracked as  CVE-2022-26134  (CVSS score: 9.8), was addressed by the Australian software company in June 2022.   In one of the infection chains observed by the cybersecurity company, the flaw was leveraged to download and run a shell script ("ro.sh") on the victim's machine, which, in turn, fetched a second shell script ("ap.sh").  The malicious code is designed to update the  PATH variable  to include additional paths
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 21, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
