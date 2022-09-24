@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers unearth hacking group that's been active, yet undetected for years<a href="https://www.cyberscoop.com/researchers-discover-new-hacking-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group attacks with variants of two Windows malware platforms deployed directly into memory, with indications of an additional Linux implant, and are capable of rapid adaptations.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Balaur Hackers-for-Hire Targeting Russian Businesses and Politics Entities<a href="https://thehackernews.com/2022/09/void-balaur-hackers-for-hire-group-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hack-for-hire group that was&nbsp; first exposed in 2019 &nbsp;has expanded its focus to set its sights on entities with business or political ties to Russia.  Dubbed Void Balaur , the cyber mercenary collective has a history of launching cyberattacks against biotechnology and telecom companies since 2015. As many as 3,500 victims have been reported as of November 2021.  "Void Balaur [...] primarily dabbles in cyber espionage and data theft, selling the stolen information to anyone willing to pay," Trend Micro&nbsp; noted &nbsp;at the time.   Attacks conducted by the group are typically both generic and opportunistic and are aimed at gaining unauthorized access to widely-used email services, social media, messaging, and corporate accounts.   Earlier this June, Google's Threat Analysis Group (TAG) took the wraps off a set of&nbsp; credential theft attacks &nbsp;targeting journalists, European politicians, and non-profit's mounted by the threat actor.  "Void Balaur also goes after targets va
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

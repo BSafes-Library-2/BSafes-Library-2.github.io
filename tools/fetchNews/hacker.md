@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stealing GitHub accounts using fake CircleCI notifications<a href="https://www.bleepingcomputer.com/news/security/hackers-stealing-github-accounts-using-fake-circleci-notifications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub is warning of an ongoing phishing campaign that started on September 16 and is targeting its users with emails that impersonate the CircleCI&nbsp;continuous integration and delivery platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Unpatched Atlassian Confluence Servers to Deploy Crypto Miners<a href="https://thehackernews.com/2022/09/hackers-targeting-unpatched-atlassian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched critical security flaw affecting Atlassian Confluence Server that came to light a few months ago is being actively exploited for illicit cryptocurrency mining on unpatched installations.  "If left unremedied and successfully exploited, this vulnerability could be used for multiple and more malicious attacks, such as a complete domain takeover of the infrastructure and the deployment information stealers, remote access trojans (RATs), and ransomware," Trend Micro threat researcher Sunil Bharti&nbsp; said &nbsp;in a report.  The issue, tracked as&nbsp; CVE-2022-26134 &nbsp;(CVSS score: 9.8), was addressed by the Australian software company in June 2022.   In one of the infection chains observed by the cybersecurity company, the flaw was leveraged to download and run a shell script ("ro.sh") on the victim's machine, which, in turn, fetched a second shell script ("ap.sh").  The malicious code is designed to update the&nbsp; PATH variable &nbsp;to include additional paths
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

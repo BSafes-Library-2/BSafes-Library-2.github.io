@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEO poisoning campaign directs search engine visitors from multiple industries to JavaScript malware<a href="https://www.csoonline.com/article/3674791/seo-poisoning-campaign-directs-search-engine-visitors-from-multiple-industries-to-javascript-malwar.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a high-effort search engine optimization (SEO) poisoning campaign that seems to be targeting employees from multiple industries and government sectors when they search for specific terms that are relevant to their work.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Fake CircleCI Notifications to Hack GitHub Accounts<a href="https://thehackernews.com/2022/09/hackers-using-fake-circleci.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has put out an advisory detailing what may be an ongoing phishing campaign targeting its users to steal credentials and two-factor authentication (2FA) codes by impersonating the CircleCI DevOps platform.  The Microsoft-owned code hosting service said it learned of the attack on September 16, 2022, adding the campaign impacted "many victim organizations."  The fraudulent messages claim to notify users that their CircleCI sessions have expired and that they should log in using GitHub credentials by clicking on a link.   Another bogus email&nbsp; revealed by CircleCI &nbsp;prompts users to sign in to their GitHub accounts to accept the company's new Terms of Use and Privacy Policy by following the link embedded in the message.  Regardless of the lure, doing so redirects the target to a lookalike GitHub login page designed to steal and exfiltrate the entered credentials as well as the Time-based One Time Password (TOTP) codes in real-time to the attacker, effectively allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

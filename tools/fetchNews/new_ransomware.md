@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 23rd 2022 - LockBit leak<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-23rd-2022-lockbit-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we saw some embarrassment for the LockBit ransomware operation when their programmer leaked a ransomware builder for the LockBit 3.0 encryptor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

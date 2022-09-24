@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+npm packages used by crypto exchanges compromised<a href="https://www.bleepingcomputer.com/news/security/npm-packages-used-by-crypto-exchanges-compromised/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple npm packages published by the crypto exchange, dYdX, and used by at least 44 cryptocurrency projects, appear to have been compromised. Powered by the Ethereum blockchain, dydX&nbsp;is&nbsp;a decentralized exchange&nbsp;platform offering&nbsp;perpetual trading options for over 35 popular cryptocurrencies including Bitcoin (BTC) and&nbsp;Ether (ETH).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

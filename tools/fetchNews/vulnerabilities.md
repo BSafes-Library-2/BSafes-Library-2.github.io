@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AttachMe: a critical flaw affects Oracle Cloud Infrastructure (OCI)<a href="https://securityaffairs.co/wordpress/136094/security/oracle-cloud-infrastructure-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in Oracle Cloud Infrastructure (OCI) could be exploited to access the virtual disks of other Oracle customers.
+
+
+
+Wiz researchers discovered a critical flaw in Oracle Cloud Infrastructure (OCI) that could be exploited by users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A 15-Year-Old Unpatched Python bug potentially impacts over 350,000 projects<a href="https://securityaffairs.co/wordpress/136081/hacking/python-bug-cve-2007-4559.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 350,000 open source projects can be potentially affected by a 15-Year-Old unpatched Python vulnerability
+
+
+
+More than 350,000 open source projects can be potentially affected by an unpatched Python vulnerability, tracked as CVE-2007-4559 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence bug CVE-2022-26134 exploited in cryptocurrency mining campaign<a href="https://securityaffairs.co/wordpress/136071/malware/atlassian-confluence-flaw-cryptomining.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting unpatched Atlassian Confluence servers as part of an ongoing crypto mining campaign.
+
+
+
+Trend Micro researchers warn of an ongoing crypto mining campaign targeting Atlassian Confluence servers affected by the CVE-2022-26134...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Magento vulnerability targeted in new surge of attacks<a href="https://www.bleepingcomputer.com/news/security/critical-magento-vulnerability-targeted-in-new-surge-of-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a surge in hacking attempts targeting CVE-2022-24086, a critical Magento 2 vulnerability allowing unauthenticated attackers to execute code on unpatched sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Critical Vulnerability in Oracle Cloud Infrastructure<a href="https://thehackernews.com/2022/09/researchers-disclose-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed a new severe Oracle Cloud Infrastructure (OCI) vulnerability that could be exploited by users to access the virtual disks of other Oracle customers.  "Each virtual disk in Oracle's cloud has a unique identifier called OCID," Shir Tamari, head of research at Wiz,&nbsp; said &nbsp;in a series of tweets. "This identifier is not considered secret, and organizations do not treat it as such."  "Given the OCID of a victim's disk that is not currently attached to an active server or configured as shareable, an attacker could 'attach' to it and obtain read/write over it," Tamari added.   The cloud security firm, which dubbed the tenant isolation vulnerability " AttachMe ," said Oracle&nbsp; patched the issue &nbsp;within 24 hours of responsible disclosure on June 9, 2022.  Accessing a volume using the CLI without sufficient permissions  At its core, the vulnerability is rooted in the fact that a disk could be attached to a compute
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15-Year-Old Unpatched Python Vulnerability Potentially Affects Over 350,000 Projects<a href="https://thehackernews.com/2022/09/15-year-old-unpatched-python.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 350,000 open source projects are believed to be potentially vulnerable to exploitation as a result of a security flaw in a Python module that has remained unpatched for 15 years.  The open source repositories span a number of industry verticals, such as software development, artificial intelligence/machine learning, web development, media, security, IT management.  The shortcoming, tracked as&nbsp; CVE-2007-4559 &nbsp;(CVSS score: 6.8), is rooted in the tarfile module, successful exploitation of which could lead to code execution from an arbitrary file write.   "The vulnerability is a path traversal attack in the extract and extractall functions in the tarfile module that allow an attacker to overwrite arbitrary files by adding the '..' sequence to filenames in a TAR archive," Trellix security researcher Kasimir Schulz&nbsp; said &nbsp;in a writeup.  Originally disclosed in August 2007, the bug has to do with how a specially crafted tar archive can be leveraged to overwrite a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gaming Sector Under Relentless Attack<a href="https://cyware.com/news/gaming-sector-under-relentless-attack-62063b00"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are relentlessly targeting&nbsp;the gaming sector. In less than a month, hackers have carried out five major attacks on gamers and gaming platforms; 2K Games became the recent victim. The gaming industry has been a bastion for cyberattackers, owing to its exponential growth over the years,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the Supreme Court’s abortion ruling in Dobbs this past June, cross-border data requests between states for abortion-related investigations may start to resemble cross-border requests between countries and trigger new conflicts of law.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Fatigue - New Social Engineering Attack Takes Toll on Corporate Firms<a href="https://cyware.com/news/mfa-fatigue-new-social-engineering-attack-takes-toll-on-corporate-firms-93416f07"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MFA Fatigue is coming out as a new technique for cybercriminals excelling in social engineering attacks. They are targeting big firms to obtain corporate credentials. This method is turning out to be more successful as it does not need malware or phishing infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Security Takeaways from the Wiseasy Hack<a href="https://thehackernews.com/2022/09/it-security-takeaways-from-wiseasy-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last month Tech Crunch reported that&nbsp; payment terminal manufacturer Wiseasy had been hacked . Although Wiseasy might not be well known in North America, their Android-based payment terminals are widely used in the Asia Pacific region and hackers managed to steal passwords for 140,000 payment terminals.  How Did the Wiseasy Hack Happen?  Wiseasy employees use a cloud-based dashboard for remotely managing payment terminals. This dashboard allows the company to perform a variety of configuration and management tasks such as managing payment terminal users, adding or removing apps, and even locking the terminal.&nbsp;  Hackers were able to gain access to the Wiseasy dashboard by infecting employee's computers with malware. This allowed hackers to gain access to two different employee's dashboards, ultimately leading to a massive harvesting of payment terminal credentials once they gained access.  Top Lessons Learned from the Wiseasy Hack  1 — Transparency isn't always the best policy&nbsp;  While i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

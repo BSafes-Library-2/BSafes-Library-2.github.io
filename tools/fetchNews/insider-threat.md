@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A disgruntled developer is the alleged source of the leak of the Lockbit 3.0 builder<a href="https://securityaffairs.co/wordpress/136056/data-breach/lockbit-3-0-builder-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A disgruntled developer seems to be responsible for the leak of the builder for the latest encryptor of the LockBit ransomware gang.
+
+
+
+The leak of the builder for the latest encryptor of the LockBit ransomware gang made the headlines, it seems that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

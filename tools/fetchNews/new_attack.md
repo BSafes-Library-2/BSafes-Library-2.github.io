@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Police arrests teen believed to be behind Uber, Rockstar hacks<a href="https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London police announced on Twitter today the arrest of a British 17-year-old teen suspected of being involved in recent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked the website of the Russian Ministry of Defense<a href="https://securityaffairs.co/wordpress/136127/hacktivism/anonymous-russian-ministry-of-defense.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous claims to have hacked the website of the Russian Ministry of Defense and leaked data of 305,925 people.
+
+
+
+The #OpRussia (#OpRussia) launched by Anonymous on Russia after the criminal invasion of Ukraine continues, the popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos warns of new firewall RCE bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos warned today that a critical code injection security vulnerability in the company's&nbsp;Firewall product is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
