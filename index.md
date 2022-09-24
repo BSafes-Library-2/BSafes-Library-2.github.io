@@ -34,6 +34,478 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline ransomware group using new tactics to become more dangerous<a href="https://www.techrepublic.com/article/colonial-pipeline-ransomware-group-using-new-tactics-to-become-more-dangerous/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also known in some circles as FIN7 or Carbon Spider, Coreid is a ransomware-as-a-service (RaaS) operation that develops ransomware tools and services and then collects money from affiliates who use these tools to carry out the actual attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Police Arrested 17-Year-Old Hacker Suspected of Uber and GTA 6 Breaches<a href="https://thehackernews.com/2022/09/london-police-arrested-17-year-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police on Friday revealed that it has arrested a 17-year-old teenager from Oxfordshire on suspicion of hacking.  "On the evening of Thursday 22 September 2022, the City of London Police arrested a 17-year-old in Oxfordshire on suspicion of hacking," the agency  said , adding "he remains in police custody."  The department said the arrest was made as part of an investigation in partnership with the U.K. National Crime Agency's cyber crime unit.   No further details about the nature of the investigation were disclosed, although it's suspected that the law enforcement action may have something to do with the recent string of high-profile hacks aimed at  Uber  and  Rockstar Games .  Both the intrusions are alleged to have been committed by the same threat actor, who goes by the name Tea Pot (aka teapotuberhacker).  Uber, for its part, has pinned the breach on an attacker (or attackers) that it believes is associated with the LAPSUS$ extortion
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM package discovered in supply chain attack<a href="https://www.techtarget.com/searchsecurity/news/252525335/Malicious-NPM-package-discovered-in-supply-chain-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers with ReversingLabs said the Material Tailwind library is being impersonated for an apparent supply chain attack targeting developers. The team spotted a look-alike NPM package circulating on repositories.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability<a href="https://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security software company Sophos has warned of cyberattacks targeting a recently addressed critical vulnerability in its firewall product.  The issue, tracked as  CVE-2022-3236  (CVSS score: 9.8), impacts Sophos Firewall v19.0 MR1 (19.0.1) and older and concerns a code injection vulnerability in the User Portal and Webadmin components that could result in remote code execution.  The company  said  it "has observed this vulnerability being used to target a small set of specific organizations, primarily in the South Asia region," adding it directly notified these entities.   As a workaround, Sophos is recommending that users take steps to ensure that the User Portal and Webadmin are not exposed to WAN. Alternatively, users can update to the latest supported version -   v19.5 GA  v19.0 MR2 (19.0.2)  v19.0 GA, MR1, and MR1-1  v18.5 MR5 (18.5.5)  v18.5 GA, MR1, MR1-1, MR2, MR3, and MR4  v18.0 MR3, MR4, MR5, and MR6  v17.5 MR12, MR13, MR14, MR15, MR16, and MR17  v17.0 MR10   Users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos warns of a new actively exploited flaw in Firewall product<a href="https://securityaffairs.co/wordpress/136135/security/sophos-user-portal-webadmin-bug.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm, Sophos, warned of a critical code injection security vulnerability, tracked as CVE-2022-3236, affecting its Firewall product which is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEO poisoning campaign directs search engine visitors from multiple industries to JavaScript malware<a href="https://www.csoonline.com/article/3674791/seo-poisoning-campaign-directs-search-engine-visitors-from-multiple-industries-to-javascript-malwar.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a high-effort search engine optimization (SEO) poisoning campaign that seems to be targeting employees from multiple industries and government sectors when they search for specific terms that are relevant to their work.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State Actors Conduct Cyber Operations Against the Government of Albania<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-264a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2022, Iranian state cyber actors—identifying as “HomeLand Justice”—launched a destructive cyber attack against the Government of Albania which rendered websites and services unavailable.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 23rd 2022 - LockBit leak<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-23rd-2022-lockbit-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week we saw some embarrassment for the LockBit ransomware operation when their programmer leaked a ransomware builder for the LockBit 3.0 encryptor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos warns of a new actively exploited flaw in Firewall product<a href="https://securityaffairs.co/wordpress/136135/security/sophos-user-portal-webadmin-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos warns that a critical code injection security vulnerability in its Firewall product is actively exploited in the wild.
+
+
+
+Sophos warns of a critical code injection security vulnerability, tracked as CVE-2022-3236, affecting its Firewall product...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Police arrests teen believed to be behind Uber, Rockstar hacks<a href="https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London police announced on Twitter today the arrest of a British 17-year-old teen suspected of being involved in recent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous claims to have hacked the website of the Russian Ministry of Defense<a href="https://securityaffairs.co/wordpress/136127/hacktivism/anonymous-russian-ministry-of-defense.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous claims to have hacked the website of the Russian Ministry of Defense and leaked data of 305,925 people.
+
+
+
+The #OpRussia (#OpRussia) launched by Anonymous on Russia after the criminal invasion of Ukraine continues, the popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos warns of new firewall RCE bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos warned today that a critical code injection security vulnerability in the company's Firewall product is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Fake CircleCI Notifications to Hack GitHub Accounts<a href="https://thehackernews.com/2022/09/hackers-using-fake-circleci.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has put out an advisory detailing what may be an ongoing phishing campaign targeting its users to steal credentials and two-factor authentication (2FA) codes by impersonating the CircleCI DevOps platform.  The Microsoft-owned code hosting service said it learned of the attack on September 16, 2022, adding the campaign impacted "many victim organizations."  The fraudulent messages claim to notify users that their CircleCI sessions have expired and that they should log in using GitHub credentials by clicking on a link.   Another bogus email  revealed by CircleCI  prompts users to sign in to their GitHub accounts to accept the company's new Terms of Use and Privacy Policy by following the link embedded in the message.  Regardless of the lure, doing so redirects the target to a lookalike GitHub login page designed to steal and exfiltrate the entered credentials as well as the Time-based One Time Password (TOTP) codes in real-time to the attacker, effectively allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zoho ManageEngine flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/136120/hacking/cisa-zoho-manageengine-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a security flaw in Zoho ManageEngine, tracked as CVE-2022-35405, to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a recently disclosed security flaw in Zoho ManageEngine,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+npm packages used by crypto exchanges compromised<a href="https://www.bleepingcomputer.com/news/security/npm-packages-used-by-crypto-exchanges-compromised/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple npm packages published by the crypto exchange, dYdX, and used by at least 44 cryptocurrency projects, appear to have been compromised. Powered by the Ethereum blockchain, dydX is a decentralized exchange platform offering perpetual trading options for over 35 popular cryptocurrencies including Bitcoin (BTC) and Ether (ETH).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Metador APT Targeting Telcos, ISPs, and Universities<a href="https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor of unknown origin has been linked to attacks targeting telecom, internet service providers, and universities across multiple countries in the Middle East and Africa.  "The operators are highly aware of operations security, managing carefully segmented infrastructure per victim, and quickly deploying intricate countermeasures in the presence of security solutions," researchers from SentinelOne  said  in a new report.   The cybersecurity firm codenamed the group  Metador  in reference to a string "I am meta" in one of their malware samples and because of Spanish-language responses from the command-and-control (C2) servers.  The threat actor is said to have primarily focused on the development of cross-platform malware in its pursuit of espionage aims. Other hallmarks of the campaign are the limited number of intrusions and long-term access to targets.   This includes two different Windows malware platforms called metaMain and Ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Magento 2 template attacks exploiting the CVE-2022-24086 flaw<a href="https://securityaffairs.co/wordpress/136112/hacking/magento-2-cve-2022-24086.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sansec researchers warn of a surge in hacking attempts targeting a critical Magento 2 vulnerability tracked as CVE-2022-24086. 
+
+
+
+Sansec researchers are warning of a hacking campaign targeting the CVE-2022-24086 Magento 2 vulnerability. 
+
+
+
+Magento...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal calls on users to run proxies for bypassing Iran blocks<a href="https://www.bleepingcomputer.com/news/security/signal-calls-on-users-to-run-proxies-for-bypassing-iran-blocks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal is urging its global community to help people in Iran stay connected with each other and the rest of the world by volunteering proxies to bypass the aggressive restrictions imposed by the Iranian regime.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Hackers Exploiting Recent Zoho ManageEngine Vulnerability<a href="https://thehackernews.com/2022/09/cisa-warns-of-hackers-exploiting-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday  added  a recently disclosed security flaw in Zoho ManageEngine to its Known Exploited Vulnerabilities ( KEV ) Catalog, citing evidence of active exploitation.  "Zoho ManageEngine PAM360, Password Manager Pro, and Access Manager Plus contain an unspecified vulnerability which allows for remote code execution," the agency said in a notice.   The  critical vulnerability , tracked as  CVE-2022-35405 , is rated 9.8 out of 10 for severity on the CVSS scoring system, and was patched by Zoho as part of updates released on June 24, 2022.  Although the exact nature of the flaw remains unknown, the India-based enterprise solutions company  said  it addressed the issue by removing the vulnerable components that could lead to the remote execution of arbitrary code.  Zoho has also warned of the public availability of a proof-of-concept (PoC) exploit for the vulnerability, making it imperative that customers move
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Telecoms company Optus discloses security breach<a href="https://securityaffairs.co/wordpress/136104/data-breach/optus-discloses-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian telecoms company Optus disclosed a data breach, threat actors gained access to former and current customers.
+
+
+
+Optus, one of the largest service providers in Australia, disclosed a data breach. The intruders gained access to the personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine dismantles hacker gang that stole 30 million accounts<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-hacker-gang-that-stole-30-million-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber department of Ukraine's Security Service (SSU) has taken down a group of hackers that stole accounts of about 30 million individuals and sold them on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers unearth hacking group that's been active, yet undetected for years<a href="https://www.cyberscoop.com/researchers-discover-new-hacking-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group attacks with variants of two Windows malware platforms deployed directly into memory, with indications of an additional Linux implant, and are capable of rapid adaptations.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firing Your Entire Cybersecurity Team? Are You Sure?<a href="https://thehackernews.com/2022/09/firing-your-entire-cybersecurity-team.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What on earth were they thinking? That's what we – and other security experts – were wondering when content giant Patreon recently dismissed its entire internal cybersecurity team in exchange for outsourced services.  Of course, we don't know the true motivations for this move. But, as outsiders looking in, we can guess the cybersecurity implications of the decision would be inescapable for any organization.  Fire the internal team and you take a huge risk  Patreon is a content-creator site that handles billions of dollars in revenue. For reasons unknown to us, Patreon fired not just a couple of staff members or someone in middle management. No: the company fired its entire security team.   It's a big decision with significant consequences because it results in an incalculable loss of organizational knowledge. At the technical level, it's a loss of soft knowledge around deep system interdependencies that internal security experts will just "know" about and ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This image shows its own MD5 checksum — and it's kind of a big deal<a href="https://www.bleepingcomputer.com/news/security/this-image-shows-its-own-md5-checksum-and-its-kind-of-a-big-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Generating checksums—cryptographic hashes such as MD5 or SHA-256 functions for files is hardly anything new and one of the most efficient means to ascertain the integrity of a file, or to check if two files are identical. But a researcher has generated an image that visibly contains its own MD5 hash.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Harly Trojan subscriber in Google Play apps<a href="https://www.kaspersky.com/blog/harly-trojan-subscriber/45573/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2020 more than 190 apps infected with Harly have been found on Google Play. A conservative estimate of the number of downloads of these apps is 4.8 million, but the actual figure may be even higher.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Balaur Hackers-for-Hire Targeting Russian Businesses and Politics Entities<a href="https://thehackernews.com/2022/09/void-balaur-hackers-for-hire-group-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hack-for-hire group that was  first exposed in 2019  has expanded its focus to set its sights on entities with business or political ties to Russia.  Dubbed Void Balaur , the cyber mercenary collective has a history of launching cyberattacks against biotechnology and telecom companies since 2015. As many as 3,500 victims have been reported as of November 2021.  "Void Balaur [...] primarily dabbles in cyber espionage and data theft, selling the stolen information to anyone willing to pay," Trend Micro  noted  at the time.   Attacks conducted by the group are typically both generic and opportunistic and are aimed at gaining unauthorized access to widely-used email services, social media, messaging, and corporate accounts.   Earlier this June, Google's Threat Analysis Group (TAG) took the wraps off a set of  credential theft attacks  targeting journalists, European politicians, and non-profit's mounted by the threat actor.  "Void Balaur also goes after targets va
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-million dollar credit card fraud operation uncovered<a href="https://www.bleepingcomputer.com/news/security/multi-million-dollar-credit-card-fraud-operation-uncovered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive operation that has reportedly siphoned millions of USD from credit cards since its launch in 2019 has been exposed and is considered responsible for losses for tens of thousands of victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What you need to know about Evil-Colon attacks<a href="https://www.helpnetsecurity.com/2022/09/22/evil-colon-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil-Colon operates similarly to the now-defunct Poison-NULL-Byte attacks. Though Poison-NULL-Byte attacks are now obsolete, they may have paved the path for new, similar attacks that could wreak havoc in your code if not dealt with properly.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
