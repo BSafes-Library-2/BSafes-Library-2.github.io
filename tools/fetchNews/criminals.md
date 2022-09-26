@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colonial Pipeline ransomware group using new tactics to become more dangerous<a href="https://www.techrepublic.com/article/colonial-pipeline-ransomware-group-using-new-tactics-to-become-more-dangerous/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also known in some circles as FIN7 or Carbon Spider, Coreid is a ransomware-as-a-service (RaaS) operation that develops ransomware tools and services and then collects money from affiliates who use these tools to carry out the actual attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Republic
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Police Arrested 17-Year-Old Hacker Suspected of Uber and GTA 6 Breaches<a href="https://thehackernews.com/2022/09/london-police-arrested-17-year-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police on Friday revealed that it has arrested a 17-year-old teenager from Oxfordshire on suspicion of hacking.  "On the evening of Thursday 22 September 2022, the City of London Police arrested a 17-year-old in Oxfordshire on suspicion of hacking," the agency&nbsp; said , adding "he remains in police custody."  The department said the arrest was made as part of an investigation in partnership with the U.K. National Crime Agency's cyber crime unit.   No further details about the nature of the investigation were disclosed, although it's suspected that the law enforcement action may have something to do with the recent string of high-profile hacks aimed at&nbsp; Uber &nbsp;and&nbsp; Rockstar Games .  Both the intrusions are alleged to have been committed by the same threat actor, who goes by the name Tea Pot (aka teapotuberhacker).  Uber, for its part, has pinned the breach on an attacker (or attackers) that it believes is associated with the LAPSUS$ extortion
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine dismantles hacker gang that stole 30 million accounts<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-hacker-gang-that-stole-30-million-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber department of Ukraine's Security Service (SSU) has taken down a group of hackers that stole accounts of about 30 million individuals and sold them on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-million dollar credit card fraud operation uncovered<a href="https://www.bleepingcomputer.com/news/security/multi-million-dollar-credit-card-fraud-operation-uncovered/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive operation that has reportedly siphoned millions of USD from credit cards since its launch in 2019 has been exposed and is considered responsible for losses for tens of thousands of victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

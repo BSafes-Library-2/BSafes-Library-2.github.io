@@ -8,6 +8,74 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability<a href="https://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security software company Sophos has warned of cyberattacks targeting a recently addressed critical vulnerability in its firewall product.  The issue, tracked as&nbsp; CVE-2022-3236 &nbsp;(CVSS score: 9.8), impacts Sophos Firewall v19.0 MR1 (19.0.1) and older and concerns a code injection vulnerability in the User Portal and Webadmin components that could result in remote code execution.  The company&nbsp; said &nbsp;it "has observed this vulnerability being used to target a small set of specific organizations, primarily in the South Asia region," adding it directly notified these entities.   As a workaround, Sophos is recommending that users take steps to ensure that the User Portal and Webadmin are not exposed to WAN. Alternatively, users can update to the latest supported version -   v19.5 GA  v19.0 MR2 (19.0.2)  v19.0 GA, MR1, and MR1-1  v18.5 MR5 (18.5.5)  v18.5 GA, MR1, MR1-1, MR2, MR3, and MR4  v18.0 MR3, MR4, MR5, and MR6  v17.5 MR12, MR13, MR14, MR15, MR16, and MR17  v17.0 MR10   Users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos warns of a new actively exploited flaw in Firewall product<a href="https://securityaffairs.co/wordpress/136135/security/sophos-user-portal-webadmin-bug.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm, Sophos, warned of a critical code injection security vulnerability, tracked as CVE-2022-3236, affecting its Firewall product which is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos warns of a new actively exploited flaw in Firewall product<a href="https://securityaffairs.co/wordpress/136135/security/sophos-user-portal-webadmin-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos warns that a critical code injection security vulnerability in its Firewall product is actively exploited in the wild.
+
+
+
+Sophos warns of a critical code injection security vulnerability, tracked as CVE-2022-3236, affecting its Firewall product...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Magento 2 template attacks exploiting the CVE-2022-24086 flaw<a href="https://securityaffairs.co/wordpress/136112/hacking/magento-2-cve-2022-24086.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sansec researchers warn of a surge in hacking attempts targeting a critical Magento 2 vulnerability tracked as CVE-2022-24086. 
+
+
+
+Sansec researchers are warning of a hacking campaign targeting the CVE-2022-24086 Magento 2 vulnerability. 
+
+
+
+Magento...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

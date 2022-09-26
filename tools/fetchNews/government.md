@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State Actors Conduct Cyber Operations Against the Government of Albania<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-264a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In July 2022, Iranian state cyber actors—identifying as “HomeLand Justice”—launched a destructive cyber attack against the Government of Albania which rendered websites and services unavailable.
+</details>
+<div style="text-align: right" markdown="1">
+US CERT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zoho ManageEngine flaw to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/136120/hacking/cisa-zoho-manageengine-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a security flaw in Zoho ManageEngine, tracked as CVE-2022-35405, to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a recently disclosed security flaw in Zoho ManageEngine,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Hackers Exploiting Recent Zoho ManageEngine Vulnerability<a href="https://thehackernews.com/2022/09/cisa-warns-of-hackers-exploiting-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday&nbsp; added &nbsp;a recently disclosed security flaw in Zoho ManageEngine to its Known Exploited Vulnerabilities ( KEV ) Catalog, citing evidence of active exploitation.  "Zoho ManageEngine PAM360, Password Manager Pro, and Access Manager Plus contain an unspecified vulnerability which allows for remote code execution," the agency said in a notice.   The&nbsp; critical vulnerability , tracked as&nbsp; CVE-2022-35405 , is rated 9.8 out of 10 for severity on the CVSS scoring system, and was patched by Zoho as part of updates released on June 24, 2022.  Although the exact nature of the flaw remains unknown, the India-based enterprise solutions company&nbsp; said &nbsp;it addressed the issue by removing the vulnerable components that could lead to the remote execution of arbitrary code.  Zoho has also warned of the public availability of a proof-of-concept (PoC) exploit for the vulnerability, making it imperative that customers move
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

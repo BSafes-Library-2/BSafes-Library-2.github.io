@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines learned it was breached from phishing targets<a href="https://www.bleepingcomputer.com/news/security/american-airlines-learned-it-was-breached-from-phishing-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Airlines says its Cyber Security Response Team&nbsp;found out about a recently disclosed data breach from the targets of a phishing campaign that was using an employee's hacked Microsoft 365 account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Police arrested a teen suspected to be behind Uber, Rockstar Games breaches<a href="https://securityaffairs.co/wordpress/136146/cyber-crime/uber-rockstar-games-hacker-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police this week announced the arrest of a 17-year-old teenager on suspicion of hacking. Is he the Uber hacker?
+
+
+
+The City of London Police on Friday announced to have arrested a 17-year-old teenager on suspicion of hacking, however,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

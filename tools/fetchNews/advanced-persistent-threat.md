@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Metador APT Targeting Telcos, ISPs, and Universities<a href="https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor of unknown origin has been linked to attacks targeting telecom, internet service providers, and universities across multiple countries in the Middle East and Africa.  "The operators are highly aware of operations security, managing carefully segmented infrastructure per victim, and quickly deploying intricate countermeasures in the presence of security solutions," researchers from SentinelOne&nbsp; said &nbsp;in a new report.   The cybersecurity firm codenamed the group&nbsp; Metador &nbsp;in reference to a string "I am meta" in one of their malware samples and because of Spanish-language responses from the command-and-control (C2) servers.  The threat actor is said to have primarily focused on the development of cross-platform malware in its pursuit of espionage aims. Other hallmarks of the campaign are the limited number of intrusions and long-term access to targets.   This includes two different Windows malware platforms called metaMain and Ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firing Your Entire Cybersecurity Team? Are You Sure?<a href="https://thehackernews.com/2022/09/firing-your-entire-cybersecurity-team.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What on earth were they thinking? That's what we – and other security experts – were wondering when content giant Patreon recently dismissed its entire internal cybersecurity team in exchange for outsourced services.  Of course, we don't know the true motivations for this move. But, as outsiders looking in, we can guess the cybersecurity implications of the decision would be inescapable for any organization.  Fire the internal team and you take a huge risk  Patreon is a content-creator site that handles billions of dollars in revenue. For reasons unknown to us, Patreon fired not just a couple of staff members or someone in middle management. No: the company fired its entire security team.&nbsp;  It's a big decision with significant consequences because it results in an incalculable loss of organizational knowledge. At the technical level, it's a loss of soft knowledge around deep system interdependencies that internal security experts will just "know" about and ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What you need to know about Evil-Colon attacks<a href="https://www.helpnetsecurity.com/2022/09/22/evil-colon-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evil-Colon operates similarly to the now-defunct Poison-NULL-Byte attacks. Though Poison-NULL-Byte attacks are now obsolete, they may have paved the path for new, similar attacks that could wreak havoc in your code if not dealt with properly.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

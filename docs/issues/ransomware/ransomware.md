@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware data theft tool may show a shift in extortion tactics<a href="https://www.bleepingcomputer.com/news/security/ransomware-data-theft-tool-may-show-a-shift-in-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data exfiltration malware known as Exmatter and previously linked with the BlackMatter ransomware group is now being upgraded with data corruption functionality that may indicate a new tactic that ransomware affiliates might switch to in the future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Telecoms company Optus discloses security breach<a href="https://securityaffairs.co/wordpress/136104/data-breach/optus-discloses-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian telecoms company Optus disclosed a data breach, threat actors gained access to former and current customers.
+
+
+
+Optus, one of the largest service providers in Australia, disclosed a data breach. The intruders gained access to the personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 now warns when typing your password in Notepad, websites<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-now-warns-when-typing-your-password-in-notepad-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 11 22H2 was just released, and with it comes a new security feature called Enhanced Phishing Protection that warns users when they enter their Windows password in insecure applications or on websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

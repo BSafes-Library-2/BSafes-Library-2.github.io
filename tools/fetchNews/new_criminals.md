@@ -11,6 +11,24 @@ nav_order: 900031
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: SSU dismantled cyber gang that stole 30 million accounts<a href="https://securityaffairs.co/wordpress/136156/cyber-crime/ukraine-cyber-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber department of Ukraine 's Security Service (SSU) dismantled a gang that stole accounts of about 30 million individuals.
+
+
+
+The cyber department of Ukraine 's Security Service (SSU) has taken down a group of hackers that is behind the theft of about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline ransomware group using new tactics to become more dangerous<a href="https://www.techrepublic.com/article/colonial-pipeline-ransomware-group-using-new-tactics-to-become-more-dangerous/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal calls on users to run proxies for bypassing Iran blocks<a href="https://www.bleepingcomputer.com/news/security/signal-calls-on-users-to-run-proxies-for-bypassing-iran-blocks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Signal is urging its global community to help people in Iran stay connected with each other and the rest of the world by volunteering proxies to bypass the aggressive restrictions imposed by the Iranian regime.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This image shows its own MD5 checksum — and it's kind of a big deal<a href="https://www.bleepingcomputer.com/news/security/this-image-shows-its-own-md5-checksum-and-its-kind-of-a-big-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Generating checksums—cryptographic hashes such as MD5 or SHA-256 functions for files is hardly anything new and one of the most efficient means to ascertain the integrity of a file, or to check if two files are identical. But a researcher has generated an image that visibly contains its own MD5 hash.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

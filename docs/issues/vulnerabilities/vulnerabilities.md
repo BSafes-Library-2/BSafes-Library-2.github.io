@@ -11,6 +11,28 @@ nav_order: 900220
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+ISC fixed high-severity flaws in the BIND DNS software<a href="https://securityaffairs.co/wordpress/136164/security/bind-dns-software-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) fixed six remotely exploitable vulnerabilities in the BIND DNS software.
+
+
+
+The Internet Systems Consortium (ISC) this week released security patches to address six remotely exploitable vulnerabilities in BIND DNS software.
+
+
+
+Four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability<a href="https://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html"> Full Text</a>
 </p>
 <details>
