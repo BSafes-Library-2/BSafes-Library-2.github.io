@@ -34,6 +34,218 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware data theft tool may show a shift in extortion tactics<a href="https://www.bleepingcomputer.com/news/security/ransomware-data-theft-tool-may-show-a-shift-in-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data exfiltration malware known as Exmatter and previously linked with the BlackMatter ransomware group is now being upgraded with data corruption functionality that may indicate a new tactic that ransomware affiliates might switch to in the future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers impersonate CircleCI platform to compromise GitHub accounts<a href="https://securityaffairs.co/wordpress/136211/hacking/phishing-circleci-github-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target GitHub users to steal credentials and two-factor authentication (2FA) codes by impersonating the CircleCI DevOps platform.
+
+
+
+GitHub is warning of an ongoing phishing campaign targeting its users to steal credentials and two-factor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking group ‘Metador’ lurking in ISP networks for months<a href="https://www.bleepingcomputer.com/news/security/new-hacking-group-metador-lurking-in-isp-networks-for-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor that researchers have named 'Metador' has been breaching telecommunications, internet services providers (ISPs), and universities for about two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpIran: Anonymous declares war on Teheran amid Mahsa Amini’s death<a href="https://securityaffairs.co/wordpress/136179/hacktivism/anonymous-opiran-mahsa-amini-death.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpIran: Anonymous launched Operation Iran against Teheran due to the ongoing crackdown on dissent after Mahsa Amini’s death.
+
+
+
+Anonymous launched OpIran against Iran due to the ongoing crackdown on dissent after Mahsa Amini’s death.
+
+
+
+The protests...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 385<a href="https://securityaffairs.co/wordpress/136174/breaking-news/security-affairs-newsletter-round-385.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+ISC...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 now warns when typing your password in Notepad, websites<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-now-warns-when-typing-your-password-in-notepad-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 11 22H2 was just released, and with it comes a new security feature called Enhanced Phishing Protection that warns users when they enter their Windows password in insecure applications or on websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SQL servers hacked in TargetCompany ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-in-targetcompany-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at ASEC have discovered a new wave of attacks targeting vulnerable Microsoft SQL servers, involving the deployment of a ransomware strain named FARGO.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC fixed high-severity flaws in the BIND DNS software<a href="https://securityaffairs.co/wordpress/136164/security/bind-dns-software-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) fixed six remotely exploitable vulnerabilities in the BIND DNS software.
+
+
+
+The Internet Systems Consortium (ISC) this week released security patches to address six remotely exploitable vulnerabilities in BIND DNS software.
+
+
+
+Four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines learned it was breached from phishing targets<a href="https://www.bleepingcomputer.com/news/security/american-airlines-learned-it-was-breached-from-phishing-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Airlines says its Cyber Security Response Team found out about a recently disclosed data breach from the targets of a phishing campaign that was using an employee's hacked Microsoft 365 account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: SSU dismantled cyber gang that stole 30 million accounts<a href="https://securityaffairs.co/wordpress/136156/cyber-crime/ukraine-cyber-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber department of Ukraine 's Security Service (SSU) dismantled a gang that stole accounts of about 30 million individuals.
+
+
+
+The cyber department of Ukraine 's Security Service (SSU) has taken down a group of hackers that is behind the theft of about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Police arrested a teen suspected to be behind Uber, Rockstar Games breaches<a href="https://securityaffairs.co/wordpress/136146/cyber-crime/uber-rockstar-games-hacker-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police this week announced the arrest of a 17-year-old teenager on suspicion of hacking. Is he the Uber hacker?
+
+
+
+The City of London Police on Friday announced to have arrested a 17-year-old teenager on suspicion of hacking, however,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

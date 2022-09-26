@@ -34,7 +34,219 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware data theft tool may show a shift in extortion tactics<a href="https://www.bleepingcomputer.com/news/security/ransomware-data-theft-tool-may-show-a-shift-in-extortion-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data exfiltration malware known as Exmatter and previously linked with the BlackMatter ransomware group is now being upgraded with data corruption functionality that may indicate a new tactic that ransomware affiliates might switch to in the future.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers impersonate CircleCI platform to compromise GitHub accounts<a href="https://securityaffairs.co/wordpress/136211/hacking/phishing-circleci-github-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target GitHub users to steal credentials and two-factor authentication (2FA) codes by impersonating the CircleCI DevOps platform.
+
+
+
+GitHub is warning of an ongoing phishing campaign targeting its users to steal credentials and two-factor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking group ‘Metador’ lurking in ISP networks for months<a href="https://www.bleepingcomputer.com/news/security/new-hacking-group-metador-lurking-in-isp-networks-for-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor that researchers have named 'Metador' has been breaching telecommunications, internet services providers (ISPs), and universities for about two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpIran: Anonymous declares war on Teheran amid Mahsa Amini’s death<a href="https://securityaffairs.co/wordpress/136179/hacktivism/anonymous-opiran-mahsa-amini-death.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpIran: Anonymous launched Operation Iran against Teheran due to the ongoing crackdown on dissent after Mahsa Amini’s death.
+
+
+
+Anonymous launched OpIran against Iran due to the ongoing crackdown on dissent after Mahsa Amini’s death.
+
+
+
+The protests...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 385<a href="https://securityaffairs.co/wordpress/136174/breaking-news/security-affairs-newsletter-round-385.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+ISC...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows 11 now warns when typing your password in Notepad, websites<a href="https://www.bleepingcomputer.com/news/microsoft/windows-11-now-warns-when-typing-your-password-in-notepad-websites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows 11 22H2 was just released, and with it comes a new security feature called Enhanced Phishing Protection that warns users when they enter their Windows password in insecure applications or on websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SQL servers hacked in TargetCompany ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-in-targetcompany-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at ASEC have discovered a new wave of attacks targeting vulnerable Microsoft SQL servers, involving the deployment of a ransomware strain named FARGO.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC fixed high-severity flaws in the BIND DNS software<a href="https://securityaffairs.co/wordpress/136164/security/bind-dns-software-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) fixed six remotely exploitable vulnerabilities in the BIND DNS software.
+
+
+
+The Internet Systems Consortium (ISC) this week released security patches to address six remotely exploitable vulnerabilities in BIND DNS software.
+
+
+
+Four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines learned it was breached from phishing targets<a href="https://www.bleepingcomputer.com/news/security/american-airlines-learned-it-was-breached-from-phishing-targets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Airlines says its Cyber Security Response Team found out about a recently disclosed data breach from the targets of a phishing campaign that was using an employee's hacked Microsoft 365 account.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine: SSU dismantled cyber gang that stole 30 million accounts<a href="https://securityaffairs.co/wordpress/136156/cyber-crime/ukraine-cyber-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber department of Ukraine 's Security Service (SSU) dismantled a gang that stole accounts of about 30 million individuals.
+
+
+
+The cyber department of Ukraine 's Security Service (SSU) has taken down a group of hackers that is behind the theft of about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+London Police arrested a teen suspected to be behind Uber, Rockstar Games breaches<a href="https://securityaffairs.co/wordpress/136146/cyber-crime/uber-rockstar-games-hacker-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of London Police this week announced the arrest of a 17-year-old teenager on suspicion of hacking. Is he the Uber hacker?
+
+
+
+The City of London Police on Friday announced to have arrested a 17-year-old teenager on suspicion of hacking, however,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colonial Pipeline ransomware group using new tactics to become more dangerous<a href="https://www.techrepublic.com/article/colonial-pipeline-ransomware-group-using-new-tactics-to-become-more-dangerous/?&web_view=true"> Full Text</a>
@@ -50,7 +262,7 @@ Tech Republic
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2022
+September 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 London Police Arrested 17-Year-Old Hacker Suspected of Uber and GTA 6 Breaches<a href="https://thehackernews.com/2022/09/london-police-arrested-17-year-old.html"> Full Text</a>
@@ -66,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2022
+September 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM package discovered in supply chain attack<a href="https://www.techtarget.com/searchsecurity/news/252525335/Malicious-NPM-package-discovered-in-supply-chain-attack?&web_view=true"> Full Text</a>
@@ -82,7 +294,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2022
+September 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability<a href="https://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html"> Full Text</a>
@@ -98,7 +310,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2022
+September 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos warns of a new actively exploited flaw in Firewall product<a href="https://securityaffairs.co/wordpress/136135/security/sophos-user-portal-webadmin-bug.html?&web_view=true"> Full Text</a>
@@ -114,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2022
+September 24, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEO poisoning campaign directs search engine visitors from multiple industries to JavaScript malware<a href="https://www.csoonline.com/article/3674791/seo-poisoning-campaign-directs-search-engine-visitors-from-multiple-industries-to-javascript-malwar.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -130,7 +342,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 24, 2022
+September 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian State Actors Conduct Cyber Operations Against the Government of Albania<a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-264a?&web_view=true"> Full Text</a>
@@ -146,7 +358,7 @@ US CERT
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 23rd 2022 - LockBit leak<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-23rd-2022-lockbit-leak/"> Full Text</a>
@@ -162,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos warns of a new actively exploited flaw in Firewall product<a href="https://securityaffairs.co/wordpress/136135/security/sophos-user-portal-webadmin-bug.html"> Full Text</a>
@@ -182,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Police arrests teen believed to be behind Uber, Rockstar hacks<a href="https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/"> Full Text</a>
@@ -198,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous claims to have hacked the website of the Russian Ministry of Defense<a href="https://securityaffairs.co/wordpress/136127/hacktivism/anonymous-russian-ministry-of-defense.html"> Full Text</a>
@@ -218,7 +430,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos warns of new firewall RCE bug exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/"> Full Text</a>
@@ -234,7 +446,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Fake CircleCI Notifications to Hack GitHub Accounts<a href="https://thehackernews.com/2022/09/hackers-using-fake-circleci.html"> Full Text</a>
@@ -250,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Zoho ManageEngine flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/136120/hacking/cisa-zoho-manageengine-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -270,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 npm packages used by crypto exchanges compromised<a href="https://www.bleepingcomputer.com/news/security/npm-packages-used-by-crypto-exchanges-compromised/"> Full Text</a>
@@ -286,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Metador APT Targeting Telcos, ISPs, and Universities<a href="https://thehackernews.com/2022/09/researchers-uncover-new-metador-apt.html"> Full Text</a>
@@ -302,7 +514,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in Magento 2 template attacks exploiting the CVE-2022-24086 flaw<a href="https://securityaffairs.co/wordpress/136112/hacking/magento-2-cve-2022-24086.html"> Full Text</a>
@@ -326,7 +538,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal calls on users to run proxies for bypassing Iran blocks<a href="https://www.bleepingcomputer.com/news/security/signal-calls-on-users-to-run-proxies-for-bypassing-iran-blocks/"> Full Text</a>
@@ -342,7 +554,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Hackers Exploiting Recent Zoho ManageEngine Vulnerability<a href="https://thehackernews.com/2022/09/cisa-warns-of-hackers-exploiting-recent.html"> Full Text</a>
@@ -358,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Telecoms company Optus discloses security breach<a href="https://securityaffairs.co/wordpress/136104/data-breach/optus-discloses-security-breach.html"> Full Text</a>
@@ -378,7 +590,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine dismantles hacker gang that stole 30 million accounts<a href="https://www.bleepingcomputer.com/news/security/ukraine-dismantles-hacker-gang-that-stole-30-million-accounts/"> Full Text</a>
@@ -394,7 +606,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers unearth hacking group that's been active, yet undetected for years<a href="https://www.cyberscoop.com/researchers-discover-new-hacking-group/?&web_view=true"> Full Text</a>
@@ -410,7 +622,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firing Your Entire Cybersecurity Team? Are You Sure?<a href="https://thehackernews.com/2022/09/firing-your-entire-cybersecurity-team.html"> Full Text</a>
@@ -426,7 +638,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This image shows its own MD5 checksum — and it's kind of a big deal<a href="https://www.bleepingcomputer.com/news/security/this-image-shows-its-own-md5-checksum-and-its-kind-of-a-big-deal/"> Full Text</a>
@@ -442,7 +654,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Harly Trojan subscriber in Google Play apps<a href="https://www.kaspersky.com/blog/harly-trojan-subscriber/45573/?&web_view=true"> Full Text</a>
@@ -458,7 +670,7 @@ Kaspersky Lab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Void Balaur Hackers-for-Hire Targeting Russian Businesses and Politics Entities<a href="https://thehackernews.com/2022/09/void-balaur-hackers-for-hire-group-now.html"> Full Text</a>
@@ -474,7 +686,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-million dollar credit card fraud operation uncovered<a href="https://www.bleepingcomputer.com/news/security/multi-million-dollar-credit-card-fraud-operation-uncovered/"> Full Text</a>
@@ -490,7 +702,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2022
+September 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What you need to know about Evil-Colon attacks<a href="https://www.helpnetsecurity.com/2022/09/22/evil-colon-attacks/?&web_view=true"> Full Text</a>
