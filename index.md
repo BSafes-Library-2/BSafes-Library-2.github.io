@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Erbium password-stealing malware spreads as game cracks, cheats<a href="https://www.bleepingcomputer.com/news/security/new-erbium-password-stealing-malware-spreads-as-game-cracks-cheats/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NullMixer drops Redline Stealer, SmokeLoader and other malware<a href="https://securelist.com/nullmixer-oodles-of-trojans-in-a-single-dropper/107498/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Securelist
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Identify 3 Hacktivist Groups Supporting Russian Interests<a href="https://thehackernews.com/2022/09/researchers-identify-3-hacktivist.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia prepares massive cyberattacks on the critical infrastructure of Ukraine and its allies<a href="https://securityaffairs.co/wordpress/136265/cyber-warfare-2/russia-prepares-massive-cyberattacks.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use PowerPoint files for 'mouseover' malware delivery<a href="https://www.bleepingcomputer.com/news/security/hackers-use-powerpoint-files-for-mouseover-malware-delivery/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok could face $29 million fine for failing to protect UK children’s privacy<a href="https://therecord.media/tiktok-could-face-27-million-fine-for-failing-to-protect-uk-childrens-privacy/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Espionage Hackers Target Tibetans Using New LOWZERO Backdoor<a href="https://thehackernews.com/2022/09/chinese-espionage-hackers-target.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked TA413 group targets Tibetan entities with new backdoor<a href="https://securityaffairs.co/wordpress/136252/apt/ta413-targets-tibet-backdoor.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adware on Google Play and Apple Store installed 13 million times<a href="https://www.bleepingcomputer.com/news/security/adware-on-google-play-and-apple-store-installed-13-million-times/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Corruption, A Potential New Trend in Ransomware Attacks<a href="https://heimdalsecurity.com/blog/data-corruption-a-potential-new-trend-in-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Attackers Spotted Fine-Tuning Their Malware Arsenal<a href="https://thehackernews.com/2022/09/blackcat-ransomware-attackers-spotted.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Metador, a never-before-seen APT targeted ISPs and telco for about 2 years<a href="https://securityaffairs.co/wordpress/136239/apt/metador-targets-isp-networks.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine warns allies of Russian plans to escalate cyberattacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-warns-allies-of-russian-plans-to-escalate-cyberattacks/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spam email campaign targeting businesses delivers the Agent Tesla stealer<a href="https://securelist.com/agent-tesla-malicious-spam-campaign/107478/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Securelist
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Network Security Threats And How To Protect Yourself<a href="https://thehackernews.com/2022/09/5-network-security-threats-and-how-to.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exmatter exfiltration tool used to implement new extortion tactics<a href="https://securityaffairs.co/wordpress/136226/cyber-crime/exmatter-tool-shift-extortion-tactics.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web3 bug-bounty platform Immunefi raises $24M for its Series A funding round<a href="https://techcrunch.com/2022/09/22/web3-bug-bounty-platform-immunefi-raises-24m-for-its-series-a-funding-round/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Make Account Login Mandatory for New Fitbit Users in 2023<a href="https://thehackernews.com/2022/09/google-to-make-account-login-mandatory.html"> Full Text</a>
@@ -338,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2022
+September 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Arrests Cybercrime Group for Selling Data of 30 Million Accounts<a href="https://thehackernews.com/2022/09/ukraine-arrests-cybercrime-group-for.html"> Full Text</a>

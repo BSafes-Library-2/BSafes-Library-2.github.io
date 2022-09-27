@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Attackers Spotted Fine-Tuning Their Malware Arsenal<a href="https://thehackernews.com/2022/09/blackcat-ransomware-attackers-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; BlackCat ransomware crew &nbsp;has been spotted fine-tuning their malware arsenal to fly under the radar and expand their reach.  "Among some of the more notable developments has been the use of a new version of the Exmatter data exfiltration tool, and the use of Eamfo, information-stealing malware that is designed to steal credentials stored by Veeam backup software," researchers from Symantec&nbsp; said &nbsp;in a new report.  BlackCat, also known by the names ALPHV and Noberus, is attributed to an adversary tracked as Coreid (aka&nbsp; FIN7 , Carbanak, or Carbon Spider) and is said to be a&nbsp; rebranded successor &nbsp;of&nbsp; DarkSide &nbsp;and&nbsp; BlackMatter , both of which shut shop last year following a string of high-profile attacks, including that of Colonial Pipeline.   The threat actor, like other notorious ransomware groups, is known to run a ransomware-as-a-service (RaaS) operation, which involves its core developers enlisting the help of affiliates to carry out the attacks in exchange for a cut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Arrests Cybercrime Group for Selling Data of 30 Million Accounts<a href="https://thehackernews.com/2022/09/ukraine-arrests-cybercrime-group-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement authorities on Friday disclosed that it had "neutralized" a hacking group operating from the city of Lviv that it said acted on behalf of Russian interests.  The group specialized in the sales of 30 million accounts belonging to citizens from Ukraine and the European Union on the dark web and netted a profit of $372,000 (14 million UAH) through electronic payment systems like YooMoney, Qiwi, and WebMoney that are outlawed in the country.   "Their 'wholesale clients' were pro-kremlin propagandists," the Security Service of Ukraine (SSU)&nbsp; said &nbsp;in a press release. "It was them who used the received identification data of Ukrainian and foreign citizens to spread fake 'news' from the front and sow panic."  The goal behind the campaign was "large-scale destabilization in multiple countries," it stated, adding the hacked accounts were used to propagate false information about the socio-political situation in U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

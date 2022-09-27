@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Network Security Threats And How To Protect Yourself<a href="https://thehackernews.com/2022/09/5-network-security-threats-and-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity today matters so much because of everyone's dependence on technology, from collaboration, communication and collecting data to e-commerce and entertainment. Every organisation that needs to deliver services to their customers and employees must protect their IT 'network' - all the apps and connected devices from laptops and desktops to servers and smartphones.  While traditionally, these would all live on one "corporate network," - networks today are often just made up of the devices themselves, and how they're connected: across the internet, sometimes via VPNs, to the homes and cafes people work from, to the cloud and data centres where services live. So what threats does this modern network face?  Let's look at them in more detail.  #1 Misconfiguration  According to recent research by&nbsp; Verizon , misconfiguration errors and misuse now make up 14% of breaches. Misconfiguration errors occur when configuring a system or application so that it&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

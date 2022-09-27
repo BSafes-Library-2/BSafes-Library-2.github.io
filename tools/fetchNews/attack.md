@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+September 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpIran: Anonymous declares war on Teheran amid Mahsa Amini’s death<a href="https://securityaffairs.co/wordpress/136179/hacktivism/anonymous-opiran-mahsa-amini-death.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpIran: Anonymous launched Operation Iran against Teheran due to the ongoing crackdown on dissent after Mahsa Amini’s death.
+
+
+
+Anonymous launched OpIran against Iran due to the ongoing crackdown on dissent after Mahsa Amini’s death.
+
+
+
+The protests...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft SQL servers hacked in TargetCompany ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-in-targetcompany-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at ASEC have discovered a new wave of attacks targeting vulnerable Microsoft SQL servers, involving the deployment of a ransomware strain named FARGO.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

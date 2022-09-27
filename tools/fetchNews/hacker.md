@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers impersonate CircleCI platform to compromise GitHub accounts<a href="https://securityaffairs.co/wordpress/136211/hacking/phishing-circleci-github-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors target GitHub users to steal credentials and two-factor authentication (2FA) codes by impersonating the CircleCI DevOps platform.
+
+
+
+GitHub is warning of an ongoing phishing campaign targeting its users to steal credentials and two-factor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking group ‘Metador’ lurking in ISP networks for months<a href="https://www.bleepingcomputer.com/news/security/new-hacking-group-metador-lurking-in-isp-networks-for-months/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor that researchers have named 'Metador' has been breaching telecommunications, internet services providers (ISPs), and universities for about two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

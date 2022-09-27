@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia prepares massive cyberattacks on the critical infrastructure of Ukraine and its allies<a href="https://securityaffairs.co/wordpress/136265/cyber-warfare-2/russia-prepares-massive-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian military intelligence warns that Russia is planning to escalate cyberattacks targeting Ukraine and Western allies.
+
+
+
+The Main Directorate of Intelligence of the Ministry of Defence of Ukraine (HUR MO) warns that Russia is planning to escalate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns allies of Russian plans to escalate cyberattacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-warns-allies-of-russian-plans-to-escalate-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian&nbsp;military intelligence service warned today that Russia is planning "massive cyber-attacks" targeting the critical infrastructure of Ukraine and its allies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
