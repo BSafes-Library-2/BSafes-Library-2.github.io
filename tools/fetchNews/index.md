@@ -34,6 +34,326 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Erbium password-stealing malware spreads as game cracks, cheats<a href="https://www.bleepingcomputer.com/news/security/new-erbium-password-stealing-malware-spreads-as-game-cracks-cheats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new 'Erbium' information-stealing malware is being distributed as fake cracks and cheats for popular video games to steal victims' credentials and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NullMixer drops Redline Stealer, SmokeLoader and other malware<a href="https://securelist.com/nullmixer-oodles-of-trojans-in-a-single-dropper/107498/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infection vector of NullMixer is based on a ‘User Execution’ malicious link that requires the end user to click on and download a password-protected ZIP/RAR archive with a malicious file that is extracted and executed manually.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Identify 3 Hacktivist Groups Supporting Russian Interests<a href="https://thehackernews.com/2022/09/researchers-identify-3-hacktivist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three alleged hacktivist groups working in support of Russian interests are likely doing so in collaboration with state-sponsored cyber threat actors, according to Mandiant.  The Google-owned threat intelligence and incident response firm  said  with moderate confidence that "moderators of the purported hacktivist Telegram channels 'XakNet Team,' 'Infoccentr,' and 'CyberArmyofRussia_Reborn' are coordinating their operations with Russian Main Intelligence Directorate (GRU)-sponsored cyber threat actors."  Mandiant's assessment is based on evidence that the leakage of data stolen from Ukrainian organizations occurred within 24 hours of  malicious wiper incidents  undertaken by the Russian nation-state group tracked as  APT28  (aka Fancy Bear, Sofacy, or Strontium).   To that end, four of the 16 data leaks from these groups coincided with  disk wiping malware attacks  by APT28 that involved the use of a strain dubbed  CaddyWiper .  APT28 , a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia prepares massive cyberattacks on the critical infrastructure of Ukraine and its allies<a href="https://securityaffairs.co/wordpress/136265/cyber-warfare-2/russia-prepares-massive-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian military intelligence warns that Russia is planning to escalate cyberattacks targeting Ukraine and Western allies.
+
+
+
+The Main Directorate of Intelligence of the Ministry of Defence of Ukraine (HUR MO) warns that Russia is planning to escalate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use PowerPoint files for 'mouseover' malware delivery<a href="https://www.bleepingcomputer.com/news/security/hackers-use-powerpoint-files-for-mouseover-malware-delivery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers believed to work for Russia have started using a new code execution technique that relies on mouse movement in Microsoft PowerPoint presentations to trigger a malicious PowerShell script.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok could face $29 million fine for failing to protect UK children’s privacy<a href="https://therecord.media/tiktok-could-face-27-million-fine-for-failing-to-protect-uk-childrens-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Information Commissioner’s Office (ICO) announced on Monday that it had issued TikTok with a “notice of intent” which is a legal document that TikTok is allowed to respond to ahead of a potential fine.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Espionage Hackers Target Tibetans Using New LOWZERO Backdoor<a href="https://thehackernews.com/2022/09/chinese-espionage-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-aligned advanced persistent threat actor known as TA413 weaponized recently disclosed flaws in Sophos Firewall and Microsoft Office to deploy a never-before-seen backdoor called LOWZERO as part of an espionage campaign aimed at Tibetan entities.  Targets primarily consisted of organizations associated with the Tibetan community, including enterprises associated with the Tibetan government-in-exile.  The intrusions involved the exploitation of  CVE-2022-1040  and  CVE-2022-30190  (aka "Follina"), two remote code execution vulnerabilities in Sophos Firewall and Microsoft Office, respectively.   "This willingness to rapidly incorporate new techniques and methods of initial access contrasts with the group's continued use of well known and reported capabilities, such as the Royal Road RTF weaponizer, and often lax infrastructure procurement tendencies," Recorded Future  said  in a new technical analysis.  TA413, also known as LuckyCat, has been linked to rel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked TA413 group targets Tibetan entities with new backdoor<a href="https://securityaffairs.co/wordpress/136252/apt/ta413-targets-tibet-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked cyberespionage group TA413 exploits employ a never-before-undetected backdoor called LOWZERO in attacks aimed at Tibetan entities.
+
+
+
+A China-linked cyberespionage group, tracked as TA413 (aka LuckyCat), is exploiting recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adware on Google Play and Apple Store installed 13 million times<a href="https://www.bleepingcomputer.com/news/security/adware-on-google-play-and-apple-store-installed-13-million-times/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered 75 applications on Google Play and another ten on Apple's App Store engaged in ad fraud. Collectively, they add to 13 million installations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Corruption, A Potential New Trend in Ransomware Attacks<a href="https://heimdalsecurity.com/blog/data-corruption-a-potential-new-trend-in-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new data corruption tactic was identified in a new BlackCat ransomware attack and analyzed by the Cyderes Special Operations team and the Stairwell Threat Research team.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Attackers Spotted Fine-Tuning Their Malware Arsenal<a href="https://thehackernews.com/2022/09/blackcat-ransomware-attackers-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  BlackCat ransomware crew  has been spotted fine-tuning their malware arsenal to fly under the radar and expand their reach.  "Among some of the more notable developments has been the use of a new version of the Exmatter data exfiltration tool, and the use of Eamfo, information-stealing malware that is designed to steal credentials stored by Veeam backup software," researchers from Symantec  said  in a new report.  BlackCat, also known by the names ALPHV and Noberus, is attributed to an adversary tracked as Coreid (aka  FIN7 , Carbanak, or Carbon Spider) and is said to be a  rebranded successor  of  DarkSide  and  BlackMatter , both of which shut shop last year following a string of high-profile attacks, including that of Colonial Pipeline.   The threat actor, like other notorious ransomware groups, is known to run a ransomware-as-a-service (RaaS) operation, which involves its core developers enlisting the help of affiliates to carry out the attacks in exchange for a cut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metador, a never-before-seen APT targeted ISPs and telco for about 2 years<a href="https://securityaffairs.co/wordpress/136239/apt/metador-targets-isp-networks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected hacking group, tracked as Metador, has been targeting telecommunications, internet services providers (ISPs), and universities for about two years.
+
+
+
+SentinelLabs researchers uncovered a never-before-seen threat actor, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns allies of Russian plans to escalate cyberattacks<a href="https://www.bleepingcomputer.com/news/security/ukraine-warns-allies-of-russian-plans-to-escalate-cyberattacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian military intelligence service warned today that Russia is planning "massive cyber-attacks" targeting the critical infrastructure of Ukraine and its allies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spam email campaign targeting businesses delivers the Agent Tesla stealer<a href="https://securelist.com/agent-tesla-malicious-spam-campaign/107478/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new malspam campaign, someone posing as a Malaysian prospect and using a fairly odd variety of English, asks the recipient to review some customer requirements and get back with the requested documents.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Network Security Threats And How To Protect Yourself<a href="https://thehackernews.com/2022/09/5-network-security-threats-and-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity today matters so much because of everyone's dependence on technology, from collaboration, communication and collecting data to e-commerce and entertainment. Every organisation that needs to deliver services to their customers and employees must protect their IT 'network' - all the apps and connected devices from laptops and desktops to servers and smartphones.  While traditionally, these would all live on one "corporate network," - networks today are often just made up of the devices themselves, and how they're connected: across the internet, sometimes via VPNs, to the homes and cafes people work from, to the cloud and data centres where services live. So what threats does this modern network face?  Let's look at them in more detail.  #1 Misconfiguration  According to recent research by  Verizon , misconfiguration errors and misuse now make up 14% of breaches. Misconfiguration errors occur when configuring a system or application so that it&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exmatter exfiltration tool used to implement new extortion tactics<a href="https://securityaffairs.co/wordpress/136226/cyber-crime/exmatter-tool-shift-extortion-tactics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators switch to new extortion tactics by using the Exmatter malware and adding new data corruption functionality.
+
+
+
+The data extortion landscape is constantly evolving and threat actors are devising new extortion techniques, this is the case...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web3 bug-bounty platform Immunefi raises $24M for its Series A funding round<a href="https://techcrunch.com/2022/09/22/web3-bug-bounty-platform-immunefi-raises-24m-for-its-series-a-funding-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immunefi has raised $24 million as part of its Series A round led by Framework Ventures. Other investors include Samsung Next, Electric Capital, and Polygon Ventures. That brings its total raised to now $29.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Make Account Login Mandatory for New Fitbit Users in 2023<a href="https://thehackernews.com/2022/09/google-to-make-account-login-mandatory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wearable technology company Fitbit has announced a new clause that requires users to switch to a Google account "sometime" in 2023.  "In 2023, we plan to launch Google accounts on Fitbit, which will enable use of Fitbit with a Google account," the Google-owned fitness devices maker  said .   The switch will not go live for all users in 2023. Rather, support for Fitbit accounts is expected to continue until at least the beginning of 2025, after which a Google account will be mandatory for using the devices.  The deeper integration also means that a Google account will be compulsory to sign up for Fitbit and activate new features, including those that incorporate Google products and services such as Google Assistant.  Also necessitated as part of the transition is the consent from the part of users to move their personal data from Fitbit to Google. The internet giant  stressed that  users' personal information will not be used to serve ads.  The goal, Fitbit said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Arrests Cybercrime Group for Selling Data of 30 Million Accounts<a href="https://thehackernews.com/2022/09/ukraine-arrests-cybercrime-group-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian law enforcement authorities on Friday disclosed that it had "neutralized" a hacking group operating from the city of Lviv that it said acted on behalf of Russian interests.  The group specialized in the sales of 30 million accounts belonging to citizens from Ukraine and the European Union on the dark web and netted a profit of $372,000 (14 million UAH) through electronic payment systems like YooMoney, Qiwi, and WebMoney that are outlawed in the country.   "Their 'wholesale clients' were pro-kremlin propagandists," the Security Service of Ukraine (SSU)  said  in a press release. "It was them who used the received identification data of Ukrainian and foreign citizens to spread fake 'news' from the front and sow panic."  The goal behind the campaign was "large-scale destabilization in multiple countries," it stated, adding the hacked accounts were used to propagate false information about the socio-political situation in U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
