@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok could face $29 million fine for failing to protect UK children’s privacy<a href="https://therecord.media/tiktok-could-face-27-million-fine-for-failing-to-protect-uk-childrens-privacy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Information Commissioner’s Office (ICO) announced on Monday that it had issued TikTok with a “notice of intent” which is a legal document that TikTok is allowed to respond to ahead of a potential fine.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

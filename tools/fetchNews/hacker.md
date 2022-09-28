@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Identify 3 Hacktivist Groups Supporting Russian Interests<a href="https://thehackernews.com/2022/09/researchers-identify-3-hacktivist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least three alleged hacktivist groups working in support of Russian interests are likely doing so in collaboration with state-sponsored cyber threat actors, according to Mandiant.  The Google-owned threat intelligence and incident response firm&nbsp; said &nbsp;with moderate confidence that "moderators of the purported hacktivist Telegram channels 'XakNet Team,' 'Infoccentr,' and 'CyberArmyofRussia_Reborn' are coordinating their operations with Russian Main Intelligence Directorate (GRU)-sponsored cyber threat actors."  Mandiant's assessment is based on evidence that the leakage of data stolen from Ukrainian organizations occurred within 24 hours of&nbsp; malicious wiper incidents &nbsp;undertaken by the Russian nation-state group tracked as&nbsp; APT28 &nbsp;(aka Fancy Bear, Sofacy, or Strontium).   To that end, four of the 16 data leaks from these groups coincided with&nbsp; disk wiping malware attacks &nbsp;by APT28 that involved the use of a strain dubbed&nbsp; CaddyWiper .  APT28 , a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Espionage Hackers Target Tibetans Using New LOWZERO Backdoor<a href="https://thehackernews.com/2022/09/chinese-espionage-hackers-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-aligned advanced persistent threat actor known as TA413 weaponized recently disclosed flaws in Sophos Firewall and Microsoft Office to deploy a never-before-seen backdoor called LOWZERO as part of an espionage campaign aimed at Tibetan entities.  Targets primarily consisted of organizations associated with the Tibetan community, including enterprises associated with the Tibetan government-in-exile.  The intrusions involved the exploitation of&nbsp; CVE-2022-1040 &nbsp;and&nbsp; CVE-2022-30190 &nbsp;(aka "Follina"), two remote code execution vulnerabilities in Sophos Firewall and Microsoft Office, respectively.   "This willingness to rapidly incorporate new techniques and methods of initial access contrasts with the group's continued use of well known and reported capabilities, such as the Royal Road RTF weaponizer, and often lax infrastructure procurement tendencies," Recorded Future&nbsp; said &nbsp;in a new technical analysis.  TA413, also known as LuckyCat, has been linked to rel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

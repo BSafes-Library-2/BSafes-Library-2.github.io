@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense firm Elbit Systems of America discloses data breach<a href="https://securityaffairs.co/wordpress/136310/cyber-crime/elbit-systems-of-america-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elbit Systems of America, a subsidiary of defense giant Elbit Systems, disclosed a data breach after Black Basta ransomware gang claimed to have hacked it.
+
+
+
+In late June, the Black Basta ransomware gang claimed to have hacked Elbit Systems of America,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Behind Optus Breach Releases 10,200 Customer Records in Extortion Scheme<a href="https://thehackernews.com/2022/09/hacker-behind-optus-breach-releases.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) on Monday disclosed it's working to gather "crucial evidence" and that it's collaborating with overseas law enforcement authorities following the hack of telecom provider Optus.  "Operation Hurricane has been launched to identify the criminals behind the alleged breach and to help shield Australians from identity fraud," the AFP&nbsp; said &nbsp;in a statement.  The development comes after Optus, Australia's second-largest wireless carrier,&nbsp; disclosed &nbsp;on September 22, 2022, that it was a victim of a cyberattack. It claimed it "immediately shut down the attack" as soon as it came to light.   The threat actor behind the breach also briefly released a sample of 10,200 records from the breach – putting those users at heightened risk of fraud – in addition to asking for $1 million as part of an extortion demand. The dataset has since been taken down, with the attacker also claiming to have deleted the only copy of the sto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

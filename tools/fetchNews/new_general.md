@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Continuous Security Testing is a Must for Organizations Today<a href="https://thehackernews.com/2022/09/why-continuous-security-testing-is-must.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The global cybersecurity market is flourishing. Experts at Gartner predict that the end-user spending for the information security and risk management market will grow from $172.5 billion in 2022 to $267.3 billion in 2026.&nbsp;  One big area of spending includes the art of putting cybersecurity defenses under pressure, commonly known as security testing. MarketsandMarkets forecasts the global penetration testing (pentesting) market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 13.7% from 2022 to 2027. However, the costs and limitations involved in carrying out a penetration test are already hindering the market growth, and consequently, many cybersecurity professionals are making moves to find an alternative solution.  Pentests aren't solving cybersecurity pain points  Pentesting can serve specific and important purposes for businesses. For example, prospective customers may ask for the results of one as proof of compliance. However, for certain challenges, this
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

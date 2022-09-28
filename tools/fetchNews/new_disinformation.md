@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta dismantles massive Russian network spoofing Western news sites<a href="https://www.bleepingcomputer.com/news/security/meta-dismantles-massive-russian-network-spoofing-western-news-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta says it took&nbsp;down a large network of Facebook and Instagram accounts pushing disinformation published on more than 60 websites that spoofed multiple legitimate news sites across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

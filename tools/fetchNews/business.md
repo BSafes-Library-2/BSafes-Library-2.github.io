@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web3 bug-bounty platform Immunefi raises $24M for its Series A funding round<a href="https://techcrunch.com/2022/09/22/web3-bug-bounty-platform-immunefi-raises-24m-for-its-series-a-funding-round/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immunefi has raised $24 million as part of its Series A round led by Framework Ventures. Other investors include Samsung Next, Electric Capital, and Polygon Ventures. That brings its total raised to now $29.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Make Account Login Mandatory for New Fitbit Users in 2023<a href="https://thehackernews.com/2022/09/google-to-make-account-login-mandatory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wearable technology company Fitbit has announced a new clause that requires users to switch to a Google account "sometime" in 2023.  "In 2023, we plan to launch Google accounts on Fitbit, which will enable use of Fitbit with a Google account," the Google-owned fitness devices maker&nbsp; said .   The switch will not go live for all users in 2023. Rather, support for Fitbit accounts is expected to continue until at least the beginning of 2025, after which a Google account will be mandatory for using the devices.  The deeper integration also means that a Google account will be compulsory to sign up for Fitbit and activate new features, including those that incorporate Google products and services such as Google Assistant.  Also necessitated as part of the transition is the consent from the part of users to move their personal data from Fitbit to Google. The internet giant&nbsp; stressed that &nbsp;users' personal information will not be used to serve ads.  The goal, Fitbit said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

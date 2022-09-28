@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NullMixer dropper infects your PC with a dozen malware families<a href="https://www.bleepingcomputer.com/news/security/new-nullmixer-dropper-infects-your-pc-with-a-dozen-malware-families/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Underground Groups Use Stolen Identities and Deepfakes<a href="https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Says Russia Planning Massive Cyberattacks on its Critical Infrastructures<a href="https://thehackernews.com/2022/09/ukraine-says-russia-planning-massive.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can You Hack It? Find Out In Our Lawfare Class<a href="https://www.lawfareblog.com/can-you-hack-it-find-out-our-lawfare-class"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus continues to target job seekers with macOS malware<a href="https://securityaffairs.co/wordpress/136297/apt/lazarus-apt-targeting-macos.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus hackers drop macOS malware via Crypto.com job offers<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-drop-macos-malware-via-cryptocom-job-offers/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than Meets the Eye: Exposing a Polyglot File That Delivers IcedID<a href="https://unit42.paloaltonetworks.com/polyglot-file-icedid-payload/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NullMixer Malware Campaign Stealing Users' Payment Data and Credentials<a href="https://thehackernews.com/2022/09/new-nullmixer-malware-campaign-stealing.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense firm Elbit Systems of America discloses data breach<a href="https://securityaffairs.co/wordpress/136310/cyber-crime/elbit-systems-of-america-data-breach.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta dismantles massive Russian network spoofing Western news sites<a href="https://www.bleepingcomputer.com/news/security/meta-dismantles-massive-russian-network-spoofing-western-news-sites/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agent Tesla RAT Delivered by Quantum Builder With New TTPs<a href="https://www.zscaler.com/blogs/security-research/agent-tesla-rat-delivered-quantum-builder-new-ttps?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Zscaler
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover 85 Apps with 13 Million Downloads Involved in Ad Fraud Scheme<a href="https://thehackernews.com/2022/09/experts-uncover-85-apps-with-13-million.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp fixed critical and high severy vulnerabilities<a href="https://securityaffairs.co/wordpress/136300/hacking/whatsapp-critical-vulnerabilities.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Optus hacker apologizes and allegedly deletes all stolen data<a href="https://www.bleepingcomputer.com/news/security/optus-hacker-apologizes-and-allegedly-deletes-all-stolen-data/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Remote Code Execution Vulnerabilities Patched in WhatsApp<a href="https://www.securityweek.com/two-remote-code-execution-vulnerabilities-patched-whatsapp?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Continuous Security Testing is a Must for Organizations Today<a href="https://thehackernews.com/2022/09/why-continuous-security-testing-is-must.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Erbium info-stealing malware, a new option in the threat landscape<a href="https://securityaffairs.co/wordpress/136285/malware/erbium-info-stealing-malware.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pass-the-Hash Attacks and How to Prevent them in Windows Domains<a href="https://www.bleepingcomputer.com/news/security/pass-the-hash-attacks-and-how-to-prevent-them-in-windows-domains/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Sued Over Recent Data Breaches<a href="https://www.securityweek.com/samsung-sued-over-recent-data-breaches?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs<a href="https://thehackernews.com/2022/09/north-koreas-lazarus-hackers-targeting.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant identifies 3 hacktivist groups working in support of Russia<a href="https://securityaffairs.co/wordpress/136276/hacktivism/hacktivist-groups-support-of-russia.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine warns of 'massive cyberattacks' coming from Russia on critical infrastructure sites<a href="https://www.cyberscoop.com/ukrainians-warn-of-massive-cyberattacks/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Behind Optus Breach Releases 10,200 Customer Records in Extortion Scheme<a href="https://thehackernews.com/2022/09/hacker-behind-optus-breach-releases.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Underground Groups Use Stolen Identities and Deepfakes<a href="https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing appearance of deepfake attacks is significantly reshaping the threat landscape for organizations, financial institutions, celebrities, political figures, and even ordinary people.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

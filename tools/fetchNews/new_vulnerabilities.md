@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp fixed critical and high severy vulnerabilities<a href="https://securityaffairs.co/wordpress/136300/hacking/whatsapp-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp has addressed two severe Remote Code Execution vulnerabilities affecting the mobile version of the software.
+
+
+
+WhatsApp has published three&nbsp;security advisories for 2022, two of which are related to CVE-2021-24042 and CVE-2021-24043 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Remote Code Execution Vulnerabilities Patched in WhatsApp<a href="https://www.securityweek.com/two-remote-code-execution-vulnerabilities-patched-whatsapp?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp only has three security advisories for 2022, with the first two released in January and February. The latest advisory, released this month, informs customers of two memory-related issues affecting the WhatsApp mobile applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

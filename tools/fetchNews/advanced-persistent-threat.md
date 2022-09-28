@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked TA413 group targets Tibetan entities with new backdoor<a href="https://securityaffairs.co/wordpress/136252/apt/ta413-targets-tibet-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked cyberespionage group TA413 exploits employ a never-before-undetected backdoor called&nbsp;LOWZERO&nbsp;in attacks aimed at Tibetan entities.
+
+
+
+A China-linked cyberespionage group, tracked as TA413 (aka LuckyCat), is exploiting recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Metador, a never-before-seen APT targeted ISPs and telco for about 2 years<a href="https://securityaffairs.co/wordpress/136239/apt/metador-targets-isp-networks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected hacking group, tracked as Metador, has been targeting telecommunications, internet services providers (ISPs), and universities for about two years.
+
+
+
+SentinelLabs researchers uncovered a never-before-seen threat actor, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

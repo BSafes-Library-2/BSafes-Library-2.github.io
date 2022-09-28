@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pass-the-Hash Attacks and How to Prevent them in Windows Domains<a href="https://www.bleepingcomputer.com/news/security/pass-the-hash-attacks-and-how-to-prevent-them-in-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers often start out with nothing more than a low-level user account and then work to gain additional privileges that will allow them to take over the network. One of the methods that is commonly used to acquire these privileges is a pass-the-hash attack. Here are five steps to prevent a pass-the-hash attack in a Windows domain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

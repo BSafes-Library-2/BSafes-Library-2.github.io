@@ -34,6 +34,394 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NullMixer dropper infects your PC with a dozen malware families<a href="https://www.bleepingcomputer.com/news/security/new-nullmixer-dropper-infects-your-pc-with-a-dozen-malware-families/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware dropper named 'NullMixer' is infecting Windows devices with a dozen different malware families simultaneously through fake software cracks promoted on malicious sites in Google Search results.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Underground Groups Use Stolen Identities and Deepfakes<a href="https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing appearance of deepfake attacks is significantly reshaping the threat landscape for organizations, financial institutions, celebrities, political figures, and even ordinary people.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Says Russia Planning Massive Cyberattacks on its Critical Infrastructures<a href="https://thehackernews.com/2022/09/ukraine-says-russia-planning-massive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian government on Monday warned of "massive cyberattacks" by Russia targeting critical infrastructure facilities located in the country and that of its allies.  The attacks are said to be targeting the energy sector, the Main Directorate of Intelligence of the Ministry of Defense of Ukraine (GUR) said.  "By the cyberattacks, the enemy will try to increase the effect of missile strikes on electricity supply facilities, primarily in the eastern and southern regions of Ukraine," the agency  said  in a brief advisory.   GUR also cautioned of intensified distributed denial-of-service (DDoS) attacks aimed at the critical infrastructure of Ukraine's closest allies, chiefly Poland and the Baltic states of Estonia, Latvia, and Lithuania.  It's not immediately clear what prompted the intelligence agency to issue the notice, but Ukraine has been at the receiving end of  disruptive and destructive cyberattacks  since the onset of the Russo-Ukrainian war earli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can You Hack It? Find Out In Our Lawfare Class<a href="https://www.lawfareblog.com/can-you-hack-it-find-out-our-lawfare-class"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We're bringing hacking and cybersecurity education to a remote cohort of Lawfare's material supporters and challenging them to become hackers themselves. There's still time to join us.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus continues to target job seekers with macOS malware<a href="https://securityaffairs.co/wordpress/136297/apt/lazarus-apt-targeting-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is targeting macOS Users searching for jobs in the cryptocurrency industry.
+
+
+
+North Korea-linked Lazarus APT group continues to target macOS with a malware campaign using job opportunities as a lure. The attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers drop macOS malware via Crypto.com job offers<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-drop-macos-malware-via-cryptocom-job-offers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean Lazarus hacking group is now using fake 'Crypto.com' job offers to hack developers and artists in the crypto space, likely with a long-term goal of stealing digital assets and cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than Meets the Eye: Exposing a Polyglot File That Delivers IcedID<a href="https://unit42.paloaltonetworks.com/polyglot-file-icedid-payload/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This particular attack chain was discovered in early August 2022 and delivered IcedID, also known as Bokbot, as the final payload. This information stealer, IcedID, is well-known malware that has been attacking users since 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NullMixer Malware Campaign Stealing Users' Payment Data and Credentials<a href="https://thehackernews.com/2022/09/new-nullmixer-malware-campaign-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are continuing to prey on users searching for cracked software by directing them to fraudulent websites hosting weaponized installers that deploy malware called  NullMixer  on compromised systems.  "When a user extracts and executes NullMixer, it drops a number of malware files to the compromised machine," cybersecurity firm Kaspersky said in a Monday report. "It drops a wide variety of malicious binaries to infect the machine with, such as backdoors, bankers, downloaders, spyware, and many others."  Besides siphoning users' credentials, address, credit card data, cryptocurrencies, and even Facebook and Amazon account session cookies, what makes NullMixer insidious is its ability to download dozens of trojans at once, significantly widening the scale of the infections.   Attack chains typically start when a user attempts to download cracked software from one of the sites, which leads to a password-protected archive that contains an executable fil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense firm Elbit Systems of America discloses data breach<a href="https://securityaffairs.co/wordpress/136310/cyber-crime/elbit-systems-of-america-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elbit Systems of America, a subsidiary of defense giant Elbit Systems, disclosed a data breach after Black Basta ransomware gang claimed to have hacked it.
+
+
+
+In late June, the Black Basta ransomware gang claimed to have hacked Elbit Systems of America,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta dismantles massive Russian network spoofing Western news sites<a href="https://www.bleepingcomputer.com/news/security/meta-dismantles-massive-russian-network-spoofing-western-news-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta says it took down a large network of Facebook and Instagram accounts pushing disinformation published on more than 60 websites that spoofed multiple legitimate news sites across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla RAT Delivered by Quantum Builder With New TTPs<a href="https://www.zscaler.com/blogs/security-research/agent-tesla-rat-delivered-quantum-builder-new-ttps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler ThreatLabz has observed a campaign that delivers Agent Tesla, a .NET-based keylogger and remote access trojan (RAT) active since 2014, using a builder named “Quantum Builder” sold on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Zscaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover 85 Apps with 13 Million Downloads Involved in Ad Fraud Scheme<a href="https://thehackernews.com/2022/09/experts-uncover-85-apps-with-13-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 75 apps on Google Play and 10 on Apple App Store have been discovered engaging in ad fraud as part of an ongoing campaign that commenced in 2019.  The latest iteration, dubbed  Scylla  by Online fraud-prevention firm HUMAN Security, follows similar attack waves in August 2019 and late 2020 that go by the codename Poseidon and Charybdis, respectively.  Prior to their removal from the app storefronts, the apps had been collectively installed more than 13 million times.   The original Poseidon operation comprised over 40 Android apps that were designed to display ads out of context or hidden from the view of the device user.  Charybdis, on the other hand, was an improvement over the former by making use of code obfuscation tactics to target advertising platforms.   Scylla presents the latest adaption of the scheme in that it expands beyond Android to make a foray into the iOS ecosystem for the first time, alongside relying on additional layers of code roundabout using the  All
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp fixed critical and high severy vulnerabilities<a href="https://securityaffairs.co/wordpress/136300/hacking/whatsapp-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp has addressed two severe Remote Code Execution vulnerabilities affecting the mobile version of the software.
+
+
+
+WhatsApp has published three security advisories for 2022, two of which are related to CVE-2021-24042 and CVE-2021-24043 vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Optus hacker apologizes and allegedly deletes all stolen data<a href="https://www.bleepingcomputer.com/news/security/optus-hacker-apologizes-and-allegedly-deletes-all-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker who claimed to have breached Optus and stolen the data of 11 million customers has withdrawn their extortion demands after facing increased attention by law enforcement. The threat actor also apologized to 10,200 people whose personal data was already leaked on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Remote Code Execution Vulnerabilities Patched in WhatsApp<a href="https://www.securityweek.com/two-remote-code-execution-vulnerabilities-patched-whatsapp?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp only has three security advisories for 2022, with the first two released in January and February. The latest advisory, released this month, informs customers of two memory-related issues affecting the WhatsApp mobile applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Continuous Security Testing is a Must for Organizations Today<a href="https://thehackernews.com/2022/09/why-continuous-security-testing-is-must.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The global cybersecurity market is flourishing. Experts at Gartner predict that the end-user spending for the information security and risk management market will grow from $172.5 billion in 2022 to $267.3 billion in 2026.   One big area of spending includes the art of putting cybersecurity defenses under pressure, commonly known as security testing. MarketsandMarkets forecasts the global penetration testing (pentesting) market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 13.7% from 2022 to 2027. However, the costs and limitations involved in carrying out a penetration test are already hindering the market growth, and consequently, many cybersecurity professionals are making moves to find an alternative solution.  Pentests aren't solving cybersecurity pain points  Pentesting can serve specific and important purposes for businesses. For example, prospective customers may ask for the results of one as proof of compliance. However, for certain challenges, this
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Erbium info-stealing malware, a new option in the threat landscape<a href="https://securityaffairs.co/wordpress/136285/malware/erbium-info-stealing-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Erbium information-stealer is being distributed as fake cracks and cheats for popular video games.
+
+
+
+Threat actors behind the new 'Erbium' information-stealing malware are distributing it as fake cracks and cheats for popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pass-the-Hash Attacks and How to Prevent them in Windows Domains<a href="https://www.bleepingcomputer.com/news/security/pass-the-hash-attacks-and-how-to-prevent-them-in-windows-domains/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers often start out with nothing more than a low-level user account and then work to gain additional privileges that will allow them to take over the network. One of the methods that is commonly used to acquire these privileges is a pass-the-hash attack. Here are five steps to prevent a pass-the-hash attack in a Windows domain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Sued Over Recent Data Breaches<a href="https://www.securityweek.com/samsung-sued-over-recent-data-breaches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Represented by Clarkson Law Firm, two Samsung users have filed a class action lawsuit against the electronics manufacturer over the two data breaches the company suffered in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs<a href="https://thehackernews.com/2022/09/north-koreas-lazarus-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous Lazarus Group has continued its pattern of leveraging unsolicited job opportunities to deploy malware targeting Apple's macOS operating system.  In the latest variant of the campaign observed by cybersecurity company SentinelOne last week, decoy documents advertising positions for the Singapore-based cryptocurrency exchange firm Crypto[.]com have been used to mount the attacks.  The latest disclosure builds on previous findings from Slovak cybersecurity firm ESET in August, which  delved  into a similar phony job posting for the Coinbase cryptocurrency exchange platform.   Both these fake job advertisements are just the latest in a series of attacks dubbed  Operation In(ter)ception , which, in turn, is a constituent of a broader campaign tracked under the name  Operation Dream Job .  Although the exact distribution vector for the malware remains unknown, it's suspected that potential targets are singled out via direct messages on the business networking site Linke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant identifies 3 hacktivist groups working in support of Russia<a href="https://securityaffairs.co/wordpress/136276/hacktivism/hacktivist-groups-support-of-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are tracking multiple self-proclaimed hacktivist groups working in support of Russia, and identified 3 groups linked to the GRU.
+
+
+
+Mandiant researchers are tracking multiple self-proclaimed hacktivist groups working in support of Russia,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns of 'massive cyberattacks' coming from Russia on critical infrastructure sites<a href="https://www.cyberscoop.com/ukrainians-warn-of-massive-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government is planning “massive cyberattacks” against Ukrainian critical infrastructure facilities to “increase the effect of missile strikes on electrical supply facilities,” the Ukrainian government said Monday.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Behind Optus Breach Releases 10,200 Customer Records in Extortion Scheme<a href="https://thehackernews.com/2022/09/hacker-behind-optus-breach-releases.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) on Monday disclosed it's working to gather "crucial evidence" and that it's collaborating with overseas law enforcement authorities following the hack of telecom provider Optus.  "Operation Hurricane has been launched to identify the criminals behind the alleged breach and to help shield Australians from identity fraud," the AFP  said  in a statement.  The development comes after Optus, Australia's second-largest wireless carrier,  disclosed  on September 22, 2022, that it was a victim of a cyberattack. It claimed it "immediately shut down the attack" as soon as it came to light.   The threat actor behind the breach also briefly released a sample of 10,200 records from the breach – putting those users at heightened risk of fraud – in addition to asking for $1 million as part of an extortion demand. The dataset has since been taken down, with the attacker also claiming to have deleted the only copy of the sto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

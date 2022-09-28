@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Says Russia Planning Massive Cyberattacks on its Critical Infrastructures<a href="https://thehackernews.com/2022/09/ukraine-says-russia-planning-massive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian government on Monday warned of "massive cyberattacks" by Russia targeting critical infrastructure facilities located in the country and that of its allies.  The attacks are said to be targeting the energy sector, the Main Directorate of Intelligence of the Ministry of Defense of Ukraine (GUR) said.  "By the cyberattacks, the enemy will try to increase the effect of missile strikes on electricity supply facilities, primarily in the eastern and southern regions of Ukraine," the agency&nbsp; said &nbsp;in a brief advisory.   GUR also cautioned of intensified distributed denial-of-service (DDoS) attacks aimed at the critical infrastructure of Ukraine's closest allies, chiefly Poland and the Baltic states of Estonia, Latvia, and Lithuania.  It's not immediately clear what prompted the intelligence agency to issue the notice, but Ukraine has been at the receiving end of&nbsp; disruptive and destructive cyberattacks &nbsp;since the onset of the Russo-Ukrainian war earli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine warns of 'massive cyberattacks' coming from Russia on critical infrastructure sites<a href="https://www.cyberscoop.com/ukrainians-warn-of-massive-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government is planning “massive cyberattacks” against Ukrainian critical infrastructure facilities to “increase the effect of missile strikes on electrical supply facilities,” the Ukrainian government said Monday.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
