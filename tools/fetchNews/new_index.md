@@ -34,7 +34,511 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now sharing cracked Brute Ratel post-exploitation kit online<a href="https://www.bleepingcomputer.com/news/security/hackers-now-sharing-cracked-brute-ratel-post-exploitation-kit-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brute Ratel post-exploitation toolkit has been cracked and is now being shared for free across Russian-speaking and English-speaking hacking communities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New campaign uses government, union-themed lures to deliver Cobalt Strike beacons<a href="https://blog.talosintelligence.com/2022/09/new-campaign-uses-government-union.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lure themes in the phishing documents in this campaign are related to the job details of a government organization in the United States and a trade union in New Zealand.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of New Go-based Malware Targeting Windows and Linux Systems<a href="https://thehackernews.com/2022/09/researchers-warn-of-new-go-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, multi-functional Go-based malware dubbed  Chaos  has been rapidly growing in volume in recent months to ensnare a wide range of Windows, Linux, small office/home office (SOHO) routers, and enterprise servers into its botnet.  "Chaos functionality includes the ability to enumerate the host environment, run remote shell commands, load additional modules, automatically propagate through stealing and brute-forcing SSH private keys, as well as launch DDoS attacks," researchers from Lumen's Black Lotus Labs  said  in a write-up shared with The Hacker News.  A majority of the bots are located in Europe, specifically Italy, with other infections reported in China and the U.S., collectively representing "hundreds of unique IP addresses" over a one-month time period from mid-June through mid-July 2022.   Written in Chinese and leveraging China-based infrastructure for command-and-control, the botnet joins a long list of malware that are designed to establish persi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors use Quantum Builder to deliver Agent Tesla malware<a href="https://securityaffairs.co/wordpress/136370/uncategorized/quantum-builder-agent-tesla-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered malware builder Quantum Builder is being used by threat actors to deliver the Agent Tesla RAT.
+
+
+
+A recently discovered malware builder called Quantum Builder is being used to deliver the Agent Tesla remote access trojan (RAT),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker shares how they allegedly breached Fast Company’s site<a href="https://www.bleepingcomputer.com/news/security/hacker-shares-how-they-allegedly-breached-fast-company-s-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fast Company took its website offline after it was hacked to display stories and push out Apple News notifications containing obscene and racist comments. Today, the hacker shared how they allegedly breached the site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NUVOLA: the new Cloud Security tool<a href="https://securityaffairs.co/wordpress/136336/security/nuvola-cloud-security-tool.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just like other forms of attacks, privilege escalation can go unnoticed, especially in a complex cloud environment where companies already have difficulty gaining visibility into their internal users, identities, and actions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Using Quantum Builder Sold on Dark Web to Deliver Agent Tesla Malware<a href="https://thehackernews.com/2022/09/cyber-criminals-using-quantum-builder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered malware builder called Quantum Builder is being used to deliver the Agent Tesla remote access trojan (RAT).  "This campaign features enhancements and a shift toward LNK (Windows shortcut) files when compared to similar attacks in the past," Zscaler ThreatLabz researchers Niraj Shivtarkar and Avinash Kumar  said  in a Tuesday write-up.   Sold on the dark web for €189 a month,  Quantum Builder  is a customizable tool for generating malicious shortcut files as well as HTA, ISO, and PowerShell payloads to deliver next-stage malware on the targeted machines, in this case  Agent Tesla .  The multi-stage attack chain starts with a spear-phishing containing a GZIP archive attachment that includes a shortcut designed to execute PowerShell code responsible for launching a remote HTML application (HTA) using  MSHTA .   The phishing emails purport to be an order confirmation message from a Chinese supplier of lump and rock sugar, with the LNK file masquerading as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ONLINE DISINFORMATION: Under the hood of a Doppelgänger<a href="https://securityaffairs.co/wordpress/136366/intelligence/disinformation-under-the-hood-of-a-doppelganger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ONLINE DISINFORMATION is one of the defining issues of our time and the influence of fake news has become an acute threat to our society.
+
+
+
+Disinformation undermines true journalism and steers the public opinion in highly charged topics such as immigration,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS warns Americans of massive rise in SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/irs-warns-americans-of-massive-rise-in-sms-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service (IRS) warned Americans of an exponential rise in IRS-themed text message phishing attacks trying to steal their financial and personal information in the last few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MPCH Labs Closes $40M Series A Funding<a href="https://www.finsmes.com/2022/09/mpch-labs-closes-40m-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Liberty City Ventures with participation from QCP Capital, Mantis VC, Human Capital, Global Coin Research, LedgerPrime, Finality Capital, Oak HC FT, Polygon Studios, Quantstamp, and Animoca Brands.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improve your security posture with Wazuh, a free and open source XDR<a href="https://thehackernews.com/2022/09/improve-your-security-posture-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations struggle to find ways to keep a good security posture. This is because it is difficult to create secure system policies and find the right tools that help achieve a good posture. In many cases, organizations work with tools that do not integrate with each other and are expensive to purchase and maintain.  Security posture management is a term used to describe the process of identifying and mitigating security misconfigurations and compliance risks in an organization. To maintain a good security posture, organizations should at least do the following:   Maintain inventory:  Asset inventory is considered first because it provides a comprehensive list of all IT assets that should be protected. This includes the hardware devices, applications, and services that are being used.  Perform vulnerability assessment:  The next step is to perform a vulnerability assessment to identify weaknesses in applications and services. Knowledge of the vulnerabilities help to prioritize risks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 relies on PowerPoint Mouseover to deliver Graphite malware<a href="https://securityaffairs.co/wordpress/136358/apt/apt28-powerpoint-mouseover-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked APT28 group is using mouse movement in decoy Microsoft PowerPoint documents to distribute malware.
+
+
+
+The Russia-linked APT28 employed a technique relying on mouse movement in decoy Microsoft PowerPoint documents to deploy malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth0 warns that some source code repos may have been stolen<a href="https://www.bleepingcomputer.com/news/security/auth0-warns-that-some-source-code-repos-may-have-been-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authentication service provider and Okta subsidiary Auth0 has disclosed what it calls a "security event" involving some of its code repositories.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU's cybersecurity agency chief warns to keep guard up<a href="https://www.euractiv.com/section/cybersecurity/news/eus-cybersecurity-agency-chief-warns-to-keep-guard-up/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there has been no radical change in cyber threats since the beginning of the war in Ukraine, attacks have become more intense and sophisticated, said Juhan Lepassaar, executive director of the EU cybersecurity agency, ENISA, on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Euractiv
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using PowerPoint Mouseover Trick to Infect System with Malware<a href="https://thehackernews.com/2022/09/hackers-using-powerpoint-mouseover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored threat actor known as  APT28  has been found leveraging a new code execution method that makes use of mouse movement in decoy Microsoft PowerPoint documents to deploy malware.  The technique "is designed to be triggered when the user starts the presentation mode and moves the mouse," cybersecurity firm Cluster25  said  in a technical report. "The code execution runs a PowerShell script that downloads and executes a dropper from OneDrive."   The dropper, a seemingly harmless image file, functions as a pathway for a follow-on payload, a variant of a malware known as Graphite, which uses the Microsoft Graph API and OneDrive for command-and-control (C2) communications to retrieve additional payloads.  The attack employs a lure document that makes use of a template potentially linked to the Organisation for Economic Co-operation and Development ( OECD ), a Paris-based intergovernmental entity.   Cluster25 noted the attacks may be ongoing, con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bl00dy ransomware gang started using leaked LockBit 3.0 builder in attacks<a href="https://securityaffairs.co/wordpress/136345/cyber-crime/bl00dy-ransomware-lockbit-3-encryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently born Bl00Dy Ransomware gang has started using the recently leaked LockBit ransomware builder in attacks in the wild.
+
+
+
+The Bl00Dy Ransomware gang is the first group that started using the recently leaked LockBit ransomware builder in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to test disabling Chrome Manifest V2 extensions in June 2023<a href="https://www.bleepingcomputer.com/news/security/google-to-test-disabling-chrome-manifest-v2-extensions-in-june-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers of extensions for Google Chrome can keep their hopes up that the transition from Manifest V2 to V3 will be as gradual as possible, helping to minimize the negative impact on the community of users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Profile Hacks Show Effectiveness of MFA Fatigue Attacks<a href="https://www.securityweek.com/high-profile-hacks-show-effectiveness-mfa-fatigue-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MFA provides an extra layer of security for user accounts. If a threat actor can obtain an account’s username and password through phishing or other methods, MFA should prevent them from accessing the account.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Shuts Down Covert Political 'Influence Operations' from Russia and China<a href="https://thehackernews.com/2022/09/facebook-shuts-down-covert-political.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Tuesday disclosed it took steps to dismantle two covert influence operations originating from China and Russia for engaging in coordinated inauthentic behavior (CIB) so as to manipulate public debate.  While the Chinese operation sets its sights on the U.S. and the Czech Republic, the Russian network primarily targeted Germany, France, Italy, Ukraine and the U.K. with themes surrounding the ongoing war in Ukraine.  "The largest and most complex Russian operation we've disrupted since the war in Ukraine began, it ran a sprawling network of over 60 websites impersonating news organizations, as well as accounts on Facebook, Instagram, YouTube, Telegram, Twitter, Change.org and Avaaz, and even LiveJournal," the social media behemoth  said .   The sophisticated Russian activity, which commenced in May 2022, impersonated mainstream European news outlets like Der Spiegel, The Guardian, and Bild, not to mention build credibility by creating fake accounts across
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NUVOLA: the new Cloud Security tool<a href="https://securityaffairs.co/wordpress/136336/security/nuvola-cloud-security-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+nuvola is the new open-source cloud security tool to address the privilege escalation in cloud environments.
+
+
+
+nuvola is the new open source security tool made by the Italian cyber security researcher Edoardo Rosa (@_notdodo_), Security Engineer at Prima...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy hackers target military and weapons contractors in recent attack<a href="https://www.bleepingcomputer.com/news/security/stealthy-hackers-target-military-and-weapons-contractors-in-recent-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new campaign targeting multiple military contractors involved in weapon manufacturing, including an F-35 Lightning II fighter aircraft components supplier.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Disables Russian Propaganda Network Targeting Europe<a href="https://www.securityweek.com/meta-disables-russian-propaganda-network-targeting-europe?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sprawling disinformation network originating in Russia sought to use hundreds of fake social media accounts and dozens of sham news websites to spread Kremlin talking points about the invasion of Ukraine, Meta revealed Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WhatsApp Bugs Could Have Let Attackers Hack Devices Remotely<a href="https://thehackernews.com/2022/09/critical-whatsapp-bugs-could-have-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp has released  security updates  to address two flaws in its messaging app for Android and iOS that could lead to remote code execution on vulnerable devices.  One of them concerns  CVE-2022-36934  (CVSS score: 9.8), a critical integer overflow vulnerability in WhatsApp that results in the execution of arbitrary code simply by establishing a video call.  The issue impacts the WhatsApp and WhatsApp Business for Android and iOS prior to versions 2.22.16.12.   Also patched by the Meta-owned messaging platform is an integer underflow bug, which refers to an opposite category of errors that occur when the result of an operation is too small for storing the value within the allocated memory space.  The high-severity issue, given the CVE identifier  CVE-2022-27492  (CVSS score: 7.8), affects WhatsApp for Android prior to versions 2.22.16.2 and WhatsApp for iOS version 2.22.15.9, and could be triggered upon receiving a specially crafted video file.  Exploiting  integer overflows  and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta dismantled the largest Russian network since the war in Ukraine began<a href="https://securityaffairs.co/wordpress/136326/social-networks/meta-dismantled-russian-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta dismantled a network of Facebook and Instagram accounts spreading disinformation across European countries.
+
+
+
+Meta announced to have taken down a huge Russian network of Facebook and Instagram accounts used to spread disinformation published on more...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chaos malware infects Windows, Linux devices for DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/new-chaos-malware-infects-windows-linux-devices-for-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A quickly expanding botnet called Chaos is targeting and infecting Windows and Linux devices to use them for cryptomining and launching DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Java template framework Pebble vulnerable to command injection<a href="https://portswigger.net/daily-swig/java-template-framework-pebble-vulnerable-to-command-injection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Java templating engine Pebble was vulnerable to a bug that could allow attackers to bypass its security mechanisms and conduct command injection attacks against host servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethernet VLAN Stacking flaws let hackers launch DoS, MiTM attacks<a href="https://www.bleepingcomputer.com/news/security/ethernet-vlan-stacking-flaws-let-hackers-launch-dos-mitm-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four vulnerabilities in the widely adopted 'Stacked VLAN' Ethernet feature allows attackers to perform denial-of-service (DoS) or man-in-the-middle (MitM) attacks against network targets using custom-crafted packets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wazuh - The free and open source XDR platform<a href="https://www.bleepingcomputer.com/news/security/wazuh-the-free-and-open-source-xdr-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wazuh is a free and open source security platform that provides unified SIEM and XDR protection. It protects workloads across on-premises, virtualized, containerized, and cloud-based environments. Wazuh is one of the fastest growing open source security solutions, with over 10 million downloads per year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominers hijack $53 worth of system resources to earn $1<a href="https://www.bleepingcomputer.com/news/security/cryptominers-hijack-53-worth-of-system-resources-to-earn-1/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers estimate that the financial impact of cryptominers infecting cloud servers costs victims about $53 for every $1 worth of cryptocurrency threat actors mine on hijacked devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked LockBit 3.0 builder used by ‘Bl00dy’ ransomware gang in attacks<a href="https://www.bleepingcomputer.com/news/security/leaked-lockbit-30-builder-used-by-bl00dy-ransomware-gang-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The relatively new Bl00Dy Ransomware Gang has started to use a recently leaked LockBit ransomware builder in attacks against companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NullMixer dropper infects your PC with a dozen malware families<a href="https://www.bleepingcomputer.com/news/security/new-nullmixer-dropper-infects-your-pc-with-a-dozen-malware-families/"> Full Text</a>
@@ -50,7 +554,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Underground Groups Use Stolen Identities and Deepfakes<a href="https://www.trendmicro.com/en_us/research/22/i/how-underground-groups-use-stolen-identities-and-deepfakes.html?&web_view=true"> Full Text</a>
@@ -66,7 +570,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Says Russia Planning Massive Cyberattacks on its Critical Infrastructures<a href="https://thehackernews.com/2022/09/ukraine-says-russia-planning-massive.html"> Full Text</a>
@@ -82,7 +586,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can You Hack It? Find Out In Our Lawfare Class<a href="https://www.lawfareblog.com/can-you-hack-it-find-out-our-lawfare-class"> Full Text</a>
@@ -98,7 +602,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus continues to target job seekers with macOS malware<a href="https://securityaffairs.co/wordpress/136297/apt/lazarus-apt-targeting-macos.html"> Full Text</a>
@@ -118,7 +622,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus hackers drop macOS malware via Crypto.com job offers<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-drop-macos-malware-via-cryptocom-job-offers/"> Full Text</a>
@@ -134,7 +638,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than Meets the Eye: Exposing a Polyglot File That Delivers IcedID<a href="https://unit42.paloaltonetworks.com/polyglot-file-icedid-payload/?&web_view=true"> Full Text</a>
@@ -150,7 +654,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NullMixer Malware Campaign Stealing Users' Payment Data and Credentials<a href="https://thehackernews.com/2022/09/new-nullmixer-malware-campaign-stealing.html"> Full Text</a>
@@ -166,7 +670,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense firm Elbit Systems of America discloses data breach<a href="https://securityaffairs.co/wordpress/136310/cyber-crime/elbit-systems-of-america-data-breach.html"> Full Text</a>
@@ -186,7 +690,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta dismantles massive Russian network spoofing Western news sites<a href="https://www.bleepingcomputer.com/news/security/meta-dismantles-massive-russian-network-spoofing-western-news-sites/"> Full Text</a>
@@ -202,7 +706,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agent Tesla RAT Delivered by Quantum Builder With New TTPs<a href="https://www.zscaler.com/blogs/security-research/agent-tesla-rat-delivered-quantum-builder-new-ttps?&web_view=true"> Full Text</a>
@@ -218,7 +722,7 @@ Zscaler
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover 85 Apps with 13 Million Downloads Involved in Ad Fraud Scheme<a href="https://thehackernews.com/2022/09/experts-uncover-85-apps-with-13-million.html"> Full Text</a>
@@ -234,7 +738,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp fixed critical and high severy vulnerabilities<a href="https://securityaffairs.co/wordpress/136300/hacking/whatsapp-critical-vulnerabilities.html"> Full Text</a>
@@ -254,7 +758,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Optus hacker apologizes and allegedly deletes all stolen data<a href="https://www.bleepingcomputer.com/news/security/optus-hacker-apologizes-and-allegedly-deletes-all-stolen-data/"> Full Text</a>
@@ -270,7 +774,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Remote Code Execution Vulnerabilities Patched in WhatsApp<a href="https://www.securityweek.com/two-remote-code-execution-vulnerabilities-patched-whatsapp?&web_view=true"> Full Text</a>
@@ -286,7 +790,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Continuous Security Testing is a Must for Organizations Today<a href="https://thehackernews.com/2022/09/why-continuous-security-testing-is-must.html"> Full Text</a>
@@ -302,7 +806,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Erbium info-stealing malware, a new option in the threat landscape<a href="https://securityaffairs.co/wordpress/136285/malware/erbium-info-stealing-malware.html"> Full Text</a>
@@ -322,7 +826,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pass-the-Hash Attacks and How to Prevent them in Windows Domains<a href="https://www.bleepingcomputer.com/news/security/pass-the-hash-attacks-and-how-to-prevent-them-in-windows-domains/"> Full Text</a>
@@ -338,7 +842,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Sued Over Recent Data Breaches<a href="https://www.securityweek.com/samsung-sued-over-recent-data-breaches?&web_view=true"> Full Text</a>
@@ -354,7 +858,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs<a href="https://thehackernews.com/2022/09/north-koreas-lazarus-hackers-targeting.html"> Full Text</a>
@@ -370,7 +874,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant identifies 3 hacktivist groups working in support of Russia<a href="https://securityaffairs.co/wordpress/136276/hacktivism/hacktivist-groups-support-of-russia.html"> Full Text</a>
@@ -390,7 +894,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine warns of 'massive cyberattacks' coming from Russia on critical infrastructure sites<a href="https://www.cyberscoop.com/ukrainians-warn-of-massive-cyberattacks/?&web_view=true"> Full Text</a>
@@ -406,7 +910,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2022
+September 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Behind Optus Breach Releases 10,200 Customer Records in Extortion Scheme<a href="https://thehackernews.com/2022/09/hacker-behind-optus-breach-releases.html"> Full Text</a>
