@@ -8,6 +8,66 @@ nav_order: 900195
 
 ## Solution
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NUVOLA: the new Cloud Security tool<a href="https://securityaffairs.co/wordpress/136336/security/nuvola-cloud-security-tool.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just like other forms of attacks, privilege escalation can go unnoticed, especially in a complex cloud environment where companies already have difficulty gaining visibility into their internal users, identities, and actions.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improve your security posture with Wazuh, a free and open source XDR<a href="https://thehackernews.com/2022/09/improve-your-security-posture-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations struggle to find ways to keep a good security posture. This is because it is difficult to create secure system policies and find the right tools that help achieve a good posture. In many cases, organizations work with tools that do not integrate with each other and are expensive to purchase and maintain.  Security posture management is a term used to describe the process of identifying and mitigating security misconfigurations and compliance risks in an organization. To maintain a good security posture, organizations should at least do the following:   Maintain inventory: &nbsp;Asset inventory is considered first because it provides a comprehensive list of all IT assets that should be protected. This includes the hardware devices, applications, and services that are being used.  Perform vulnerability assessment: &nbsp;The next step is to perform a vulnerability assessment to identify weaknesses in applications and services. Knowledge of the vulnerabilities help to prioritize risks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NUVOLA: the new Cloud Security tool<a href="https://securityaffairs.co/wordpress/136336/security/nuvola-cloud-security-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+nuvola is the new open-source cloud security tool to address the privilege escalation in cloud environments.
+
+
+
+nuvola is the new open source security tool made by the Italian cyber security researcher Edoardo Rosa (@_notdodo_), Security Engineer at Prima...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wazuh - The free and open source XDR platform<a href="https://www.bleepingcomputer.com/news/security/wazuh-the-free-and-open-source-xdr-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wazuh is a free and open source security platform that provides unified SIEM and XDR protection. It protects workloads across on-premises, virtualized, containerized, and cloud-based environments. Wazuh is one of the fastest growing open source security solutions, with over 10 million downloads per year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

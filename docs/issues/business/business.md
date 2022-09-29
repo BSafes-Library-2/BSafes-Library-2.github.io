@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MPCH Labs Closes $40M Series A Funding<a href="https://www.finsmes.com/2022/09/mpch-labs-closes-40m-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Liberty City Ventures with participation from QCP Capital, Mantis VC, Human Capital, Global Coin Research, LedgerPrime, Finality Capital, Oak HC FT, Polygon Studios, Quantstamp, and Animoca Brands.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to test disabling Chrome Manifest V2 extensions in June 2023<a href="https://www.bleepingcomputer.com/news/security/google-to-test-disabling-chrome-manifest-v2-extensions-in-june-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers of extensions for Google Chrome can keep their hopes up that the transition from Manifest V2 to V3 will be as gradual as possible, helping to minimize the negative impact on the community of users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

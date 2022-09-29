@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS warns Americans of massive rise in SMS phishing attacks<a href="https://www.bleepingcomputer.com/news/security/irs-warns-americans-of-massive-rise-in-sms-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internal Revenue Service (IRS) warned Americans of an exponential rise in IRS-themed text message phishing attacks trying to steal their financial and personal information in the last few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU's cybersecurity agency chief warns to keep guard up<a href="https://www.euractiv.com/section/cybersecurity/news/eus-cybersecurity-agency-chief-warns-to-keep-guard-up/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there has been no radical change in cyber threats since the beginning of the war in Ukraine, attacks have become more intense and sophisticated, said Juhan Lepassaar, executive director of the EU cybersecurity agency, ENISA, on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Euractiv
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

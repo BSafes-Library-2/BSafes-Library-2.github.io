@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WhatsApp Bugs Could Have Let Attackers Hack Devices Remotely<a href="https://thehackernews.com/2022/09/critical-whatsapp-bugs-could-have-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp has released&nbsp; security updates &nbsp;to address two flaws in its messaging app for Android and iOS that could lead to remote code execution on vulnerable devices.  One of them concerns&nbsp; CVE-2022-36934 &nbsp;(CVSS score: 9.8), a critical integer overflow vulnerability in WhatsApp that results in the execution of arbitrary code simply by establishing a video call.  The issue impacts the WhatsApp and WhatsApp Business for Android and iOS prior to versions 2.22.16.12.   Also patched by the Meta-owned messaging platform is an integer underflow bug, which refers to an opposite category of errors that occur when the result of an operation is too small for storing the value within the allocated memory space.  The high-severity issue, given the CVE identifier&nbsp; CVE-2022-27492 &nbsp;(CVSS score: 7.8), affects WhatsApp for Android prior to versions 2.22.16.2 and WhatsApp for iOS version 2.22.15.9, and could be triggered upon receiving a specially crafted video file.  Exploiting&nbsp; integer overflows &nbsp;and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Java template framework Pebble vulnerable to command injection<a href="https://portswigger.net/daily-swig/java-template-framework-pebble-vulnerable-to-command-injection?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Java templating engine Pebble was vulnerable to a bug that could allow attackers to bypass its security mechanisms and conduct command injection attacks against host servers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethernet VLAN Stacking flaws let hackers launch DoS, MiTM attacks<a href="https://www.bleepingcomputer.com/news/security/ethernet-vlan-stacking-flaws-let-hackers-launch-dos-mitm-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four vulnerabilities in the widely adopted 'Stacked VLAN' Ethernet feature allows attackers to perform denial-of-service (DoS) or man-in-the-middle (MitM) attacks against network targets using custom-crafted packets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Profile Hacks Show Effectiveness of MFA Fatigue Attacks<a href="https://www.securityweek.com/high-profile-hacks-show-effectiveness-mfa-fatigue-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MFA provides an extra layer of security for user accounts. If a threat actor can obtain an account’s username and password through phishing or other methods, MFA should prevent them from accessing the account.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked LockBit 3.0 builder used by ‘Bl00dy’ ransomware gang in attacks<a href="https://www.bleepingcomputer.com/news/security/leaked-lockbit-30-builder-used-by-bl00dy-ransomware-gang-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The relatively new Bl00Dy Ransomware Gang has started to use a recently leaked LockBit ransomware builder in attacks against companies.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

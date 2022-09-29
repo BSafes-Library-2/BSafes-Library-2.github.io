@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers drop macOS malware via Crypto.com job offers<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-drop-macos-malware-via-cryptocom-job-offers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean Lazarus hacking group is now using fake 'Crypto.com' job offers to hack developers and artists in the crypto space, likely with a long-term goal of stealing digital assets and cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auth0 warns that some source code repos may have been stolen<a href="https://www.bleepingcomputer.com/news/security/auth0-warns-that-some-source-code-repos-may-have-been-stolen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authentication service provider and Okta subsidiary Auth0 has disclosed what it calls a "security event" involving some of its code repositories.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2022 - IRS 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS reports significant increase in texting scams; warns taxpayers to remain vigilant <a href="https://www.irs.gov/newsroom/irs-reports-significant-increase-in-texting-scams-warns-taxpayers-to-remain-vigilant"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON — The Internal Revenue Service today warned taxpayers of a recent increase in IRS-themed texting scams aimed at stealing personal and financial information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 23, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can You Hack It? Find Out In Our Lawfare Class<a href="https://www.lawfareblog.com/can-you-hack-it-find-out-our-lawfare-class"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+We're bringing hacking and cybersecurity education to a remote cohort of Lawfare's material supporters and challenging them to become hackers themselves. There's still time to join us.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

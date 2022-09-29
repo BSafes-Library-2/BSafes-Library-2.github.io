@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Using Quantum Builder Sold on Dark Web to Deliver Agent Tesla Malware<a href="https://thehackernews.com/2022/09/cyber-criminals-using-quantum-builder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered malware builder called Quantum Builder is being used to deliver the Agent Tesla remote access trojan (RAT).  "This campaign features enhancements and a shift toward LNK (Windows shortcut) files when compared to similar attacks in the past," Zscaler ThreatLabz researchers Niraj Shivtarkar and Avinash Kumar&nbsp; said &nbsp;in a Tuesday write-up.   Sold on the dark web for €189 a month,&nbsp; Quantum Builder &nbsp;is a customizable tool for generating malicious shortcut files as well as HTA, ISO, and PowerShell payloads to deliver next-stage malware on the targeted machines, in this case&nbsp; Agent Tesla .  The multi-stage attack chain starts with a spear-phishing containing a GZIP archive attachment that includes a shortcut designed to execute PowerShell code responsible for launching a remote HTML application (HTA) using&nbsp; MSHTA .   The phishing emails purport to be an order confirmation message from a Chinese supplier of lump and rock sugar, with the LNK file masquerading as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

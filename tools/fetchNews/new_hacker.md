@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers now sharing cracked Brute Ratel post-exploitation kit online<a href="https://www.bleepingcomputer.com/news/security/hackers-now-sharing-cracked-brute-ratel-post-exploitation-kit-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brute Ratel post-exploitation toolkit has been cracked and is now being shared for free across Russian-speaking and English-speaking hacking communities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker shares how they allegedly breached Fast Company’s site<a href="https://www.bleepingcomputer.com/news/security/hacker-shares-how-they-allegedly-breached-fast-company-s-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fast Company took its website offline after it was hacked to display stories and push out Apple News notifications containing obscene and racist comments. Today, the hacker shared how they allegedly breached the site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using PowerPoint Mouseover Trick to Infect System with Malware<a href="https://thehackernews.com/2022/09/hackers-using-powerpoint-mouseover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored threat actor known as&nbsp; APT28 &nbsp;has been found leveraging a new code execution method that makes use of mouse movement in decoy Microsoft PowerPoint documents to deploy malware.  The technique "is designed to be triggered when the user starts the presentation mode and moves the mouse," cybersecurity firm Cluster25&nbsp; said &nbsp;in a technical report. "The code execution runs a PowerShell script that downloads and executes a dropper from OneDrive."   The dropper, a seemingly harmless image file, functions as a pathway for a follow-on payload, a variant of a malware known as Graphite, which uses the Microsoft Graph API and OneDrive for command-and-control (C2) communications to retrieve additional payloads.  The attack employs a lure document that makes use of a template potentially linked to the Organisation for Economic Co-operation and Development ( OECD ), a Paris-based intergovernmental entity.   Cluster25 noted the attacks may be ongoing, con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy hackers target military and weapons contractors in recent attack<a href="https://www.bleepingcomputer.com/news/security/stealthy-hackers-target-military-and-weapons-contractors-in-recent-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a new campaign targeting multiple military contractors involved in weapon manufacturing, including an F-35 Lightning II fighter aircraft components supplier.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,70 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus continues to target job seekers with macOS malware<a href="https://securityaffairs.co/wordpress/136297/apt/lazarus-apt-targeting-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT group is targeting macOS Users searching for jobs in the cryptocurrency industry.
+
+
+
+North Korea-linked Lazarus APT group continues to target macOS with a malware campaign using job opportunities as a lure. The attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Optus hacker apologizes and allegedly deletes all stolen data<a href="https://www.bleepingcomputer.com/news/security/optus-hacker-apologizes-and-allegedly-deletes-all-stolen-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker who claimed to have breached Optus and stolen the data of 11 million customers has withdrawn their extortion demands after facing increased attention by law enforcement. The threat actor also apologized to 10,200 people whose personal data was already leaked on a hacking&nbsp;forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Hackers Targeting macOS Users Interested in Crypto Jobs<a href="https://thehackernews.com/2022/09/north-koreas-lazarus-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous Lazarus Group has continued its pattern of leveraging unsolicited job opportunities to deploy malware targeting Apple's macOS operating system.  In the latest variant of the campaign observed by cybersecurity company SentinelOne last week, decoy documents advertising positions for the Singapore-based cryptocurrency exchange firm Crypto[.]com have been used to mount the attacks.  The latest disclosure builds on previous findings from Slovak cybersecurity firm ESET in August, which&nbsp; delved &nbsp;into a similar phony job posting for the Coinbase cryptocurrency exchange platform.   Both these fake job advertisements are just the latest in a series of attacks dubbed&nbsp; Operation In(ter)ception , which, in turn, is a constituent of a broader campaign tracked under the name&nbsp; Operation Dream Job .  Although the exact distribution vector for the malware remains unknown, it's suspected that potential targets are singled out via direct messages on the business networking site Linke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant identifies 3 hacktivist groups working in support of Russia<a href="https://securityaffairs.co/wordpress/136276/hacktivism/hacktivist-groups-support-of-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are tracking multiple self-proclaimed hacktivist groups working in support of Russia, and identified 3 groups linked to the GRU.
+
+
+
+Mandiant researchers are tracking multiple self-proclaimed hacktivist groups working in support of Russia,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
