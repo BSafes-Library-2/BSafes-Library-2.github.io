@@ -8,6 +8,52 @@ nav_order: 900042
 
 ## Disinformation
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ONLINE DISINFORMATION: Under the hood of a Doppelgänger<a href="https://securityaffairs.co/wordpress/136366/intelligence/disinformation-under-the-hood-of-a-doppelganger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ONLINE DISINFORMATION is one of the defining issues of our time and the influence of fake news has become an acute threat to our society.
+
+
+
+Disinformation undermines true journalism and steers the public opinion in highly charged topics such as immigration,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Shuts Down Covert Political 'Influence Operations' from Russia and China<a href="https://thehackernews.com/2022/09/facebook-shuts-down-covert-political.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Tuesday disclosed it took steps to dismantle two covert influence operations originating from China and Russia for engaging in coordinated inauthentic behavior (CIB) so as to manipulate public debate.  While the Chinese operation sets its sights on the U.S. and the Czech Republic, the Russian network primarily targeted Germany, France, Italy, Ukraine and the U.K. with themes surrounding the ongoing war in Ukraine.  "The largest and most complex Russian operation we've disrupted since the war in Ukraine began, it ran a sprawling network of over 60 websites impersonating news organizations, as well as accounts on Facebook, Instagram, YouTube, Telegram, Twitter, Change.org and Avaaz, and even LiveJournal," the social media behemoth&nbsp; said .   The sophisticated Russian activity, which commenced in May 2022, impersonated mainstream European news outlets like Der Spiegel, The Guardian, and Bild, not to mention build credibility by creating fake accounts across
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Disables Russian Propaganda Network Targeting Europe<a href="https://www.securityweek.com/meta-disables-russian-propaganda-network-targeting-europe?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sprawling disinformation network originating in Russia sought to use hundreds of fake social media accounts and dozens of sham news websites to spread Kremlin talking points about the invasion of Ukraine, Meta revealed Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

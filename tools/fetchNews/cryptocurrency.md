@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptominers hijack $53 worth of system resources to earn $1<a href="https://www.bleepingcomputer.com/news/security/cryptominers-hijack-53-worth-of-system-resources-to-earn-1/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers estimate that the financial impact of cryptominers infecting cloud servers costs victims about $53 for every $1 worth of cryptocurrency threat actors mine on hijacked devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

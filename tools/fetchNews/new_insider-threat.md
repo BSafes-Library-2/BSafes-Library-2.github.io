@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired admin cripples former employer's network using old credentials<a href="https://www.bleepingcomputer.com/news/security/fired-admin-cripples-former-employers-network-using-old-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An IT system administrator of a prominent financial company based in Hawaii, U.S., used a pair of credentials that hadn't been invalidated after he was laid off to wreak havoc on his employer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

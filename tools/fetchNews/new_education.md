@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Steps to Mitigate the Risk of Credential Exposure<a href="https://thehackernews.com/2022/09/five-steps-to-mitigate-risk-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year, billions of credentials appear online, be it on the dark web, clear web, paste sites, or in data dumps shared by cybercriminals. These credentials are often used for account takeover attacks, exposing organizations to breaches, ransomware, and data theft.&nbsp;  While CISOs are aware of growing identity threats and have multiple tools in their arsenal to help reduce the potential risk, the reality is that existing methodologies have proven largely ineffective. According to the&nbsp; 2022 Verizon Data Breach Investigations Report , over 60% of breaches involve compromised credentials.&nbsp;  Attackers use techniques such as social engineering, brute force, and purchasing leaked credentials on the dark web to compromise legitimate identities and gain unauthorized access to victim organizations' systems and resources.&nbsp;  Adversaries often leverage the fact that some passwords are shared among different users, making it easier to breach multiple accounts in the same organization. Some emp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to protect your Mac against ransomware and other cyberthreats<a href="https://www.bleepingcomputer.com/news/security/how-to-protect-your-mac-against-ransomware-and-other-cyberthreats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular myth says that "Mac's don't get viruses," but that's never quite been true — and today's Mac users face more cyberthreats than ever before. If you've got a friend or family member who thinks they don't have to worry at all about cybersecurity, pass along this article.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

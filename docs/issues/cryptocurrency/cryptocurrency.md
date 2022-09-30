@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Trading Bot Earns $1 Million but Loses Everything to a Hacker an Hour Later<a href="https://cointelegraph.com/news/mev-bot-earns-1m-but-loses-everything-to-a-hacker-an-hour-later?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the blockchain security firm PeckShield, the bug can be traced back to the bot's callback routine, and this was exploited by the hacker to approve an arbitrary address for spending.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

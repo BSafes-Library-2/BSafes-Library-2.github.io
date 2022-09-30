@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 700 ransomware incidents traced back to wholesale access markets: Report<a href="https://therecord.media/nearly-700-ransomware-incidents-traced-back-to-wholesale-access-markets-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have traced almost 700 ransomware incidents back to wholesale access markets (WAM) — platforms where people sell access to compromised endpoints, access over various remote protocols such as RDP, and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The various ways ransomware impacts your organization<a href="https://www.helpnetsecurity.com/2022/09/27/various-ways-ransomware-impacts-your-organization/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite increased investment in tools to fight ransomware, 90% of organizations were affected by ransomware in some capacity over the past 12 months, according to SpyCloud’s 2022 Ransomware Defense Report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Optus tells former Virgin Mobile and Gomo customers they could also be part of data breach<a href="https://www.theguardian.com/business/2022/sep/29/optus-tells-former-virgin-mobile-and-gomo-customers-they-could-also-be-part-of-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both companies are wholly owned subsidiaries of Optus, with the company shuttering the Virgin brand in 2018, but it was not apparent until now whether these customers would have been caught up in the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swachh City Platform Suffers Data Breach Leaking 16 Million User Records<a href="https://thehackernews.com/2022/09/swachh-city-platform-suffers-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor by the name of LeakBase has shared a database containing personal information allegedly affecting 16 million users of Swachh City, an Indian complaint redressal platform.  Leaked details include usernames, email addresses, password hashes, mobile numbers, one-time passwords, last logged-in times, and IP addresses, among others, according to a report shared by security firm CloudSEK  with The Hacker News.   The&nbsp; website &nbsp;is currently inaccessible.   The Swachhata Platform is part of the Indian government's&nbsp; Swachh Bharat Mission &nbsp;(translated as Clean India Mission) nationwide initiative to "achieve universal sanitation coverage."   According to&nbsp; Cyble , the database comprises 101,718 unique email addresses and 15,835,111 unique mobile numbers, putting users at risk of phishing, smishing, social engineering, and identity theft.   The cybersecurity firm said that the breach possibly leveraged compromised credentials belonging to administrator and non-administ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

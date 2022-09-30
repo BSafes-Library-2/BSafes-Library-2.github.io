@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft improves phishing protection in Windows 11 22H2<a href="https://www.theregister.com/2022/09/27/microsoft_phishing_password_protect_windows_11/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The enhanced phishing protection automatically detects when a user types their password into an app or website and knows immediately whether the app or site has a secure connection to a trusted website.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

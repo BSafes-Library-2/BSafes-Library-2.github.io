@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Covert Attack Campaign Targeting Military Contractors<a href="https://thehackernews.com/2022/09/researchers-uncover-covert-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new covert attack campaign singled out multiple military and weapons contractor companies with spear-phishing emails to trigger a multi-stage infection process designed to deploy an unknown payload on compromised machines.  The highly-targeted intrusions, dubbed&nbsp; STEEP#MAVERICK &nbsp;by Securonix, also targeted a strategic supplier to the F-35 Lightning II fighter aircraft.  "The attack was carried out starting in late summer 2022 targeting at least two high-profile military contractor companies," Den Iuzvyk, Tim Peck, and Oleg Kolesnikov&nbsp; said &nbsp;in an analysis.   Infection chains begin with a phishing mail with a ZIP archive attachment containing a shortcut file that claims to be a PDF document about "Company &amp; Benefits," which is then used to retrieve a stager -- an initial binary that's used to download the desired malware -- from a remote server.  This PowerShell stager sets the stage for a "robust chain of stagers" that progresses through seven m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
