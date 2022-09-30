@@ -34,6 +34,418 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange zero-day actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-exchange-zero-day-actively-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting yet-to-be-disclosed Microsoft Exchange zero-day bugs allowing for remote code execution, according to claims made by security researchers at Vietnamese cybersecurity outfit GTSC, who first spotted and reported the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal Updates Patch Vulnerability in Twig Template Engine<a href="https://www.securityweek.com/drupal-updates-patch-vulnerability-twig-template-engine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Multiple vulnerabilities are possible if an untrusted user has access to write Twig code, including potential unauthorized read access to private files, the contents of other files on the server, or database credentials,” Drupal noted.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Prilex Hackers Resurfaced With Sophisticated Point-of-Sale Malware<a href="https://thehackernews.com/2022/09/brazilian-prilex-hackers-resurfaced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian threat actor known as  Prilex  has resurfaced after a year-long operational hiatus with an advanced and complex malware to steal money by means of fraudulent transactions.  "The Prilex group has shown a high level of knowledge about credit and debit card transactions, and how software used for payment processing works," Kaspersky researchers  said . "This enables the attackers to keep updating their tools in order to find a way to circumvent the authorization policies, allowing them to perform their attacks."  The cybercrime group emerged on the scene with ATM-focused malware attacks in the South American nation, providing it the ability to break into ATM machines to perform jackpotting – a type of attack aiming to dispense cash illegitimately – and clone thousands of credit cards to steal funds from the targeted bank's customers.   Prilex's modus operandi over the years has since evolved to take advantage of processes relating to point-of-sale
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker groups support protestors in Iran using Telegram, Signal and Darkweb<a href="https://securityaffairs.co/wordpress/136404/hacktivism/iran-hacktivists-groups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several hacker groups are assisting protestors in Iran using Telegram, Signal and other tools to bypass government censorship.
+
+
+
+Check Point Research (CPR) observed multiple hacker groups using Telegram, Signal and the darkweb to support protestors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group hides backdoor malware inside Windows logo image<a href="https://www.bleepingcomputer.com/news/security/hacking-group-hides-backdoor-malware-inside-windows-logo-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a malicious campaign by the 'Witchetty' hacking group, which uses steganography to hide a backdoor malware in a Windows logo.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed After Schneider Electric Patches Critical Flaw Allowing PLC Hacking<a href="https://www.securityweek.com/details-disclosed-after-schneider-electric-patches-critical-flaw-allowing-plc-hacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schneider Electric in recent months released patches for its EcoStruxure platform and some Modicon programmable logic controllers (PLCs) to address a critical vulnerability that was disclosed more than a year ago.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Covert Attack Campaign Targeting Military Contractors<a href="https://thehackernews.com/2022/09/researchers-uncover-covert-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new covert attack campaign singled out multiple military and weapons contractor companies with spear-phishing emails to trigger a multi-stage infection process designed to deploy an unknown payload on compromised machines.  The highly-targeted intrusions, dubbed  STEEP#MAVERICK  by Securonix, also targeted a strategic supplier to the F-35 Lightning II fighter aircraft.  "The attack was carried out starting in late summer 2022 targeting at least two high-profile military contractor companies," Den Iuzvyk, Tim Peck, and Oleg Kolesnikov  said  in an analysis.   Infection chains begin with a phishing mail with a ZIP archive attachment containing a shortcut file that claims to be a PDF document about "Company & Benefits," which is then used to retrieve a stager -- an initial binary that's used to download the desired malware -- from a remote server.  This PowerShell stager sets the stage for a "robust chain of stagers" that progresses through seven m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cracked copy of Brute Ratel post-exploitation tool leaked on hacking forums<a href="https://securityaffairs.co/wordpress/136395/cyber-crime/brute-ratel-cracked-copy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brute Ratel post-exploitation toolkit has been cracked and now is available in the underground hacking and cybercrime communities.
+
+
+
+Threat actors have cracked the Brute Ratel C4 (BRC4) post-exploitation toolkit and leaked it for free in the cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fired admin cripples former employer's network using old credentials<a href="https://www.bleepingcomputer.com/news/security/fired-admin-cripples-former-employers-network-using-old-credentials/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An IT system administrator of a prominent financial company based in Hawaii, U.S., used a pair of credentials that hadn't been invalidated after he was laid off to wreak havoc on his employer.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 700 ransomware incidents traced back to wholesale access markets: Report<a href="https://therecord.media/nearly-700-ransomware-incidents-traced-back-to-wholesale-access-markets-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have traced almost 700 ransomware incidents back to wholesale access markets (WAM) — platforms where people sell access to compromised endpoints, access over various remote protocols such as RDP, and more.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Steps to Mitigate the Risk of Credential Exposure<a href="https://thehackernews.com/2022/09/five-steps-to-mitigate-risk-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year, billions of credentials appear online, be it on the dark web, clear web, paste sites, or in data dumps shared by cybercriminals. These credentials are often used for account takeover attacks, exposing organizations to breaches, ransomware, and data theft.   While CISOs are aware of growing identity threats and have multiple tools in their arsenal to help reduce the potential risk, the reality is that existing methodologies have proven largely ineffective. According to the  2022 Verizon Data Breach Investigations Report , over 60% of breaches involve compromised credentials.   Attackers use techniques such as social engineering, brute force, and purchasing leaked credentials on the dark web to compromise legitimate identities and gain unauthorized access to victim organizations' systems and resources.   Adversaries often leverage the fact that some passwords are shared among different users, making it easier to breach multiple accounts in the same organization. Some emp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Go-based Chaos malware is rapidly growing targeting Windows, Linux and more<a href="https://securityaffairs.co/wordpress/136384/malware/chaos-malware-windows-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new multifunctional Go-based malware dubbed Chaos is targeting both Windows and Linux systems, experts warn. 
+
+
+
+Researchers from Black Lotus Labs at Lumen Technologies, recently uncovered a multifunctional Go-based malware that was developed to target...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Matrix: Install security update to fix end-to-end encryption flaws<a href="https://www.bleepingcomputer.com/news/security/matrix-install-security-update-to-fix-end-to-end-encryption-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matrix decentralized communication platform has published a security warning about two critical-severity vulnerabilities that affect the end-to-end encryption in the software development kit (SDK).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Optus tells former Virgin Mobile and Gomo customers they could also be part of data breach<a href="https://www.theguardian.com/business/2022/sep/29/optus-tells-former-virgin-mobile-and-gomo-customers-they-could-also-be-part-of-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both companies are wholly owned subsidiaries of Optus, with the company shuttering the Virgin brand in 2018, but it was not apparent until now whether these customers would have been caught up in the breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swachh City Platform Suffers Data Breach Leaking 16 Million User Records<a href="https://thehackernews.com/2022/09/swachh-city-platform-suffers-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor by the name of LeakBase has shared a database containing personal information allegedly affecting 16 million users of Swachh City, an Indian complaint redressal platform.  Leaked details include usernames, email addresses, password hashes, mobile numbers, one-time passwords, last logged-in times, and IP addresses, among others, according to a report shared by security firm CloudSEK  with The Hacker News.   The  website  is currently inaccessible.   The Swachhata Platform is part of the Indian government's  Swachh Bharat Mission  (translated as Clean India Mission) nationwide initiative to "achieve universal sanitation coverage."   According to  Cyble , the database comprises 101,718 unique email addresses and 15,835,111 unique mobile numbers, putting users at risk of phishing, smishing, social engineering, and identity theft.   The cybersecurity firm said that the breach possibly leveraged compromised credentials belonging to administrator and non-administ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Lazarus hackers are weaponizing open-source software<a href="https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-are-weaponizing-open-source-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the North Korean-sponsored Lazarus threat group is trojanizing legitimate open-source software and using it to backdoor organizations in many industry sectors, such as technology, defense, and media entertainment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The various ways ransomware impacts your organization<a href="https://www.helpnetsecurity.com/2022/09/27/various-ways-ransomware-impacts-your-organization/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite increased investment in tools to fight ransomware, 90% of organizations were affected by ransomware in some capacity over the past 12 months, according to SpyCloud’s 2022 Ransomware Defense Report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Aid Protests Against Iranian Government with Proxies, Leaks and Hacks<a href="https://thehackernews.com/2022/09/hackers-aid-protests-against-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several hacktivist groups are using Telegram and other tools to aid anti-government protests in Iran to bypass regime censorship restrictions amid  ongoing unrest  in the country following the death of Mahsa Amini in custody.  "Key activities are data leaking and selling, including officials' phone numbers and emails, and maps of sensitive locations," Israeli cybersecurity firm Check Point  said  in a new report.   The company said it has also witnessed sharing of proxies and open VPN servers to get around censorship and reports on the internet status in the country, with one group helping the anti-government demonstrators access social media sites.  Chief among them is a Telegram channel called Official Atlas Intelligence Group (AIG) that's primarily focused on publishing data associated with government officials as well as maps of prominent locations.   Calling itself the "CyberArmy," the group is said to have commenced its operations in May and has also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave browser to start blocking annoying cookie consent banners<a href="https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brave browser will soon allows users to block annoying and potentially privacy-harming cookie consent banners on all websites they visit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft improves phishing protection in Windows 11 22H2<a href="https://www.theregister.com/2022/09/27/microsoft_phishing_password_protect_windows_11/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The enhanced phishing protection automatically detects when a user types their password into an app or website and knows immediately whether the app or site has a secure connection to a trusted website.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Royal Ransomware emerges in multi-million dollar attacks<a href="https://www.bleepingcomputer.com/news/security/new-royal-ransomware-emerges-in-multi-million-dollar-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation named Royal is quickly ramping up, targeting corporations with ransom demands ranging from $250,000 to over $2 million. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Trading Bot Earns $1 Million but Loses Everything to a Hacker an Hour Later<a href="https://cointelegraph.com/news/mev-bot-earns-1m-but-loses-everything-to-a-hacker-an-hour-later?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the blockchain security firm PeckShield, the bug can be traced back to the bot's callback routine, and this was exploited by the hacker to approve an arbitrary address for spending.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to protect your Mac against ransomware and other cyberthreats<a href="https://www.bleepingcomputer.com/news/security/how-to-protect-your-mac-against-ransomware-and-other-cyberthreats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular myth says that "Mac's don't get viruses," but that's never quite been true — and today's Mac users face more cyberthreats than ever before. If you've got a friend or family member who thinks they don't have to worry at all about cybersecurity, pass along this article.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New malware backdoors VMware ESXi servers to hijack virtual machines<a href="https://www.bleepingcomputer.com/news/security/new-malware-backdoors-vmware-esxi-servers-to-hijack-virtual-machines/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have found a new method to establish persistence on VMware ESXi hypervisors to control vCenter servers and virtual machines for Windows and Linux while avoiding detection.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Upgraded Prilex Point-of-Sale malware bypasses credit card security<a href="https://www.bleepingcomputer.com/news/security/upgraded-prilex-point-of-sale-malware-bypasses-credit-card-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have observed three new versions of Prilex this year, indicating that the authors and operators of the PoS-targeting malware are back to action.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
