@@ -8,6 +8,90 @@ nav_order: 900015
 
 ## Attack
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Vice Society raises ransomware pressure on Los Angeles school district<a href="https://www.cybersecuritydive.com/news/vice-society-threatens-los-angeles-schools-ransomware/633076/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat, which was discovered and published on Twitter by Brett Callow from Emsisoft, effectively gives the Los Angeles school district less than four days to respond. Vice Society did not include any details about the data it plans to publish.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attacks Against Middle East Governments Hide Malware in Windows logo<a href="https://thehackernews.com/2022/09/cyber-attacks-against-middle-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An espionage-focused threat actor has been observed using a steganographic trick to conceal a previously undocumented backdoor in a Windows logo in its attacks against Middle Eastern governments.  Broadcom's Symantec Threat Hunter Team attributed the updated tooling to a hacking group it tracks under the name&nbsp; Witchetty , which is also known as&nbsp; LookingFrog , a subgroup operating under the TA410 umbrella.  Intrusions involving TA410 – which is believed to share connections with a Chinese threat group known as APT10 (aka Cicada, Stone Panda, or TA429) – primarily feature a modular implant called LookBack.   Symantec's latest analysis of attacks between February and September 2022, during which the group targeted the governments of two Middle Eastern countries and the stock exchange of an African nation, highlights the use of a new backdoor called Stegmap.  The new malware leverages&nbsp; steganography &nbsp;– a technique used to embed a message (in this case, malware) in a non-secret doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Campaign Targeting Job Seekers with Cobalt Strike Beacons<a href="https://thehackernews.com/2022/09/new-malware-campaign-targeting-job.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A social engineering campaign leveraging job-themed lures is weaponizing a years-old remote code execution flaw in Microsoft Office to deploy Cobalt Strike beacons on compromised hosts.  "The payload discovered is a leaked version of a Cobalt Strike beacon," Cisco Talos researchers Chetan Raghuprasad and Vanja Svajcer&nbsp; said &nbsp;in a new analysis published Wednesday.  "The beacon configuration contains commands to perform targeted process injection of arbitrary binaries and has a high reputation domain configured, exhibiting the redirection technique to masquerade the beacon's traffic."   The malicious activity, discovered in August 2022, attempts to exploit the vulnerability&nbsp; CVE-2017-0199 , a remote code execution issue in Microsoft Office, that allows an attacker to take control of an affected system.  The entry vector for the attack is a phishing email containing a Microsoft Word attachment that employs job-themed lures for roles in the U.S. government and Publ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms new Exchange zero-days are used in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-exchange-zero-days-are-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that two recently reported zero-day vulnerabilities in&nbsp;Microsoft Exchange Server 2013, 2016, and 2019 are being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation<a href="https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning of previously undisclosed flaws in fully patched Microsoft Exchange servers being exploited by malicious actors in real-world attacks to achieve remote code execution on affected systems.  That's according to Vietnamese cybersecurity company GTSC, which discovered the shortcomings as part of its security monitoring and incident response efforts in August 2022.  The two vulnerabilities, which are formally yet to be assigned CVE identifiers, are being&nbsp; tracked &nbsp;by the Zero Day Initiative as&nbsp; ZDI-CAN-18333 &nbsp;(CVSS score: 8.8) and&nbsp; ZDI-CAN-18802 &nbsp;(CVSS score: 6.3).  GTSC said that successful exploitation of the flaws could be abused to gain a foothold in the victim's systems, enabling adversaries to drop web shells and carry out lateral movements across the compromised network.   "We detected web shells, mostly obfuscated, being dropped to Exchange servers," the company&nbsp; noted . "Using the user-agent, we detected that the attacker use
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange zero-days actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-exchange-zero-days-actively-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting yet-to-be-disclosed Microsoft Exchange zero-day bugs allowing for remote code execution, according to claims made by&nbsp;security researchers at Vietnamese cybersecurity outfit GTSC, who first spotted and reported the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany arrests hacker for stealing €4 million via phishing attacks<a href="https://www.bleepingcomputer.com/news/security/germany-arrests-hacker-for-stealing-4-million-via-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Bundeskriminalamt (BKA), the country's federal criminal police, carried out raids on the homes of three individuals yesterday suspected of orchestrating large-scale phishing campaigns that defrauded internet users of €4,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Disgruntled insider' shared REvil information with researchers, helped law enforcement<a href="https://www.cyberscoop.com/insider-revil-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insider went on to help researchers understand the inner workings of the group that became known as REvil, whose antics and crimes made headlines after attacking beef producer JBS.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

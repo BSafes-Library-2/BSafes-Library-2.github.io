@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 30th 2022 - Emerging from the Shadows<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-30th-2022-emerging-from-the-shadows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's news primarily revolves around LockBit, BlackMatter, and the rising enterprise-targeting Royal ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dissecting BlueSky Ransomware Payload<a href="https://yoroi.company/research/dissecting-bluesky-ransomware-payload/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueSky is a ransomware firstly spotted in May 2022. The group behind the ransomware doesn’t adopt the double-extortion model and their targets are even normal users because the ransomware has been discovered inside cracks of programs and games.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

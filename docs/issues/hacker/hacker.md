@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Weaponizing Open-Source Software in Latest Cyber Attacks<a href="https://thehackernews.com/2022/09/north-korean-hackers-weaponizing-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "highly operational, destructive, and sophisticated nation-state activity group" with ties to North Korea has been weaponizing open source software in their social engineering campaigns aimed at companies around the world since June 2022.  Microsoft's threat intelligence teams, alongside LinkedIn Threat Prevention and Defense, attributed the intrusions with high confidence to&nbsp; Zinc , which is also tracked under the names Labyrinth Chollima.&nbsp;  Attacks targeted employees in organizations across multiple industries, including media, defense and aerospace, and IT services in the U.S., the U.K., India, and Russia.   The tech giant&nbsp; said &nbsp;it observed Zinc leveraging a "wide range of open-source software including PuTTY, KiTTY, TightVNC, Sumatra PDF Reader, and muPDF/Subliminal Recording software installer for these attacks."  According to&nbsp; CrowdStrike , Zinc "has been active since 2009 in operations aimed at collecting political, military, and economic intelli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean State-backed Hackers Found Rigging Legit Open-Source Software with Malware<a href="https://www.securityweek.com/north-korean-gov-hackers-caught-rigging-legit-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers, a sub-group of Lazarus called ZINC, are weaponizing a wide range of open-source software including PuTTY, KiTTY, TightVNC, Sumatra PDF Reader, and muPDF/Subliminal Recording software installers in a new wave of malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

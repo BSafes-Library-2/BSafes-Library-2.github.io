@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake US govt job offers push Cobalt Strike in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/fake-us-govt-job-offers-push-cobalt-strike-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign targets US and New Zealand job seekers with malicious documents installing Cobalt Strike beacons for remote access to victims' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CISO Profiles on LinkedIn Target Fortune 500s – Krebs on Security<a href="https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fabricated LinkedIn identities are confusing search engine results for CISO roles at major companies, and they are being indexed as gospel by various downstream data-scraping sources.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

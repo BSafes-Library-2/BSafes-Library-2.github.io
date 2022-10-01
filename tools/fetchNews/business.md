@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave browser to start blocking annoying cookie consent banners<a href="https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brave browser will soon allows users to block annoying and potentially privacy-harming cookie consent banners on all websites they visit.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

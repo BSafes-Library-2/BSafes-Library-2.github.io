@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange zero-day actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-exchange-zero-day-actively-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting yet-to-be-disclosed Microsoft Exchange zero-day bugs allowing for remote code execution, according to claims made by&nbsp;security researchers at Vietnamese cybersecurity outfit GTSC, who first spotted and reported the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drupal Updates Patch Vulnerability in Twig Template Engine<a href="https://www.securityweek.com/drupal-updates-patch-vulnerability-twig-template-engine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Multiple vulnerabilities are possible if an untrusted user has access to write Twig code, including potential unauthorized read access to private files, the contents of other files on the server, or database credentials,” Drupal noted.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed After Schneider Electric Patches Critical Flaw Allowing PLC Hacking<a href="https://www.securityweek.com/details-disclosed-after-schneider-electric-patches-critical-flaw-allowing-plc-hacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schneider Electric in recent months released patches for its EcoStruxure platform and some Modicon programmable logic controllers (PLCs) to address a critical vulnerability that was disclosed more than a year ago.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Matrix: Install security update to fix end-to-end encryption flaws<a href="https://www.bleepingcomputer.com/news/security/matrix-install-security-update-to-fix-end-to-end-encryption-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Matrix decentralized communication platform has published&nbsp;a security warning about two critical-severity vulnerabilities that affect the end-to-end encryption in the software development kit (SDK).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

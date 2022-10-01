@@ -8,6 +8,80 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Prilex Hackers Resurfaced With Sophisticated Point-of-Sale Malware<a href="https://thehackernews.com/2022/09/brazilian-prilex-hackers-resurfaced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian threat actor known as&nbsp; Prilex &nbsp;has resurfaced after a year-long operational hiatus with an advanced and complex malware to steal money by means of fraudulent transactions.  "The Prilex group has shown a high level of knowledge about credit and debit card transactions, and how software used for payment processing works," Kaspersky researchers&nbsp; said . "This enables the attackers to keep updating their tools in order to find a way to circumvent the authorization policies, allowing them to perform their attacks."  The cybercrime group emerged on the scene with ATM-focused malware attacks in the South American nation, providing it the ability to break into ATM machines to perform jackpotting – a type of attack aiming to dispense cash illegitimately – and clone thousands of credit cards to steal funds from the targeted bank's customers.   Prilex's modus operandi over the years has since evolved to take advantage of processes relating to point-of-sale
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker groups support protestors in Iran using Telegram, Signal and Darkweb<a href="https://securityaffairs.co/wordpress/136404/hacktivism/iran-hacktivists-groups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several hacker groups are assisting protestors in Iran using Telegram, Signal and other tools to bypass government censorship.
+
+
+
+Check Point Research (CPR) observed multiple hacker groups using Telegram, Signal and the darkweb to support protestors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group hides backdoor malware inside Windows logo image<a href="https://www.bleepingcomputer.com/news/security/hacking-group-hides-backdoor-malware-inside-windows-logo-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered a malicious campaign by the 'Witchetty' hacking group, which uses steganography to hide a backdoor malware in a Windows logo.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Lazarus hackers are weaponizing open-source software<a href="https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-are-weaponizing-open-source-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the North Korean-sponsored Lazarus threat group is&nbsp;trojanizing legitimate open-source software and using it to backdoor organizations in&nbsp;many industry sectors, such as technology, defense, and media entertainment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Aid Protests Against Iranian Government with Proxies, Leaks and Hacks<a href="https://thehackernews.com/2022/09/hackers-aid-protests-against-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several hacktivist groups are using Telegram and other tools to aid anti-government protests in Iran to bypass regime censorship restrictions amid&nbsp; ongoing unrest &nbsp;in the country following the death of Mahsa Amini in custody.  "Key activities are data leaking and selling, including officials' phone numbers and emails, and maps of sensitive locations," Israeli cybersecurity firm Check Point&nbsp; said &nbsp;in a new report.   The company said it has also witnessed sharing of proxies and open VPN servers to get around censorship and reports on the internet status in the country, with one group helping the anti-government demonstrators access social media sites.  Chief among them is a Telegram channel called Official Atlas Intelligence Group (AIG) that's primarily focused on publishing data associated with government officials as well as maps of prominent locations.   Calling itself the "CyberArmy," the group is said to have commenced its operations in May and has also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

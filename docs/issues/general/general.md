@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Organisations Need Both EDR and NDR for Complete Network Protection<a href="https://thehackernews.com/2022/09/why-organisations-need-both-edr-and-ndr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Endpoint devices like desktops, laptops, and mobile phones enable users to connect to enterprise networks and use their resources for their day-to-day work. However, they also expand the attack surface and make the organisation vulnerable to malicious cyberattacks and data breaches.  Why Modern Organisations Need EDR  According to the 2020 global&nbsp; risk report &nbsp;by Ponemon Institute, smartphones, laptops, mobile devices, and desktops are some of the most vulnerable entry points that allow threat actors to compromise enterprise networks. Security teams must assess and address the security risks created by these devices before they can damage the organisation. And for this, they require Endpoint Detection &amp; Response (EDR).  EDR solutions provide real-time visibility into endpoints and detect threats like malware and ransomware. By continuously monitoring endpoints, they enable security teams to uncover malicious activities, investigate threats, and initiate appropriate responses to pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

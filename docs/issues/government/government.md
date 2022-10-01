@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Hackers exploit critical Bitbucket Server flaw in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-hackers-exploit-critical-bitbucket-server-flaw-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added three more security flaws to its list of bugs exploited in attacks, including a&nbsp;Bitbucket Server RCE and two Microsoft Exchange zero-days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoD announced the results of the Hack US bug bounty challenge<a href="https://securityaffairs.co/wordpress/136462/hacking/dod-hack-us-results.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Defense (DoD) shared the results of the&nbsp;Hack US bug bounty program that took place in July.
+
+
+
+On July 4, 2022, the US Department of Defense (DoD) and HackerOne started the Hack US, a&nbsp;one-week bug bounty challenge, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

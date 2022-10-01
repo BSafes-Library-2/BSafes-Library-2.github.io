@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 30, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Optus breach victims will get "supercharged" fraud protection<a href="https://www.bleepingcomputer.com/news/security/optus-breach-victims-will-get-supercharged-fraud-protection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Australian Federal Police (AFP) announced today the launch of Operation Guardian which will ensure that more than 10,000 customers who had their personal info leaked in the Optus data breach will get priority protection against fraud attempts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
