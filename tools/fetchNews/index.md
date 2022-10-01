@@ -34,6 +34,442 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - September 30th 2022 - Emerging from the Shadows<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-30th-2022-emerging-from-the-shadows/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's news primarily revolves around LockBit, BlackMatter, and the rising enterprise-targeting Royal ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Vice Society raises ransomware pressure on Los Angeles school district<a href="https://www.cybersecuritydive.com/news/vice-society-threatens-los-angeles-schools-ransomware/633076/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat, which was discovered and published on Twitter by Brett Callow from Emsisoft, effectively gives the Los Angeles school district less than four days to respond. Vice Society did not include any details about the data it plans to publish.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Families Found Targeting VMware ESXi Hypervisors<a href="https://thehackernews.com/2022/09/new-malware-families-found-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been found deploying never-before-seen post-compromise implants in VMware's virtualization software to seize control of infected systems and evade detection.  Google's Mandiant threat intelligence division referred to it as a "novel malware ecosystem" that impacts VMware ESXi, Linux vCenter servers, and Windows virtual machines, allowing attackers to maintain persistent access to the  hypervisor  as well as execute arbitrary commands.  The  hyperjacking attacks , per the cybersecurity vendor, involved the use of malicious vSphere Installation Bundles ( VIBs ) to sneak in two implants, dubbed VIRTUALPITA and VIRTUALPIE, on the ESXi hypervisors.   "It is important to highlight that this is not an external remote code execution vulnerability; the attacker needs admin-level privileges to the ESXi hypervisor before they can deploy malware," Mandiant researchers Alexander Marvi, Jeremy Koppen, Tufail Ahmed, and Jonathan Lepore said in an exhaus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Witchetty APT used steganography in attacks against Middle East entities<a href="https://securityaffairs.co/wordpress/136477/apt/witchetty-apt-steganography.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage group, tracked as Witchetty, used steganography to hide a previously undocumented backdoor in a Windows logo.
+
+
+
+Broadcom's Symantec Threat Hunter Team observed a threat actor, tracked as Witchetty, using steganography to hide a previously...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Hackers exploit critical Bitbucket Server flaw in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-hackers-exploit-critical-bitbucket-server-flaw-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added three more security flaws to its list of bugs exploited in attacks, including a Bitbucket Server RCE and two Microsoft Exchange zero-days.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dissecting BlueSky Ransomware Payload<a href="https://yoroi.company/research/dissecting-bluesky-ransomware-payload/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueSky is a ransomware firstly spotted in May 2022. The group behind the ransomware doesn’t adopt the double-extortion model and their targets are even normal users because the ransomware has been discovered inside cracks of programs and games.
+</details>
+<div style="text-align: right" markdown="1">
+Yoroi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attacks Against Middle East Governments Hide Malware in Windows logo<a href="https://thehackernews.com/2022/09/cyber-attacks-against-middle-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An espionage-focused threat actor has been observed using a steganographic trick to conceal a previously undocumented backdoor in a Windows logo in its attacks against Middle Eastern governments.  Broadcom's Symantec Threat Hunter Team attributed the updated tooling to a hacking group it tracks under the name  Witchetty , which is also known as  LookingFrog , a subgroup operating under the TA410 umbrella.  Intrusions involving TA410 – which is believed to share connections with a Chinese threat group known as APT10 (aka Cicada, Stone Panda, or TA429) – primarily feature a modular implant called LookBack.   Symantec's latest analysis of attacks between February and September 2022, during which the group targeted the governments of two Middle Eastern countries and the stock exchange of an African nation, highlights the use of a new backdoor called Stegmap.  The new malware leverages  steganography  – a technique used to embed a message (in this case, malware) in a non-secret doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoD announced the results of the Hack US bug bounty challenge<a href="https://securityaffairs.co/wordpress/136462/hacking/dod-hack-us-results.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Defense (DoD) shared the results of the Hack US bug bounty program that took place in July.
+
+
+
+On July 4, 2022, the US Department of Defense (DoD) and HackerOne started the Hack US, a one-week bug bounty challenge, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake US govt job offers push Cobalt Strike in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/fake-us-govt-job-offers-push-cobalt-strike-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign targets US and New Zealand job seekers with malicious documents installing Cobalt Strike beacons for remote access to victims' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CISO Profiles on LinkedIn Target Fortune 500s – Krebs on Security<a href="https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fabricated LinkedIn identities are confusing search engine results for CISO roles at major companies, and they are being indexed as gospel by various downstream data-scraping sources.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs on Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Campaign Targeting Job Seekers with Cobalt Strike Beacons<a href="https://thehackernews.com/2022/09/new-malware-campaign-targeting-job.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A social engineering campaign leveraging job-themed lures is weaponizing a years-old remote code execution flaw in Microsoft Office to deploy Cobalt Strike beacons on compromised hosts.  "The payload discovered is a leaked version of a Cobalt Strike beacon," Cisco Talos researchers Chetan Raghuprasad and Vanja Svajcer  said  in a new analysis published Wednesday.  "The beacon configuration contains commands to perform targeted process injection of arbitrary binaries and has a high reputation domain configured, exhibiting the redirection technique to masquerade the beacon's traffic."   The malicious activity, discovered in August 2022, attempts to exploit the vulnerability  CVE-2017-0199 , a remote code execution issue in Microsoft Office, that allows an attacker to take control of an affected system.  The entry vector for the attack is a phishing email containing a Microsoft Word attachment that employs job-themed lures for roles in the U.S. government and Publ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms Exchange zero-day flaws actively exploited in the wild<a href="https://securityaffairs.co/wordpress/136447/hacking/microsoft-exchange-zero-day-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that two recently disclosed zero-day flaws in Microsoft Exchange are being actively exploited in the wild.
+
+
+
+Microsoft confirmed that two zero-day vulnerabilities in Microsoft Exchange recently disclosed by researchers at cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Optus breach victims will get "supercharged" fraud protection<a href="https://www.bleepingcomputer.com/news/security/optus-breach-victims-will-get-supercharged-fraud-protection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) announced today the launch of Operation Guardian which will ensure that more than 10,000 customers who had their personal info leaked in the Optus data breach will get priority protection against fraud attempts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in Networking Software<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-networking-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced IOS and IOS XE software updates that address 12 security vulnerabilities. The bugs were resolved as part of Cisco’s semiannual bundle patches for its networking software, which it releases in March and September.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Organisations Need Both EDR and NDR for Complete Network Protection<a href="https://thehackernews.com/2022/09/why-organisations-need-both-edr-and-ndr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Endpoint devices like desktops, laptops, and mobile phones enable users to connect to enterprise networks and use their resources for their day-to-day work. However, they also expand the attack surface and make the organisation vulnerable to malicious cyberattacks and data breaches.  Why Modern Organisations Need EDR  According to the 2020 global  risk report  by Ponemon Institute, smartphones, laptops, mobile devices, and desktops are some of the most vulnerable entry points that allow threat actors to compromise enterprise networks. Security teams must assess and address the security risks created by these devices before they can damage the organisation. And for this, they require Endpoint Detection & Response (EDR).  EDR solutions provide real-time visibility into endpoints and detect threats like malware and ransomware. By continuously monitoring endpoints, they enable security teams to uncover malicious activities, investigate threats, and initiate appropriate responses to pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Microsoft Exchange Zero-Day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/136433/hacking/microsoft-exchange-zero-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning of a new Microsoft Exchange zero-day that are being exploited by malicious actors in the wild.
+
+
+
+Cybersecurity firm GTSC discovered two Microsoft Exchange zero-day vulnerabilities that are under active exploitation in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany arrests hacker for stealing €4 million via phishing attacks<a href="https://www.bleepingcomputer.com/news/security/germany-arrests-hacker-for-stealing-4-million-via-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Bundeskriminalamt (BKA), the country's federal criminal police, carried out raids on the homes of three individuals yesterday suspected of orchestrating large-scale phishing campaigns that defrauded internet users of €4,000,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Disgruntled insider' shared REvil information with researchers, helped law enforcement<a href="https://www.cyberscoop.com/insider-revil-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The insider went on to help researchers understand the inner workings of the group that became known as REvil, whose antics and crimes made headlines after attacking beef producer JBS.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Weaponizing Open-Source Software in Latest Cyber Attacks<a href="https://thehackernews.com/2022/09/north-korean-hackers-weaponizing-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "highly operational, destructive, and sophisticated nation-state activity group" with ties to North Korea has been weaponizing open source software in their social engineering campaigns aimed at companies around the world since June 2022.  Microsoft's threat intelligence teams, alongside LinkedIn Threat Prevention and Defense, attributed the intrusions with high confidence to  Zinc , which is also tracked under the names Labyrinth Chollima.   Attacks targeted employees in organizations across multiple industries, including media, defense and aerospace, and IT services in the U.S., the U.K., India, and Russia.   The tech giant  said  it observed Zinc leveraging a "wide range of open-source software including PuTTY, KiTTY, TightVNC, Sumatra PDF Reader, and muPDF/Subliminal Recording software installer for these attacks."  According to  CrowdStrike , Zinc "has been active since 2009 in operations aimed at collecting political, military, and economic intelli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts uncovered novel Malware persistence within VMware ESXi Hypervisors<a href="https://securityaffairs.co/wordpress/136408/hacking/vmware-esxi-hypervisors-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Mandiant have discovered a novel malware persistence technique within VMware ESXi Hypervisors.
+
+
+
+Mandiant detailed a novel technique used by malware authors to achieve administrative access within VMware ESXi Hypervisors and take over...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms new Exchange zero-days are used in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-exchange-zero-days-are-used-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that two recently reported zero-day vulnerabilities in Microsoft Exchange Server 2013, 2016, and 2019 are being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean State-backed Hackers Found Rigging Legit Open-Source Software with Malware<a href="https://www.securityweek.com/north-korean-gov-hackers-caught-rigging-legit-software?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers, a sub-group of Lazarus called ZINC, are weaponizing a wide range of open-source software including PuTTY, KiTTY, TightVNC, Sumatra PDF Reader, and muPDF/Subliminal Recording software installers in a new wave of malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Confirms 2 New Exchange Zero-Day Flaws Being Used in the Wild<a href="https://thehackernews.com/2022/09/microsoft-confirms-2-new-exchange-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft officially disclosed it investigating two zero-day security vulnerabilities impacting Exchange Server 2013, 2016, and 2019 following  reports of in-the-wild exploitation .  "The first vulnerability, identified as  CVE-2022-41040 , is a Server-Side Request Forgery ( SSRF ) vulnerability, while the second, identified as  CVE-2022-41082 , allows remote code execution (RCE) when PowerShell is accessible to the attacker," the tech giant  said .  The company also confirmed that it's aware of "limited targeted attacks" weaponizing the flaws to obtain initial access to targeted systems, but emphasized that authenticated access to the vulnerable Exchange Server is required to achieve successful exploitation.  The attacks detailed by Microsoft show that the two flaws are stringed together in an exploit chain, with the SSRF bug enabling an authenticated adversary to remotely trigger arbitrary code execution.   The Redmond-based company also confirmed that it'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pathlock Expands SAP Capabilities with Acquisition of Grey Monarch<a href="https://www.darkreading.com/application-security/pathlock-expands-sap-capabilities-with-acquisition-of-grey-monarch?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will strengthen Pathlock's vision of providing the industry's most complete 360-degree platform for application security and control automation for the SAP ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation<a href="https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning of previously undisclosed flaws in fully patched Microsoft Exchange servers being exploited by malicious actors in real-world attacks to achieve remote code execution on affected systems.  That's according to Vietnamese cybersecurity company GTSC, which discovered the shortcomings as part of its security monitoring and incident response efforts in August 2022.  The two vulnerabilities, which are formally yet to be assigned CVE identifiers, are being  tracked  by the Zero Day Initiative as  ZDI-CAN-18333  (CVSS score: 8.8) and  ZDI-CAN-18802  (CVSS score: 6.3).  GTSC said that successful exploitation of the flaws could be abused to gain a foothold in the victim's systems, enabling adversaries to drop web shells and carry out lateral movements across the compromised network.   "We detected web shells, mostly obfuscated, being dropped to Exchange servers," the company  noted . "Using the user-agent, we detected that the attacker use
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Exchange zero-days actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-exchange-zero-days-actively-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting yet-to-be-disclosed Microsoft Exchange zero-day bugs allowing for remote code execution, according to claims made by security researchers at Vietnamese cybersecurity outfit GTSC, who first spotted and reported the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
