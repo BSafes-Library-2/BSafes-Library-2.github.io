@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates<a href="https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered the group behind the SolarMarker malware targeting a global tax consulting organization with a presence in the US, Canada, the UK, and Europe, which is using fake Chrome browser updates as part of watering hole attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers abuse Dell driver bug using new FudModule rootkit<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-abuse-dell-driver-bug-using-new-fudmodule-rootkit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korean hacking group 'Lazarus' was seen installing a Windows rootkit that abuses a Dell hardware driver in a Bring Your Own Vulnerable Driver attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

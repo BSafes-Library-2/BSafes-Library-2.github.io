@@ -8,6 +8,84 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data stolen from LAUSD school system<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-lausd-school-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society Ransomware gang published data and documents Sunday morning that were stolen from the Los Angeles Unified School District during a cyberattack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers set Monday deadline for LAUSD to pay up or have private data posted on dark web<a href="https://www.latimes.com/california/story/2022-09-30/hackers-set-monday-deadline-for-lausd-to-pay-up-or-have-private-data-posted-on-dark-web?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A criminal syndicate has set a Monday deadline for the Los Angeles public school system to pay a ransom or have its data released on the dark web, which could potentially expose the confidential information of students and employees.
+</details>
+<div style="text-align: right" markdown="1">
+LA Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware gang claims to have hacked US defense contractor NJVC<a href="https://securityaffairs.co/wordpress/136537/cyber-crime/njvc-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another US defense contractor suffered a data breach, the BlackCat ransomware gang claims to have hacked NJVC.
+
+
+
+The ALPHV/BlackCat ransomware gang claims to have breached the IT firm NJVC, which supports  the federal government and the&nbsp;United States&nbsp;Department...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German police identified a gang that stole €4 million via phishing attacks<a href="https://securityaffairs.co/wordpress/136519/cyber-crime/phishing-attacks-gang-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German police arrested one individual suspected of having stolen €4 million from users via large-scale phishing campaigns.
+
+
+
+Germany's Bundeskriminalamt (BKA) arrested an individual (24) suspected of having stolen €4,000,000 from internet users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals See Allure in BEC Attacks Over Ransomware<a href="https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While published trends in ransomware attacks have been contradictory — with some firms tracking more incidents and other fewer — business email compromise (BEC) attacks continue to have proven success against organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

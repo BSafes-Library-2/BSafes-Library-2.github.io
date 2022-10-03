@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms Exchange zero-day flaws actively exploited in the wild<a href="https://securityaffairs.co/wordpress/136447/hacking/microsoft-exchange-zero-day-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that two recently disclosed zero-day flaws in Microsoft Exchange are being actively exploited in the wild.
+
+
+
+Microsoft confirmed that two zero-day vulnerabilities in Microsoft Exchange recently disclosed by researchers at cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in Networking Software<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-networking-software?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced IOS and IOS XE software updates that address 12 security vulnerabilities. The bugs were resolved as part of Cisco’s semiannual bundle patches for its networking software, which it releases in March and September.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Microsoft Exchange Zero-Day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/136433/hacking/microsoft-exchange-zero-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning of a new Microsoft Exchange zero-day that are being exploited by malicious actors in the wild.
+
+
+
+Cybersecurity firm GTSC discovered two Microsoft Exchange zero-day vulnerabilities that are under active exploitation in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Confirms 2 New Exchange Zero-Day Flaws Being Used in the Wild<a href="https://thehackernews.com/2022/09/microsoft-confirms-2-new-exchange-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft officially disclosed it investigating two zero-day security vulnerabilities impacting Exchange Server 2013, 2016, and 2019 following&nbsp; reports of in-the-wild exploitation .  "The first vulnerability, identified as&nbsp; CVE-2022-41040 , is a Server-Side Request Forgery ( SSRF ) vulnerability, while the second, identified as&nbsp; CVE-2022-41082 , allows remote code execution (RCE) when PowerShell is accessible to the attacker," the tech giant&nbsp; said .  The company also confirmed that it's aware of "limited targeted attacks" weaponizing the flaws to obtain initial access to targeted systems, but emphasized that authenticated access to the vulnerable Exchange Server is required to achieve successful exploitation.  The attacks detailed by Microsoft show that the two flaws are stringed together in an exploit chain, with the SSRF bug enabling an authenticated adversary to remotely trigger arbitrary code execution.   The Redmond-based company also confirmed that it'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2022
+October 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang leaks data stolen from LAUSD school system<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-lausd-school-system/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2022
+October 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers set Monday deadline for LAUSD to pay up or have private data posted on dark web<a href="https://www.latimes.com/california/story/2022-09-30/hackers-set-monday-deadline-for-lausd-to-pay-up-or-have-private-data-posted-on-dark-web?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ LA Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2022
+October 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat ransomware gang claims to have hacked US defense contractor NJVC<a href="https://securityaffairs.co/wordpress/136537/cyber-crime/njvc-data-breach.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2022
+October 02, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russians dodging mobilization behind flourishing scam market<a href="https://www.bleepingcomputer.com/news/security/russians-dodging-mobilization-behind-flourishing-scam-market/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2022
+October 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 386<a href="https://securityaffairs.co/wordpress/136534/breaking-news/security-affairs-newsletter-round-386.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2022
+October 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German police identified a gang that stole €4 million via phishing attacks<a href="https://securityaffairs.co/wordpress/136519/cyber-crime/phishing-attacks-gang-arrest.html"> Full Text</a>
@@ -146,7 +146,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2022
+October 01, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pay What You Want for This Collection of White Hat Hacking Courses<a href="https://thehackernews.com/2022/10/pay-what-you-want-for-this-collection.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2022
+October 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates<a href="https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2022
+October 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Sponsored Hackers Likely Exploited MS Exchange 0-Days Against ~10 Organizations<a href="https://thehackernews.com/2022/10/state-sponsored-hackers-likely.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2022
+October 01, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft to let Office 365 users report Teams phishing messages<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-to-let-office-365-users-report-teams-phishing-messages/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2022
+October 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals See Allure in BEC Attacks Over Ransomware<a href="https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2022
+October 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Hackers Exploiting Critical Atlassian Bitbucket Server Vulnerability<a href="https://thehackernews.com/2022/10/cisa-warns-of-hackers-exploiting.html"> Full Text</a>
@@ -242,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 01, 2022
+October 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus hackers abuse Dell driver bug using new FudModule rootkit<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-abuse-dell-driver-bug-using-new-fudmodule-rootkit/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2022
+October 1, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Atlassian Bitbucket Server flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/136514/security/atlassian-bitbucket-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -278,7 +278,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2022
+October 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guacamaya hacktivists stole sensitive data from Mexico and Latin American countries<a href="https://securityaffairs.co/wordpress/136497/data-breach/guacamaya-hacked-latam-countries.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 1, 2022
+October 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Luxury hotel chain Shangri-La suffered a security breach<a href="https://securityaffairs.co/wordpress/136489/data-breach/shangri-la-security-breach.html"> Full Text</a>

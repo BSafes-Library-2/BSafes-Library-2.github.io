@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pay What You Want for This Collection of White Hat Hacking Courses<a href="https://thehackernews.com/2022/10/pay-what-you-want-for-this-collection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether you relish a mental challenge or fancy a six-figure paycheck, there are many good reasons to get into&nbsp; white hat hacking . That said, picking up the necessary knowledge to build a&nbsp; new career &nbsp;can seem like a daunting task. There is a lot to learn, after all.  To help you get started, The Hacker News Deals is currently running an eye-catching offer:&nbsp; pay what you want &nbsp;for one video course, and get another eight courses if you beat the average price paid.&nbsp;  Special Offer&nbsp; — For a limited time, name your price for one cybersecurity course and beat the average price paid to&nbsp; get lifetime access to nine courses . The full bundle is worth $1,668!  With thousands of unfilled positions, white hat hacking is a lucrative and exciting career path. This bundle provides a solid introduction to the world of penetration testing and general cybersecurity, with over 65 hours of intensive training.  Through concise video tutorials, you learn how to secure your own machine with Kali Linux and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

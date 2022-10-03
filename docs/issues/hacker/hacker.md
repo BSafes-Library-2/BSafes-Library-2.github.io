@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Hackers Likely Exploited MS Exchange 0-Days Against ~10 Organizations<a href="https://thehackernews.com/2022/10/state-sponsored-hackers-likely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday disclosed that a single activity group in August 2022 achieved initial access and breached Exchange servers by chaining the&nbsp; two newly disclosed zero-day flaws &nbsp;in a limited set of attacks aimed at less than 10 organizations globally.  "These attacks installed the Chopper web shell to facilitate hands-on-keyboard access, which the attackers used to perform Active Directory reconnaissance and data exfiltration," the Microsoft Threat Intelligence Center (MSTIC)&nbsp; said &nbsp;in a new analysis.  The weaponization of the vulnerabilities is expected to ramp up in the coming days, Microsoft further warned, as malicious actors co-opt the exploits into their toolkits, including deploying ransomware, due to the "highly privileged access Exchange systems confer onto an attacker."  The tech giant attributed the ongoing attacks with medium confidence to a state-sponsored organization, adding it was already investigating these attacks when the Zero Day Initiative d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

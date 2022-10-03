@@ -8,6 +8,42 @@ nav_order: 900029
 
 ## Breach
 ---
+October 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guacamaya hacktivists stole sensitive data from Mexico and Latin American countries<a href="https://securityaffairs.co/wordpress/136497/data-breach/guacamaya-hacked-latam-countries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group called Guacamaya stole classified government information from multiple military and government agencies across several Latin American countries.
+
+
+
+Among the data stolen by a group of hackers called Guacamaya (macaw in Spanish) there was a huge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury hotel chain Shangri-La suffered a security breach<a href="https://securityaffairs.co/wordpress/136489/data-breach/shangri-la-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shangri-La hotel group disclosed a data breach, a database containing the personal information of its customers was compromised.
+
+
+
+The Shangri-La hotel group disclosed a data breach, threat actors had access to a database containing the personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
