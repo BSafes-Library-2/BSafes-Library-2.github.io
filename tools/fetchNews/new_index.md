@@ -34,7 +34,291 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+October 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang leaks data stolen from LAUSD school system<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-lausd-school-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society Ransomware gang published data and documents Sunday morning that were stolen from the Los Angeles Unified School District during a cyberattack earlier this month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers set Monday deadline for LAUSD to pay up or have private data posted on dark web<a href="https://www.latimes.com/california/story/2022-09-30/hackers-set-monday-deadline-for-lausd-to-pay-up-or-have-private-data-posted-on-dark-web?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A criminal syndicate has set a Monday deadline for the Los Angeles public school system to pay a ransom or have its data released on the dark web, which could potentially expose the confidential information of students and employees.
+</details>
+<div style="text-align: right" markdown="1">
+LA Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware gang claims to have hacked US defense contractor NJVC<a href="https://securityaffairs.co/wordpress/136537/cyber-crime/njvc-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Another US defense contractor suffered a data breach, the BlackCat ransomware gang claims to have hacked NJVC.
+
+
+
+The ALPHV/BlackCat ransomware gang claims to have breached the IT firm NJVC, which supports  the federal government and the United States Department...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians dodging mobilization behind flourishing scam market<a href="https://www.bleepingcomputer.com/news/security/russians-dodging-mobilization-behind-flourishing-scam-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since Russian president Vladimir Putin ordered partial mobilization after facing setbacks on the Ukrainian front, men in Russia and the state's conscript officers are playing a 'cat and mouse' game involving technology and cybercrime services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 386<a href="https://securityaffairs.co/wordpress/136534/breaking-news/security-affairs-newsletter-round-386.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+CISA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German police identified a gang that stole €4 million via phishing attacks<a href="https://securityaffairs.co/wordpress/136519/cyber-crime/phishing-attacks-gang-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German police arrested one individual suspected of having stolen €4 million from users via large-scale phishing campaigns.
+
+
+
+Germany's Bundeskriminalamt (BKA) arrested an individual (24) suspected of having stolen €4,000,000 from internet users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pay What You Want for This Collection of White Hat Hacking Courses<a href="https://thehackernews.com/2022/10/pay-what-you-want-for-this-collection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whether you relish a mental challenge or fancy a six-figure paycheck, there are many good reasons to get into  white hat hacking . That said, picking up the necessary knowledge to build a  new career  can seem like a daunting task. There is a lot to learn, after all.  To help you get started, The Hacker News Deals is currently running an eye-catching offer:  pay what you want  for one video course, and get another eight courses if you beat the average price paid.   Special Offer  — For a limited time, name your price for one cybersecurity course and beat the average price paid to  get lifetime access to nine courses . The full bundle is worth $1,668!  With thousands of unfilled positions, white hat hacking is a lucrative and exciting career path. This bundle provides a solid introduction to the world of penetration testing and general cybersecurity, with over 65 hours of intensive training.  Through concise video tutorials, you learn how to secure your own machine with Kali Linux and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates<a href="https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered the group behind the SolarMarker malware targeting a global tax consulting organization with a presence in the US, Canada, the UK, and Europe, which is using fake Chrome browser updates as part of watering hole attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Hackers Likely Exploited MS Exchange 0-Days Against ~10 Organizations<a href="https://thehackernews.com/2022/10/state-sponsored-hackers-likely.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday disclosed that a single activity group in August 2022 achieved initial access and breached Exchange servers by chaining the  two newly disclosed zero-day flaws  in a limited set of attacks aimed at less than 10 organizations globally.  "These attacks installed the Chopper web shell to facilitate hands-on-keyboard access, which the attackers used to perform Active Directory reconnaissance and data exfiltration," the Microsoft Threat Intelligence Center (MSTIC)  said  in a new analysis.  The weaponization of the vulnerabilities is expected to ramp up in the coming days, Microsoft further warned, as malicious actors co-opt the exploits into their toolkits, including deploying ransomware, due to the "highly privileged access Exchange systems confer onto an attacker."  The tech giant attributed the ongoing attacks with medium confidence to a state-sponsored organization, adding it was already investigating these attacks when the Zero Day Initiative d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to let Office 365 users report Teams phishing messages<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-to-let-office-365-users-report-teams-phishing-messages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on updating Microsoft Defender for Office 365 to allow Microsoft Teams users to alert their organization's security team of any dodgy messages they receive.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals See Allure in BEC Attacks Over Ransomware<a href="https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While published trends in ransomware attacks have been contradictory — with some firms tracking more incidents and other fewer — business email compromise (BEC) attacks continue to have proven success against organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Hackers Exploiting Critical Atlassian Bitbucket Server Vulnerability<a href="https://thehackernews.com/2022/10/cisa-warns-of-hackers-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday  added  a recently disclosed critical flaw impacting Atlassian's Bitbucket Server and Data Center to the Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation.  Tracked as  CVE-2022-36804 , the issue relates to a command injection vulnerability that could allow malicious actors to gain arbitrary code execution on susceptible installations by sending a specially crafted HTTP request.  Successful exploitation, however, banks on the prerequisite that the attacker already has access to a public repository or possesses read permissions to a private Bitbucket repository.   "All versions of Bitbucket Server and Datacenter released after 6.10.17 including 7.0.0 and newer are affected, this means that all instances that are running any versions between 7.0.0 and 8.3.0 inclusive are affected by this vulnerability," Atlassian  noted  in a late August 2022 advisory.  CISA did
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus hackers abuse Dell driver bug using new FudModule rootkit<a href="https://www.bleepingcomputer.com/news/security/lazarus-hackers-abuse-dell-driver-bug-using-new-fudmodule-rootkit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korean hacking group 'Lazarus' was seen installing a Windows rootkit that abuses a Dell hardware driver in a Bring Your Own Vulnerable Driver attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Atlassian Bitbucket Server flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/136514/security/atlassian-bitbucket-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a recently disclosed flaw in Atlassian Bitbucket Server, tracked as CVE-2022-36804, to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week added a recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guacamaya hacktivists stole sensitive data from Mexico and Latin American countries<a href="https://securityaffairs.co/wordpress/136497/data-breach/guacamaya-hacked-latam-countries.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group called Guacamaya stole classified government information from multiple military and government agencies across several Latin American countries.
+
+
+
+Among the data stolen by a group of hackers called Guacamaya (macaw in Spanish) there was a huge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury hotel chain Shangri-La suffered a security breach<a href="https://securityaffairs.co/wordpress/136489/data-breach/shangri-la-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shangri-La hotel group disclosed a data breach, a database containing the personal information of its customers was compromised.
+
+
+
+The Shangri-La hotel group disclosed a data breach, threat actors had access to a database containing the personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - September 30th 2022 - Emerging from the Shadows<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-30th-2022-emerging-from-the-shadows/"> Full Text</a>
@@ -50,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Vice Society raises ransomware pressure on Los Angeles school district<a href="https://www.cybersecuritydive.com/news/vice-society-threatens-los-angeles-schools-ransomware/633076/?&web_view=true"> Full Text</a>
@@ -66,7 +350,7 @@ Cybersecurity Dive
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Families Found Targeting VMware ESXi Hypervisors<a href="https://thehackernews.com/2022/09/new-malware-families-found-targeting.html"> Full Text</a>
@@ -82,7 +366,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Witchetty APT used steganography in attacks against Middle East entities<a href="https://securityaffairs.co/wordpress/136477/apt/witchetty-apt-steganography.html"> Full Text</a>
@@ -102,7 +386,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: Hackers exploit critical Bitbucket Server flaw in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-hackers-exploit-critical-bitbucket-server-flaw-in-attacks/"> Full Text</a>
@@ -118,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dissecting BlueSky Ransomware Payload<a href="https://yoroi.company/research/dissecting-bluesky-ransomware-payload/?&web_view=true"> Full Text</a>
@@ -134,7 +418,7 @@ Yoroi
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attacks Against Middle East Governments Hide Malware in Windows logo<a href="https://thehackernews.com/2022/09/cyber-attacks-against-middle-east.html"> Full Text</a>
@@ -150,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoD announced the results of the Hack US bug bounty challenge<a href="https://securityaffairs.co/wordpress/136462/hacking/dod-hack-us-results.html"> Full Text</a>
@@ -170,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake US govt job offers push Cobalt Strike in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/fake-us-govt-job-offers-push-cobalt-strike-in-phishing-attacks/"> Full Text</a>
@@ -186,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake CISO Profiles on LinkedIn Target Fortune 500s – Krebs on Security<a href="https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/?&web_view=true"> Full Text</a>
@@ -202,7 +486,7 @@ Krebs on Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Campaign Targeting Job Seekers with Cobalt Strike Beacons<a href="https://thehackernews.com/2022/09/new-malware-campaign-targeting-job.html"> Full Text</a>
@@ -218,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms Exchange zero-day flaws actively exploited in the wild<a href="https://securityaffairs.co/wordpress/136447/hacking/microsoft-exchange-zero-day-3.html"> Full Text</a>
@@ -238,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Optus breach victims will get "supercharged" fraud protection<a href="https://www.bleepingcomputer.com/news/security/optus-breach-victims-will-get-supercharged-fraud-protection/"> Full Text</a>
@@ -254,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches High-Severity Vulnerabilities in Networking Software<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-networking-software?&web_view=true"> Full Text</a>
@@ -270,7 +554,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Organisations Need Both EDR and NDR for Complete Network Protection<a href="https://thehackernews.com/2022/09/why-organisations-need-both-edr-and-ndr.html"> Full Text</a>
@@ -286,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Microsoft Exchange Zero-Day actively exploited in the wild<a href="https://securityaffairs.co/wordpress/136433/hacking/microsoft-exchange-zero-day-2.html"> Full Text</a>
@@ -306,7 +590,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany arrests hacker for stealing €4 million via phishing attacks<a href="https://www.bleepingcomputer.com/news/security/germany-arrests-hacker-for-stealing-4-million-via-phishing-attacks/"> Full Text</a>
@@ -322,7 +606,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Disgruntled insider' shared REvil information with researchers, helped law enforcement<a href="https://www.cyberscoop.com/insider-revil-researchers/?&web_view=true"> Full Text</a>
@@ -338,7 +622,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Weaponizing Open-Source Software in Latest Cyber Attacks<a href="https://thehackernews.com/2022/09/north-korean-hackers-weaponizing-open.html"> Full Text</a>
@@ -354,7 +638,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts uncovered novel Malware persistence within VMware ESXi Hypervisors<a href="https://securityaffairs.co/wordpress/136408/hacking/vmware-esxi-hypervisors-malware.html"> Full Text</a>
@@ -374,7 +658,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms new Exchange zero-days are used in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-exchange-zero-days-are-used-in-attacks/"> Full Text</a>
@@ -390,7 +674,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean State-backed Hackers Found Rigging Legit Open-Source Software with Malware<a href="https://www.securityweek.com/north-korean-gov-hackers-caught-rigging-legit-software?&web_view=true"> Full Text</a>
@@ -406,7 +690,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Confirms 2 New Exchange Zero-Day Flaws Being Used in the Wild<a href="https://thehackernews.com/2022/09/microsoft-confirms-2-new-exchange-zero.html"> Full Text</a>
@@ -422,7 +706,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pathlock Expands SAP Capabilities with Acquisition of Grey Monarch<a href="https://www.darkreading.com/application-security/pathlock-expands-sap-capabilities-with-acquisition-of-grey-monarch?&web_view=true"> Full Text</a>
@@ -438,7 +722,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 30, 2022
+September 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WARNING: New Unpatched Microsoft Exchange Zero-Day Under Active Exploitation<a href="https://thehackernews.com/2022/09/warning-new-unpatched-microsoft.html"> Full Text</a>
@@ -454,7 +738,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2022
+September 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Microsoft Exchange zero-days actively exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/new-microsoft-exchange-zero-days-actively-exploited-in-attacks/"> Full Text</a>
