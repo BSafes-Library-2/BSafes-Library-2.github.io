@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX gang claims to have hacked Ferrari and  leaked online internal documents<a href="https://securityaffairs.co/wordpress/136571/data-breach/ferrari-alleged-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian luxury sports car manufacturer Ferrari confirmed the availability of internal documents online, but said it has no evidence of cyber attack.
+
+
+
+Documents belonging to the Italian luxury sports car manufacturer Ferrari are circulating online,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

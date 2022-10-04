@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TD Bank discloses data breach after employee leaks customer info<a href="https://www.bleepingcomputer.com/news/security/td-bank-discloses-data-breach-after-employee-leaks-customer-info/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finnish intelligence warns of Russia’s cyberespionage activities<a href="https://securityaffairs.co/wordpress/136558/intelligence/finnish-intelligence-russia-cyberespionage.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comm100 Chat Provider Hijacked to Spread Malware in Supply Chain Attack<a href="https://thehackernews.com/2022/10/comm100-chat-provider-hijacked-to.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Don’t Assume China’s AI Regulations Are Just a Power Play<a href="https://www.lawfareblog.com/dont-assume-chinas-ai-regulations-are-just-power-play"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized Comm100 Live Chat app installer distributed a JavaScript backdoor<a href="https://securityaffairs.co/wordpress/136582/hacking/comm100-supply-chain-attack.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Microsoft Exchange ProxyNotShell exploits for sale on GitHub<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-exchange-proxynotshell-exploits-for-sale-on-github/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Optus reveals extent of data breach, but stays mum on how it happened<a href="https://www.zdnet.com/article/optus-reveals-extent-of-data-breach-but-stays-mum-on-how-it-happened/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers<a href="https://thehackernews.com/2022/10/researchers-link-cheerscrypt-linux.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomEXX gang claims to have hacked Ferrari and  leaked online internal documents<a href="https://securityaffairs.co/wordpress/136571/data-breach/ferrari-alleged-data-breach.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian retail chain 'DNS' confirms hack after data leaked online<a href="https://www.bleepingcomputer.com/news/security/russian-retail-chain-dns-confirms-hack-after-data-leaked-online/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Many IT pros don’t think a ransomware attack can impact Microsoft 365 data<a href="https://www.helpnetsecurity.com/2022/10/03/ransomware-attack-impact-microsoft-365-data/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Dell Driver Vulnerability to Deploy Rootkit on Targeted Computers<a href="https://thehackernews.com/2022/10/hackers-exploiting-dell-driver.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finnish intelligence warns of Russia’s cyberespionage activities<a href="https://securityaffairs.co/wordpress/136558/intelligence/finnish-intelligence-russia-cyberespionage.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Live support service hacked to spread malware in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/live-support-service-hacked-to-spread-malware-in-supply-chain-attack/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of DeftTorero TTPs in 2019–2021<a href="https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Securelist
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-NSA Employee Arrested for Trying to Sell U.S. Secrets to a Foreign Government<a href="https://thehackernews.com/2022/10/ex-nsa-employee-arrested-for-trying-to.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reflected XSS bugs in Canon Medical ’s Vitrea View could expose patient info<a href="https://securityaffairs.co/wordpress/136545/hacking/canon-medical-vitrea-view-xss.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web browser app mode can be abused to make desktop phishing pages<a href="https://www.bleepingcomputer.com/news/security/web-browser-app-mode-can-be-abused-to-make-desktop-phishing-pages/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Commercial Chat Provider Comm100 Hijacked to Spread Malware in Supply Chain Attack<a href="https://therecord.media/report-commercial-chat-provider-hijacked-to-spread-malware-in-supply-chain-attack/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2022
+October 03, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange server zero-day mitigation can be bypassed<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-server-zero-day-mitigation-can-be-bypassed/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2022
+October 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Gang Claims to Hack US Defense Contractor NJVC<a href="https://securityaffairs.co/wordpress/136537/cyber-crime/njvc-data-breach.html?&web_view=true"> Full Text</a>

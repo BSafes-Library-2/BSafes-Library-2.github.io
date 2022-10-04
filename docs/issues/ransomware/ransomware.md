@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers<a href="https://thehackernews.com/2022/10/researchers-link-cheerscrypt-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Linux-Based ransomware strain known as Cheerscrypt has been attributed to a Chinese cyber espionage group known for operating short-lived ransomware schemes .  Cybersecurity firm Sygnia attributed the attacks to a threat actor it tracks under the name Emperor Dragonfly, which is also known as Bronze Starlight (Secureworks) and DEV-0401 (Microsoft).  "Emperor Dragonfly deployed open source tools that were written by Chinese developers for Chinese users," the company said in a report  shared with The Hacker News. "This reinforces claims that the 'Emperor Dragonfly' ransomware operators are based in China."   The use of Cheerscrypt is the latest addition to a long list of ransomware families previously deployed by the group in little over a year, including LockFile, Atom Silo, Rook, Night Sky, Pandora, and LockBit 2.0.  Secureworks, in its profile of the group, noted  "it is plausible that Bronze Starlight deploys ransomware as a s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Dell Driver Vulnerability to Deploy Rootkit on Targeted Computers<a href="https://thehackernews.com/2022/10/hackers-exploiting-dell-driver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-backed Lazarus Group has been observed deploying a Windows rootkit by taking advantage of an exploit in a Dell firmware driver, highlighting new tactics adopted by the state-sponsored adversary.  The Bring Your Own Vulnerable Driver ( BYOVD ) attack, which took place in the autumn of 2021, is another variant of the threat actor's espionage-oriented activity called Operation In(ter)ception &nbsp;that's directed against aerospace and defense industries.  "The campaign started with spear-phishing emails containing malicious Amazon-themed documents and targeted an employee of an aerospace company in the Netherlands, and a political journalist in Belgium," ESET researcher Peter Kálnai&nbsp; said .   Attack chains unfolded upon the opening of the lure documents, leading to the distribution of malicious droppers that were trojanized versions of open source projects, corroborating recent reports from Google's&nbsp; Mandiant &nbsp;and&nbsp; Microsoft .  ESET said it uncovered evid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reflected XSS bugs in Canon Medical ’s Vitrea View could expose patient info<a href="https://securityaffairs.co/wordpress/136545/hacking/canon-medical-vitrea-view-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave researchers discovered two XSS flaws in Canon Medical ’s Vitrea View tool that could expose patient information.
+
+
+
+During a penetration test, Trustwave Spiderlabs’ researchers discovered two reflected cross-site scripting (XSS) vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange server zero-day mitigation can be bypassed<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-server-zero-day-mitigation-can-be-bypassed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared mitigations for two new Microsoft Exchange zero-day vulnerabilities tracked as CVE-2022-41040 and CVE-2022-41082, but researchers warn that the mitigation for on-premise servers is far from enough.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+October 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians dodging mobilization behind flourishing scam market<a href="https://www.bleepingcomputer.com/news/security/russians-dodging-mobilization-behind-flourishing-scam-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ever since Russian president Vladimir Putin ordered partial mobilization after facing setbacks on the Ukrainian front, men in Russia and the state's conscript officers are playing a 'cat and mouse' game involving technology and cybercrime services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Hackers Exploiting Critical Atlassian Bitbucket Server Vulnerability<a href="https://thehackernews.com/2022/10/cisa-warns-of-hackers-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday&nbsp; added &nbsp;a recently disclosed critical flaw impacting Atlassian's Bitbucket Server and Data Center to the Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation.  Tracked as&nbsp; CVE-2022-36804 , the issue relates to a command injection vulnerability that could allow malicious actors to gain arbitrary code execution on susceptible installations by sending a specially crafted HTTP request.  Successful exploitation, however, banks on the prerequisite that the attacker already has access to a public repository or possesses read permissions to a private Bitbucket repository.   "All versions of Bitbucket Server and Datacenter released after 6.10.17 including 7.0.0 and newer are affected, this means that all instances that are running any versions between 7.0.0 and 8.3.0 inclusive are affected by this vulnerability," Atlassian&nbsp; noted &nbsp;in a late August 2022 advisory.  CISA did
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Atlassian Bitbucket Server flaw to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/136514/security/atlassian-bitbucket-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a recently disclosed flaw in Atlassian Bitbucket Server, tracked as CVE-2022-36804, to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week added&nbsp;a recently disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

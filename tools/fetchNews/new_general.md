@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don’t Assume China’s AI Regulations Are Just a Power Play<a href="https://www.lawfareblog.com/dont-assume-chinas-ai-regulations-are-just-power-play"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Commentators have framed new regulations on AI systems in China as part of an effort to micromanage algorithms. But this fails to address other possible rationales—and glosses over constraints inherent in regulating emerging technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many IT pros don’t think a ransomware attack can impact Microsoft 365 data<a href="https://www.helpnetsecurity.com/2022/10/03/ransomware-attack-impact-microsoft-365-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2022 Ransomware Report by Hornetsecurity, which surveyed over 2,000 IT leaders, revealed that 24% have been victims of a ransomware attack, with 20% of attacks happening in the last year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

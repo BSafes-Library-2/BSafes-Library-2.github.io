@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of DeftTorero TTPs in 2019–2021<a href="https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the intrusion analysis of DeftTorero’s webshells, researchers noted traces suggesting that the threat actor exploited a file upload form and/or a command injection flaw in a functional or staging website hosted on the target web server.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

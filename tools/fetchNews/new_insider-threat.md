@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-NSA Employee Arrested for Trying to Sell U.S. Secrets to a Foreign Government<a href="https://thehackernews.com/2022/10/ex-nsa-employee-arrested-for-trying-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former U.S. National Security Agency (NSA) employee has been arrested on charges of attempting to sell classified information to a foreign spy, who was actually an undercover agent working for the Federal Bureau of Investigation (FBI).  Jareh Sebastian Dalke, 30, was employed at the NSA for less than a month from June 6, 2022, to July 1, 2022, serving as an Information Systems Security Designer as part of a temporary assignment in Washington D.C.  According to an&nbsp; affidavit &nbsp;filed by the FBI, Dalke was also a member of the U.S. Army from about 2015 to 2018 and held a Secret security clearance, which he received in 2016. The defendant further held a Top Secret security clearance during his tenure at the NSA.  "Between August and September 2022, Dalke used an encrypted email account to transmit excerpts of three classified documents he had obtained during his employment to an individual Dalke believed to be working for a foreign government," the Justice Department (DoJ)&nbsp; sai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
