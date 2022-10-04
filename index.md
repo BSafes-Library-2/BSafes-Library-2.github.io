@@ -34,6 +34,358 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TD Bank discloses data breach after employee leaks customer info<a href="https://www.bleepingcomputer.com/news/security/td-bank-discloses-data-breach-after-employee-leaks-customer-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TD Bank has disclosed a data breach affecting an undisclosed number of customers whose personal information was stolen by a former employee and used to conduct financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish intelligence warns of Russia’s cyberespionage activities<a href="https://securityaffairs.co/wordpress/136558/intelligence/finnish-intelligence-russia-cyberespionage.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Finnish Security Intelligence Service (Suojelupoliisi or SUPO) warns of a highly likely intensification of cyberespionage activities conducted by Russia-linked threat actors over the winter.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comm100 Chat Provider Hijacked to Spread Malware in Supply Chain Attack<a href="https://thehackernews.com/2022/10/comm100-chat-provider-hijacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor likely with associations to China has been attributed to a new supply chain attack that involves the use of a trojanized installer for the Comm100 Live Chat application to distribute a JavaScript backdoor.  Cybersecurity firm CrowdStrike said the attack made use of a signed Comm100 desktop agent app for Windows that was downloadable from the company's website.  The scale of the attack is currently unknown, but the trojanized file is said to have been identified at organizations in the industrial, healthcare, technology, manufacturing, insurance, and telecom sectors in North America and Europe.  Comm100 is a Canadian provider of live audio/video chat and customer engagement software for enterprises. It  claims  to have more than 15,000 customers across 51 countries.   "The installer was signed on September 26, 2022 at 14:54:00 UTC using a valid Comm100 Network Corporation certificate," the company  noted , adding it remained available until September 29.  E
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don’t Assume China’s AI Regulations Are Just a Power Play<a href="https://www.lawfareblog.com/dont-assume-chinas-ai-regulations-are-just-power-play"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Commentators have framed new regulations on AI systems in China as part of an effort to micromanage algorithms. But this fails to address other possible rationales—and glosses over constraints inherent in regulating emerging technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized Comm100 Live Chat app installer distributed a JavaScript backdoor<a href="https://securityaffairs.co/wordpress/136582/hacking/comm100-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor used a trojanized installer for the Comm100 Live Chat application to distribute a JavaScript backdoor.
+
+
+
+Cybersecurity firm CrowdStrike disclosed details of a supply chain attack that involved the use of a trojanized installer for the Comm100...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Microsoft Exchange ProxyNotShell exploits for sale on GitHub<a href="https://www.bleepingcomputer.com/news/security/fake-microsoft-exchange-proxynotshell-exploits-for-sale-on-github/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are impersonating security researchers to sell fake proof-of-concept ProxyNotShell exploits for newly discovered Microsoft Exchange zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Optus reveals extent of data breach, but stays mum on how it happened<a href="https://www.zdnet.com/article/optus-reveals-extent-of-data-breach-but-stays-mum-on-how-it-happened/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 9.8 million customers impacted by the data breach, 1.2 million have at least one form of identification number that is valid, says the Singtel-owned Australian operator, adding that it has brought in Deloitte to investigate the breach.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link Cheerscrypt Linux-Based Ransomware to Chinese Hackers<a href="https://thehackernews.com/2022/10/researchers-link-cheerscrypt-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Linux-Based ransomware strain known as Cheerscrypt has been attributed to a Chinese cyber espionage group known for operating short-lived ransomware schemes .  Cybersecurity firm Sygnia attributed the attacks to a threat actor it tracks under the name Emperor Dragonfly, which is also known as Bronze Starlight (Secureworks) and DEV-0401 (Microsoft).  "Emperor Dragonfly deployed open source tools that were written by Chinese developers for Chinese users," the company said in a report  shared with The Hacker News. "This reinforces claims that the 'Emperor Dragonfly' ransomware operators are based in China."   The use of Cheerscrypt is the latest addition to a long list of ransomware families previously deployed by the group in little over a year, including LockFile, Atom Silo, Rook, Night Sky, Pandora, and LockBit 2.0.  Secureworks, in its profile of the group, noted  "it is plausible that Bronze Starlight deploys ransomware as a s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomEXX gang claims to have hacked Ferrari and  leaked online internal documents<a href="https://securityaffairs.co/wordpress/136571/data-breach/ferrari-alleged-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian luxury sports car manufacturer Ferrari confirmed the availability of internal documents online, but said it has no evidence of cyber attack.
+
+
+
+Documents belonging to the Italian luxury sports car manufacturer Ferrari are circulating online,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian retail chain 'DNS' confirms hack after data leaked online<a href="https://www.bleepingcomputer.com/news/security/russian-retail-chain-dns-confirms-hack-after-data-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian retail chain 'DNS' (Digital Network System) disclosed yesterday that they suffered a data breach that allegedly exposed the personal information of 16 million customers and employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many IT pros don’t think a ransomware attack can impact Microsoft 365 data<a href="https://www.helpnetsecurity.com/2022/10/03/ransomware-attack-impact-microsoft-365-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2022 Ransomware Report by Hornetsecurity, which surveyed over 2,000 IT leaders, revealed that 24% have been victims of a ransomware attack, with 20% of attacks happening in the last year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Dell Driver Vulnerability to Deploy Rootkit on Targeted Computers<a href="https://thehackernews.com/2022/10/hackers-exploiting-dell-driver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-backed Lazarus Group has been observed deploying a Windows rootkit by taking advantage of an exploit in a Dell firmware driver, highlighting new tactics adopted by the state-sponsored adversary.  The Bring Your Own Vulnerable Driver ( BYOVD ) attack, which took place in the autumn of 2021, is another variant of the threat actor's espionage-oriented activity called Operation In(ter)ception  that's directed against aerospace and defense industries.  "The campaign started with spear-phishing emails containing malicious Amazon-themed documents and targeted an employee of an aerospace company in the Netherlands, and a political journalist in Belgium," ESET researcher Peter Kálnai  said .   Attack chains unfolded upon the opening of the lure documents, leading to the distribution of malicious droppers that were trojanized versions of open source projects, corroborating recent reports from Google's  Mandiant  and  Microsoft .  ESET said it uncovered evid
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish intelligence warns of Russia’s cyberespionage activities<a href="https://securityaffairs.co/wordpress/136558/intelligence/finnish-intelligence-russia-cyberespionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Finnish Security Intelligence Service (SUPO) warns Russia will highly likely intensify its cyber activity over the winter.
+
+
+
+The Finnish Security Intelligence Service (Suojelupoliisi or SUPO) warn of a highly likely intensification of cyberespionage...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live support service hacked to spread malware in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/live-support-service-hacked-to-spread-malware-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official installer for the Comm100 Live Chat application, a widely deployed SaaS (software-as-a-service) that businesses use for customer communication and website visitors, was trojanized as part of a new supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of DeftTorero TTPs in 2019–2021<a href="https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the intrusion analysis of DeftTorero’s webshells, researchers noted traces suggesting that the threat actor exploited a file upload form and/or a command injection flaw in a functional or staging website hosted on the target web server.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-NSA Employee Arrested for Trying to Sell U.S. Secrets to a Foreign Government<a href="https://thehackernews.com/2022/10/ex-nsa-employee-arrested-for-trying-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former U.S. National Security Agency (NSA) employee has been arrested on charges of attempting to sell classified information to a foreign spy, who was actually an undercover agent working for the Federal Bureau of Investigation (FBI).  Jareh Sebastian Dalke, 30, was employed at the NSA for less than a month from June 6, 2022, to July 1, 2022, serving as an Information Systems Security Designer as part of a temporary assignment in Washington D.C.  According to an  affidavit  filed by the FBI, Dalke was also a member of the U.S. Army from about 2015 to 2018 and held a Secret security clearance, which he received in 2016. The defendant further held a Top Secret security clearance during his tenure at the NSA.  "Between August and September 2022, Dalke used an encrypted email account to transmit excerpts of three classified documents he had obtained during his employment to an individual Dalke believed to be working for a foreign government," the Justice Department (DoJ)  sai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reflected XSS bugs in Canon Medical ’s Vitrea View could expose patient info<a href="https://securityaffairs.co/wordpress/136545/hacking/canon-medical-vitrea-view-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave researchers discovered two XSS flaws in Canon Medical ’s Vitrea View tool that could expose patient information.
+
+
+
+During a penetration test, Trustwave Spiderlabs’ researchers discovered two reflected cross-site scripting (XSS) vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web browser app mode can be abused to make desktop phishing pages<a href="https://www.bleepingcomputer.com/news/security/web-browser-app-mode-can-be-abused-to-make-desktop-phishing-pages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The app mode in Chromium-based browsers like Google Chrome and Microsoft Edge can be abused to create realistic-looking login screens that appear as desktop apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commercial Chat Provider Comm100 Hijacked to Spread Malware in Supply Chain Attack<a href="https://therecord.media/report-commercial-chat-provider-hijacked-to-spread-malware-in-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack featured a trojan malware delivered via an installer for Comm100’s Windows Desktop agent software, available on the company website and signed using a valid Comm100 certificate dated September 26, 2022, according to Crowdstrike.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange server zero-day mitigation can be bypassed<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-server-zero-day-mitigation-can-be-bypassed/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared mitigations for two new Microsoft Exchange zero-day vulnerabilities tracked as CVE-2022-41040 and CVE-2022-41082, but researchers warn that the mitigation for on-premise servers is far from enough.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Gang Claims to Hack US Defense Contractor NJVC<a href="https://securityaffairs.co/wordpress/136537/cyber-crime/njvc-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackCat added NJVC to the list of victims on its Tor leak site and is threatening to release the allegedly stolen data if the company will not pay the ransom. The company supports intelligence, defense, and geospatial organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
