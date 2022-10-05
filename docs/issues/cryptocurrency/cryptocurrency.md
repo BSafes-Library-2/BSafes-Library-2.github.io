@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are breaching scam sites to hijack crypto transactions<a href="https://www.bleepingcomputer.com/news/security/hackers-are-breaching-scam-sites-to-hijack-crypto-transactions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a perfect example of there being no honor among thieves, a threat actor named 'Water Labbu' is hacking into cryptocurrency scam sites to inject malicious JavaScript that steals funds from the scammer's victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

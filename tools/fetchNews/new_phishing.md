@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular YouTube Channel Caught Distributing Malicious Tor Browser Installer<a href="https://thehackernews.com/2022/10/popular-youtube-channel-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular Chinese-language YouTube channel has emerged as a means to distribute a trojanized version of a Windows installer for the Tor Browser.  Kaspersky&nbsp; dubbed &nbsp;the campaign&nbsp; OnionPoison , with all of the victims located in China. The scale of the attack remains unclear, but the Russian cybersecurity company said it detected victims appearing in its telemetry in March 2022.  The malicious version of the Tor Browser installer is being distributed via a link present in the description of a video that was uploaded to YouTube on January 9, 2022. It has been viewed over 64,500 times to date.   The channel hosting the video has 181,000 subscribers and claims to be based in Hong Kong. The video is still available to watch on the social media platform as of writing.  The attack banks on the fact that the actual Tor Browser website is blocked in China, thus tricking unsuspecting users searching for "Tor浏览器" (i.e., Tor Browser in Chinese) on YouTube into potentially downloading th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

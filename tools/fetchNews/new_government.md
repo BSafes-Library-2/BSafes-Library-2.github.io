@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Govt: Hackers stole data from US defense org using new malware<a href="https://www.bleepingcomputer.com/news/security/us-govt-hackers-stole-data-from-us-defense-org-using-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Government today released an alert about state-backed hackers using a custom CovalentStealer malware and the Impacket framework to steal sensitive data from a U.S. organization in the Defense Industrial Base (DIB) sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of "Pig Butchering" cryptocurrency investment schemes<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-pig-butchering-cryptocurrency-investment-schemes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warns of a rise in 'Pig Butchering' cryptocurrency scams used to steal ever-increasing amounts of crypto from unsuspecting investors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Orders Federal Agencies to Regularly Track Network Assets and Vulnerabilities<a href="https://thehackernews.com/2022/10/cisa-orders-federal-agencies-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new Binding Operational Directive (BOD) that directs federal agencies in the country to keep track of assets and vulnerabilities on their networks six months from now.  To that end, Federal Civilian Executive Branch (FCEB) enterprises have been tasked with two sets of activities: Asset discovery and vulnerability enumeration, which are seen as essential steps to gain "greater visibility into risks facing federal civilian networks."   This&nbsp; involves &nbsp;carrying out automated asset discovery every seven days and initiating vulnerability enumeration across those discovered assets every 14 days by April 3, 2023, in addition to having the capabilities to do so on an on-demand basis within 72 hours of receiving a request from CISA.  Similar baseline vulnerability enumeration obligations have also been put in place for Android and iOS devices as well as other devices that reside outside of agency on-premise
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

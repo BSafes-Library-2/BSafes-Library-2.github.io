@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web browser app mode can be abused to make desktop phishing pages<a href="https://www.bleepingcomputer.com/news/security/web-browser-app-mode-can-be-abused-to-make-desktop-phishing-pages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The app mode in Chromium-based browsers like Google Chrome and Microsoft Edge can be abused to create realistic-looking login screens that appear as desktop apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

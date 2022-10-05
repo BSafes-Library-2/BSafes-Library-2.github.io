@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Arrested in India for Reportedly Helping Students Cheat in JEE-Main Exam<a href="https://thehackernews.com/2022/10/russian-hacker-arrested-in-india-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's Central Bureau of Investigation (CBI) on Monday disclosed that it has detained a Russian national for allegedly hacking into a software platform used to conduct engineering entrance assessments in the country in 2021.  "The said accused was detained by the Bureau of Immigration at Indira Gandhi International Airport, Delhi while arriving in India from Almaty, Kazakhstan," the primary investigating agency&nbsp; said &nbsp;in a press release.  The name of the individual was not disclosed by the agency, but Indian news reports identified the person as&nbsp; Mikhail Shargin .   The CBI further said that Shargin's role was uncovered as part of its investigation into alleged irregularities committed in the Joint Entrance Examination ( JEE-Main ) conducted last year. JEE is a standardized test used for admissions to engineering colleges in India.  The September 2021 incident, per the agency, involved breaking into iLeon software, the platform on which the exam was held, with the g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

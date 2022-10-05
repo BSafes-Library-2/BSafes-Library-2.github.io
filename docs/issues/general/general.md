@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Back to Basics: Cybersecurity's Weakest Link<a href="https://thehackernews.com/2022/10/back-to-basics-cybersecuritys-weakest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A big promise with a big appeal. You hear that a lot in the world of cybersecurity, where you're often promised a fast, simple fix that will take care of all your cybersecurity needs, solving your security challenges in one go.&nbsp;  It could be an AI-based tool, a new superior management tool, or something else – and it would probably be quite effective at what it promises to do.  But is it a silver bullet for all your cybersecurity problems? No. There's no easy, technology-driven fix for what is really cybersecurity's biggest challenge: the actions of human beings.&nbsp;  It doesn't matter how state-of-the-art your best defenses are. Perimeter firewalls, multi-tiered logins, multi-factor authentication, AI tools – all of these are easily rendered ineffective when Bob from a nondescript department clicks on a phishing link in an email.  This isn't news to anyone  We've all heard this before. The fact that humans are a key flaw in cybersecurity strategy is hardly news –
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

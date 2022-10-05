@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netwalker ransomware affiliate sentenced to 20 years in prison<a href="https://www.bleepingcomputer.com/news/security/netwalker-ransomware-affiliate-sentenced-to-20-years-in-prison/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Former Netwalker ransomware affiliate Sebastien Vachon-Desjardins has been sentenced to 20 years in prison and demanded to forfeit $21.5 million&nbsp;for his attacks on a Tampa company and other entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC Scammer Gets 25-Year Jail Sentence for Stealing Over $9.5 Million<a href="https://thehackernews.com/2022/10/bec-scammer-gets-25-year-jail-sentence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 46-year-old man in the U.S. has been sentenced to 25 years in prison after being found guilty of laundering over $9.5 million accrued by carrying out cyber-enabled financial fraud.  Elvis Eghosa Ogiekpolor of Norcross, Georgia, operated a money laundering network that opened at least 50 business bank accounts for illicitly receiving funds from unsuspecting individuals and businesses after falling victim to romance frauds and business email compromise ( BEC ) scams.  Ogiekpolor was charged by a federal grand jury in February 2022 with one count of conspiracy to commit money laundering and 15 counts of substantive money laundering. The scheme was operational from October 2018 to August 2020.   According to the U.S. Justice Department (DoJ), Ogiekpolor enlisted the help of eight "money mules" to open the phony bank accounts under the names of non-existent companies, which were subsequently used to stash the proceeds from their criminal activities.  These included creating fic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TD Bank discloses data breach after employee leaks customer info<a href="https://www.bleepingcomputer.com/news/security/td-bank-discloses-data-breach-after-employee-leaks-customer-info/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TD Bank has disclosed a data breach affecting an undisclosed number of customers whose personal information was stolen by a former employee and used to conduct financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Optus reveals extent of data breach, but stays mum on how it happened<a href="https://www.zdnet.com/article/optus-reveals-extent-of-data-breach-but-stays-mum-on-how-it-happened/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Of the 9.8 million customers impacted by the data breach, 1.2 million have at least one form of identification number that is valid, says the Singtel-owned Australian operator, adding that it has brought in Deloitte to investigate the breach.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian retail chain 'DNS' confirms hack after data leaked online<a href="https://www.bleepingcomputer.com/news/security/russian-retail-chain-dns-confirms-hack-after-data-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian retail chain 'DNS' (Digital Network System) disclosed yesterday that they suffered a data breach that allegedly exposed the personal information of 16 million customers and employees.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live support service hacked to spread malware in supply chain attack<a href="https://www.bleepingcomputer.com/news/security/live-support-service-hacked-to-spread-malware-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official installer for the Comm100 Live Chat application, a widely deployed SaaS (software-as-a-service) that businesses use for customer communication and website visitors, was trojanized&nbsp;as part of a new supply-chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commercial Chat Provider Comm100 Hijacked to Spread Malware in Supply Chain Attack<a href="https://therecord.media/report-commercial-chat-provider-hijacked-to-spread-malware-in-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack featured a trojan malware delivered via an installer for Comm100’s Windows Desktop agent software, available on the company website and signed using a valid Comm100 certificate dated September 26, 2022, according to Crowdstrike.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

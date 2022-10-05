@@ -7,6 +7,42 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-277a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From November 2021 through January 2022, the Cybersecurity and Infrastructure Security Agency (CISA) responded to advanced persistent threat (APT) activity on a Defense Industrial Base (DIB) Sector organization’s enterprise network. During incident response activities, CISA uncovered that likely multiple APT groups compromised the organization’s network, and some APT actors had long-term access to the environment. APT actors used an open-source toolkit called Impacket to gain their foothold within the environment and further compromise the network, and also used a custom data exfiltration tool, CovalentStealer, to steal the victim’s sensitive data.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA DIRECTS FEDERAL AGENCIES TO IMPROVE CYBERSECURITY ASSET VISIBILITY AND VULNERABILITY DETECTION <a href="https://www.cisa.gov/news/2022/10/03/cisa-directs-federal-agencies-improve-cybersecurity-asset-visibility-and"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past several years, CISA has been working urgently to gain greater visibility into risks facing federal civilian networks, a gap made clear by the intrusion campaign targeting SolarWinds devices. The Biden-Harris Administration and Congress have supported significant progress by providing key authorities and resources. This Directive takes the next step by establishing baseline requirements for all Federal Civilian Executive Branch (FCEB) agencies to identify assets and vulnerabilities on their networks and provide data to CISA on defined intervals.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Investment Schemes <a href="https://www.ic3.gov/Media/Y2022/PSA221003"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI Miami Field Office, in coordination with the Internet Crime Complaint Center (IC3), warns of investment schemes involving cryptocurrency, called Pig Butchering. In this scheme, fraudsters, posing as highly successful traders in cryptocurrency, entice victims to make purported investments in cryptocurrency providing fictitious returns to encourage additional investments.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 30, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

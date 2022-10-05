@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Witchetty Group Uses Steganography To Target Middle East Entities<a href="https://cyware.com/news/witchetty-group-uses-steganography-to-target-middle-east-entities-ead00e25"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an ongoing cyberespionage campaign, hacking group Witchetty has been found targeting two governments in the Middle East and a stock exchange in Africa. Among the new tools used by the group is a backdoor named Stegmap. The malware is distributed via the rarely used steganography technique.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

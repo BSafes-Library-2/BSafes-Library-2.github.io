@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comm100 Chat Provider Hijacked to Spread Malware in Supply Chain Attack<a href="https://thehackernews.com/2022/10/comm100-chat-provider-hijacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor likely with associations to China has been attributed to a new supply chain attack that involves the use of a trojanized installer for the Comm100 Live Chat application to distribute a JavaScript backdoor.  Cybersecurity firm CrowdStrike said the attack made use of a signed Comm100 desktop agent app for Windows that was downloadable from the company's website.  The scale of the attack is currently unknown, but the trojanized file is said to have been identified at organizations in the industrial, healthcare, technology, manufacturing, insurance, and telecom sectors in North America and Europe.  Comm100 is a Canadian provider of live audio/video chat and customer engagement software for enterprises. It&nbsp; claims &nbsp;to have more than 15,000 customers across 51 countries.   "The installer was signed on September 26, 2022 at 14:54:00 UTC using a valid Comm100 Network Corporation certificate," the company&nbsp; noted , adding it remained available until September 29.  E
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
