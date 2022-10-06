@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole data from US defense org using Impacket, CovalentStealer<a href="https://www.bleepingcomputer.com/news/security/hackers-stole-data-from-us-defense-org-using-impacket-covalentstealer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Government today released an alert about state-backed hackers using a custom CovalentStealer malware and the Impacket framework to steal sensitive data from a U.S. organization in the Defense Industrial Base (DIB) sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

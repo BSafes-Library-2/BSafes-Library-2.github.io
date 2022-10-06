@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RealDefense Raises $30 Million to Acquire More Privacy, Cybersecurity Firms<a href="https://www.securityweek.com/realdefense-raises-30-million-acquire-more-privacy-cybersecurity-firms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pasadena, California-based firm this week announced that it has raised $30 million in debt financing from Sunflower Bank, which brings the total investment in the company to $50 million.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

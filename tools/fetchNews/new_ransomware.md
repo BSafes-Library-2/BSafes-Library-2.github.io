@@ -8,6 +8,80 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Ransomware: The History Behind One of the World’s Most Aggressive RaaS Groups<a href="https://flashpoint.io/blog/history-of-conti-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Conti ransomware group has become one of the most notorious cybercrime collectives in the world, known for its aggressive tactics and large-scale attacks against a wide range of public and private organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Flashpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast releases a free decryptor for some Hades ransomware variants<a href="https://securityaffairs.co/wordpress/136710/malware/hades-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast released a free decryptor for variants of the Hades ransomware tracked as 'MafiaWare666', 'Jcrypt', 'RIP Lmao', and 'BrutusptCrypt,' .
+
+
+
+Avast has released a decryptor for variants of the Hades ransomware known as 'MafiaWare666', 'Jcrypt', 'RIP...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware abuses legit driver to disable security products<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-abuses-legit-driver-to-disable-security-products/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackByte ransomware gang is using a new technique that researchers are calling "Bring Your Own Driver," which enables bypassing protections by disabling more than&nbsp;1,000 drivers used by various security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast releases free decryptor for Hades ransomware variants<a href="https://www.bleepingcomputer.com/news/security/avast-releases-free-decryptor-for-hades-ransomware-variants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast has released a decryptor for variants of the Hades ransomware known as 'MafiaWare666', 'Jcrypt', 'RIP Lmao', and 'BrutusptCrypt,' allowing victims to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This is how half of ransomware attacks begin, and this is how you can stop them<a href="https://www.zdnet.com/article/ransomware-this-is-how-half-of-attacks-begin-and-this-is-how-you-can-stop-them/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over half of ransomware attacks now begin with criminals exploiting vulnerabilities in remote and internet-facing systems as hackers look to take advantage of unpatched cybersecurity issues.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

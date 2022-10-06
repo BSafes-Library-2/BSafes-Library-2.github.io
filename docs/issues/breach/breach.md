@@ -8,6 +8,112 @@ nav_order: 900029
 
 ## Breach
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telstra Telecom Suffers Data Breach Potentially Exposing Employee Information<a href="https://thehackernews.com/2022/10/telstra-telecom-suffers-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's largest telecommunications company Telstra disclosed that it was the victim of a data breach through a third-party, nearly two weeks after Optus reported a breach of its own.  "There has been no breach of Telstra's systems," Narelle Devine, the company's chief information security officer for the Asia Pacific region,&nbsp; said . "And no customer account data was involved."   It said the breach targeted a third-party platform called&nbsp; Work Life NAB &nbsp;that's no longer actively used by the company, and that the leaked data posted on the internet concerned a "now-obsolete Telstra employee rewards program."   Telstra also noted it became aware of the breach last week, adding the information included first and last names and the email addresses used to sign up for the program. It further clarified that the data posted was from 2017.  The data was "basic in nature," Devine said.&nbsp;   The company did not reveal how many employees wer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telstra Telecom discloses data breach impacting former and current employees<a href="https://securityaffairs.co/wordpress/136683/hacking/telstra-third-party-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad news for the Australian telecommunications industry, the largest company in the country Telstra suffered a data breach.
+
+
+
+Australia's largest telecommunications company Telstra disclosed a data breach through a third-party supplier.
+
+
+
+The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tucson discloses data breach affecting over 125,000 people<a href="https://www.bleepingcomputer.com/news/security/city-of-tucson-discloses-data-breach-affecting-over-125-000-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Tucson, Arizona, has disclosed a data breach affecting the personal information of more than 125,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Microsoft SQL servers backdoored with new malware<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-microsoft-sql-servers-backdoored-with-new-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have found a new piece of malware targeting Microsoft SQL servers. Named&nbsp;Maggie, the backdoor has already infected hundreds of machines all over the world.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit US nonprofit health system discloses security incident<a href="https://www.bleepingcomputer.com/news/security/commonspirit-us-nonprofit-health-system-discloses-security-incident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit Health, one of the largest nonprofit health systems in the United States, says it took down some of its IT systems because of a security incident that has impacted multiple facilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit Health Suffers ‘IT Security Incident’ Impacting Facilities in Multiple Regions<a href="https://www.cybersecuritydive.com/news/commonspirit-health-security-incident-cybersecurity-tennessee/633264/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit Health, one of the nation’s largest health systems, said it experienced an “IT security incident” on Monday at an undisclosed number of facilities in multiple regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Staff at Security Firm G4S on Alert After Tax Numbers and Bank Details Posted Online<a href="https://www.theguardian.com/australia-news/2022/oct/05/staff-at-security-firm-g4s-on-alert-after-tax-numbers-and-bank-details-posted-online-following-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Current and former Australian employees of security firm G4S have been told to be on alert after personal information – including tax file numbers, bank account information, and medical checks – was stolen and posted online in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

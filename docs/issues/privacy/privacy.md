@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of New RatMilad Android Spyware Targeting Enterprise Devices<a href="https://thehackernews.com/2022/10/experts-warn-of-new-ratmilad-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel Android malware called RatMilad has been observed targeting a Middle Eastern enterprise mobile device by concealing itself as a VPN and phone number spoofing app.  The mobile trojan functions as advanced spyware with capabilities that receives and executes commands to collect and exfiltrate a wide variety of data from the infected mobile endpoint, Zimperium&nbsp; said &nbsp;in a report shared with The Hacker News.  Evidence gathered by the mobile security company shows that the malicious app is distributed through links on social media and communication tools like Telegram, tricking unsuspecting users into sideloading the app and granting it extensive permissions.   The idea behind embedding the malware within a fake VPN and phone number spoofing service is also clever in that the app claims to enable users to verify social media accounts via phone, a technique popular in countries where access is restricted.  "Once installed and in control, the attackers could access the camera to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

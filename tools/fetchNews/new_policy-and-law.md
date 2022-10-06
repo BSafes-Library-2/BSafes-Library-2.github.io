@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Netwalker Ransomware Affiliate Sentenced to 20 Years in U.S. Prison<a href="https://thehackernews.com/2022/10/canadian-netwalker-ransomware-affiliate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former affiliate of the Netwalker ransomware has been sentenced to 20 years in prison in the U.S., a little over three months after the&nbsp; Canadian national pleaded guilty &nbsp;to his role in the crimes.  Sebastien Vachon-Desjardins, 35, has also been ordered to forfeit $21,500,000 that was illicitly obtained from dozens of victims globally, including companies, municipalities, hospitals, law enforcement, emergency services, school districts, colleges, and universities.  Launched in 2019, the Netwalker attacks particularly singled out the healthcare sector during the COVID-19 pandemic, opportunistically taking advantage of the situation to extort money from victims.   "The defendant in this case used sophisticated technological means to exploit hundreds of victims in numerous countries at the height of an international health crisis," U.S. Attorney Roger B. Handberg for the Middle District of Florida&nbsp; said .  Vachon-Desjardins, an IT engineer working for the Canadian government
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

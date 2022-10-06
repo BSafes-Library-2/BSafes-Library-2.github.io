@@ -8,6 +8,98 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the Packagist PHP repository could have allowed supply chain attacks<a href="https://securityaffairs.co/wordpress/136638/hacking/packagist-supply-chain-attack-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts disclosed a flaw in the PHP software package repository Packagist that could have been exploited to carry out supply chain attacks.
+
+
+
+SonarSource Researchers disclosed details about a now-fixed vulnerability (CVE-2022-24828) in PHP software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Zero-Days in Microsoft Exchange<a href="https://cyware.com/news/hackers-target-zero-days-in-microsoft-exchange-953e0946"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese cybersecurity company GTSC uncovered a zero-day in fully patched Microsoft Exchange servers. The flaws are being tracked (by Zero Day Initiative) as ZDI-CAN-18333 with a CVSS score of 8.8 and ZDI-CAN-18802 with a CVSS score of 6.3. The bug could be abused by attackers to achieve remote a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Report Supply Chain Vulnerability in Packagist PHP Repository<a href="https://thehackernews.com/2022/10/researchers-report-supply-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details about a now-patched high-severity security flaw in Packagist, a PHP software package repository, that could have been exploited to mount software supply chain attacks.  "This vulnerability allows gaining control of&nbsp; Packagist ," SonarSource researcher Thomas Chauchefoin&nbsp; said &nbsp;in a report shared with The Hacker News. Packagist is used by the PHP package manager Composer to determine and download software dependencies that are included by developers in their projects.  The disclosure comes as planting malware in open source repositories is turning into an attractive conduit for mounting&nbsp; software supply chain attacks .   Tracked as&nbsp; CVE-2022-24828 &nbsp;(CVSS score: 8.8), the&nbsp; issue &nbsp;has been described as a case of command injection and is linked to another similar Composer bug ( CVE-2021-29472 ) that came to light in April 2021, suggesting an inadequate patch.  "An attacker controlling a Git or Mercurial repository explicitly listed by URL
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigations for recently disclosed Exchange zero-days can be easily bypassed<a href="https://securityaffairs.co/wordpress/136596/hacking/microsoft-exchange-0day-mitigations-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mitigation shared by Microsoft for the two recently disclosed Exchange zero-day vulnerabilities can be bypassed, expert warns.
+
+
+
+Last week, Microsoft confirmed that two&nbsp;zero-day vulnerabilities&nbsp;in Microsoft Exchange recently disclosed by researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JavaScript sandbox vm2 remediates remote code execution risk<a href="https://portswigger.net/daily-swig/javascript-sandbox-vm2-remediates-remote-code-execution-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug in vm2, a popular JavaScript sandbox environment, could allow malicious actors to bypass sandbox protections and stage remote code execution (RCE) on the host device.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Expose Parking Management System to Hacker Attacks<a href="https://www.securityweek.com/critical-vulnerabilities-expose-parking-management-system-hacker-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly a dozen vulnerabilities have been found in a car parking management system made by Italian company Carlo Gavazzi, which makes electronic control components for building and industrial automation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

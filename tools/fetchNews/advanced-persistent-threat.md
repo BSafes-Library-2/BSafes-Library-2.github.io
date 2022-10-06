@@ -8,6 +8,56 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT employed an exploit in a Dell firmware driver in recent attacks<a href="https://securityaffairs.co/wordpress/136623/apt/lazarus-exploit-dell-firmware-driver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT has been spotted deploying a Windows rootkit by taking advantage of an exploit in a Dell firmware driver.
+
+
+
+The North Korea-backed Lazarus Group has been observed deploying a Windows rootkit by relying on exploit in a Dell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Cheerscrypt ransomware is linked to Chinese DEV-0401 APT group<a href="https://securityaffairs.co/wordpress/136611/malware/apt10-cheerscrypt-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers link recently discovered Linux ransomware Cheerscrypt to the China-linked cyberespionage group DEV-0401.
+
+
+
+Researchers at cybersecurity firm Sygnia attributed the recently discovered Linux ransomware Cheerscrypt to the China-linked cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarMarker APT Returns in a New Watering Hole Attack<a href="https://cyware.com/news/solarmarker-apt-returns-in-a-new-watering-hole-attack-171dac0b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital adversaries behind the SolarMarker malware crippled a global tax consulting firm by camouflaging fake Chrome browser updates as part of watering hole attacks. Threat actors use the Google Dorking technique and conduct source code searches to identify such vulnerable websites before injectin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Want More Secure Software? Start Recognizing Security-Skilled Developers<a href="https://thehackernews.com/2022/10/want-more-secure-software-start.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Professional developers want to do the right thing, but in terms of security, they are rarely set up for success. Organizations must support their upskilling with precision training and incentives if they want secure software from the ground up.  The cyber threat landscape grows more complex by the day, with our data widely considered highly desirable "digital gold". Attackers are constantly scanning networks for vulnerable applications, programs, cloud instances, and the latest flavor of the month is APIs, with Gartner&nbsp; correctly predicting &nbsp;that they would become the most common attack vector in 2022, and that is in no small part thanks to their often lax security controls.&nbsp;  Threat actors are so persistent that new apps can sometimes be compromised and exploited within hours of deployment. The&nbsp; Verizon 2022 Data Breach Investigations Report &nbsp;reveals that errors and misconfigurations were the cause of 13% of breaches, with the human element responsible overall for 82% of the 23,000
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

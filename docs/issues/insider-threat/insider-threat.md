@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8 strange ways employees can (accidently) expose data<a href="https://www.csoonline.com/article/3675542/8-strange-ways-employees-can-accidently-expose-data.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From eyeglass reflections and new job postings to certificate transparency logs and discarded printers, employees can involuntarily and unintentionally expose confidential data in odd ways.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

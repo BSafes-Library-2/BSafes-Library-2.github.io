@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheerscrypt ransomware linked to a Chinese hacking group<a href="https://www.bleepingcomputer.com/news/security/cheerscrypt-ransomware-linked-to-a-chinese-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cheerscrypt ransomware has been linked to a Chinese hacking group named 'Emperor Dragonfly,' known to frequently switch between ransomware families to evade attribution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

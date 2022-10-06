@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigation for Exchange Zero-Days Bypassed! Microsoft Issues New Workarounds<a href="https://thehackernews.com/2022/10/mitigation-for-exchange-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revised its mitigation measures for the newly disclosed and actively exploited zero-day flaws in Exchange Server after it was found that they could be trivially bypassed.  The two vulnerabilities, tracked as CVE-2022-41040 and CVE-2022-41082, have been codenamed&nbsp; ProxyNotShell &nbsp;due to similarities to another set of flaws called&nbsp; ProxyShell , which the tech giant resolved last year.  In-the-wild attacks abusing the&nbsp; shortcomings &nbsp;have chained the two flaws to gain remote code execution on compromised servers with elevated privileges, leading to the deployment of web shells.  The Windows maker, which is yet to release a fix for the bugs, has acknowledged that a single state-sponsored threat actor may have been weaponizing the flaws since August 2022 in limited targeted attacks.   In the meantime, the company has made available temporary workarounds to reduce the risk of exploitation by restricting known attack patterns through a rule in the IIS Manager.  However, according
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft updates mitigation for ProxyNotShell Exchange zero days<a href="https://www.bleepingcomputer.com/news/security/microsoft-updates-mitigation-for-proxynotshell-exchange-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has updated the mitigation for the latest Exchange zero-day vulnerabilities tracked as CVE-2022-41040 and CVE-2022-41082, also referred to ProxyNotShell.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

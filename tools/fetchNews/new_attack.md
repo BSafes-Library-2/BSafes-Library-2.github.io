@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand: Cyberattack on health provider Pinnacle potentially impacts thousands of patients' data<a href="https://www.stuff.co.nz/national/300704224/cyber-attack-on-health-provider-pinnacle-a-wake-up-call?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health workers are scrambling to deal with a cyber attack that has compromised details kept by Waikato and Bay of Plenty health provider Pinnacle, which operates dozens of GP practices.
+</details>
+<div style="text-align: right" markdown="1">
+Stuff NZ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
