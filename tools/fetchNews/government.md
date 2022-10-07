@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cyberattacks targeting election systems unlikely to affect results<a href="https://www.bleepingcomputer.com/news/security/fbi-cyberattacks-targeting-election-systems-unlikely-to-affect-results/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) in a public service announcement says that cyber activity attempting to compromise election infrastructure is unlikely to cause a massive disruption or prevent voting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and NSA Reveal How Hackers Targeted a Defense Industrial Base Organization<a href="https://thehackernews.com/2022/10/fbi-cisa-and-nsa-reveal-how-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies on Tuesday disclosed that multiple nation-state hacking groups potentially targeted a "Defense Industrial Base (DIB) Sector organization's enterprise network" as part of a cyber espionage campaign.  "[Advanced persistent threat] actors used an open-source toolkit called&nbsp; Impacket &nbsp;to gain their foothold within the environment and further compromise the network, and also used a custom data exfiltration tool, CovalentStealer, to steal the victim's sensitive data," the authorities&nbsp; said .   The&nbsp; joint advisory , which was authored by the Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA), said the adversaries likely had long-term access to the compromised environment.  The findings are the result of CISA's incident response efforts in collaboration with a trusted third-party security firm from November 2021 through January 20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

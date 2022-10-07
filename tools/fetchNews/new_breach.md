@@ -8,6 +8,78 @@ nav_order: 900029
 
 ## Breach
 ---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Tucson Data Breach impacted 123,500 individuals<a href="https://securityaffairs.co/wordpress/136735/data-breach/city-of-tucson-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Tucson, Arizona disclosed a data breach, the incident was discovered in May 2022 and impacted 123,500 individuals.
+
+
+
+The security breach was discovered at the end of May 2022 and concluded the investigation in September. 
+
+
+
+According to the notification...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19-Year-Old man arrested for misusing leaked record from Optus Breach<a href="https://securityaffairs.co/wordpress/136725/cyber-crime/optus-arrested-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) arrested a 19-year-old teen from Sydney for attempting to use data from the Optus data breach in SMS scams.
+
+
+
+The Australian Federal Police (AFP) has arrested a 19-year-old teen from Sydney for allegedly attempting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Egypt Leaks” – Hacktivists are Leaking Financial Data<a href="https://securityaffairs.co/wordpress/136720/hacktivism/egypt-leaks-financial-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at cybersecurity firm Resecurity spotted a new group of hacktivists targeting financial institutions in Egypt,
+
+
+
+Resecurity, a California-based cybersecurity company protecting Fortune 500 corporations globally, has noticed a new group of hacktivists...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Uber CSO Joe Sullivan found guilty in breach cover-up<a href="https://www.techtarget.com/searchsecurity/news/252525808/Former-Uber-CSO-Joe-Sullivan-found-guilty-in-breach-cover-up?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A federal jury found Sullivan guilty of obstruction of proceedings of the Federal Trade Commission (FTC) and misprision of a felony in connection with attempting to conceal the Uber breach and pay off the hackers through a bug bounty award.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out, a bug in Linux Kernel 5.19.12 can damage displays on Intel laptops<a href="https://securityaffairs.co/wordpress/136751/security/linux-kernel-5-19-12-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug in Linux Kernel 5.19.12 that was released at the end of September 2022 can potentially damage the displays of Intel laptops.
+
+
+
+Linux users reported the displays of their Intel laptops rapidly blinking, flickering, and showing white flashes after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed two high-severity bugs in Communications, Networking Products<a href="https://securityaffairs.co/wordpress/136743/security/cisco-communications-networking-products.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco announced it has addressed high-severity vulnerabilities affecting some of its networking and communications products, including Enterprise NFV, Expressway, and TelePresence.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Released for Recently Patched new macOS Archive Utility Vulnerability<a href="https://thehackernews.com/2022/10/details-released-for-recently-patched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have shared details about a now-addressed security flaw in Apple's macOS operating system that could be potentially exploited to run malicious applications in a manner that can bypass Apple's security measures.  The vulnerability, tracked as&nbsp; CVE-2022-32910 , is rooted in the built-in Archive Utility and "could lead to the execution of an unsigned and unnotarized application without displaying security prompts to the user, by using a specially crafted archive," Apple device management firm Jamf  said in an analysis.   Following responsible disclosure on May 31, 2022, Apple addressed the issue as part of&nbsp; macOS Big Sur 11.6.8 &nbsp;and&nbsp; Monterey 12.5 &nbsp;released on July 20, 2022. The tech giant, for its part, also revised the earlier-issued advisories as of October 4 to add an entry for the flaw.  Apple described the bug as a logic issue that could allow an archive file to get around Gatekeeper checks, which is designed so as to ensure that only trusted
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed two high-severity bugs in Communications, Networking Products<a href="https://securityaffairs.co/wordpress/136743/security/cisco-communications-networking-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed high-severity flaws in some of its networking and communications products, including Enterprise NFV, Expressway and TelePresence.
+
+
+
+Cisco announced it has addressed high-severity vulnerabilities affecting some of its networking and communications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dex patches authentication bug that enabled unauthorized access to client applications<a href="https://portswigger.net/daily-swig/dex-patches-authentication-bug-that-enabled-unauthorized-access-to-client-applications?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenID Connect (OIDC) identity service Dex has patched a critical vulnerability that would allow an attacker to fetch an ID token through an intercepted authorization code and potentially gain unauthorized access to client applications.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

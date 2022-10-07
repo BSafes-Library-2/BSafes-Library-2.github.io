@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast releases free decryptor for MafiaWare666 ransomware variants<a href="https://www.bleepingcomputer.com/news/security/avast-releases-free-decryptor-for-mafiaware666-ransomware-variants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Avast has released a decryptor for variants of the MafiaWare666 ransomware known as 'Jcrypt', 'RIP Lmao', and 'BrutusptCrypt,' allowing victims to recover their files for free.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

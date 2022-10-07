@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of disinformation threats before 2022 midterm elections<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-disinformation-threats-before-2022-midterm-elections/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) warned today of foreign influence operations that might spread&nbsp;disinformation to affect the results of this year's&nbsp;midterm elections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt shares top flaws exploited by Chinese hackers since 2020<a href="https://www.bleepingcomputer.com/news/security/us-govt-shares-top-flaws-exploited-by-chinese-hackers-since-2020/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSA, CISA, and the FBI revealed today the top security vulnerabilities most exploited by hackers backed by the People's Republic of China (PRC) to target U.S. government and critical&nbsp;infrastructure networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland Adds Directors of State, Local Cybersecurity<a href="https://www.govtech.com/workforce/maryland-adds-directors-of-state-local-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maryland added two new high-level cyber roles to the roster, appointing a director of state cybersecurity and director of local cybersecurity, the governor’s office announced. Both positions are part of the IT department and report to the state CISO.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

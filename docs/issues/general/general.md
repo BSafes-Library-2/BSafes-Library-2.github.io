@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Regulation: It’s Not ‘Performance-Based’ If Outcomes Can’t Be Measured<a href="https://www.lawfareblog.com/cybersecurity-regulation-its-not-performance-based-if-outcomes-cant-be-measured"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A closer look at the TSA’s cybersecurity directive for pipelines casts doubt on the applicability of “performance-based” regulation to cybersecurity. For now, policymakers have to combine management-based controls and technology-specific prescriptions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When transparency is also obscurity: The conundrum that is open-source security<a href="https://www.helpnetsecurity.com/2022/10/04/when-transparency-is-also-obscurity-open-source-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Linux Foundation highlighted that the average number of days to fix a vulnerability is currently 97.8 – leaving enterprises running that open-source software open to attacks for many months.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ultimate SaaS Security Posture Management Checklist, 2023 Edition<a href="https://thehackernews.com/2022/10/the-ultimate-saas-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's been a year since the release of The Ultimate SaaS Security Posture Management (SSPM) Checklist. If SSPM is on your radar, here's the 2023 checklist edition, which covers the critical features and capabilities when evaluating a solution.  The ease with which SaaS apps can be deployed and adopted today is remarkable, but it has become a double-edged sword. On the one hand, apps are quickly onboarded, employees can work from anywhere, and there is little need for operational management. On the other hand, there are pain points that stem from the explosion of SaaS app usage, explained by the "3 V" s:   Volume:&nbsp; Each app can have hundreds of global settings. Multiply this number by thousands – or tens (or even hundreds) of thousands – of employees. Security teams must first be able to discover all the users who are using each application, as well as familiarize themselves with&nbsp; every &nbsp;application's specific set of rules and configurations, and ensure they are co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

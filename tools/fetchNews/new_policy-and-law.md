@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta sues app dev for stealing over 1 million WhatsApp accounts<a href="https://www.bleepingcomputer.com/news/security/meta-sues-app-dev-for-stealing-over-1-million-whatsapp-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has sued several Chinese&nbsp;companies doing business as&nbsp;HeyMods,&nbsp;Highlight Mobi,&nbsp;and HeyWhatsApp for developing and allegedly using "unofficial" WhatsApp Android apps to steal over one million WhatsApp accounts starting&nbsp;May 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest teen for using leaked Optus data to extort victims<a href="https://www.bleepingcomputer.com/news/security/police-arrest-teen-for-using-leaked-optus-data-to-extort-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AFP (Australian Federal Police) have arrested a 19-year-old man in Sydney and charged him for allegedly using leaked Optus customer data for extortion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Uber Security Chief Found Guilty of Data Breach Coverup<a href="https://thehackernews.com/2022/10/former-uber-security-chief-found-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. federal court jury has found former Uber Chief Security Officer Joseph Sullivan  guilty of not disclosing a 2016 breach of customer and driver records to regulators and attempting to cover up the incident.  Sullivan has been convicted on two counts: One for obstructing justice by not reporting the incident and another for misprision. He faces a maximum of five years in prison for the obstruction charge, and a maximum of three years for the latter.  "Technology companies in the Northern District of California collect and store vast amounts of data from users," U.S. Attorney Stephanie M. Hinds&nbsp; said &nbsp;in a press statement.  "We expect those companies to protect that data and to alert customers and appropriate authorities when such data is stolen by hackers. Sullivan affirmatively worked to hide the data breach from the Federal Trade Commission and took steps to prevent the hackers from being caught."  The 2016 hack of Uber occurred as a result of two hackers ga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

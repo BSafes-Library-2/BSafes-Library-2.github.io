@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kocho acquires Mobliciti to strengthen its mobile management and security capabilities<a href="https://www.helpnetsecurity.com/2022/10/04/kocho-mobliciti/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal adds strategic mobile management and security capabilities to Kocho’s portfolio, allowing customers of both organizations to benefit from an end-to-end range of services that will further accelerate their digital transformation programs.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
