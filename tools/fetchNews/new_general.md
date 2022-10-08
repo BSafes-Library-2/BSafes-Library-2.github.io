@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The essentials of GRC and cybersecurity — How they empower each other<a href="https://thehackernews.com/2022/10/the-essentials-of-grc-and-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Understanding the connection between GRC and cybersecurity  When talking about cybersecurity, Governance, Risk, and Compliance (GRC) is often considered the least exciting part of business protection. However, its importance can't be ignored, and this is why.&nbsp;  While cybersecurity focuses on the technical side of protecting systems, networks, devices, and data, GRC is the tool that will help the entire organization understand and communicate how to do it.  What does it mean?  GRC tools like StandardFusion help companies &nbsp;define and implement the best practices, procedures, and governance to ensure everyone understands the risks associated with their actions and how they can affect business security, compliance, and success.  In simple words, GRC is the medium for creating awareness around cybersecurity's best practices to reduce risks and achieve business goals.  Why is cybersecurity more relevant than ever before  Cybersecurity aims to protect sensitive business data, intelle
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

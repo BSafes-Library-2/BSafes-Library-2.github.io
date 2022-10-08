@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker steals $566 million worth of crypto from Binance Bridge<a href="https://www.bleepingcomputer.com/news/security/hacker-steals-566-million-worth-of-crypto-from-binance-bridge/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have reportedly stolen 2 million Binance Coins (BNB), worth $566 million, from the Binance Bridge.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eternity Group Hackers Offering New LilithBot Malware as a Service to Cybercriminals<a href="https://thehackernews.com/2022/10/eternity-group-hackers-offering-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the malware-as-a-service (MaaS) called Eternity has been linked to new piece of malware called LilithBot .  "It has advanced capabilities to be used as a miner, stealer, and a clipper along with its persistence mechanisms," Zscaler ThreatLabz researchers Shatak Jain and Aditya Sharma&nbsp; said &nbsp;in a Wednesday report.  "The group has been continuously enhancing the malware, adding improvements such as anti-debug and anti-VM checks."   Eternity Project &nbsp;came on the scene earlier this year, advertising its warez and product updates on a Telegram channel. The services provided include a stealer, miner, clipper, ransomware, USB worm, and a DDoS bot.   LilithBot is the latest addition to this list. Like its counterparts, the multifunctional malware bot is sold on a subscription basis to other cybercriminals in return for a cryptocurrency payment.   Upon a successful compromise, the information gathered through the bot – browser history, cookies, pictu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+19-Year-Old Teen Arrested for Using Leaked Optus Breach Data in SMS Scam<a href="https://thehackernews.com/2022/10/19-year-old-hacker-arrested-for-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) has arrested a 19-year-old teen from Sydney for allegedly attempting to leverage the data leaked following the Optus data breach late last month to extort victims.  The suspect is said to have carried out a text message blackmail scam, demanding that the recipients transfer $2,000 to a bank account or risk getting their personal information misused for fraudulent activities.  The source of the data, the agency said, was a sample database of 10,200 records that was posted briefly on a cybercrime forum accessible on the clearnet by an actor named "optusdata," before taking it down.   Details of the scam were&nbsp; previously shared &nbsp;by 9News Australia reporter Chris O'Keefe on September 27, 2022.  The AFP further said it executed a search warrant at the home of the offender, leading to the seizure of a mobile phone used to send the text messages to about 93 Optus customers. "At this stage it appears none of the individuals who received t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

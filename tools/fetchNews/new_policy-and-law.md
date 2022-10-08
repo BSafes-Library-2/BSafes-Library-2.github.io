@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Has Sued Chinese Companies for Stealing One Million WhatsApp Accounts<a href="http://www.itechpost.com/articles/114241/20221007/meta-sued-chinese-companies-stealing-one-million-whatsapp-accounts.htm?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta is suing the app developers, two Chinese and one Taiwanese, for orchestrating a massive fraud. The developers lured WhatsApp users to self-compromise their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+I Tech Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

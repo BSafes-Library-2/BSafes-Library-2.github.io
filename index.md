@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 7th 2022 - A 20 year sentence<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-7th-2022-a-20-year-sentence/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New cryptojacking campaign exploits OneDrive vulnerability<a href="https://www.csoonline.com/article/3676230/new-cryptojacking-campaign-exploits-onedrive-vulnerability.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Warns of New Auth Bypass Flaw Affecting FortiGate and FortiProxy<a href="https://thehackernews.com/2022/10/fortinet-warns-of-new-auth-bypass-flaw.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a high-severity bug in vCenter Server<a href="https://securityaffairs.co/wordpress/136791/security/vmware-vcenter-server-flaws.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2K Games warns users their stolen data is now up for sale online<a href="https://www.bleepingcomputer.com/news/security/2k-games-warns-users-their-stolen-data-is-now-up-for-sale-online/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Detects 400 Android and iOS Apps Stealing Users Log-in Credentials<a href="https://thehackernews.com/2022/10/facebook-detects-400-android-and-ios.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploiting unpatched RCE bug in Zimbra Collaboration Suite<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-unpatched-rce-bug-in-zimbra-collaboration-suite/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Code Execution Vulnerability in vCenter Server<a href="https://www.securityweek.com/vmware-patches-code-execution-vulnerability-vcenter-server?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The essentials of GRC and cybersecurity — How they empower each other<a href="https://thehackernews.com/2022/10/the-essentials-of-grc-and-cybersecurity.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker stole $566 million worth of Binance Coins from Binance Bridge<a href="https://securityaffairs.co/wordpress/136779/cyber-crime/hackers-stole-binance-funds.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet warns admins to patch critical auth bypass bug immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-warns-admins-to-patch-critical-auth-bypass-bug-immediately/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Has Sued Chinese Companies for Stealing One Million WhatsApp Accounts<a href="http://www.itechpost.com/articles/114241/20221007/meta-sued-chinese-companies-stealing-one-million-whatsapp-accounts.htm?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ I Tech Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LofyGang Distributed ~200 Malicious NPM Packages to Steal Credit Card Data<a href="https://thehackernews.com/2022/10/lofygang-distributed-200-malicious-npm.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LilithBot Malware, a new MaaS offered by the Eternity Group<a href="https://securityaffairs.co/wordpress/136764/breaking-news/lilithbot-malware-eternity-group.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LofyGang hackers built a credential-stealing enterprise on Discord, NPM<a href="https://www.bleepingcomputer.com/news/security/lofygang-hackers-built-a-credential-stealing-enterprise-on-discord-npm/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water Labbu Hijacks Crypto Transactions from Scam Websites<a href="https://cyware.com/news/water-labbu-hijacks-crypto-transactions-from-scam-websites-6eeea84c"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks<a href="https://thehackernews.com/2022/10/hackers-can-use-app-mode-in-chromium.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Impacts City of Dunedin's Email, Permit Payments, Utility Billing, and Inspection Scheduling<a href="https://wusfnews.wusf.usf.edu/politics-issues/2022-10-05/cybersecurity-incident-dunedin-network-environment?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ USF
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Ransomware Abuses Vulnerable Windows Driver to Disable Security Solutions<a href="https://thehackernews.com/2022/10/blackbyte-ransomware-abuses-vulnerable.html"> Full Text</a>
@@ -390,7 +390,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 2K warns users their info has been stolen following breach of its help desk<a href="https://arstechnica.com/information-technology/2022/10/2k-warns-users-their-info-has-been-stolen-following-breach-of-its-help-desk/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Groups Target U.S. Government Agencies with CovalentStealer<a href="https://cyware.com/news/apt-groups-target-us-government-agencies-with-covalentstealer-606ffbed"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in open source WebPageTest remains unpatched<a href="https://portswigger.net/daily-swig/critical-flaw-in-open-source-webpagetest-remains-unpatched?&web_view=true"> Full Text</a>

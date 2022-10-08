@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Impacts City of Dunedin's Email, Permit Payments, Utility Billing, and Inspection Scheduling<a href="https://wusfnews.wusf.usf.edu/politics-issues/2022-10-05/cybersecurity-incident-dunedin-network-environment?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dunedin's water and wastewater facilities are secure, and city phones are working. However, city email, online payments for permits, inspection scheduling, utility billing, and Parks &amp; Recreation programs, and Marina fees are all not working.
+</details>
+<div style="text-align: right" markdown="1">
+USF
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploiting unpatched RCE bug in Zimbra Collaboration Suite<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-unpatched-rce-bug-in-zimbra-collaboration-suite/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively exploiting an unpatched remote code execution (RCE) vulnerability in Zimbra Collaboration Suite (ZCS), a widely deployed web client and email server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LofyGang hackers built a credential-stealing enterprise on Discord, NPM<a href="https://www.bleepingcomputer.com/news/security/lofygang-hackers-built-a-credential-stealing-enterprise-on-discord-npm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group using the name 'LofyGang', operating since 2020, is considered responsible for creating and distributing over 200 malicious packages on multiple code hosting platforms, including GitHub and NPM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

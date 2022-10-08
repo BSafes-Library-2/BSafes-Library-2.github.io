@@ -8,6 +8,28 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker stole $566 million worth of Binance Coins from Binance Bridge<a href="https://securityaffairs.co/wordpress/136779/cyber-crime/hackers-stole-binance-funds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen 2 million Binance Coins (BNB), worth $566 million, from the popular Binance Bridge.
+
+
+
+Hackers have reportedly stolen $566 million worth of Binance Coins (BNB) from the Binance Bridge.
+
+
+
+It seems that threat actors were able...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

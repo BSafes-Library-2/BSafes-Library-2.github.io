@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lloyd's of London investigates possible cyber attack<a href="https://www.reuters.com/technology/lloyds-london-investigates-possible-cyber-attack-2022-10-05/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Lloyd’s has detected unusual activity on its network and we are investigating the issue," a Lloyd's spokesperson said by email, adding that the market was resetting the network.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

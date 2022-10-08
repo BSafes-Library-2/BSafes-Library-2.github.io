@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Labbu Hijacks Crypto Transactions from Scam Websites<a href="https://cyware.com/news/water-labbu-hijacks-crypto-transactions-from-scam-websites-6eeea84c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Water Labbu, a new threat actor, was observed targeting cryptocurrency scam websites to steal cryptocurrency from the wallets of other scammers through malicious DApps. The profit made by the attacker is believed to be $316,728, looking at the transactions from nine victims. Experts suggest that us ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

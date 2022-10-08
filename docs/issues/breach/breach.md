@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2K Games warns users their stolen data is now up for sale online<a href="https://www.bleepingcomputer.com/news/security/2k-games-warns-users-their-stolen-data-is-now-up-for-sale-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game publisher 2K emailed users on Thursday to warn that some of their personal info was stolen and put up for sale online following a September 19 security breach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 2K warns users their info has been stolen following breach of its help desk<a href="https://arstechnica.com/information-technology/2022/10/2k-warns-users-their-info-has-been-stolen-following-breach-of-its-help-desk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2K warned users to remain on the lookout for suspicious activity across their accounts following a breach last month that allowed a threat actor to obtain email addresses, names, and other sensitive information provided to 2K's support team.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
