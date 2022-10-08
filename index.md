@@ -34,6 +34,410 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 7th 2022 - A 20 year sentence<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-7th-2022-a-20-year-sentence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a very quiet week regarding ransomware news, with the most significant news being the sentencing of a Netwalker affiliate to 20-years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cryptojacking campaign exploits OneDrive vulnerability<a href="https://www.csoonline.com/article/3676230/new-cryptojacking-campaign-exploits-onedrive-vulnerability.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new development, cybersecurity software maker Bitdefender has detected a cryptojacking campaign that uses a Microsoft OneDrive vulnerability to gain persistence and run undetected on infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Warns of New Auth Bypass Flaw Affecting FortiGate and FortiProxy<a href="https://thehackernews.com/2022/10/fortinet-warns-of-new-auth-bypass-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has privately warned its customers of a security flaw affecting FortiGate firewalls and FortiProxy web proxies that could potentially allow an attacker to perform unauthorized actions on susceptible devices.  Tracked as  CVE-2022-40684 , the high-severity flaw relates to an  authentication bypass vulnerability  that could permit an unauthenticated adversary to perform arbitrary operations on the administrative interface.   The issue impacts the following versions, and has been addressed in FortiOS versions  7.0.7  and  7.2.2 , and FortiProxy version  7.0.7  released this week -   FortiOS - From 7.0.0 to 7.0.6 and from 7.2.0 to 7.2.1  FortiProxy - From 7.0.0 to 7.0.6 and 7.2.0   "Due to the ability to exploit this issue remotely, Fortinet is strongly recommending all customers with the vulnerable versions to perform an immediate upgrade," the company  cautioned  in an alert shared by a security researcher named Gitworm on Twitter.  When reached for a comment, Fortine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a high-severity bug in vCenter Server<a href="https://securityaffairs.co/wordpress/136791/security/vmware-vcenter-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware this week addressed a severe vulnerability in vCenter Server that could lead to arbitrary code execution.
+
+
+
+VMware on Thursday released security patches to address a code execution vulnerability, tracked as CVE-2022-31680 (CVSS score of 7.2),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2K Games warns users their stolen data is now up for sale online<a href="https://www.bleepingcomputer.com/news/security/2k-games-warns-users-their-stolen-data-is-now-up-for-sale-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game publisher 2K emailed users on Thursday to warn that some of their personal info was stolen and put up for sale online following a September 19 security breach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers that are not able to upgrade their systems should restrict access to their devices to a specific set of IP addresses. At this time it is not clear if the vulnerability has been actively exploited in attacks in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Detects 400 Android and iOS Apps Stealing Users Log-in Credentials<a href="https://thehackernews.com/2022/10/facebook-detects-400-android-and-ios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Friday disclosed that it had identified over 400 malicious apps on Android and iOS that it said targeted online users with the goal of stealing their Facebook login information.  "These apps were listed on the Google Play Store and Apple's App Store and disguised as photo editors, games, VPN services, business apps, and other utilities to trick people into downloading them," the social media behemoth  said  in a report shared with The Hacker News.   42.6% of the rogue apps were photo editors, followed by business utilities (15.4%), phone utilities (14.1%), games (11.7%), VPNs (11.7%), and lifestyle apps (4.4%). Interestingly, a majority of the iOS apps posed as ads manager tools for Meta and its Facebook subsidiary.  Besides concealing its malicious nature as a set of seemingly harmless apps, the operators of the scheme also published fake reviews that were designed to offset the negative reviews left by users who may have previously downloaded the apps
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical authentication bypass vulnerability that impacted FortiGate firewalls and FortiProxy web proxies.
+
+
+
+Fortinet addressed a critical authentication bypass flaw, tracked as CVE-2022-40684, that impacted FortiGate firewalls...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploiting unpatched RCE bug in Zimbra Collaboration Suite<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-unpatched-rce-bug-in-zimbra-collaboration-suite/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively exploiting an unpatched remote code execution (RCE) vulnerability in Zimbra Collaboration Suite (ZCS), a widely deployed web client and email server.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Code Execution Vulnerability in vCenter Server<a href="https://www.securityweek.com/vmware-patches-code-execution-vulnerability-vcenter-server?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware announced patches for a vCenter Server vulnerability that could lead to arbitrary code execution. Tracked as CVE-2022-31680 (CVSS score: 7.2), its described as an unsafe deserialization vulnerability in the platform services controller (PSC).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The essentials of GRC and cybersecurity — How they empower each other<a href="https://thehackernews.com/2022/10/the-essentials-of-grc-and-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Understanding the connection between GRC and cybersecurity  When talking about cybersecurity, Governance, Risk, and Compliance (GRC) is often considered the least exciting part of business protection. However, its importance can't be ignored, and this is why.   While cybersecurity focuses on the technical side of protecting systems, networks, devices, and data, GRC is the tool that will help the entire organization understand and communicate how to do it.  What does it mean?  GRC tools like StandardFusion help companies  define and implement the best practices, procedures, and governance to ensure everyone understands the risks associated with their actions and how they can affect business security, compliance, and success.  In simple words, GRC is the medium for creating awareness around cybersecurity's best practices to reduce risks and achieve business goals.  Why is cybersecurity more relevant than ever before  Cybersecurity aims to protect sensitive business data, intelle
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker stole $566 million worth of Binance Coins from Binance Bridge<a href="https://securityaffairs.co/wordpress/136779/cyber-crime/hackers-stole-binance-funds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen 2 million Binance Coins (BNB), worth $566 million, from the popular Binance Bridge.
+
+
+
+Hackers have reportedly stolen $566 million worth of Binance Coins (BNB) from the Binance Bridge.
+
+
+
+It seems that threat actors were able...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns admins to patch critical auth bypass bug immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-warns-admins-to-patch-critical-auth-bypass-bug-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has warned administrators to update FortiGate firewalls and FortiProxy web proxies to the latest versions, which address a critical severity vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Has Sued Chinese Companies for Stealing One Million WhatsApp Accounts<a href="http://www.itechpost.com/articles/114241/20221007/meta-sued-chinese-companies-stealing-one-million-whatsapp-accounts.htm?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta is suing the app developers, two Chinese and one Taiwanese, for orchestrating a massive fraud. The developers lured WhatsApp users to self-compromise their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+I Tech Post
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LofyGang Distributed ~200 Malicious NPM Packages to Steal Credit Card Data<a href="https://thehackernews.com/2022/10/lofygang-distributed-200-malicious-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple campaigns that distributed trojanized and typosquatted packages on the NPM open source repository have been identified as the work of a single threat actor dubbed LofyGang .  Checkmarx said it discovered 199 rogue packages totaling thousands of installations, with the group operating for over a year with the goal of stealing credit card data as well as user accounts associated with Discord Nitro, gaming, and streaming services.  "LofyGang operators are seen promoting their hacking tools in hacking forums, while some of the tools are shipped with a hidden backdoor," the software security company said in a report shared with The Hacker News prior to its publication.   Various pieces of the attack puzzle have already been reported by  JFrog ,  Sonatype , and  Kaspersky  (which called it LofyLife), but the latest analysis pulls the various operations together under one organizational umbrella that Checkmarx is referring to as  LofyGang .   Believed to be an organized cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LilithBot Malware, a new MaaS offered by the Eternity Group<a href="https://securityaffairs.co/wordpress/136764/breaking-news/lilithbot-malware-eternity-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers linked the threat actor behind the Eternity malware-as-a-service (MaaS) to a new malware strain called LilithBot.
+
+
+
+Zscaler researchers linked a recently discovered sample of a new malware called LilithBot to the Eternity group (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LofyGang hackers built a credential-stealing enterprise on Discord, NPM<a href="https://www.bleepingcomputer.com/news/security/lofygang-hackers-built-a-credential-stealing-enterprise-on-discord-npm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group using the name 'LofyGang', operating since 2020, is considered responsible for creating and distributing over 200 malicious packages on multiple code hosting platforms, including GitHub and NPM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Labbu Hijacks Crypto Transactions from Scam Websites<a href="https://cyware.com/news/water-labbu-hijacks-crypto-transactions-from-scam-websites-6eeea84c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Water Labbu, a new threat actor, was observed targeting cryptocurrency scam websites to steal cryptocurrency from the wallets of other scammers through malicious DApps. The profit made by the attacker is believed to be $316,728, looking at the transactions from nine victims. Experts suggest that us ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks<a href="https://thehackernews.com/2022/10/hackers-can-use-app-mode-in-chromium.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a new phishing technique, it has been demonstrated that the Application Mode feature in Chromium-based web browsers can be abused to create "realistic desktop phishing applications."  Application Mode is designed to offer native-like experiences in a manner that causes the website to be launched in a separate browser window, while also displaying the website's favicon and hiding the address bar.  According to security researcher mr.d0x – who also devised the browser-in-the-browser ( BitB ) attack method earlier this year – a bad actor can leverage this behavior to resort to some HTML/CSS trickery and display a fake address bar on top of the window and fool users into giving up their credentials on rogue login forms.   "Although this technique is meant more towards internal phishing, you can technically still use it in an external phishing scenario," mr.d0x  said . "You can deliver these fake applications independently as files."  This is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Impacts City of Dunedin's Email, Permit Payments, Utility Billing, and Inspection Scheduling<a href="https://wusfnews.wusf.usf.edu/politics-issues/2022-10-05/cybersecurity-incident-dunedin-network-environment?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dunedin's water and wastewater facilities are secure, and city phones are working. However, city email, online payments for permits, inspection scheduling, utility billing, and Parks & Recreation programs, and Marina fees are all not working.
+</details>
+<div style="text-align: right" markdown="1">
+USF
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Ransomware Abuses Vulnerable Windows Driver to Disable Security Solutions<a href="https://thehackernews.com/2022/10/blackbyte-ransomware-abuses-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another case of bring your own vulnerable driver (BYOVD) attack, the operators of the BlackByte ransomware are leveraging a flaw in a legitimate Windows driver to bypass security solutions.  "The evasion technique supports disabling a whopping list of over 1,000 drivers on which security products rely to provide protection," Sophos threat researcher Andreas Klopsch  said  in a new technical write-up.  BYOVD is an  attack technique  that involves threat actors abusing vulnerabilities in legitimate, signed drivers to achieve successful kernel-mode exploitation and seize control of compromised machines.   Weaknesses in signed drivers have been increasingly co-opted by nation-state threat groups in recent years, including  Slingshot ,  InvisiMole ,  APT28 , and most recently, the  Lazarus Group .   BlackByte, believed to be an offshoot of the  now-discontinued Conti group , is part of the big game cybercrime crews, which zeroes in on large, high-profile targets as part of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 2K warns users their info has been stolen following breach of its help desk<a href="https://arstechnica.com/information-technology/2022/10/2k-warns-users-their-info-has-been-stolen-following-breach-of-its-help-desk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2K warned users to remain on the lookout for suspicious activity across their accounts following a breach last month that allowed a threat actor to obtain email addresses, names, and other sensitive information provided to 2K's support team.
+</details>
+<div style="text-align: right" markdown="1">
+ARS Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Groups Target U.S. Government Agencies with CovalentStealer<a href="https://cyware.com/news/apt-groups-target-us-government-agencies-with-covalentstealer-606ffbed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government alerted against state-backed hackers using the custom CovalentStealer malware and Impacket framework to steal confidential information from a Defense Industrial Base organization. To gain initial access through the victim’s network, the attackers attempted to exploit ProxyLogon  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in open source WebPageTest remains unpatched<a href="https://portswigger.net/daily-swig/critical-flaw-in-open-source-webpagetest-remains-unpatched?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a blog post dated September 23, ManoMano researcher Louka “Laluka” Jacques-Chevallier discussed his discovery of a pre-authentication RCE vulnerability in the open-source project WebPageTest.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
