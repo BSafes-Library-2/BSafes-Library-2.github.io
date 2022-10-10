@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake adult sites push data wipers disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-adult-sites-push-data-wipers-disguised-as-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious adult websites push fake ransomware which, in reality, acts as a wiper that quietly tries to delete almost all of the data on your device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback phishing attacks evolve their social engineering tactics<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-evolve-their-social-engineering-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BazarCall malicious operation has evolved its social engineering methods, keeping the old fake charges lure for the first phase of the attack but then switching to pretending to help the victim deal with an infection or hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota Warns Thousands of Customers That They May Get Scam Emails After Data Leak<a href="https://gizmodo.com/toyota-warns-customers-they-may-get-scam-emails-after-d-1849630698?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 296,000 pieces of customer information from the T-Connect service might have been leaked. Toyota released a statement warning its customers that they may be at risk of receiving phishing scams or unsolicited emails to their email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

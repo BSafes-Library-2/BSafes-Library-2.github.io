@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Groups Target U.S. Government Agencies with CovalentStealer<a href="https://cyware.com/news/apt-groups-target-us-government-agencies-with-covalentstealer-606ffbed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government alerted against state-backed hackers using the custom CovalentStealer malware and Impacket framework to steal confidential information from a Defense Industrial Base organization. To gain initial access through the victim’s network, the attackers attempted to exploit ProxyLogon  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

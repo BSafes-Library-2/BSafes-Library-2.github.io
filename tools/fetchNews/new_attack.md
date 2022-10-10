@@ -8,6 +8,74 @@ nav_order: 900015
 
 ## Attack
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvard Business Publishing licensee hit by ransomware<a href="https://securityaffairs.co/wordpress/136860/cyber-crime/harvard-business-publishing-licensee-hit-by-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors got to a database with over 152,000 customer records before its owner, the Turkish branch of Harvard Business Review, closed it. 
+
+
+
+Crooks left a ransom note, threatening to leak the data and inform authorities of the EU’s General Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit hospital chains hit by ransomware, patients are facing problems<a href="https://securityaffairs.co/wordpress/136843/cyber-crime/commonspirit-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit, one of the largest hospital chains in the US, suffered a ransomware cyberattack that impacted its operations.
+
+
+
+Common Spirit, one of the largest hospital chains in the US, this week suffered a ransomware cyberattack that caused severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lloyd’s of London investigates alleged cyber attack<a href="https://securityaffairs.co/wordpress/136834/security/lloyds-of-london-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lloyd's of London launched on Wednesday an investigating into a possible cyber attack after having detected unusual activity on its network.
+
+
+
+Lloyd's of London is investigating a cyberattack after detecting unusual network activity this week. In response...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident<a href="https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Bar of Georgia announced that it experienced a cybersecurity incident that resulted in unauthorized access to its systems. After learning of the incident, the State Bar worked to restore its systems safely and resume normal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

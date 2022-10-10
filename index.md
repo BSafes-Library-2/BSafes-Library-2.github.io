@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2022
+October 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android vulnerabilities could allow arbitrary code execution<a href="https://www.malwarebytes.com/blog/news/2022/10/vulnerabilities-in-google-android-could-allow-for-arbitrary-code-execution?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Malwarebytes Labs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2022
+October 10, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark web carding site BidenCash gives 1.2M payment cards for free<a href="https://securityaffairs.co/wordpress/136872/cyber-crime/bidencash-carding-site-leak.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2022
+October 10, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Fake Aadhaar, PAN card printing websites use customers’ info for cyber fraud in Uttar Pradesh<a href="https://www.thehindu.com/news/national/other-states/fake-aadhaar-pan-printing-websites-use-customers-info-for-cyber-fraud-in-uttar-pradesh/article65988687.ece?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ The Hindu
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2022
+October 10, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Harvard Business Publishing licensee hit by ransomware<a href="https://securityaffairs.co/wordpress/136860/cyber-crime/harvard-business-publishing-licensee-hit-by-ransomware.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2022
+October 10, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maggie Backdoor Eats Up Hundreds of SQL Servers Around the Globe<a href="https://cyware.com/news/maggie-backdoor-eats-up-hundreds-of-sql-servers-around-the-globe-e0124052"> Full Text</a>
@@ -122,7 +122,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2022
+October 10, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RatMilad Spyware Attempts To Penetrate Middle Eastern Enterprises<a href="https://cyware.com/news/ratmilad-spyware-attempts-to-penetrate-middle-eastern-enterprises-425bca63"> Full Text</a>
@@ -138,7 +138,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2022
+October 09, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel confirms leaked Alder Lake BIOS Source Code is authentic<a href="https://www.bleepingcomputer.com/news/security/intel-confirms-leaked-alder-lake-bios-source-code-is-authentic/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2022
+October 09, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solana Phantom security update NFTs push password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/solana-phantom-security-update-nfts-push-password-stealing-malware/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2022
+October 09, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darkweb market BidenCash gives away 1.2 million credit cards for free<a href="https://www.bleepingcomputer.com/news/security/darkweb-market-bidencash-gives-away-12-million-credit-cards-for-free/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2022
+October 9, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everest gang demands $200K for data stolen from South Africa state-owned electricity company ESKOM<a href="https://securityaffairs.co/wordpress/136866/cyber-crime/south-africa-eskom-everest-ransomware.html"> Full Text</a>
@@ -206,7 +206,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2022
+October 09, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake adult sites push data wipers disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-adult-sites-push-data-wipers-disguised-as-ransomware/"> Full Text</a>
@@ -222,7 +222,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2022
+October 9, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 387<a href="https://securityaffairs.co/wordpress/136857/breaking-news/security-affairs-newsletter-round-387.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2022
+October 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CommonSpirit hospital chains hit by ransomware, patients are facing problems<a href="https://securityaffairs.co/wordpress/136843/cyber-crime/commonspirit-ransomware-attack.html"> Full Text</a>
@@ -266,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 9, 2022
+October 9, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lloyd’s of London investigates alleged cyber attack<a href="https://securityaffairs.co/wordpress/136834/security/lloyds-of-london-cyberattack.html"> Full Text</a>
@@ -286,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2022
+October 08, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite<a href="https://thehackernews.com/2022/10/hackers-exploiting-unpatched-rce-flaw.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2022
+October 08, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities<a href="https://thehackernews.com/2022/10/microsoft-issues-improved-mitigations.html"> Full Text</a>
@@ -318,7 +318,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2022
+October 08, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ADATA denies RansomHouse cyberattack, says leaked data from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/adata-denies-ransomhouse-cyberattack-says-leaked-data-from-2021-breach/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LilithBot Malware and Eternity Project's Cybercrime Operation<a href="https://cyware.com/news/lilithbot-malware-and-eternity-projects-cybercrime-operation-fce0cd48"> Full Text</a>
@@ -350,7 +350,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 08, 2022
+October 08, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Callback phishing attacks evolve their social engineering tactics<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-evolve-their-social-engineering-tactics/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Repositories Offer Fake Exploits for Exchange Flaws<a href="https://cyware.com/news/github-repositories-offer-fake-exploits-for-exchange-flaws-2b6e71e9"> Full Text</a>
@@ -382,7 +382,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Details on Zero-Day Vulnerability Affecting Zimbra Collaboration and CPIO<a href="https://securityboulevard.com/2022/10/what-we-know-about-the-zero-day-vulnerability-affecting-zimbra-collaboration-and-cpio/?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Security Boulevard
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Ransomware abuses vulnerable driver to bypass security solutions<a href="https://securityaffairs.co/wordpress/136816/malware/blackbyte-ransomware-byovd-attack.html"> Full Text</a>
@@ -418,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attack Suspected in Hartnell College Network Outage<a href="https://www.govtech.com/education/higher-ed/cyber-attack-suspected-in-hartnell-college-network-outage?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ Government Technology
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched remote code execution flaw in Zimbra Collaboration Suite actively exploited<a href="https://securityaffairs.co/wordpress/136800/hacking/zimbra-collaboration-suite-rce.html"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident<a href="https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 8, 2022
+October 8, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toyota Warns Thousands of Customers That They May Get Scam Emails After Data Leak<a href="https://gizmodo.com/toyota-warns-customers-they-may-get-scam-emails-after-d-1849630698?&web_view=true"> Full Text</a>

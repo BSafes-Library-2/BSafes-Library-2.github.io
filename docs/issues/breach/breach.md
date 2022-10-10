@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web carding site BidenCash gives 1.2M payment cards for free<a href="https://securityaffairs.co/wordpress/136872/cyber-crime/bidencash-carding-site-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BidenCash, a popular dark web carding site, released a dump of more than 1.2 million credit cards to promote its service.
+
+
+
+Operators behind the popular dark web carding market 'BidenCash' have released a dump of 1,221,551 credit cards to promote their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel confirms leaked Alder Lake BIOS Source Code is authentic<a href="https://www.bleepingcomputer.com/news/security/intel-confirms-leaked-alder-lake-bios-source-code-is-authentic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has confirmed that a source code leak for the UEFI BIOS of Alder Lake CPUs is authentic and has been released by a third party.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ADATA denies RansomHouse cyberattack, says leaked data from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/adata-denies-ransomhouse-cyberattack-says-leaked-data-from-2021-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese chip maker ADATA denies claims of a RansomHouse cyberattack after the threat actors began posting the company's stolen files on their data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

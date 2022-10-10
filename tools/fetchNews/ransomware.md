@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 7th 2022 - A 20 year sentence<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-7th-2022-a-20-year-sentence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was a very quiet week regarding ransomware news, with the most significant news being the sentencing of a Netwalker affiliate to 20-years in prison.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Ransomware Abuses Vulnerable Windows Driver to Disable Security Solutions<a href="https://thehackernews.com/2022/10/blackbyte-ransomware-abuses-vulnerable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another case of bring your own vulnerable driver (BYOVD) attack, the operators of the BlackByte ransomware are leveraging a flaw in a legitimate Windows driver to bypass security solutions.  "The evasion technique supports disabling a whopping list of over 1,000 drivers on which security products rely to provide protection," Sophos threat researcher Andreas Klopsch&nbsp; said &nbsp;in a new technical write-up.  BYOVD is an&nbsp; attack technique &nbsp;that involves threat actors abusing vulnerabilities in legitimate, signed drivers to achieve successful kernel-mode exploitation and seize control of compromised machines.   Weaknesses in signed drivers have been increasingly co-opted by nation-state threat groups in recent years, including&nbsp; Slingshot ,&nbsp; InvisiMole ,&nbsp; APT28 , and most recently, the&nbsp; Lazarus Group .   BlackByte, believed to be an offshoot of the&nbsp; now-discontinued Conti group , is part of the big game cybercrime crews, which zeroes in on large, high-profile targets as part of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

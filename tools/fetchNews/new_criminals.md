@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkweb market BidenCash gives away 1.2 million credit cards for free<a href="https://www.bleepingcomputer.com/news/security/darkweb-market-bidencash-gives-away-12-million-credit-cards-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp;dark web carding market named 'BidenCash' has released a massive dump of 1,221,551 credit cards to promote their marketplace, allowing anyone to download them for free to conduct financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everest gang demands $200K for data stolen from South Africa state-owned electricity company ESKOM<a href="https://securityaffairs.co/wordpress/136866/cyber-crime/south-africa-eskom-everest-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everest ransomware operators claimed to have hacked South Africa state-owned company ESKOM Hld SOC Ltd.
+
+
+
+In March 2022, the Everest ransomware operators published a notice announcing the sale of "South Africa Electricity company's root access" for $125,000....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LilithBot Malware and Eternity Project's Cybercrime Operation<a href="https://cyware.com/news/lilithbot-malware-and-eternity-projects-cybercrime-operation-fce0cd48"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-function malware is being constantly developed by its operators who have added anti-VM checks and anti-debugging features too. LilithBot can steal cookies, screenshots, pictures, and browser history from infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

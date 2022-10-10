@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android vulnerabilities could allow arbitrary code execution<a href="https://www.malwarebytes.com/blog/news/2022/10/vulnerabilities-in-google-android-could-allow-for-arbitrary-code-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities have been patched in the Google Android operating system (OS), the most severe of which could allow for arbitrary code execution. None of the vulnerabilities have been spotted in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities<a href="https://thehackernews.com/2022/10/microsoft-issues-improved-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday&nbsp; disclosed &nbsp;it has made more improvements to the&nbsp; mitigation method &nbsp;offered as a means to prevent exploitation attempts against the newly disclosed unpatched security flaws in Exchange Server.  To that end, the tech giant has revised the blocking rule in IIS Manager from ".*autodiscover\.json.*Powershell.*" to "(?=.*autodiscover\.json)(?=.*powershell)."   The list of updated steps to add the URL Rewrite rule is below -   Open IIS Manager  Select Default Web Site  In the Feature View, click URL Rewrite  In the Actions pane on the right-hand side, click Add Rule(s)…  Select Request Blocking and click OK  Add the string "(?=.*autodiscover\.json)(?=.*powershell)" (excluding quotes)  Select Regular Expression under Using  Select Abort Request under How to block and then click OK  Expand the rule and select the rule with the pattern: (?=.*autodiscover\.json)(?=.*powershell) and click Edit under Conditions  Change the Condition input from {U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Repositories Offer Fake Exploits for Exchange Flaws<a href="https://cyware.com/news/github-repositories-offer-fake-exploits-for-exchange-flaws-2b6e71e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and GTSC disclosed that scammers have jumped on the bandwagon to abuse Exchange flaws by creating GitHub repositories for fake exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Details on Zero-Day Vulnerability Affecting Zimbra Collaboration and CPIO<a href="https://securityboulevard.com/2022/10/what-we-know-about-the-zero-day-vulnerability-affecting-zimbra-collaboration-and-cpio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In September, an attack was reported in the Zimbra forums where a malicious actor was able to upload a JSP web shell into the public directory to execute a command, generating a pre-authentication key to login to an existing account.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched remote code execution flaw in Zimbra Collaboration Suite actively exploited<a href="https://securityaffairs.co/wordpress/136800/hacking/zimbra-collaboration-suite-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting an unpatched severe remote code execution vulnerability in the Zimbra collaboration platform.
+
+
+
+Researchers from Rapid7 are warning of the exploitation of unpatched zero-day remote code execution vulnerability, tracked as CVE-2022-41352,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

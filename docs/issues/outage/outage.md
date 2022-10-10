@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attack Suspected in Hartnell College Network Outage<a href="https://www.govtech.com/education/higher-ed/cyber-attack-suspected-in-hartnell-college-network-outage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hartnell College held an emergency meeting of its governing board this week to discuss the school’s ongoing network outage in response to a potential cybersecurity threat.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

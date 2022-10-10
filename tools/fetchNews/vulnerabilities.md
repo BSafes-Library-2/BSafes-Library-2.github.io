@@ -8,6 +8,140 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New cryptojacking campaign exploits OneDrive vulnerability<a href="https://www.csoonline.com/article/3676230/new-cryptojacking-campaign-exploits-onedrive-vulnerability.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new development, cybersecurity software maker Bitdefender has detected a cryptojacking campaign that uses a Microsoft OneDrive vulnerability to gain persistence and run undetected on infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+CSO Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Warns of New Auth Bypass Flaw Affecting FortiGate and FortiProxy<a href="https://thehackernews.com/2022/10/fortinet-warns-of-new-auth-bypass-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has privately warned its customers of a security flaw affecting FortiGate firewalls and FortiProxy web proxies that could potentially allow an attacker to perform unauthorized actions on susceptible devices.  Tracked as&nbsp; CVE-2022-40684 , the high-severity flaw relates to an&nbsp; authentication bypass vulnerability &nbsp;that could permit an unauthenticated adversary to perform arbitrary operations on the administrative interface.   The issue impacts the following versions, and has been addressed in FortiOS versions&nbsp; 7.0.7 &nbsp;and&nbsp; 7.2.2 , and FortiProxy version&nbsp; 7.0.7 &nbsp;released this week -   FortiOS - From 7.0.0 to 7.0.6 and from 7.2.0 to 7.2.1  FortiProxy - From 7.0.0 to 7.0.6 and 7.2.0   "Due to the ability to exploit this issue remotely, Fortinet is strongly recommending all customers with the vulnerable versions to perform an immediate upgrade," the company&nbsp; cautioned &nbsp;in an alert shared by a security researcher named Gitworm on Twitter.  When reached for a comment, Fortine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a high-severity bug in vCenter Server<a href="https://securityaffairs.co/wordpress/136791/security/vmware-vcenter-server-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware this week addressed a severe vulnerability in vCenter Server that could lead to arbitrary code execution.
+
+
+
+VMware on Thursday released security patches to address a code execution vulnerability, tracked as CVE-2022-31680 (CVSS score of 7.2),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers that are not able to upgrade their systems should restrict access to their devices to a specific set of IP addresses. At this time it is not clear if the vulnerability has been actively exploited in attacks in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical authentication bypass vulnerability that impacted FortiGate firewalls and FortiProxy web proxies.
+
+
+
+Fortinet addressed a critical authentication bypass flaw, tracked as CVE-2022-40684, that impacted FortiGate firewalls...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Code Execution Vulnerability in vCenter Server<a href="https://www.securityweek.com/vmware-patches-code-execution-vulnerability-vcenter-server?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware announced patches for a vCenter Server vulnerability that could lead to arbitrary code execution. Tracked as CVE-2022-31680 (CVSS score: 7.2), its described as an unsafe deserialization vulnerability in the platform services controller (PSC).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns admins to patch critical auth bypass bug immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-warns-admins-to-patch-critical-auth-bypass-bug-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has warned administrators to update&nbsp;FortiGate firewalls and FortiProxy&nbsp;web proxies&nbsp;to the latest versions, which address a critical severity vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks<a href="https://thehackernews.com/2022/10/hackers-can-use-app-mode-in-chromium.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a new phishing technique, it has been demonstrated that the Application Mode feature in Chromium-based web browsers can be abused to create "realistic desktop phishing applications."  Application Mode is designed to offer native-like experiences in a manner that causes the website to be launched in a separate browser window, while also displaying the website's favicon and hiding the address bar.  According to security researcher mr.d0x – who also devised the browser-in-the-browser ( BitB ) attack method earlier this year – a bad actor can leverage this behavior to resort to some HTML/CSS trickery and display a fake address bar on top of the window and fool users into giving up their credentials on rogue login forms.   "Although this technique is meant more towards internal phishing, you can technically still use it in an external phishing scenario," mr.d0x&nbsp; said . "You can deliver these fake applications independently as files."  This is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in open source WebPageTest remains unpatched<a href="https://portswigger.net/daily-swig/critical-flaw-in-open-source-webpagetest-remains-unpatched?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a blog post dated September 23, ManoMano researcher Louka “Laluka” Jacques-Chevallier discussed his discovery of a pre-authentication RCE vulnerability in the open-source project WebPageTest.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
