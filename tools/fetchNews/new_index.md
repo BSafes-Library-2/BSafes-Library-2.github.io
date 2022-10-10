@@ -34,7 +34,459 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android vulnerabilities could allow arbitrary code execution<a href="https://www.malwarebytes.com/blog/news/2022/10/vulnerabilities-in-google-android-could-allow-for-arbitrary-code-execution?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities have been patched in the Google Android operating system (OS), the most severe of which could allow for arbitrary code execution. None of the vulnerabilities have been spotted in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes Labs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark web carding site BidenCash gives 1.2M payment cards for free<a href="https://securityaffairs.co/wordpress/136872/cyber-crime/bidencash-carding-site-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BidenCash, a popular dark web carding site, released a dump of more than 1.2 million credit cards to promote its service.
+
+
+
+Operators behind the popular dark web carding market 'BidenCash' have released a dump of 1,221,551 credit cards to promote their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Fake Aadhaar, PAN card printing websites use customers’ info for cyber fraud in Uttar Pradesh<a href="https://www.thehindu.com/news/national/other-states/fake-aadhaar-pan-printing-websites-use-customers-info-for-cyber-fraud-in-uttar-pradesh/article65988687.ece?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of fake identity card-printing websites are operating out of Uttar Pradesh and duping people by using their personal information, according to a cybersecurity research firm.
+</details>
+<div style="text-align: right" markdown="1">
+The Hindu
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Harvard Business Publishing licensee hit by ransomware<a href="https://securityaffairs.co/wordpress/136860/cyber-crime/harvard-business-publishing-licensee-hit-by-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors got to a database with over 152,000 customer records before its owner, the Turkish branch of Harvard Business Review, closed it. 
+
+
+
+Crooks left a ransom note, threatening to leak the data and inform authorities of the EU’s General Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maggie Backdoor Eats Up Hundreds of SQL Servers Around the Globe<a href="https://cyware.com/news/maggie-backdoor-eats-up-hundreds-of-sql-servers-around-the-globe-e0124052"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware strain named Maggie is targeting Microsoft SQL servers and has already backdoored hundreds of machines globally. The malware boasts simple TCP redirection functionality that can allow a remote hacker to connect to any IP address the infected MS-SQL server can reach. The malware’s capa ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RatMilad Spyware Attempts To Penetrate Middle Eastern Enterprises<a href="https://cyware.com/news/ratmilad-spyware-attempts-to-penetrate-middle-eastern-enterprises-425bca63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile security firm Zimperium uncovered a new Android spyware, dubbed RatMilad, sneaking into users’ mobile devices for the Middle Eastern enterprises. Researchers have warned that the malware could be used by cybercriminals for numerous purposes ranging from cyberespionage to eavesdropping on vic ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel confirms leaked Alder Lake BIOS Source Code is authentic<a href="https://www.bleepingcomputer.com/news/security/intel-confirms-leaked-alder-lake-bios-source-code-is-authentic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has confirmed that a source code leak for the UEFI BIOS of Alder Lake CPUs is authentic and has been released by a third party.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solana Phantom security update NFTs push password-stealing malware<a href="https://www.bleepingcomputer.com/news/security/solana-phantom-security-update-nfts-push-password-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are airdropping NFTs to Solana cryptocurrency owners pretending to be alerts for a new Phantom security update that lead to the installation of password-stealing malware and the theft of cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darkweb market BidenCash gives away 1.2 million credit cards for free<a href="https://www.bleepingcomputer.com/news/security/darkweb-market-bidencash-gives-away-12-million-credit-cards-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dark web carding market named 'BidenCash' has released a massive dump of 1,221,551 credit cards to promote their marketplace, allowing anyone to download them for free to conduct financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everest gang demands $200K for data stolen from South Africa state-owned electricity company ESKOM<a href="https://securityaffairs.co/wordpress/136866/cyber-crime/south-africa-eskom-everest-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Everest ransomware operators claimed to have hacked South Africa state-owned company ESKOM Hld SOC Ltd.
+
+
+
+In March 2022, the Everest ransomware operators published a notice announcing the sale of "South Africa Electricity company's root access" for $125,000....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake adult sites push data wipers disguised as ransomware<a href="https://www.bleepingcomputer.com/news/security/fake-adult-sites-push-data-wipers-disguised-as-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious adult websites push fake ransomware which, in reality, acts as a wiper that quietly tries to delete almost all of the data on your device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 387<a href="https://securityaffairs.co/wordpress/136857/breaking-news/security-affairs-newsletter-round-387.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+BlackByte...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit hospital chains hit by ransomware, patients are facing problems<a href="https://securityaffairs.co/wordpress/136843/cyber-crime/commonspirit-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit, one of the largest hospital chains in the US, suffered a ransomware cyberattack that impacted its operations.
+
+
+
+Common Spirit, one of the largest hospital chains in the US, this week suffered a ransomware cyberattack that caused severe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lloyd’s of London investigates alleged cyber attack<a href="https://securityaffairs.co/wordpress/136834/security/lloyds-of-london-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lloyd's of London launched on Wednesday an investigating into a possible cyber attack after having detected unusual activity on its network.
+
+
+
+Lloyd's of London is investigating a cyberattack after detecting unusual network activity this week. In response...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite<a href="https://thehackernews.com/2022/10/hackers-exploiting-unpatched-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe remote code execution vulnerability in Zimbra's enterprise collaboration software and email platform is being actively exploited, with no patch currently available to remediate the issue.  The shortcoming, assigned  CVE-2022-41352 , carries a critical-severity rating of CVSS 9.8, providing a pathway for attackers to upload arbitrary files and carry out malicious actions on affected installations.  "The vulnerability is due to the method ( cpio ) in which Zimbra's antivirus engine ( Amavis ) scans inbound emails," cybersecurity firm Rapid7  said  in an analysis published this week.   The issue is said to have been abused since early September 2022, according to  details  shared on Zimbra forums. While a fix is yet to be released, the software services company is urging users to install the "pax" utility and restart the Zimbra services.  "If the  pax package  is not installed, Amavis will fall-back to using cpio, unfortunately the fall-back is i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Improved Mitigations for Unpatched Exchange Server Vulnerabilities<a href="https://thehackernews.com/2022/10/microsoft-issues-improved-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday  disclosed  it has made more improvements to the  mitigation method  offered as a means to prevent exploitation attempts against the newly disclosed unpatched security flaws in Exchange Server.  To that end, the tech giant has revised the blocking rule in IIS Manager from ".*autodiscover\.json.*Powershell.*" to "(?=.*autodiscover\.json)(?=.*powershell)."   The list of updated steps to add the URL Rewrite rule is below -   Open IIS Manager  Select Default Web Site  In the Feature View, click URL Rewrite  In the Actions pane on the right-hand side, click Add Rule(s)…  Select Request Blocking and click OK  Add the string "(?=.*autodiscover\.json)(?=.*powershell)" (excluding quotes)  Select Regular Expression under Using  Select Abort Request under How to block and then click OK  Expand the rule and select the rule with the pattern: (?=.*autodiscover\.json)(?=.*powershell) and click Edit under Conditions  Change the Condition input from {U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ADATA denies RansomHouse cyberattack, says leaked data from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/adata-denies-ransomhouse-cyberattack-says-leaked-data-from-2021-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese chip maker ADATA denies claims of a RansomHouse cyberattack after the threat actors began posting the company's stolen files on their data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LilithBot Malware and Eternity Project's Cybercrime Operation<a href="https://cyware.com/news/lilithbot-malware-and-eternity-projects-cybercrime-operation-fce0cd48"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-function malware is being constantly developed by its operators who have added anti-VM checks and anti-debugging features too. LilithBot can steal cookies, screenshots, pictures, and browser history from infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback phishing attacks evolve their social engineering tactics<a href="https://www.bleepingcomputer.com/news/security/callback-phishing-attacks-evolve-their-social-engineering-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BazarCall malicious operation has evolved its social engineering methods, keeping the old fake charges lure for the first phase of the attack but then switching to pretending to help the victim deal with an infection or hack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Repositories Offer Fake Exploits for Exchange Flaws<a href="https://cyware.com/news/github-repositories-offer-fake-exploits-for-exchange-flaws-2b6e71e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft and GTSC disclosed that scammers have jumped on the bandwagon to abuse Exchange flaws by creating GitHub repositories for fake exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Details on Zero-Day Vulnerability Affecting Zimbra Collaboration and CPIO<a href="https://securityboulevard.com/2022/10/what-we-know-about-the-zero-day-vulnerability-affecting-zimbra-collaboration-and-cpio/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In September, an attack was reported in the Zimbra forums where a malicious actor was able to upload a JSP web shell into the public directory to execute a command, generating a pre-authentication key to login to an existing account.
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Ransomware abuses vulnerable driver to bypass security solutions<a href="https://securityaffairs.co/wordpress/136816/malware/blackbyte-ransomware-byovd-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackByte ransomware operators are leveraging a flaw in a legitimate Windows driver to bypass security solutions.
+
+
+
+Researchers from Sophos warn that BlackByte ransomware operators are using a bring your own vulnerable driver (BYOVD) attack to bypass...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attack Suspected in Hartnell College Network Outage<a href="https://www.govtech.com/education/higher-ed/cyber-attack-suspected-in-hartnell-college-network-outage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hartnell College held an emergency meeting of its governing board this week to discuss the school’s ongoing network outage in response to a potential cybersecurity threat.
+</details>
+<div style="text-align: right" markdown="1">
+Government Technology
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched remote code execution flaw in Zimbra Collaboration Suite actively exploited<a href="https://securityaffairs.co/wordpress/136800/hacking/zimbra-collaboration-suite-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting an unpatched severe remote code execution vulnerability in the Zimbra collaboration platform.
+
+
+
+Researchers from Rapid7 are warning of the exploitation of unpatched zero-day remote code execution vulnerability, tracked as CVE-2022-41352,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident<a href="https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Bar of Georgia announced that it experienced a cybersecurity incident that resulted in unauthorized access to its systems. After learning of the incident, the State Bar worked to restore its systems safely and resume normal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota Warns Thousands of Customers That They May Get Scam Emails After Data Leak<a href="https://gizmodo.com/toyota-warns-customers-they-may-get-scam-emails-after-d-1849630698?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 296,000 pieces of customer information from the T-Connect service might have been leaked. Toyota released a statement warning its customers that they may be at risk of receiving phishing scams or unsolicited emails to their email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 7th 2022 - A 20 year sentence<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-7th-2022-a-20-year-sentence/"> Full Text</a>
@@ -50,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New cryptojacking campaign exploits OneDrive vulnerability<a href="https://www.csoonline.com/article/3676230/new-cryptojacking-campaign-exploits-onedrive-vulnerability.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -66,7 +518,7 @@ CSO Online
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Warns of New Auth Bypass Flaw Affecting FortiGate and FortiProxy<a href="https://thehackernews.com/2022/10/fortinet-warns-of-new-auth-bypass-flaw.html"> Full Text</a>
@@ -82,7 +534,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a high-severity bug in vCenter Server<a href="https://securityaffairs.co/wordpress/136791/security/vmware-vcenter-server-flaws.html"> Full Text</a>
@@ -102,7 +554,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2K Games warns users their stolen data is now up for sale online<a href="https://www.bleepingcomputer.com/news/security/2k-games-warns-users-their-stolen-data-is-now-up-for-sale-online/"> Full Text</a>
@@ -118,7 +570,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html?&web_view=true"> Full Text</a>
@@ -134,7 +586,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Detects 400 Android and iOS Apps Stealing Users Log-in Credentials<a href="https://thehackernews.com/2022/10/facebook-detects-400-android-and-ios.html"> Full Text</a>
@@ -150,7 +602,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges customers to immediately fix a critical authentication bypass flaw in FortiGate and FortiProxy<a href="https://securityaffairs.co/wordpress/136786/security/fortinet-critical-flaw.html"> Full Text</a>
@@ -170,7 +622,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploiting unpatched RCE bug in Zimbra Collaboration Suite<a href="https://www.bleepingcomputer.com/news/security/hackers-exploiting-unpatched-rce-bug-in-zimbra-collaboration-suite/"> Full Text</a>
@@ -186,7 +638,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Code Execution Vulnerability in vCenter Server<a href="https://www.securityweek.com/vmware-patches-code-execution-vulnerability-vcenter-server?&web_view=true"> Full Text</a>
@@ -202,7 +654,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The essentials of GRC and cybersecurity — How they empower each other<a href="https://thehackernews.com/2022/10/the-essentials-of-grc-and-cybersecurity.html"> Full Text</a>
@@ -218,7 +670,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker stole $566 million worth of Binance Coins from Binance Bridge<a href="https://securityaffairs.co/wordpress/136779/cyber-crime/hackers-stole-binance-funds.html"> Full Text</a>
@@ -242,7 +694,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet warns admins to patch critical auth bypass bug immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-warns-admins-to-patch-critical-auth-bypass-bug-immediately/"> Full Text</a>
@@ -258,7 +710,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Has Sued Chinese Companies for Stealing One Million WhatsApp Accounts<a href="http://www.itechpost.com/articles/114241/20221007/meta-sued-chinese-companies-stealing-one-million-whatsapp-accounts.htm?&web_view=true"> Full Text</a>
@@ -274,7 +726,7 @@ I Tech Post
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LofyGang Distributed ~200 Malicious NPM Packages to Steal Credit Card Data<a href="https://thehackernews.com/2022/10/lofygang-distributed-200-malicious-npm.html"> Full Text</a>
@@ -290,7 +742,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LilithBot Malware, a new MaaS offered by the Eternity Group<a href="https://securityaffairs.co/wordpress/136764/breaking-news/lilithbot-malware-eternity-group.html"> Full Text</a>
@@ -310,7 +762,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LofyGang hackers built a credential-stealing enterprise on Discord, NPM<a href="https://www.bleepingcomputer.com/news/security/lofygang-hackers-built-a-credential-stealing-enterprise-on-discord-npm/"> Full Text</a>
@@ -326,7 +778,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water Labbu Hijacks Crypto Transactions from Scam Websites<a href="https://cyware.com/news/water-labbu-hijacks-crypto-transactions-from-scam-websites-6eeea84c"> Full Text</a>
@@ -342,7 +794,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Use 'App Mode' in Chromium Browsers' for Stealth Phishing Attacks<a href="https://thehackernews.com/2022/10/hackers-can-use-app-mode-in-chromium.html"> Full Text</a>
@@ -358,7 +810,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Impacts City of Dunedin's Email, Permit Payments, Utility Billing, and Inspection Scheduling<a href="https://wusfnews.wusf.usf.edu/politics-issues/2022-10-05/cybersecurity-incident-dunedin-network-environment?&web_view=true"> Full Text</a>
@@ -374,7 +826,7 @@ USF
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 07, 2022
+October 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Ransomware Abuses Vulnerable Windows Driver to Disable Security Solutions<a href="https://thehackernews.com/2022/10/blackbyte-ransomware-abuses-vulnerable.html"> Full Text</a>
@@ -390,7 +842,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 2K warns users their info has been stolen following breach of its help desk<a href="https://arstechnica.com/information-technology/2022/10/2k-warns-users-their-info-has-been-stolen-following-breach-of-its-help-desk/?&web_view=true"> Full Text</a>
@@ -406,7 +858,7 @@ ARS Technica
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Groups Target U.S. Government Agencies with CovalentStealer<a href="https://cyware.com/news/apt-groups-target-us-government-agencies-with-covalentstealer-606ffbed"> Full Text</a>
@@ -422,7 +874,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2022
+October 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in open source WebPageTest remains unpatched<a href="https://portswigger.net/daily-swig/critical-flaw-in-open-source-webpagetest-remains-unpatched?&web_view=true"> Full Text</a>
