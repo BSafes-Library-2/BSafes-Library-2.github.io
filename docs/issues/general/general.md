@@ -11,6 +11,48 @@ nav_order: 900072
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Internet traffic route protection is broken, study claims<a href="https://www.theregister.com/2022/10/09/internet_traffic_routing_defense/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An internet security mechanism named Resource Public Key Infrastructure (RPKI), intended to safeguard the routing of data traffic, is broken, according to security experts from Germany's ATHENE, the National Research Center for Applied Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Cyber ​​police asks Gurugram residents to be aware of 5G SIM fraud<a href="https://www.hindustantimes.com/cities/gurugram-news/cyber-police-asks-gurugram-residents-to-be-aware-of-5g-sim-fraud-101665338766216.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the launch of 5G services in the city, police on Sunday issued an advisory asking residents to be careful of cyber criminals who might try to con them on the pretext of upgrading their SIM cards.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Board members should make CISOs their strategic partners<a href="https://www.helpnetsecurity.com/2022/10/10/board-cybersecurity-perceptions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Proofpoint report explores boards of directors’ perceptions about their key cybersecurity challenges and risks. 77% of participants agree cybersecurity is a top priority for their board and 76% discuss the topic at least monthly.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 India: Fake Aadhaar, PAN card printing websites use customers’ info for cyber fraud in Uttar Pradesh<a href="https://www.thehindu.com/news/national/other-states/fake-aadhaar-pan-printing-websites-use-customers-info-for-cyber-fraud-in-uttar-pradesh/article65988687.ece?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

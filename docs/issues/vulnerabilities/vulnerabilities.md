@@ -11,6 +11,38 @@ nav_order: 900220
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-40684 flaw in Fortinet products is being exploited in the wild<a href="https://securityaffairs.co/wordpress/136905/breaking-news/cve-2022-40684-fortinet-products-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has confirmed that the recently disclosed critical authentication bypass issue (CVE-2022-40684) is being exploited in the wild.
+
+
+
+Last week, Fortinet addressed a critical authentication bypass flaw, tracked as CVE-2022-40684, that impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet says critical auth bypass bug is exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-says-critical-auth-bypass-bug-is-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has confirmed today that a critical authentication bypass security vulnerability patched last week is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Android vulnerabilities could allow arbitrary code execution<a href="https://www.malwarebytes.com/blog/news/2022/10/vulnerabilities-in-google-android-could-allow-for-arbitrary-code-execution?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

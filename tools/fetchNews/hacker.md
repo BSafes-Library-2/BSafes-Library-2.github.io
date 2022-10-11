@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Unpatched RCE Flaw in Zimbra Collaboration Suite<a href="https://thehackernews.com/2022/10/hackers-exploiting-unpatched-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe remote code execution vulnerability in Zimbra's enterprise collaboration software and email platform is being actively exploited, with no patch currently available to remediate the issue.  The shortcoming, assigned&nbsp; CVE-2022-41352 , carries a critical-severity rating of CVSS 9.8, providing a pathway for attackers to upload arbitrary files and carry out malicious actions on affected installations.  "The vulnerability is due to the method ( cpio ) in which Zimbra's antivirus engine ( Amavis ) scans inbound emails," cybersecurity firm Rapid7&nbsp; said &nbsp;in an analysis published this week.   The issue is said to have been abused since early September 2022, according to&nbsp; details &nbsp;shared on Zimbra forums. While a fix is yet to be released, the software services company is urging users to install the "pax" utility and restart the Zimbra services.  "If the&nbsp; pax package &nbsp;is not installed, Amavis will fall-back to using cpio, unfortunately the fall-back is i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

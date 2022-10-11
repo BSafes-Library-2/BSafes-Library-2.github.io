@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The head of the Federal Cyber Security Authority (BSI) faces dismissal<a href="https://securityaffairs.co/wordpress/136883/intelligence/bsi-faces-dismissal-due-russia-contacts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German Interior Minister wants to dismiss the head of the Federal Cyber Security Authority (BSI), Arne Schoenbohm, due to possible contacts with Russian security services.
+
+
+
+German Interior Minister Nancy Faeser wants to dismiss the head of the Federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

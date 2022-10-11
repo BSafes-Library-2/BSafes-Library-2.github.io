@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers behind IcedID malware attacks diversify delivery tactics<a href="https://www.bleepingcomputer.com/news/security/hackers-behind-icedid-malware-attacks-diversify-delivery-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind IcedID malware phishing campaigns are utilizing a wide variety of distribution methods, likely to determine what works best against different targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group KillNet targets US airports<a href="https://securityaffairs.co/wordpress/136894/hacktivism/killnet-targets-us-airports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pro-Russia hacktivist group 'KillNet' is behind massive DDoS attacks that hit websites of several major airports in the US.
+
+
+
+The pro-Russia hacktivist group 'KillNet' is claiming responsibility for massive distributed denial-of-service (DDoS) attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

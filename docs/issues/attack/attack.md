@@ -11,6 +11,34 @@ nav_order: 900015
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Report Uncovers Emotet's Delivery and Evasion Techniques Used in Recent Attacks<a href="https://thehackernews.com/2022/10/new-report-uncovers-emotets-delivery.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the notorious Emotet malware are continually shifting their tactics and command-and-control (C2) infrastructure to escape detection, according to new research from VMware.  Emotet &nbsp;is the work of a threat actor tracked as Mummy Spider (aka TA542), emerging in June 2014 as a banking trojan before morphing into an all-purpose loader in 2016 that's capable of delivering second-stage payloads such as ransomware.  While the botnet's infrastructure was&nbsp; taken down &nbsp;as part of a coordinated law enforcement operation in January 2021, Emotet bounced back in November 2021 through another malware known as&nbsp; TrickBot .  Emotet's resurrection, orchestrated by the now-defunct Conti team, has since paved the way for Cobalt Strike infections and, more recently, ransomware attacks involving&nbsp; Quantum and BlackCat .   "The ongoing adaptation of Emotet's execution chain is one reason the malware has been successful for so long," researchers from VMwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Firm Costa Group Suffers Phishing Attack<a href="https://www.bankinfosecurity.com/australian-firm-costa-group-suffers-phishing-attack-a-20231?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian fruit and vegetable supplier Costa Group says it was subjected to a malicious and sophisticated phishing attack in August that resulted in unauthorized access to its servers.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Harvard Business Publishing licensee hit by ransomware<a href="https://securityaffairs.co/wordpress/136860/cyber-crime/harvard-business-publishing-licensee-hit-by-ransomware.html"> Full Text</a>
 </p>
 <details>
