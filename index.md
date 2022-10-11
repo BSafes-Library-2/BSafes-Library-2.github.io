@@ -34,6 +34,306 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caffeine service lets anyone launch Microsoft 365 phishing attacks<a href="https://www.bleepingcomputer.com/news/security/caffeine-service-lets-anyone-launch-microsoft-365-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing-as-a-service (PhaaS) platform named 'Caffeine' makes it easy for threat actors to launch attacks, featuring an open registration process allowing anyone to jump in and start their own phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet traffic route protection is broken, study claims<a href="https://www.theregister.com/2022/10/09/internet_traffic_routing_defense/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An internet security mechanism named Resource Public Key Infrastructure (RPKI), intended to safeguard the routing of data traffic, is broken, according to security experts from Germany's ATHENE, the National Research Center for Applied Cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Malicious Tools Used by Cyberespionage Group Earth Aughisky<a href="https://thehackernews.com/2022/10/researchers-detail-malicious-tools-used.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new piece of research has detailed the increasingly sophisticated nature of the malware toolset employed by an advanced persistent threat (APT) group named Earth Aughisky .  "Over the last decade, the group has continued to make adjustments in the tools and malware deployments on specific targets located in Taiwan and, more recently, Japan," Trend Micro  disclosed  in a technical profile last week.  Earth Aughisky, also known as  Taidoor , is a cyber espionage group that's known for its ability to abuse legitimate accounts, software, applications, and other weaknesses in the network design and infrastructure for its own ends.  While the Chinese threat actor has been known to primarily target organizations in Taiwan, victimology patterns observed towards late 2017 indicate an expansion to Japan.   The most commonly targeted industry verticals include government, telcom, manufacturing, heavy, technology, transportation, and healthcare.  Attack chains mounted by the group
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-40684 flaw in Fortinet products is being exploited in the wild<a href="https://securityaffairs.co/wordpress/136905/breaking-news/cve-2022-40684-fortinet-products-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has confirmed that the recently disclosed critical authentication bypass issue (CVE-2022-40684) is being exploited in the wild.
+
+
+
+Last week, Fortinet addressed a critical authentication bypass flaw, tracked as CVE-2022-40684, that impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers behind IcedID malware attacks diversify delivery tactics<a href="https://www.bleepingcomputer.com/news/security/hackers-behind-icedid-malware-attacks-diversify-delivery-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind IcedID malware phishing campaigns are utilizing a wide variety of distribution methods, likely to determine what works best against different targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Egypt Leaks (EG) Group Spills Financial Information from Egyptian Banks<a href="https://cyware.com/news/egypt-leaks-eg-group-spills-financial-information-from-egyptian-banks-25279aec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New cybercriminal group Egypt Leaks has been targeting Egyptian financial institutions and leaking huge volumes of compromised payment data from major Egyptian banks on the dark web. The activity was first spotted in a Telegram channel created to leak Excel files carrying details of 12,229 cre ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Uncovers Emotet's Delivery and Evasion Techniques Used in Recent Attacks<a href="https://thehackernews.com/2022/10/new-report-uncovers-emotets-delivery.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the notorious Emotet malware are continually shifting their tactics and command-and-control (C2) infrastructure to escape detection, according to new research from VMware.  Emotet  is the work of a threat actor tracked as Mummy Spider (aka TA542), emerging in June 2014 as a banking trojan before morphing into an all-purpose loader in 2016 that's capable of delivering second-stage payloads such as ransomware.  While the botnet's infrastructure was  taken down  as part of a coordinated law enforcement operation in January 2021, Emotet bounced back in November 2021 through another malware known as  TrickBot .  Emotet's resurrection, orchestrated by the now-defunct Conti team, has since paved the way for Cobalt Strike infections and, more recently, ransomware attacks involving  Quantum and BlackCat .   "The ongoing adaptation of Emotet's execution chain is one reason the malware has been successful for so long," researchers from VMwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group KillNet targets US airports<a href="https://securityaffairs.co/wordpress/136894/hacktivism/killnet-targets-us-airports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pro-Russia hacktivist group 'KillNet' is behind massive DDoS attacks that hit websites of several major airports in the US.
+
+
+
+The pro-Russia hacktivist group 'KillNet' is claiming responsibility for massive distributed denial-of-service (DDoS) attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota discloses data leak after access key exposed on GitHub<a href="https://www.bleepingcomputer.com/news/security/toyota-discloses-data-leak-after-access-key-exposed-on-github/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Motor Corporation is warning that customers' personal information may have been exposed after an access key was publicly available on GitHub for almost five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs order to implement E.U.-U.S. data privacy framework<a href="https://www.nbcnews.com/tech/security/biden-signs-order-implement-eu-us-data-privacy-framework-rcna51241?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“U.S. and EU companies large and small across all sectors of the economy rely upon cross-border data flows to participate in the digital economy and expand economic opportunities,” the administration said in a press statement.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Confirms Leak of Alder Lake BIOS Source Code<a href="https://thehackernews.com/2022/10/intel-confirms-leak-of-alder-lake-bios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker Intel has confirmed that proprietary source code related to its Alder Lake CPUs has been leaked, following its release by an unknown third-party on 4chan and GitHub last week.  The published content contains Unified Extensible Firmware Interface ( UEFI ) code for  Alder Lake , the company's 12th generation processors that was originally launched in November 2021.  In a statement shared with Tom's Hardware, Intel  said  the leak doesn't expose "any new security vulnerabilities as we do not rely on obfuscation of information as a security measure."   It's also encouraging the broader security research community to report any potential issues through its  bug bounty program , adding it's reaching out to customers to notify them of the matter.  Besides the UEFI code, the leaked data dump includes a plethora of files and tools, some of which appear to come from firmware vendor Insyde Software.   Exact details surrounding the nature of the hack, inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The head of the Federal Cyber Security Authority (BSI) faces dismissal<a href="https://securityaffairs.co/wordpress/136883/intelligence/bsi-faces-dismissal-due-russia-contacts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German Interior Minister wants to dismiss the head of the Federal Cyber Security Authority (BSI), Arne Schoenbohm, due to possible contacts with Russian security services.
+
+
+
+German Interior Minister Nancy Faeser wants to dismiss the head of the Federal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet says critical auth bypass bug is exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-says-critical-auth-bypass-bug-is-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has confirmed today that a critical authentication bypass security vulnerability patched last week is being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Firm Costa Group Suffers Phishing Attack<a href="https://www.bankinfosecurity.com/australian-firm-costa-group-suffers-phishing-attack-a-20231?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian fruit and vegetable supplier Costa Group says it was subjected to a malicious and sophisticated phishing attack in August that resulted in unauthorized access to its servers.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $100 Million Cryptocurrency from Binance Bridge<a href="https://thehackernews.com/2022/10/hackers-steal-100-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BNB Chain, a blockchain linked to the Binance cryptocurrency exchange, disclosed an exploit on a cross-chain bridge that drained around $100 million in digital assets.  "There was an exploit affecting the native cross-chain bridge between BNB Beacon Chain (BEP2) and BNB Smart Chain (BEP20 or BSC), known as 'BSC Token Hub,'" it  said  last week. "The exploit was through a sophisticated forging of the low level proof into one common library."  According to Binance CEO Changpeng Zhao, the exploit on the cross-chain bridge " resulted in extra BNB ," prompting a  temporary suspension  of the Binance Smart Chain (BSC).   "BNB, which stands for 'Build and Build' (formerly called Binance Coin), is the blockchain gas token that 'fuels' transactions on BNB Chain," Binance  noted  earlier this February.  No user funds are said to have been impacted, since the vulnerability in the BSC Token Hub bridge enabled the unknown threat actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US airports' sites taken down in DDoS attacks by pro-Russian hackers<a href="https://www.bleepingcomputer.com/news/security/us-airports-sites-taken-down-in-ddos-attacks-by-pro-russian-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pro-Russian hacktivist group 'KillNet' is claiming large-scale distributed denial-of-service (DDoS) attacks against the websites of several major airports in the U.S., making them unaccessible.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Cyber ​​police asks Gurugram residents to be aware of 5G SIM fraud<a href="https://www.hindustantimes.com/cities/gurugram-news/cyber-police-asks-gurugram-residents-to-be-aware-of-5g-sim-fraud-101665338766216.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the launch of 5G services in the city, police on Sunday issued an advisory asking residents to be careful of cyber criminals who might try to con them on the pretext of upgrading their SIM cards.
+</details>
+<div style="text-align: right" markdown="1">
+Hindustan Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Board members should make CISOs their strategic partners<a href="https://www.helpnetsecurity.com/2022/10/10/board-cybersecurity-perceptions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Proofpoint report explores boards of directors’ perceptions about their key cybersecurity challenges and risks. 77% of participants agree cybersecurity is a top priority for their board and 76% discuss the topic at least monthly.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
