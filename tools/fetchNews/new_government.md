@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn Healthcare Over Cobalt Strike Infections<a href="https://www.bankinfosecurity.com/feds-warn-healthcare-over-cobalt-strike-infections-a-20242?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt Strike, whose legitimate user base consists of white hat hackers, is being abused "with increasing frequency" against many industries, including the healthcare and public health sector, by ransomware gangs and various APT groups, HC3 writes.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Spy Chief to Warn of 'Huge' China Tech Threat<a href="https://www.securityweek.com/uk-spy-chief-warn-huge-china-tech-threat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Britain's GCHQ spy agency chief will warn Western countries Tuesday of the "huge threat" from China seeking to exploit its tech dominance to control its own citizens and gain influence abroad.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

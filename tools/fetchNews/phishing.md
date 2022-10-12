@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caffeine service lets anyone launch Microsoft 365 phishing attacks<a href="https://www.bleepingcomputer.com/news/security/caffeine-service-lets-anyone-launch-microsoft-365-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing-as-a-service (PhaaS) platform named 'Caffeine' makes it easy for threat actors to launch attacks, featuring an open registration process allowing anyone to jump in and start their own phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

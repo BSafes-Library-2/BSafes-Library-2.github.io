@@ -8,6 +8,66 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarCall Callback Phishing Attacks Constantly Evolving Its Social Engineering Tactics<a href="https://thehackernews.com/2022/10/bazarcall-callback-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the BazaCall call back phishing method have continued to evolve with updated social engineering tactics to deploy malware on targeted networks.  The scheme eventually acts as an entry point to conduct financial fraud or the delivery of next-stage payloads such as ransomware, cybersecurity company Trellix&nbsp; said &nbsp;in a report published last week.  Primary targets of the latest attack waves include the U.S., Canada, China, India, Japan, Taiwan, the Philippines, and the U.K.   BazaCall , also called BazarCall, first gained popularity in 2020 for its novel approach of distributing the BazarBackdoor (aka BazarLoader) malware by manipulating potential victims into calling a phone number specified in decoy email messages.  These email baits aim to create a false sense of urgency, informing the recipients about renewal of a trial subscription for, say, an antivirus service. The messages also urge them to contact their support desk to cancel the plan, or risk getting automat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caffeine, a new Phishing-as-a-Service toolkit available in the underground<a href="https://securityaffairs.co/wordpress/136953/cyber-crime/caffeine-phishing-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new phishing-as-a-service (PhaaS) toolkit, called&nbsp;Caffeine, which is being used by cybercriminals.
+
+
+
+In March 2022, Mandiant researchers discovered threat actors using a shared Phishing-as-a-Service (PhaaS) platform called Caffeine....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of New Phishing-as-a-Service Being Used by Cyber Criminals<a href="https://thehackernews.com/2022/10/researchers-warn-of-new-phishing-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals are using a previously undocumented phishing-as-a-service (PhaaS) toolkit called&nbsp; Caffeine &nbsp;to effectively scale up their attacks and distribute nefarious payloads.  "This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing campaigns," Mandiant&nbsp; said &nbsp;in a new report.  Some of the core features offered by the platform comprise the ability to craft customized phishing kits, manage redirect pages, dynamically generate URLs that host the payloads, and track the success of the campaigns.   The development comes a little over a month after Resecurity took the wraps off another PhaaS service dubbed&nbsp; EvilProxy &nbsp;that's offered for sale on dark web criminal forums.  But unlike EvilProxy, whose operators are known to vet prospective customers before activating the subscriptions, Caffeine is notable for running an o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caffeine Phishing-as-a-Service Platform Offers Open Registration and Customer Service Support for Attackers<a href="https://www.mandiant.com/resources/blog/caffeine-phishing-service-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Mandiant
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Windows versions can now block admin brute-force attacks<a href="https://www.bleepingcomputer.com/news/microsoft/all-windows-versions-can-now-block-admin-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that IT admins can now configure any Windows system still receiving security updates to automatically block brute force attacks targeting local administrator accounts via a group policy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

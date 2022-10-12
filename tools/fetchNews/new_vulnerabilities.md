@@ -8,6 +8,118 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android leaks some traffic even when 'Always-on VPN' is enabled<a href="https://www.bleepingcomputer.com/news/google/android-leaks-some-traffic-even-when-always-on-vpn-is-enabled/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mullvad VPN has discovered that Android leaks traffic every time the device connects to a WiFi network, even if the "Block connections without VPN," or "Always-on VPN,"&nbsp;features is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden DNS resolver insecurity creates widespread website hijack risk<a href="https://portswigger.net/daily-swig/hidden-dns-resolver-insecurity-creates-widespread-website-hijack-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Closed DNS resolvers are used by numerous hosting providers and other internet service providers (ISPs) to provision services to their clients. As the name suggests, closed DNS resolvers reside on closed networks or intranets.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Critical RCE Flaw Reported in Popular vm2 JavaScript Sandbox<a href="https://thehackernews.com/2022/10/researchers-detail-critical-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw in the vm2 JavaScript sandbox module could be abused by a remote adversary to break out of security barriers and perform arbitrary operations on the underlying machine.  "A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," GitHub&nbsp; said &nbsp;in an advisory published on September 28, 2022.   The issue, tracked as CVE-2022-36067 and codenamed Sandbreak, carries a maximum severity rating of 10 on the CVSS vulnerability scoring system. It has been addressed in&nbsp; version 3.9.11 &nbsp;released on August 28, 2022.  vm2 is a&nbsp; popular Node library &nbsp;that's used to run untrusted code with allowlisted built-in modules. It's also one of the most widely downloaded software, accounting for nearly 3.5 million downloads per week.   The&nbsp; shortcoming &nbsp;is rooted in the error mechanism in Node.js to escape the sandbox, according to application security firm Oxeye, which&nbsp; discovered the flaw .  This mean
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware vCenter Server bug disclosed last year still not patched<a href="https://www.bleepingcomputer.com/news/security/vmware-vcenter-server-bug-disclosed-last-year-still-not-patched/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware informed customers today that vCenter Server 8.0 (the latest version) is still waiting for a patch to address a high-severity privilege escalation vulnerability disclosed in November 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft October 2022 Patch Tuesday fixes zero-day used in attacks, 84 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2022-patch-tuesday-fixes-zero-day-used-in-attacks-84-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's October 2022 Patch Tuesday, and with it comes fixes for an actively exploited Windows vulnerability and a total of 84&nbsp;flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Warns of Active Exploitation of Newly Discovered Critical Auth Bypass Bug<a href="https://thehackernews.com/2022/10/fortinet-warns-of-active-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet on Monday revealed that the newly patched critical security vulnerability impacting its firewall and proxy products is being actively exploited in the wild.  Tracked as&nbsp; CVE-2022-40684 &nbsp;(CVSS score: 9.6), the flaw relates to an authentication bypass in FortiOS, FortiProxy, and FortiSwitchManager that could allow a remote attacker to perform unauthorized operations on the administrative interface via specially crafted HTTP(S) requests.  "Fortinet is aware of an instance where this vulnerability was exploited, and recommends immediately validating your systems against the following indicator of compromise in the device's logs: user='Local_Process_Access,'" the company&nbsp; noted &nbsp;in an advisory.   The list of impacted devices is below -   FortiOS version 7.2.0 through 7.2.1  FortiOS version 7.0.0 through 7.0.6  FortiProxy version 7.2.0  FortiProxy version 7.0.0 through 7.0.6  FortiSwitchManager version 7.2.0, and  FortiSwitchManager version 7.0.0   Updates hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VM2 flaw lets attackers run code outside the sandbox<a href="https://www.bleepingcomputer.com/news/security/critical-vm2-flaw-lets-attackers-run-code-outside-the-sandbox/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are warning of a critical remote code execution flaw in 'vm2', a JavaScript sandbox library downloaded over 16 million times per month via the NPM package repository.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Thermal Attack' can Read User Passwords From the Heat Signatures Left While Typing<a href="https://www.zdnet.com/article/this-thermal-attack-can-read-your-password-from-the-heat-your-fingertips-leave-behind/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computer security researchers say they've developed an AI-driven system that can guess computer and smartphone passwords in seconds by examining the heat signatures that fingertips leave on keyboards and screens when entering data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

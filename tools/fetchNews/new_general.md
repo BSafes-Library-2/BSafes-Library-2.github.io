@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Latest Funding News and What it Means for Cyber Security in 2023<a href="https://thehackernews.com/2022/10/the-latest-funding-news-and-what-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has recently announced a $1 billion cyber security grant program that is designed to help state and local governments improve their cyber defenses, especially about protecting critical infrastructure. The&nbsp; recent executive order &nbsp;stems from the $1.2 trillion infrastructure bill that was signed almost a year ago. That bill allocated $1 billion for&nbsp; protecting critical infrastructure against cyber-attack &nbsp;in the wake of a series of high-profile ransomware attacks such as the one that brought down the Colonial Pipeline.&nbsp;  Those government agencies who wish to take advantage of these funding opportunities must submit a grant proposal by mid-November. Proposals are only being accepted for the sixty days following the program's announcement.  Grant recipients can use the funding to invest in new cybersecurity initiatives or to make improvements to existing defenses. Awardees are guaranteed to receive a minimum of $2 million. However, the program's requirements stipul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

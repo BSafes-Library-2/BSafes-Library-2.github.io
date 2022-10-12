@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2022 - HHS, HC3 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abuse of Legitimate Security Tools and Health Sector Cybersecurity <a href="https://www.hhs.gov/sites/default/files/abuse-of-legitimate-security-tools-and-the-hph.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The same tools used to operate, maintain and secure healthcare systems and networks can also be turned against their own infrastructure. Cobalt Strike, PowerShell, Mimikatz, Sysinternals, Anydesk, Brute Ratel, References
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 6, 2022 - NSA, FBI, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

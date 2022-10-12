@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepFakes are the Cybercriminal Economy’s Latest Business Line<a href="https://securityaffairs.co/wordpress/136927/cyber-crime/deepfakes-services-cybercrime.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduced by Canadian researchers to the public in 2014, Generative Adversarial Networks (GANs), typically imitate people’s faces, speech, and unique facial gestures, they have become known to online communities as DeepFakes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

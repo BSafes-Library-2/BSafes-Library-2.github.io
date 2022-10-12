@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden signs order to implement E.U.-U.S. data privacy framework<a href="https://www.nbcnews.com/tech/security/biden-signs-order-implement-eu-us-data-privacy-framework-rcna51241?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“U.S. and EU companies large and small across all sectors of the economy rely upon cross-border data flows to participate in the digital economy and expand economic opportunities,” the administration said in a press statement.
+</details>
+<div style="text-align: right" markdown="1">
+NBC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

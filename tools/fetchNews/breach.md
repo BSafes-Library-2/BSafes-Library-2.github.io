@@ -11,6 +11,34 @@ nav_order: 900029
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Toyota discloses data leak after access key exposed on GitHub<a href="https://www.bleepingcomputer.com/news/security/toyota-discloses-data-leak-after-access-key-exposed-on-github/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Motor Corporation is warning that customers' personal information may have been exposed after an access key was publicly available on GitHub for almost five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel Confirms Leak of Alder Lake BIOS Source Code<a href="https://thehackernews.com/2022/10/intel-confirms-leak-of-alder-lake-bios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker Intel has confirmed that proprietary source code related to its Alder Lake CPUs has been leaked, following its release by an unknown third-party on 4chan and GitHub last week.  The published content contains Unified Extensible Firmware Interface ( UEFI ) code for&nbsp; Alder Lake , the company's 12th generation processors that was originally launched in November 2021.  In a statement shared with Tom's Hardware, Intel&nbsp; said &nbsp;the leak doesn't expose "any new security vulnerabilities as we do not rely on obfuscation of information as a security measure."   It's also encouraging the broader security research community to report any potential issues through its&nbsp; bug bounty program , adding it's reaching out to customers to notify them of the matter.  Besides the UEFI code, the leaked data dump includes a plethora of files and tools, some of which appear to come from firmware vendor Insyde Software.   Exact details surrounding the nature of the hack, inclu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dark web carding site BidenCash gives 1.2M payment cards for free<a href="https://securityaffairs.co/wordpress/136872/cyber-crime/bidencash-carding-site-leak.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts analyzed the evolution of the Emotet supply chain<a href="https://securityaffairs.co/wordpress/136935/malware/emotet-evolution-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Emotet bot are continually improving their tactics, techniques, and procedures to avoid detection.
+
+
+
+VMware researchers have analyzed the supply chain behind the Emotet malware reporting that its operators are continually shifting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+POLONIUM Threat Group Targets Israeli Organizations with 'Creepy' Malware<a href="https://www.welivesecurity.com/2022/10/11/polonium-targets-israel-creepy-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers revealed their findings about POLONIUM, an advanced persistent threat (APT) group about which little information is publicly available and its initial compromise vector is unknown.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

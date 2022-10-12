@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota discloses accidental leak of some customers’ personal information<a href="https://securityaffairs.co/wordpress/136915/data-breach/toyota-motor-corporation-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Motor Corporation discloses data leak, customers' personal information may have been exposed after an access key was exposed on GitHub.
+
+
+
+Toyota Motor Corporation warns customers that their personal information may have been accidentally exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

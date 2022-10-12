@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Egypt Leaks (EG) Group Spills Financial Information from Egyptian Banks<a href="https://cyware.com/news/egypt-leaks-eg-group-spills-financial-information-from-egyptian-banks-25279aec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New cybercriminal group Egypt Leaks has been targeting Egyptian financial institutions and leaking huge volumes of compromised payment data from major Egyptian banks on the dark web.&nbsp;The activity was first spotted in a Telegram channel created to leak Excel files carrying details of 12,229 cre ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $100 Million Cryptocurrency from Binance Bridge<a href="https://thehackernews.com/2022/10/hackers-steal-100-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BNB Chain, a blockchain linked to the Binance cryptocurrency exchange, disclosed an exploit on a cross-chain bridge that drained around $100 million in digital assets.  "There was an exploit affecting the native cross-chain bridge between BNB Beacon Chain (BEP2) and BNB Smart Chain (BEP20 or BSC), known as 'BSC Token Hub,'" it&nbsp; said &nbsp;last week. "The exploit was through a sophisticated forging of the low level proof into one common library."  According to Binance CEO Changpeng Zhao, the exploit on the cross-chain bridge " resulted in extra BNB ," prompting a&nbsp; temporary suspension &nbsp;of the Binance Smart Chain (BSC).   "BNB, which stands for 'Build and Build' (formerly called Binance Coin), is the blockchain gas token that 'fuels' transactions on BNB Chain," Binance&nbsp; noted &nbsp;earlier this February.  No user funds are said to have been impacted, since the vulnerability in the BSC Token Hub bridge enabled the unknown threat actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
