@@ -34,6 +34,422 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All Windows versions can now block admin brute-force attacks<a href="https://www.bleepingcomputer.com/news/microsoft/all-windows-versions-can-now-block-admin-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that IT admins can now configure any Windows system still receiving security updates to automatically block brute force attacks targeting local administrator accounts via a group policy.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn Healthcare Over Cobalt Strike Infections<a href="https://www.bankinfosecurity.com/feds-warn-healthcare-over-cobalt-strike-infections-a-20242?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cobalt Strike, whose legitimate user base consists of white hat hackers, is being abused "with increasing frequency" against many industries, including the healthcare and public health sector, by ransomware gangs and various APT groups, HC3 writes.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazarCall Callback Phishing Attacks Constantly Evolving Its Social Engineering Tactics<a href="https://thehackernews.com/2022/10/bazarcall-callback-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the BazaCall call back phishing method have continued to evolve with updated social engineering tactics to deploy malware on targeted networks.  The scheme eventually acts as an entry point to conduct financial fraud or the delivery of next-stage payloads such as ransomware, cybersecurity company Trellix  said  in a report published last week.  Primary targets of the latest attack waves include the U.S., Canada, China, India, Japan, Taiwan, the Philippines, and the U.K.   BazaCall , also called BazarCall, first gained popularity in 2020 for its novel approach of distributing the BazarBackdoor (aka BazarLoader) malware by manipulating potential victims into calling a phone number specified in decoy email messages.  These email baits aim to create a false sense of urgency, informing the recipients about renewal of a trial subscription for, say, an antivirus service. The messages also urge them to contact their support desk to cancel the plan, or risk getting automat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caffeine, a new Phishing-as-a-Service toolkit available in the underground<a href="https://securityaffairs.co/wordpress/136953/cyber-crime/caffeine-phishing-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new phishing-as-a-service (PhaaS) toolkit, called Caffeine, which is being used by cybercriminals.
+
+
+
+In March 2022, Mandiant researchers discovered threat actors using a shared Phishing-as-a-Service (PhaaS) platform called Caffeine....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android leaks some traffic even when 'Always-on VPN' is enabled<a href="https://www.bleepingcomputer.com/news/google/android-leaks-some-traffic-even-when-always-on-vpn-is-enabled/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mullvad VPN has discovered that Android leaks traffic every time the device connects to a WiFi network, even if the "Block connections without VPN," or "Always-on VPN," features is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden DNS resolver insecurity creates widespread website hijack risk<a href="https://portswigger.net/daily-swig/hidden-dns-resolver-insecurity-creates-widespread-website-hijack-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Closed DNS resolvers are used by numerous hosting providers and other internet service providers (ISPs) to provision services to their clients. As the name suggests, closed DNS resolvers reside on closed networks or intranets.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Critical RCE Flaw Reported in Popular vm2 JavaScript Sandbox<a href="https://thehackernews.com/2022/10/researchers-detail-critical-rce-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw in the vm2 JavaScript sandbox module could be abused by a remote adversary to break out of security barriers and perform arbitrary operations on the underlying machine.  "A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," GitHub  said  in an advisory published on September 28, 2022.   The issue, tracked as CVE-2022-36067 and codenamed Sandbreak, carries a maximum severity rating of 10 on the CVSS vulnerability scoring system. It has been addressed in  version 3.9.11  released on August 28, 2022.  vm2 is a  popular Node library  that's used to run untrusted code with allowlisted built-in modules. It's also one of the most widely downloaded software, accounting for nearly 3.5 million downloads per week.   The  shortcoming  is rooted in the error mechanism in Node.js to escape the sandbox, according to application security firm Oxeye, which  discovered the flaw .  This mean
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts analyzed the evolution of the Emotet supply chain<a href="https://securityaffairs.co/wordpress/136935/malware/emotet-evolution-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the Emotet bot are continually improving their tactics, techniques, and procedures to avoid detection.
+
+
+
+VMware researchers have analyzed the supply chain behind the Emotet malware reporting that its operators are continually shifting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware vCenter Server bug disclosed last year still not patched<a href="https://www.bleepingcomputer.com/news/security/vmware-vcenter-server-bug-disclosed-last-year-still-not-patched/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware informed customers today that vCenter Server 8.0 (the latest version) is still waiting for a patch to address a high-severity privilege escalation vulnerability disclosed in November 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepFakes are the Cybercriminal Economy’s Latest Business Line<a href="https://securityaffairs.co/wordpress/136927/cyber-crime/deepfakes-services-cybercrime.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduced by Canadian researchers to the public in 2014, Generative Adversarial Networks (GANs), typically imitate people’s faces, speech, and unique facial gestures, they have become known to online communities as DeepFakes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Latest Funding News and What it Means for Cyber Security in 2023<a href="https://thehackernews.com/2022/10/the-latest-funding-news-and-what-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House has recently announced a $1 billion cyber security grant program that is designed to help state and local governments improve their cyber defenses, especially about protecting critical infrastructure. The  recent executive order  stems from the $1.2 trillion infrastructure bill that was signed almost a year ago. That bill allocated $1 billion for  protecting critical infrastructure against cyber-attack  in the wake of a series of high-profile ransomware attacks such as the one that brought down the Colonial Pipeline.   Those government agencies who wish to take advantage of these funding opportunities must submit a grant proposal by mid-November. Proposals are only being accepted for the sixty days following the program's announcement.  Grant recipients can use the funding to invest in new cybersecurity initiatives or to make improvements to existing defenses. Awardees are guaranteed to receive a minimum of $2 million. However, the program's requirements stipul
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepFakes Are The Cybercriminal Economy’s Latest Business Line<a href="https://securityaffairs.co/wordpress/136927/cyber-crime/deepfakes-services-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California-based Resecurity has identified a new spike of underground services enabling bad actors to generate deepfakes. 
+
+
+
+According to cybersecurity experts, this may be used for political propaganda, foreign influence activity, disinformation, scams,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft October 2022 Patch Tuesday fixes zero-day used in attacks, 84 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2022-patch-tuesday-fixes-zero-day-used-in-attacks-84-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today is Microsoft's October 2022 Patch Tuesday, and with it comes fixes for an actively exploited Windows vulnerability and a total of 84 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts analyzed the evolution of the Emotet supply chain<a href="https://securityaffairs.co/wordpress/136935/malware/emotet-evolution-ttps.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware researchers have analyzed the supply chain behind the Emotet malware reporting that its operators are continually shifting their tactics, techniques, and procedures to avoid detection.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of New Phishing-as-a-Service Being Used by Cyber Criminals<a href="https://thehackernews.com/2022/10/researchers-warn-of-new-phishing-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals are using a previously undocumented phishing-as-a-service (PhaaS) toolkit called  Caffeine  to effectively scale up their attacks and distribute nefarious payloads.  "This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing campaigns," Mandiant  said  in a new report.  Some of the core features offered by the platform comprise the ability to craft customized phishing kits, manage redirect pages, dynamically generate URLs that host the payloads, and track the success of the campaigns.   The development comes a little over a month after Resecurity took the wraps off another PhaaS service dubbed  EvilProxy  that's offered for sale on dark web criminal forums.  But unlike EvilProxy, whose operators are known to vet prospective customers before activating the subscriptions, Caffeine is notable for running an o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota discloses accidental leak of some customers’ personal information<a href="https://securityaffairs.co/wordpress/136915/data-breach/toyota-motor-corporation-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Motor Corporation discloses data leak, customers' personal information may have been exposed after an access key was exposed on GitHub.
+
+
+
+Toyota Motor Corporation warns customers that their personal information may have been accidentally exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked to deploy LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating reports of a new zero-day bug abused to hack Exchange servers which were later used to launch Lockbit ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+POLONIUM Threat Group Targets Israeli Organizations with 'Creepy' Malware<a href="https://www.welivesecurity.com/2022/10/11/polonium-targets-israel-creepy-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers revealed their findings about POLONIUM, an advanced persistent threat (APT) group about which little information is publicly available and its initial compromise vector is unknown.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Warns of Active Exploitation of Newly Discovered Critical Auth Bypass Bug<a href="https://thehackernews.com/2022/10/fortinet-warns-of-active-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet on Monday revealed that the newly patched critical security vulnerability impacting its firewall and proxy products is being actively exploited in the wild.  Tracked as  CVE-2022-40684  (CVSS score: 9.6), the flaw relates to an authentication bypass in FortiOS, FortiProxy, and FortiSwitchManager that could allow a remote attacker to perform unauthorized operations on the administrative interface via specially crafted HTTP(S) requests.  "Fortinet is aware of an instance where this vulnerability was exploited, and recommends immediately validating your systems against the following indicator of compromise in the device's logs: user='Local_Process_Access,'" the company  noted  in an advisory.   The list of impacted devices is below -   FortiOS version 7.2.0 through 7.2.1  FortiOS version 7.0.0 through 7.0.6  FortiProxy version 7.2.0  FortiProxy version 7.0.0 through 7.0.6  FortiSwitchManager version 7.2.0, and  FortiSwitchManager version 7.0.0   Updates hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical VM2 flaw lets attackers run code outside the sandbox<a href="https://www.bleepingcomputer.com/news/security/critical-vm2-flaw-lets-attackers-run-code-outside-the-sandbox/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are warning of a critical remote code execution flaw in 'vm2', a JavaScript sandbox library downloaded over 16 million times per month via the NPM package repository.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caffeine Phishing-as-a-Service Platform Offers Open Registration and Customer Service Support for Attackers<a href="https://www.mandiant.com/resources/blog/caffeine-phishing-service-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This platform has an intuitive interface and comes at a relatively low cost while providing a multitude of features and tools to its criminal clients to orchestrate and automate core elements of their phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Mandiant
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group POLONIUM uses ‘Creepy’ malware against Israel<a href="https://www.bleepingcomputer.com/news/security/hacking-group-polonium-uses-creepy-malware-against-israel/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers reveal previously unknown malware used by the cyber espionage hacking group 'POLONIUM,' threat actors who appear to target Israeli organizations exclusively.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Spy Chief to Warn of 'Huge' China Tech Threat<a href="https://www.securityweek.com/uk-spy-chief-warn-huge-china-tech-threat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Britain's GCHQ spy agency chief will warn Western countries Tuesday of the "huge threat" from China seeking to exploit its tech dominance to control its own citizens and gain influence abroad.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Thermal Attack' can Read User Passwords From the Heat Signatures Left While Typing<a href="https://www.zdnet.com/article/this-thermal-attack-can-read-your-password-from-the-heat-your-fingertips-leave-behind/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computer security researchers say they've developed an AI-driven system that can guess computer and smartphone passwords in seconds by examining the heat signatures that fingertips leave on keyboards and screens when entering data.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Endor Labs Joins Race to Secure Software Supply Chain<a href="https://www.securityweek.com/endor-labs-joins-race-secure-software-supply-chain?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Endor Labs announced the closing of a $25 million seed round to build a dependency lifecycle management platform. Investors betting on Endor Labs include Lightspeed Venture Partners and Dell Technologies Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 10, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
