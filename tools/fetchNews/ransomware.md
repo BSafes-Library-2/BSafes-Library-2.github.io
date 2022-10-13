@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange servers hacked to deploy LockBit ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-lockbit-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is investigating reports of a new zero-day bug abused to hack Exchange servers which were later used to launch Lockbit ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaigns Made Easy, Courtesy Caffeine<a href="https://cyware.com/news/phishing-campaigns-made-easy-courtesy-caffeine-7d511f24"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service, dubbed Caffeine, was found offering an open registration and customer service support for newbies to help the launch their own campaign.&nbsp;It's a bit pricy but what makes Caffeine subscription 3–5 times costlier than its contemporaries is that it offers anti-detectio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Vishing to Trick Victims into Installing Android Banking Malware<a href="https://thehackernews.com/2022/10/hackers-using-vishing-tactics-to-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are resorting to voice phishing (vishing) tactics to dupe victims into installing Android malware on their devices, new research  from ThreatFabric reveals.  The Dutch mobile security company said it identified a network of phishing websites targeting Italian online-banking users that are designed to get hold of their contact details.  Telephone-oriented attack delivery (TOAD), as the social engineering technique is called, involves calling the victims using previously collected information from fraudulent websites.  The caller, who purports to be a support agent for the bank, instructs the individual, on the other hand, to install a security app and grant it extensive permissions, when, in reality, it's malicious software intended to gain remote access or conduct financial fraud.   In this case, it leads to the deployment of an Android malware dubbed&nbsp; Copybara , a mobile trojan first detected in November 2021 and is primarily used to perform on-device fraud via o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Forms abused in new COVID-19 phishing wave in the U.S.<a href="https://www.bleepingcomputer.com/news/security/google-forms-abused-in-new-covid-19-phishing-wave-in-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19-themed phishing messages are once again spiking in the U.S. following a prolonged summer hiatus that appears to be over.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

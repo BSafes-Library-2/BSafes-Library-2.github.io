@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft adds new RSS feed for security update notifications<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-new-rss-feed-for-security-update-notifications/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaigns Made Easy, Courtesy Caffeine<a href="https://cyware.com/news/phishing-campaigns-made-easy-courtesy-caffeine-7d511f24"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Vishing to Trick Victims into Installing Android Banking Malware<a href="https://thehackernews.com/2022/10/hackers-using-vishing-tactics-to-trick.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aruba fixes critical vulnerabilities in EdgeConnect Enterprise Orchestrator<a href="https://securityaffairs.co/wordpress/137000/security/aruba-edgeconnect-flaws.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unofficial WhatsApp Android app caught stealing users’ accounts<a href="https://www.bleepingcomputer.com/news/security/unofficial-whatsapp-android-app-caught-stealing-users-accounts/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PseudoManuscrypt Botnet Evolves to Infect More Systems<a href="https://cyware.com/news/pseudomanuscrypt-botnet-evolves-to-infect-more-systems-e5f272e7"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scribe Platform: End-to-end Software Supply Chain Security<a href="https://thehackernews.com/2022/10/scribe-platform-end-to-end-software.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for October 2022 doesn’t fix Exchange Server flaws<a href="https://securityaffairs.co/wordpress/136987/security/microsoft-patch-tuesday-oct-2022.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender adds command and control traffic detection<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-command-and-control-traffic-detection/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Shaped the DDoS Landscape so Far this Year?<a href="https://cyware.com/news/what-shaped-the-ddos-landscape-so-far-this-year-841048f2"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Rolling Out Passkey Passwordless Login Support to Android and Chrome<a href="https://thehackernews.com/2022/10/google-rolling-out-passkey-passwordless.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware has yet to fix CVE-2021-22048 flaw in vCenter Server disclosed one year ago<a href="https://securityaffairs.co/wordpress/136979/hacking/vmware-unpatched-cve-2021-22048.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aruba fixes critical RCE and auth bypass flaws in EdgeConnect<a href="https://www.bleepingcomputer.com/news/security/aruba-fixes-critical-rce-and-auth-bypass-flaws-in-edgeconnect/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vista Equity Partners acquires KnowBe4 for $4.6 billion in cash<a href="https://www.helpnetsecurity.com/2022/10/12/vista-equity-partners-knowbe4/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 64,000 Additional Patients Impacted by Omnicell Data Breach - What is Your Data Breach Action Plan?<a href="https://thehackernews.com/2022/10/64000-additional-patients-impacted-by.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit affiliates compromise Microsoft Exchange servers to deploy ransomware<a href="https://securityaffairs.co/wordpress/136968/cyber-crime/microsoft-exchange-lockbit-ransomware.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New npm timing attack could lead to supply chain attacks<a href="https://www.bleepingcomputer.com/news/security/new-npm-timing-attack-could-lead-to-supply-chain-attacks/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber training platform pulls in another $66M after post-pandemic remote working increases cyber threats<a href="https://techcrunch.com/2022/10/12/cyber-training-platform-pulls-in-another-66m-after-post-pandemic-remote-working-increases-cyber-threats/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Bug in Siemens SIMATIC PLCs Could Let Attackers Steal Cryptographic Keys<a href="https://thehackernews.com/2022/10/critical-bug-in-siemens-simatic-plcs.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google simplifies sign-ins with Chrome, Android passkey support<a href="https://www.bleepingcomputer.com/news/google/google-simplifies-sign-ins-with-chrome-android-passkey-support/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 106 Update Patches Several High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-106-update-patches-several-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday Fixes New Windows Zero-Day; No Patch for Exchange Server Bugs<a href="https://thehackernews.com/2022/10/microsoft-patch-tuesday-fixes-new.html"> Full Text</a>
@@ -402,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Forms abused in new COVID-19 phishing wave in the U.S.<a href="https://www.bleepingcomputer.com/news/security/google-forms-abused-in-new-covid-19-phishing-wave-in-the-us/"> Full Text</a>
@@ -418,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Election workers in battleground states faced onslaught of malicious emails, researchers say<a href="https://www.cyberscoop.com/election-phishing-emails-arizona-pennsylvania/?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 12, 2022
+October 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Gang Infiltrates Networks via QAKBOT, Brute Ratel, and Cobalt Strike<a href="https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html?&web_view=true"> Full Text</a>

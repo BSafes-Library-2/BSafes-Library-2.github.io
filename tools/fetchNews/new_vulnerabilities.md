@@ -8,6 +8,116 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aruba fixes critical vulnerabilities in EdgeConnect Enterprise Orchestrator<a href="https://securityaffairs.co/wordpress/137000/security/aruba-edgeconnect-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aruba addressed multiple critical severity vulnerabilities in the EdgeConnect Enterprise Orchestrator.
+
+
+
+Aruba addressed multiple critical severity vulnerabilities in the EdgeConnect Enterprise Orchestrator that can be exploited by remote attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for October 2022 doesn’t fix Exchange Server flaws<a href="https://securityaffairs.co/wordpress/136987/security/microsoft-patch-tuesday-oct-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for October 2022 addressed a total of&nbsp;85 security vulnerabilities, including an actively exploited zero-day.
+
+
+
+Microsoft Patch Tuesday security updates for October 2022 addressed 85 new vulnerabilities in multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware has yet to fix CVE-2021-22048 flaw in vCenter Server disclosed one year ago<a href="https://securityaffairs.co/wordpress/136979/hacking/vmware-unpatched-cve-2021-22048.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has yet to address the CVE-2021-22048 privilege escalation vulnerability in vCenter Server disclosed in November 2021.
+
+
+
+VMware warns customers that it has yet to address a high-severity privilege escalation vulnerability, tracked as CVE-2021-22048,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aruba fixes critical RCE and auth bypass flaws in EdgeConnect<a href="https://www.bleepingcomputer.com/news/security/aruba-fixes-critical-rce-and-auth-bypass-flaws-in-edgeconnect/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aruba has released security updates for the EdgeConnect Enterprise Orchestrator, addressing multiple critical severity vulnerabilities that enable remote attackers to compromise the host.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Siemens SIMATIC PLCs Could Let Attackers Steal Cryptographic Keys<a href="https://thehackernews.com/2022/10/critical-bug-in-siemens-simatic-plcs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Siemens Simatic programmable logic controller (PLC) can be exploited to retrieve the hard-coded, global private cryptographic keys and seize control of the devices.  "An attacker can use these keys to perform multiple advanced attacks against Siemens SIMATIC devices and the related&nbsp; TIA Portal , while bypassing all four of its&nbsp; access level protections ," industrial cybersecurity company Claroty&nbsp; said &nbsp;in a new report.  "A malicious actor could use this secret information to compromise the entire SIMATIC S7-1200/1500 product line in an irreparable way."   The critical vulnerability, assigned the identifier&nbsp; CVE-2022-38465 , is rated 9.3 on the CVSS scoring scale and has been addressed by Siemens as part of security updates issued on October 11, 2022.   The list of impacted products and versions is below -   SIMATIC Drive Controller family (all versions before 2.9.2)  SIMATIC ET 200SP Open Controller CPU 1515SP PC2, including SIPLUS variants (all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 106 Update Patches Several High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-106-update-patches-several-high-severity-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the bug bounty amounts that Google has paid out, the most severe of the newly addressed flaws is CVE-2022-3445, a use-after-free vulnerability in Skia, the open-source 2D graphics library that serves as Chrome’s graphics engine.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday Fixes New Windows Zero-Day; No Patch for Exchange Server Bugs<a href="https://thehackernews.com/2022/10/microsoft-patch-tuesday-fixes-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Patch Tuesday update for the month of October has addressed a total of&nbsp; 85 security vulnerabilities , including fixes for an actively exploited zero-day flaw in the wild.  Of the 85 bugs, 15 are rated Critical, 69 are rated Important, and one is rated Moderate in severity. The update, however, does not include mitigations for the&nbsp; actively exploited &nbsp; ProxyNotShell &nbsp;flaws in&nbsp; Exchange Server .  The&nbsp; patches &nbsp;come alongside&nbsp; updates to resolve 12 other flaws &nbsp;in the Chromium-based Edge browser that have been released since the beginning of the month.   Topping the list of this month's patches is&nbsp; CVE-2022-41033 &nbsp;(CVSS score: 7.8), a privilege escalation vulnerability in Windows COM+ Event System Service. An anonymous researcher has been credited with reporting the issue.  "An attacker who successfully exploited this vulnerability could gain SYSTEM privileges," the company said in an advisory, cautioning that the shortcoming is being actively weaponized in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

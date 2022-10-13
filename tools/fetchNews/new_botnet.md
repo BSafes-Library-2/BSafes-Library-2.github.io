@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt Botnet Evolves to Infect More Systems<a href="https://cyware.com/news/pseudomanuscrypt-botnet-evolves-to-infect-more-systems-e5f272e7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The relatively new PseudoManuscrypt botnet made some changes to its C2 infrastructure that enabled the threat actors infect nearly 500,000 systems across 40 countries in the past eight months. Previously, Kaspersky had reported a similar technique being used by different malware families such as So ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

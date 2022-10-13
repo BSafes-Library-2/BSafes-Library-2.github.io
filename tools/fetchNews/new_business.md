@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vista Equity Partners acquires KnowBe4 for $4.6 billion in cash<a href="https://www.helpnetsecurity.com/2022/10/12/vista-equity-partners-knowbe4/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KnowBe4 has entered into a definitive agreement to be acquired by Vista Equity Partners in an all-cash transaction valued at approximately $4.6 billion on an equity value basis.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber training platform pulls in another $66M after post-pandemic remote working increases cyber threats<a href="https://techcrunch.com/2022/10/12/cyber-training-platform-pulls-in-another-66m-after-post-pandemic-remote-working-increases-cyber-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ten Eleven Ventures led the latest round, while existing investors Goldman Sachs Asset Management, Summit Partners, Insight Partners, Menlo Ventures, and Citi Ventures all participated in the round.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

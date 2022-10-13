@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit affiliates compromise Microsoft Exchange servers to deploy ransomware<a href="https://securityaffairs.co/wordpress/136968/cyber-crime/microsoft-exchange-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit ransomware affiliates are compromising Microsoft Exchange servers to deploy their ransomware, experts warn.
+
+
+
+South-Korean cybersecurity firm AhnLab reported that Lockbit ransomware affiliates are distributing their malware via compromised Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

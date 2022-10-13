@@ -8,6 +8,76 @@ nav_order: 900195
 
 ## Solution
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds new RSS feed for security update notifications<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-new-rss-feed-for-security-update-notifications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has now made it possible to receive notifications about new security updates through a new RSS feed for the Security Update Guide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scribe Platform: End-to-end Software Supply Chain Security<a href="https://thehackernews.com/2022/10/scribe-platform-end-to-end-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As software supply chain security becomes more and more crucial, security, DevSecOps, and DevOps teams are more challenged than ever to build transparent trust in the software they deliver or use. In fact, in Gartner recently published their 2022 cybersecurity predictions - not only do they anticipate the continued expansion of attack surfaces in the near future, they also list digital supply chain as a major rising attack surface and one of the top trends to follow in 2022.  After all, any software is only as secure as the weakest link in its supply chain. One bad component, any malicious access to your development environment—or any vulnerability in your software's delivery life cycle—and you risk your code's integrity, your customers, and your reputation.&nbsp;  Scribe Security &nbsp;recently launched a new platform that claims to address these urgent needs by enabling its users to build trust in their software across teams and organizations. According to Scribe Security, SBOM is a b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds command and control traffic detection<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-command-and-control-traffic-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added command-and-control (C2) traffic detection capabilities to its&nbsp;Microsoft Defender for Endpoint (MDE)&nbsp;enterprise endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Rolling Out Passkey Passwordless Login Support to Android and Chrome<a href="https://thehackernews.com/2022/10/google-rolling-out-passkey-passwordless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday officially rolled out support for passkeys, the next-generation authentication standard, to both Android and Chrome.  "Passkeys are a significantly safer replacement for passwords and other phishable authentication factors," the tech giant&nbsp; said . "They cannot be reused, don't leak in server breaches, and protect users from phishing attacks."   The feature was&nbsp; first announced &nbsp;in May 2022 as part of a broader push to support a common passwordless sign-in standard.  Passkeys, established by the FIDO Alliance and also backed by&nbsp; Apple and Microsoft , aim to replace standard passwords with unique digital keys that are stored locally on the device.   To that end, creating a passkey requires confirmation from the end-user about the account that will be used to log in to the online service, followed by using their biometric information or the&nbsp; device &nbsp; passcode .  Signing in to a website on a mobile device is also a simple two-step process that e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google simplifies sign-ins with Chrome, Android passkey support<a href="https://www.bleepingcomputer.com/news/google/google-simplifies-sign-ins-with-chrome-android-passkey-support/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that it's introducing passkey support to both its Google Chrome web browser and the Android operating system to simplify sign-ins across&nbsp;apps, websites, and devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

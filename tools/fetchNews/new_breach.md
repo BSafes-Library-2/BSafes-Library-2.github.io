@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+64,000 Additional Patients Impacted by Omnicell Data Breach - What is Your Data Breach Action Plan?<a href="https://thehackernews.com/2022/10/64000-additional-patients-impacted-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In April 2022, Omnicell reported a data breach affecting nearly 62,000 patients. The company has revealed that the incident has impacted an additional 64,000 individuals. This brings the total number of patients affected to over 126,000.&nbsp;  Will you be the next victim like Omnicell? If you are overlooking the importance of data protection, attackers can get you in no time.&nbsp;  Explore the&nbsp; impact of the data breach &nbsp;on the healthcare sector and what preventive measures can be taken against such attacks.  Omnicell Announced Data Breach&nbsp;  Founded in 1992, Omnicell is a leading provider of medication management solutions for hospitals, long-term care facilities, and retail pharmacies. On May 4, 2022, Omnicell's IT systems and third-party cloud services were affected by ransomware attacks which may lead to&nbsp; data security concerns &nbsp;for employees and patients. While it is still early in the investigation, this appears to be a severe breach with potentially significant consequences for the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
