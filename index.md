@@ -34,6 +34,422 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft adds new RSS feed for security update notifications<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-new-rss-feed-for-security-update-notifications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has now made it possible to receive notifications about new security updates through a new RSS feed for the Security Update Guide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaigns Made Easy, Courtesy Caffeine<a href="https://cyware.com/news/phishing-campaigns-made-easy-courtesy-caffeine-7d511f24"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service, dubbed Caffeine, was found offering an open registration and customer service support for newbies to help the launch their own campaign. It's a bit pricy but what makes Caffeine subscription 3–5 times costlier than its contemporaries is that it offers anti-detectio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Vishing to Trick Victims into Installing Android Banking Malware<a href="https://thehackernews.com/2022/10/hackers-using-vishing-tactics-to-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are resorting to voice phishing (vishing) tactics to dupe victims into installing Android malware on their devices, new research  from ThreatFabric reveals.  The Dutch mobile security company said it identified a network of phishing websites targeting Italian online-banking users that are designed to get hold of their contact details.  Telephone-oriented attack delivery (TOAD), as the social engineering technique is called, involves calling the victims using previously collected information from fraudulent websites.  The caller, who purports to be a support agent for the bank, instructs the individual, on the other hand, to install a security app and grant it extensive permissions, when, in reality, it's malicious software intended to gain remote access or conduct financial fraud.   In this case, it leads to the deployment of an Android malware dubbed  Copybara , a mobile trojan first detected in November 2021 and is primarily used to perform on-device fraud via o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aruba fixes critical vulnerabilities in EdgeConnect Enterprise Orchestrator<a href="https://securityaffairs.co/wordpress/137000/security/aruba-edgeconnect-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aruba addressed multiple critical severity vulnerabilities in the EdgeConnect Enterprise Orchestrator.
+
+
+
+Aruba addressed multiple critical severity vulnerabilities in the EdgeConnect Enterprise Orchestrator that can be exploited by remote attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unofficial WhatsApp Android app caught stealing users’ accounts<a href="https://www.bleepingcomputer.com/news/security/unofficial-whatsapp-android-app-caught-stealing-users-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of an unofficial WhatsApp Android application named 'YoWhatsApp' has been found stealing access keys for users' accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PseudoManuscrypt Botnet Evolves to Infect More Systems<a href="https://cyware.com/news/pseudomanuscrypt-botnet-evolves-to-infect-more-systems-e5f272e7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The relatively new PseudoManuscrypt botnet made some changes to its C2 infrastructure that enabled the threat actors infect nearly 500,000 systems across 40 countries in the past eight months. Previously, Kaspersky had reported a similar technique being used by different malware families such as So ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scribe Platform: End-to-end Software Supply Chain Security<a href="https://thehackernews.com/2022/10/scribe-platform-end-to-end-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As software supply chain security becomes more and more crucial, security, DevSecOps, and DevOps teams are more challenged than ever to build transparent trust in the software they deliver or use. In fact, in Gartner recently published their 2022 cybersecurity predictions - not only do they anticipate the continued expansion of attack surfaces in the near future, they also list digital supply chain as a major rising attack surface and one of the top trends to follow in 2022.  After all, any software is only as secure as the weakest link in its supply chain. One bad component, any malicious access to your development environment—or any vulnerability in your software's delivery life cycle—and you risk your code's integrity, your customers, and your reputation.   Scribe Security  recently launched a new platform that claims to address these urgent needs by enabling its users to build trust in their software across teams and organizations. According to Scribe Security, SBOM is a b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for October 2022 doesn’t fix Exchange Server flaws<a href="https://securityaffairs.co/wordpress/136987/security/microsoft-patch-tuesday-oct-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for October 2022 addressed a total of 85 security vulnerabilities, including an actively exploited zero-day.
+
+
+
+Microsoft Patch Tuesday security updates for October 2022 addressed 85 new vulnerabilities in multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender adds command and control traffic detection<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-adds-command-and-control-traffic-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has added command-and-control (C2) traffic detection capabilities to its Microsoft Defender for Endpoint (MDE) enterprise endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Shaped the DDoS Landscape so Far this Year?<a href="https://cyware.com/news/what-shaped-the-ddos-landscape-so-far-this-year-841048f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, we take a look at the new DDoS trends formed this year as the geopolitical situation in Eastern Europe continue to shape the nature and intensity of DDoS attacks. The first half of the year has witnessed multiple attacks on financial and government institutions. Last month, the LockBit ranso ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Rolling Out Passkey Passwordless Login Support to Android and Chrome<a href="https://thehackernews.com/2022/10/google-rolling-out-passkey-passwordless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday officially rolled out support for passkeys, the next-generation authentication standard, to both Android and Chrome.  "Passkeys are a significantly safer replacement for passwords and other phishable authentication factors," the tech giant  said . "They cannot be reused, don't leak in server breaches, and protect users from phishing attacks."   The feature was  first announced  in May 2022 as part of a broader push to support a common passwordless sign-in standard.  Passkeys, established by the FIDO Alliance and also backed by  Apple and Microsoft , aim to replace standard passwords with unique digital keys that are stored locally on the device.   To that end, creating a passkey requires confirmation from the end-user about the account that will be used to log in to the online service, followed by using their biometric information or the  device   passcode .  Signing in to a website on a mobile device is also a simple two-step process that e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware has yet to fix CVE-2021-22048 flaw in vCenter Server disclosed one year ago<a href="https://securityaffairs.co/wordpress/136979/hacking/vmware-unpatched-cve-2021-22048.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has yet to address the CVE-2021-22048 privilege escalation vulnerability in vCenter Server disclosed in November 2021.
+
+
+
+VMware warns customers that it has yet to address a high-severity privilege escalation vulnerability, tracked as CVE-2021-22048,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aruba fixes critical RCE and auth bypass flaws in EdgeConnect<a href="https://www.bleepingcomputer.com/news/security/aruba-fixes-critical-rce-and-auth-bypass-flaws-in-edgeconnect/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aruba has released security updates for the EdgeConnect Enterprise Orchestrator, addressing multiple critical severity vulnerabilities that enable remote attackers to compromise the host.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vista Equity Partners acquires KnowBe4 for $4.6 billion in cash<a href="https://www.helpnetsecurity.com/2022/10/12/vista-equity-partners-knowbe4/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KnowBe4 has entered into a definitive agreement to be acquired by Vista Equity Partners in an all-cash transaction valued at approximately $4.6 billion on an equity value basis.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+64,000 Additional Patients Impacted by Omnicell Data Breach - What is Your Data Breach Action Plan?<a href="https://thehackernews.com/2022/10/64000-additional-patients-impacted-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In April 2022, Omnicell reported a data breach affecting nearly 62,000 patients. The company has revealed that the incident has impacted an additional 64,000 individuals. This brings the total number of patients affected to over 126,000.   Will you be the next victim like Omnicell? If you are overlooking the importance of data protection, attackers can get you in no time.   Explore the  impact of the data breach  on the healthcare sector and what preventive measures can be taken against such attacks.  Omnicell Announced Data Breach   Founded in 1992, Omnicell is a leading provider of medication management solutions for hospitals, long-term care facilities, and retail pharmacies. On May 4, 2022, Omnicell's IT systems and third-party cloud services were affected by ransomware attacks which may lead to  data security concerns  for employees and patients. While it is still early in the investigation, this appears to be a severe breach with potentially significant consequences for the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit affiliates compromise Microsoft Exchange servers to deploy ransomware<a href="https://securityaffairs.co/wordpress/136968/cyber-crime/microsoft-exchange-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit ransomware affiliates are compromising Microsoft Exchange servers to deploy their ransomware, experts warn.
+
+
+
+South-Korean cybersecurity firm AhnLab reported that Lockbit ransomware affiliates are distributing their malware via compromised Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New npm timing attack could lead to supply chain attacks<a href="https://www.bleepingcomputer.com/news/security/new-npm-timing-attack-could-lead-to-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered an npm timing attack that reveals the names of private packages so threat actors can release malicious clones publicly to trick developers into using them instead.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber training platform pulls in another $66M after post-pandemic remote working increases cyber threats<a href="https://techcrunch.com/2022/10/12/cyber-training-platform-pulls-in-another-66m-after-post-pandemic-remote-working-increases-cyber-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ten Eleven Ventures led the latest round, while existing investors Goldman Sachs Asset Management, Summit Partners, Insight Partners, Menlo Ventures, and Citi Ventures all participated in the round.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bug in Siemens SIMATIC PLCs Could Let Attackers Steal Cryptographic Keys<a href="https://thehackernews.com/2022/10/critical-bug-in-siemens-simatic-plcs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Siemens Simatic programmable logic controller (PLC) can be exploited to retrieve the hard-coded, global private cryptographic keys and seize control of the devices.  "An attacker can use these keys to perform multiple advanced attacks against Siemens SIMATIC devices and the related  TIA Portal , while bypassing all four of its  access level protections ," industrial cybersecurity company Claroty  said  in a new report.  "A malicious actor could use this secret information to compromise the entire SIMATIC S7-1200/1500 product line in an irreparable way."   The critical vulnerability, assigned the identifier  CVE-2022-38465 , is rated 9.3 on the CVSS scoring scale and has been addressed by Siemens as part of security updates issued on October 11, 2022.   The list of impacted products and versions is below -   SIMATIC Drive Controller family (all versions before 2.9.2)  SIMATIC ET 200SP Open Controller CPU 1515SP PC2, including SIPLUS variants (all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google simplifies sign-ins with Chrome, Android passkey support<a href="https://www.bleepingcomputer.com/news/google/google-simplifies-sign-ins-with-chrome-android-passkey-support/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that it's introducing passkey support to both its Google Chrome web browser and the Android operating system to simplify sign-ins across apps, websites, and devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 106 Update Patches Several High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-106-update-patches-several-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Based on the bug bounty amounts that Google has paid out, the most severe of the newly addressed flaws is CVE-2022-3445, a use-after-free vulnerability in Skia, the open-source 2D graphics library that serves as Chrome’s graphics engine.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday Fixes New Windows Zero-Day; No Patch for Exchange Server Bugs<a href="https://thehackernews.com/2022/10/microsoft-patch-tuesday-fixes-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Patch Tuesday update for the month of October has addressed a total of  85 security vulnerabilities , including fixes for an actively exploited zero-day flaw in the wild.  Of the 85 bugs, 15 are rated Critical, 69 are rated Important, and one is rated Moderate in severity. The update, however, does not include mitigations for the  actively exploited   ProxyNotShell  flaws in  Exchange Server .  The  patches  come alongside  updates to resolve 12 other flaws  in the Chromium-based Edge browser that have been released since the beginning of the month.   Topping the list of this month's patches is  CVE-2022-41033  (CVSS score: 7.8), a privilege escalation vulnerability in Windows COM+ Event System Service. An anonymous researcher has been credited with reporting the issue.  "An attacker who successfully exploited this vulnerability could gain SYSTEM privileges," the company said in an advisory, cautioning that the shortcoming is being actively weaponized in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Forms abused in new COVID-19 phishing wave in the U.S.<a href="https://www.bleepingcomputer.com/news/security/google-forms-abused-in-new-covid-19-phishing-wave-in-the-us/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+COVID-19-themed phishing messages are once again spiking in the U.S. following a prolonged summer hiatus that appears to be over.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Election workers in battleground states faced onslaught of malicious emails, researchers say<a href="https://www.cyberscoop.com/election-phishing-emails-arizona-pennsylvania/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+County election workers in Arizona and Pennsylvania were inundated with a “surge” in malicious emails ahead of those states’ August primaries, researchers said Wednesday, highlighting the ongoing threat facing election officials before midterms.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Infiltrates Networks via QAKBOT, Brute Ratel, and Cobalt Strike<a href="https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brute Ratel is a commercial (paid) Adversary Emulation framework and a relative newcomer to the commercial C&C Framework space, where it competes with more established players such as Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 11, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
