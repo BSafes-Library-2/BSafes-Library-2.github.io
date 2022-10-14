@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operators Behind IcedID Trojan Diversify their Delivery Tactics<a href="https://cyware.com/news/operators-behind-icedid-trojan-diversify-their-delivery-tactics-64feeeca"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Botnet Hits Wynncraft Minecraft Server with 2.5 Tbps DDoS Attack<a href="https://thehackernews.com/2022/10/mirai-botnet-hits-wynncraft-minecraft.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cobalt Strike Infections Haunt Healthcare - Warns HHS<a href="https://cyware.com/news/cobalt-strike-infections-haunt-healthcare-warns-hhs-b0c246d1"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Exploit Released for Critical Fortinet Auth Bypass Bug Under Active Attacks<a href="https://thehackernews.com/2022/10/poc-exploit-released-for-critical.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fast Company says Executive Board member info was not stolen in attack<a href="https://www.bleepingcomputer.com/news/security/fast-company-says-executive-board-member-info-was-not-stolen-in-attack/"> Full Text</a>
@@ -114,7 +114,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clarifying Responsible Cyber Power: Developing Views in the U.K. Regarding Non-intervention and Peacetime Cyber Operations<a href="https://www.lawfareblog.com/clarifying-responsible-cyber-power-developing-views-uk-regarding-non-intervention-and-peacetime"> Full Text</a>
@@ -130,7 +130,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Budworm APT returns to target a US entity<a href="https://securityaffairs.co/wordpress/137075/apt/budworm-apt-targets-us.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit available for critical Fortinet auth bypass bug, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-fortinet-auth-bypass-bug-patch-now/"> Full Text</a>
@@ -166,7 +166,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare blocked a 2.5 Tbps DDoS attack aimed at the Minecraft server<a href="https://securityaffairs.co/wordpress/137062/hacking/ddos-attack-record-q3-2022.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian DDoS attack project pays contributors for more firepower<a href="https://www.bleepingcomputer.com/news/security/russian-ddos-attack-project-pays-contributors-for-more-firepower/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Celsius Exchange Data Dump Is a Gift to Crypto Sleuths—and Thieves<a href="https://www.wired.com/story/celsius-user-data-dump-crypto-tracing-scammers/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chinese Malware Attack Framework Targets Windows, macOS, and Linux Systems<a href="https://thehackernews.com/2022/10/new-chinese-malware-attack-framework.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The discovery of Alchimist C2 tool, revealed a new attack framework to target Windows, macOS, and Linux systems<a href="https://securityaffairs.co/wordpress/137046/hacking/alchimist-c2-tool.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magniber ransomware now infects Windows users via JavaScript files<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-now-infects-windows-users-via-javascript-files/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia's Medibank reports cyber incident, shares on trading halt<a href="https://www.reuters.com/technology/australias-medibank-reports-cyber-incident-2022-10-13/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Timing Attack Against NPM Registry API Could Expose Private Packages<a href="https://thehackernews.com/2022/10/new-timing-attack-against-npm-registry.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 POLONIUM APT targets Israel with a new custom backdoor dubbed PapaCreep<a href="https://securityaffairs.co/wordpress/137030/apt/polonium-custom-backdoors.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the Uber Hack can teach us about navigating IT Security<a href="https://www.bleepingcomputer.com/news/security/what-the-uber-hack-can-teach-us-about-navigating-it-security/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Budworm Espionage Group Returns to Targeting U.S. Organizations<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/budworm-espionage-us-state?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Symantec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Does the OWASP Top 10 Still Matter?<a href="https://thehackernews.com/2022/10/does-owasp-top-10-still-matter.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YoWhatsApp, unofficial WhatsApp Android app spreads the Triada Trojan<a href="https://securityaffairs.co/wordpress/137013/malware/yowhatsapp-fake-whatsapp.html"> Full Text</a>
@@ -390,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare mitigated record DDoS attack against Minecraft server<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigated-record-ddos-attack-against-minecraft-server/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Alchimist Attack Framework Written in Chinese for Mac, Linux, and Windows<a href="https://blog.talosintelligence.com/2022/10/alchimist-offensive-framework.html?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Budworm Hackers Resurface with New Espionage Attacks Aimed at U.S. Organization<a href="https://thehackernews.com/2022/10/budworm-hackers-resurface-with-new.html"> Full Text</a>
@@ -438,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Alchimist attack framework targets Windows, macOS, Linux<a href="https://www.bleepingcomputer.com/news/security/new-alchimist-attack-framework-targets-windows-macos-linux/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chinese APT Targets IT Service Providers and Telcos with Signed Malware<a href="https://www.sentinelone.com/labs/wip19-espionage-new-chinese-apt-targets-it-service-providers-and-telcos-with-signed-malware/?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modified WhatsApp App Caught Infecting Android Devices with Malware<a href="https://thehackernews.com/2022/10/modified-whatsapp-app-caught-infecting.html"> Full Text</a>
@@ -486,7 +486,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2022
+October 13, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mango Markets Loses Over $100 Million in Flash Loan Attack<a href="https://therecord.media/crypto-trading-platform-mango-markets-drained-of-more-than-100-million-in-flash-loan-attack/?&web_view=true"> Full Text</a>
