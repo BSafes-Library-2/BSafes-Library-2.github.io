@@ -8,6 +8,52 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare blocked a 2.5 Tbps DDoS attack aimed at the Minecraft server<a href="https://securityaffairs.co/wordpress/137062/hacking/ddos-attack-record-q3-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare mitigated a record distributed denial-of-service (DDoS) attack against Wynncraft, one of the largest Minecraft servers.
+
+
+
+Cloudflare announced it has mitigated a record distributed denial-of-service (DDoS) attack against Wynncraft, one of the largest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian DDoS attack project pays contributors for more firepower<a href="https://www.bleepingcomputer.com/news/security/russian-ddos-attack-project-pays-contributors-for-more-firepower/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Russian group created a crowdsourced project called 'DDOSIA' that pays volunteers launching distributed denial-of-service (DDOS)&nbsp;attacks against western entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare mitigated record DDoS attack against Minecraft server<a href="https://www.bleepingcomputer.com/news/security/cloudflare-mitigated-record-ddos-attack-against-minecraft-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wynncraft, one of the largest Minecraft servers, was recently hit by a 2.5 Tbps distributed denial-of-service (DDoS) attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

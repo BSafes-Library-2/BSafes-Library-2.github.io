@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operators Behind IcedID Trojan Diversify their Delivery Tactics<a href="https://cyware.com/news/operators-behind-icedid-trojan-diversify-their-delivery-tactics-64feeeca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the IcedID malware have been found using a variety of propagation methods, including changing the management of C2 server IPs, in their phishing campaigns. The attackers were found registering fresh domains for C2, instead of relying on the old ones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Budworm Espionage Group Returns to Targeting U.S. Organizations<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/budworm-espionage-us-state?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Budworm’s main payload continues to be the HyperBro malware family, which is often loaded using a technique known as DLL side-loading. This involves the attackers placing a malicious DLL in a directory where a legitimate DLL is expected to be found.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Alchimist Attack Framework Written in Chinese for Mac, Linux, and Windows<a href="https://blog.talosintelligence.com/2022/10/alchimist-offensive-framework.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos discovered a new attack framework including a command and control (C2) tool called "Alchimist" and a new malware "Insekt" with remote administration capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Budworm Hackers Resurface with New Espionage Attacks Aimed at U.S. Organization<a href="https://thehackernews.com/2022/10/budworm-hackers-resurface-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor known as&nbsp; Budworm &nbsp;targeted a U.S.-based entity for the first time in more than six years, according to latest research.  The attack was aimed at an unnamed U.S. state legislature, the Symantec Threat Hunter team, part of Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News.  Other "strategically significant" intrusions mounted over the past six months were directed against a government of a Middle Eastern country, a multinational electronics manufacturer, and a hospital in South East Asia.  Budworm , also called APT27, Bronze Union, Emissary Panda, Lucky Mouse, and Red Phoenix, is a threat actor that's believed to operate on behalf of China through attacks that leverage a mix of custom and openly available tools to exfiltrate information of interest.   "Bronze Union maintains a high degree of operational flexibility in order to adapt to the environments it operates in," Secureworks&nbsp; notes &nbsp;in a profile of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

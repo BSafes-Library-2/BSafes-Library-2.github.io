@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cobalt Strike Infections Haunt Healthcare - Warns HHS<a href="https://cyware.com/news/cobalt-strike-infections-haunt-healthcare-warns-hhs-b0c246d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of organizations each year are now affected by a hack involving Cobalt Strike, warned HHS. Apart from using Cobalt Strike, threat actors are using PowerShell, Mimikatz, Sysinternals, Brute Ratel, and Anydesk against healthcare facilities. State-sponsored threat actors, mostly the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

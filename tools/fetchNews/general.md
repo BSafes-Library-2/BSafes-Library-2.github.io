@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New npm timing attack could lead to supply chain attacks<a href="https://www.bleepingcomputer.com/news/security/new-npm-timing-attack-could-lead-to-supply-chain-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered an npm timing attack that reveals the names of private packages so threat actors can release malicious clones publicly to trick developers into using them instead.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Election workers in battleground states faced onslaught of malicious emails, researchers say<a href="https://www.cyberscoop.com/election-phishing-emails-arizona-pennsylvania/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+County election workers in Arizona and Pennsylvania were inundated with a “surge” in malicious emails ahead of those states’ August primaries, researchers said Wednesday, highlighting the ongoing threat facing election officials before midterms.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

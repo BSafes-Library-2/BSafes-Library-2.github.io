@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Timing Attack Against NPM Registry API Could Expose Private Packages<a href="https://thehackernews.com/2022/10/new-timing-attack-against-npm-registry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel timing attack discovered against the npm's registry API can be exploited to potentially disclose private packages used by organizations, putting developers at risk of supply chain threats.  "By creating a list of possible package names, threat actors can detect organizations'&nbsp; scoped private packages &nbsp;and then masquerade public packages, tricking employees and users into downloading them," Aqua Security researcher Yakir Kadkoda&nbsp; said .   The Scoped Confusion attack banks on analyzing the time it takes for the&nbsp; npm API &nbsp;(registry.npmjs[.]org) to return an HTTP 404 error message when querying for a private package, and measuring it against the response time for a non-existing module.   "It takes on average less time to get a reply for a private package that does not exist compared to a private package that does," Kadkoda explained.  The idea, ultimately, is to identify packages internally used by companies, which could then be used by threat actors to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

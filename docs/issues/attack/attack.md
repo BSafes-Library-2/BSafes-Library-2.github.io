@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fast Company says Executive Board member info was not stolen in attack<a href="https://www.bleepingcomputer.com/news/security/fast-company-says-executive-board-member-info-was-not-stolen-in-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American business magazine Fast Company reached out to its Executive Board members this week to let them know their personal information was not stolen in a September 27&nbsp;cyberattack that forced it to shut down its website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mango Markets Loses Over $100 Million in Flash Loan Attack<a href="https://therecord.media/crypto-trading-platform-mango-markets-drained-of-more-than-100-million-in-flash-loan-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mango Markets took to Twitter Tuesday evening to tell users that it was investigating an incident “where a hacker was able to drain funds from Mango via… price manipulation.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

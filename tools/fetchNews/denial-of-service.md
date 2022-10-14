@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Shaped the DDoS Landscape so Far this Year?<a href="https://cyware.com/news/what-shaped-the-ddos-landscape-so-far-this-year-841048f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, we take a look at the new DDoS trends formed this year as the geopolitical situation in Eastern Europe continue to shape the nature and intensity of DDoS attacks. The first half of the year has witnessed multiple attacks on financial and government institutions. Last month, the LockBit ranso ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

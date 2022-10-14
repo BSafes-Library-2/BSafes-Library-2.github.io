@@ -8,6 +8,56 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Budworm APT returns to target a US entity<a href="https://securityaffairs.co/wordpress/137075/apt/budworm-apt-targets-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Budworm espionage group&nbsp;resurfaced targeting a U.S.-based organization for the first time, Symantec Threat Hunter team reported.
+
+
+
+The Budworm cyber espionage group (aka APT27, Bronze Union, Emissary Panda, Lucky Mouse, TG-3390, and Red Phoenix)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+POLONIUM APT targets Israel with a new custom backdoor dubbed PapaCreep<a href="https://securityaffairs.co/wordpress/137030/apt/polonium-custom-backdoors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group tracked as Polonium employed custom backdoors in attacks aimed at Israelian entities since at least September 2021.
+
+
+
+POLONIUM APT focused only on Israeli targets, it launched attacks against more than a dozen organizations in various industries,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinese APT Targets IT Service Providers and Telcos with Signed Malware<a href="https://www.sentinelone.com/labs/wip19-espionage-new-chinese-apt-targets-it-service-providers-and-telcos-with-signed-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the toolset itself appears to be shared among several actors, it is unclear whether this is a new iteration of operation “Shadow Force” or simply a different actor utilizing similar TTPs.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

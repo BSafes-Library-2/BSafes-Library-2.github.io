@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Hits Wynncraft Minecraft Server with 2.5 Tbps DDoS Attack<a href="https://thehackernews.com/2022/10/mirai-botnet-hits-wynncraft-minecraft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure and security company Cloudflare disclosed this week that it halted a 2.5 Tbps distributed denial-of-service (DDoS) attack launched by a Mirai botnet.  Characterizing it as a "multi-vector attack consisting of UDP and TCP floods," researcher Omer Yoachimik said the DDoS attack targeted the Minecraft server Wynncraft in Q3 2022.  "The entire 2.5 Tbps attack lasted about 2 minutes, and the peak of the 26 million rps attack [was] only 15 seconds," Yoachimik&nbsp; noted . "This is the largest attack we've ever seen from the bitrate perspective."  Cloudflare also pointed to a surge in multi-terabit DDoS attacks as well as longer-lasting volumetric attacks during the time period, not to mention an uptick in attacks targeting Taiwan and Japan.   The disclosure comes almost 10 months after Microsoft said it thwarted a&nbsp; record-breaking 3.47 Tbps DDoS attack &nbsp;in November 2021 directed against an unnamed Azure customer in Asia.  Other&nbsp; DDoS attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
