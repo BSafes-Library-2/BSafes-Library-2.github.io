@@ -11,6 +11,20 @@ nav_order: 900075
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA releases open-source 'RedEye' C2 log visualization tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-open-source-redeye-c2-log-visualization-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security (CISA) agency has announced RedEye, an open-source analytic tool for operators to visualize and report command and control (C2) activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cobalt Strike Infections Haunt Healthcare - Warns HHS<a href="https://cyware.com/news/cobalt-strike-infections-haunt-healthcare-warns-hhs-b0c246d1"> Full Text</a>
 </p>
 <details>

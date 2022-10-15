@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's Medibank reports cyber incident, shares on trading halt<a href="https://www.reuters.com/technology/australias-medibank-reports-cyber-incident-2022-10-13/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it took "immediate steps to contain the incident, and engaged specialized cybersecurity firms", adding that there was no evidence that any sensitive data, including customer data, had been accessed at this stage.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

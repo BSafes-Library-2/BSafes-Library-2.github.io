@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clarifying Responsible Cyber Power: Developing Views in the U.K. Regarding Non-intervention and Peacetime Cyber Operations<a href="https://www.lawfareblog.com/clarifying-responsible-cyber-power-developing-views-uk-regarding-non-intervention-and-peacetime"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A response to a previous Lawfare article on the U.K.’s cyber strategy, emphasizing the need to develop a nuanced, incremental development of that strategy over time
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does the OWASP Top 10 Still Matter?<a href="https://thehackernews.com/2022/10/does-owasp-top-10-still-matter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What is the OWASP Top 10, and – just as important – what is it not? In this review, we look at how you can make this critical risk report work for you and your organisation.  What is OWASP?  OWASP &nbsp;is the Open Web Application Security Project, an international non-profit organization dedicated to improving web application security.&nbsp;  It operates on the core principle that all of its materials are freely available and easily accessible online, so that anyone anywhere can improve their own web app security. It offers a number of tools, videos, and forums to help you do this – but their best-known project is the OWASP Top 10.  The top 10 risks  The&nbsp; OWASP Top 10 &nbsp;outlines the most critical risks to web application security. Put together by a team of security experts from all over the world, the list is designed to raise awareness of the current security landscape and offer developers and security professionals invaluable insights into the latest and most widespread security risks.  It al
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Alchimist attack framework targets Windows, macOS, Linux<a href="https://www.bleepingcomputer.com/news/security/new-alchimist-attack-framework-targets-windows-macos-linux/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new attack and C2 framework called 'Alchimist,' which appears to be actively used in attacks targeting Windows, Linux, and macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

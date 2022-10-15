@@ -34,6 +34,362 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tata Power, a top power producer in India, confirms cyberattack<a href="https://techcrunch.com/2022/10/14/india-power-company-tata-power-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power, a leading power generation company in India, has confirmed it was hit by a cyberattack. In a brief statement, the Mumbai-based company said that the attack impacted some of its IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 14th 2022 - Bitcoin Trickery<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-14th-2022-bitcoin-trickery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's news is action-packed, with police tricking ransomware into releasing keys to victims calling ransomware operations liars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Windows Zero-Day Vulnerability Patched Last Month<a href="https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security flaw in Windows Common Log File System (CLFS) that could be exploited by an attacker to gain elevated permissions on compromised machines.  Tracked as  CVE-2022-37969  (CVSS score: 7.8), the issue was addressed by Microsoft as part of its Patch Tuesday updates for September 2022, while also noting that it was being actively exploited in the wild.  "An attacker must already have access and the ability to run code on the target system," the company  noted  in its advisory. "This technique does not allow for remote code execution in cases where the attacker does not already have that ability on the target system."  It also credited researchers from CrowdStrike, DBAPPSecurity, Mandiant, and Zscaler for reporting the vulnerability without delving into additional specifics surrounding the nature of the attacks.   Now, the Zscaler ThreatLabz researcher team has disclosed  that it captured an in-the-wild exploit for the the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclose technical details of now-patched CVE-2022-37969 Windows Zero-Day<a href="https://securityaffairs.co/wordpress/137119/hacking/cve-2022-37969-details.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed details of a now-patched flaw, tracked as CVE-2022-37969, in Windows Common Log File System (CLFS).
+
+
+
+The CVE-2022-37969 (CVSS score: 7.8) flaw is a Windows Common Log File System Driver Elevation of Privilege Vulnerability. The Common...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police tricks DeadBolt ransomware out of 155 decryption keys<a href="https://www.bleepingcomputer.com/news/security/police-tricks-deadbolt-ransomware-out-of-155-decryption-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch National Police, in collaboration with cybersecurity firm Responders.NU, tricked the DeadBolt ransomware gang into handing over 155 decryption keys by faking ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Alchimist C2 Framework Targets Windows, Linux, macOS<a href="https://cyware.com/news/new-alchimist-c2-framework-targets-windows-linux-macos-4c4d58ee"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack and C2 framework, dubbed Alchimist, was found capable of targeting Linux, macOS, and Windows systems. It can run arbitrary commands and perform remote shellcode execution. These kinds of frameworks have high quality, rich features, good detection evasion capabilities, and effective imp ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chinese Cyberespionage Group Targeting IT Service Providers and Telcos<a href="https://thehackernews.com/2022/10/new-chinese-cyberespionage-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunications and IT service providers in the Middle East and Asia are being targeted by a previously undocumented Chinese-speaking threat group dubbed WIP19 .  The espionage-related attacks are characterized by the use of a stolen digital certificate issued by a Korean company called DEEPSoft  to sign malicious artifacts deployed during the infection chain to evade detection.  "Almost all operations performed by the threat actor were completed in a 'hands-on keyboard' fashion, during an interactive session with compromised machines," SentinelOne researchers Joey Chen and Amitai Ben Shushan Ehrlich  said  in a report this week.   "This meant the attacker gave up on a stable [command-and-control] channel in exchange for stealth."  WIP, short for work-in-progress, is the moniker assigned by SentinelOne to emerging or hitherto unattributed activity clusters,  similar  to the UNC####, DEV-####, and TAG-## designations given by Mandiant, Microsoft, and Reco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WIP19, a new Chinese APT targets IT Service Providers and Telcos<a href="https://securityaffairs.co/wordpress/137107/apt/wip19-targets-middle-east-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking threat actor, tracked as WIP19, is targeting telecommunications and IT service providers in the Middle East and Asia.
+
+
+
+SentinelOne researchers uncovered a new threat cluster, tracked as WIP19, which has been targeting telecommunications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: New Prestige ransomware targets orgs in Ukraine, Poland<a href="https://www.bleepingcomputer.com/news/security/microsoft-new-prestige-ransomware-targets-orgs-in-ukraine-poland/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says new Prestige ransomware is being used to target transportation and logistics organizations in Ukraine and Poland in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoWhatsApp - An Unofficial WhatsApp App Steals Credentials<a href="https://cyware.com/news/yowhatsapp-an-unofficial-whatsapp-app-steals-credentials-0e29cf5f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious version of the popular WhatsApp messaging app was found dropping an Android trojan known as Triada. Named YoWhatsApp, the unofficial app offers the ability to lock chats, send texts to unsaved numbers, and customize using different themes. It is spread to users via fraudulent ads on Sna ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PHP Version of Ducktail Malware Hijacking Facebook Business Accounts<a href="https://thehackernews.com/2022/10/new-php-version-of-ducktail-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A PHP version of an information-stealing malware called  Ducktail  has been discovered in the wild being distributed in the form of cracked installers for legitimate apps and games, according to the latest findings from Zscaler.  "Like older versions (.NetCore), the latest version (PHP) also aims to exfiltrate sensitive information related to saved browser credentials, Facebook account information, etc.," Zscaler ThreatLabz researchers Tarun Dewan and Stuti Chaturvedi  said .   Ducktail, which emerged on the threat landscape in late 2021, is attributed to an unnamed Vietnamese threat actor, with the malware primarily designed to hijack Facebook business and advertising accounts.  The financially motivated cybercriminal operation was  first documented  by Finnish cybersecurity company WithSecure (formerly F-Secure) in late July 2022.   While previous versions of the malware were found to use Telegram as a command-and-control (C2) channel to exfiltrate information, the PHP var
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit code for critical bug CVE-2022-40684 in Fortinet products<a href="https://securityaffairs.co/wordpress/137095/hacking/fortinet-cve-2022-40684-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts released the PoC exploit code for the authentication bypass flaw CVE-2022-40684 in FortiGate firewalls and FortiProxy web proxies.
+
+
+
+A proof-of-concept (PoC) exploit code for the authentication bypass vulnerability CVE-2022-40684 (CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student jailed for hacking female classmates’ email, Snapchat accounts<a href="https://www.bleepingcomputer.com/news/security/student-jailed-for-hacking-female-classmates-email-snapchat-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, a Puerto Rico judge sentenced a former University of Puerto Rico (UPR) student to 13 months in prison for hacking over a dozen email and Snapchat accounts of female colleagues.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Cartel Ransomware: A Possible Connection With REvil<a href="https://unit42.paloaltonetworks.com/ransom-cartel-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransom Cartel is ransomware as a service (RaaS) that surfaced in mid-December 2021. This ransomware performs double extortion attacks and exhibits several similarities and technical overlaps with REvil ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How To Build a Career as a Freelance Cybersecurity Analyst — From Scratch<a href="https://thehackernews.com/2022/10/how-to-build-career-as-freelance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With each passing year, the cybersecurity threat landscape continues to worsen. That reality makes cybersecurity analysts some of the most sought-after technology professionals in the world. And there are nowhere near enough of them to meet the demand. At last count, there were over  3.5 million unfilled cybersecurity jobs  worldwide — and that number is still growing.  The situation means that it's a great time to become a cybersecurity analyst. What's more, the skyrocketing demand means it's possible to start a lucrative freelance career in the field and take complete control over your professional future. Here's a start-to-finish guide on how to do exactly that.  Start With the Right Training  The first step on the path to becoming a freelance cybersecurity analyst is to acquire the necessary skills. For those without an existing technology background, the best place to start is with a cybersecurity bootcamp. They're designed to get newcomers up to speed with ba
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DJI drone tracking data exposed in the US<a href="https://securityaffairs.co/wordpress/137087/data-breach/dji-drone-tracking-data-exposed-in-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 80,000 drone IDs were exposed in the leak of a database containing information from airspace monitoring devices manufactured by DJI.
+
+
+
+Original post at CyberNews: https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/
+
+
+
+Over 80,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA releases open-source 'RedEye' C2 log visualization tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-open-source-redeye-c2-log-visualization-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security (CISA) agency has announced RedEye, an open-source analytic tool for operators to visualize and report command and control (C2) activity.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DJI drone tracking data exposed in the US<a href="https://securityaffairs.co/wordpress/137087/data-breach/dji-drone-tracking-data-exposed-in-us.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 80,000 drone IDs were exposed in a data leak after a database containing information from dozens of airspace monitoring devices manufactured by the Chinese-owned DJI was left accessible to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL arrests ‘Black Axe’ cybercrime syndicate members<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-black-axe-cybercrime-syndicate-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL has arrested over 70 suspected members of the 'Black Axe' cybercrime syndicate, with two believed to be responsible for $1.8 million in financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian police secret agents exposed in Colombian data leak<a href="https://www.bleepingcomputer.com/news/security/australian-police-secret-agents-exposed-in-colombian-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identities of secret agents working for the Australian Federal Police (AFP) have been exposed after hackers leaked documents stolen from the Colombian government.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 email encryption could expose message content<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at WithSecure have discovered it's possible to partially or fully infer the contents of encrypted messages sent through Microsoft Office 365, highlighting an intrinsic weakness in the encryption scheme used.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

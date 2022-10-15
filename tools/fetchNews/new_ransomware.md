@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 14th 2022 - Bitcoin Trickery<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-14th-2022-bitcoin-trickery/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's news is action-packed, with police tricking ransomware into releasing keys to victims calling ransomware operations liars.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: New Prestige ransomware targets orgs in Ukraine, Poland<a href="https://www.bleepingcomputer.com/news/security/microsoft-new-prestige-ransomware-targets-orgs-in-ukraine-poland/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says new Prestige ransomware is being used to target&nbsp;transportation and logistics organizations in Ukraine and Poland in ongoing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Cartel Ransomware: A Possible Connection With REvil<a href="https://unit42.paloaltonetworks.com/ransom-cartel-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransom Cartel is ransomware as a service (RaaS) that surfaced in mid-December 2021. This ransomware performs double extortion attacks and exhibits several similarities and technical overlaps with REvil ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

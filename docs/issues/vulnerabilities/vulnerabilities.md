@@ -8,6 +8,70 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Windows Zero-Day Vulnerability Patched Last Month<a href="https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched security flaw in Windows Common Log File System (CLFS) that could be exploited by an attacker to gain elevated permissions on compromised machines.  Tracked as&nbsp; CVE-2022-37969 &nbsp;(CVSS score: 7.8), the issue was addressed by Microsoft as part of its Patch Tuesday updates for September 2022, while also noting that it was being actively exploited in the wild.  "An attacker must already have access and the ability to run code on the target system," the company&nbsp; noted &nbsp;in its advisory. "This technique does not allow for remote code execution in cases where the attacker does not already have that ability on the target system."  It also credited researchers from CrowdStrike, DBAPPSecurity, Mandiant, and Zscaler for reporting the vulnerability without delving into additional specifics surrounding the nature of the attacks.   Now, the Zscaler ThreatLabz researcher team has disclosed  that it captured an in-the-wild exploit for the the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclose technical details of now-patched CVE-2022-37969 Windows Zero-Day<a href="https://securityaffairs.co/wordpress/137119/hacking/cve-2022-37969-details.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed details of a now-patched flaw, tracked as CVE-2022-37969, in Windows Common Log File System (CLFS).
+
+
+
+The CVE-2022-37969&nbsp;(CVSS score: 7.8) flaw is a Windows Common Log File System Driver Elevation of Privilege Vulnerability. The Common...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit code for critical bug CVE-2022-40684 in Fortinet products<a href="https://securityaffairs.co/wordpress/137095/hacking/fortinet-cve-2022-40684-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts released the PoC exploit code for the authentication bypass flaw CVE-2022-40684 in FortiGate firewalls and FortiProxy web proxies.
+
+
+
+A proof-of-concept (PoC) exploit code for the authentication bypass vulnerability CVE-2022-40684 (CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 email encryption could expose message content<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at WithSecure have discovered it's possible to partially or fully infer the contents of encrypted messages sent through Microsoft Office 365, highlighting an intrinsic weakness in the encryption scheme used.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

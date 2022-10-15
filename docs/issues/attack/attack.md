@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tata Power, a top power producer in India, confirms cyberattack<a href="https://techcrunch.com/2022/10/14/india-power-company-tata-power-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power, a leading power generation company in India, has confirmed it was hit by a cyberattack. In a brief statement, the Mumbai-based company said that the attack impacted some of its IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

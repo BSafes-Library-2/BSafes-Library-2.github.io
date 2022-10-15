@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Uber Hack can teach us about navigating IT Security<a href="https://www.bleepingcomputer.com/news/security/what-the-uber-hack-can-teach-us-about-navigating-it-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent Uber cyberattack shows us the myriad tactics employed by threat actors to breach corporate networks. Learn more about these tactics used and how to navigate IT Security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

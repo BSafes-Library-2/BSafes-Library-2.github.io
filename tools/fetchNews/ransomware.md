@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber ransomware now infects Windows users via JavaScript files<a href="https://www.bleepingcomputer.com/news/security/magniber-ransomware-now-infects-windows-users-via-javascript-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malicious campaign delivering Magniber ransomware has been targeting Windows home users with fake security updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

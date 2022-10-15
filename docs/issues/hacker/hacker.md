@@ -11,6 +11,20 @@ nav_order: 900080
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+New Chinese Cyberespionage Group Targeting IT Service Providers and Telcos<a href="https://thehackernews.com/2022/10/new-chinese-cyberespionage-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunications and IT service providers in the Middle East and Asia are being targeted by a previously undocumented Chinese-speaking threat group dubbed WIP19 .  The espionage-related attacks are characterized by the use of a stolen digital certificate issued by a Korean company called DEEPSoft  to sign malicious artifacts deployed during the infection chain to evade detection.  "Almost all operations performed by the threat actor were completed in a 'hands-on keyboard' fashion, during an interactive session with compromised machines," SentinelOne researchers Joey Chen and Amitai Ben Shushan Ehrlich&nbsp; said &nbsp;in a report this week.   "This meant the attacker gave up on a stable [command-and-control] channel in exchange for stealth."  WIP, short for work-in-progress, is the moniker assigned by SentinelOne to emerging or hitherto unattributed activity clusters,&nbsp; similar &nbsp;to the UNC####, DEV-####, and TAG-## designations given by Mandiant, Microsoft, and Reco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Operators Behind IcedID Trojan Diversify their Delivery Tactics<a href="https://cyware.com/news/operators-behind-icedid-trojan-diversify-their-delivery-tactics-64feeeca"> Full Text</a>
 </p>
 <details>
