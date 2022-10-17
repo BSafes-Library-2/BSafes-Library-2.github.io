@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venus Ransomware targets publicly exposed Remote Desktop services<a href="https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the relatively new Venus Ransomware are hacking into publicly-exposed Remote Desktop services to encrypt Windows devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Prestige ransomware targets organizations in Ukraine and Poland<a href="https://securityaffairs.co/wordpress/137203/apt/prestige-ransomware-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns that new Prestige ransomware is targeting transportation and logistics organizations in Ukraine and Poland.
+
+
+
+Microsoft reported that new Prestige ransomware is being used in attacks aimed at transportation and logistics organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PHP information-stealing malware targets Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/new-php-information-stealing-malware-targets-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a new Ducktail campaign using a new infostealer variant and novel TTPs (tactics, techniques, and procedures), while the Facebook users it targets are no longer limited to holders of business accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked hundreds of servers by exploiting Zimbra CVE-2022-41352 bug<a href="https://securityaffairs.co/wordpress/137164/apt/zimbra-cve-2022-41352-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have compromised hundreds of servers exploiting critical flaw CVE-2022-41352 in Zimbra Collaboration Suite (ZCS).
+
+
+
+Last week, researchers from Rapid7 warned of the exploitation of unpatched zero-day remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 389<a href="https://securityaffairs.co/wordpress/137161/breaking-news/security-affairs-newsletter-round-389.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+New...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack<a href="https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power Company Limited, India's largest integrated power company, on Friday confirmed it was targeted by a cyberattack.  The intrusion on IT infrastructure impacted "some of its IT systems," the company  said  in a filing with the National Stock Exchange (NSE) of India.   It further said it has taken steps to retrieve and restore the affected machines, adding it put in place security guardrails for customer-facing portals to prevent unauthorized access.  The Mumbai-based electric utility company, part of the Tata Group conglomerate, did not disclose any further details about the nature of the attack, or when it took place.  That said, cybersecurity firm Recorded Future in April  disclosed  attacks mounted by China-linked adversaries targeting Indian power grid organizations.  The network intrusions are said to have been aimed at "at least seven Indian State Load Despatch Centres (SLDCs) responsible for carrying out real-time operations for grid control and elect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 45,000 VMware ESXi servers just reached end-of-life<a href="https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 45,000 VMware ESXi servers inventoried by Lansweeper just reached end-of-life (EOL), with VMware no longer providing software and security updates unless companies purchase an extended support contract.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges admins to patch bug with public exploit immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet urges customers to urgently patch their appliances against a critical authentication bypass FortiOS, FortiProxy, and FortiSwitchManager vulnerability exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PHP Version of Ducktail info-stealer hijacks Facebook Business accounts<a href="https://securityaffairs.co/wordpress/137145/malware/ducktail-php-targets-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a PHP version of an information-stealing malware called Ducktail spread as cracked installers for legitimate apps and games.
+
+
+
+Zscaler researchers discovered a PHP version of an information-stealing malware tracked as Ducktail. The malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 900 servers hacked using Zimbra zero-day flaw<a href="https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 900 servers have been hacked using a critical Zimbra Collaboration Suite (ZCS) vulnerability, which at the time was a zero-day without a patch for nearly 1.5 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS<a href="https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks addressed a high-severity authentication bypass vulnerability affecting the PAN-OS 8.1 software.
+
+
+
+Palo Alto Networks released security patches to address a high-severity authentication bypass flaw, tracked as CVE-2022-0030 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian power generation giant Tata Power hit by a cyber attack<a href="https://securityaffairs.co/wordpress/137130/hacking/tata-power-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power Company Limited, India's largest power generation company, announced it was hit by a cyberattack.
+
+
+
+Tata Power on Friday announced that was hit by a cyber attack. Threat actors hit the Information Technology (IT) infrastructure of the company.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

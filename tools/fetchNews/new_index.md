@@ -34,7 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venus Ransomware targets publicly exposed Remote Desktop services<a href="https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the relatively new Venus Ransomware are hacking into publicly-exposed Remote Desktop services to encrypt Windows devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Prestige ransomware targets organizations in Ukraine and Poland<a href="https://securityaffairs.co/wordpress/137203/apt/prestige-ransomware-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns that new Prestige ransomware is targeting transportation and logistics organizations in Ukraine and Poland.
+
+
+
+Microsoft reported that new Prestige ransomware is being used in attacks aimed at transportation and logistics organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PHP information-stealing malware targets Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/new-php-information-stealing-malware-targets-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have spotted a new Ducktail campaign using a new infostealer variant and novel TTPs (tactics, techniques, and procedures), while the Facebook users it targets are no longer limited to holders of business accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked hundreds of servers by exploiting Zimbra CVE-2022-41352 bug<a href="https://securityaffairs.co/wordpress/137164/apt/zimbra-cve-2022-41352-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have compromised hundreds of servers exploiting critical flaw CVE-2022-41352 in Zimbra Collaboration Suite (ZCS).
+
+
+
+Last week, researchers from Rapid7 warned of the exploitation of unpatched zero-day remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 389<a href="https://securityaffairs.co/wordpress/137161/breaking-news/security-affairs-newsletter-round-389.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+New...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack<a href="https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power Company Limited, India's largest integrated power company, on Friday confirmed it was targeted by a cyberattack.  The intrusion on IT infrastructure impacted "some of its IT systems," the company  said  in a filing with the National Stock Exchange (NSE) of India.   It further said it has taken steps to retrieve and restore the affected machines, adding it put in place security guardrails for customer-facing portals to prevent unauthorized access.  The Mumbai-based electric utility company, part of the Tata Group conglomerate, did not disclose any further details about the nature of the attack, or when it took place.  That said, cybersecurity firm Recorded Future in April  disclosed  attacks mounted by China-linked adversaries targeting Indian power grid organizations.  The network intrusions are said to have been aimed at "at least seven Indian State Load Despatch Centres (SLDCs) responsible for carrying out real-time operations for grid control and elect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 45,000 VMware ESXi servers just reached end-of-life<a href="https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 45,000 VMware ESXi servers inventoried by Lansweeper just reached end-of-life (EOL), with VMware no longer providing software and security updates unless companies purchase an extended support contract.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges admins to patch bug with public exploit immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet urges customers to urgently patch their appliances against a critical authentication bypass FortiOS, FortiProxy, and FortiSwitchManager vulnerability exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PHP Version of Ducktail info-stealer hijacks Facebook Business accounts<a href="https://securityaffairs.co/wordpress/137145/malware/ducktail-php-targets-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a PHP version of an information-stealing malware called Ducktail spread as cracked installers for legitimate apps and games.
+
+
+
+Zscaler researchers discovered a PHP version of an information-stealing malware tracked as Ducktail. The malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 900 servers hacked using Zimbra zero-day flaw<a href="https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 900 servers have been hacked using a critical Zimbra Collaboration Suite (ZCS) vulnerability, which at the time was a zero-day without a patch for nearly 1.5 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS<a href="https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks addressed a high-severity authentication bypass vulnerability affecting the PAN-OS 8.1 software.
+
+
+
+Palo Alto Networks released security patches to address a high-severity authentication bypass flaw, tracked as CVE-2022-0030 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian power generation giant Tata Power hit by a cyber attack<a href="https://securityaffairs.co/wordpress/137130/hacking/tata-power-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power Company Limited, India's largest power generation company, announced it was hit by a cyberattack.
+
+
+
+Tata Power on Friday announced that was hit by a cyber attack. Threat actors hit the Information Technology (IT) infrastructure of the company.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tata Power, a top power producer in India, confirms cyberattack<a href="https://techcrunch.com/2022/10/14/india-power-company-tata-power-cyber-attack/?&web_view=true"> Full Text</a>
@@ -50,7 +274,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 14th 2022 - Bitcoin Trickery<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-14th-2022-bitcoin-trickery/"> Full Text</a>
@@ -66,7 +290,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Windows Zero-Day Vulnerability Patched Last Month<a href="https://thehackernews.com/2022/10/researchers-reveal-detail-for-windows.html"> Full Text</a>
@@ -82,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts disclose technical details of now-patched CVE-2022-37969 Windows Zero-Day<a href="https://securityaffairs.co/wordpress/137119/hacking/cve-2022-37969-details.html"> Full Text</a>
@@ -102,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police tricks DeadBolt ransomware out of 155 decryption keys<a href="https://www.bleepingcomputer.com/news/security/police-tricks-deadbolt-ransomware-out-of-155-decryption-keys/"> Full Text</a>
@@ -118,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Alchimist C2 Framework Targets Windows, Linux, macOS<a href="https://cyware.com/news/new-alchimist-c2-framework-targets-windows-linux-macos-4c4d58ee"> Full Text</a>
@@ -134,7 +358,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chinese Cyberespionage Group Targeting IT Service Providers and Telcos<a href="https://thehackernews.com/2022/10/new-chinese-cyberespionage-group.html"> Full Text</a>
@@ -150,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WIP19, a new Chinese APT targets IT Service Providers and Telcos<a href="https://securityaffairs.co/wordpress/137107/apt/wip19-targets-middle-east-asia.html"> Full Text</a>
@@ -170,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: New Prestige ransomware targets orgs in Ukraine, Poland<a href="https://www.bleepingcomputer.com/news/security/microsoft-new-prestige-ransomware-targets-orgs-in-ukraine-poland/"> Full Text</a>
@@ -186,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YoWhatsApp - An Unofficial WhatsApp App Steals Credentials<a href="https://cyware.com/news/yowhatsapp-an-unofficial-whatsapp-app-steals-credentials-0e29cf5f"> Full Text</a>
@@ -202,7 +426,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PHP Version of Ducktail Malware Hijacking Facebook Business Accounts<a href="https://thehackernews.com/2022/10/new-php-version-of-ducktail-malware.html"> Full Text</a>
@@ -218,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC exploit code for critical bug CVE-2022-40684 in Fortinet products<a href="https://securityaffairs.co/wordpress/137095/hacking/fortinet-cve-2022-40684-poc.html"> Full Text</a>
@@ -238,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Student jailed for hacking female classmates’ email, Snapchat accounts<a href="https://www.bleepingcomputer.com/news/security/student-jailed-for-hacking-female-classmates-email-snapchat-accounts/"> Full Text</a>
@@ -254,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Cartel Ransomware: A Possible Connection With REvil<a href="https://unit42.paloaltonetworks.com/ransom-cartel-ransomware/?&web_view=true"> Full Text</a>
@@ -270,7 +494,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How To Build a Career as a Freelance Cybersecurity Analyst — From Scratch<a href="https://thehackernews.com/2022/10/how-to-build-career-as-freelance.html"> Full Text</a>
@@ -286,7 +510,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DJI drone tracking data exposed in the US<a href="https://securityaffairs.co/wordpress/137087/data-breach/dji-drone-tracking-data-exposed-in-us.html"> Full Text</a>
@@ -310,7 +534,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA releases open-source 'RedEye' C2 log visualization tool<a href="https://www.bleepingcomputer.com/news/security/cisa-releases-open-source-redeye-c2-log-visualization-tool/"> Full Text</a>
@@ -326,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DJI drone tracking data exposed in the US<a href="https://securityaffairs.co/wordpress/137087/data-breach/dji-drone-tracking-data-exposed-in-us.html?&web_view=true"> Full Text</a>
@@ -342,7 +566,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INTERPOL arrests ‘Black Axe’ cybercrime syndicate members<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-black-axe-cybercrime-syndicate-members/"> Full Text</a>
@@ -358,7 +582,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian police secret agents exposed in Colombian data leak<a href="https://www.bleepingcomputer.com/news/security/australian-police-secret-agents-exposed-in-colombian-data-leak/"> Full Text</a>
@@ -374,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2022
+October 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office 365 email encryption could expose message content<a href="https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/"> Full Text</a>
