@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DJI drone tracking data exposed in the US<a href="https://securityaffairs.co/wordpress/137087/data-breach/dji-drone-tracking-data-exposed-in-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 80,000 drone IDs were exposed in the leak of a database containing information from airspace monitoring devices manufactured by DJI.
+
+
+
+Original post at CyberNews: https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/
+
+
+
+Over 80,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DJI drone tracking data exposed in the US<a href="https://securityaffairs.co/wordpress/137087/data-breach/dji-drone-tracking-data-exposed-in-us.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 80,000 drone IDs were exposed in a data leak after a database containing information from dozens of airspace monitoring devices manufactured by the Chinese-owned DJI was left accessible to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian police secret agents exposed in Colombian data leak<a href="https://www.bleepingcomputer.com/news/security/australian-police-secret-agents-exposed-in-colombian-data-leak/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identities of secret agents working for the Australian Federal Police (AFP) have been exposed after hackers leaked documents stolen from the Colombian government.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

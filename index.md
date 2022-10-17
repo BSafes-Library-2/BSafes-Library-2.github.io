@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Venus Ransomware targets publicly exposed Remote Desktop services<a href="https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious Prestige ransomware targets organizations in Ukraine and Poland<a href="https://securityaffairs.co/wordpress/137203/apt/prestige-ransomware-targets-ukraine.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PHP information-stealing malware targets Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/new-php-information-stealing-malware-targets-facebook-accounts/"> Full Text</a>
@@ -86,7 +86,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors hacked hundreds of servers by exploiting Zimbra CVE-2022-41352 bug<a href="https://securityaffairs.co/wordpress/137164/apt/zimbra-cve-2022-41352-exploitation.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 389<a href="https://securityaffairs.co/wordpress/137161/breaking-news/security-affairs-newsletter-round-389.html"> Full Text</a>
@@ -130,7 +130,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack<a href="https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 45,000 VMware ESXi servers just reached end-of-life<a href="https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/"> Full Text</a>
@@ -162,7 +162,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges admins to patch bug with public exploit immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/"> Full Text</a>
@@ -178,7 +178,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PHP Version of Ducktail info-stealer hijacks Facebook Business accounts<a href="https://securityaffairs.co/wordpress/137145/malware/ducktail-php-targets-facebook.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Almost 900 servers hacked using Zimbra zero-day flaw<a href="https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/"> Full Text</a>
@@ -214,7 +214,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS<a href="https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html"> Full Text</a>
@@ -234,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian power generation giant Tata Power hit by a cyber attack<a href="https://securityaffairs.co/wordpress/137130/hacking/tata-power-cyber-attack.html"> Full Text</a>

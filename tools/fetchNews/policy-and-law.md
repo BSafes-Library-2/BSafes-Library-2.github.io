@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student jailed for hacking female classmates’ email, Snapchat accounts<a href="https://www.bleepingcomputer.com/news/security/student-jailed-for-hacking-female-classmates-email-snapchat-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, a Puerto Rico judge sentenced a former University of Puerto Rico (UPR) student to 13 months in prison for hacking over a dozen email and Snapchat accounts of female colleagues.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

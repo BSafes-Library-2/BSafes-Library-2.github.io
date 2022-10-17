@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How To Build a Career as a Freelance Cybersecurity Analyst — From Scratch<a href="https://thehackernews.com/2022/10/how-to-build-career-as-freelance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With each passing year, the cybersecurity threat landscape continues to worsen. That reality makes cybersecurity analysts some of the most sought-after technology professionals in the world. And there are nowhere near enough of them to meet the demand. At last count, there were over &nbsp;3.5 million unfilled cybersecurity jobs &nbsp;worldwide — and that number is still growing.  The situation means that it's a great time to become a cybersecurity analyst. What's more, the skyrocketing demand means it's possible to start a lucrative freelance career in the field and take complete control over your professional future. Here's a start-to-finish guide on how to do exactly that.  Start With the Right Training  The first step on the path to becoming a freelance cybersecurity analyst is to acquire the necessary skills. For those without an existing technology background, the best place to start is with a cybersecurity bootcamp. They're designed to get newcomers up to speed with ba
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

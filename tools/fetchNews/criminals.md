@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police tricks DeadBolt ransomware out of 155 decryption keys<a href="https://www.bleepingcomputer.com/news/security/police-tricks-deadbolt-ransomware-out-of-155-decryption-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch National Police, in collaboration with cybersecurity firm Responders.NU, tricked the DeadBolt ransomware gang into handing over 155 decryption keys by faking ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL arrests ‘Black Axe’ cybercrime syndicate members<a href="https://www.bleepingcomputer.com/news/security/interpol-arrests-black-axe-cybercrime-syndicate-members/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL has arrested over 70 suspected members of the 'Black Axe' cybercrime syndicate, with two believed to be responsible for $1.8 million in financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

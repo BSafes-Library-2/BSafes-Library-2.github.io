@@ -8,6 +8,74 @@ nav_order: 900015
 
 ## Attack
 ---
+October 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors hacked hundreds of servers by exploiting Zimbra CVE-2022-41352 bug<a href="https://securityaffairs.co/wordpress/137164/apt/zimbra-cve-2022-41352-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have compromised hundreds of servers exploiting critical flaw CVE-2022-41352 in Zimbra Collaboration Suite (ZCS).
+
+
+
+Last week, researchers from Rapid7 warned of the exploitation of unpatched zero-day remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack<a href="https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power Company Limited, India's largest integrated power company, on Friday confirmed it was targeted by a cyberattack.  The intrusion on IT infrastructure impacted "some of its IT systems," the company&nbsp; said &nbsp;in a filing with the National Stock Exchange (NSE) of India.   It further said it has taken steps to retrieve and restore the affected machines, adding it put in place security guardrails for customer-facing portals to prevent unauthorized access.  The Mumbai-based electric utility company, part of the Tata Group conglomerate, did not disclose any further details about the nature of the attack, or when it took place.  That said, cybersecurity firm Recorded Future in April&nbsp; disclosed &nbsp;attacks mounted by China-linked adversaries targeting Indian power grid organizations.  The network intrusions are said to have been aimed at "at least seven Indian State Load Despatch Centres (SLDCs) responsible for carrying out real-time operations for grid control and elect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 900 servers hacked using Zimbra zero-day flaw<a href="https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost 900 servers have been hacked using a critical Zimbra Collaboration Suite (ZCS) vulnerability, which at the time was a zero-day without a patch for nearly 1.5 months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian power generation giant Tata Power hit by a cyber attack<a href="https://securityaffairs.co/wordpress/137130/hacking/tata-power-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tata Power Company Limited, India's largest power generation&nbsp;company, announced it was hit by a cyberattack.
+
+
+
+Tata Power on Friday announced that was hit by a cyber attack. Threat actors hit the Information Technology (IT) infrastructure of the company.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
