@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail Tricks Victims to Steal Facebook Admin Credentials<a href="https://cyware.com/news/ducktail-tricks-victims-to-steal-facebook-admin-credentials-1ea38d63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly-launched phishing campaign by Ducktail operators is spreading malware via fake lures for games, subtitle files, adult videos, and cracked MS Office applications. The info-stealer, written in PHP, focuses on stealing Facebook account data and any valuable information stored in users’ account ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

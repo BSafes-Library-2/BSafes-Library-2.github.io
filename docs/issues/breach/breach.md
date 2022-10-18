@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail giant Woolworths discloses data breach of MyDeal online marketplace<a href="https://securityaffairs.co/wordpress/137262/data-breach/woolworths-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian retail giant Woolworths disclosed a data breach that impacted approximately 2.2 million MyDeal customers.
+
+
+
+Bad news for the customers of the MyDeal online marketplace, the Australian retail giant Woolworths disclosed a data breach that impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyDeal data breach impacts 2.2M users, stolen data for sale online<a href="https://www.bleepingcomputer.com/news/security/mydeal-data-breach-impacts-22m-users-stolen-data-for-sale-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Woolworths' MyDeal subsidiary has disclosed a data breach affecting 2.2 million customers, with the hacker trying to sell the stolen data on a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

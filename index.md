@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware dev claims to sell new BlackLotus Windows UEFI bootkit<a href="https://www.bleepingcomputer.com/news/security/malware-dev-claims-to-sell-new-blacklotus-windows-uefi-bootkit/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ducktail Tricks Victims to Steal Facebook Admin Credentials<a href="https://cyware.com/news/ducktail-tricks-victims-to-steal-facebook-admin-credentials-1ea38d63"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Hackers Infiltrates Networks via Qakbot to Deploy Brute Ratel C4<a href="https://thehackernews.com/2022/10/black-basta-ransomware-hackers.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retail giant Woolworths discloses data breach of MyDeal online marketplace<a href="https://securityaffairs.co/wordpress/137262/data-breach/woolworths-data-breach.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MyDeal data breach impacts 2.2M users, stolen data for sale online<a href="https://www.bleepingcomputer.com/news/security/mydeal-data-breach-impacts-22m-users-stolen-data-for-sale-online/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magniber Ransomware Learns New Techniques, Targets Home Users<a href="https://cyware.com/news/magniber-ransomware-learns-new-techniques-targets-home-users-681d0ee3"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Say Microsoft Office 365 Uses Broken Email Encryption to Secure Messages<a href="https://thehackernews.com/2022/10/researchers-claim-microsoft-office-365.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UEFI rootkit Black Lotus offered for sale at $5,000<a href="https://securityaffairs.co/wordpress/137252/malware/black-lotus-uefi-rootkit.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Mark of the Web bypass zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mark-of-the-web-bypass-zero-day-gets-unofficial-patch/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine, Poland Orgs Targeted by New Prestige Ransomware<a href="https://cyware.com/news/ukraine-poland-orgs-targeted-by-new-prestige-ransomware-5465e61d"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Crypto Winter is No Excuse to Let Your Cyber Defenses Falter<a href="https://thehackernews.com/2022/10/why-crypto-winter-is-no-excuse-to-let.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese tech firm Oomiya hit by LockBit 3.0. Multiple supply chains potentially impacted<a href="https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian insurance firm Medibank confirms ransomware attack<a href="https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Copybara Malware Uses Vishing Tricks to Target Italian Banking Users<a href="https://cyware.com/news/copybara-malware-uses-vishing-tricks-to-target-italian-banking-users-e8f2144f"> Full Text</a>
@@ -270,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Prestige Ransomware Targeting Polish and Ukrainian Organizations<a href="https://thehackernews.com/2022/10/new-prestige-ransomware-targeting.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bulgaria hit by a cyber attack originating from Russia<a href="https://securityaffairs.co/wordpress/137230/hacking/bulgaria-hit-cyber-attack-russia.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police dismantles criminal ring that hacked keyless cars<a href="https://www.bleepingcomputer.com/news/security/police-dismantles-criminal-ring-that-hacked-keyless-cars/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Cybersecurity Awareness Month: Don’t Fear the Cyber Goonies<a href="https://blogs.cisco.com/government/national-cybersecurity-awareness-month-dont-fear-the-cyber-goonies?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Cisco
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra Releases Patch for Actively Exploited Vulnerability in its Collaboration Suite<a href="https://thehackernews.com/2022/10/zimbra-releases-patch-for-actively.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol arrested 75 members of the cybercrime ring Black Axe<a href="https://securityaffairs.co/wordpress/137220/cyber-crime/interpol-arrests-black-axe-members.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack halts circulation of some German newspapers<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-halts-circulation-of-some-german-newspapers/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Actors Target a Major Indian Pharma Company<a href="https://ciso.economictimes.indiatimes.com/news/after-ipca-laboratories-pharma-major-aarti-drugs-hit-by-ransomware-attack-data-leaked-on-dark-web/94913796?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ The Times Of India
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INTERPOL-led Operation Takes Down 'Black Axe' Cyber Crime Organization<a href="https://thehackernews.com/2022/10/interpol-led-operation-takes-down-black.html"> Full Text</a>
@@ -422,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 45,654 VMware ESXi servers reached End of Life on Oct. 15<a href="https://securityaffairs.co/wordpress/137191/security/vmware-esxi-eol.html"> Full Text</a>
@@ -442,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese Tech firm Oomiya Hit by LockBit 3.0; Supply Chains Impacted<a href="https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html?&web_view=true"> Full Text</a>
@@ -458,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2022
+October 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Black Lotus' UEFI Rootkit Provides APT-Level Capabilities to Cybercriminals<a href="https://www.securityweek.com/new-black-lotus-uefi-rootkit-provides-apt-level-capabilities-cybercriminals?&web_view=true"> Full Text</a>

@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 45,000 VMware ESXi servers just reached end-of-life<a href="https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 45,000 VMware ESXi servers inventoried by Lansweeper just reached end-of-life (EOL), with VMware no longer providing software and security updates unless companies purchase an extended support contract.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges admins to patch bug with public exploit immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet urges customers to urgently patch their appliances against a critical&nbsp;authentication&nbsp;bypass FortiOS, FortiProxy, and FortiSwitchManager vulnerability exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS<a href="https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks addressed a high-severity authentication bypass vulnerability affecting the PAN-OS 8.1 software.
+
+
+
+Palo Alto Networks released security patches to address a high-severity authentication bypass flaw, tracked as CVE-2022-0030 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

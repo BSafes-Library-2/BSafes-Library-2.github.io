@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack halts circulation of some German newspapers<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-halts-circulation-of-some-german-newspapers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German newspaper 'Heilbronn Stimme' published today's 28-page issue in e-paper form after a Friday ransomware attack crippled its printing systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

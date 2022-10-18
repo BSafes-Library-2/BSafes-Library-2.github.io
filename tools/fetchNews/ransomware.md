@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venus Ransomware targets publicly exposed Remote Desktop services<a href="https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the relatively new Venus Ransomware are hacking into publicly-exposed Remote Desktop services to encrypt Windows devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Prestige ransomware targets organizations in Ukraine and Poland<a href="https://securityaffairs.co/wordpress/137203/apt/prestige-ransomware-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns that new Prestige ransomware is targeting transportation and logistics organizations in Ukraine and Poland.
+
+
+
+Microsoft reported that new Prestige ransomware is being used in attacks aimed at transportation and logistics organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
