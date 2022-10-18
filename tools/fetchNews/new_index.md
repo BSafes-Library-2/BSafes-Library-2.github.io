@@ -34,7 +34,447 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware dev claims to sell new BlackLotus Windows UEFI bootkit<a href="https://www.bleepingcomputer.com/news/security/malware-dev-claims-to-sell-new-blacklotus-windows-uefi-bootkit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is selling on hacking forums what they claim to be a new UEFI bootkit named BlackLotus, a malicious tool with capabilities usually linked to state-backed threat groups.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail Tricks Victims to Steal Facebook Admin Credentials<a href="https://cyware.com/news/ducktail-tricks-victims-to-steal-facebook-admin-credentials-1ea38d63"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly-launched phishing campaign by Ducktail operators is spreading malware via fake lures for games, subtitle files, adult videos, and cracked MS Office applications. The info-stealer, written in PHP, focuses on stealing Facebook account data and any valuable information stored in users’ account ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Hackers Infiltrates Networks via Qakbot to Deploy Brute Ratel C4<a href="https://thehackernews.com/2022/10/black-basta-ransomware-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  Black Basta   ransomware family  have been observed using the Qakbot trojan to deploy the Brute Ratel C4 framework as a second-stage payload in recent attacks.  The development marks the first time the  nascent adversary simulation software  is being delivered via a Qakbot infection, cybersecurity firm Trend Micro  said  in a technical analysis released last week.  The intrusion, achieved using a phishing email containing a weaponized link pointing to a ZIP archive, further entailed the use of Cobalt Strike for lateral movement.  While these legitimate utilities are designed for conducting penetration testing activities, their ability to offer remote access has made them a lucrative tool in the hands of attackers looking to stealthily probe the compromised environment without attracting attention for extended periods of time.  This has been compounded by the fact that a  cracked version  of Brute Ratel C4 began circulating last month across the cybercrimi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail giant Woolworths discloses data breach of MyDeal online marketplace<a href="https://securityaffairs.co/wordpress/137262/data-breach/woolworths-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian retail giant Woolworths disclosed a data breach that impacted approximately 2.2 million MyDeal customers.
+
+
+
+Bad news for the customers of the MyDeal online marketplace, the Australian retail giant Woolworths disclosed a data breach that impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyDeal data breach impacts 2.2M users, stolen data for sale online<a href="https://www.bleepingcomputer.com/news/security/mydeal-data-breach-impacts-22m-users-stolen-data-for-sale-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Woolworths' MyDeal subsidiary has disclosed a data breach affecting 2.2 million customers, with the hacker trying to sell the stolen data on a hacker forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber Ransomware Learns New Techniques, Targets Home Users<a href="https://cyware.com/news/magniber-ransomware-learns-new-techniques-targets-home-users-681d0ee3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Magniber campaign was found delivering fake Windows 10 and antivirus software updates to target home users, while staying undetected. Post-encryption the attackers demand a ransom of up to $2,500. In April 2022, Magniber was spotted spreading as a Windows 10 update through malicious websites. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Say Microsoft Office 365 Uses Broken Email Encryption to Secure Messages<a href="https://thehackernews.com/2022/10/researchers-claim-microsoft-office-365.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has disclosed what's being called a security vulnerability in Microsoft 365 that could be exploited to infer message contents due to the use of a broken cryptographic algorithm.  "The [Office 365 Message Encryption] messages are encrypted in insecure Electronic Codebook ( ECB ) mode of operation," Finnish cybersecurity company WithSecure  said  in a report published last week.  Office 365 Message Encryption (OME) is a security mechanism used to send and receive encrypted email messages between users inside and outside an organization without revealing anything about the communications themselves.   A consequence of the newly disclosed issue is that rogue third-parties gaining access to the encrypted email messages may be able to decipher the messages, effectively breaking confidentiality protections.  Electronic Codebook is one of the simplest modes of encryption wherein each message block is encoded separately by a key, meaning identical plaintext blocks wi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UEFI rootkit Black Lotus offered for sale at $5,000<a href="https://securityaffairs.co/wordpress/137252/malware/black-lotus-uefi-rootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Lotus is a new, powerful Windows UEFI rootkit advertised on underground criminal forums, researcher warns.
+
+
+
+Cybersecurity researcher Scott Scheferman reported that a new Windows UEFI rootkit, dubbed Black Lotus, is advertised on underground criminal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Mark of the Web bypass zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mark-of-the-web-bypass-zero-day-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch has been released through the 0patch platform to address an actively exploited zero-day flaw in the Windows Mark of the Web (MotW) security mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine, Poland Orgs Targeted by New Prestige Ransomware<a href="https://cyware.com/news/ukraine-poland-orgs-targeted-by-new-prestige-ransomware-5465e61d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Threat Intelligence Center discovered a new ransomware attack campaign directed at the transportation and logistics entities in Ukraine and Poland. For now, researchers have attributed the infections to an unnamed cluster - DEV-0960. They are also clueless about the method of initial acce ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Crypto Winter is No Excuse to Let Your Cyber Defenses Falter<a href="https://thehackernews.com/2022/10/why-crypto-winter-is-no-excuse-to-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Don't let the ongoing " crypto winter " lull you into a false sense of cybersecurity. Even as  cryptocurrencies lose value  — and some crypto companies  file for bankruptcy  —  cryptojacking  still poses an urgent threat to enterprises across industries, from financial services to healthcare to industry 4.0 and beyond.   Broadly speaking, cryptojacking is defined as the unauthorized and illegitimate use of an unwitting party's compute and/or server power by a malicious actor to mine cryptocurrencies. While everyone with an internet connection is technically vulnerable to cryptojacking, most attacks target enterprises with significant compute resources, especially those with an outsized number of third-party relationships. (More on that last part in a bit.) And if a malicious actor can breach your cybersecurity defenses for cryptojacking purposes, they can breach them for any number of nefarious reasons.   Under normal conditions, mining for cryptocurrency is hugely expensive because d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese tech firm Oomiya hit by LockBit 3.0. Multiple supply chains potentially impacted<a href="https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT infrastructure of the Japanese tech company Oomiya was infected with the LockBit 3.0 ransomware.
+
+
+
+One of the affiliates for the LockBit 3.0 RaaS hit the Japanese tech company Oomiya. Oomiya is focused on designing and manufacturing microelectronics and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian insurance firm Medibank confirms ransomware attack<a href="https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health insurance provider Medibank has confirmed that a ransomware attack is responsible for last week's cyberattack and disruption of online services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copybara Malware Uses Vishing Tricks to Target Italian Banking Users<a href="https://cyware.com/news/copybara-malware-uses-vishing-tricks-to-target-italian-banking-users-e8f2144f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at ThreatFabric uncovered an Android banking malware attack phishing users for their contact details and sensitive banking data. The malware, dubbed Copybara, can extract usernames and passwords for multiple banking accounts. The attack begins with an SMS phishing message purported to a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Prestige Ransomware Targeting Polish and Ukrainian Organizations<a href="https://thehackernews.com/2022/10/new-prestige-ransomware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware campaign targeted the transportation and logistics sectors in Ukraine and Poland on October 11 with a previously unknown payload dubbed  Prestige .  "The activity shares victimology with recent Russian state-aligned activity, specifically on affected geographies and countries, and overlaps with previous victims of the  FoxBlade  malware (also known as HermeticWiper)," the Microsoft Threat Intelligence Center (MSTIC)  said .  The tech giant remarked the intrusions occurred within an hour of each other across all victims, attributing the infections to an unnamed cluster called DEV-0960. It did not disclose the scale of the attacks, but stated it's notifying all affected customers.  The campaign is also believed to be distinct from other recent destructive attacks that have involved the use of  HermeticWiper  and  CaddyWiper , the latter of which is launched by a malware loader called  ArguePatch  (aka AprilAxe).   The method of initial access remains unkno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulgaria hit by a cyber attack originating from Russia<a href="https://securityaffairs.co/wordpress/137230/hacking/bulgaria-hit-cyber-attack-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government institutions in Bulgaria have been hit by a cyber attack during the weekend, experts believe it was launched by Russian threat actors.
+
+
+
+The infrastructure of government institutions in Bulgaria has been hit by a massive DDoS attack. The attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police dismantles criminal ring that hacked keyless cars<a href="https://www.bleepingcomputer.com/news/security/police-dismantles-criminal-ring-that-hacked-keyless-cars/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities from France, Latvia, and Spain arrested 31 suspects believed to be part of a car theft ring that targeted vehicles from two French car manufacturers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Cybersecurity Awareness Month: Don’t Fear the Cyber Goonies<a href="https://blogs.cisco.com/government/national-cybersecurity-awareness-month-dont-fear-the-cyber-goonies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+User education has always been seen as a critical part of any cybersecurity plan. That’s because most cyber attacks still start with phishing, usually as an email trying to lure the user into giving up their password or other critical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Releases Patch for Actively Exploited Vulnerability in its Collaboration Suite<a href="https://thehackernews.com/2022/10/zimbra-releases-patch-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra has  released patches  to contain an actively exploited security flaw in its enterprise collaboration suite that could be leveraged to upload arbitrary files to vulnerable instances.  Tracked as  CVE-2022-41352  (CVSS score: 9.8), the issue affects a component of the Zimbra suite called  Amavis , an open source content filter, and more specifically, the cpio utility it uses to scan and extract archives.   The flaw, in turn, is said to be rooted in another underlying vulnerability ( CVE-2015-1197 ) that was first disclosed in early 2015, which  according to Flashpoint  was rectified, only to be subsequently reverted in later Linux distributions.  "An attacker can use cpio package to gain incorrect access to any other user accounts," Zimbra said in an advisory published last week, adding it "recommends pax over cpio."  Fixes are available in the following versions -   Zimbra 9.0.0 Patch 27  Zimbra 8.8.15 Patch 34   All an adversary seeking needs to do to weapo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrested 75 members of the cybercrime ring Black Axe<a href="https://securityaffairs.co/wordpress/137220/cyber-crime/interpol-arrests-black-axe-members.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has announced the arrests of 75 individuals as part of a coordinated international operation against an organized cybercrime ring called Black Axe.
+
+
+
+Interpol arrested 75 individuals as part of a coordinated global operation, codenamed Operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack halts circulation of some German newspapers<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-halts-circulation-of-some-german-newspapers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German newspaper 'Heilbronn Stimme' published today's 28-page issue in e-paper form after a Friday ransomware attack crippled its printing systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Actors Target a Major Indian Pharma Company<a href="https://ciso.economictimes.indiatimes.com/news/after-ipca-laboratories-pharma-major-aarti-drugs-hit-by-ransomware-attack-data-leaked-on-dark-web/94913796?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaked data from Aarti Drugs includes business and administration data, including loan documents, and tax filing information. Whereas, stolen data from Ipca Laboratories includes employee records, formulation data, and financial and audit reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL-led Operation Takes Down 'Black Axe' Cyber Crime Organization<a href="https://thehackernews.com/2022/10/interpol-led-operation-takes-down-black.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Criminal Police Organization, also called the Interpol, has announced the arrests of 75 individuals as part of a coordinated global operation against an organized cyber crime syndicate called  Black Axe .  "'Black Axe' and other West African organized crime groups have developed transnational networks, defrauding victims of millions while channeling their profits into lavish lifestyles and other criminal activities, from drug trafficking to sexual exploitation," the agency  said .  The law enforcement effort, codenamed Operation Jackal, involved the participation of Argentina, Australia, Côte d'Ivoire, France, Germany, Ireland, Italy, Malaysia, Nigeria, Spain, South Africa, the U.A.E, the U.K., and the U.S.   Two of the alleged online scammers, who were arrested late last month in South Africa, are believed to have orchestrated a variety of fraudulent schemes that netted them $1.8 million from victims.  The probe further led to 49 property searc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+45,654 VMware ESXi servers reached End of Life on Oct. 15<a href="https://securityaffairs.co/wordpress/137191/security/vmware-esxi-eol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lansweeper warns that over 45,000 VMware ESXi servers exposed online have reached end-of-life (EOL), making them an easy target for attackers.
+
+
+
+IT Asset Management software provider Lansweeper has scanned the Internet for VMware ESXi servers and found...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Tech firm Oomiya Hit by LockBit 3.0; Supply Chains Impacted<a href="https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit 3.0 operators claim to have stolen data from the company and threaten to leak it by October 20, 2022 if the company will not pay the ransom. At this time, the ransomware gang has yet to publish samples of the alleged stolen documents.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Black Lotus' UEFI Rootkit Provides APT-Level Capabilities to Cybercriminals<a href="https://www.securityweek.com/new-black-lotus-uefi-rootkit-provides-apt-level-capabilities-cybercriminals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Lotus provides a full set of capabilities to attackers, including file transfer and tasking support, and can potentially become a major threat across IT and OT environments.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Venus Ransomware targets publicly exposed Remote Desktop services<a href="https://www.bleepingcomputer.com/news/security/venus-ransomware-targets-publicly-exposed-remote-desktop-services/"> Full Text</a>
@@ -50,7 +490,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mysterious Prestige ransomware targets organizations in Ukraine and Poland<a href="https://securityaffairs.co/wordpress/137203/apt/prestige-ransomware-targets-ukraine.html"> Full Text</a>
@@ -70,7 +510,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PHP information-stealing malware targets Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/new-php-information-stealing-malware-targets-facebook-accounts/"> Full Text</a>
@@ -86,7 +526,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors hacked hundreds of servers by exploiting Zimbra CVE-2022-41352 bug<a href="https://securityaffairs.co/wordpress/137164/apt/zimbra-cve-2022-41352-exploitation.html"> Full Text</a>
@@ -106,7 +546,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2022
+October 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 389<a href="https://securityaffairs.co/wordpress/137161/breaking-news/security-affairs-newsletter-round-389.html"> Full Text</a>
@@ -130,7 +570,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Energy Company Tata Power's IT Infrastructure Hit By Cyber Attack<a href="https://thehackernews.com/2022/10/indian-energy-company-tata-powers-it.html"> Full Text</a>
@@ -146,7 +586,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 45,000 VMware ESXi servers just reached end-of-life<a href="https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/"> Full Text</a>
@@ -162,7 +602,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges admins to patch bug with public exploit immediately<a href="https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/"> Full Text</a>
@@ -178,7 +618,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PHP Version of Ducktail info-stealer hijacks Facebook Business accounts<a href="https://securityaffairs.co/wordpress/137145/malware/ducktail-php-targets-facebook.html"> Full Text</a>
@@ -198,7 +638,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Almost 900 servers hacked using Zimbra zero-day flaw<a href="https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/"> Full Text</a>
@@ -214,7 +654,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks fixed a high-severity auth bypass flaw in PAN-OS<a href="https://securityaffairs.co/wordpress/137138/security/palo-alto-networks-pan-os-flaw-3.html"> Full Text</a>
@@ -234,7 +674,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 15, 2022
+October 15, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian power generation giant Tata Power hit by a cyber attack<a href="https://securityaffairs.co/wordpress/137130/hacking/tata-power-cyber-attack.html"> Full Text</a>
