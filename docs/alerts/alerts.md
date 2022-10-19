@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Potential Fraud Schemes Targeting Individuals Seeking Federal Student Loan Forgiveness <a href="https://www.ic3.gov/Media/Y2022/PSA221018"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of the potential for fraudulent websites, e-mails, texts, or phone scams aiming to defraud individuals seeking federal student loan forgiveness. Scammers will aim to solicit personally identifiable information, financial information, or payment from potential victims.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 18, 2022 - FTC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
