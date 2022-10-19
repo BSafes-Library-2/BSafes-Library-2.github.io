@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Crypto Winter is No Excuse to Let Your Cyber Defenses Falter<a href="https://thehackernews.com/2022/10/why-crypto-winter-is-no-excuse-to-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Don't let the ongoing " crypto winter " lull you into a false sense of cybersecurity. Even as&nbsp; cryptocurrencies lose value &nbsp;— and some crypto companies&nbsp; file for bankruptcy &nbsp;—&nbsp; cryptojacking &nbsp;still poses an urgent threat to enterprises across industries, from financial services to healthcare to industry 4.0 and beyond.&nbsp;  Broadly speaking, cryptojacking is defined as the unauthorized and illegitimate use of an unwitting party's compute and/or server power by a malicious actor to mine cryptocurrencies. While everyone with an internet connection is technically vulnerable to cryptojacking, most attacks target enterprises with significant compute resources, especially those with an outsized number of third-party relationships. (More on that last part in a bit.) And if a malicious actor can breach your cybersecurity defenses for cryptojacking purposes, they can breach them for any number of nefarious reasons.&nbsp;  Under normal conditions, mining for cryptocurrency is hugely expensive because d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

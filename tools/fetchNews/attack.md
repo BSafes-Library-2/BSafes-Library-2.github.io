@@ -8,6 +8,84 @@ nav_order: 900015
 
 ## Attack
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese tech firm Oomiya hit by LockBit 3.0. Multiple supply chains potentially impacted<a href="https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT infrastructure of the Japanese tech company Oomiya was infected with the LockBit 3.0 ransomware.
+
+
+
+One of the affiliates for the LockBit 3.0 RaaS hit the Japanese tech company Oomiya. Oomiya is focused on designing and manufacturing&nbsp;microelectronics&nbsp;and...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian insurance firm Medibank confirms ransomware attack<a href="https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Health insurance provider Medibank has confirmed that a ransomware attack is responsible for last week's cyberattack and disruption of online services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bulgaria hit by a cyber attack originating from Russia<a href="https://securityaffairs.co/wordpress/137230/hacking/bulgaria-hit-cyber-attack-russia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government institutions in Bulgaria have been hit by a cyber attack during the weekend, experts believe it was launched by Russian threat actors.
+
+
+
+The infrastructure of government institutions in Bulgaria has been hit by a massive DDoS attack. The attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Actors Target a Major Indian Pharma Company<a href="https://ciso.economictimes.indiatimes.com/news/after-ipca-laboratories-pharma-major-aarti-drugs-hit-by-ransomware-attack-data-leaked-on-dark-web/94913796?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leaked data from Aarti Drugs includes business and administration data, including loan documents, and tax filing information. Whereas, stolen data from Ipca Laboratories includes employee records, formulation data, and financial and audit reports.
+</details>
+<div style="text-align: right" markdown="1">
+The Times Of India
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Tech firm Oomiya Hit by LockBit 3.0; Supply Chains Impacted<a href="https://securityaffairs.co/wordpress/137243/cyber-crime/oomiya-lockbit-3-0-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit 3.0 operators claim to have stolen data from the company and threaten to leak it by October 20, 2022 if the company will not pay the ransom. At this time, the ransomware gang has yet to publish samples of the alleged stolen documents.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

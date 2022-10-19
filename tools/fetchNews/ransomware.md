@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magniber Ransomware Learns New Techniques, Targets Home Users<a href="https://cyware.com/news/magniber-ransomware-learns-new-techniques-targets-home-users-681d0ee3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Magniber campaign was found delivering fake Windows 10 and antivirus software updates to target home users, while staying undetected. Post-encryption the attackers demand a ransom of up to $2,500. In April 2022, Magniber was spotted spreading as a Windows 10 update through malicious websites. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine, Poland Orgs Targeted by New Prestige Ransomware<a href="https://cyware.com/news/ukraine-poland-orgs-targeted-by-new-prestige-ransomware-5465e61d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Threat Intelligence Center discovered a new ransomware attack campaign directed at the transportation and logistics entities in Ukraine and Poland. For now, researchers have attributed the infections to an unnamed cluster - DEV-0960. They are also clueless about the method of initial acce ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Prestige Ransomware Targeting Polish and Ukrainian Organizations<a href="https://thehackernews.com/2022/10/new-prestige-ransomware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware campaign targeted the transportation and logistics sectors in Ukraine and Poland on October 11 with a previously unknown payload dubbed&nbsp; Prestige .  "The activity shares victimology with recent Russian state-aligned activity, specifically on affected geographies and countries, and overlaps with previous victims of the&nbsp; FoxBlade &nbsp;malware (also known as HermeticWiper)," the Microsoft Threat Intelligence Center (MSTIC)&nbsp; said .  The tech giant remarked the intrusions occurred within an hour of each other across all victims, attributing the infections to an unnamed cluster called DEV-0960. It did not disclose the scale of the attacks, but stated it's notifying all affected customers.  The campaign is also believed to be distinct from other recent destructive attacks that have involved the use of&nbsp; HermeticWiper &nbsp;and&nbsp; CaddyWiper , the latter of which is launched by a malware loader called&nbsp; ArguePatch &nbsp;(aka AprilAxe).   The method of initial access remains unkno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

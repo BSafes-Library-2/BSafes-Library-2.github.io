@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police dismantles criminal ring that hacked keyless cars<a href="https://www.bleepingcomputer.com/news/security/police-dismantles-criminal-ring-that-hacked-keyless-cars/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities from France, Latvia, and Spain arrested 31 suspects believed to be part of a&nbsp;car theft ring that targeted vehicles from two&nbsp;French car manufacturers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol arrested 75 members of the cybercrime ring Black Axe<a href="https://securityaffairs.co/wordpress/137220/cyber-crime/interpol-arrests-black-axe-members.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has announced the arrests of 75 individuals as part of a coordinated international operation against an organized cybercrime ring called&nbsp;Black Axe.
+
+
+
+Interpol arrested 75 individuals as part of a coordinated global operation, codenamed Operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL-led Operation Takes Down 'Black Axe' Cyber Crime Organization<a href="https://thehackernews.com/2022/10/interpol-led-operation-takes-down-black.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Criminal Police Organization, also called the Interpol, has announced the arrests of 75 individuals as part of a coordinated global operation against an organized cyber crime syndicate called&nbsp; Black Axe .  "'Black Axe' and other West African organized crime groups have developed transnational networks, defrauding victims of millions while channeling their profits into lavish lifestyles and other criminal activities, from drug trafficking to sexual exploitation," the agency&nbsp; said .  The law enforcement effort, codenamed Operation Jackal, involved the participation of Argentina, Australia, Côte d'Ivoire, France, Germany, Ireland, Italy, Malaysia, Nigeria, Spain, South Africa, the U.A.E, the U.K., and the U.S.   Two of the alleged online scammers, who were arrested late last month in South Africa, are believed to have orchestrated a variety of fraudulent schemes that netted them $1.8 million from victims.  The probe further led to 49 property searc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

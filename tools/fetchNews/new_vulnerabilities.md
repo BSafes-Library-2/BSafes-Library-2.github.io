@@ -8,6 +8,102 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Code Execution issue impacts popular post-exploitation toolkit Cobalt Strike<a href="https://securityaffairs.co/wordpress/137284/hacking/cobalt-strike-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelpSystems, the company that developed the Cobalt Strike platform, addressed a critical remote code execution vulnerability in its software.
+
+
+
+HelpSystems, the company that developed the commercial post-exploitation toolkit Cobalt Strike, addressed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Discovered in Popular Cobalt Strike Hacking Software<a href="https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelpSystems, the company behind the Cobalt Strike software platform, has released an out-of-band security update to address a remote code execution vulnerability that could allow an attacker to take control of targeted systems.  Cobalt Strike is a commercial red-team framework that's mainly used for adversary simulation, but cracked versions of the software have been&nbsp; actively &nbsp; abused &nbsp;by ransomware operators and espionage-focused advanced persistent threat (APT) groups alike.  The&nbsp; post-exploitation tool &nbsp;consists of a team server, which functions as a command-and-control (C2) component, and a beacon, the default malware used to create a connection to the team server and drop next-stage payloads.   The issue, tracked as&nbsp; CVE-2022-42948 , affects Cobalt Strike version 4.7.1, and stems from an incomplete patch released on September 20, 2022, to rectify a cross-site scripting ( XSS ) vulnerability ( CVE-2022-39197 ) that could lead to remote code execution.  "The XSS vulnerabi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 17000 Fortinet devices exposed online are very likely vulnerable to CVE-2022-40684<a href="https://securityaffairs.co/wordpress/137273/hacking/fortinet-cve-2022-40684-vulnerable-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet confirmed that many systems are still vulnerable to attacks exploiting the&nbsp;CVE-2022-40684 zero-day vulnerability.
+
+
+
+Fortinet is urging customers to address the&nbsp;recently discovered CVE-2022-40684 zero-day vulnerability. Unfortunately, the number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Text message verification flaws in your Windows Active Directory<a href="https://www.bleepingcomputer.com/news/security/text-message-verification-flaws-in-your-windows-active-directory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While text messaging-based MFA goes a long way toward protecting an org against compromised credentials, it also has vulnerabilities of its own. Orgs must look for ways around the flaws associated with test-based MFA by upgrading to multi-factor authentication. Learn more in this article from Specops Software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text<a href="https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are closely tracking a critical, newly disclosed vulnerability in Apache Commons Text that gives unauthenticated attackers a way to execute code remotely on servers running applications with the affected component.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-28762: Zoom for macOS contains a debugging port misconfiguration<a href="https://securityaffairs.co/wordpress/137266/security/zoom-macos-cve-2022-28762.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video messaging company Zoom fixed a high-severity vulnerability, tracked as CVE-2022-28762, in Zoom Client for Meetings for macOS.
+
+
+
+Zoom Client for Meetings for macOS (Standard and for IT Admin) is affected by a debugging port misconfiguration. The issue,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

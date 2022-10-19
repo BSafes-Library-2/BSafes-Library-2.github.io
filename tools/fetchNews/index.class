@@ -34,6 +34,362 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Cartel linked to notorious REvil ransomware operation<a href="https://www.bleepingcomputer.com/news/security/ransom-cartel-linked-to-notorious-revil-ransomware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have connected the pieces that link the Ransom Cartel RaaS (ransomware-as-a-service) to the REvil gang, one of the most notorious and prolific ransomware groups in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keystone Health Data Breach Impacts 235,000 Patients<a href="https://www.securityweek.com/keystone-health-data-breach-impacts-235000-patients?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notification published on its website, Keystone is disclosing a cybersecurity incident identified on August 19 and which has resulted in the disruption of some systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Сryptocurrency and Ransomware — The Ultimate Friendship<a href="https://thehackernews.com/2022/10/ryptocurrency-and-ransomware-ultimate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both cryptocurrency and ransomware are nothing new in the digital world; both have been there for a very long time, which was enough for them to find common pieces for starting their relationship.  Ransomware can be like a virtual car that works on all types of fuels, and crypto is the one that is currently most recommended. No one can argue that 2020 was the year of ransomware in the cyber world, but it wasn't due to the fact that cybercriminals chose ransomware just because they knew how to attack properly. It's because of the fact that crypto rose mostly this year, along with the new normal of the digital world. It gave them a new cause to stick to ransomware, thanks to the anonymous payments that can be made using a cryptocurrency.   How does ransomware work?   Ransomware is a malware type that encrypts the victim's files, whether it's a random user or an organization, leading to denying them access to those files on their personal devices.  And the key to gaining
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement arrested 31 suspects for stealing cars by hacking key fobs<a href="https://securityaffairs.co/wordpress/137311/cyber-crime/cybercrime-key-fobs-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation led by Europol disrupted a cybercrime ring focused on hacking wireless key fobs to steal cars.
+
+
+
+The French authorities in cooperation with their Spanish and Latvian peers, and with the support of Europol and Eurojust,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Scammers likely to target US Student Loan Debt Relief applicants<a href="https://www.bleepingcomputer.com/news/security/fbi-scammers-likely-to-target-us-student-loan-debt-relief-applicants/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has released a warning that scammers may be targeting individuals seeking to enroll in the Federal Student Aid program to steal their personal information, payment details, and money.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PHP Malware Distributed as Cracked Microsoft Office Apps, Telegram<a href="https://gbhackers.com/php-malware-office/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zscaler ThreatLabz research team observed a PHP version of ‘Ducktail’ Infostealer distributed in the form of cracked application installer for a variety of applications including games, Microsoft Office applications, Telegram, and others.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese 'Spyder Loader' Malware Spotted Targeting Organizations in Hong Kong<a href="https://thehackernews.com/2022/10/chinese-spyder-loader-malware-spotted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-aligned espionage-focused actor dubbed Winnti has set its sights on government organizations in Hong Kong as part of an ongoing campaign dubbed  Operation CuckooBees .  Active since at least 2007,  Winnti  (aka APT41, Barium, Bronze Atlas, and Wicked Panda) is the name designated to a prolific cyber threat group that carries out Chinese state-sponsored espionage activity, predominantly aimed at stealing intellectual property from organizations in developed economies.  The threat actor's campaigns have targeted healthcare, telecoms, high-tech, media, agriculture, and education sectors, with infection chains primarily relying on spear-phishing emails with attachments to initially break into the victims' networks.  Earlier this May, Cybereason  disclosed  long-running attacks orchestrated by the group since 2019 to siphon technology secrets from technology and manufacturing companies mainly located in East Asia, Western Europe, and North America.   The intrusions, clubb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT41 group targets Hong Kong with Spyder Loader<a href="https://securityaffairs.co/wordpress/137300/apt/apt41-spyder-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors APT41 (a.k.a. Winnti) targeted organizations in Hong Kong, in some cases remaining undetected for a year.
+
+
+
+Symantec researchers reported that cyberespionage group APT41 targeted organizations in Hong Kong in a campaign that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Asian casinos in lengthy cyberespionage campaign<a href="https://www.bleepingcomputer.com/news/security/hackers-target-asian-casinos-in-lengthy-cyberespionage-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group named 'DiceyF' has been observed deploying a malicious attack framework against online casinos based in Southeast Asia since at least November 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vinomofo Suffers Major Data Breach<a href="https://www.smh.com.au/technology/online-wine-seller-vinomofo-suffers-major-data-breach-20221018-p5bqlf.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online wine seller Vinomofo has disclosed a major data breach in which an intruder accessed customers’ personal information including names, dates of birth, addresses, and contact details.
+</details>
+<div style="text-align: right" markdown="1">
+Sydney Morning Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Police Arrest a Gang That Hacked Wireless Key Fobs to Steal Cars<a href="https://thehackernews.com/2022/10/european-police-arrest-gang-that-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities in France, in collaboration with Spain and Latvia, have disrupted a cybercrime ring that leveraged a hacking tool to steal cars without having to use a physical key fob.  "The criminals targeted vehicles with keyless entry and start systems, exploiting the technology to get into the car and drive away," Europol  said  in a press statement.   The coordinated operation, which took place on October 10, 2022, resulted in the arrest of 31 suspects from across 22 locations in the three nations, including software developers, its resellers, and the car thieves who used the tool to break into vehicles.  Also confiscated by the officials as part of the arrests were criminal assets worth €1,098,500, not to mention an internet domain that allegedly advertised the service online.  Per Europol, the criminals are said to have singled out keyless vehicles from two unnamed French car manufacturers. The perpetrators then used the fraudulent package to replace the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Code Execution issue impacts popular post-exploitation toolkit Cobalt Strike<a href="https://securityaffairs.co/wordpress/137284/hacking/cobalt-strike-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelpSystems, the company that developed the Cobalt Strike platform, addressed a critical remote code execution vulnerability in its software.
+
+
+
+HelpSystems, the company that developed the commercial post-exploitation toolkit Cobalt Strike, addressed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon notifies prepaid customers their accounts were breached<a href="https://www.bleepingcomputer.com/news/security/verizon-notifies-prepaid-customers-their-accounts-were-breached/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon warned an undisclosed number of prepaid customers that attackers gained access to Verizon accounts and used exposed credit card info in SIM swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Data Leaks Add to Australia's Data Security Reckoning<a href="https://www.bankinfosecurity.com/new-data-leaks-add-to-australias-data-security-reckoning-a-20280?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data from MyDeal[.]com[.]au, a marketplace owned by Australia's largest grocery chain Woolworths Group, has appeared for sale on a data leak forum. The data breach appears to be legitimate as per Troy Hunt, a data breach expert
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Discovered in Popular Cobalt Strike Hacking Software<a href="https://thehackernews.com/2022/10/critical-rce-vulnerability-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HelpSystems, the company behind the Cobalt Strike software platform, has released an out-of-band security update to address a remote code execution vulnerability that could allow an attacker to take control of targeted systems.  Cobalt Strike is a commercial red-team framework that's mainly used for adversary simulation, but cracked versions of the software have been  actively   abused  by ransomware operators and espionage-focused advanced persistent threat (APT) groups alike.  The  post-exploitation tool  consists of a team server, which functions as a command-and-control (C2) component, and a beacon, the default malware used to create a connection to the team server and drop next-stage payloads.   The issue, tracked as  CVE-2022-42948 , affects Cobalt Strike version 4.7.1, and stems from an incomplete patch released on September 20, 2022, to rectify a cross-site scripting ( XSS ) vulnerability ( CVE-2022-39197 ) that could lead to remote code execution.  "The XSS vulnerabi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 17000 Fortinet devices exposed online are very likely vulnerable to CVE-2022-40684<a href="https://securityaffairs.co/wordpress/137273/hacking/fortinet-cve-2022-40684-vulnerable-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet confirmed that many systems are still vulnerable to attacks exploiting the CVE-2022-40684 zero-day vulnerability.
+
+
+
+Fortinet is urging customers to address the recently discovered CVE-2022-40684 zero-day vulnerability. Unfortunately, the number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Text message verification flaws in your Windows Active Directory<a href="https://www.bleepingcomputer.com/news/security/text-message-verification-flaws-in-your-windows-active-directory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While text messaging-based MFA goes a long way toward protecting an org against compromised credentials, it also has vulnerabilities of its own. Orgs must look for ways around the flaws associated with test-based MFA by upgrading to multi-factor authentication. Learn more in this article from Specops Software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text<a href="https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are closely tracking a critical, newly disclosed vulnerability in Apache Commons Text that gives unauthenticated attackers a way to execute code remotely on servers running applications with the affected component.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-28762: Zoom for macOS contains a debugging port misconfiguration<a href="https://securityaffairs.co/wordpress/137266/security/zoom-macos-cve-2022-28762.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video messaging company Zoom fixed a high-severity vulnerability, tracked as CVE-2022-28762, in Zoom Client for Meetings for macOS.
+
+
+
+Zoom Client for Meetings for macOS (Standard and for IT Admin) is affected by a debugging port misconfiguration. The issue,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo for Mac enters public beta, now available to everyone<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-for-mac-enters-public-beta-now-available-to-everyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mac users can now try the privacy features in the DuckDuckGo browser as the app has entered the beta stage of development.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised Hong Kong govt agency network for a year<a href="https://www.bleepingcomputer.com/news/security/hackers-compromised-hong-kong-govt-agency-network-for-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Symantec have uncovered cyberattacks attributed to the China-linked espionage actor APT41 (a.k.a. Winnti) that breached government agencies in Hong Kong and remained undetected for a year in some cases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 17, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

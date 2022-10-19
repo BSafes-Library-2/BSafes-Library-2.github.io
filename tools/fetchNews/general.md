@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Cybersecurity Awareness Month: Don’t Fear the Cyber Goonies<a href="https://blogs.cisco.com/government/national-cybersecurity-awareness-month-dont-fear-the-cyber-goonies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+User education has always been seen as a critical part of any cybersecurity plan. That’s because most cyber attacks still start with phishing, usually as an email trying to lure the user into giving up their password or other critical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

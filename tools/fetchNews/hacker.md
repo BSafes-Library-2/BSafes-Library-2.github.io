@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Hackers Infiltrates Networks via Qakbot to Deploy Brute Ratel C4<a href="https://thehackernews.com/2022/10/black-basta-ransomware-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; Black Basta &nbsp; ransomware family &nbsp;have been observed using the Qakbot trojan to deploy the Brute Ratel C4 framework as a second-stage payload in recent attacks.  The development marks the first time the&nbsp; nascent adversary simulation software &nbsp;is being delivered via a Qakbot infection, cybersecurity firm Trend Micro&nbsp; said &nbsp;in a technical analysis released last week.  The intrusion, achieved using a phishing email containing a weaponized link pointing to a ZIP archive, further entailed the use of Cobalt Strike for lateral movement.  While these legitimate utilities are designed for conducting penetration testing activities, their ability to offer remote access has made them a lucrative tool in the hands of attackers looking to stealthily probe the compromised environment without attracting attention for extended periods of time.  This has been compounded by the fact that a&nbsp; cracked version &nbsp;of Brute Ratel C4 began circulating last month across the cybercrimi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

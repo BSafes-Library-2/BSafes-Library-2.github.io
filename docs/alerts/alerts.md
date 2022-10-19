@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 - FTC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now that the student loan debt relief application is open, spot the scams <a href="https://consumer.ftc.gov/consumer-alerts/2022/10/now-student-loan-debt-relief-application-open-spot-scams"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Education (ED)’s application for federal student loan debt relief is now open and, of course, scammers are on the move — trying to get your money and personal information. Luckily, there are ways to stop them, so keep reading to find out how to protect yourself as you apply for relief.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 6, 2022 - HHS, HC3 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

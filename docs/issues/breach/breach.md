@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keystone Health Data Breach Impacts 235,000 Patients<a href="https://www.securityweek.com/keystone-health-data-breach-impacts-235000-patients?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notification published on its website, Keystone is disclosing a cybersecurity incident identified on August 19 and which has resulted in the disruption of some systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vinomofo Suffers Major Data Breach<a href="https://www.smh.com.au/technology/online-wine-seller-vinomofo-suffers-major-data-breach-20221018-p5bqlf.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online wine seller Vinomofo has disclosed a major data breach in which an intruder accessed customers’ personal information including names, dates of birth, addresses, and contact details.
+</details>
+<div style="text-align: right" markdown="1">
+Sydney Morning Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon notifies prepaid customers their accounts were breached<a href="https://www.bleepingcomputer.com/news/security/verizon-notifies-prepaid-customers-their-accounts-were-breached/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Verizon warned an undisclosed number of prepaid customers that attackers gained access to&nbsp;Verizon accounts and used exposed credit card info in SIM swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Data Leaks Add to Australia's Data Security Reckoning<a href="https://www.bankinfosecurity.com/new-data-leaks-add-to-australias-data-security-reckoning-a-20280?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data from MyDeal[.]com[.]au, a marketplace owned by Australia's largest grocery chain Woolworths Group, has appeared for sale on a data leak forum. The data breach appears to be legitimate as per Troy Hunt, a data breach expert
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromised Hong Kong govt agency network for a year<a href="https://www.bleepingcomputer.com/news/security/hackers-compromised-hong-kong-govt-agency-network-for-a-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Symantec have uncovered cyberattacks attributed to the China-linked espionage actor APT41 (a.k.a. Winnti) that breached government agencies in Hong Kong and remained undetected for a year in some cases.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

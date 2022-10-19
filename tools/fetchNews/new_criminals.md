@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Cartel linked to notorious REvil ransomware operation<a href="https://www.bleepingcomputer.com/news/security/ransom-cartel-linked-to-notorious-revil-ransomware-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat analysts have connected the pieces that link the Ransom Cartel RaaS (ransomware-as-a-service) to the REvil gang, one of the most notorious and prolific ransomware groups in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement arrested 31 suspects for stealing cars by hacking key fobs<a href="https://securityaffairs.co/wordpress/137311/cyber-crime/cybercrime-key-fobs-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation led by Europol disrupted a cybercrime ring focused on hacking wireless key fobs to steal cars.
+
+
+
+The French authorities in cooperation with their Spanish and Latvian peers, and with the support of Europol and Eurojust,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Police Arrest a Gang That Hacked Wireless Key Fobs to Steal Cars<a href="https://thehackernews.com/2022/10/european-police-arrest-gang-that-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities in France, in collaboration with Spain and Latvia, have disrupted a cybercrime ring that leveraged a hacking tool to steal cars without having to use a physical key fob.  "The criminals targeted vehicles with keyless entry and start systems, exploiting the technology to get into the car and drive away," Europol&nbsp; said &nbsp;in a press statement.   The coordinated operation, which took place on October 10, 2022, resulted in the arrest of 31 suspects from across 22 locations in the three nations, including software developers, its resellers, and the car thieves who used the tool to break into vehicles.  Also confiscated by the officials as part of the arrests were criminal assets worth €1,098,500, not to mention an internet domain that allegedly advertised the service online.  Per Europol, the criminals are said to have singled out keyless vehicles from two unnamed French car manufacturers. The perpetrators then used the fraudulent package to replace the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

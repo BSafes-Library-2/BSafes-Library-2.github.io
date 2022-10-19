@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo for Mac enters public beta, now available to everyone<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-for-mac-enters-public-beta-now-available-to-everyone/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mac users can now try the privacy features in the DuckDuckGo browser as the app has entered the beta stage of development.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

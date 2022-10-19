@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Asian casinos in lengthy cyberespionage campaign<a href="https://www.bleepingcomputer.com/news/security/hackers-target-asian-casinos-in-lengthy-cyberespionage-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group named 'DiceyF' has been observed deploying a malicious attack framework against online casinos based in Southeast Asia since at least November 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

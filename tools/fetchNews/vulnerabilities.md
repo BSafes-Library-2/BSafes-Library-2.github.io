@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Say Microsoft Office 365 Uses Broken Email Encryption to Secure Messages<a href="https://thehackernews.com/2022/10/researchers-claim-microsoft-office-365.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has disclosed what's being called a security vulnerability in Microsoft 365 that could be exploited to infer message contents due to the use of a broken cryptographic algorithm.  "The [Office 365 Message Encryption] messages are encrypted in insecure Electronic Codebook ( ECB ) mode of operation," Finnish cybersecurity company WithSecure&nbsp; said &nbsp;in a report published last week.  Office 365 Message Encryption (OME) is a security mechanism used to send and receive encrypted email messages between users inside and outside an organization without revealing anything about the communications themselves.   A consequence of the newly disclosed issue is that rogue third-parties gaining access to the encrypted email messages may be able to decipher the messages, effectively breaking confidentiality protections.  Electronic Codebook is one of the simplest modes of encryption wherein each message block is encoded separately by a key, meaning identical plaintext blocks wi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Mark of the Web bypass zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/windows-mark-of-the-web-bypass-zero-day-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch has been released through the 0patch platform to address an actively exploited zero-day flaw in the Windows Mark of the Web&nbsp;(MotW) security mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Releases Patch for Actively Exploited Vulnerability in its Collaboration Suite<a href="https://thehackernews.com/2022/10/zimbra-releases-patch-for-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra has&nbsp; released patches &nbsp;to contain an actively exploited security flaw in its enterprise collaboration suite that could be leveraged to upload arbitrary files to vulnerable instances.  Tracked as&nbsp; CVE-2022-41352 &nbsp;(CVSS score: 9.8), the issue affects a component of the Zimbra suite called&nbsp; Amavis , an open source content filter, and more specifically, the cpio utility it uses to scan and extract archives.   The flaw, in turn, is said to be rooted in another underlying vulnerability ( CVE-2015-1197 ) that was first disclosed in early 2015, which&nbsp; according to Flashpoint &nbsp;was rectified, only to be subsequently reverted in later Linux distributions.  "An attacker can use cpio package to gain incorrect access to any other user accounts," Zimbra said in an advisory published last week, adding it "recommends pax over cpio."  Fixes are available in the following versions -   Zimbra 9.0.0 Patch 27  Zimbra 8.8.15 Patch 34   All an adversary seeking needs to do to weapo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+45,654 VMware ESXi servers reached End of Life on Oct. 15<a href="https://securityaffairs.co/wordpress/137191/security/vmware-esxi-eol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lansweeper warns that over 45,000 VMware ESXi servers exposed online have reached end-of-life (EOL), making them an easy target for attackers.
+
+
+
+IT Asset Management software provider Lansweeper has scanned the Internet for VMware ESXi servers and found...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
