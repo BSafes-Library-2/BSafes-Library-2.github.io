@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Two Industrial Control Systems Advisories <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/10/18/cisa-releases-two-industrial-control-systems-advisories"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released two Industrial Control Systems (ICS) advisories on October 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 18, 2022 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

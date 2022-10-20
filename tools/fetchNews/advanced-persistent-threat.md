@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT41 group targets Hong Kong with Spyder Loader<a href="https://securityaffairs.co/wordpress/137300/apt/apt41-spyder-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actors APT41 (a.k.a. Winnti) targeted organizations in Hong Kong, in some cases remaining undetected for a year.
+
+
+
+Symantec researchers reported that cyberespionage group APT41 targeted organizations in Hong Kong in a campaign that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

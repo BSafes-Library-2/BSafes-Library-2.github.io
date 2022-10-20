@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil arrests suspect linked to the Lapsus$ hacking group<a href="https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-linked-to-the-lapsus-hacking-group/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Talent Still in High Demand<a href="https://www.nextgov.com/cybersecurity/2022/10/cyber-talent-still-high-demand/378618/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Azure SFX Flaw That Could've Allowed Attackers to Gain Admin Access<a href="https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Fallout From the First Trial of a Corporate Executive for ‘Covering Up’ a Data Breach<a href="https://www.lawfareblog.com/fallout-first-trial-corporate-executive-covering-data-breach"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Text4Shell, a remote code execution bug in Apache Commons Text library<a href="https://securityaffairs.co/wordpress/137359/security/text4shell-apache-commons-text.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft data breach exposes customers’ contact info, emails<a href="https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Unveils KataOS 'Verifiably-Secure' Operating System for Embedded Devices<a href="https://www.securityweek.com/google-unveils-kataos-verifiably-secure-operating-system-embedded-devices?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeting Online Casinos with GamePlayerFramework Malware<a href="https://thehackernews.com/2022/10/chinese-hackers-targeting-online.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers share of FabriXss bug impacting Azure Fabric Explorer<a href="https://securityaffairs.co/wordpress/137349/hacking/azure-azure-fabric-fabrixss.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft announces enterprise DDoS protection for SMBs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-enterprise-ddos-protection-for-smbs/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Wine Retailer iDealwine Suffered a Data Breach<a href="https://www.helpnetsecurity.com/2022/10/19/idealwine-data-breach/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Quick Guide for Small Cybersecurity Teams Looking to Invest in Cyber Insurance<a href="https://thehackernews.com/2022/10/a-quick-guide-for-small-cybersecurity.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The missed link between Ransom Cartel and REvil ransomware gangs<a href="https://securityaffairs.co/wordpress/137328/cyber-crime/ransom-cartel-links-revil.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use new stealthy PowerShell backdoor to target 60+ victims<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-stealthy-powershell-backdoor-to-target-60-plus-victims/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Claims 1.4TB of Data Theft from U.K Insurance Firm<a href="https://heimdalsecurity.com/blog/british-company-kingfisher-insurance-confirms-lockbit-attack/?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Stealthy PowerShell Backdoor Disguising as Windows Update<a href="https://thehackernews.com/2022/10/experts-warn-of-stealthy-powershell.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure SFX bug let hackers hijack Service Fabric clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-sfx-bug-let-hackers-hijack-service-fabric-clusters/"> Full Text</a>
@@ -318,7 +318,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Security Update 6.0.3 Patches 16 Vulnerabilities<a href="https://www.securityweek.com/wordpress-security-update-603-patches-16-vulnerabilities?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical Flaws Affecting Industrial Appliances from Advantech and Hitachi<a href="https://thehackernews.com/2022/10/cisa-warns-of-critical-flaws-affecting.html"> Full Text</a>
@@ -350,7 +350,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Commons Text RCE flaw — Keep calm and patch away<a href="https://www.bleepingcomputer.com/news/security/apache-commons-text-rce-flaw-keep-calm-and-patch-away/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winnti Threat Group Targets Government Organizations In Hong Kong and Srilanka<a href="https://heimdalsecurity.com/blog/winnti-threat-group-attacks-government-organizations-in-hong-kong-and-siri-lanka/?&web_view=true"> Full Text</a>
@@ -382,7 +382,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Explained: Log4Shell-like bugs Found in Apache Commons Text<a href="https://blog.aquasec.com/cve-2022-42889-text2shell-apache-commons-vulnerability?&web_view=true"> Full Text</a>
@@ -398,7 +398,7 @@ Aquasec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Threaten to Release Stolen Medical Data of High-Profile Australians<a href="https://gizmodo.com/hacker-medical-australian-actors-ransom-politicians-dox-1849675881?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Gizmodo
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is it TeamTNT Or a Copycat Group?<a href="https://www.trendmicro.com/en_us/research/22/j/teamtnt-returns-or-does-it.html?&web_view=true"> Full Text</a>
@@ -430,7 +430,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office 365 Message Encryption (OME) doesn’t ensure confidentiality<a href="https://securityaffairs.co/wordpress/137318/security/microsoft-office-365-message-encryption-ome-doesnt-ensure-confidentiality.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Quick Guide for Small Cybersecurity Teams Looking to Invest in Cyber Insurance<a href="https://thehackernews.com/2022/10/a-quick-guide-for-small-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the world of insurance providers and policies, cyber insurance is a fairly new field. And many security teams are trying to wrap their heads around it.&nbsp;  What is it and do they need it? And with what time will they spend researching how to integrate cyber insurance into their strategy?&nbsp;  For small security teams, this is particularly challenging as they contend with limited resources.  Luckily, there's a&nbsp; new eBook &nbsp;dedicated to helping small security teams better understand cyber insurance policies and how they may impact an organization's cybersecurity measures.  Background  In 1997, the "Internet Security Liability" (ISL) insurance policy was launched at the International Risk Insurance Management Society's convention in Honolulu. Underwritten by AIG, ISL insurance was designed to protect ecommerce retailers like Amazon that were collecting sensitive customer data and storing it on internal networks. It is credited as one of the very first cyber insurance policies to be made ava
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

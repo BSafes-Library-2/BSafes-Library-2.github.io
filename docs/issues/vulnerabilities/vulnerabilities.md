@@ -8,6 +8,144 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Azure SFX Flaw That Could've Allowed Attackers to Gain Admin Access<a href="https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shared more details about a now-patched security flaw in Azure Service Fabric Explorer (SFX) that could potentially enable an attacker to gain administrator privileges on the cluster.  The vulnerability, tracked as&nbsp; CVE-2022-35829 , carries a CVSS severity rating of 6.2 and was addressed by Microsoft as part of its&nbsp; Patch Tuesday updates &nbsp;last week.   Orca Security, which&nbsp; discovered and reported &nbsp;the flaw to the tech giant on August 11, 2022, dubbed the vulnerability&nbsp; FabriXss &nbsp;(pronounced "fabrics"). It impacts Azure Fabric Explorer version 8.1.316 and prior.  SFX is described by Microsoft as an&nbsp; open-source tool &nbsp;for inspecting and managing&nbsp; Azure Service Fabric &nbsp;clusters, a distributed systems platform that's used to build and deploy microservices-based cloud applications.   The vulnerability is rooted in the fact that a user with&nbsp; permissions &nbsp;to "Create Compose Application" through the SFX client can leverage the privileges
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Text4Shell, a remote code execution bug in Apache Commons Text library<a href="https://securityaffairs.co/wordpress/137359/security/text4shell-apache-commons-text.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher discovered a remote code execution vulnerability in the open-source Apache Commons Text library.
+
+
+
+GitHub's threat analyst&nbsp;Alvaro Munoz&nbsp;discovered a remote code execution vulnerability, tracked as CVE-2022-42889, in the open-source Apache...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers share of FabriXss&nbsp;bug impacting Azure Fabric Explorer<a href="https://securityaffairs.co/wordpress/137349/hacking/azure-azure-fabric-fabrixss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers published technical details about a now-patched FabriXss&nbsp;flaw that impacts Azure Fabric Explorer.
+
+
+
+Orca Security researchers have released technical details about a now-patched FabriXss&nbsp;vulnerability, tracked as CVE-2022-35829...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Stealthy PowerShell Backdoor Disguising as Windows Update<a href="https://thehackernews.com/2022/10/experts-warn-of-stealthy-powershell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a previously undocumented and fully undetectable (FUD) PowerShell backdoor that gains its stealth by disguising itself as part of a Windows update process.  "The covert self-developed tool and the associated C2 commands seem to be the work of a sophisticated, unknown threat actor who has targeted approximately 100 victims," Tomer Bar, director of security research at SafeBreach,&nbsp; said &nbsp;in a new report.  Attributed to an&nbsp; unnamed threat actor , attack chains involving the malware commence with a weaponized&nbsp; Microsoft Word document &nbsp;that, per the company, was uploaded from Jordan on August 25, 2022.   Metadata associated with the lure document indicates that the initial intrusion vector is a LinkedIn-based spear-phishing attack, which ultimately leads to the execution of a PowerShell script via a piece of embedded macro code.   The PowerShell script ( Script1.ps1 ) is designed to connect to a remote command-and-control (C2) server and retrieve a comm
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure SFX bug let hackers hijack Service Fabric clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-sfx-bug-let-hackers-hijack-service-fabric-clusters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could exploit a&nbsp;now-patched spoofing vulnerability in Service Fabric Explorer to&nbsp;gain admin privileges and hijack Azure Service Fabric clusters.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Security Update 6.0.3 Patches 16 Vulnerabilities<a href="https://www.securityweek.com/wordpress-security-update-603-patches-16-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say, we found that these vulnerabilities are unlikely to be perceived as mass exploits, but several of them potentially present a mechanism for knowledgeable attackers to hack high-value sites via tailored attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Commons Text RCE flaw — Keep calm and patch away<a href="https://www.bleepingcomputer.com/news/security/apache-commons-text-rce-flaw-keep-calm-and-patch-away/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution flaw in the open-source Apache Commons Text library has some people worried that it could turn into the next Log4Shell. However, most cybersecurity researchers say it is nowhere near as concerning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Explained: Log4Shell-like bugs Found in Apache Commons Text<a href="https://blog.aquasec.com/cve-2022-42889-text2shell-apache-commons-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw exists in Apache Commons Text, a library released in 2017 that focuses on algorithms enabling a variety of functionalities around strings. The proof-of-concept (PoC) code for the flaw is available.
+</details>
+<div style="text-align: right" markdown="1">
+Aquasec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Office 365 Message Encryption (OME) doesn’t ensure confidentiality<a href="https://securityaffairs.co/wordpress/137318/security/microsoft-office-365-message-encryption-ome-doesnt-ensure-confidentiality.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug in the message encryption mechanism used by&nbsp;Microsoft in Office 365 can allow to access the contents of the messages.
+
+
+
+Researchers at the cybersecurity firm WithSecure discovered a bug in the message encryption mechanism used by&nbsp;Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

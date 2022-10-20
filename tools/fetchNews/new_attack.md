@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting Online Casinos with GamePlayerFramework Malware<a href="https://thehackernews.com/2022/10/chinese-hackers-targeting-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group of Chinese origin codenamed&nbsp; DiceyF &nbsp;has been linked to a string of attacks aimed at online casinos in Southeast Asia for years.  Russian cybersecurity company Kaspersky said the activity aligns with another set of intrusions attributed to&nbsp; Earth Berberoka &nbsp;(aka&nbsp; GamblingPuppet ) and&nbsp; DRBControl , citing tactical and targeting similarities as well as the abuse of secure messaging clients.   "Possibly we have a mix of espionage and [intellectual property] theft, but the true motivations remain a mystery," researchers Kurt Baumgartner and Georgy Kucherin&nbsp; said &nbsp;in a technical write-up published this week.  The starting point of the investigation was in November 2021 when Kaspersky said it detected multiple&nbsp; PlugX loaders &nbsp;and other payloads that were deployed via an employee monitoring service and a security package deployment service.   The initial infection method – the distribution of the framework through security solution packages
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use new stealthy PowerShell backdoor to target 60+ victims<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-stealthy-powershell-backdoor-to-target-60-plus-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented, fully undetectable PowerShell backdoor is being actively used by a threat actor who has targeted at least 69 entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

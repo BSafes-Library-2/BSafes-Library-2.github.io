@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Talent Still in High Demand<a href="https://www.nextgov.com/cybersecurity/2022/10/cyber-talent-still-high-demand/378618/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber workforce count for the most recent 12-month period is over 1.1 million. For the public sector in particular, 47,114 cyber jobs were listed and 72,599 workers were employed.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

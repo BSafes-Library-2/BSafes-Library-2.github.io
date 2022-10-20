@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Сryptocurrency and Ransomware — The Ultimate Friendship<a href="https://thehackernews.com/2022/10/ryptocurrency-and-ransomware-ultimate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both cryptocurrency and ransomware are nothing new in the digital world; both have been there for a very long time, which was enough for them to find common pieces for starting their relationship.  Ransomware can be like a virtual car that works on all types of fuels, and crypto is the one that is currently most recommended. No one can argue that 2020 was the year of ransomware in the cyber world, but it wasn't due to the fact that cybercriminals chose ransomware just because they knew how to attack properly. It's because of the fact that crypto rose mostly this year, along with the new normal of the digital world. It gave them a new cause to stick to ransomware, thanks to the anonymous payments that can be made using a cryptocurrency.&nbsp;  How does ransomware work?&nbsp;  Ransomware is a malware type that encrypts the victim's files, whether it's a random user or an organization, leading to denying them access to those files on their personal devices.  And the key to gaining
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

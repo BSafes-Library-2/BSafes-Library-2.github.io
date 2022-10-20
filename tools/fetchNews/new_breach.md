@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft data breach exposes customers’ contact info, emails<a href="https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said today that some of its customers' sensitive information was exposed by a misconfigured Microsoft server accessible over the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Wine Retailer iDealwine Suffered a Data Breach<a href="https://www.helpnetsecurity.com/2022/10/19/idealwine-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has informed its customers that their name, address, telephone number and email address may have been compromised. Customers' credit card/bank information has not been compromised, since it’s not stored on company servers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Claims 1.4TB of Data Theft from U.K Insurance Firm<a href="https://heimdalsecurity.com/blog/british-company-kingfisher-insurance-confirms-lockbit-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT team blocked all external access and affected servers were brought offline as soon as the cyberattack became known, but the investigation concluded that business operations have not been impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Threaten to Release Stolen Medical Data of High-Profile Australians<a href="https://gizmodo.com/hacker-medical-australian-actors-ransom-politicians-dox-1849675881?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unknown hackers claim to have 200 gigabytes of data from Medibank, a private health insurer in Australia that has roughly 3.9 million customers in a country of just 25 million people.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

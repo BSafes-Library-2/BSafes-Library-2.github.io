@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Flaws Affecting Industrial Appliances from Advantech and Hitachi<a href="https://thehackernews.com/2022/10/cisa-warns-of-critical-flaws-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released two Industrial Control Systems (ICS)&nbsp; advisories &nbsp;pertaining to severe flaws in Advantech R-SeeNet and Hitachi Energy APM Edge appliances.  This consists of three weaknesses in the R-SeeNet monitoring solution, successful exploitation of which "could result in an unauthorized attacker remotely deleting files on the system or allowing remote code execution."   The list of issues, which affect R-SeeNet Versions 2.4.17 and prior, is as follows -   CVE-2022-3385 and CVE-2022-3386 &nbsp;(CVSS scores: 9.8) - Two stack-based buffer overflow flaws that could lead to remote code execution  CVE-2022-3387 &nbsp;(CVSS score: 6.5) - A path traversal flaw that could enable a remote attacker to delete arbitrary PDF files   Patches have been made available in version&nbsp; R-SeeNet version 2.4.21 &nbsp;released on September 30, 2022.  Also published by CISA is an update to a December 2021 advisory about multiple flaws in Hitac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
