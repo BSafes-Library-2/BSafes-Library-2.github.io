@@ -37,6 +37,402 @@ BSafes library includes mobile-friendly cybersecurity publications.
 October 19, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Brazil arrests suspect linked to the Lapsus$ hacking group<a href="https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-linked-to-the-lapsus-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Brazilian Federal Police arrested a Brazilian suspect in the city of Feira de Santana, Bahia, believed to be part of the Lapsus$ extortion gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Talent Still in High Demand<a href="https://www.nextgov.com/cybersecurity/2022/10/cyber-talent-still-high-demand/378618/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber workforce count for the most recent 12-month period is over 1.1 million. For the public sector in particular, 47,114 cyber jobs were listed and 72,599 workers were employed.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Azure SFX Flaw That Could've Allowed Attackers to Gain Admin Access<a href="https://thehackernews.com/2022/10/researchers-detail-azure-sfx-flaw-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shared more details about a now-patched security flaw in Azure Service Fabric Explorer (SFX) that could potentially enable an attacker to gain administrator privileges on the cluster.  The vulnerability, tracked as  CVE-2022-35829 , carries a CVSS severity rating of 6.2 and was addressed by Microsoft as part of its  Patch Tuesday updates  last week.   Orca Security, which  discovered and reported  the flaw to the tech giant on August 11, 2022, dubbed the vulnerability  FabriXss  (pronounced "fabrics"). It impacts Azure Fabric Explorer version 8.1.316 and prior.  SFX is described by Microsoft as an  open-source tool  for inspecting and managing  Azure Service Fabric  clusters, a distributed systems platform that's used to build and deploy microservices-based cloud applications.   The vulnerability is rooted in the fact that a user with  permissions  to "Create Compose Application" through the SFX client can leverage the privileges
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Fallout From the First Trial of a Corporate Executive for ‘Covering Up’ a Data Breach<a href="https://www.lawfareblog.com/fallout-first-trial-corporate-executive-covering-data-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department should issue guidance to clarify the line between covering up a data breach and merely declining to disclose it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Text4Shell, a remote code execution bug in Apache Commons Text library<a href="https://securityaffairs.co/wordpress/137359/security/text4shell-apache-commons-text.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher discovered a remote code execution vulnerability in the open-source Apache Commons Text library.
+
+
+
+GitHub's threat analyst Alvaro Munoz discovered a remote code execution vulnerability, tracked as CVE-2022-42889, in the open-source Apache...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft data breach exposes customers’ contact info, emails<a href="https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said today that some of its customers' sensitive information was exposed by a misconfigured Microsoft server accessible over the Internet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Unveils KataOS 'Verifiably-Secure' Operating System for Embedded Devices<a href="https://www.securityweek.com/google-unveils-kataos-verifiably-secure-operating-system-embedded-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The project is named Sparrow and it revolves around a new operating system named KataOS, for which Google has already open-sourced several components. The tech giant pointed out that KataOS is mostly developed in Rust, which makes it more secure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting Online Casinos with GamePlayerFramework Malware<a href="https://thehackernews.com/2022/10/chinese-hackers-targeting-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group of Chinese origin codenamed  DiceyF  has been linked to a string of attacks aimed at online casinos in Southeast Asia for years.  Russian cybersecurity company Kaspersky said the activity aligns with another set of intrusions attributed to  Earth Berberoka  (aka  GamblingPuppet ) and  DRBControl , citing tactical and targeting similarities as well as the abuse of secure messaging clients.   "Possibly we have a mix of espionage and [intellectual property] theft, but the true motivations remain a mystery," researchers Kurt Baumgartner and Georgy Kucherin  said  in a technical write-up published this week.  The starting point of the investigation was in November 2021 when Kaspersky said it detected multiple  PlugX loaders  and other payloads that were deployed via an employee monitoring service and a security package deployment service.   The initial infection method – the distribution of the framework through security solution packages
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers share of FabriXss bug impacting Azure Fabric Explorer<a href="https://securityaffairs.co/wordpress/137349/hacking/azure-azure-fabric-fabrixss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers published technical details about a now-patched FabriXss flaw that impacts Azure Fabric Explorer.
+
+
+
+Orca Security researchers have released technical details about a now-patched FabriXss vulnerability, tracked as CVE-2022-35829...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces enterprise DDoS protection for SMBs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-enterprise-ddos-protection-for-smbs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today the availability of Azure DDoS IP Protection in public preview, a new and fully managed DDoS Protection pay-per-protected IP model offering tailored to small and midsize businesses (SMBs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Wine Retailer iDealwine Suffered a Data Breach<a href="https://www.helpnetsecurity.com/2022/10/19/idealwine-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It has informed its customers that their name, address, telephone number and email address may have been compromised. Customers' credit card/bank information has not been compromised, since it’s not stored on company servers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Quick Guide for Small Cybersecurity Teams Looking to Invest in Cyber Insurance<a href="https://thehackernews.com/2022/10/a-quick-guide-for-small-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the world of insurance providers and policies, cyber insurance is a fairly new field. And many security teams are trying to wrap their heads around it.   What is it and do they need it? And with what time will they spend researching how to integrate cyber insurance into their strategy?   For small security teams, this is particularly challenging as they contend with limited resources.  Luckily, there's a  new eBook  dedicated to helping small security teams better understand cyber insurance policies and how they may impact an organization's cybersecurity measures.  Background  In 1997, the "Internet Security Liability" (ISL) insurance policy was launched at the International Risk Insurance Management Society's convention in Honolulu. Underwritten by AIG, ISL insurance was designed to protect ecommerce retailers like Amazon that were collecting sensitive customer data and storing it on internal networks. It is credited as one of the very first cyber insurance policies to be made ava
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The missed link between Ransom Cartel and REvil ransomware gangs<a href="https://securityaffairs.co/wordpress/137328/cyber-crime/ransom-cartel-links-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Network's Unit 42 linked the Ransom Cartel ransomware operation to the REvil ransomware operations.
+
+
+
+Researchers at Palo Alto Network's Unit 42 have linked the relatively new Ransom Cartel ransomware operation with the notorious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use new stealthy PowerShell backdoor to target 60+ victims<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-stealthy-powershell-backdoor-to-target-60-plus-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented, fully undetectable PowerShell backdoor is being actively used by a threat actor who has targeted at least 69 entities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Claims 1.4TB of Data Theft from U.K Insurance Firm<a href="https://heimdalsecurity.com/blog/british-company-kingfisher-insurance-confirms-lockbit-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT team blocked all external access and affected servers were brought offline as soon as the cyberattack became known, but the investigation concluded that business operations have not been impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Stealthy PowerShell Backdoor Disguising as Windows Update<a href="https://thehackernews.com/2022/10/experts-warn-of-stealthy-powershell.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a previously undocumented and fully undetectable (FUD) PowerShell backdoor that gains its stealth by disguising itself as part of a Windows update process.  "The covert self-developed tool and the associated C2 commands seem to be the work of a sophisticated, unknown threat actor who has targeted approximately 100 victims," Tomer Bar, director of security research at SafeBreach,  said  in a new report.  Attributed to an  unnamed threat actor , attack chains involving the malware commence with a weaponized  Microsoft Word document  that, per the company, was uploaded from Jordan on August 25, 2022.   Metadata associated with the lure document indicates that the initial intrusion vector is a LinkedIn-based spear-phishing attack, which ultimately leads to the execution of a PowerShell script via a piece of embedded macro code.   The PowerShell script ( Script1.ps1 ) is designed to connect to a remote command-and-control (C2) server and retrieve a comm
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure SFX bug let hackers hijack Service Fabric clusters<a href="https://www.bleepingcomputer.com/news/security/microsoft-azure-sfx-bug-let-hackers-hijack-service-fabric-clusters/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could exploit a now-patched spoofing vulnerability in Service Fabric Explorer to gain admin privileges and hijack Azure Service Fabric clusters.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Security Update 6.0.3 Patches 16 Vulnerabilities<a href="https://www.securityweek.com/wordpress-security-update-603-patches-16-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say, we found that these vulnerabilities are unlikely to be perceived as mass exploits, but several of them potentially present a mechanism for knowledgeable attackers to hack high-value sites via tailored attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Flaws Affecting Industrial Appliances from Advantech and Hitachi<a href="https://thehackernews.com/2022/10/cisa-warns-of-critical-flaws-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday released two Industrial Control Systems (ICS)  advisories  pertaining to severe flaws in Advantech R-SeeNet and Hitachi Energy APM Edge appliances.  This consists of three weaknesses in the R-SeeNet monitoring solution, successful exploitation of which "could result in an unauthorized attacker remotely deleting files on the system or allowing remote code execution."   The list of issues, which affect R-SeeNet Versions 2.4.17 and prior, is as follows -   CVE-2022-3385 and CVE-2022-3386  (CVSS scores: 9.8) - Two stack-based buffer overflow flaws that could lead to remote code execution  CVE-2022-3387  (CVSS score: 6.5) - A path traversal flaw that could enable a remote attacker to delete arbitrary PDF files   Patches have been made available in version  R-SeeNet version 2.4.21  released on September 30, 2022.  Also published by CISA is an update to a December 2021 advisory about multiple flaws in Hitac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Commons Text RCE flaw — Keep calm and patch away<a href="https://www.bleepingcomputer.com/news/security/apache-commons-text-rce-flaw-keep-calm-and-patch-away/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution flaw in the open-source Apache Commons Text library has some people worried that it could turn into the next Log4Shell. However, most cybersecurity researchers say it is nowhere near as concerning.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti Threat Group Targets Government Organizations In Hong Kong and Srilanka<a href="https://heimdalsecurity.com/blog/winnti-threat-group-attacks-government-organizations-in-hong-kong-and-siri-lanka/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its latest activities, Winnti focused on Hong Kong and Srilankan organizations. It deployed Spyder Loader (Trojan.Spyload) malware on victim networks in Hong Kong, mostly as a part of the CuckooBees campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Explained: Log4Shell-like bugs Found in Apache Commons Text<a href="https://blog.aquasec.com/cve-2022-42889-text2shell-apache-commons-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw exists in Apache Commons Text, a library released in 2017 that focuses on algorithms enabling a variety of functionalities around strings. The proof-of-concept (PoC) code for the flaw is available.
+</details>
+<div style="text-align: right" markdown="1">
+Aquasec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Threaten to Release Stolen Medical Data of High-Profile Australians<a href="https://gizmodo.com/hacker-medical-australian-actors-ransom-politicians-dox-1849675881?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unknown hackers claim to have 200 gigabytes of data from Medibank, a private health insurer in Australia that has roughly 3.9 million customers in a country of just 25 million people.
+</details>
+<div style="text-align: right" markdown="1">
+Gizmodo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is it TeamTNT Or a Copycat Group?<a href="https://www.trendmicro.com/en_us/research/22/j/teamtnt-returns-or-does-it.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent observations by researchers say a threat group, maybe TeamTNT, has returned. The copycat group is imitating the routines of TeamTNT and has been deploying an XMRig cryptocurrency miner.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Office 365 Message Encryption (OME) doesn’t ensure confidentiality<a href="https://securityaffairs.co/wordpress/137318/security/microsoft-office-365-message-encryption-ome-doesnt-ensure-confidentiality.html"> Full Text</a>
 </p>
 <details>
