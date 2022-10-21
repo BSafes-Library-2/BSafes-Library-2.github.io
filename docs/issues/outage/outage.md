@@ -8,6 +8,38 @@ nav_order: 900140
 
 ## Outage
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Disruptions Observed as Russia Targets Critical Infrastructure in Ukraine<a href="https://securityaffairs.co/wordpress/137390/cyber-warfare-2/internet-disruptions-russia-ukraine.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network data show major sustained impacts to infrastructure across much of Ukraine after a series of reprisal attacks by Russia; energy facilities have been targeted per President’s office.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet disruptions observed as Russia targets critical infrastructure in Ukraine<a href="https://securityaffairs.co/wordpress/137390/cyber-warfare-2/internet-disruptions-russia-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the Russian army is conducting coordinated missile and drone strikes in Ukraine experts observed Internet disruptions in the country.
+
+
+
+Starting on the morning of Monday, October 10, the Russian army is targeting several cities in Ukraine with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

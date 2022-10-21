@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ursnif malware switches from bank account theft to initial access<a href="https://www.bleepingcomputer.com/news/security/ursnif-malware-switches-from-bank-account-theft-to-initial-access/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health Insurer Pays Out $4.5 Million Over Bungled Data Security<a href="https://www.theregister.co.uk/2022/10/19/eyemed_data_breach_settlement/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Launches GUAC Open Source Project to Secure Software Supply Chain<a href="https://thehackernews.com/2022/10/google-launches-guac-open-source.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Emerging Cyber Threat to the American Rail Industry<a href="https://www.lawfareblog.com/emerging-cyber-threat-american-rail-industry"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new undetectable PowerShell Backdoor posing as a Windows update<a href="https://securityaffairs.co/wordpress/137410/malware/undetectable-powershell-backdoor.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google sued over biometric data collection without consent<a href="https://www.bleepingcomputer.com/news/security/google-sued-over-biometric-data-collection-without-consent/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smartphones of Iranian Protesters Targeted with Spyware<a href="https://www.hackread.com/iran-protesters-phones-spyware/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OldGremlin Ransomware Targeted Over a Dozen Russian Entities in Multi-Million Scheme<a href="https://thehackernews.com/2022/10/oldgremlin-ransomware-targeted-over.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlueBleed: Microsoft confirmed data leak exposing customers’ info<a href="https://securityaffairs.co/wordpress/137397/data-breach/microsoft-data-leak-2.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health system data breach due to Meta Pixel hits 3 million patients<a href="https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet Disruptions Observed as Russia Targets Critical Infrastructure in Ukraine<a href="https://securityaffairs.co/wordpress/137390/cyber-warfare-2/internet-disruptions-russia-ukraine.html?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using New Version of FurBall Android Malware to Spy on Iranian Citizens<a href="https://thehackernews.com/2022/10/hackers-using-new-version-of-furball.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet disruptions observed as Russia targets critical infrastructure in Ukraine<a href="https://securityaffairs.co/wordpress/137390/cyber-warfare-2/internet-disruptions-russia-ukraine.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OldGremlin hackers use Linux ransomware to attack Russian orgs<a href="https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Administration Issues New Cybersecurity Requirements for Rail Operators<a href="https://www.cnn.com/2022/10/19/politics/biden-tsa-cybersecurity-requirements-rail-operators/index.html?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ CNN Money
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Not All Sandboxes Are for Children: How to Secure Your SaaS Sandbox<a href="https://thehackernews.com/2022/10/not-all-sandboxes-are-for-children-how.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian police arrested a man suspected of being a member of LAPSUS$ gang<a href="https://securityaffairs.co/wordpress/137381/cyber-crime/brazilian-police-arrested-lapsus-member.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals jailed for cryptocurrency theft, death threats<a href="https://www.bleepingcomputer.com/news/security/cybercriminals-jailed-for-cryptocurrency-theft-death-threats/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warning: Beware of Student Loan Forgiveness Scammers<a href="https://www.zdnet.com/article/fbi-warning-beware-of-student-loan-forgiveness-scammers/?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These 16 Clicker Malware Infected Android Apps Were Downloaded Over 20 Million Times<a href="https://thehackernews.com/2022/10/these-16-clicker-malware-infected.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts discovered millions of .git folders exposed to public<a href="https://securityaffairs.co/wordpress/137371/security/millions-git-folders-exposed-public.html"> Full Text</a>
@@ -394,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking group updates Furball Android spyware to evade detection<a href="https://www.bleepingcomputer.com/news/security/hacking-group-updates-furball-android-spyware-to-evade-detection/"> Full Text</a>
@@ -410,7 +410,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ursnif Variant Likely Shifting Focus to Ransomware and Data Theft<a href="https://thehackernews.com/2022/10/latest-ursnif-variant-shifts-focus-from.html"> Full Text</a>
@@ -426,7 +426,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
+October 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian Police Arrest Suspected Member of Lapsus$ Hacking Group<a href="https://thehackernews.com/2022/10/brazilian-police-arrest-suspected.html"> Full Text</a>
@@ -442,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2022
+October 19, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazil arrests suspect believed to be a Lapsus$ gang member<a href="https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-believed-to-be-a-lapsus-gang-member/"> Full Text</a>

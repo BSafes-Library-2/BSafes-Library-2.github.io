@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2022 - TSA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TSA issues new cybersecurity requirements for passenger and freight railroad carriers <a href="https://www.tsa.gov/news/press/releases/2022/10/18/tsa-issues-new-cybersecurity-requirements-passenger-and-freight"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON – The Transportation Security Administration (TSA) announced a new cybersecurity security directive regulating designated passenger and freight railroad carriers. Today’s announcement demonstrates the Biden-Harris Administration’s commitment to strengthen the cybersecurity of U.S. critical infrastructure. Building on the TSA’s work to strengthen defenses in other transportation modes, this security directive will further enhance cybersecurity preparedness and resilience for the nation’s railroad operations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 18, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

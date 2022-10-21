@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sued over biometric data collection without consent<a href="https://www.bleepingcomputer.com/news/security/google-sued-over-biometric-data-collection-without-consent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas attorney general Ken Paxton has sued Google for allegedly collecting and using biometric data belonging to millions of Texans without proper consent.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil arrests suspect believed to be a Lapsus$ gang member<a href="https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-believed-to-be-a-lapsus-gang-member/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Brazilian Federal Police arrested a Brazilian suspect in the city of Feira de Santana, Bahia, believed to be part of the Lapsus$ extortion gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches GUAC Open Source Project to Secure Software Supply Chain<a href="https://thehackernews.com/2022/10/google-launches-guac-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday announced that it's seeking contributors to a new open source initiative called Graph for Understanding Artifact Composition , also known as GUAC, as part of its ongoing efforts to beef up the&nbsp; software supply chain .  "GUAC addresses a need created by the burgeoning efforts across the ecosystem to generate software build, security, and dependency metadata," Brandon Lum, Mihai Maruseac, and Isaac Hepworth of Google said  in a post shared with The Hacker News.  "GUAC is meant to democratize the availability of this security information by making it freely accessible and useful for every organization, not just those with enterprise-scale security and IT funding."   Software supply chain has&nbsp; emerged &nbsp;a&nbsp; lucrative &nbsp; attack vector &nbsp;for threat actors, wherein exploiting just one weakness -- as seen in the case of&nbsp; SolarWinds &nbsp;and&nbsp; Log4Shell &nbsp;-- opens a pathway long enough to traverse down the supply chain and steal sensitive data, plant malware, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

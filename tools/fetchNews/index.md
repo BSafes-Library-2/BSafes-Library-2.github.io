@@ -34,6 +34,430 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ursnif malware switches from bank account theft to initial access<a href="https://www.bleepingcomputer.com/news/security/ursnif-malware-switches-from-bank-account-theft-to-initial-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Ursnif malware (a.k.a. Gozi) emerged as a generic backdoor, stripped of its typical banking trojan functionality.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health Insurer Pays Out $4.5 Million Over Bungled Data Security<a href="https://www.theregister.co.uk/2022/10/19/eyemed_data_breach_settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To put the fines in perspective: EyeMed's parent company Luxottica of America reportedly rakes in annual revenues exceeding $500 million. In other words: don't shed too many tears for the insurer over a $4.5 million check.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches GUAC Open Source Project to Secure Software Supply Chain<a href="https://thehackernews.com/2022/10/google-launches-guac-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday announced that it's seeking contributors to a new open source initiative called Graph for Understanding Artifact Composition , also known as GUAC, as part of its ongoing efforts to beef up the  software supply chain .  "GUAC addresses a need created by the burgeoning efforts across the ecosystem to generate software build, security, and dependency metadata," Brandon Lum, Mihai Maruseac, and Isaac Hepworth of Google said  in a post shared with The Hacker News.  "GUAC is meant to democratize the availability of this security information by making it freely accessible and useful for every organization, not just those with enterprise-scale security and IT funding."   Software supply chain has  emerged  a  lucrative   attack vector  for threat actors, wherein exploiting just one weakness -- as seen in the case of  SolarWinds  and  Log4Shell  -- opens a pathway long enough to traverse down the supply chain and steal sensitive data, plant malware, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Emerging Cyber Threat to the American Rail Industry<a href="https://www.lawfareblog.com/emerging-cyber-threat-american-rail-industry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adding trains to the Internet of Things opens the door to a new threat: cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new undetectable PowerShell Backdoor posing as a Windows update<a href="https://securityaffairs.co/wordpress/137410/malware/undetectable-powershell-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers warn of a new PowerShell backdoor that disguises itself as part of the Windows update process to avoid detection.
+
+
+
+Cybersecurity researchers from SafeBreach a warning of a new PowerShell backdoor masqueraded as a Windows update...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google sued over biometric data collection without consent<a href="https://www.bleepingcomputer.com/news/security/google-sued-over-biometric-data-collection-without-consent/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas attorney general Ken Paxton has sued Google for allegedly collecting and using biometric data belonging to millions of Texans without proper consent.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smartphones of Iranian Protesters Targeted with Spyware<a href="https://www.hackread.com/iran-protesters-phones-spyware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Voice of America has obtained a copy of the spyware. In its report, the agency noted that the malware was previously distributed on different forums and titles such as Telegram with Free Internet.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OldGremlin Ransomware Targeted Over a Dozen Russian Entities in Multi-Million Scheme<a href="https://thehackernews.com/2022/10/oldgremlin-ransomware-targeted-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-speaking ransomware group dubbed OldGremlin has been attributed to 16 malicious campaigns aimed at entities operating in the transcontinental Eurasian nation over the course of two and a half years.  "The group's victims include companies in sectors such as logistics, industry, insurance, retail, real estate, software development, and banking," Group-IB  said  in an exhaustive report shared with The Hacker News. "In 2020, the group even targeted an arms manufacturer."  In what's a rarity in the ransomware landscape, OldGremlin (aka TinyScouts) is one of the very few financially motivated cybercrime gangs that primarily focuses on Russian companies.  Other notable groups consist of Dharma, Crylock, and Thanos, contributing to an uptick in ransomware attacks targeting businesses in the country by over 200% in 2021.  OldGremlin first came to light in September 2020 when the Singapore-headquartered cybersecurity company  disclosed  nine campaigns orch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueBleed: Microsoft confirmed data leak exposing customers’ info<a href="https://securityaffairs.co/wordpress/137397/data-breach/microsoft-data-leak-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disclosed a data leak, sensitive data of some of its customers were exposed by a misconfigured Microsoft server accessible online.
+
+
+
+Microsoft announced that sensitive data belonging to some of its customers were exposed on the Internet due to a misconfigured...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health system data breach due to Meta Pixel hits 3 million patients<a href="https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advocate Aurora Health (AAH), a 26-hospital healthcare system in the states of Wisconsin and Illinois, is notifying its patients of an unintentional data breach that impacts 3,000,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Disruptions Observed as Russia Targets Critical Infrastructure in Ukraine<a href="https://securityaffairs.co/wordpress/137390/cyber-warfare-2/internet-disruptions-russia-ukraine.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network data show major sustained impacts to infrastructure across much of Ukraine after a series of reprisal attacks by Russia; energy facilities have been targeted per President’s office.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using New Version of FurBall Android Malware to Spy on Iranian Citizens<a href="https://thehackernews.com/2022/10/hackers-using-new-version-of-furball.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as Domestic Kitten  has been attributed to a new mobile campaign that masquerades as a translation app to distribute an updated variant of an Android malware known as FurBall.  "Since June 2021, it has been distributed as a translation app via a copycat of an Iranian website that provides translated articles, journals, and books," ESET researcher Lukas Stefanko  said  in a report shared with The Hacker News.  The updates, while retaining the same surveillance functionality as earlier versions, are designed to evade detection by security solutions, the Slovak cybersecurity firm added.  Domestic Kitten, also called APT-C-50, is an Iranian threat activity cluster that has been previously identified as targeting individuals of interest with the goal of harvesting sensitive information from compromised mobile devices. It's been known to be active since at least 2016.   A tactical analysis conducted by Trend Micro in 2019 revealed Domestic Kitten
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet disruptions observed as Russia targets critical infrastructure in Ukraine<a href="https://securityaffairs.co/wordpress/137390/cyber-warfare-2/internet-disruptions-russia-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the Russian army is conducting coordinated missile and drone strikes in Ukraine experts observed Internet disruptions in the country.
+
+
+
+Starting on the morning of Monday, October 10, the Russian army is targeting several cities in Ukraine with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OldGremlin hackers use Linux ransomware to attack Russian orgs<a href="https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OldGremlin, one of the few ransomware groups attacking Russian corporate networks, has expanded its toolkit with file-encrypting malware for Linux machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Issues New Cybersecurity Requirements for Rail Operators<a href="https://www.cnn.com/2022/10/19/politics/biden-tsa-cybersecurity-requirements-rail-operators/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new directive from the Transportation Security Administration requires rail companies to report hacking incidents to the Department of Homeland Security and to have a plan to keep a cybersecurity incident from hampering their operations.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not All Sandboxes Are for Children: How to Secure Your SaaS Sandbox<a href="https://thehackernews.com/2022/10/not-all-sandboxes-are-for-children-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When creating a Sandbox, the mindset tends to be that the Sandbox is considered a place to play around, test things, and there will be no effect on the production or operational system. Therefore, people don't actively think they need to worry about its security. This mindset is not only wrong, but extremely dangerous.   When it comes to software developers, their version of sandbox is similar to a child's playground — a place to build and test without breaking any flows in production. Meanwhile, in the world of cybersecurity, the term 'sandbox' is used to describe a virtual environment or machine used to run suspicious code and other elements.   Many organizations use a Sandbox for their SaaS apps — to test changes without disrupting the production SaaS app or even to connect new apps (much like a software developer's Sandbox). This common practice often leads to a false sense of security and in turn a lack of thought for its security implications. This article wi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian police arrested a man suspected of being a member of LAPSUS$ gang<a href="https://securityaffairs.co/wordpress/137381/cyber-crime/brazilian-police-arrested-lapsus-member.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Police of Brazil arrested an individual who is suspected of being a member of the notorious LAPSUS$ extortionist group.
+
+
+
+The Federal Police of Brazil yesterday announced the arrest of an individual suspected of being linked to the LAPSUS$...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals jailed for cryptocurrency theft, death threats<a href="https://www.bleepingcomputer.com/news/security/cybercriminals-jailed-for-cryptocurrency-theft-death-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, two Massachusetts men were sentenced to more than two years in prison each for stealing cryptocurrency in SIM swapping attacks and hijacking their victims' social media accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Beware of Student Loan Forgiveness Scammers<a href="https://www.zdnet.com/article/fbi-warning-beware-of-student-loan-forgiveness-scammers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam the FBI is warning about involves cybercriminals and fraudsters purporting to provide entrance to the Federal Student Loan Forgiveness program. Fraudsters could contact potential victims via phone, email, text, websites, or chat services.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These 16 Clicker Malware Infected Android Apps Were Downloaded Over 20 Million Times<a href="https://thehackernews.com/2022/10/these-16-clicker-malware-infected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 16 malicious apps with over 20 million cumulative downloads have been taken down from the Google Play Store after they were caught committing mobile ad fraud.  The  Clicker  malware masqueraded as seemingly harmless utilities like cameras, currency/unit converters, QR code readers, note-taking apps, and dictionaries, among others, in a bid to trick users into downloading them, cybersecurity firm McAfee  said .   The list of offending apps is as follows -   High-Speed Camera (com.hantor.CozyCamera) - 10,000,000+ downloads  Smart Task Manager (com.james.SmartTaskManager) - 5,000,000+ downloads  Flashlight+ (kr.caramel.flash_plus) - 1,000,000+ downloads  달력메모장 (com.smh.memocalendar) - 1,000,000+ downloads  K-Dictionary (com.joysoft.wordBook) - 1,000,000+ downloads  BusanBus (com.kmshack.BusanBus) - 1,000,000+ downloads  Flashlight+ (com.candlencom.candleprotest) - 500,000+ downloads  Quick Note (com.movinapp.quicknote) - 500,000+ downloads  Currency Converter (com.smartwho.Sma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered millions of .git folders exposed to public<a href="https://securityaffairs.co/wordpress/137371/security/millions-git-folders-exposed-public.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two million .git folders containing vital project information are exposed to the public, the Cybernews research team found.
+
+
+
+Original Post at https://cybernews.com/security/millions-git-folders-exposed/
+
+
+
+Git is the most popular open-source,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group updates Furball Android spyware to evade detection<a href="https://www.bleepingcomputer.com/news/security/hacking-group-updates-furball-android-spyware-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the 'FurBall' Android spyware has been found targeting Iranian citizens in mobile surveillance campaigns conducted by the Domestic Kitten hacking group, also known as APT-C-50.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ursnif Variant Likely Shifting Focus to Ransomware and Data Theft<a href="https://thehackernews.com/2022/10/latest-ursnif-variant-shifts-focus-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ursnif malware has become the latest malware to shed its roots as a banking trojan to revamp itself into a generic backdoor capable of delivering next-stage payloads, joining the likes of Emotet, Qakbot, and TrickBot.  "This is a significant shift from the malware's original purpose to enable banking fraud, but is consistent with the broader threat landscape," Mandiant researchers Sandor Nemes, Sulian Lebegue, and Jessa Valdez  disclosed  in a Wednesday analysis.   The refreshed and refactored variant, first spotted by the Google-owned threat intelligence firm in the wild on June 23, 2022, has been codenamed LDR4, in what's being seen as an attempt to lay the groundwork for potential ransomware and data theft extortion operations.  Ursnif, also called Gozi or ISFB, is one of the oldest banker malware families, with  the earliest documented attacks  going as far back as 2007. Check Point, in August 2020, mapped the " divergent evolution of Gozi " over th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Police Arrest Suspected Member of Lapsus$ Hacking Group<a href="https://thehackernews.com/2022/10/brazilian-police-arrest-suspected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Police of Brazil on Wednesday announced it had arrested an individual for purported links to the notorious LAPSUS$ extortionist gang.  The arrest was made as part of a new law enforcement effort, dubbed Operation Dark Cloud, that was launched in August 2022, the agency noted. Not much is known about the suspect other than the fact that the person could be a teenager.  The Polícia Federal said it commenced its investigation in December 2021 following an attack on websites under Brazil's  Ministry of Health , resulting in the alleged exfiltration of 50TB of data and  temporary unavailability  of COVID-19 vaccination data of millions of citizens.  Other federal government portals targeted by the LAPSUS$ group in Brazil include the Ministry of Economy, Comptroller General of the Union, and the Federal Highway Police.   "The crimes determined in the police investigation are those of criminal organization, invasion of a computer device, interruption or disturbance of te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil arrests suspect believed to be a Lapsus$ gang member<a href="https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-believed-to-be-a-lapsus-gang-member/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Brazilian Federal Police arrested a Brazilian suspect in the city of Feira de Santana, Bahia, believed to be part of the Lapsus$ extortion gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

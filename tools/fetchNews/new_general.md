@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Emerging Cyber Threat to the American Rail Industry<a href="https://www.lawfareblog.com/emerging-cyber-threat-american-rail-industry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adding trains to the Internet of Things opens the door to a new threat: cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

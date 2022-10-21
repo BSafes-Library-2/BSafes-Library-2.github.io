@@ -8,6 +8,60 @@ nav_order: 900029
 
 ## Breach
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueBleed: Microsoft confirmed data leak exposing customers’ info<a href="https://securityaffairs.co/wordpress/137397/data-breach/microsoft-data-leak-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disclosed a data leak, sensitive data of some of its customers were exposed by a misconfigured Microsoft server accessible online.
+
+
+
+Microsoft announced that sensitive data belonging to some of its customers were exposed on the Internet due to a misconfigured...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health system data breach due to Meta Pixel hits 3 million patients<a href="https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advocate Aurora Health (AAH), a 26-hospital healthcare system in the states of Wisconsin and Illinois, is notifying its patients of an unintentional data breach that impacts 3,000,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered millions of .git folders exposed to public<a href="https://securityaffairs.co/wordpress/137371/security/millions-git-folders-exposed-public.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two million .git folders containing vital project information are exposed to the public, the Cybernews research team found.
+
+
+
+Original Post at https://cybernews.com/security/millions-git-folders-exposed/
+
+
+
+Git is the most popular open-source,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

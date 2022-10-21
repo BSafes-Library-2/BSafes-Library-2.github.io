@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winnti Threat Group Targets Government Organizations In Hong Kong and Srilanka<a href="https://heimdalsecurity.com/blog/winnti-threat-group-attacks-government-organizations-in-hong-kong-and-siri-lanka/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its latest activities, Winnti focused on Hong Kong and Srilankan organizations. It deployed Spyder Loader (Trojan.Spyload) malware on victim networks in Hong Kong, mostly as a part of the CuckooBees campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is it TeamTNT Or a Copycat Group?<a href="https://www.trendmicro.com/en_us/research/22/j/teamtnt-returns-or-does-it.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent observations by researchers say a threat group, maybe TeamTNT, has returned. The copycat group is imitating the routines of TeamTNT and has been deploying an XMRig cryptocurrency miner.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

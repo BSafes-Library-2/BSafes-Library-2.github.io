@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian police arrested a man suspected of being a member of LAPSUS$ gang<a href="https://securityaffairs.co/wordpress/137381/cyber-crime/brazilian-police-arrested-lapsus-member.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Police of Brazil arrested an individual who is suspected of being a member of the notorious LAPSUS$ extortionist group.
+
+
+
+The Federal Police of Brazil yesterday announced the arrest of an individual suspected of being linked to the LAPSUS$...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals jailed for cryptocurrency theft, death threats<a href="https://www.bleepingcomputer.com/news/security/cybercriminals-jailed-for-cryptocurrency-theft-death-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, two Massachusetts men were sentenced to more than two years in prison each for stealing cryptocurrency in SIM swapping attacks and hijacking their victims' social media accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Police Arrest Suspected Member of Lapsus$ Hacking Group<a href="https://thehackernews.com/2022/10/brazilian-police-arrest-suspected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Police of Brazil on Wednesday announced it had arrested an individual for purported links to the notorious LAPSUS$ extortionist gang.  The arrest was made as part of a new law enforcement effort, dubbed Operation Dark Cloud, that was launched in August 2022, the agency noted. Not much is known about the suspect other than the fact that the person could be a teenager.  The Polícia Federal said it commenced its investigation in December 2021 following an attack on websites under Brazil's&nbsp; Ministry of Health , resulting in the alleged exfiltration of 50TB of data and&nbsp; temporary unavailability &nbsp;of COVID-19 vaccination data of millions of citizens.  Other federal government portals targeted by the LAPSUS$ group in Brazil include the Ministry of Economy, Comptroller General of the Union, and the Federal Highway Police.   "The crimes determined in the police investigation are those of criminal organization, invasion of a computer device, interruption or disturbance of te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

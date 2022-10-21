@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health Insurer Pays Out $4.5 Million Over Bungled Data Security<a href="https://www.theregister.co.uk/2022/10/19/eyemed_data_breach_settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To put the fines in perspective: EyeMed's parent company Luxottica of America reportedly rakes in annual revenues exceeding $500 million. In other words: don't shed too many tears for the insurer over a $4.5 million check.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

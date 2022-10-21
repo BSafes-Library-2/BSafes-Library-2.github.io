@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Issues New Cybersecurity Requirements for Rail Operators<a href="https://www.cnn.com/2022/10/19/politics/biden-tsa-cybersecurity-requirements-rail-operators/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new directive from the Transportation Security Administration requires rail companies to report hacking incidents to the Department of Homeland Security and to have a plan to keep a cybersecurity incident from hampering their operations.
+</details>
+<div style="text-align: right" markdown="1">
+CNN Money
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warning: Beware of Student Loan Forgiveness Scammers<a href="https://www.zdnet.com/article/fbi-warning-beware-of-student-loan-forgiveness-scammers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam the FBI is warning about involves cybercriminals and fraudsters purporting to provide entrance to the Federal Student Loan Forgiveness program. Fraudsters could contact potential victims via phone, email, text, websites, or chat services.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

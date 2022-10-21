@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazil arrests suspect linked to the Lapsus$ hacking group<a href="https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-linked-to-the-lapsus-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Brazilian Federal Police arrested a Brazilian suspect in the city of Feira de Santana, Bahia, believed to be part of the Lapsus$ extortion gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The missed link between Ransom Cartel and REvil ransomware gangs<a href="https://securityaffairs.co/wordpress/137328/cyber-crime/ransom-cartel-links-revil.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Network's Unit 42 linked the Ransom Cartel ransomware operation to the REvil ransomware operations.
+
+
+
+Researchers at Palo Alto Network's Unit 42 have linked the relatively new Ransom Cartel ransomware operation with the notorious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

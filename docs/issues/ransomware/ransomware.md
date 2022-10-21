@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OldGremlin Ransomware Targeted Over a Dozen Russian Entities in Multi-Million Scheme<a href="https://thehackernews.com/2022/10/oldgremlin-ransomware-targeted-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian-speaking ransomware group dubbed OldGremlin has been attributed to 16 malicious campaigns aimed at entities operating in the transcontinental Eurasian nation over the course of two and a half years.  "The group's victims include companies in sectors such as logistics, industry, insurance, retail, real estate, software development, and banking," Group-IB&nbsp; said &nbsp;in an exhaustive report shared with The Hacker News. "In 2020, the group even targeted an arms manufacturer."  In what's a rarity in the ransomware landscape, OldGremlin (aka TinyScouts) is one of the very few financially motivated cybercrime gangs that primarily focuses on Russian companies.  Other notable groups consist of Dharma, Crylock, and Thanos, contributing to an uptick in ransomware attacks targeting businesses in the country by over 200% in 2021.  OldGremlin first came to light in September 2020 when the Singapore-headquartered cybersecurity company&nbsp; disclosed &nbsp;nine campaigns orch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

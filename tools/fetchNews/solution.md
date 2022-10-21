@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Unveils KataOS 'Verifiably-Secure' Operating System for Embedded Devices<a href="https://www.securityweek.com/google-unveils-kataos-verifiably-secure-operating-system-embedded-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The project is named Sparrow and it revolves around a new operating system named KataOS, for which Google has already open-sourced several components. The tech giant pointed out that KataOS is mostly developed in Rust, which makes it more secure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft announces enterprise DDoS protection for SMBs<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-enterprise-ddos-protection-for-smbs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today the availability of&nbsp;Azure DDoS IP Protection in public preview, a new and fully managed DDoS&nbsp;Protection pay-per-protected IP model offering tailored to small and midsize businesses&nbsp;(SMBs).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
