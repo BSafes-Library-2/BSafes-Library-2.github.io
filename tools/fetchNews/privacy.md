@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smartphones of Iranian Protesters Targeted with Spyware<a href="https://www.hackread.com/iran-protesters-phones-spyware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Voice of America has obtained a copy of the spyware. In its report, the agency noted that the malware was previously distributed on different forums and titles such as Telegram with Free Internet.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OldGremlin hackers use Linux ransomware to attack Russian orgs<a href="https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OldGremlin, one of the few ransomware groups attacking Russian corporate networks, has expanded its toolkit with file-encrypting malware for Linux machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

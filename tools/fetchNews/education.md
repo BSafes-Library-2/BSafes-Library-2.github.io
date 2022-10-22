@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Not All Sandboxes Are for Children: How to Secure Your SaaS Sandbox<a href="https://thehackernews.com/2022/10/not-all-sandboxes-are-for-children-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When creating a Sandbox, the mindset tends to be that the Sandbox is considered a place to play around, test things, and there will be no effect on the production or operational system. Therefore, people don't actively think they need to worry about its security. This mindset is not only wrong, but extremely dangerous.&nbsp;  When it comes to software developers, their version of sandbox is similar to a child's playground — a place to build and test without breaking any flows in production. Meanwhile, in the world of cybersecurity, the term 'sandbox' is used to describe a virtual environment or machine used to run suspicious code and other elements.&nbsp;  Many organizations use a Sandbox for their SaaS apps — to test changes without disrupting the production SaaS app or even to connect new apps (much like a software developer's Sandbox). This common practice often leads to a false sense of security and in turn a lack of thought for its security implications. This article wi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

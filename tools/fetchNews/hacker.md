@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group updates Furball Android spyware to evade detection<a href="https://www.bleepingcomputer.com/news/security/hacking-group-updates-furball-android-spyware-to-evade-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the 'FurBall' Android spyware has been found targeting Iranian citizens in mobile surveillance campaigns conducted by the Domestic Kitten hacking group, also known as APT-C-50.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

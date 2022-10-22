@@ -8,6 +8,24 @@ nav_order: 900195
 
 ## Solution
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GUAC – A Google Open Source Project to secure software supply chain<a href="https://securityaffairs.co/wordpress/137448/security/guac-software-supply-chain-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google launched&nbsp;the Graph for the Understanding Artifact Composition (GUAC) project, to secure&nbsp;the software supply chain.
+
+
+
+Google this week launched a new project named&nbsp;Graph for Understanding Artifact Composition (GUAC) which aims at securing the&nbsp;software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

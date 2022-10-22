@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network<a href="https://thehackernews.com/2022/10/critical-flaw-reported-in-move-virtual.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details about a now-patched critical flaw in the Move virtual machine that powers the Aptos blockchain network.  The vulnerability "can cause Aptos nodes to crash and cause denial of service," Singapore-based Numen Cyber Labs&nbsp; said &nbsp;in a technical write-up published earlier this month.  Aptos is a&nbsp; new entrant &nbsp;to the blockchain space, which&nbsp; launched &nbsp;its&nbsp; mainnet &nbsp;on October 17, 2022. It has its roots in the Diem stablecoin payment system proposed by Meta (née Facebook), which also introduced a short-lived digital wallet called&nbsp; Novi .   The network is built using a platform-agnostic programming language known as&nbsp; Move , a Rust-based system that's&nbsp; designed &nbsp;to implement and execute&nbsp; smart contracts &nbsp;in a secure&nbsp; runtime environment , also known as the Move Virtual Machine (aka&nbsp; MoveVM ).   The&nbsp; vulnerability &nbsp;identified by Numen Cyber Labs is rooted in the Move language's verification module (" stack_usage_verifier.rs "), a com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of CVE-2022-42889 Text4Shell exploit attempts<a href="https://securityaffairs.co/wordpress/137462/hacking/text4shell-exploitation-attempts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wordfence researchers warn of exploitation attempts targeting the recently disclosed flaw in&nbsp;Apache Commons Text&nbsp;dubbed Text4Shell.
+
+
+
+Experts at WordPress security firm Wordfence reported exploitation attempts targeting the recently disclosed flaw...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Cisco Identity Services Engine Require Your Attention<a href="https://www.helpnetsecurity.com/2022/10/21/cve-2022-20822-cve-2022-20959/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are no workarounds available for the two flaws. And, while there’s currently a fix for CVE-2022-20959 (for one specific ISE version and patch level), other fixes are scheduled to be released in the coming months – some even in January 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Campaigns Exploit VMware Vulnerability to Deploy Crypto Miners and Ransomware<a href="https://thehackernews.com/2022/10/multiple-campaigns-exploit-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched vulnerability in VMware Workspace ONE Access has been observed being exploited to deliver both cryptocurrency miners and ransomware on affected machines.  "The attacker intends to utilize a victim's resources as much as possible, not only to install RAR1Ransom for extortion, but also to spread GuardMiner to collect cryptocurrency," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said &nbsp;in a Thursday report.   The issue, tracked as CVE-2022-22954  (CVSS score: 9.8), concerns a remote code execution vulnerability that stems from a case of server-side template injection. Although the shortcoming was addressed by the virtualization services provider in April 2022, it has since come under  active  exploitation  in the wild.   Fortinet said it observed in August 2022 attacks that sought to weaponize the flaw to deploy the&nbsp; Mirai botnet &nbsp;on Linux devices as well as the RAR1Ransom and&nbsp; GuardMiner , a variant of the XMRig Monero miner.  The Mirai sample is retrieved fr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit critical VMware flaw to drop ransomware, miners<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-flaw-to-drop-ransomware-miners/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers observed malicious campaigns leveraging a critical vulnerability in VMware Workspace One Access to deliver various malware, including the RAR1Ransom tool that locks files in password-protected archives.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Started Exploiting Critical "Text4Shell" Apache Commons Text Vulnerability<a href="https://thehackernews.com/2022/10/hackers-started-exploiting-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress security company Wordfence on Thursday said it started detecting exploitation attempts targeting the newly disclosed flaw in Apache Commons Text  on October 18, 2022.  The vulnerability, tracked as&nbsp; CVE-2022-42889 &nbsp;aka  Text4Shell , has been assigned a severity ranking of 9.8 out of a possible 10.0 on the CVSS scale and affects versions 1.5 through 1.9 of the library.  It's also similar to the now infamous&nbsp; Log4Shell &nbsp;vulnerability in that the&nbsp; issue &nbsp;is rooted in the manner&nbsp; string substitutions &nbsp;carried out during&nbsp; DNS, script, and URL lookups &nbsp;could lead to the execution of arbitrary code on susceptible systems when passing untrusted input.   "The attacker can send a crafted payload remotely using 'script,' 'dns,' and 'url' lookups to achieve arbitrary remote code execution," Zscaler ThreatLabZ team explained .  A&nbsp; successful exploitation of the flaw &nbsp;can enable a threat actor to open a reverse shell connection with the vulnerable app
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wholesale giant METRO hit by IT outage after cyberattack<a href="https://www.bleepingcomputer.com/news/security/wholesale-giant-metro-hit-by-it-outage-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International wholesale giant METRO is experiencing infrastructure outages and store payment issues following a recent cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

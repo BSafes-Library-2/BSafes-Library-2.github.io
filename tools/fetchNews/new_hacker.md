@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Impact, if Any, Does Killnet Have?<a href="https://www.lawfareblog.com/what-impact-if-any-does-killnet-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Killnet, the pro-Russian hacktivist collective, launched an ineffective DDoS attack on U.S. government websites earlier this month, leaving many to wonder what the purpose of such groups is and what impact they actually have, especially amid the war in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

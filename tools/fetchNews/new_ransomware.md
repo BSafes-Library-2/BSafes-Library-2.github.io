@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 21st 2022 - Stop the Presses<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-21st-2022-stop-the-presses/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers did not disappoint, with reports&nbsp;linking RansomCartel to REvil, on&nbsp;OldGremlin hackers targeting Russia with ransomware, a&nbsp;new data exfiltration tool used by BlackByte, a warning that&nbsp;ransomware actors are exploiting VMware vulnerabilities, and finally, our own&nbsp;report on the Venus Ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware uses new data theft tool for double-extortion<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-uses-new-data-theft-tool-for-double-extortion/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A BlackByte ransomware affiliate is using a new custom data stealing tool called 'ExByte' to steal data from compromised Windows devices quickly.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

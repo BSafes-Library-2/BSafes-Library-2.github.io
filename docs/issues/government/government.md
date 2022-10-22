@@ -8,6 +8,52 @@ nav_order: 900075
 
 ## Government
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt warns of Daixin Team targeting health orgs with ransomware<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-daixin-team-targeting-health-orgs-with-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the FBI, and the Department of Health and Human Services (HHS)&nbsp;warned that a cybercrime group known as Daixin Team is actively targeting the U.S. Healthcare and Public Health (HPH) Sector sector in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Linux kernel flaw CVE-2021-3493 to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/137454/security/cve-2021-3493-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a Linux kernel vulnerability, tracked as CVE-2021-3493, to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week&nbsp;added&nbsp;a Linux kernel vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Quick Look at the "Strengthening America's Cybersecurity" Initiative<a href="https://thehackernews.com/2022/10/a-quick-look-at-strengthening-americas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acknowledging that you have a problem is the first step to addressing the problem in a serious way. This seems to be the reasoning for the White House recently announcing its "Strengthening America's Cybersecurity" initiative.  The text of the announcement contains several statements that anyone who's ever read about cybersecurity will have heard many times over: increasing resilience, greater awareness, countering ransomware attacks – the list goes on.&nbsp;  There are some novel aspects to the text as well, including a realization that cybersecurity is not, has never been, and will never be something that can be solved at the nation-state level.&nbsp;  The White House also pointed to IoT warning labels as a solution – and reminded us all (and we do need reminding) about the importance of cybersecurity education. Let's take a look.  International cooperation is critical  A key point that the White House statement makes very clear is that cyberattacks are asymmetric in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
