@@ -34,7 +34,271 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of GitHub repositories deliver fake PoC exploits with malware<a href="https://www.bleepingcomputer.com/news/security/thousands-of-github-repositories-deliver-fake-poc-exploits-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the Leiden Institute of Advanced Computer Science found thousands of repositories on GitHub that offer fake proof-of-concept (PoC) exploits for various vulnerabilities, some of them including malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 390<a href="https://securityaffairs.co/wordpress/137535/breaking-news/security-affairs-newsletter-round-390.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Daixin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typosquat campaign mimics 27 brands to push Windows, Android malware<a href="https://www.bleepingcomputer.com/news/security/typosquat-campaign-mimics-27-brands-to-push-windows-android-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive, malicious campaign is underway using over 200 typosquatting domains that impersonate twenty-seven brands to trick visitors into downloading various Windows and Android malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole sensitive data from Iran’s atomic energy agency<a href="https://securityaffairs.co/wordpress/137513/hacking/hackers-stole-sensitive-data-from-irans-atomic-energy-agency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran’s atomic energy agency claims that alleged state-sponsored hackers have compromised its email system.
+
+
+
+Iran’s atomic energy agency revealed on Sunday that a nation-state actor had access to a subsidiary’s network and free access to its email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wholesale giant METRO confirmed to have suffered a cyberattack<a href="https://securityaffairs.co/wordpress/137506/hacking/metro-confirmed-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International cash and carry giant METRO suffered this week IT infrastructure outages following a cyberattack.
+
+
+
+International cash and carry giant METRO was hit by a cyberattack that caused IT infrastructure outages. Metro employs more than 95,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware - The Most Active Global Threat<a href="https://cyware.com/news/lockbit-ransomware-the-most-active-global-threat-3474dd13"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit, a RaaS, ranks among the top in the ransomware threat category as it has been causing significant damage through its attack campaigns. Lockbit 3.0 is its latest variant. LockBit has hit 1,157 victims on record (throughout its lifetime), which is way ahead of Conti (900), Hive (192), and Bla ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Control Tools Popular Among Cybercriminals<a href="https://cyware.com/news/remote-control-tools-popular-among-cybercriminals-96417414"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While remote access tools offer a flexible support to organizations, these tools are increasingly exploited by cybercriminals to harass target organizations. Remote shell is the most common remote access tool, then comes RATs, Cobalt Strike, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android adware apps in Google Play downloaded over 20 million times<a href="https://www.bleepingcomputer.com/news/security/android-adware-apps-in-google-play-downloaded-over-20-million-times/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at McAfee have discovered a set of 16 malicious clicker apps that managed to sneak into Google Play, the official app store for Android.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Worrisome Surge in DeadBolt Ransomware Attacks<a href="https://cyware.com/news/a-worrisome-surge-in-deadbolt-ransomware-attacks-0d7a0c71"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study by Group-IB revealed that the DeadBolt ransomware group is targeting NAS devices and asks both the victim and the vendor to pay ransoms of 0.03–0.05 BTC and 10–50 BTC, respectively. A few days ago, the Dutch National Police carried out a targeted operation against the Deadbolt ransom ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TommyLeaks and SchoolBoys: Two sides of the same ransomware gang<a href="https://www.bleepingcomputer.com/news/security/tommyleaks-and-schoolboys-two-sides-of-the-same-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new extortion gangs named 'TommyLeaks' and 'SchoolBoys' are targeting companies worldwide. However, there is a catch — they are both the same ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spikes in Cyberattacks Against Open-Source Repositories<a href="https://cyware.com/news/spikes-in-cyberattacks-against-open-source-repositories-e7337780"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open source software repositories have been subjected to a 633% year-over-year increase in cyber-attacks. The report states that 1.2 billion vulnerable Java dependencies are still getting downloaded each month, while the new and patched versions are getting ignored by the users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daixin Team targets health organizations with ransomware, US agencies warn<a href="https://securityaffairs.co/wordpress/137493/cyber-crime/daixin-team-targets-healthcare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government agencies warned that the Daixin Team cybercrime group is actively targeting the U.S. Healthcare and Public Health sector with ransomware.
+
+
+
+CISA, the FBI, and the Department of Health and Human Services (HHS) warned that the Daixin Team...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited Windows zero-day lets JavaScript files bypass security warnings<a href="https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows zero-day allows threat actors to use malicious JavaScript files to bypass Mark-of-the-Web security warnings. Threat actors are already seen using the zero-day bug in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Clicker Android Malware Infects 20 Million Users<a href="https://cyware.com/news/new-clicker-android-malware-infects-20-million-users-159bb32a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Play Store kicked out 16 malicious apps, with a cumulative download of 20 million, that were propagating the Clicker malware for mobile ad fraud. Researchers highlight that the new Android malware is designed to disrupt the mobile advertising ecosystem. It enables its operators to generate r ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit critical flaw in VMware Workspace ONE Access to drop ransomware, miners<a href="https://securityaffairs.co/wordpress/137483/hacking/vmware-workspace-one-access-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a now-patched vulnerability, tracked as CVE-2022-22954, in VMware Workspace ONE Access in attacks in the wild.
+
+
+
+Threat actors are actively exploiting a now-patched vulnerability, tracked as CVE-2022-22954, in VMware Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network<a href="https://thehackernews.com/2022/10/critical-flaw-reported-in-move-virtual.html"> Full Text</a>
@@ -50,7 +314,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 21st 2022 - Stop the Presses<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-21st-2022-stop-the-presses/"> Full Text</a>
@@ -66,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Password Report: Honeypot Data Shows Bot Attack Trends Against RDP, SSH<a href="https://www.securityweek.com/password-report-honeypot-data-shows-bot-attack-trends-against-rdp-ssh?&web_view=true"> Full Text</a>
@@ -82,7 +346,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Impact, if Any, Does Killnet Have?<a href="https://www.lawfareblog.com/what-impact-if-any-does-killnet-have"> Full Text</a>
@@ -98,7 +362,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EnergyAustralia Electricity company discloses security breach<a href="https://securityaffairs.co/wordpress/137473/data-breach/energyaustralia-data-breach.html"> Full Text</a>
@@ -118,7 +382,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt warns of Daixin Team targeting health orgs with ransomware<a href="https://www.bleepingcomputer.com/news/security/us-govt-warns-of-daixin-team-targeting-health-orgs-with-ransomware/"> Full Text</a>
@@ -134,7 +398,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ERMAC Banking Trojan Targets Hundreds of Android Users<a href="https://cyware.com/news/ermac-banking-trojan-targets-hundreds-of-android-users-d39b41c6"> Full Text</a>
@@ -150,7 +414,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware<a href="https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html"> Full Text</a>
@@ -166,7 +430,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of CVE-2022-42889 Text4Shell exploit attempts<a href="https://securityaffairs.co/wordpress/137462/hacking/text4shell-exploitation-attempts.html"> Full Text</a>
@@ -186,7 +450,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wholesale giant METRO hit by IT outage after cyberattack<a href="https://www.bleepingcomputer.com/news/security/wholesale-giant-metro-hit-by-it-outage-after-cyberattack/"> Full Text</a>
@@ -202,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in Cisco Identity Services Engine Require Your Attention<a href="https://www.helpnetsecurity.com/2022/10/21/cve-2022-20822-cve-2022-20959/?&web_view=true"> Full Text</a>
@@ -218,7 +482,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Campaigns Exploit VMware Vulnerability to Deploy Crypto Miners and Ransomware<a href="https://thehackernews.com/2022/10/multiple-campaigns-exploit-vmware.html"> Full Text</a>
@@ -234,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Linux kernel flaw CVE-2021-3493 to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/137454/security/cve-2021-3493-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -254,7 +518,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers exploit critical VMware flaw to drop ransomware, miners<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-vmware-flaw-to-drop-ransomware-miners/"> Full Text</a>
@@ -270,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Started Exploiting Critical "Text4Shell" Apache Commons Text Vulnerability<a href="https://thehackernews.com/2022/10/hackers-started-exploiting-critical.html"> Full Text</a>
@@ -286,7 +550,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GUAC – A Google Open Source Project to secure software supply chain<a href="https://securityaffairs.co/wordpress/137448/security/guac-software-supply-chain-security.html"> Full Text</a>
@@ -306,7 +570,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clearview AI gets third €20 million fine for illegal data collection<a href="https://www.bleepingcomputer.com/news/security/clearview-ai-gets-third-20-million-fine-for-illegal-data-collection/"> Full Text</a>
@@ -322,7 +586,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Quick Look at the "Strengthening America's Cybersecurity" Initiative<a href="https://thehackernews.com/2022/10/a-quick-look-at-strengthening-americas.html"> Full Text</a>
@@ -338,7 +602,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 News URSNIF variant doesn’t support banking features<a href="https://securityaffairs.co/wordpress/137435/malware/ursnif-shift-backdoor.html"> Full Text</a>
@@ -358,7 +622,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte ransomware uses new data theft tool for double-extortion<a href="https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-uses-new-data-theft-tool-for-double-extortion/"> Full Text</a>
@@ -374,7 +638,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Confirms Server Misconfiguration Led to 65,000+ Companies' Data Leak<a href="https://thehackernews.com/2022/10/microsoft-confirms-server.html"> Full Text</a>
@@ -390,7 +654,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
+October 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare system Advocate Aurora Health data breach potentially impacted 3M patients<a href="https://securityaffairs.co/wordpress/137421/data-breach/advocate-aurora-health-data-breach.html"> Full Text</a>
