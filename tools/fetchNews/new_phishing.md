@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of GitHub repositories deliver fake PoC exploits with malware<a href="https://www.bleepingcomputer.com/news/security/thousands-of-github-repositories-deliver-fake-poc-exploits-with-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the Leiden Institute of Advanced Computer Science found thousands of repositories on GitHub&nbsp;that offer fake proof-of-concept (PoC) exploits for various vulnerabilities, some of them including malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typosquat campaign mimics 27 brands to push Windows, Android malware<a href="https://www.bleepingcomputer.com/news/security/typosquat-campaign-mimics-27-brands-to-push-windows-android-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive, malicious campaign is underway using over 200 typosquatting domains that impersonate twenty-seven brands to trick visitors into downloading various Windows and Android malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

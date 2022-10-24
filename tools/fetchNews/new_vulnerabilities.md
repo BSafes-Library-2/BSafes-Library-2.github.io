@@ -11,6 +11,38 @@ nav_order: 900220
 October 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Exploited Windows zero-day lets JavaScript files bypass security warnings<a href="https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows zero-day allows threat actors to use malicious JavaScript files to bypass Mark-of-the-Web security warnings. Threat actors are already seen using the zero-day bug in ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit critical flaw in VMware Workspace ONE Access to drop ransomware, miners<a href="https://securityaffairs.co/wordpress/137483/hacking/vmware-workspace-one-access-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a now-patched vulnerability, tracked as CVE-2022-22954, in VMware Workspace ONE Access in attacks in the wild.
+
+
+
+Threat actors are actively exploiting a now-patched vulnerability, tracked as CVE-2022-22954, in VMware Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Reported in Move Virtual Machine Powering the Aptos Blockchain Network<a href="https://thehackernews.com/2022/10/critical-flaw-reported-in-move-virtual.html"> Full Text</a>
 </p>
 <details>

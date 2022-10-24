@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EnergyAustralia Electricity company discloses security breach<a href="https://securityaffairs.co/wordpress/137473/data-breach/energyaustralia-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electricity company EnergyAustralia suffered a security breach, threat actors had access to information on 323 customers.
+
+
+
+Another Australian organization was hit by a severe cyber attack, this time the victim is the Electricity company EnergyAustralia....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Confirms Server Misconfiguration Led to 65,000+ Companies' Data Leak<a href="https://thehackernews.com/2022/10/microsoft-confirms-server.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft this week confirmed that it inadvertently exposed information related to thousands of customers following a security lapse that left an endpoint publicly accessible over the internet sans any authentication.  "This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective customers, such as the planning or potential implementation and provisioning of Microsoft services," Microsoft&nbsp; said &nbsp;in an alert.  Microsoft also emphasized that the B2B leak was "caused by an unintentional misconfiguration on an endpoint that is not in use across the Microsoft ecosystem and was not the result of a security vulnerability."  The misconfiguration of the Azure Blob Storage was spotted on September 24, 2022, by cybersecurity company SOCRadar, which termed the leak&nbsp; BlueBleed . Microsoft said it's in the process of directly notifying impacted customers.   The Win
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare system Advocate Aurora Health data breach potentially impacted 3M patients<a href="https://securityaffairs.co/wordpress/137421/data-breach/advocate-aurora-health-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare system Advocate Aurora Health (AAH) disclosed a data breach that exposed the personal data of 3,000,000 patients.
+
+
+
+The US-based hospital healthcare system Advocate Aurora Health (AAH) disclosed a data breach that exposed the personal data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

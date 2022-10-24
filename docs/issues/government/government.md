@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daixin Team targets health organizations with ransomware, US agencies warn<a href="https://securityaffairs.co/wordpress/137493/cyber-crime/daixin-team-targets-healthcare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government agencies warned that the Daixin Team cybercrime group is actively targeting the U.S. Healthcare and Public Health sector with ransomware.
+
+
+
+CISA, the FBI, and the Department of Health and Human Services (HHS) warned that the Daixin Team...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

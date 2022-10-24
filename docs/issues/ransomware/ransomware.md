@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware - The Most Active Global Threat<a href="https://cyware.com/news/lockbit-ransomware-the-most-active-global-threat-3474dd13"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit, a RaaS, ranks among the top in the ransomware threat category as it has been causing significant damage through its attack campaigns. Lockbit 3.0 is its latest variant. LockBit has hit 1,157 victims on record (throughout its lifetime), which is way ahead of Conti (900), Hive (192), and Bla ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TommyLeaks and SchoolBoys: Two sides of the same ransomware gang<a href="https://www.bleepingcomputer.com/news/security/tommyleaks-and-schoolboys-two-sides-of-the-same-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new extortion gangs named 'TommyLeaks' and 'SchoolBoys' are targeting companies worldwide. However, there is a catch — they are both the same ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

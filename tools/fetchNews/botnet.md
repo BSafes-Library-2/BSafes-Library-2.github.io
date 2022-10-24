@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Botnet Distributing Self-Unlocking Password-Protected RAR Files to Drop Malware<a href="https://thehackernews.com/2022/10/emotet-botnet-distributing-self.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious&nbsp; Emotet botnet &nbsp;has been linked to a new wave of malspam campaigns that take advantage of password-protected archive files to drop CoinMiner and Quasar RAT on compromised systems.  In an&nbsp; attack chain &nbsp;detected by Trustwave SpiderLabs researchers, an invoice-themed ZIP file lure was found to contain a nested self-extracting (SFX) archive, the first archive acting as a conduit to launch the second.  While phishing attacks like these traditionally require persuading the target into opening the attachment, the cybersecurity company said the campaign sidesteps this hurdle by making use of a batch file to automatically supply the password to unlock the payload.   The first SFX archive file further makes use of either a PDF or Excel icon to make it appear legitimate, when, in reality, it contains three components: the password-protected second SFX RAR file, the aforementioned batch script which launches the archive, and a decoy PDF or image.  "The execution of the batch f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
