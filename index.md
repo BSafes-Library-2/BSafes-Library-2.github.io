@@ -34,6 +34,314 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome extensions with 1 million installs hijack targets’ browsers<a href="https://www.bleepingcomputer.com/news/security/chrome-extensions-with-1-million-installs-hijack-targets-browsers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Guardio Labs have discovered a new malvertizing campaign pushing Google Chrome and Microsoft Edge extensions that hijack searches and insert affiliate links into webpages.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists 'Steal' 100,000 Emails from Iran Nuclear Agency<a href="https://www.theregister.com/2022/10/24/black_reward_iran_nuclear_leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An activist group that calls itself Black Reward and claims to be from Iran claimed that it had accessed an email server run by a company related to Iran's Atomic Energy Organization and exfiltrated 324 inboxes comprising over 100,000 messages.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download eBook: Top virtual CISOs share 7 tips for vCISO service providers<a href="https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtual Chief Information Security Officer (vCISO) services (also known as 'Fractional CISO' or 'CISO-as-a-Service') are growing in popularity, especially as growing cyber threats, tightening regulatory demands and strict cyber insurance requirements are driving small to medium-sized enterprises demand for strategic cybersecurity and compliance guidance and management. But vCISO services are labor intensive, require highly skilled experts, and are difficult to scale. So, how exactly do successful vCISO providers overcome these obstacles?  When you want advice on how to overcome challenges, scale and expand, who better to go to than the people who have been there, seen it, and done it with success? In a new eBook, titled ' Top virtual CISOs share: 7 tips on how vCISO service providers can maximize services, increase revenues, and improve margins " ( Download here ), vCISO platform provider Cynomi interviewed some of America's top vCISO service providers (MS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the ninth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/137579/security/apple-fixes-ninth-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates that addressed the ninth zero-day vulnerability actively exploited in the wild since the start of the year. 
+
+
+
+Apple has addressed the ninth zero-day vulnerability exploited in attacks in the wild since the start of the year. The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes new zero-day used in attacks against iPhones, iPads<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In security updates released on Monday, Apple has fixed the ninth zero-day vulnerability used in attacks against iPhones since the start of the year. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security experts targeted with malicious CVE PoC exploits on GitHub<a href="https://securityaffairs.co/wordpress/137527/hacking/malicious-github-repositories.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers at the Leiden Institute of Advanced Computer Science discovered thousands of repositories on GitHub that offer fake proof-of-concept (PoC) exploits for multiple vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder APT Using New WarHawk Backdoor to Target Entities in Pakistan<a href="https://thehackernews.com/2022/10/sidewinder-apt-using-new-warhawk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideWinder, a prolific nation-state actor mainly known for targeting Pakistan military entities, compromised the official website of the National Electric Power Regulatory Authority (NEPRA) to deliver a tailored malware called  WarHawk .  "The newly discovered WarHawk backdoor contains various malicious modules that deliver Cobalt Strike, incorporating new TTPs such as  KernelCallBackTable injection  and Pakistan Standard Time zone check in order to ensure a victorious campaign," Zscaler ThreatLabz  said .  The threat group, also called APT-C-17, Rattlesnake, and Razor Tiger, is  suspected  to be an Indian state-sponsored group, although a report from Kaspersky earlier this May acknowledged previous indicators that led to the attribution have since disappeared, making it challenging it to link the threat cluster to a specific nation.   More than 1,000 attacks are said to have been  launched by the group  since April 2020, an indication of SideWinder's newfound aggression
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware affiliate targets Ukraine, CERT-UA warns<a href="https://securityaffairs.co/wordpress/137567/cyber-warfare-2/cuba-ransomware-cert-ua.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukraine Computer Emergency Response Team (CERT-UA) warns of Cuba Ransomware attacks against critical networks in the country.
+
+
+
+The Ukraine Computer Emergency Response Team (CERT-UA) warns of potential Cuba Ransomware attacks against local critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s atomic energy agency confirms hack after stolen data leaked online<a href="https://www.bleepingcomputer.com/news/security/iran-s-atomic-energy-agency-confirms-hack-after-stolen-data-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian Atomic Energy Organization (AEOI) has confirmed that one of its subsidiaries' email servers was hacked after the ''Black Reward' hacking group published stolen data online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Iranian Cyber Firm's Hack-and-Leak Operations<a href="https://www.securityweek.com/fbi-warns-iranian-cyber-firms-hack-and-leak-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Previously known as Eeleyanet Gostar and Net Peygard Samavat, Emennet Pasargad is an organization that often changes its name to avoid US sanctions, and which is known for providing cybersecurity services to government entities in Iran.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Daixin Team Hackers Targeting Health Organizations With Ransomware<a href="https://thehackernews.com/2022/10/cisa-warns-of-daixin-team-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have published a joint advisory warning of attacks perpetrated by a cybercrime gang known as the  Daixin Team  primarily targeting the healthcare sector in the country.  "The Daixin Team is a ransomware and data extortion group that has targeted the HPH Sector with ransomware and data extortion operations since at least June 2022," the agencies  said .  The alert was published Friday by the Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and the Department of Health and Human Services (HHS).   Over the past four months, the group has been linked to multiple ransomware incidents in the Healthcare and Public Health (HPH) sector, encrypting servers related to electronic health records, diagnostics, imaging, and intranet services.  It's also said to have exfiltrated personal identifiable information (PII) and patient health information (PHI) as part of a double extortion scheme to se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway PM warns of Russia cyber threat to oil and gas industry<a href="https://securityaffairs.co/wordpress/137561/cyber-warfare-2/norway-pm-warns-russia-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway ’s prime minister warned last week that Russia poses “a real and serious threat” to the country’s oil and gas industry.
+
+
+
+Norway ’s prime minister Jonas Gahr Støre warned that Russia poses “a real and serious threat” to the country’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware affiliate targets Ukrainian govt agencies<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-affiliate-targets-ukrainian-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert about potential Cuba Ransomware attacks against critical networks in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of alleged 2.6m Carousell accounts being sold on Dark Web, hacking forums<a href="https://www.straitstimes.com/singapore/data-of-alleged-26m-carousell-accounts-being-sold-on-dark-web-hacking-forums?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breached database, allegedly containing the information of 2.6 million accounts, is being sold for $1,000. Carousell said that 1.95 million user accounts were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Ransomware in Education on the Rise and What That Means for 2023<a href="https://thehackernews.com/2022/10/why-ransomware-in-education-on-rise-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach of LA Unified School District (LAUSD) highlights the prevalence of password vulnerabilities, as criminal hackers continue to use breached credentials in increasingly frequent ransomware attacks on education.  The Labor Day weekend breach of LAUSD brought significant  districtwide disruptions to access to email , computers, and applications. It's unclear what student or employee data the attackers exfiltrated.  There is a significant trend in ransomware breaches in education, a highly vulnerable sector. The transitory nature of students leaves accounts and passwords vulnerable. The open environments schools create to foster student exploration and the relative naivete in the sector regarding cybersecurity invite attacks.   The breach at LAUSD and what happened afterward  Four days post-breach, reports came that criminals had offered credentials for accounts inside the school district's network  for sale on the dark web  months before the attack. The stolen credential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Clicker apps in Google Play have 20M+ installs<a href="https://securityaffairs.co/wordpress/137549/malware/clicker-apps-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered 16 malicious clicker apps in the official Google Play store that were downloaded by 20M+ users.
+
+
+
+Security researchers at McAfee have discovered 16 malicious clicker apps available in the official Google Play store that were installed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pendragon car dealer refuses $60 million LockBit ransomware demand<a href="https://www.bleepingcomputer.com/news/security/pendragon-car-dealer-refuses-60-million-lockbit-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pendragon Group, with more than 200 car dealerships in the U.K., was breached in a cyberattack from the LockBit ransomware gang, who allegedly demanded $60 million to decrypt files and not leak them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security experts targeted with malicious CVE PoC exploits on GitHub<a href="https://securityaffairs.co/wordpress/137527/hacking/malicious-github-repositories.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered thousands of GitHub repositories that offer fake proof-of-concept (PoC) exploits for various flaws used to distribute malware.
+
+
+
+A team of researchers at the Leiden Institute of Advanced Computer Science (Soufian El Yadmani, Robin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
