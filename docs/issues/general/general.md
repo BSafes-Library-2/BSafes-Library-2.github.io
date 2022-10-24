@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Ransomware in Education on the Rise and What That Means for 2023<a href="https://thehackernews.com/2022/10/why-ransomware-in-education-on-rise-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach of LA Unified School District (LAUSD) highlights the prevalence of password vulnerabilities, as criminal hackers continue to use breached credentials in increasingly frequent ransomware attacks on education.  The Labor Day weekend breach of LAUSD brought significant&nbsp; districtwide disruptions to access to email , computers, and applications. It's unclear what student or employee data the attackers exfiltrated.  There is a significant trend in ransomware breaches in education, a highly vulnerable sector. The transitory nature of students leaves accounts and passwords vulnerable. The open environments schools create to foster student exploration and the relative naivete in the sector regarding cybersecurity invite attacks.&nbsp;  The breach at LAUSD and what happened afterward  Four days post-breach, reports came that criminals had offered credentials for accounts inside the school district's network&nbsp; for sale on the dark web &nbsp;months before the attack. The stolen credential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder APT Using New WarHawk Backdoor to Target Entities in Pakistan<a href="https://thehackernews.com/2022/10/sidewinder-apt-using-new-warhawk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideWinder, a prolific nation-state actor mainly known for targeting Pakistan military entities, compromised the official website of the National Electric Power Regulatory Authority (NEPRA) to deliver a tailored malware called&nbsp; WarHawk .  "The newly discovered WarHawk backdoor contains various malicious modules that deliver Cobalt Strike, incorporating new TTPs such as&nbsp; KernelCallBackTable injection &nbsp;and Pakistan Standard Time zone check in order to ensure a victorious campaign," Zscaler ThreatLabz&nbsp; said .  The threat group, also called APT-C-17, Rattlesnake, and Razor Tiger, is&nbsp; suspected &nbsp;to be an Indian state-sponsored group, although a report from Kaspersky earlier this May acknowledged previous indicators that led to the attribution have since disappeared, making it challenging it to link the threat cluster to a specific nation.   More than 1,000 attacks are said to have been&nbsp; launched by the group &nbsp;since April 2020, an indication of SideWinder's newfound aggression
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

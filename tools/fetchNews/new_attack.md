@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pendragon car dealer refuses $60 million LockBit ransomware demand<a href="https://www.bleepingcomputer.com/news/security/pendragon-car-dealer-refuses-60-million-lockbit-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pendragon Group, with more than 200 car dealerships in the U.K., was breached in a cyberattack from the LockBit ransomware gang, who allegedly demanded $60 million to decrypt files and not leak them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

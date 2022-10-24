@@ -31,6 +31,18 @@ The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Secu
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI PIN TLP White: Iranian Cyber Group Emennet Pasargad Conducting Hack-and-Leak Operations Using False-Flag Personas <a href="https://www.aha.org/cybersecurity-government-intelligence-reports/2022-10-20-fbi-pin-tlp-white-iranian-cyber-group-emennet-pasargad-conducting-hack"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is providing information concerning ongoing hack-and-leak cyber operations conducted by Iranian cyber group Emennet Pasargad. According to FBI information, since at least 2020, Emennet targeted entities primarily in Israel with cyber-enabled information operations that included an initial intrusion, theft and subsequent leak of data, followed by amplification through social media and online forums, and in some cases the deployment of destructive encryption malware. To avoid attribution, Emennet executed false-flag campaigns under the guise of multiple personas like hacktivist or cyber-criminal groups. Although Emennet’s latest attacks have primarily targeted Israel, the FBI judges these techniques may be used to target US entities as seen during Emennet’s cyber-enabled information operation that targeted the 2020 US Presidential election1. Within the past year, the FBI has identified a destructive cyber attack against a US organization – indicating the group remains a cyber threat to the United States.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 18, 2022 - TSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,70 @@ nav_order: 900075
 
 ## Government
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware affiliate targets Ukraine, CERT-UA warns<a href="https://securityaffairs.co/wordpress/137567/cyber-warfare-2/cuba-ransomware-cert-ua.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukraine Computer Emergency Response Team (CERT-UA) warns of Cuba Ransomware attacks against critical networks in the country.
+
+
+
+The Ukraine Computer Emergency Response Team (CERT-UA) warns of potential Cuba Ransomware attacks against local critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Iranian Cyber Firm's Hack-and-Leak Operations<a href="https://www.securityweek.com/fbi-warns-iranian-cyber-firms-hack-and-leak-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Previously known as Eeleyanet Gostar and Net Peygard Samavat, Emennet Pasargad is an organization that often changes its name to avoid US sanctions, and which is known for providing cybersecurity services to government entities in Iran.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Daixin Team Hackers Targeting Health Organizations With Ransomware<a href="https://thehackernews.com/2022/10/cisa-warns-of-daixin-team-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have published a joint advisory warning of attacks perpetrated by a cybercrime gang known as the&nbsp; Daixin Team &nbsp;primarily targeting the healthcare sector in the country.  "The Daixin Team is a ransomware and data extortion group that has targeted the HPH Sector with ransomware and data extortion operations since at least June 2022," the agencies&nbsp; said .  The alert was published Friday by the Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and the Department of Health and Human Services (HHS).   Over the past four months, the group has been linked to multiple ransomware incidents in the Healthcare and Public Health (HPH) sector, encrypting servers related to electronic health records, diagnostics, imaging, and intranet services.  It's also said to have exfiltrated personal identifiable information (PII) and patient health information (PHI) as part of a double extortion scheme to se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway PM warns of Russia cyber threat to oil and gas industry<a href="https://securityaffairs.co/wordpress/137561/cyber-warfare-2/norway-pm-warns-russia-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norway ’s prime minister warned last week that Russia poses “a real and serious threat” to the country’s oil and gas industry.
+
+
+
+Norway ’s prime minister Jonas Gahr Støre warned that Russia poses “a real and serious threat” to the country’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Control Tools Popular Among Cybercriminals<a href="https://cyware.com/news/remote-control-tools-popular-among-cybercriminals-96417414"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While remote access tools offer a flexible support to organizations, these tools are increasingly exploited by cybercriminals to harass target organizations. Remote shell is the most common remote access tool,&nbsp;then comes RATs, Cobalt Strike, and others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

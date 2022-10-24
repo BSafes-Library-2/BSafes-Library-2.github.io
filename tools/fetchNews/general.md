@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+October 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 390<a href="https://securityaffairs.co/wordpress/137535/breaking-news/security-affairs-newsletter-round-390.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+Daixin...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Worrisome Surge in DeadBolt Ransomware Attacks<a href="https://cyware.com/news/a-worrisome-surge-in-deadbolt-ransomware-attacks-0d7a0c71"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study by Group-IB revealed that the DeadBolt ransomware group is targeting NAS devices and asks both the victim and the vendor to pay ransoms of 0.03–0.05 BTC and 10–50 BTC, respectively. A few days ago, the Dutch National Police carried out a targeted operation against the Deadbolt ransom ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spikes in Cyberattacks Against Open-Source Repositories<a href="https://cyware.com/news/spikes-in-cyberattacks-against-open-source-repositories-e7337780"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open source software repositories have been subjected to a 633% year-over-year increase in cyber-attacks. The report states that 1.2 billion vulnerable Java dependencies are still getting downloaded each month, while the new and patched versions are getting ignored by the users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists 'Steal' 100,000 Emails from Iran Nuclear Agency<a href="https://www.theregister.com/2022/10/24/black_reward_iran_nuclear_leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An activist group that calls itself Black Reward and claims to be from Iran claimed that it had accessed an email server run by a company related to Iran's Atomic Energy Organization and exfiltrated 324 inboxes comprising over 100,000 messages.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran’s atomic energy agency confirms hack after stolen data leaked online<a href="https://www.bleepingcomputer.com/news/security/iran-s-atomic-energy-agency-confirms-hack-after-stolen-data-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian Atomic Energy Organization (AEOI) has confirmed that one of its subsidiaries' email servers was hacked after the ''Black Reward' hacking group published stolen data online.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of alleged 2.6m Carousell accounts being sold on Dark Web, hacking forums<a href="https://www.straitstimes.com/singapore/data-of-alleged-26m-carousell-accounts-being-sold-on-dark-web-hacking-forums?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breached database, allegedly containing the information of 2.6 million accounts, is being sold for $1,000. Carousell said that 1.95 million user accounts were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

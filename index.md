@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome extensions with 1 million installs hijack targets’ browsers<a href="https://www.bleepingcomputer.com/news/security/chrome-extensions-with-1-million-installs-hijack-targets-browsers/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivists 'Steal' 100,000 Emails from Iran Nuclear Agency<a href="https://www.theregister.com/2022/10/24/black_reward_iran_nuclear_leak/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Download eBook: Top virtual CISOs share 7 tips for vCISO service providers<a href="https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed the ninth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/137579/security/apple-fixes-ninth-zero-day.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes new zero-day used in attacks against iPhones, iPads<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-ipads/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security experts targeted with malicious CVE PoC exploits on GitHub<a href="https://securityaffairs.co/wordpress/137527/hacking/malicious-github-repositories.html?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder APT Using New WarHawk Backdoor to Target Entities in Pakistan<a href="https://thehackernews.com/2022/10/sidewinder-apt-using-new-warhawk.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba ransomware affiliate targets Ukraine, CERT-UA warns<a href="https://securityaffairs.co/wordpress/137567/cyber-warfare-2/cuba-ransomware-cert-ua.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran’s atomic energy agency confirms hack after stolen data leaked online<a href="https://www.bleepingcomputer.com/news/security/iran-s-atomic-energy-agency-confirms-hack-after-stolen-data-leaked-online/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Iranian Cyber Firm's Hack-and-Leak Operations<a href="https://www.securityweek.com/fbi-warns-iranian-cyber-firms-hack-and-leak-operations?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Daixin Team Hackers Targeting Health Organizations With Ransomware<a href="https://thehackernews.com/2022/10/cisa-warns-of-daixin-team-hackers.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway PM warns of Russia cyber threat to oil and gas industry<a href="https://securityaffairs.co/wordpress/137561/cyber-warfare-2/norway-pm-warns-russia-threat.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba ransomware affiliate targets Ukrainian govt agencies<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-affiliate-targets-ukrainian-govt-agencies/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of alleged 2.6m Carousell accounts being sold on Dark Web, hacking forums<a href="https://www.straitstimes.com/singapore/data-of-alleged-26m-carousell-accounts-being-sold-on-dark-web-hacking-forums?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Ransomware in Education on the Rise and What That Means for 2023<a href="https://thehackernews.com/2022/10/why-ransomware-in-education-on-rise-and.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Clicker apps in Google Play have 20M+ installs<a href="https://securityaffairs.co/wordpress/137549/malware/clicker-apps-google-play.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pendragon car dealer refuses $60 million LockBit ransomware demand<a href="https://www.bleepingcomputer.com/news/security/pendragon-car-dealer-refuses-60-million-lockbit-ransomware-demand/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security experts targeted with malicious CVE PoC exploits on GitHub<a href="https://securityaffairs.co/wordpress/137527/hacking/malicious-github-repositories.html"> Full Text</a>

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the ninth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/137579/security/apple-fixes-ninth-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates that addressed the ninth zero-day vulnerability actively exploited in the wild since the start of the year.&nbsp;
+
+
+
+Apple has addressed the ninth zero-day vulnerability exploited in attacks in the wild since the start of the year.&nbsp;The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes new zero-day used in attacks against iPhones, iPads<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In security updates released on Monday, Apple has fixed the ninth zero-day vulnerability used in attacks against iPhones since the start of the year.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
