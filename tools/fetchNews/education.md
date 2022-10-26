@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download eBook: Top virtual CISOs share 7 tips for vCISO service providers<a href="https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtual Chief Information Security Officer (vCISO) services (also known as 'Fractional CISO' or 'CISO-as-a-Service') are growing in popularity, especially as growing cyber threats, tightening regulatory demands and strict cyber insurance requirements are driving small to medium-sized enterprises demand for strategic cybersecurity and compliance guidance and management. But vCISO services are labor intensive, require highly skilled experts, and are difficult to scale. So, how exactly do successful vCISO providers overcome these obstacles?  When you want advice on how to overcome challenges, scale and expand, who better to go to than the people who have been there, seen it, and done it with success? In a new eBook, titled ' Top virtual CISOs share: 7 tips on how vCISO service providers can maximize services, increase revenues, and improve margins " ( Download here ), vCISO platform provider Cynomi interviewed some of America's top vCISO service providers (MS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

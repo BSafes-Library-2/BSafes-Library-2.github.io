@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the Software Supply Chain Security is Threatened by Hackers<a href="https://thehackernews.com/2022/10/how-software-supply-chain-security-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduction  In many ways, the software supply chain is similar to that of manufactured goods, which we all know has been largely impacted by a global pandemic and shortages of raw materials.&nbsp;  However, in the IT world, it is not shortages or pandemics that have been the main obstacles to overcome in recent years, but rather attacks aimed at using them to harm hundreds or even thousands of victims simultaneously. If you've heard of a cyber attack between 2020 and today, it's likely that the software supply chain played a role.&nbsp;  When we talk about an attack on the software supply chain, we are actually referring to two successive attacks: one that targets a supplier, and one that targets one or more downstream users in the chain, using the first as a vehicle.  In this article, we will dive into the mechanisms and risks of the software supply chain by looking at a typical vulnerability of the modern development cycle: the presence of personal identifying information, or "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the "pizza123" password could take down an organization <a href="https://www.bleepingcomputer.com/news/security/how-the-pizza123-password-could-take-down-an-organization/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, the bitter taste of pizza123, and the plight of malicious push notifications demand caution when selecting and managing passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba ransomware affiliate targets Ukrainian govt agencies<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-affiliate-targets-ukrainian-govt-agencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert about potential Cuba Ransomware attacks against critical networks in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+See Tickets discloses 2.5 years-long credit card theft breach<a href="https://www.bleepingcomputer.com/news/security/see-tickets-discloses-25-years-long-credit-card-theft-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ticketing service provider 'See Tickets' has disclosed a data breach, informing customers that cybercriminals might have accessed their payment card details via a skimmer on its website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Hackers Begin Leaking Data Stolen from Tata Power Energy Company<a href="https://thehackernews.com/2022/10/hive-ransomware-hackers-begin-leaking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; Hive &nbsp;ransomware-as-a-service (RaaS) group has claimed responsibility for a cyber attack against Tata Power that was disclosed by the company less than two weeks ago.  The incident is said to have occurred on October 3, 2022. The threat actor has also been observed leaking stolen data exfiltrated prior to encrypting the network as part of its double extortion scheme.  This allegedly comprises signed client contracts, agreement documents, as well as other sensitive information such as emails, addresses, phone numbers, passport numbers, taxpayer data, among others.  The Mumbai-based firm, which is India's largest integrated power company, is part of the Tata Group conglomerate.   Tata Power had previously&nbsp; disclosed &nbsp;in a filing with the National Stock Exchange (NSE) of India that an intrusion on the company's IT infrastructure impacted "some of its IT systems."  According to&nbsp; further details &nbsp;shared by security researcher Rakesh Krishnan, the leak contains person
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive claims ransomware attack on Tata Power, begins leaking data<a href="https://www.bleepingcomputer.com/news/security/hive-claims-ransomware-attack-on-tata-power-begins-leaking-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware group has claimed responsibility for a cyber attack disclosed by Tata Power this month. In screenshots seen by BleepingComputer, Hive operators are leaking data they claim to have stolen from Tata Power, indicating the ransom negotiations failed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

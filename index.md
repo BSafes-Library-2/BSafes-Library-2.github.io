@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform<a href="https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns admins to patch AnyConnect flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-admins-to-patch-anyconnect-flaw-exploited-in-attacks/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder APT Uses New WarHawk Backdoor Against Pakistan<a href="https://cyware.com/news/sidewinder-apt-uses-new-warhawk-backdoor-against-pakistan-21173670"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts disclosed a 22-year-old bug in popular SQLite Database library<a href="https://securityaffairs.co/wordpress/137629/hacking/cve-2022-35737-sqlite-bug.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 See Tickets discloses 2.5 years-long credit card theft breach<a href="https://www.bleepingcomputer.com/news/security/see-tickets-discloses-25-years-long-credit-card-theft-breach/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Adds Exbyte Exfiltration Tool to Strengthen Extortion Game<a href="https://cyware.com/news/blackbyte-adds-exbyte-exfiltration-tool-to-strengthen-extortion-game-06259257"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 22-Year-Old Vulnerability Reported in Widely Used SQLite Database Library<a href="https://thehackernews.com/2022/10/22-year-old-vulnerability-reported-in.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two PoS Malware used to steal data from more than 167,000 credit cards<a href="https://securityaffairs.co/wordpress/137608/malware/pos-malware-stolen-card-data.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian charged for operating Raccoon Stealer malware service<a href="https://www.bleepingcomputer.com/news/security/ukrainian-charged-for-operating-raccoon-stealer-malware-service/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Launches Attacks with One-Click Attack Technique<a href="https://cyware.com/news/emotet-launches-attacks-with-one-click-attack-technique-7b5863f1"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Hackers Begin Leaking Data Stolen from Tata Power Energy Company<a href="https://thehackernews.com/2022/10/hive-ransomware-hackers-begin-leaking.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware gang starts leaking data allegedly stolen from Tata Power<a href="https://securityaffairs.co/wordpress/137601/malware/hive-ransomware-tata-power.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Vice Society targets schools with multiple ransomware families<a href="https://www.bleepingcomputer.com/news/security/microsoft-vice-society-targets-schools-with-multiple-ransomware-families/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Botnet Drops Malware via Self-Unlocking Password-Protected RAR Files<a href="https://heimdalsecurity.com/blog/emotet-botnet-drops-malware-via-self-unlocking-password-protected-rar-files/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Windows Event Log Vulnerabilities: LogCrusher and OverLog<a href="https://thehackernews.com/2022/10/researchers-detail-windows-event-log.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dormant Colors campaign operates over 1M malicious Chrome extensions<a href="https://securityaffairs.co/wordpress/137587/malware/malicious-chrome-extensions-dormant-colors.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch police arrest hacker who breached healthcare software vendor<a href="https://www.bleepingcomputer.com/news/security/dutch-police-arrest-hacker-who-breached-healthcare-software-vendor/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks Use Two Different POS Malware to Steal 167,000 Credit Card Numbers<a href="https://www.theregister.com/2022/10/24/pos_malware_campaign_steals_33m/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the Software Supply Chain Security is Threatened by Hackers<a href="https://thehackernews.com/2022/10/how-software-supply-chain-security-is.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes critical Cloud Foundation remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-cloud-foundation-remote-code-execution-bug/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Attacks Exploiting Cisco, Gigabyte Vulnerabilities<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-cisco-gigabyte-vulnerabilities?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Used Two PoS Malware to Steal Details of Over 167,000 Credit Cards<a href="https://thehackernews.com/2022/10/cybercriminals-used-two-pos-malware-to.html"> Full Text</a>
@@ -402,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive cryptomining campaign abuses free-tier cloud dev resources<a href="https://www.bleepingcomputer.com/news/security/massive-cryptomining-campaign-abuses-free-tier-cloud-dev-resources/"> Full Text</a>
@@ -418,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hit cybersecurity conference in Australia<a href="https://www.smh.com.au/national/hackers-hit-cybersecurity-conference-20221024-p5bsiq.html?&web_view=true"> Full Text</a>
@@ -434,7 +434,7 @@ Sydney Morning Herald
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Patch for New Actively Exploited iOS and iPadOS Zero-Day Vulnerability<a href="https://thehackernews.com/2022/10/apple-releases-patch-for-new-actively.html"> Full Text</a>
@@ -450,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Samsung Maintenance Mode protects your data during phone repairs<a href="https://www.bleepingcomputer.com/news/security/new-samsung-maintenance-mode-protects-your-data-during-phone-repairs/"> Full Text</a>
@@ -466,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jira Align Vulnerabilities Exposed Atlassian Infrastructure to Attacks<a href="https://www.securityweek.com/jira-align-vulnerabilities-exposed-atlassian-infrastructure-attacks?&web_view=true"> Full Text</a>
@@ -482,7 +482,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How the "pizza123" password could take down an organization <a href="https://www.bleepingcomputer.com/news/security/how-the-pizza123-password-could-take-down-an-organization/"> Full Text</a>
@@ -498,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2022
+October 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive claims ransomware attack on Tata Power, begins leaking data<a href="https://www.bleepingcomputer.com/news/security/hive-claims-ransomware-attack-on-tata-power-begins-leaking-data/"> Full Text</a>

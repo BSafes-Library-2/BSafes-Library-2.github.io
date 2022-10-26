@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Samsung Maintenance Mode protects your data during phone repairs<a href="https://www.bleepingcomputer.com/news/security/new-samsung-maintenance-mode-protects-your-data-during-phone-repairs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a successful pilot program in Korea, Samsung is now rolling out 'Maintenance Mode' to select Galaxy devices globally, to help users protect their sensitive data when they hand over their smartphones at service points.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

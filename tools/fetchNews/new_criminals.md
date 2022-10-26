@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware gang starts leaking data allegedly stolen from Tata Power<a href="https://securityaffairs.co/wordpress/137601/malware/hive-ransomware-tata-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang, which claimed the responsibility for the Tata Power data breach, started leaking data.
+
+
+
+On October 14, Tata Power, India’s largest power generation&nbsp;company, announced that was hit by a cyber attack. Threat actors hit the Information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police arrest hacker who breached healthcare software vendor<a href="https://www.bleepingcomputer.com/news/security/dutch-police-arrest-hacker-who-breached-healthcare-software-vendor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police have arrested a 19-year-old man in western Netherlands, suspected of breaching the systems of a healthcare software vendor in the country, and stealing tens of thousands of documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks Use Two Different POS Malware to Steal 167,000 Credit Card Numbers<a href="https://www.theregister.com/2022/10/24/pos_malware_campaign_steals_33m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MajikPOS and Treasure Hunter malware infect Windows POS terminals and scan the devices to exploit the moments when card data is read and stored in plain text in memory.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Used Two PoS Malware to Steal Details of Over 167,000 Credit Cards<a href="https://thehackernews.com/2022/10/cybercriminals-used-two-pos-malware-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two point-of-sale (PoS) malware variants have been put to use by a threat actor to steal information related to more than 167,000 credit cards from payment terminals.  According to Singapore-headquartered cybersecurity company Group-IB, the stolen data dumps could net the operators as much as $3.34 million by selling them on underground forums.  While a significant proportion of attacks aimed at gathering payment data rely on&nbsp; JavaScript sniffers &nbsp;(aka web skimmers) stealthily inserted on e-commerce websites, PoS malware continues to be an ongoing, if less popular, threat.  Just last month, Kaspersky detailed new tactics adopted by a Brazilian threat actor known as&nbsp; Prilex &nbsp;to steal money by means of fraudulent transactions.   "Almost all PoS malware strains have a similar card dump extraction functionality, but different methods for maintaining persistence on infected devices, data exfiltration and processing," researchers Nikolay Shelekhov and Said Khamchiev&nbsp; said .   Trea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

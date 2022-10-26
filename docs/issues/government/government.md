@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Exploiting Cisco, Gigabyte Vulnerabilities<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-cisco-gigabyte-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cisco product vulnerabilities both impact the AnyConnect Secure Mobility Client for Windows. They can be exploited by a local, authenticated attacker to execute arbitrary code and copy files to arbitrary locations with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
