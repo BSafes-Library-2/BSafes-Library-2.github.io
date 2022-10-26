@@ -34,7 +34,487 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform<a href="https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.  Tracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.  "Due to an unauthenticated endpoint that leverages XStream for input serialization in VMware Cloud Foundation (NSX-V), a malicious actor can get remote code execution in the context of 'root' on the appliance," the company  said  in an advisory.   In light of the severity of the flaw and its relatively low bar for exploitation, the Palo Alto-based virtualization services provider has also made available a  patch  for end-of-life products.  Also addressed by VMware as part of the update is CVE-2022-31678 (CVSS score: 5.3), an XML External Entity ( XXE ) vulnerability that could be exploited to result in a denial-of-service (DoS) condition or unauthorized info
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns admins to patch AnyConnect flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-admins-to-patch-anyconnect-flaw-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warned customers today that two security vulnerabilities in the Cisco AnyConnect Secure Mobility Client for Windows are being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder APT Uses New WarHawk Backdoor Against Pakistan<a href="https://cyware.com/news/sidewinder-apt-uses-new-warhawk-backdoor-against-pakistan-21173670"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state actor SideWinder compromised the official website of the National Electric Power Regulatory Authority (NEPRA) to deliver a tailored malware called WarHawk. Multiple malicious modules in WarHawk deliver Cobalt Strike, including new TTPs such as KernelCallBackTable injection and checking ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclosed a 22-year-old bug in popular SQLite Database library<a href="https://securityaffairs.co/wordpress/137629/hacking/cve-2022-35737-sqlite-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability, tracked as CVE-2022-35737, has been disclosed in the SQLite database library.
+
+
+
+The security expert Andreas Kellas detailed a high-severity vulnerability, tracked as CVE-2022-35737 (CVSS score: 7.5), in the SQLite database...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+See Tickets discloses 2.5 years-long credit card theft breach<a href="https://www.bleepingcomputer.com/news/security/see-tickets-discloses-25-years-long-credit-card-theft-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ticketing service provider 'See Tickets' has disclosed a data breach, informing customers that cybercriminals might have accessed their payment card details via a skimmer on its website.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Adds Exbyte Exfiltration Tool to Strengthen Extortion Game<a href="https://cyware.com/news/blackbyte-adds-exbyte-exfiltration-tool-to-strengthen-extortion-game-06259257"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackByte ransomware operators have started deploying a new exfiltration tool, named Exbyte, to speed up data theft and upload it to an external server. Exbyte is a Go-based exfiltration tool that uploads stolen files directly to the Mega cloud storage service. With new custom tools, distribut ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22-Year-Old Vulnerability Reported in Widely Used SQLite Database Library<a href="https://thehackernews.com/2022/10/22-year-old-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability has been disclosed in the SQLite database library, which was introduced as part of a code change dating all the way back to October 2000 and could enable attackers to crash or control programs.  Tracked as  CVE-2022-35737  (CVSS score: 7.5), the 22-year-old issue affects SQLite versions  1.0.12  through 3.39.1, and has been addressed in  version 3.39.2  released on July 21, 2022.   "CVE-2022-35737 is  exploitable  on 64-bit systems, and exploitability depends on how the program is compiled," Trail of Bits researcher Andreas Kellas  said  in a technical write-up published today.  "Arbitrary code execution is confirmed when the library is compiled without stack canaries, but unconfirmed when stack canaries are present, and denial-of-service is confirmed in all cases."   Programmed in C, SQLite  is the most widely used  database engine , included by default in Android, iOS, Windows, and macOS, as well as popular web browsers such as Googl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two PoS Malware used to steal data from more than 167,000 credit cards<a href="https://securityaffairs.co/wordpress/137608/malware/pos-malware-stolen-card-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that threat actors used 2 PoS malware variants to steal information about more than 167,000 credit cards.
+
+
+
+Cybersecurity firm Group-IB discovered two PoS malware to steal data associated with more than 167,000 credit cards from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian charged for operating Raccoon Stealer malware service<a href="https://www.bleepingcomputer.com/news/security/ukrainian-charged-for-operating-raccoon-stealer-malware-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+26-year-old Ukrainian national Mark Sokolovsky has been charged for his involvement in the Raccoon Stealer malware-as-a-service (MaaS) cybercrime operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Launches Attacks with One-Click Attack Technique<a href="https://cyware.com/news/emotet-launches-attacks-with-one-click-attack-technique-7b5863f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave SpiderLabs noted a spike in malspam campaigns by the Emotet botnet. In this attack wave, attackers are reportedly using invoice-themes phishing lures with password-protected archive files. These files drop CoinMiner and Quasar RAT to take over compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Hackers Begin Leaking Data Stolen from Tata Power Energy Company<a href="https://thehackernews.com/2022/10/hive-ransomware-hackers-begin-leaking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  Hive  ransomware-as-a-service (RaaS) group has claimed responsibility for a cyber attack against Tata Power that was disclosed by the company less than two weeks ago.  The incident is said to have occurred on October 3, 2022. The threat actor has also been observed leaking stolen data exfiltrated prior to encrypting the network as part of its double extortion scheme.  This allegedly comprises signed client contracts, agreement documents, as well as other sensitive information such as emails, addresses, phone numbers, passport numbers, taxpayer data, among others.  The Mumbai-based firm, which is India's largest integrated power company, is part of the Tata Group conglomerate.   Tata Power had previously  disclosed  in a filing with the National Stock Exchange (NSE) of India that an intrusion on the company's IT infrastructure impacted "some of its IT systems."  According to  further details  shared by security researcher Rakesh Krishnan, the leak contains person
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware gang starts leaking data allegedly stolen from Tata Power<a href="https://securityaffairs.co/wordpress/137601/malware/hive-ransomware-tata-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang, which claimed the responsibility for the Tata Power data breach, started leaking data.
+
+
+
+On October 14, Tata Power, India’s largest power generation company, announced that was hit by a cyber attack. Threat actors hit the Information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Vice Society targets schools with multiple ransomware families<a href="https://www.bleepingcomputer.com/news/security/microsoft-vice-society-targets-schools-with-multiple-ransomware-families/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group known as Vice Society has been switching ransomware payloads in attacks targeting the education sector across the United States and worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Botnet Drops Malware via Self-Unlocking Password-Protected RAR Files<a href="https://heimdalsecurity.com/blog/emotet-botnet-drops-malware-via-self-unlocking-password-protected-rar-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an attack chain detected by Trustwave SpiderLabs researchers, an invoice-themed ZIP file lure was found to contain a nested self-extracting (SFX) archive, with the first archive having the purpose to launch the second.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Windows Event Log Vulnerabilities: LogCrusher and OverLog<a href="https://thehackernews.com/2022/10/researchers-detail-windows-event-log.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details about a pair of vulnerabilities in Microsoft Windows, one of which could be exploited to result in a denial-of-service (DoS).  The exploits, dubbed  LogCrusher  and  OverLog  by Varonis, take aim at the EventLog Remoting Protocol ( MS-EVEN ), which enables remote access to event logs.   While the former allows "any domain user to remotely crash the Event Log application of any Windows machine," OverLog causes a DoS by "filling the hard drive space of any Windows machine on the domain," Dolev Taler  said  in a report shared with The Hacker News.  OverLog has been assigned the CVE identifier CVE-2022-37981 (CVSS score: 4.3) and was addressed by Microsoft as part of its  October Patch Tuesday  updates. LogCrusher, however, remains unresolved.   "The performance can be interrupted and/or reduced, but the attacker cannot fully deny service," the tech giant said in an advisory for the flaw released earlier this m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dormant Colors campaign operates over 1M malicious Chrome extensions<a href="https://securityaffairs.co/wordpress/137587/malware/malicious-chrome-extensions-dormant-colors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign, code-named Dormant Colors, is delivering malicious Google Chrome extensions that hijack targets’ browsers.
+
+
+
+Researchers at Guardio Labs have discovered a new malvertising campaign, called Dormant Colors, aimed at delivering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police arrest hacker who breached healthcare software vendor<a href="https://www.bleepingcomputer.com/news/security/dutch-police-arrest-hacker-who-breached-healthcare-software-vendor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police have arrested a 19-year-old man in western Netherlands, suspected of breaching the systems of a healthcare software vendor in the country, and stealing tens of thousands of documents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks Use Two Different POS Malware to Steal 167,000 Credit Card Numbers<a href="https://www.theregister.com/2022/10/24/pos_malware_campaign_steals_33m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The MajikPOS and Treasure Hunter malware infect Windows POS terminals and scan the devices to exploit the moments when card data is read and stored in plain text in memory.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the Software Supply Chain Security is Threatened by Hackers<a href="https://thehackernews.com/2022/10/how-software-supply-chain-security-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduction  In many ways, the software supply chain is similar to that of manufactured goods, which we all know has been largely impacted by a global pandemic and shortages of raw materials.   However, in the IT world, it is not shortages or pandemics that have been the main obstacles to overcome in recent years, but rather attacks aimed at using them to harm hundreds or even thousands of victims simultaneously. If you've heard of a cyber attack between 2020 and today, it's likely that the software supply chain played a role.   When we talk about an attack on the software supply chain, we are actually referring to two successive attacks: one that targets a supplier, and one that targets one or more downstream users in the chain, using the first as a vehicle.  In this article, we will dive into the mechanisms and risks of the software supply chain by looking at a typical vulnerability of the modern development cycle: the presence of personal identifying information, or "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical Cloud Foundation remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-cloud-foundation-remote-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates today to fix a critical vulnerability in VMware Cloud Foundation, a hybrid cloud platform for running enterprise apps in private or public environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Attacks Exploiting Cisco, Gigabyte Vulnerabilities<a href="https://www.securityweek.com/cisa-warns-attacks-exploiting-cisco-gigabyte-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cisco product vulnerabilities both impact the AnyConnect Secure Mobility Client for Windows. They can be exploited by a local, authenticated attacker to execute arbitrary code and copy files to arbitrary locations with elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Used Two PoS Malware to Steal Details of Over 167,000 Credit Cards<a href="https://thehackernews.com/2022/10/cybercriminals-used-two-pos-malware-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two point-of-sale (PoS) malware variants have been put to use by a threat actor to steal information related to more than 167,000 credit cards from payment terminals.  According to Singapore-headquartered cybersecurity company Group-IB, the stolen data dumps could net the operators as much as $3.34 million by selling them on underground forums.  While a significant proportion of attacks aimed at gathering payment data rely on  JavaScript sniffers  (aka web skimmers) stealthily inserted on e-commerce websites, PoS malware continues to be an ongoing, if less popular, threat.  Just last month, Kaspersky detailed new tactics adopted by a Brazilian threat actor known as  Prilex  to steal money by means of fraudulent transactions.   "Almost all PoS malware strains have a similar card dump extraction functionality, but different methods for maintaining persistence on infected devices, data exfiltration and processing," researchers Nikolay Shelekhov and Said Khamchiev  said .   Trea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive cryptomining campaign abuses free-tier cloud dev resources<a href="https://www.bleepingcomputer.com/news/security/massive-cryptomining-campaign-abuses-free-tier-cloud-dev-resources/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An automated and large-scale 'freejacking' campaign abuses free GitHub, Heroku, and Buddy services to mine cryptocurrency at the provider's expense.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit cybersecurity conference in Australia<a href="https://www.smh.com.au/national/hackers-hit-cybersecurity-conference-20221024-p5bsiq.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Institute of Company Directors (AIDC) had some solid names lending support to the launch of the institute’s new set of “cybersecurity governance principles” but the event did not start on time due to the hacking incident.
+</details>
+<div style="text-align: right" markdown="1">
+Sydney Morning Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Patch for New Actively Exploited iOS and iPadOS Zero-Day Vulnerability<a href="https://thehackernews.com/2022/10/apple-releases-patch-for-new-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Apple on Monday rolled out updates to remediate a zero-day flaw in iOS and iPadOS that it said has been actively exploited in the wild.  The weakness, given the identifier CVE-2022-42827 , has been described as an out-of-bounds write issue in the Kernel, which could be abused by a rogue application to execute arbitrary code with the highest privileges.  Successful exploitation of out-of-bounds write  flaws, which typically occur when a program attempts to write data to a memory location that's outside of the bounds of what it is allowed to access, can result in corruption of data, a crash, or execution of unauthorized code.  The iPhone maker said it addressed the bug with improved bounds checking, while crediting an anonymous researcher for reporting the vulnerability.  As is usually the case with actively exploited zero-day flaws, Apple refrained from sharing more specifics about the shortcoming other than acknowledging that it's "aware of a report that this i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Samsung Maintenance Mode protects your data during phone repairs<a href="https://www.bleepingcomputer.com/news/security/new-samsung-maintenance-mode-protects-your-data-during-phone-repairs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After a successful pilot program in Korea, Samsung is now rolling out 'Maintenance Mode' to select Galaxy devices globally, to help users protect their sensitive data when they hand over their smartphones at service points.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jira Align Vulnerabilities Exposed Atlassian Infrastructure to Attacks<a href="https://www.securityweek.com/jira-align-vulnerabilities-exposed-atlassian-infrastructure-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities addressed recently in Jira Align could allow an attacker to elevate privileges, obtain Atlassian cloud credentials, and potentially go after Atlassian infrastructure, researchers with Bishop Fox warn.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How the "pizza123" password could take down an organization <a href="https://www.bleepingcomputer.com/news/security/how-the-pizza123-password-could-take-down-an-organization/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, the bitter taste of pizza123, and the plight of malicious push notifications demand caution when selecting and managing passwords.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive claims ransomware attack on Tata Power, begins leaking data<a href="https://www.bleepingcomputer.com/news/security/hive-claims-ransomware-attack-on-tata-power-begins-leaking-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware group has claimed responsibility for a cyber attack disclosed by Tata Power this month. In screenshots seen by BleepingComputer, Hive operators are leaking data they claim to have stolen from Tata Power, indicating the ransom negotiations failed.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome extensions with 1 million installs hijack targets’ browsers<a href="https://www.bleepingcomputer.com/news/security/chrome-extensions-with-1-million-installs-hijack-targets-browsers/"> Full Text</a>
@@ -50,7 +530,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivists 'Steal' 100,000 Emails from Iran Nuclear Agency<a href="https://www.theregister.com/2022/10/24/black_reward_iran_nuclear_leak/?&web_view=true"> Full Text</a>
@@ -66,7 +546,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Download eBook: Top virtual CISOs share 7 tips for vCISO service providers<a href="https://thehackernews.com/2022/10/download-ebook-top-virtual-cisos-share.html"> Full Text</a>
@@ -82,7 +562,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed the ninth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/137579/security/apple-fixes-ninth-zero-day.html"> Full Text</a>
@@ -102,7 +582,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes new zero-day used in attacks against iPhones, iPads<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-ipads/"> Full Text</a>
@@ -118,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security experts targeted with malicious CVE PoC exploits on GitHub<a href="https://securityaffairs.co/wordpress/137527/hacking/malicious-github-repositories.html?&web_view=true"> Full Text</a>
@@ -134,7 +614,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder APT Using New WarHawk Backdoor to Target Entities in Pakistan<a href="https://thehackernews.com/2022/10/sidewinder-apt-using-new-warhawk.html"> Full Text</a>
@@ -150,7 +630,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba ransomware affiliate targets Ukraine, CERT-UA warns<a href="https://securityaffairs.co/wordpress/137567/cyber-warfare-2/cuba-ransomware-cert-ua.html"> Full Text</a>
@@ -170,7 +650,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran’s atomic energy agency confirms hack after stolen data leaked online<a href="https://www.bleepingcomputer.com/news/security/iran-s-atomic-energy-agency-confirms-hack-after-stolen-data-leaked-online/"> Full Text</a>
@@ -186,7 +666,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Iranian Cyber Firm's Hack-and-Leak Operations<a href="https://www.securityweek.com/fbi-warns-iranian-cyber-firms-hack-and-leak-operations?&web_view=true"> Full Text</a>
@@ -202,7 +682,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Daixin Team Hackers Targeting Health Organizations With Ransomware<a href="https://thehackernews.com/2022/10/cisa-warns-of-daixin-team-hackers.html"> Full Text</a>
@@ -218,7 +698,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway PM warns of Russia cyber threat to oil and gas industry<a href="https://securityaffairs.co/wordpress/137561/cyber-warfare-2/norway-pm-warns-russia-threat.html"> Full Text</a>
@@ -238,7 +718,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba ransomware affiliate targets Ukrainian govt agencies<a href="https://www.bleepingcomputer.com/news/security/cuba-ransomware-affiliate-targets-ukrainian-govt-agencies/"> Full Text</a>
@@ -254,7 +734,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of alleged 2.6m Carousell accounts being sold on Dark Web, hacking forums<a href="https://www.straitstimes.com/singapore/data-of-alleged-26m-carousell-accounts-being-sold-on-dark-web-hacking-forums?&web_view=true"> Full Text</a>
@@ -270,7 +750,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Ransomware in Education on the Rise and What That Means for 2023<a href="https://thehackernews.com/2022/10/why-ransomware-in-education-on-rise-and.html"> Full Text</a>
@@ -286,7 +766,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Clicker apps in Google Play have 20M+ installs<a href="https://securityaffairs.co/wordpress/137549/malware/clicker-apps-google-play.html"> Full Text</a>
@@ -306,7 +786,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pendragon car dealer refuses $60 million LockBit ransomware demand<a href="https://www.bleepingcomputer.com/news/security/pendragon-car-dealer-refuses-60-million-lockbit-ransomware-demand/"> Full Text</a>
@@ -322,7 +802,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2022
+October 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security experts targeted with malicious CVE PoC exploits on GitHub<a href="https://securityaffairs.co/wordpress/137527/hacking/malicious-github-repositories.html"> Full Text</a>
