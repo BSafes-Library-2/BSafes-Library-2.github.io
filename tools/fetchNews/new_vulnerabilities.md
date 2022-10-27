@@ -11,6 +11,130 @@ nav_order: 900220
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL to fix the second critical flaw ever<a href="https://securityaffairs.co/wordpress/137689/security/openssl-second-critical-flaw-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project announced an upcoming update to address a critical vulnerability in the open-source toolkit.
+
+
+
+The OpenSSL Project announced that it is going to release updates to address a critical vulnerability in the open-source toolkit. Experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 14 Vulnerabilities with the Release of Chrome 107<a href="https://www.securityweek.com/google-pays-out-over-50000-vulnerabilities-patched-chrome-107?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of Chrome 107 to the stable channel, with patches for 14 vulnerabilities, including high-severity bugs reported by external researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws in Cisco AnyConnect Secure Mobility client for Windows actively exploited<a href="https://securityaffairs.co/wordpress/137654/security/cisco-anyconnect-secure-mobility-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of active exploitation attempts targeting two vulnerabilities in the Cisco AnyConnect Secure Mobility Client for Windows.
+
+
+
+Cisco is warning of exploitation attempts targeting two security flaws, tracked as CVE-2020-3153&nbsp;(CVSS score: 6.5)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows vulnerable driver blocklist sync issue<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-vulnerable-driver-blocklist-sync-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says it addressed an issue preventing the Windows kernel vulnerable driver blocklist from&nbsp;being synced to systems running older Windows versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL to Patch First Critical Vulnerability Since 2016<a href="https://www.securityweek.com/openssl-patch-first-critical-vulnerability-2016?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL version 3.0.7 is scheduled for Tuesday, November 1, between 13:00 and 17:00 UTC. No details have been provided, but it has been described as a ‘security-fix release’ that will include a patch for a vulnerability rated ‘critical’.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical RCE in VMware Cloud Foundation<a href="https://securityaffairs.co/wordpress/137640/hacking/vmware-cloud-foundation-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical remote code execution vulnerability in VMware Cloud Foundation tracked as CVE-2021-39144.
+
+
+
+VMware has released security updates to address a critical vulnerability, tracked as CVE-2021-39144 (CVSSv3 9.8), in VMware Cloud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Over 100 Vulnerabilities With Release of macOS Ventura 13<a href="https://www.securityweek.com/apple-patches-over-100-vulnerabilities-release-macos-ventura-13?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 112 CVE identifiers are listed in Apple’s security advisory for macOS Ventura 13, including issues that are specific to the operating system and flaws impacting third-party components.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Exploiting Cisco AnyConnect and GIGABYTE Drivers Vulnerabilities<a href="https://thehackernews.com/2022/10/hackers-actively-exploiting-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has warned of active exploitation attempts targeting a pair of two-year-old security flaws in the Cisco AnyConnect Secure Mobility Client for Windows.  Tracked as&nbsp; CVE-2020-3153 &nbsp;(CVSS score: 6.5) and&nbsp; CVE-2020-3433 &nbsp;(CVSS score: 7.8), the vulnerabilities could enable local authenticated attackers to perform DLL hijacking and copy arbitrary files to system directories with elevated privileges.&nbsp;  While CVE-2020-3153 was addressed by Cisco in February 2020, a fix for CVE-2020-3433 was shipped in August 2020.   "In October 2022, the Cisco Product Security Incident Response Team became aware of additional attempted exploitation of this vulnerability in the wild," the networking equipment maker said in an updated advisory.  "Cisco continues to strongly recommend that customers upgrade to a fixed software release to remediate this vulnerability."  The alert comes as the U.S. Cybersecurity and Infrastructure Security Agency (CISA) moved to add the two flaws to its K
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform<a href="https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html"> Full Text</a>
 </p>
 <details>

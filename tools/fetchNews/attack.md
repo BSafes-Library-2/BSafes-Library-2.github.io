@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Launches Attacks with One-Click Attack Technique<a href="https://cyware.com/news/emotet-launches-attacks-with-one-click-attack-technique-7b5863f1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave SpiderLabs noted a spike in malspam campaigns by the Emotet botnet. In this attack wave, attackers are reportedly using invoice-themes phishing lures with password-protected archive files. These files drop CoinMiner and Quasar RAT to take over compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hit cybersecurity conference in Australia<a href="https://www.smh.com.au/national/hackers-hit-cybersecurity-conference-20221024-p5bsiq.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Institute of Company Directors (AIDC) had some solid names lending support to the launch of the institute’s new set of “cybersecurity governance principles” but the event did not start on time due to the hacking incident.
+</details>
+<div style="text-align: right" markdown="1">
+Sydney Morning Herald
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

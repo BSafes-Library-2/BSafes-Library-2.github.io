@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patch for Critical RCE Flaw in Cloud Foundation Platform<a href="https://thehackernews.com/2022/10/vmware-releases-patch-for-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday shipped security updates to address a critical security flaw in its VMware Cloud Foundation product.  Tracked as CVE-2021-39144, the issue has been rated 9.8 out of 10 on the CVSS vulnerability scoring system, and relates to a remote code execution vulnerability via XStream open source library.  "Due to an unauthenticated endpoint that leverages XStream for input serialization in VMware Cloud Foundation (NSX-V), a malicious actor can get remote code execution in the context of 'root' on the appliance," the company&nbsp; said &nbsp;in an advisory.   In light of the severity of the flaw and its relatively low bar for exploitation, the Palo Alto-based virtualization services provider has also made available a&nbsp; patch &nbsp;for end-of-life products.  Also addressed by VMware as part of the update is CVE-2022-31678 (CVSS score: 5.3), an XML External Entity ( XXE ) vulnerability that could be exploited to result in a denial-of-service (DoS) condition or unauthorized info
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns admins to patch AnyConnect flaw exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-admins-to-patch-anyconnect-flaw-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warned customers today that two security vulnerabilities in the&nbsp;Cisco AnyConnect Secure Mobility Client for Windows are being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclosed a 22-year-old bug in popular SQLite Database library<a href="https://securityaffairs.co/wordpress/137629/hacking/cve-2022-35737-sqlite-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability, tracked as CVE-2022-35737, has been disclosed in the SQLite database library.
+
+
+
+The security expert Andreas Kellas detailed a high-severity vulnerability, tracked as CVE-2022-35737 (CVSS score: 7.5), in the SQLite database...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+22-Year-Old Vulnerability Reported in Widely Used SQLite Database Library<a href="https://thehackernews.com/2022/10/22-year-old-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability has been disclosed in the SQLite database library, which was introduced as part of a code change dating all the way back to October 2000 and could enable attackers to crash or control programs.  Tracked as&nbsp; CVE-2022-35737 &nbsp;(CVSS score: 7.5), the 22-year-old issue affects SQLite versions&nbsp; 1.0.12 &nbsp;through 3.39.1, and has been addressed in&nbsp; version 3.39.2 &nbsp;released on July 21, 2022.   "CVE-2022-35737 is&nbsp; exploitable &nbsp;on 64-bit systems, and exploitability depends on how the program is compiled," Trail of Bits researcher Andreas Kellas&nbsp; said &nbsp;in a technical write-up published today.  "Arbitrary code execution is confirmed when the library is compiled without stack canaries, but unconfirmed when stack canaries are present, and denial-of-service is confirmed in all cases."   Programmed in C, SQLite  is the most widely used  database engine , included by default in Android, iOS, Windows, and macOS, as well as popular web browsers such as Googl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Windows Event Log Vulnerabilities: LogCrusher and OverLog<a href="https://thehackernews.com/2022/10/researchers-detail-windows-event-log.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details about a pair of vulnerabilities in Microsoft Windows, one of which could be exploited to result in a denial-of-service (DoS).  The exploits, dubbed&nbsp; LogCrusher &nbsp;and&nbsp; OverLog &nbsp;by Varonis, take aim at the EventLog Remoting Protocol ( MS-EVEN ), which enables remote access to event logs.   While the former allows "any domain user to remotely crash the Event Log application of any Windows machine," OverLog causes a DoS by "filling the hard drive space of any Windows machine on the domain," Dolev Taler&nbsp; said &nbsp;in a report shared with The Hacker News.  OverLog has been assigned the CVE identifier CVE-2022-37981 (CVSS score: 4.3) and was addressed by Microsoft as part of its&nbsp; October Patch Tuesday &nbsp;updates. LogCrusher, however, remains unresolved.   "The performance can be interrupted and/or reduced, but the attacker cannot fully deny service," the tech giant said in an advisory for the flaw released earlier this m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical Cloud Foundation remote code execution bug<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-cloud-foundation-remote-code-execution-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates today to fix a critical vulnerability&nbsp;in VMware Cloud Foundation, a&nbsp;hybrid cloud platform for running enterprise apps in private or public environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Patch for New Actively Exploited iOS and iPadOS Zero-Day Vulnerability<a href="https://thehackernews.com/2022/10/apple-releases-patch-for-new-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Apple on Monday rolled out updates to remediate a zero-day flaw in iOS and iPadOS that it said has been actively exploited in the wild.  The weakness, given the identifier CVE-2022-42827 , has been described as an out-of-bounds write issue in the Kernel, which could be abused by a rogue application to execute arbitrary code with the highest privileges.  Successful exploitation of out-of-bounds write  flaws, which typically occur when a program attempts to write data to a memory location that's outside of the bounds of what it is allowed to access, can result in corruption of data, a crash, or execution of unauthorized code.  The iPhone maker said it addressed the bug with improved bounds checking, while crediting an anonymous researcher for reporting the vulnerability.  As is usually the case with actively exploited zero-day flaws, Apple refrained from sharing more specifics about the shortcoming other than acknowledging that it's "aware of a report that this i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jira Align Vulnerabilities Exposed Atlassian Infrastructure to Attacks<a href="https://www.securityweek.com/jira-align-vulnerabilities-exposed-atlassian-infrastructure-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities addressed recently in Jira Align could allow an attacker to elevate privileges, obtain Atlassian cloud credentials, and potentially go after Atlassian infrastructure, researchers with Bishop Fox warn.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

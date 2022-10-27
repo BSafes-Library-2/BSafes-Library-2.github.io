@@ -34,6 +34,378 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious ‘BestBuy’ hacker arraigned for running dark web market<a href="https://www.bleepingcomputer.com/news/security/notorious-bestbuy-hacker-arraigned-for-running-dark-web-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notorious British hacker was arraigned on Wednesday by the U.S. Department of Justice for allegedly running the now defunct 'The Real Deal" dark web marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyderbat Raises $10M in Series A Funding<a href="https://www.finsmes.com/2022/10/spyderbat-raises-10m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Austin, TX-based cloud-native runtime security company, raised $10M in Series A funding. The round was led by NTTVC with participation from LiveOak Venture Partners, Benhamou Global Ventures, and John McHale.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges Ukrainian Hacker Over Role in Raccoon Stealer Malware Service<a href="https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 26-year-old Ukrainian national has been charged in the U.S. for his alleged role in the  Raccoon Stealer  malware-as-a-service (MaaS) operation.  Mark Sokolovsky, who was arrested by Dutch law enforcement after leaving Ukraine on March 4, 2022, in what's said to be a Porsche Cayenne, is currently being held in the Netherlands and awaits extradition to the U.S.  "Individuals who deployed Raccoon Infostealer to steal data from victims leased access to the malware for approximately $200 per month, paid for by cryptocurrency," the U.S. Department of Justice (DoJ)  said . "These individuals used various ruses, such as email phishing, to install the malware onto the computers of unsuspecting victims."   Sokolovsky is said to have gone by various online monikers like Photix, raccoonstealer, and black21jack77777 on online cybercrime forums to advertise the service for sale.  Raccoon Stealer, mainly distributed under the guise of cracked software, is known to be one o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL to fix the second critical flaw ever<a href="https://securityaffairs.co/wordpress/137689/security/openssl-second-critical-flaw-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project announced an upcoming update to address a critical vulnerability in the open-source toolkit.
+
+
+
+The OpenSSL Project announced that it is going to release updates to address a critical vulnerability in the open-source toolkit. Experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn's new security features combat fake profiles, threat actors<a href="https://www.bleepingcomputer.com/news/security/linkedins-new-security-features-combat-fake-profiles-threat-actors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has introduced three new features to fight fake profiles and malicious use of the platform, including a new method to confirm whether a profile is authentic by showing whether it has a verified work email or phone number.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valence Security raises fresh capital to secure the SaaS app supply chain<a href="https://techcrunch.com/2022/10/26/valence-security-raises-fresh-capital-to-secure-the-saas-app-supply-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $25 million Series A round was led by M12, Microsoft’s corporate venture arm, with participation from YL Ventures, Porsche Ventures, Akamai Technologies, Alumni Ventures, and former Symantec CEO Michael Fey.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This 9-Course Bundle Can Take Your Cybersecurity Skills to the Next Level<a href="https://thehackernews.com/2022/10/this-9-course-bundle-can-take-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you regularly read The Hacker News, there's a fair chance that you know something about  cybersecurity . It's possible to turn that interest into a six-figure career. But to make the leap, you need to pick up some key skills and professional certifications.  Featuring nine in-depth courses,  The 2022 Masters in Cyber Security Certification Bundle  helps you get ready for the next step. And in a special reader offer, you can get lifetime access for only $39.99.  Special Offer —  This bundle contains nine courses with a total value of $1,800. But for a limited time, you can  get lifetime on-demand access for only $39.99 . That is a massive 97% off MSRP!  From penetration testing to  threat analysis , there are thousands of vacant roles in the cybersecurity industry right now. What's more, this trend is set to continue, with experts predicting a  12% growth  within the industry in the remainder of this decade.   The really exciting part is that anyone can land a highly paid job within
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+See Tickets discloses data breach, customers’ credit card data exposed<a href="https://securityaffairs.co/wordpress/137673/data-breach/see-tickets-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International ticketing services company See Tickets disclosed a data breach that exposed customers' payment card details.
+
+
+
+Ticketing service company See Tickets disclosed a data breach, and threat actors might have accessed customers' payment card...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outpost24: How Pentesting-as-a-Service finds vulnerabilities before they're exploited<a href="https://www.bleepingcomputer.com/news/security/outpost24-how-pentesting-as-a-service-finds-vulnerabilities-before-theyre-exploited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations need to continuously monitor their entire surface infrastructure to adequately reduce application risk. This is where Outpost24's Pentesting-as-a-Service (PTaaS) software comes in.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches 14 Vulnerabilities with the Release of Chrome 107<a href="https://www.securityweek.com/google-pays-out-over-50000-vulnerabilities-patched-chrome-107?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of Chrome 107 to the stable channel, with patches for 14 vulnerabilities, including high-severity bugs reported by external researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Hackers Spotted Using 3 New Android Malware to Target South Koreans<a href="https://thehackernews.com/2022/10/kimsuky-hackers-spotted-using-3-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean espionage-focused actor known as Kimsuky has been observed using three different Android malware strains to target users located in its southern counterpart.  That's according to findings from South Korean cybersecurity company S2W, which named the malware families FastFire, FastViewer, and FastSpy.  "The FastFire malware is disguised as a Google security plugin, and the FastViewer malware disguises itself as 'Hancom Office Viewer,' [while] FastSpy is a remote access tool based on  AndroSpy ," researchers Lee Sebin and Shin Yeongjae  said .  Kimsuky, also known by the names Black Banshee, Thallium, and Velvet Chollima, is believed to be tasked by the North Korean regime with a global intelligence-gathering mission, disproportionately targeting individuals and organizations in South Korea, Japan, and the U.S.   This past August, Kaspersky unearthed a previously undocumented infection chain dubbed  GoldDragon  to deploy a Windows backdoor capable o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges Ukrainian man with Raccoon Infostealer operation<a href="https://securityaffairs.co/wordpress/137661/cyber-crime/raccoon-infostealer-man-charged.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities charged a Ukrainian man with computer fraud for allegedly infecting millions of computers with Raccoon Infostealer.
+
+
+
+The US Justice Department charged a Ukrainian, Mark Sokolovsky (26) man with computer fraud for allegedly infecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank now says hackers accessed all its customers’ personal data<a href="https://www.bleepingcomputer.com/news/security/medibank-now-says-hackers-accessed-all-its-customers-personal-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Australian insurance firm Medibank has confirmed that hackers accessed all of its customers' personal data and a large amount of health claims data during a recent ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Seeks Feedback on Baseline Measures to Secure Cloud Configuration<a href="https://www.nextgov.com/cybersecurity/2022/10/cisa-seeks-feedback-baseline-measures-secure-cloud-configuration/378903/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA is inviting public comment—particularly from agencies—on what it’s proposing as the bare minimum set of actions organizations should take to control access to their assets in cloud environments, and how to implement them.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown Actors are Deploying RomCom RAT to Target Ukrainian Military<a href="https://thehackernews.com/2022/10/romcom-hackers-circulating-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind a remote access trojan called RomCom RAT has been observed targeting Ukrainian military institutions as part of a new spear-phishing campaign that commenced on October 21, 2022.   The development marks a shift in the attacker's modus operandi, which has been previously attributed to spoofing legitimate apps like Advanced IP Scanner and pdfFiller to drop backdoors on compromised systems.  "The initial 'Advanced IP Scanner' campaign occurred on July 23, 2022," the BlackBerry research and intelligence team  said . "Once the victim installs a Trojanized bundle, it drops RomCom RAT to the system."   While previous iterations of the campaign involved the use of trojanized Advanced IP Scanner, the unidentified adversarial collective has since switched to pdfFiller as of October 20, indicating an active attempt on part of the adversary to refine tactics and thwart detection.  These lookalike websites host a rogue installer package that r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws in Cisco AnyConnect Secure Mobility client for Windows actively exploited<a href="https://securityaffairs.co/wordpress/137654/security/cisco-anyconnect-secure-mobility-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of active exploitation attempts targeting two vulnerabilities in the Cisco AnyConnect Secure Mobility Client for Windows.
+
+
+
+Cisco is warning of exploitation attempts targeting two security flaws, tracked as CVE-2020-3153 (CVSS score: 6.5)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows vulnerable driver blocklist sync issue<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-vulnerable-driver-blocklist-sync-issue/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says it addressed an issue preventing the Windows kernel vulnerable driver blocklist from being synced to systems running older Windows versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL to Patch First Critical Vulnerability Since 2016<a href="https://www.securityweek.com/openssl-patch-first-critical-vulnerability-2016?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenSSL version 3.0.7 is scheduled for Tuesday, November 1, between 13:00 and 17:00 UTC. No details have been provided, but it has been described as a ‘security-fix release’ that will include a patch for a vulnerability rated ‘critical’.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Hackers Are Behind Several Ransomware Attacks Against Education Sector<a href="https://thehackernews.com/2022/10/vice-society-hackers-are-behind-several.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime group known as  Vice Society  has been linked to multiple ransomware strains in its malicious campaigns aimed at the education, government, and retail sectors.  The Microsoft Security Threat Intelligence team, which is tracking the threat cluster under the moniker DEV-0832, said the group avoids deploying ransomware in some cases and rather likely carries out extortion using exfiltrated stolen data.  "Shifting ransomware payloads over time from  BlackCat ,  Quantum Locker , and  Zeppelin , DEV-0832's latest payload is a Zeppelin variant that includes Vice Society-specific file extensions, such as .v-s0ciety, .v-society, and, most recently, .locked," the tech giant's cybersecurity division  said .   Vice Society, active since June 2021, has been steadily observed encrypting and exfiltrating victim data, and threatening companies with exposure of siphoned information to pressure them into paying a ransom.  "Unlike other RaaS (Ransomware-as-a-Service)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical RCE in VMware Cloud Foundation<a href="https://securityaffairs.co/wordpress/137640/hacking/vmware-cloud-foundation-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a critical remote code execution vulnerability in VMware Cloud Foundation tracked as CVE-2021-39144.
+
+
+
+VMware has released security updates to address a critical vulnerability, tracked as CVE-2021-39144 (CVSSv3 9.8), in VMware Cloud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches Over 100 Vulnerabilities With Release of macOS Ventura 13<a href="https://www.securityweek.com/apple-patches-over-100-vulnerabilities-release-macos-ventura-13?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 112 CVE identifiers are listed in Apple’s security advisory for macOS Ventura 13, including issues that are specific to the operating system and flaws impacting third-party components.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Exploiting Cisco AnyConnect and GIGABYTE Drivers Vulnerabilities<a href="https://thehackernews.com/2022/10/hackers-actively-exploiting-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has warned of active exploitation attempts targeting a pair of two-year-old security flaws in the Cisco AnyConnect Secure Mobility Client for Windows.  Tracked as  CVE-2020-3153  (CVSS score: 6.5) and  CVE-2020-3433  (CVSS score: 7.8), the vulnerabilities could enable local authenticated attackers to perform DLL hijacking and copy arbitrary files to system directories with elevated privileges.   While CVE-2020-3153 was addressed by Cisco in February 2020, a fix for CVE-2020-3433 was shipped in August 2020.   "In October 2022, the Cisco Product Security Incident Response Team became aware of additional attempted exploitation of this vulnerability in the wild," the networking equipment maker said in an updated advisory.  "Cisco continues to strongly recommend that customers upgrade to a fixed software release to remediate this vulnerability."  The alert comes as the U.S. Cybersecurity and Infrastructure Security Agency (CISA) moved to add the two flaws to its K
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

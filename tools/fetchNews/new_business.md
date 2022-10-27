@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyderbat Raises $10M in Series A Funding<a href="https://www.finsmes.com/2022/10/spyderbat-raises-10m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Austin, TX-based cloud-native runtime security company, raised $10M in Series A funding. The round was led by NTTVC with participation from LiveOak Venture Partners, Benhamou Global Ventures, and John McHale.
+</details>
+<div style="text-align: right" markdown="1">
+FinSMEs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Valence Security raises fresh capital to secure the SaaS app supply chain<a href="https://techcrunch.com/2022/10/26/valence-security-raises-fresh-capital-to-secure-the-saas-app-supply-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $25 million Series A round was led by M12, Microsoft’s corporate venture arm, with participation from YL Ventures, Porsche Ventures, Akamai Technologies, Alumni Ventures, and former Symantec CEO Michael Fey.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

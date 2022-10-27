@@ -43,6 +43,18 @@ The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Secu
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCUBA DIVES DEEPER TO HELP FEDERAL AGENCIES SECURE THEIR CLOUD ENVIRONMENTS PUBLISHES SECURITY CONFIGURATION BASELINES FOR MICROSOFT 365 <a href="https://www.cisa.gov/blog/2022/10/20/scuba-dives-deeper-help-federal-agencies-secure-their-cloud-environments-publishes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In April, CISA announced the Secure Cloud Business Applications (SCuBA) project to help secure federal civilian executive branch (FCEB) information assets stored within cloud environments through consistent, effective, modern, and manageable security configurations. Today, we are excited to announce the latest contribution of the SCuBA project:  a series of recommended security configuration baselines for Microsoft 365 (M365).  These baselines will kick off a series of pilot efforts to advance cloud security practices across the FCEB and more effectively safeguard sensitive information and government services.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 20, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

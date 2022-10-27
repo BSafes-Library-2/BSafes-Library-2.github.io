@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Charges Ukrainian Hacker Over Role in Raccoon Stealer Malware Service<a href="https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 26-year-old Ukrainian national has been charged in the U.S. for his alleged role in the&nbsp; Raccoon Stealer &nbsp;malware-as-a-service (MaaS) operation.  Mark Sokolovsky, who was arrested by Dutch law enforcement after leaving Ukraine on March 4, 2022, in what's said to be a Porsche Cayenne, is currently being held in the Netherlands and awaits extradition to the U.S.  "Individuals who deployed Raccoon Infostealer to steal data from victims leased access to the malware for approximately $200 per month, paid for by cryptocurrency," the U.S. Department of Justice (DoJ)&nbsp; said . "These individuals used various ruses, such as email phishing, to install the malware onto the computers of unsuspecting victims."   Sokolovsky is said to have gone by various online monikers like Photix, raccoonstealer, and black21jack77777 on online cybercrime forums to advertise the service for sale.  Raccoon Stealer, mainly distributed under the guise of cracked software, is known to be one o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges Ukrainian man with Raccoon Infostealer operation<a href="https://securityaffairs.co/wordpress/137661/cyber-crime/raccoon-infostealer-man-charged.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US authorities charged a Ukrainian man with computer fraud for allegedly infecting millions of computers with Raccoon Infostealer.
+
+
+
+The US Justice Department charged a Ukrainian, Mark Sokolovsky (26) man with computer fraud for allegedly infecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

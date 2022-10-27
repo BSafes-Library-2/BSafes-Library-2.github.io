@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious ‘BestBuy’ hacker arraigned for running dark web market<a href="https://www.bleepingcomputer.com/news/security/notorious-bestbuy-hacker-arraigned-for-running-dark-web-market/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notorious British hacker was arraigned on Wednesday by the U.S. Department of Justice for allegedly running the now defunct 'The Real Deal" dark web marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Hackers Spotted Using 3 New Android Malware to Target South Koreans<a href="https://thehackernews.com/2022/10/kimsuky-hackers-spotted-using-3-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean espionage-focused actor known as Kimsuky has been observed using three different Android malware strains to target users located in its southern counterpart.  That's according to findings from South Korean cybersecurity company S2W, which named the malware families FastFire, FastViewer, and FastSpy.  "The FastFire malware is disguised as a Google security plugin, and the FastViewer malware disguises itself as 'Hancom Office Viewer,' [while] FastSpy is a remote access tool based on&nbsp; AndroSpy ," researchers Lee Sebin and Shin Yeongjae&nbsp; said .  Kimsuky, also known by the names Black Banshee, Thallium, and Velvet Chollima, is believed to be tasked by the North Korean regime with a global intelligence-gathering mission, disproportionately targeting individuals and organizations in South Korea, Japan, and the U.S.   This past August, Kaspersky unearthed a previously undocumented infection chain dubbed&nbsp; GoldDragon &nbsp;to deploy a Windows backdoor capable o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unknown Actors are Deploying RomCom RAT to Target Ukrainian Military<a href="https://thehackernews.com/2022/10/romcom-hackers-circulating-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind a remote access trojan called RomCom RAT has been observed targeting Ukrainian military institutions as part of a new spear-phishing campaign that commenced on October 21, 2022.&nbsp;  The development marks a shift in the attacker's modus operandi, which has been previously attributed to spoofing legitimate apps like Advanced IP Scanner and pdfFiller to drop backdoors on compromised systems.  "The initial 'Advanced IP Scanner' campaign occurred on July 23, 2022," the BlackBerry research and intelligence team&nbsp; said . "Once the victim installs a Trojanized bundle, it drops RomCom RAT to the system."   While previous iterations of the campaign involved the use of trojanized Advanced IP Scanner, the unidentified adversarial collective has since switched to pdfFiller as of October 20, indicating an active attempt on part of the adversary to refine tactics and thwart detection.  These lookalike websites host a rogue installer package that r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Hackers Are Behind Several Ransomware Attacks Against Education Sector<a href="https://thehackernews.com/2022/10/vice-society-hackers-are-behind-several.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime group known as&nbsp; Vice Society &nbsp;has been linked to multiple ransomware strains in its malicious campaigns aimed at the education, government, and retail sectors.  The Microsoft Security Threat Intelligence team, which is tracking the threat cluster under the moniker DEV-0832, said the group avoids deploying ransomware in some cases and rather likely carries out extortion using exfiltrated stolen data.  "Shifting ransomware payloads over time from&nbsp; BlackCat ,&nbsp; Quantum Locker , and&nbsp; Zeppelin , DEV-0832's latest payload is a Zeppelin variant that includes Vice Society-specific file extensions, such as .v-s0ciety, .v-society, and, most recently, .locked," the tech giant's cybersecurity division&nbsp; said .   Vice Society, active since June 2021, has been steadily observed encrypting and exfiltrating victim data, and threatening companies with exposure of siphoned information to pressure them into paying a ransom.  "Unlike other RaaS (Ransomware-as-a-Service)
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

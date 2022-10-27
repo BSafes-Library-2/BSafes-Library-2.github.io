@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This 9-Course Bundle Can Take Your Cybersecurity Skills to the Next Level<a href="https://thehackernews.com/2022/10/this-9-course-bundle-can-take-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you regularly read The Hacker News, there's a fair chance that you know something about&nbsp; cybersecurity . It's possible to turn that interest into a six-figure career. But to make the leap, you need to pick up some key skills and professional certifications.  Featuring nine in-depth courses,&nbsp; The 2022 Masters in Cyber Security Certification Bundle &nbsp;helps you get ready for the next step. And in a special reader offer, you can get lifetime access for only $39.99.  Special Offer — &nbsp;This bundle contains nine courses with a total value of $1,800. But for a limited time, you can&nbsp; get lifetime on-demand access for only $39.99 . That is a massive 97% off MSRP!  From penetration testing to&nbsp; threat analysis , there are thousands of vacant roles in the cybersecurity industry right now. What's more, this trend is set to continue, with experts predicting a&nbsp; 12% growth &nbsp;within the industry in the remainder of this decade.   The really exciting part is that anyone can land a highly paid job within
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outpost24: How Pentesting-as-a-Service finds vulnerabilities before they're exploited<a href="https://www.bleepingcomputer.com/news/security/outpost24-how-pentesting-as-a-service-finds-vulnerabilities-before-theyre-exploited/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations need to continuously monitor their entire surface infrastructure to adequately reduce application risk. This is where Outpost24's Pentesting-as-a-Service (PTaaS) software comes in.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

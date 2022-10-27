@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn's new security features combat fake profiles, threat actors<a href="https://www.bleepingcomputer.com/news/security/linkedins-new-security-features-combat-fake-profiles-threat-actors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LinkedIn has introduced three new features to fight fake profiles and malicious use of the platform, including a new method to confirm whether a profile is authentic by showing whether it has a verified work email or phone number.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
