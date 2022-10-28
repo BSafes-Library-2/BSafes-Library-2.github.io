@@ -34,7 +34,383 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes recently disclosed zero-day on older iPhones, iPads<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released new security updates to backport patches released earlier this week to older iPhones and iPads, addressing an actively exploited zero-day bug.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Clinical Labs Suffers Major Hack Affecting 223,000 Accounts<a href="https://finance.yahoo.com/news/1-australian-clinical-labs-says-220121433.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medlab became aware of unauthorized third-party access to its IT system in February and a month later, was informed by the Australian Cyber Security Centre (ACSC) that it may have been the victim of a ransomware incident.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Hacker Charged for Operating "The Real Deal" Dark Web Marketplace<a href="https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 34-year-old U.K. national has been arraigned in the U.S. for operating a dark web marketplace called  The Real Deal  that specialized in the sales of hacking tools and stolen login credentials.  Daniel Kaye , who went by a litany of pseudonyms Popopret, Bestbuy, UserL0ser, and Spdrman, has been charged with five counts of access device fraud and one count of money laundering conspiracy.  Kaye was indicted in April 2021, and subsequently consented to his extradition from Cyprus to the U.S. in September 2022.   "While living overseas, this defendant allegedly operated an illegal website that made hacking tools and login credentials available for purchase, including those for U.S. government agencies,"  said  U.S. Attorney Ryan K. Buchanan.  Court documents show that  The Real Deal , until its shutdown in 2016, functioned as a market for illicit items, including stolen account logins for U.S. government computers, bank accounts, and social media platforms such as Twitter and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin operators are selling initial access to compromised enterprise networks to ransomware gangs<a href="https://securityaffairs.co/wordpress/137722/malware/raspberry-robin-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DEV-0950 group used Clop ransomware to encrypt the network of organizations previously infected with the Raspberry Robin worm.
+
+
+
+Microsoft has discovered recent activity that links the Raspberry Robin worm to human-operated ransomware attacks. 
+
+
+
+Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Raspberry Robin worm to Clop ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-worm-to-clop-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says a threat group tracked as DEV-0950 used Clop ransomware to encrypt the network of a victim previously infected with the Raspberry Robin worm.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Mark of the Web Zero-Days Remain Patchless, Under Exploit<a href="https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two separate vulnerabilities exist in different versions of Windows that allow attackers to sneak malicious attachments and files past Microsoft's Mark of the Web (MoTW) security feature.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Over 80 ShadowPad Malware C2 Servers<a href="https://thehackernews.com/2022/10/researchers-expose-over-80-shadowpad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 85 command-and-control (C2) servers have been  discovered  supported by the ShadowPad malware since September 2021, with infrastructure detected as recently as October 16, 2022.  That's according to VMware's Threat Analysis Unit (TAU), which  studied  three ShadowPad variants using TCP, UDP, and HTTP(S) protocols for C2 communications.  ShadowPad , seen as a successor to  PlugX , is a modular malware platform privately shared among multiple Chinese state-sponsored actors since 2015.   Taiwanese cybersecurity firm TeamT5, earlier this May, disclosed details of another China-nexus modular implant named  Pangolin8RAT , which is believed to be the successor of the PlugX and ShadowPad malware families, linking it to a threat group dubbed Tianwu.   An analysis of the three ShadowPad artifacts, which have been previously put to use by  Winnti ,  Tonto Team , and an emerging threat cluster codenamed  Space Pirates , made it possible to discover the C2 servers by scanning th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thomson Reuters collected and leaked at least 3TB of sensitive data<a href="https://securityaffairs.co/wordpress/137718/data-breach/thomson-reuters-database-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multinational media conglomerate Thomson Reuters left a database with sensitive customer and corporate data exposed online
+
+
+
+Original post at https://cybernews.com/security/thomson-reuters-leaked-terabytes-sensitive-data/
+
+
+
+Thomson Reuters, a multinational...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Clinical Labs says patient data stolen in ransomware attack<a href="https://www.bleepingcomputer.com/news/security/australian-clinical-labs-says-patient-data-stolen-in-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian Clinical Labs (ACL) has disclosed a February 2022 data breach that impacted its Medlab Pathology business, exposing the medical records and other sensitive information of 223,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LinkedIn Phishing Spoof Bypasses Google Workspace Security<a href="https://www.darkreading.com/risk/linkedin-phishing-spoof-bypasses-google-workspace-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing email purportedly from LinkedIn with the subject line "We noticed some unusual activity" was discovered targeting users at a travel organization, in an attempt to pilfer their credentials on the social media platform.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware: Open Source to the Rescue<a href="https://thehackernews.com/2022/10/ransomware-open-source-to-rescue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automobile, Energy, Media, Ransomware? When thinking about verticals, one may not instantly think of cyber-criminality. Yet, every move made by governments, clients, and private contractors screams toward normalizing those  menaces  as a new vertical.  Ransomware has every trait of the classical economical vertical. A thriving ecosystem of insurers, negotiators, software providers, and managed service experts.  This cybercrime branch looks at a loot stash that counts for trillions of dollars. The cybersecurity industry is too happy to provide services, software, and insurance to accommodate this new normal.   Intense insurer lobbying in France led the finance ministry to give a positive opinion about reimbursing ransoms, against the very advice of its government's cybersecurity branch. The market is so big and juicy that no one can get in the way of "the development of the cyber insurance market."  In the US, Colonial pipeline is seeking tax reductions from the loss incu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SiriSpy flaw allows eavesdropping on users’ conversations with Siri<a href="https://securityaffairs.co/wordpress/137710/security/sirispy-apple-flaw-spy-conversations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SiriSpy is a vulnerability affecting Apple iOS and macOS that allowed apps to eavesdrop on users' conversations with Siri.
+
+
+
+SiriSpy is a now-patched vulnerability, tracked as CVE-2022-32946, in Apple's iOS and macOS that could have potentially allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drinik Android malware now targets users of 18 Indian banks<a href="https://www.bleepingcomputer.com/news/security/drinik-android-malware-now-targets-users-of-18-indian-banks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Drinik Android banking trojan targets 18 Indian banks, masquerading as the country's official tax management app to steal victims' personal information and banking credentials.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Pro-China Disinfo Campaign Is Targeting US Elections—Badly<a href="https://www.wired.com/story/us-midterm-election-disinformation-dragonbridge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, Mandiant published new findings about a group it calls Dragonbridge, which it's seen for years promoting pro-Chinese interests in fake grassroots social media campaigns designed to influence politics in Taiwan and Hong Kong.
+</details>
+<div style="text-align: right" markdown="1">
+Wired
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS and macOS Flaw Could've Let Apps Eavesdrop on Your Conversations with Siri<a href="https://thehackernews.com/2022/10/apple-ios-and-macos-flaw-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw in Apple's iOS and macOS operating systems could have potentially enabled apps with Bluetooth access to eavesdrop on conversations with Siri.  Apple said "an app may be able to record audio using a pair of connected AirPods," adding it addressed the Core Bluetooth issue in iOS 16.1 with improved entitlements.  Credited with discovering and reporting the bug in August 2022 is app developer Guilherme Rambo. The bug, dubbed  SiriSpy , has been assigned the identifier CVE-2022-32946.  "Any app with access to Bluetooth could record your conversations with Siri and audio from the iOS keyboard dictation feature when using AirPods or Beats headsets," Rambo  said  in a write-up.   "This would happen without the app requesting microphone access permission and without the app leaving any trace that it was listening to the microphone."  The vulnerability, according to Rambo, relates to a service called DoAP that's included in AirPo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British hacker arraigned for running The Real Deal dark web marketplace<a href="https://securityaffairs.co/wordpress/137696/cyber-crime/british-hacker-the-real-deal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular British hacker was charged by the U.S. authorities for allegedly running the 'The Real Deal' dark web marketplace.
+
+
+
+The British hacker Daniel Kaye (aka Bestbuy, Spdrman, Popopret, UserL0ser) (34) was charged by the U.S. DoJ for allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses another hack from June, blames voice phishing<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-another-hack-from-june-blames-voice-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications company Twilio disclosed a new data breach stemming from a June 2022 security incident where the same attackers behind the August hack accessed some customers' information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German cyber agency warns threat situation is ‘higher than ever’<a href="https://therecord.media/german-cyber-agency-warns-threat-situation-is-higher-than-ever/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany’s federal cybersecurity office BSI warned on Tuesday that ransomware, political hacking, and other cybersecurity threats facing the country are “higher than ever.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Health Insurer Medibank Suffers Breach Exposing 3.9 Million Customers' Data<a href="https://thehackernews.com/2022/10/australian-health-insurer-medibank.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian health insurance firm Medibank on Wednesday disclosed that the personal information of all of its customers had been unauthorizedly accessed following a recent ransomware attack.  In an update to its ongoing investigation into the incident, the firm  said  the attackers had access to "significant amounts of health claims data" as well as personal data belonging to its  ahm health insurance subsidiary  and international students.  Medibank, which is one of the largest Australian private health insurance providers,  serves about 3.9 million customers  across the country.  "We have evidence that the criminal has removed some of this data and it is now likely that the criminal has stolen further personal and health claims data," the company further added. "As a result, we expect that the number of affected customers could grow substantially."   The company also said it's continuing its probe to determine what specific data has been stolen in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Post hacked with offensive headlines targeting politicians<a href="https://www.bleepingcomputer.com/news/security/new-york-post-hacked-with-offensive-headlines-targeting-politicians/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Post confirmed today that it was hacked after its website and Twitter account were used by the attackers to publish offensive headlines and tweets targeting U.S. politicians.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptojacking Campaign Targeting Vulnerable Docker and Kubernetes Instances<a href="https://thehackernews.com/2022/10/new-cryptojacking-campaign-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cryptojacking campaign has been uncovered targeting vulnerable Docker and Kubernetes infrastructures as part of opportunistic attacks designed to illicitly mine cryptocurrency.  Cybersecurity company CrowdStrike dubbed the activity  Kiss-a-dog , with its command-and-control infrastructure overlapping with those associated with other groups like  TeamTNT , which are known to  strike   misconfigured  Docker and Kubernetes instances.  The intrusions, spotted in September 2022, get their name from a domain named "kiss.a-dog[.]top" that's used to trigger a shell script payload on the compromised container using a Base64-encoded Python command.   "The URL used in the payload is obscured with backslashes to defeat automated decoding and regex matching to retrieve the malicious domain," CrowdStrike researcher Manoj Ahuje  said  in a technical analysis.  The attack chain subsequently attempts to escape the container and move laterally into the breached network, wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fodcha DDoS botnet reaches 1Tbps in power, injects ransoms in packets<a href="https://www.bleepingcomputer.com/news/security/fodcha-ddos-botnet-reaches-1tbps-in-power-injects-ransoms-in-packets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Fodcha DDoS botnet has emerged, featuring ransom demands embedded in packets and new features to evade detection of its infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notorious ‘BestBuy’ hacker arraigned for running dark web market<a href="https://www.bleepingcomputer.com/news/security/notorious-bestbuy-hacker-arraigned-for-running-dark-web-market/"> Full Text</a>
@@ -50,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyderbat Raises $10M in Series A Funding<a href="https://www.finsmes.com/2022/10/spyderbat-raises-10m-in-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -66,7 +442,7 @@ FinSMEs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Charges Ukrainian Hacker Over Role in Raccoon Stealer Malware Service<a href="https://thehackernews.com/2022/10/us-charges-ukrainian-hacker-over-role.html"> Full Text</a>
@@ -82,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL to fix the second critical flaw ever<a href="https://securityaffairs.co/wordpress/137689/security/openssl-second-critical-flaw-ever.html"> Full Text</a>
@@ -102,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn's new security features combat fake profiles, threat actors<a href="https://www.bleepingcomputer.com/news/security/linkedins-new-security-features-combat-fake-profiles-threat-actors/"> Full Text</a>
@@ -118,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Valence Security raises fresh capital to secure the SaaS app supply chain<a href="https://techcrunch.com/2022/10/26/valence-security-raises-fresh-capital-to-secure-the-saas-app-supply-chain/?&web_view=true"> Full Text</a>
@@ -134,7 +510,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This 9-Course Bundle Can Take Your Cybersecurity Skills to the Next Level<a href="https://thehackernews.com/2022/10/this-9-course-bundle-can-take-your.html"> Full Text</a>
@@ -150,7 +526,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 See Tickets discloses data breach, customers’ credit card data exposed<a href="https://securityaffairs.co/wordpress/137673/data-breach/see-tickets-data-breach.html"> Full Text</a>
@@ -170,7 +546,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Outpost24: How Pentesting-as-a-Service finds vulnerabilities before they're exploited<a href="https://www.bleepingcomputer.com/news/security/outpost24-how-pentesting-as-a-service-finds-vulnerabilities-before-theyre-exploited/"> Full Text</a>
@@ -186,7 +562,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches 14 Vulnerabilities with the Release of Chrome 107<a href="https://www.securityweek.com/google-pays-out-over-50000-vulnerabilities-patched-chrome-107?&web_view=true"> Full Text</a>
@@ -202,7 +578,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Hackers Spotted Using 3 New Android Malware to Target South Koreans<a href="https://thehackernews.com/2022/10/kimsuky-hackers-spotted-using-3-new.html"> Full Text</a>
@@ -218,7 +594,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US charges Ukrainian man with Raccoon Infostealer operation<a href="https://securityaffairs.co/wordpress/137661/cyber-crime/raccoon-infostealer-man-charged.html"> Full Text</a>
@@ -238,7 +614,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medibank now says hackers accessed all its customers’ personal data<a href="https://www.bleepingcomputer.com/news/security/medibank-now-says-hackers-accessed-all-its-customers-personal-data/"> Full Text</a>
@@ -254,7 +630,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Seeks Feedback on Baseline Measures to Secure Cloud Configuration<a href="https://www.nextgov.com/cybersecurity/2022/10/cisa-seeks-feedback-baseline-measures-secure-cloud-configuration/378903/?&web_view=true"> Full Text</a>
@@ -270,7 +646,7 @@ Nextgov
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unknown Actors are Deploying RomCom RAT to Target Ukrainian Military<a href="https://thehackernews.com/2022/10/romcom-hackers-circulating-malicious.html"> Full Text</a>
@@ -286,7 +662,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two flaws in Cisco AnyConnect Secure Mobility client for Windows actively exploited<a href="https://securityaffairs.co/wordpress/137654/security/cisco-anyconnect-secure-mobility-flaws.html"> Full Text</a>
@@ -306,7 +682,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows vulnerable driver blocklist sync issue<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-vulnerable-driver-blocklist-sync-issue/"> Full Text</a>
@@ -322,7 +698,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL to Patch First Critical Vulnerability Since 2016<a href="https://www.securityweek.com/openssl-patch-first-critical-vulnerability-2016?&web_view=true"> Full Text</a>
@@ -338,7 +714,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society Hackers Are Behind Several Ransomware Attacks Against Education Sector<a href="https://thehackernews.com/2022/10/vice-society-hackers-are-behind-several.html"> Full Text</a>
@@ -354,7 +730,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes critical RCE in VMware Cloud Foundation<a href="https://securityaffairs.co/wordpress/137640/hacking/vmware-cloud-foundation-rce.html"> Full Text</a>
@@ -374,7 +750,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches Over 100 Vulnerabilities With Release of macOS Ventura 13<a href="https://www.securityweek.com/apple-patches-over-100-vulnerabilities-release-macos-ventura-13?&web_view=true"> Full Text</a>
@@ -390,7 +766,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2022
+October 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Actively Exploiting Cisco AnyConnect and GIGABYTE Drivers Vulnerabilities<a href="https://thehackernews.com/2022/10/hackers-actively-exploiting-cisco.html"> Full Text</a>
