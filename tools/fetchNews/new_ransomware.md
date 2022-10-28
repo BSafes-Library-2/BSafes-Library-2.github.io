@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Raspberry Robin worm to Clop ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-worm-to-clop-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says a threat group tracked as DEV-0950 used Clop ransomware to encrypt the network of a victim previously infected with the Raspberry Robin worm.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware: Open Source to the Rescue<a href="https://thehackernews.com/2022/10/ransomware-open-source-to-rescue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automobile, Energy, Media, Ransomware? When thinking about verticals, one may not instantly think of cyber-criminality. Yet, every move made by governments, clients, and private contractors screams toward normalizing those&nbsp; menaces &nbsp;as a new vertical.  Ransomware has every trait of the classical economical vertical. A thriving ecosystem of insurers, negotiators, software providers, and managed service experts.  This cybercrime branch looks at a loot stash that counts for trillions of dollars. The cybersecurity industry is too happy to provide services, software, and insurance to accommodate this new normal.&nbsp;  Intense insurer lobbying in France led the finance ministry to give a positive opinion about reimbursing ransoms, against the very advice of its government's cybersecurity branch. The market is so big and juicy that no one can get in the way of "the development of the cyber insurance market."  In the US, Colonial pipeline is seeking tax reductions from the loss incu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

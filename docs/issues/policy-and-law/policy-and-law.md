@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Hacker Charged for Operating "The Real Deal" Dark Web Marketplace<a href="https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 34-year-old U.K. national has been arraigned in the U.S. for operating a dark web marketplace called&nbsp; The Real Deal &nbsp;that specialized in the sales of hacking tools and stolen login credentials.  Daniel Kaye , who went by a litany of pseudonyms Popopret, Bestbuy, UserL0ser, and Spdrman, has been charged with five counts of access device fraud and one count of money laundering conspiracy.  Kaye was indicted in April 2021, and subsequently consented to his extradition from Cyprus to the U.S. in September 2022.   "While living overseas, this defendant allegedly operated an illegal website that made hacking tools and login credentials available for purchase, including those for U.S. government agencies,"&nbsp; said &nbsp;U.S. Attorney Ryan K. Buchanan.  Court documents show that&nbsp; The Real Deal , until its shutdown in 2016, functioned as a market for illicit items, including stolen account logins for U.S. government computers, bank accounts, and social media platforms such as Twitter and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

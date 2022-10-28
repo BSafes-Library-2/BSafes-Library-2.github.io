@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thomson Reuters collected and leaked at least 3TB of sensitive data<a href="https://securityaffairs.co/wordpress/137718/data-breach/thomson-reuters-database-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multinational media conglomerate Thomson Reuters left a database with sensitive customer and corporate data exposed online
+
+
+
+Original post at https://cybernews.com/security/thomson-reuters-leaked-terabytes-sensitive-data/
+
+
+
+Thomson Reuters, a multinational...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Clinical Labs says patient data stolen in ransomware attack<a href="https://www.bleepingcomputer.com/news/security/australian-clinical-labs-says-patient-data-stolen-in-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian Clinical Labs (ACL) has disclosed a February 2022 data breach that impacted its Medlab Pathology business, exposing the medical records and other sensitive information of 223,000 people.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Health Insurer Medibank Suffers Breach Exposing 3.9 Million Customers' Data<a href="https://thehackernews.com/2022/10/australian-health-insurer-medibank.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian health insurance firm Medibank on Wednesday disclosed that the personal information of all of its customers had been unauthorizedly accessed following a recent ransomware attack.  In an update to its ongoing investigation into the incident, the firm&nbsp; said &nbsp;the attackers had access to "significant amounts of health claims data" as well as personal data belonging to its&nbsp; ahm health insurance subsidiary &nbsp;and international students.  Medibank, which is one of the largest Australian private health insurance providers,&nbsp; serves about 3.9 million customers &nbsp;across the country.  "We have evidence that the criminal has removed some of this data and it is now likely that the criminal has stolen further personal and health claims data," the company further added. "As a result, we expect that the number of affected customers could grow substantially."   The company also said it's continuing its probe to determine what specific data has been stolen in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

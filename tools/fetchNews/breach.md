@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+See Tickets discloses data breach, customers’ credit card data exposed<a href="https://securityaffairs.co/wordpress/137673/data-breach/see-tickets-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International ticketing services company See Tickets disclosed a data breach that exposed customers' payment card details.
+
+
+
+Ticketing service company See Tickets disclosed a data breach, and threat actors might have accessed customers' payment card...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank now says hackers accessed all its customers’ personal data<a href="https://www.bleepingcomputer.com/news/security/medibank-now-says-hackers-accessed-all-its-customers-personal-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Australian insurance firm Medibank has confirmed that hackers accessed all of its customers' personal data and a large amount of health claims data during a recent ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

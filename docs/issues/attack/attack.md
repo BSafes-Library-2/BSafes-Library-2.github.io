@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Clinical Labs Suffers Major Hack Affecting 223,000 Accounts<a href="https://finance.yahoo.com/news/1-australian-clinical-labs-says-220121433.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medlab became aware of unauthorized third-party access to its IT system in February and a month later, was informed by the Australian Cyber Security Centre (ACSC) that it may have been the victim of a ransomware incident.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses another hack from June, blames voice phishing<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-another-hack-from-june-blames-voice-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud communications company Twilio&nbsp;disclosed a new data breach&nbsp;stemming from a June 2022 security incident where&nbsp;the same attackers behind the August hack&nbsp;accessed some customers' information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Post hacked with offensive headlines targeting politicians<a href="https://www.bleepingcomputer.com/news/security/new-york-post-hacked-with-offensive-headlines-targeting-politicians/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Post confirmed today that it was hacked after its website and Twitter account were used by the attackers to publish offensive headlines and tweets targeting U.S. politicians.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

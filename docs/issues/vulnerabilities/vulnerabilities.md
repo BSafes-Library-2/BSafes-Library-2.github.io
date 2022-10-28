@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes recently disclosed zero-day on older iPhones, iPads<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released new security updates to backport patches released earlier this week to older iPhones and iPads, addressing an actively exploited zero-day bug.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Mark of the Web Zero-Days Remain Patchless, Under Exploit<a href="https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two separate vulnerabilities exist in different versions of Windows that allow attackers to sneak malicious attachments and files past Microsoft's Mark of the Web (MoTW) security feature.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SiriSpy flaw allows eavesdropping on users’ conversations with Siri<a href="https://securityaffairs.co/wordpress/137710/security/sirispy-apple-flaw-spy-conversations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SiriSpy is a vulnerability affecting Apple iOS and macOS that allowed apps to eavesdrop on users' conversations with Siri.
+
+
+
+SiriSpy is a now-patched vulnerability, tracked as CVE-2022-32946, in Apple's iOS and macOS that could have potentially allowed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple iOS and macOS Flaw Could've Let Apps Eavesdrop on Your Conversations with Siri<a href="https://thehackernews.com/2022/10/apple-ios-and-macos-flaw-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw in Apple's iOS and macOS operating systems could have potentially enabled apps with Bluetooth access to eavesdrop on conversations with Siri.  Apple said "an app may be able to record audio using a pair of connected AirPods," adding it addressed the Core Bluetooth issue in iOS 16.1 with improved entitlements.  Credited with discovering and reporting the bug in August 2022 is app developer Guilherme Rambo. The bug, dubbed&nbsp; SiriSpy , has been assigned the identifier CVE-2022-32946.  "Any app with access to Bluetooth could record your conversations with Siri and audio from the iOS keyboard dictation feature when using AirPods or Beats headsets," Rambo&nbsp; said &nbsp;in a write-up.   "This would happen without the app requesting microphone access permission and without the app leaving any trace that it was listening to the microphone."  The vulnerability, according to Rambo, relates to a service called DoAP that's included in AirPo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

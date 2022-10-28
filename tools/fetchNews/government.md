@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Seeks Feedback on Baseline Measures to Secure Cloud Configuration<a href="https://www.nextgov.com/cybersecurity/2022/10/cisa-seeks-feedback-baseline-measures-secure-cloud-configuration/378903/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA is inviting public comment—particularly from agencies—on what it’s proposing as the bare minimum set of actions organizations should take to control access to their assets in cloud environments, and how to implement them.
+</details>
+<div style="text-align: right" markdown="1">
+Nextgov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

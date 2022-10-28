@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptojacking Campaign Targeting Vulnerable Docker and Kubernetes Instances<a href="https://thehackernews.com/2022/10/new-cryptojacking-campaign-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cryptojacking campaign has been uncovered targeting vulnerable Docker and Kubernetes infrastructures as part of opportunistic attacks designed to illicitly mine cryptocurrency.  Cybersecurity company CrowdStrike dubbed the activity&nbsp; Kiss-a-dog , with its command-and-control infrastructure overlapping with those associated with other groups like&nbsp; TeamTNT , which are known to&nbsp; strike &nbsp; misconfigured &nbsp;Docker and Kubernetes instances.  The intrusions, spotted in September 2022, get their name from a domain named "kiss.a-dog[.]top" that's used to trigger a shell script payload on the compromised container using a Base64-encoded Python command.   "The URL used in the payload is obscured with backslashes to defeat automated decoding and regex matching to retrieve the malicious domain," CrowdStrike researcher Manoj Ahuje&nbsp; said &nbsp;in a technical analysis.  The attack chain subsequently attempts to escape the container and move laterally into the breached network, wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

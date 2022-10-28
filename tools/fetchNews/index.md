@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes recently disclosed zero-day on older iPhones, iPads<a href="https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Clinical Labs Suffers Major Hack Affecting 223,000 Accounts<a href="https://finance.yahoo.com/news/1-australian-clinical-labs-says-220121433.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Hacker Charged for Operating "The Real Deal" Dark Web Marketplace<a href="https://thehackernews.com/2022/10/british-hacker-charged-for-operating.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin operators are selling initial access to compromised enterprise networks to ransomware gangs<a href="https://securityaffairs.co/wordpress/137722/malware/raspberry-robin-clop-ransomware.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft links Raspberry Robin worm to Clop ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-worm-to-clop-ransomware-attacks/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Mark of the Web Zero-Days Remain Patchless, Under Exploit<a href="https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose Over 80 ShadowPad Malware C2 Servers<a href="https://thehackernews.com/2022/10/researchers-expose-over-80-shadowpad.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thomson Reuters collected and leaked at least 3TB of sensitive data<a href="https://securityaffairs.co/wordpress/137718/data-breach/thomson-reuters-database-exposed.html"> Full Text</a>
@@ -178,7 +178,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Clinical Labs says patient data stolen in ransomware attack<a href="https://www.bleepingcomputer.com/news/security/australian-clinical-labs-says-patient-data-stolen-in-ransomware-attack/"> Full Text</a>
@@ -194,7 +194,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LinkedIn Phishing Spoof Bypasses Google Workspace Security<a href="https://www.darkreading.com/risk/linkedin-phishing-spoof-bypasses-google-workspace-security?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware: Open Source to the Rescue<a href="https://thehackernews.com/2022/10/ransomware-open-source-to-rescue.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SiriSpy flaw allows eavesdropping on users’ conversations with Siri<a href="https://securityaffairs.co/wordpress/137710/security/sirispy-apple-flaw-spy-conversations.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drinik Android malware now targets users of 18 Indian banks<a href="https://www.bleepingcomputer.com/news/security/drinik-android-malware-now-targets-users-of-18-indian-banks/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Pro-China Disinfo Campaign Is Targeting US Elections—Badly<a href="https://www.wired.com/story/us-midterm-election-disinformation-dragonbridge/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Wired
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple iOS and macOS Flaw Could've Let Apps Eavesdrop on Your Conversations with Siri<a href="https://thehackernews.com/2022/10/apple-ios-and-macos-flaw-couldve-let.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British hacker arraigned for running The Real Deal dark web marketplace<a href="https://securityaffairs.co/wordpress/137696/cyber-crime/british-hacker-the-real-deal.html"> Full Text</a>
@@ -314,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twilio discloses another hack from June, blames voice phishing<a href="https://www.bleepingcomputer.com/news/security/twilio-discloses-another-hack-from-june-blames-voice-phishing/"> Full Text</a>
@@ -330,7 +330,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German cyber agency warns threat situation is ‘higher than ever’<a href="https://therecord.media/german-cyber-agency-warns-threat-situation-is-higher-than-ever/?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Health Insurer Medibank Suffers Breach Exposing 3.9 Million Customers' Data<a href="https://thehackernews.com/2022/10/australian-health-insurer-medibank.html"> Full Text</a>
@@ -362,7 +362,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Post hacked with offensive headlines targeting politicians<a href="https://www.bleepingcomputer.com/news/security/new-york-post-hacked-with-offensive-headlines-targeting-politicians/"> Full Text</a>
@@ -378,7 +378,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cryptojacking Campaign Targeting Vulnerable Docker and Kubernetes Instances<a href="https://thehackernews.com/2022/10/new-cryptojacking-campaign-targeting.html"> Full Text</a>
@@ -394,7 +394,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2022
+October 27, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fodcha DDoS botnet reaches 1Tbps in power, injects ransoms in packets<a href="https://www.bleepingcomputer.com/news/security/fodcha-ddos-botnet-reaches-1tbps-in-power-injects-ransoms-in-packets/"> Full Text</a>

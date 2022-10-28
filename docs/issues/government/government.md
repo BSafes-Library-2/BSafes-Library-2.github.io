@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German cyber agency warns threat situation is ‘higher than ever’<a href="https://therecord.media/german-cyber-agency-warns-threat-situation-is-higher-than-ever/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany’s federal cybersecurity office BSI warned on Tuesday that ransomware, political hacking, and other cybersecurity threats facing the country are “higher than ever.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
