@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fodcha DDoS botnet reaches 1Tbps in power, injects ransoms in packets<a href="https://www.bleepingcomputer.com/news/security/fodcha-ddos-botnet-reaches-1tbps-in-power-injects-ransoms-in-packets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Fodcha DDoS botnet has emerged, featuring ransom demands embedded in packets and new features to evade detection of its infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

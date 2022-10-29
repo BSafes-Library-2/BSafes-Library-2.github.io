@@ -8,6 +8,46 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin operators are selling initial access to compromised enterprise networks to ransomware gangs<a href="https://securityaffairs.co/wordpress/137722/malware/raspberry-robin-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DEV-0950 group used Clop ransomware to encrypt the network of organizations previously infected with the Raspberry Robin worm.
+
+
+
+Microsoft has discovered recent activity that links the Raspberry Robin worm to human-operated ransomware attacks.&nbsp;
+
+
+
+Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British hacker arraigned for running The Real Deal dark web marketplace<a href="https://securityaffairs.co/wordpress/137696/cyber-crime/british-hacker-the-real-deal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular British hacker was charged by the U.S. authorities for allegedly running the 'The Real Deal' dark web marketplace.
+
+
+
+The British hacker Daniel Kaye (aka Bestbuy, Spdrman, Popopret, UserL0ser) (34) was charged by the U.S. DoJ for allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

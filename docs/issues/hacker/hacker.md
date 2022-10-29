@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Stealthy Techniques Used by Cranefly Espionage Hackers<a href="https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered hacking group known for targeting employees dealing with corporate transactions has been linked to a new backdoor called Danfuan .  This hitherto undocumented malware is delivered via another dropper called Geppei, researchers from Symantec, by Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News.  The dropper "is being used to install a new backdoor and other tools using the novel technique of reading commands from seemingly innocuous Internet Information Services ( IIS ) logs," the researchers said.   The toolset has been attributed by the cybersecurity company to a suspected espionage actor called UNC3524, aka Cranefly, which&nbsp; first came to light &nbsp;in May 2022 for its focus on bulk email collection from victims who deal with mergers and acquisitions and other financial transactions.  One of the group's key malware strains is QUIETEXIT, a backdoor deployed on network appliances that do not support antivirus or endpoint detection, such
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Microsoft IIS web server logs to control malware<a href="https://www.bleepingcomputer.com/news/security/hackers-use-microsoft-iis-web-server-logs-to-control-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cranefly hacking group, aka UNC3524, uses a previously unseen technique of controlling malware on infected devices via Microsoft Internet Information Services (IIS) web server logs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

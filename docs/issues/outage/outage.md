@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest EU copper producer Aurubis suffers cyberattack, IT outage<a href="https://www.bleepingcomputer.com/news/security/largest-eu-copper-producer-aurubis-suffers-cyberattack-it-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German copper producer Aurubis has announced that it suffered a cyberattack that forced it to shut down IT systems to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

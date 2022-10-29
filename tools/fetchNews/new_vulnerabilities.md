@@ -8,6 +8,148 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ConnectWise fixes RCE bug exposing thousands of servers to attacks<a href="https://www.bleepingcomputer.com/news/security/connectwise-fixes-rce-bug-exposing-thousands-of-servers-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has released security updates to address a critical vulnerability in the ConnectWise Recover and R1Soft Server Backup Manager (SBM) secure backup solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaws in Juniper Junos OS Affect Enterprise Networking Devices<a href="https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple high-severity security flaws have been disclosed as affecting Juniper Networks devices, some of which could be exploited to achieve code execution.  Chief among them is a remote pre-authenticated PHP archive file deserialization vulnerability (CVE-2022-22241, CVSS score: 8.1) in the J-Web component of Junos OS, according to Octagon Networks researcher Paulos Yibelo.  "This vulnerability can be exploited by an unauthenticated remote attacker to get remote phar files deserialized, leading to arbitrary file write, which leads to a remote code execution (RCE)," Yibelo&nbsp; said &nbsp;in a report shared with The Hacker News.   Also identified are five other issues, which are listed as follow -   CVE-2022-22242 &nbsp;(CVSS score: 6.1) - A pre-authenticated reflected&nbsp; XSS &nbsp;on the error page ("error.php"), allowing a remote adversary to siphon Junos OS admin session and chained with other flaws that require authentication.    CVE-2022-22243 &nbsp;(CVSS score: 4.3) &amp;&nbsp; CVE-2022-22
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities affect the Juniper Junos OS<a href="https://securityaffairs.co/wordpress/137762/security/juniper-junos-os-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks devices are affected by multiple high-severity issues, including code execution vulnerabilities.
+
+
+
+Multiple high-severity security vulnerabilities have been discovered in Juniper Networks devices.
+
+
+
+"Multiple vulnerabilities have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes a new actively exploited Chrome zero-day, it is the seventh one this year<a href="https://securityaffairs.co/wordpress/137753/hacking/7-chrome-zero-day-fixed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Thursday released an emergency patch for Chrome 107 to address the actively exploited zero-day vulnerability CVE-2022-3723.
+
+
+
+Google released an emergency update&nbsp;for the Chrome 107 to address an actively exploited zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fixes for CVE-2022-42827 zero-day to older iPhones, iPads<a href="https://securityaffairs.co/wordpress/137747/security/cve-2022-42827-zero-day-older-iphones-ipads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released updates to backport the recently released security patches for CVE-2022-42827 zero-day to older iPhones and iPads.
+
+
+
+Apple has released new security updates to backport security patches released this week to address actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMWare patches RCE exploit in NSX Manager<a href="https://portswigger.net/daily-swig/vmware-patches-rce-exploit-in-nsx-manager?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, caused by an old deserialization bug in an outdated Java library, could be abused to achieve pre-authentication remote code execution (RCE) on the host computer.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for critical VMware RCE vulnerability, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-rce-vulnerability-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is now available for a pre-authentication remote code execution (RCE) vulnerability allowing attackers to execute arbitrary code remotely with root privileges on unpatched Cloud Foundation and NSX Manager appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes seventh Chrome zero-day exploited in attacks this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency security update&nbsp;for the Chrome desktop web browser&nbsp;to address a single vulnerability known to be exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday rolled out emergency fixes to contain an actively exploited zero-day flaw in its Chrome web browser.  The vulnerability , tracked as&nbsp; CVE-2022-3723 , has been described as a type confusion flaw in the V8 JavaScript engine.  Security researchers Jan Vojtěšek, Milánek, and Przemek Gmerek of Avast have been credited with reporting the flaw on October 25, 2022.  "Google is aware of reports that an exploit for CVE-2022-3723 exists in the wild," the internet giant acknowledged in an advisory without getting into more specifics about the nature of the attacks.  CVE-2022-3723 is the third actively exploited type confusion bug in V8 this year after&nbsp; CVE-2022-1096 &nbsp;and&nbsp; CVE-2022-1364 .   The latest fix also marks the resolution of the seventh zero-day in Google Chrome since the start of 2022 -   CVE-2022-0609 &nbsp;- Use-after-free in Animation  CVE-2022-1096 &nbsp;- Type confusion in V8  CVE-2022-1364 &nbsp;- Type confusion in V8  CVE-2022-2294 &nbsp;- Heap buffer overflow in WebRTC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

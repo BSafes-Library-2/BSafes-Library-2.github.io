@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Adds New Android Malware to its Arsenal<a href="https://cyware.com/news/kimsuky-apt-adds-new-android-malware-to-its-arsenal-eecd06bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the findings by S2W’s threat research and intelligence center, the three new malware, FastFire, FastViewer, and FastSpy, are masquerading as APKs for three utility tools on Google Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

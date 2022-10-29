@@ -8,6 +8,24 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Post hacked? No, the culprit is an employee<a href="https://securityaffairs.co/wordpress/137735/hacking/new-york-post-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the website and Twitter account of the New York Post and published offensive messages against US politicians.
+
+
+
+New York Post confirmed that it was hacked, its website and Twitter account were used by the attackers to publish offensive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
