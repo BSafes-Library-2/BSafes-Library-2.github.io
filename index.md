@@ -34,6 +34,394 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ConnectWise fixes RCE bug exposing thousands of servers to attacks<a href="https://www.bleepingcomputer.com/news/security/connectwise-fixes-rce-bug-exposing-thousands-of-servers-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has released security updates to address a critical vulnerability in the ConnectWise Recover and R1Soft Server Backup Manager (SBM) secure backup solutions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LinkedIn Phishing Campaign Bypasses Google Protection<a href="https://cyware.com/news/new-linkedin-phishing-campaign-bypasses-google-protection-de6f6752"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing campaign targeted 500 mailboxes of employees from a national travel organization. The email comes with the subject line - "We noticed some unusual activity" - pretending to be from LinkedIn.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaws in Juniper Junos OS Affect Enterprise Networking Devices<a href="https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple high-severity security flaws have been disclosed as affecting Juniper Networks devices, some of which could be exploited to achieve code execution.  Chief among them is a remote pre-authenticated PHP archive file deserialization vulnerability (CVE-2022-22241, CVSS score: 8.1) in the J-Web component of Junos OS, according to Octagon Networks researcher Paulos Yibelo.  "This vulnerability can be exploited by an unauthenticated remote attacker to get remote phar files deserialized, leading to arbitrary file write, which leads to a remote code execution (RCE)," Yibelo  said  in a report shared with The Hacker News.   Also identified are five other issues, which are listed as follow -   CVE-2022-22242  (CVSS score: 6.1) - A pre-authenticated reflected  XSS  on the error page ("error.php"), allowing a remote adversary to siphon Junos OS admin session and chained with other flaws that require authentication.    CVE-2022-22243  (CVSS score: 4.3) &  CVE-2022-22
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple vulnerabilities affect the Juniper Junos OS<a href="https://securityaffairs.co/wordpress/137762/security/juniper-junos-os-flaws-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks devices are affected by multiple high-severity issues, including code execution vulnerabilities.
+
+
+
+Multiple high-severity security vulnerabilities have been discovered in Juniper Networks devices.
+
+
+
+"Multiple vulnerabilities have been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 28th 2022 - Healthcare leaks<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-28th-2022-healthcare-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, we learned of healthcare data leaks out of Australia, information about existing attacks, and reports on how ransomware gangs operate and partner with malware developers for initial access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Adds New Android Malware to its Arsenal<a href="https://cyware.com/news/kimsuky-apt-adds-new-android-malware-to-its-arsenal-eecd06bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the findings by S2W’s threat research and intelligence center, the three new malware, FastFire, FastViewer, and FastSpy, are masquerading as APKs for three utility tools on Google Play Store.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Dropper Apps On Play Store Targeting Over 200 Banking and Cryptocurrency Wallets<a href="https://thehackernews.com/2022/10/these-dropper-apps-on-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five malicious dropper Android apps with over 130,000 cumulative installations have been discovered on the Google Play Store distributing banking trojans like  SharkBot  and  Vultur , which are capable of stealing financial data and performing on-device fraud.  "These droppers continue the unstopping evolution of malicious apps sneaking to the official store," Dutch mobile security firm ThreatFabric told The Hacker News in a statement.  "This evolution includes following newly introduced policies and masquerading as file managers and overcoming limitations by side-loading the malicious payload through the web browser."  Targets of these  droppers  include 231 banking and cryptocurrency wallet apps from financial institutions in Italy, the U.K., Germany, Spain, Poland, Austria, the U.S., Australia, France, and the Netherlands.   Dropper apps on official app stores like Google Play have  increasingly   become  a popular and efficient technique to distribute banking m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes a new actively exploited Chrome zero-day, it is the seventh one this year<a href="https://securityaffairs.co/wordpress/137753/hacking/7-chrome-zero-day-fixed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Thursday released an emergency patch for Chrome 107 to address the actively exploited zero-day vulnerability CVE-2022-3723.
+
+
+
+Google released an emergency update for the Chrome 107 to address an actively exploited zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest EU copper producer Aurubis suffers cyberattack, IT outage<a href="https://www.bleepingcomputer.com/news/security/largest-eu-copper-producer-aurubis-suffers-cyberattack-it-outage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German copper producer Aurubis has announced that it suffered a cyberattack that forced it to shut down IT systems to prevent the attack's spread.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Systems at Polish, Slovak Parliaments Hit by Cyberattacks<a href="https://www.securityweek.com/slovak-polish-parliaments-hit-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The attack was multi-directional, including from inside the Russian Federation," the Polish Senate said in a statement. The Slovak parliament's deputy speaker Gabor Grendel told AFP: that "Parliament's entire computer network has been paralysed".
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Made Simple in New Guidebook For Lean Teams<a href="https://thehackernews.com/2022/10/cloud-security-made-simple-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing was the lifeline that kept many companies running during the pandemic. But it was a classic case of medicine that comes with  serious  side effects.   Having anywhere, anytime access to data and apps gives companies tremendous flexibility in a fast-changing world, plus the means to scale and customize IT at will. The cloud is an asset or upgrade in almost every way.  With one glaring exception: cybersecurity.   The cloud promised to make companies more secure and security more straightforward. Yet over the same time period that the cloud took over computing, cyber attacks grew steadily worse while security teams felt increasingly overwhelmed.   Why?   We will explain shortly. For lean security teams, the more important question is how to make cloud security work, especially as the cloud footprint grows (a lot) faster than security resources. Will the cloud always cast a shadow on cybersecurity?  Not with the strategy outlined in a free ebook from Cynet called " Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backports fixes for CVE-2022-42827 zero-day to older iPhones, iPads<a href="https://securityaffairs.co/wordpress/137747/security/cve-2022-42827-zero-day-older-iphones-ipads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released updates to backport the recently released security patches for CVE-2022-42827 zero-day to older iPhones and iPads.
+
+
+
+Apple has released new security updates to backport security patches released this week to address actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student arrested for running one of Germany’s largest dark web markets<a href="https://www.bleepingcomputer.com/news/security/student-arrested-for-running-one-of-germany-s-largest-dark-web-markets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Criminal Police Office (BKA) in Germany have arrested a 22-year-old student in Bavaria, who is suspected of being the administrator of 'Deutschland im Deep Web' (DiDW) 3, one of the largest darknet markets in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMWare patches RCE exploit in NSX Manager<a href="https://portswigger.net/daily-swig/vmware-patches-rce-exploit-in-nsx-manager?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, caused by an old deserialization bug in an outdated Java library, could be abused to achieve pre-authentication remote code execution (RCE) on the host computer.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Stealthy Techniques Used by Cranefly Espionage Hackers<a href="https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered hacking group known for targeting employees dealing with corporate transactions has been linked to a new backdoor called Danfuan .  This hitherto undocumented malware is delivered via another dropper called Geppei, researchers from Symantec, by Broadcom Software,  said  in a report shared with The Hacker News.  The dropper "is being used to install a new backdoor and other tools using the novel technique of reading commands from seemingly innocuous Internet Information Services ( IIS ) logs," the researchers said.   The toolset has been attributed by the cybersecurity company to a suspected espionage actor called UNC3524, aka Cranefly, which  first came to light  in May 2022 for its focus on bulk email collection from victims who deal with mergers and acquisitions and other financial transactions.  One of the group's key malware strains is QUIETEXIT, a backdoor deployed on network appliances that do not support antivirus or endpoint detection, such
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Post hacked? No, the culprit is an employee<a href="https://securityaffairs.co/wordpress/137735/hacking/new-york-post-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the website and Twitter account of the New York Post and published offensive messages against US politicians.
+
+
+
+New York Post confirmed that it was hacked, its website and Twitter account were used by the attackers to publish offensive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for critical VMware RCE vulnerability, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-rce-vulnerability-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code is now available for a pre-authentication remote code execution (RCE) vulnerability allowing attackers to execute arbitrary code remotely with root privileges on unpatched Cloud Foundation and NSX Manager appliances.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Implementing Defense in Depth to Prevent and Mitigate Cyber Attacks<a href="https://thehackernews.com/2022/10/implementing-defense-in-depth-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increased use of information technology in our everyday life and business has led to cyber-attacks becoming more sophisticated and large-scale. For organizations to thrive in this era of technology, they must develop robust security strategies to detect and mitigate attacks. Defense in depth is a strategy in which companies use multiple layers of security measures to safeguard assets. A well-implemented defense in depth can help organizations prevent and mitigate ongoing attacks.   Defense in depth uses various cutting-edge security tools to safeguard a business's endpoints, data, applications, and networks. The objective is to prevent cyber threats, but a robust defense-in-depth approach also thwarts ongoing attacks and prevents further damage.  How organizations can implement defense in depth  The image above shows the various layers of security that organizations must implement. Below we describe ideas that companies should consider for each layer.  Governance and risk mana
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixes seventh Chrome zero-day exploited in attacks this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency security update for the Chrome desktop web browser to address a single vulnerability known to be exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday rolled out emergency fixes to contain an actively exploited zero-day flaw in its Chrome web browser.  The vulnerability , tracked as  CVE-2022-3723 , has been described as a type confusion flaw in the V8 JavaScript engine.  Security researchers Jan Vojtěšek, Milánek, and Przemek Gmerek of Avast have been credited with reporting the flaw on October 25, 2022.  "Google is aware of reports that an exploit for CVE-2022-3723 exists in the wild," the internet giant acknowledged in an advisory without getting into more specifics about the nature of the attacks.  CVE-2022-3723 is the third actively exploited type confusion bug in V8 this year after  CVE-2022-1096  and  CVE-2022-1364 .   The latest fix also marks the resolution of the seventh zero-day in Google Chrome since the start of 2022 -   CVE-2022-0609  - Use-after-free in Animation  CVE-2022-1096  - Type confusion in V8  CVE-2022-1364  - Type confusion in V8  CVE-2022-2294  - Heap buffer overflow in WebRTC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Microsoft IIS web server logs to control malware<a href="https://www.bleepingcomputer.com/news/security/hackers-use-microsoft-iis-web-server-logs-to-control-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cranefly hacking group, aka UNC3524, uses a previously unseen technique of controlling malware on infected devices via Microsoft Internet Information Services (IIS) web server logs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin Operators Selling Cybercriminals Access to Thousands of Endpoints<a href="https://thehackernews.com/2022/10/raspberry-robin-operators-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raspberry Robin  worm is becoming an access-as-a-service malware for deploying other payloads, including  IcedID ,  Bumblebee ,  TrueBot  (aka Silence), and  Clop ransomware .  It is "part of a complex and interconnected malware ecosystem, with links to other malware families and alternate infection methods beyond its original USB drive spread," the Microsoft Security Threat Intelligence Center (MSTIC)  said  in a detailed write-up.  Raspberry Robin , also called QNAP Worm owing to the use of compromised QNAP storage servers for command-and-control, is the name given to a malware by cybersecurity company Red Canary that spreads to Windows systems through infected USB drives.  MSTIC is keeping tabs on the activity group behind the USB-based Raspberry Robin infections as  DEV-0856 , adding it's aware of at least four confirmed entry points that all have the likely end goal of deploying ransomware.   The tech giant's cybersecurity team said that Raspberry Robin has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware droppers with 130K installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-droppers-with-130k-installs-found-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of Android malware droppers were found infiltrating the Google Play store to install malicious programs by pretending to be app updates.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
