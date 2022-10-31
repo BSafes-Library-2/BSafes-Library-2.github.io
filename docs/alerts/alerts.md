@@ -58,7 +58,7 @@ In April, CISA announced the Secure Cloud Business Applications (SCuBA) project 
 October 20, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-FBI PIN TLP White: Iranian Cyber Group Emennet Pasargad Conducting Hack-and-Leak Operations Using False-Flag Personas <a href="https://www.aha.org/cybersecurity-government-intelligence-reports/2022-10-20-fbi-pin-tlp-white-iranian-cyber-group-emennet-pasargad-conducting-hack"> Full Text</a>
+FBI PIN TLP White: Iranian Cyber Group Emennet Pasargad Conducting Hack-and-Leak Operations Using False-Flag Personas <a href="https://publications.bsafes.com/docs/fbi/pin-2022-1020-001-iranian-cyber-group-emennet-pasargad-conducting-hack-and-leak-operations-using-false-flag-personas/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
