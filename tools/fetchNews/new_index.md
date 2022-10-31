@@ -34,7 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Azov data wiper tries to frame researchers and BleepingComputer<a href="https://www.bleepingcomputer.com/news/security/new-azov-data-wiper-tries-to-frame-researchers-and-bleepingcomputer/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new and destructive 'Azov Ransomware' data wiper is being heavily distributed through pirated software, key generators, and adware bundles, trying to frame well-known security researchers by claiming they are behind the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former British Prime Minister Liz Truss ‘s phone was allegedly hacked by Russian spies<a href="https://securityaffairs.co/wordpress/137826/intelligence/liz-truss-phone-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Daily Mail, Former British Prime Minister Liz Truss 's personal phone was hacked by Russian spies. 
+
+
+
+The personal mobile phone of British Prime Minister Liz Truss was hacked by cyber spies suspected of working for the Kremlin, the Daily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited Windows MoTW zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/actively-exploited-windows-motw-zero-day-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch has been released for an actively exploited zero-day that allows files signed with malformed signatures to bypass Mark-of-the-Web security warnings in Windows 10 and Windows 11.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German BKA arrested the alleged operator of Deutschland im Deep Web darknet market<a href="https://securityaffairs.co/wordpress/137814/cyber-crime/deutschland-im-deep-web-didw-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German police arrested a student that is suspected of being the administrator of 'Deutschland im Deep Web' (DiDW) darknet marketplace.
+
+
+
+Germany's Federal Criminal Police Office (BKA) has arrested a student (22) in Bavaria, who is suspected of being...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte ransomware group hit Asahi Group Holdings, a precision metal manufacturing and metal solution provider<a href="https://securityaffairs.co/wordpress/137803/cyber-crime/blackbyte-ransomware-asahi-group-holdings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackByte ransomware group claims to have compromised Asahi Group Holdings, a precision metal manufacturing and metal solution provider.
+
+
+
+Asahi Group Holdings, Ltd. is a precision metal manufacturing and metal solution provider, for more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air New Zealand warns of an ongoing credential stuffing attack<a href="https://securityaffairs.co/wordpress/137793/cyber-crime/air-new-zealand-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air New Zealand suffered a security breach, multiple customers have been locked out of their accounts after the incident.
+
+
+
+Air New Zealand suffered a security breach, threat actors attempted to access customers' accounts by carrying out credential-stuffing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 391<a href="https://securityaffairs.co/wordpress/137789/breaking-news/security-affairs-newsletter-round-391.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bed Bath & Beyond reviewing possible data breach<a href="https://finance.yahoo.com/news/bed-bath-beyond-reviewing-possible-125236580.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bed Bath & Beyond said that it has no reason to believe that any sensitive or personally identifiable information was accessed and this cybersecurity incident would likely not have a material impact on the company.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio Reveals Another Breach from the Same Hackers Behind the August Hack<a href="https://thehackernews.com/2022/10/twilio-reveals-another-breach-from-same.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communication services provider Twilio this week disclosed that it experienced another "brief security incident" in June 2022 perpetrated by the same threat actor behind the  August hack  that resulted in unauthorized access of customer information.  The security event occurred on June 29, 2022, the company said in an updated advisory shared this week, as part of its probe into the digital break-in.  "In the June incident, a Twilio employee was socially engineered through voice phishing (or 'vishing') to provide their credentials, and the malicious actor was able to access customer contact information for a limited number of customers," Twilio  said .   It further said the access gained following the successful attack was identified and thwarted within 12 hours, and that it had alerted impacted customers on July 2, 2022.  The San Francisco-based firm did not reveal the exact number of customers impacted by the June incident, and why the disclosure was made
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defeating Guloader Anti-Analysis Technique<a href="https://unit42.paloaltonetworks.com/guloader-variant-anti-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guloader malware uses the control flow obfuscation technique to hide its functionalities and evade detection. This technique impedes both static and dynamic analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New open-source tool scans public AWS S3 buckets for secrets<a href="https://www.bleepingcomputer.com/news/security/new-open-source-tool-scans-public-aws-s3-buckets-for-secrets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new open-source 'S3crets Scanner' scanner allows researchers and red-teamers to search for 'secrets' mistakenly stored in publicly exposed or company's Amazon AWS S3 storage buckets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses another security incident that took place in June<a href="https://securityaffairs.co/wordpress/137782/data-breach/twilio-new-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio suffered another brief security incident in June 2022, the attack was conducted by the same threat actor of the August hack.
+
+
+
+The Communications company Twilio announced that it suffered another "brief security incident" on June 29, 2022,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive cyberattack hit Slovak and Polish Parliaments<a href="https://securityaffairs.co/wordpress/137777/hacking/slovak-polish-parliaments-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Slovak and Polish parliaments were hit by a massive cyber attack, and the voting system in Slovakia's legislature was brought down.
+
+
+
+A massive cyber attack hit the Slovak and Polish parliaments, reported the authorities. The cyber attack brought...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How will Twitter change under Elon Musk?<a href="https://securityaffairs.co/wordpress/137770/social-networks/elon-musk-twitter-change.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybhorus CEO Pierluigi Paganini talks to TRT World about Elon Musk completing his $44 billion deal to buy Twitter and what changes he will make to the social media platform.
+
+
+
+Of course, the first impact will be on the leadership, Elon Musk was critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ConnectWise fixes RCE bug exposing thousands of servers to attacks<a href="https://www.bleepingcomputer.com/news/security/connectwise-fixes-rce-bug-exposing-thousands-of-servers-to-attacks/"> Full Text</a>
@@ -50,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LinkedIn Phishing Campaign Bypasses Google Protection<a href="https://cyware.com/news/new-linkedin-phishing-campaign-bypasses-google-protection-de6f6752"> Full Text</a>
@@ -66,7 +326,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Flaws in Juniper Junos OS Affect Enterprise Networking Devices<a href="https://thehackernews.com/2022/10/high-severity-flaws-in-juniper-junos-os.html"> Full Text</a>
@@ -82,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple vulnerabilities affect the Juniper Junos OS<a href="https://securityaffairs.co/wordpress/137762/security/juniper-junos-os-flaws-2.html"> Full Text</a>
@@ -106,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - October 28th 2022 - Healthcare leaks<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-28th-2022-healthcare-leaks/"> Full Text</a>
@@ -122,7 +382,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky APT Adds New Android Malware to its Arsenal<a href="https://cyware.com/news/kimsuky-apt-adds-new-android-malware-to-its-arsenal-eecd06bf"> Full Text</a>
@@ -138,7 +398,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These Dropper Apps On Play Store Targeting Over 200 Banking and Cryptocurrency Wallets<a href="https://thehackernews.com/2022/10/these-dropper-apps-on-play-store.html"> Full Text</a>
@@ -154,7 +414,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes a new actively exploited Chrome zero-day, it is the seventh one this year<a href="https://securityaffairs.co/wordpress/137753/hacking/7-chrome-zero-day-fixed.html"> Full Text</a>
@@ -174,7 +434,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Largest EU copper producer Aurubis suffers cyberattack, IT outage<a href="https://www.bleepingcomputer.com/news/security/largest-eu-copper-producer-aurubis-suffers-cyberattack-it-outage/"> Full Text</a>
@@ -190,7 +450,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT Systems at Polish, Slovak Parliaments Hit by Cyberattacks<a href="https://www.securityweek.com/slovak-polish-parliaments-hit-cyberattacks?&web_view=true"> Full Text</a>
@@ -206,7 +466,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Security Made Simple in New Guidebook For Lean Teams<a href="https://thehackernews.com/2022/10/cloud-security-made-simple-in-new.html"> Full Text</a>
@@ -222,7 +482,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple backports fixes for CVE-2022-42827 zero-day to older iPhones, iPads<a href="https://securityaffairs.co/wordpress/137747/security/cve-2022-42827-zero-day-older-iphones-ipads.html"> Full Text</a>
@@ -242,7 +502,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Student arrested for running one of Germany’s largest dark web markets<a href="https://www.bleepingcomputer.com/news/security/student-arrested-for-running-one-of-germany-s-largest-dark-web-markets/"> Full Text</a>
@@ -258,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMWare patches RCE exploit in NSX Manager<a href="https://portswigger.net/daily-swig/vmware-patches-rce-exploit-in-nsx-manager?&web_view=true"> Full Text</a>
@@ -274,7 +534,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Stealthy Techniques Used by Cranefly Espionage Hackers<a href="https://thehackernews.com/2022/10/researchers-uncover-stealthy-techniques.html"> Full Text</a>
@@ -290,7 +550,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Post hacked? No, the culprit is an employee<a href="https://securityaffairs.co/wordpress/137735/hacking/new-york-post-hacked.html"> Full Text</a>
@@ -310,7 +570,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for critical VMware RCE vulnerability, patch now<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-rce-vulnerability-patch-now/"> Full Text</a>
@@ -326,7 +586,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Implementing Defense in Depth to Prevent and Mitigate Cyber Attacks<a href="https://thehackernews.com/2022/10/implementing-defense-in-depth-to.html"> Full Text</a>
@@ -342,7 +602,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixes seventh Chrome zero-day exploited in attacks this year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/"> Full Text</a>
@@ -358,7 +618,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Issues Urgent Chrome Update to Patch Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2022/10/google-issues-urgent-chrome-update-to.html"> Full Text</a>
@@ -374,7 +634,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use Microsoft IIS web server logs to control malware<a href="https://www.bleepingcomputer.com/news/security/hackers-use-microsoft-iis-web-server-logs-to-control-malware/"> Full Text</a>
@@ -390,7 +650,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin Operators Selling Cybercriminals Access to Thousands of Endpoints<a href="https://thehackernews.com/2022/10/raspberry-robin-operators-selling.html"> Full Text</a>
@@ -406,7 +666,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2022
+October 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware droppers with 130K installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-droppers-with-130k-installs-found-on-google-play/"> Full Text</a>
