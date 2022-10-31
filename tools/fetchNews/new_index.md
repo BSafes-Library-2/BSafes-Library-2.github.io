@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowPad Malware Analysis Highlights C2 Infrastructure and New Associations<a href="https://cyware.com/news/shadowpad-malware-analysis-highlights-c2-infrastructure-and-new-associations-c6cd0761"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between September 2021 to September 2022, 83 ShadowPad C2 servers (75 unique IPs) were identified on the internet. ShadowPad supports six C2 protocols: TCP, SSL, HTTP, HTTPS, UDP, and DNS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0950 Uses Raspberry Robin Worm in Cl0p Ransomware Attacks<a href="https://cyware.com/news/dev-0950-uses-raspberry-robin-worm-in-cl0p-ransomware-attacks-33f6009f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raspberry Robin malware, which was initially spread via external USB drives, is now using additional infection methods and working with other malware families in its recent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 30, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
