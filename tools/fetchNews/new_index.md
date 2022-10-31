@@ -37,6 +37,26 @@ BSafes library includes mobile-friendly cybersecurity publications.
 October 31, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Malicious dropper apps on Play Store totaled 30.000+ installations<a href="https://securityaffairs.co/wordpress/137847/cyber-crime/malicious-dropper-apps-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThreatFabric researchers discovered five malicious dropper apps on Google Play Store with more than 130,000 downloads. 
+
+
+
+Researchers at ThreatFabric have discovered five malicious dropper apps on the official Google Play Store. The malicious dropper...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 ShadowPad Malware Analysis Highlights C2 Infrastructure and New Associations<a href="https://cyware.com/news/shadowpad-malware-analysis-highlights-c2-infrastructure-and-new-associations-c6cd0761"> Full Text</a>
 </p>
 <details>
