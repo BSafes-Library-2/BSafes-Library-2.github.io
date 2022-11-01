@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tips for Choosing a Pentesting Company<a href="https://thehackernews.com/2022/10/tips-for-choosing-pentesting-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's world of automated hacking systems, frequent data breaches and consumer protection regulations such as GDPR and PCI DSS, penetration testing is now an essential security requirement for organisations of all sizes. But what should you look for when choosing the right provider?  The sheer number of providers can be daunting, and finding one which can deliver a high-quality test at a reasonable price is not easy. How do you know if they're any good? What level of security expertise was included in the report? Is your application secure, or did the supplier simply not find the weaknesses?  There are no easy answers, but you can make it easier by asking the right questions up front. The most important considerations fall into three categories: certifications, experience, and price.  Certifications  Certifications are the best place to start, as they provide a quick shortcut for building trust. There's no shortage of professional certifications available, but one of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

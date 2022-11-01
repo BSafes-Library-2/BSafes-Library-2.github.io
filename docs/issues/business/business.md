@@ -8,6 +8,24 @@ nav_order: 900027
 
 ## Business
 ---
+October 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How will Twitter change under Elon Musk?<a href="https://securityaffairs.co/wordpress/137770/social-networks/elon-musk-twitter-change.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybhorus CEO Pierluigi Paganini talks to TRT World about Elon Musk completing his $44 billion deal to buy Twitter and what changes he will make to the social media platform.
+
+
+
+Of course, the first impact will be on the leadership, Elon Musk was critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

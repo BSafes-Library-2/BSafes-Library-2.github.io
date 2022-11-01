@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German BKA arrested the alleged operator of Deutschland im Deep Web darknet market<a href="https://securityaffairs.co/wordpress/137814/cyber-crime/deutschland-im-deep-web-didw-arrest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German police arrested a student that is suspected of being the administrator of 'Deutschland im Deep Web' (DiDW) darknet marketplace.
+
+
+
+Germany's Federal Criminal Police Office (BKA) has arrested a student (22) in Bavaria, who is suspected of being...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

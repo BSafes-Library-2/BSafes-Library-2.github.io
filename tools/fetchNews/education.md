@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Made Simple in New Guidebook For Lean Teams<a href="https://thehackernews.com/2022/10/cloud-security-made-simple-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing was the lifeline that kept many companies running during the pandemic. But it was a classic case of medicine that comes with&nbsp; serious &nbsp;side effects.&nbsp;  Having anywhere, anytime access to data and apps gives companies tremendous flexibility in a fast-changing world, plus the means to scale and customize IT at will. The cloud is an asset or upgrade in almost every way.  With one glaring exception: cybersecurity.&nbsp;  The cloud promised to make companies more secure and security more straightforward. Yet over the same time period that the cloud took over computing, cyber attacks grew steadily worse while security teams felt increasingly overwhelmed.&nbsp;  Why?&nbsp;  We will explain shortly. For lean security teams, the more important question is how to make cloud security work, especially as the cloud footprint grows (a lot) faster than security resources. Will the cloud always cast a shadow on cybersecurity?  Not with the strategy outlined in a free ebook from Cynet called " Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Implementing Defense in Depth to Prevent and Mitigate Cyber Attacks<a href="https://thehackernews.com/2022/10/implementing-defense-in-depth-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increased use of information technology in our everyday life and business has led to cyber-attacks becoming more sophisticated and large-scale. For organizations to thrive in this era of technology, they must develop robust security strategies to detect and mitigate attacks. Defense in depth is a strategy in which companies use multiple layers of security measures to safeguard assets. A well-implemented defense in depth can help organizations prevent and mitigate ongoing attacks.&nbsp;  Defense in depth uses various cutting-edge security tools to safeguard a business's endpoints, data, applications, and networks. The objective is to prevent cyber threats, but a robust defense-in-depth approach also thwarts ongoing attacks and prevents further damage.  How organizations can implement defense in depth  The image above shows the various layers of security that organizations must implement. Below we describe ideas that companies should consider for each layer.  Governance and risk mana
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

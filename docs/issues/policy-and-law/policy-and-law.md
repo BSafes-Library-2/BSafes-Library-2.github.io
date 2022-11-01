@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chegg sued by FTC after suffering four data breaches within 3 years<a href="https://www.bleepingcomputer.com/news/security/chegg-sued-by-ftc-after-suffering-four-data-breaches-within-3-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S.&nbsp;Federal Trade Commission (FTC) has sued&nbsp;education technology company Chegg&nbsp;after it exposed the sensitive information of tens of millions of customers and employees in four data breaches suffered since 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

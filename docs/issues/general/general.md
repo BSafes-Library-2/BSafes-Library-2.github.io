@@ -8,6 +8,56 @@ nav_order: 900072
 
 ## General
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kids today are 'overly confident' about their skills online—losing $101.4 million to hackers last year<a href="https://www.cnbc.com/2022/10/26/kids-lose-millions-online-to-hackers-social-catfish-report-fbi-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+People under the age of 20 lost $101.4 million to online scams in 2021 as compared to just $8.3 million in 2017, according to a recent study from cybersecurity startup Social Catfish, which cited figures from the FBI’s Internet Crime Report.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bosses say they're serious about cybersecurity. It's time for them to prove it<a href="https://www.zdnet.com/article/bosses-say-theyre-serious-about-cybersecurity-its-time-for-them-to-prove-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the post-pandemic tech boom has been a blessing for tech-savvy professionals with a knack for anything software related, it has also left companies more exposed than ever to the dangers lurking in cyberspace.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 391<a href="https://securityaffairs.co/wordpress/137789/breaking-news/security-affairs-newsletter-round-391.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+Twilio...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

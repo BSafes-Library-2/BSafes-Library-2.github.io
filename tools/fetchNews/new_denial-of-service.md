@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fodcha DDoS Botnet Resurfaces with New Capabilities<a href="https://thehackernews.com/2022/10/fodcha-ddos-botnet-resurfaces-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Fodcha distributed denial-of-service (DDoS) botnet has resurfaced with new capabilities, researchers reveal.  This includes changes to its communication protocol and the ability to extort cryptocurrency payments in exchange for stopping the DDoS attack against a target, Qihoo 360's Network Security Research Lab&nbsp; said &nbsp;in a report published last week.  Fodcha&nbsp; first came to light &nbsp;earlier this April, with the malware propagating through known vulnerabilities in Android and IoT devices as well as weak Telnet or SSH passwords.   The cybersecurity company said that Fodcha has evolved into a large-scale botnet with over 60,000 active nodes and 40 command-and-control (C2) domains that can "easily generate more than 1 Tbps traffic."  Peak activity is said to have occurred on October 11, 2022, when the malware targeted 1,396 devices in a single day.  The top countries singled out by the botnet since late June 2022 comprises China, the U.S., Singapore,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

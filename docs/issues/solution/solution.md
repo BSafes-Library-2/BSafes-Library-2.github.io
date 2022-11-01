@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New open-source tool scans public AWS S3 buckets for secrets<a href="https://www.bleepingcomputer.com/news/security/new-open-source-tool-scans-public-aws-s3-buckets-for-secrets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new open-source 'S3crets Scanner'&nbsp;scanner allows researchers and red-teamers to search for 'secrets' mistakenly stored in publicly exposed or company's Amazon AWS S3 storage buckets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

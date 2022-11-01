@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Student arrested for running one of Germany’s largest dark web markets<a href="https://www.bleepingcomputer.com/news/security/student-arrested-for-running-one-of-germany-s-largest-dark-web-markets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Criminal Police Office (BKA) in Germany have arrested a 22-year-old student in Bavaria, who is suspected of being the administrator of 'Deutschland im Deep Web' (DiDW) 3, one of the largest darknet markets in the country.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin Operators Selling Cybercriminals Access to Thousands of Endpoints<a href="https://thehackernews.com/2022/10/raspberry-robin-operators-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raspberry Robin  worm is becoming an access-as-a-service malware for deploying other payloads, including&nbsp; IcedID ,&nbsp; Bumblebee ,&nbsp; TrueBot &nbsp;(aka Silence), and&nbsp; Clop ransomware .  It is "part of a complex and interconnected malware ecosystem, with links to other malware families and alternate infection methods beyond its original USB drive spread," the Microsoft Security Threat Intelligence Center (MSTIC)&nbsp; said &nbsp;in a detailed write-up.  Raspberry Robin , also called QNAP Worm owing to the use of compromised QNAP storage servers for command-and-control, is the name given to a malware by cybersecurity company Red Canary that spreads to Windows systems through infected USB drives.  MSTIC is keeping tabs on the activity group behind the USB-based Raspberry Robin infections as&nbsp; DEV-0856 , adding it's aware of at least four confirmed entry points that all have the likely end goal of deploying ransomware.   The tech giant's cybersecurity team said that Raspberry Robin has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

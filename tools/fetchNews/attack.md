@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Systems at Polish, Slovak Parliaments Hit by Cyberattacks<a href="https://www.securityweek.com/slovak-polish-parliaments-hit-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The attack was multi-directional, including from inside the Russian Federation," the Polish Senate said in a statement. The Slovak parliament's deputy speaker Gabor Grendel told AFP: that "Parliament's entire computer network has been paralysed".
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

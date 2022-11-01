@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - October 28th 2022 - Healthcare leaks<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-28th-2022-healthcare-leaks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, we learned of healthcare data leaks out of Australia, information about existing attacks, and reports on how ransomware gangs operate and partner with malware developers for initial access.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

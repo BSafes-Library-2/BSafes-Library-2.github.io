@@ -8,6 +8,112 @@ nav_order: 900029
 
 ## Breach
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Label Printing Giant Multi-Color Corporation Discloses Data Breach<a href="https://www.securityweek.com/label-giant-multi-color-corporation-discloses-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation launched into the incident has revealed that sensitive HR data might have been compromised, including “personnel files and information on enrollment in our benefits programs”.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers selling access to 576 corporate networks for $4 million<a href="https://www.bleepingcomputer.com/news/security/hackers-selling-access-to-576-corporate-networks-for-4-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report shows that hackers are selling access to 576 corporate networks worldwide for a total cumulative sales price of $4,000,000, fueling attacks on the enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air New Zealand Faces Cybersecurity Breach, Multiple Accounts Compromised<a href="https://www.stuff.co.nz/business/130310228/air-nz-faces-cyber-breach-multiple-accounts-compromised?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was an instance of “credential stuffing”, in which scammers used email and password information stolen from another online source to hack into Air NZ Airpoints accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Stuff NZ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former British Prime Minister Liz Truss ‘s phone was allegedly hacked by Russian spies<a href="https://securityaffairs.co/wordpress/137826/intelligence/liz-truss-phone-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Daily Mail, Former British Prime Minister Liz Truss 's personal phone was hacked by Russian spies. 
+
+
+
+The personal mobile phone of British Prime Minister Liz Truss was hacked by cyber spies suspected of working for the Kremlin, the Daily...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bed Bath &amp; Beyond reviewing possible data breach<a href="https://finance.yahoo.com/news/bed-bath-beyond-reviewing-possible-125236580.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bed Bath &amp; Beyond said that it has no reason to believe that any sensitive or personally identifiable information was accessed and this cybersecurity incident would likely not have a material impact on the company.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio Reveals Another Breach from the Same Hackers Behind the August Hack<a href="https://thehackernews.com/2022/10/twilio-reveals-another-breach-from-same.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Communication services provider Twilio this week disclosed that it experienced another "brief security incident" in June 2022 perpetrated by the same threat actor behind the&nbsp; August hack &nbsp;that resulted in unauthorized access of customer information.  The security event occurred on June 29, 2022, the company said in an updated advisory shared this week, as part of its probe into the digital break-in.  "In the June incident, a Twilio employee was socially engineered through voice phishing (or 'vishing') to provide their credentials, and the malicious actor was able to access customer contact information for a limited number of customers," Twilio&nbsp; said .   It further said the access gained following the successful attack was identified and thwarted within 12 hours, and that it had alerted impacted customers on July 2, 2022.  The San Francisco-based firm did not reveal the exact number of customers impacted by the June incident, and why the disclosure was made
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twilio discloses another security incident that took place in June<a href="https://securityaffairs.co/wordpress/137782/data-breach/twilio-new-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twilio&nbsp;suffered another brief security incident in June 2022, the attack was conducted by the same threat actor of the&nbsp;August hack.
+
+
+
+The Communications company Twilio announced that it suffered another "brief security incident" on June 29, 2022,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

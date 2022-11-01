@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LinkedIn Phishing Campaign Bypasses Google Protection<a href="https://cyware.com/news/new-linkedin-phishing-campaign-bypasses-google-protection-de6f6752"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing campaign targeted 500 mailboxes of employees from a national travel organization. The email comes with the subject line - "We noticed some unusual activity" - pretending to be from LinkedIn.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
