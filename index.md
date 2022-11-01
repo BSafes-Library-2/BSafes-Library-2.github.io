@@ -37,6 +37,378 @@ BSafes library includes mobile-friendly cybersecurity publications.
 October 31, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Firefox fixes freezes caused by new Windows 11 feature<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-fixes-freezes-caused-by-new-windows-11-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has fixed a known issue causing the Firefox web browser to freeze when copying text on Windows 11 devices where the Suggested Actions clipboard feature is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Label Printing Giant Multi-Color Corporation Discloses Data Breach<a href="https://www.securityweek.com/label-giant-multi-color-corporation-discloses-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation launched into the incident has revealed that sensitive HR data might have been compromised, including “personnel files and information on enrollment in our benefits programs”.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fodcha DDoS Botnet Resurfaces with New Capabilities<a href="https://thehackernews.com/2022/10/fodcha-ddos-botnet-resurfaces-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the Fodcha distributed denial-of-service (DDoS) botnet has resurfaced with new capabilities, researchers reveal.  This includes changes to its communication protocol and the ability to extort cryptocurrency payments in exchange for stopping the DDoS attack against a target, Qihoo 360's Network Security Research Lab  said  in a report published last week.  Fodcha  first came to light  earlier this April, with the malware propagating through known vulnerabilities in Android and IoT devices as well as weak Telnet or SSH passwords.   The cybersecurity company said that Fodcha has evolved into a large-scale botnet with over 60,000 active nodes and 40 command-and-control (C2) domains that can "easily generate more than 1 Tbps traffic."  Peak activity is said to have occurred on October 11, 2022, when the malware targeted 1,396 devices in a single day.  The top countries singled out by the botnet since late June 2022 comprises China, the U.S., Singapore,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of the public availability of CVE-2021-39144 exploit code<a href="https://securityaffairs.co/wordpress/137912/security/vmware-cve-2021-39144-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warned of the availability of a public exploit for a recently addressed critical remote code execution flaw in NSX Data Center for vSphere (NSX-V).
+
+
+
+VMware warned of the existence of a public exploit targeting a recently addressed critical remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers selling access to 576 corporate networks for $4 million<a href="https://www.bleepingcomputer.com/news/security/hackers-selling-access-to-576-corporate-networks-for-4-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report shows that hackers are selling access to 576 corporate networks worldwide for a total cumulative sales price of $4,000,000, fueling attacks on the enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Trojan Techniques: How Financially Motivated Malware Became Infrastructure<a href="https://unit42.paloaltonetworks.com/banking-trojan-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While APTs get the most breathless coverage in the news, many threat actors have money on their mind rather than espionage. You can learn a lot about the innovations used by these financially motivated groups by watching banking Trojans.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tips for Choosing a Pentesting Company<a href="https://thehackernews.com/2022/10/tips-for-choosing-pentesting-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's world of automated hacking systems, frequent data breaches and consumer protection regulations such as GDPR and PCI DSS, penetration testing is now an essential security requirement for organisations of all sizes. But what should you look for when choosing the right provider?  The sheer number of providers can be daunting, and finding one which can deliver a high-quality test at a reasonable price is not easy. How do you know if they're any good? What level of security expertise was included in the report? Is your application secure, or did the supplier simply not find the weaknesses?  There are no easy answers, but you can make it easier by asking the right questions up front. The most important considerations fall into three categories: certifications, experience, and price.  Certifications  Certifications are the best place to start, as they provide a quick shortcut for building trust. There's no shortage of professional certifications available, but one of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited Windows Mark-of-the-Web zero-day received an unofficial patch<a href="https://securityaffairs.co/wordpress/137900/hacking/mark-of-the-web-bypass-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial patch for an actively exploited flaw in Microsoft Windows that allows to bypass Mark-of-the-Web (MotW) protections.
+
+
+
+0patch released an unofficial patch to address an actively exploited security vulnerability in Microsoft Windows that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chegg sued by FTC after suffering four data breaches within 3 years<a href="https://www.bleepingcomputer.com/news/security/chegg-sued-by-ftc-after-suffering-four-data-breaches-within-3-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) has sued education technology company Chegg after it exposed the sensitive information of tens of millions of customers and employees in four data breaches suffered since 2017.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Australian Defense Contractor May Expose Private Communications Between ADF Members<a href="https://www.theguardian.com/technology/2022/oct/31/cyber-attack-on-australian-defence-contractor-may-have-exposed-private-communications-between-adf-members?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack may have resulted in data related to private communications between current and former Australian defense force members being compromised, with as many as 40,000 records at risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unofficial Patch Released for New Actively Exploited Windows MotW Vulnerability<a href="https://thehackernews.com/2022/10/unofficial-patch-released-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial patch has been made available for an actively exploited security flaw in Microsoft Windows that makes it possible for files signed with malformed signatures to sneak past Mark-of-the-Web ( MotW ) protections.  The fix,  released  by 0patch, arrives weeks after HP Wolf Security  disclosed  a Magniber ransomware campaign that targets users with fake security updates which employ a JavaScript file to proliferate the file-encrypting malware.   While files downloaded from the internet in Windows are tagged with a MotW flag to prevent unauthorized actions, it has since been found that corrupt Authenticode signatures can be used to allow the execution of arbitrary executables without any  SmartScreen warning .  Authenticode  is a Microsoft code-signing technology that authenticates the identity of the publisher of a particular piece of software and verifies whether the software was tampered with after it was signed and published.  "The [JavaScript] file actually has the Mo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wannacry, the hybrid malware that brought the world to its knees<a href="https://securityaffairs.co/wordpress/137894/cyber-crime/wannacry-hybrid-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reflecting on the Wannacry ransomware attack, which is the lesson learnt e why most organizations are still ignoring it.
+
+
+
+In the early afternoon of Friday 12 May 2017, the media broke the news of a global computer security attack carried out through...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA shares supply chain security tips for software suppliers<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-supply-chain-security-tips-for-software-suppliers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NSA, CISA, and the Office of the Director of National Intelligence (ODNI) have shared a new set of suggested practices that software suppliers (vendors) can follow to secure the supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air New Zealand Faces Cybersecurity Breach, Multiple Accounts Compromised<a href="https://www.stuff.co.nz/business/130310228/air-nz-faces-cyber-breach-multiple-accounts-compromised?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was an instance of “credential stuffing”, in which scammers used email and password information stolen from another online source to hack into Air NZ Airpoints accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Stuff NZ
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy Store Bug Could've Let Hackers Secretly Install Apps on Targeted Devices<a href="https://thehackernews.com/2022/10/samsung-galaxy-store-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw has been disclosed in the Galaxy Store app for Samsung devices that could potentially trigger remote command execution on affected phones.  The vulnerability, which affects Galaxy Store version 4.5.32.4, relates to a cross-site scripting (XSS) bug that occurs when handling certain  deep links . An independent security researcher has been credited with reporting the issue.  "Here, by not checking the deep link securely, when a user accesses a link from a website containing the deeplink, the attacker can execute JS code in the webview context of the Galaxy Store application," SSD Secure Disclosure  said  in an advisory posted last week.   XSS attacks  allow an adversary to inject and execute malicious JavaScript code when visiting a website from a browser or another application.   The issue identified in the Galaxy Store app has to do with how deep links are configured for Samsung's Marketing & Content Service ( MCS ), potentially leading to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch group claims to have hacked military provider HENSOLDT France<a href="https://securityaffairs.co/wordpress/137886/cyber-crime/snatch-hensoldt-france-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Snatch ransomware group claims to have hacked HENSOLDT France, a company specializing in military and defense electronics.
+
+
+
+The Snatch ransomware group claims to have hacked the French company HENSOLDT France. HENSOLDT is a company specializing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking group abuses antivirus software to launch LODEINFO malware<a href="https://www.bleepingcomputer.com/news/security/hacking-group-abuses-antivirus-software-to-launch-lodeinfo-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese Cicada hacking group, tracked as APT10, was observed abusing security software to install a new version of the LODEINFO malware against Japanese organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kids today are 'overly confident' about their skills online—losing $101.4 million to hackers last year<a href="https://www.cnbc.com/2022/10/26/kids-lose-millions-online-to-hackers-social-catfish-report-fbi-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+People under the age of 20 lost $101.4 million to online scams in 2021 as compared to just $8.3 million in 2017, according to a recent study from cybersecurity startup Social Catfish, which cited figures from the FBI’s Internet Crime Report.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Repojacking Bug Could've Allowed Attackers to Takeover Other Users' Repositories<a href="https://thehackernews.com/2022/10/github-repojacking-bug-couldve-allowed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub has addressed a high-severity security flaw that could have been exploited to create malicious repositories and mount supply chain attacks.  The RepoJacking  technique,  disclosed  by Checkmarx, entails a bypass of a protection mechanism called  popular repository namespace retirement , which aims to prevent developers from pulling unsafe repositories with the same name.  The issue was addressed by the Microsoft-owned subsidiary on September 19, 2022 following responsible disclosure.   RepoJacking  occurs  when a creator of a repository opts to change the username, potentially enabling a threat actor to claim the old username and publish a rogue repository with the same name in an attempt to trick users into downloading them.   While Microsoft's countermeasure "retire[s] the namespace of any open source project that had more than 100 clones in the week leading up to the owner's account being renamed or deleted," Checkmarx
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub flaw could have allowed attackers to takeover repositories of other users<a href="https://securityaffairs.co/wordpress/137866/hacking/github-flaw-repojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in the cloud-based repository hosting service GitHub could've allowed attackers to takeover other repositories.
+
+
+
+The cloud-based repository hosting service GitHub has addressed a vulnerability that could have been exploited by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indianapolis Low-Income Housing Agency Hit by Ransomware Attack<a href="https://www.securityweek.com/indianapolis-low-income-housing-agency-hit-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack delayed the Indianapolis Housing Agency’s ability to send out October rent payments to landlords for the federal housing choice voucher program, also known as Section 8, which 8,000 Indianapolis families depend on.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bosses say they're serious about cybersecurity. It's time for them to prove it<a href="https://www.zdnet.com/article/bosses-say-theyre-serious-about-cybersecurity-its-time-for-them-to-prove-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the post-pandemic tech boom has been a blessing for tech-savvy professionals with a knack for anything software related, it has also left companies more exposed than ever to the dangers lurking in cyberspace.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Malicious dropper apps on Play Store totaled 30.000+ installations<a href="https://securityaffairs.co/wordpress/137847/cyber-crime/malicious-dropper-apps-play-store.html"> Full Text</a>
 </p>
 <details>
