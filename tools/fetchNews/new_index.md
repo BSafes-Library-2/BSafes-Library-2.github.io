@@ -34,6 +34,390 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox discloses breach after hacker stole 130 GitHub repositories<a href="https://www.bleepingcomputer.com/news/security/dropbox-discloses-breach-after-hacker-stole-130-github-repositories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dropbox disclosed a security breach after threat actors stole 130 code repositories after gaining access to one of its GitHub accounts using employee credentials stolen in a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cranefly Group Abuses Legitimate IIS Logs To Deliver New Malware<a href="https://cyware.com/news/cranefly-group-abuses-legitimate-iis-logs-to-deliver-new-malware-ee135023"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cranefly hacker group was spotted leveraging Microsoft IIS to deploy a previously undocumented dropper, named Danfuan, on security tools such as load balancers and SANS arrays. With new custom tools and evasive techniques, Cranefly is maintaining a foothold on compromised servers and focusing o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Releases Patch for 2 New High-Severity Vulnerabilities<a href="https://thehackernews.com/2022/11/just-in-openssl-releases-patch-for-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL project has rolled out fixes to contain two high-severity flaws in its widely used cryptography library that could result in a denial-of-service (DoS) and remote code execution.  The issues, tracked as  CVE-2022-3602 and CVE-2022-3786 , have been described as buffer overrun vulnerabilities that can be triggered during X.509 certificate verification by supplying a specially-crafted email address.  "In a TLS client, this can be triggered by connecting to a malicious server," OpenSSL said in an advisory for CVE-2022-3786. "In a TLS server, this can be triggered if the server requests client authentication and a malicious client connects."   OpenSSL is an  open source implementation  of the SSL and TLS protocols used for secure communication and is baked into several operating systems and a wide range of software.  Versions 3.0.0 through 3.0.6 of the library are affected by the new flaws, which has been remediated in version 3.0.7. It's worth noting tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 gang claims to have stolen data from Thales<a href="https://securityaffairs.co/wordpress/137955/cyber-crime/lockbit-3-0-thales.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group LockBit 3.0 claimed to have stolen data from the French defence and technology group Thales.
+
+
+
+Thales is a global high-tech leader with more than 81,000 employees worldwide. The Group invests in digital and deep tech innovations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Android apps with 1M+ installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-1m-plus-installs-found-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of four malicious applications currently available in Google Play, the official store for the Android system, are directing users sites that steal sensitive information or generate 'pay-per-click' revenue for the operators.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azov Ransomware - New Data Wiper Frames Security Researchers<a href="https://cyware.com/news/azov-ransomware-new-data-wiper-frames-security-researchers-aae3fad3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data wiper strain, dubbed Azov Ransomware, has debuted recently. It is being distributed through pirated software, key generators, and adware bundles. In the ongoing campaign, the wiper operators try to frame some renowned security groups and researchers. The wiper appears to have borrowed it ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Details of Critical 'CosMiss' RCE Flaw Affecting Azure Cosmos DB<a href="https://thehackernews.com/2022/11/researchers-disclose-details-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday said it addressed an authentication bypass vulnerability in  Jupyter Notebooks  for Azure Cosmos DB that enabled full read and write access.  The tech giant said the problem was introduced on August 12, 2022, and rectified worldwide on October 6, 2022, two days after responsible disclosure from Orca Security, which dubbed the flaw  CosMiss .  "In short, if an attacker had knowledge of a Notebook's 'forwardingId,' which is the UUID of the Notebook Workspace, they would have had full permissions on the Notebook without having to authenticate, including read and write access, and the ability to modify the file system of the container running the notebook," researchers Lidor Ben Shitrit and Roee Sagi said.   This container modification could ultimately pave the way for obtaining remote code execution in the Notebook container by overwriting a Python file associated with the  Cosmos DB Explorer  to spawn a reverse shell.   Successful exploitation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of critical RCE in ConnectWise Server Backup Solution<a href="https://securityaffairs.co/wordpress/137946/uncategorized/connectwise-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has addressed a critical remote code execution vulnerability impacting Recover and R1Soft Server Backup Manager (SBM).
+
+
+
+According to the advisory published by ConnectWise, the vulnerability is an Improper Neutralization of Special Elements...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixes two high severity vulnerabilities, what you need to know<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-two-high-severity-vulnerabilities-what-you-need-to-know/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project has patched two high-severity security flaws in its open-source cryptographic library used to encrypt communication channels and HTTPS connections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Not enough ransomware victims are reporting attacks, and that's a problem for everyone<a href="https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware continues to be a significant cyber threat to businesses and the general public - but it's difficult to know the true impact of attacks because many victims aren't coming forward to report them.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using New Stealthy Infection Chain to Deploy LODEINFO Malware<a href="https://thehackernews.com/2022/11/chinese-hackers-using-new-stealthy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese state-sponsored threat actor known as Stone Panda  has been observed employing a new stealthy infection chain in its attacks aimed at Japanese entities.  Targets include media, diplomatic, governmental and public sector organizations and think-tanks in Japan, according to  twin   reports  published by Kaspersky.  Stone Panda , also called  APT10 , Bronze Riverside, Cicada, and Potassium, is a cyber  espionage group  known for its intrusions against organizations identified as strategically significant to China. The threat actor is believed to have been active since at least 2009.   The latest set of attacks, observed between March and June 2022, involve the use of a bogus Microsoft Word file and a self-extracting archive ( SFX ) file in RAR format propagated via spear-phishing emails, leading to the execution of a backdoor called LODEINFO.  While the maldoc requires users to enable macros to activate the killchain, the June 2022 campaign was found to drop this method in fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware activity and network access sales in Q3 2022<a href="https://securityaffairs.co/wordpress/137929/cyber-crime/ransomware-activity-q3-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware activity report: Threat actors are selling access to hundreds of organizations, with a cumulative requested price of around $4M.
+
+
+
+Research published by threat intelligence firm KELA related to ransomware activity in Q3 reveals a stable activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SandStrike spyware infects Android devices via malicious VPN app<a href="https://www.bleepingcomputer.com/news/security/new-sandstrike-spyware-infects-android-devices-via-malicious-vpn-app/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using a newly discovered spyware known as SandStrike and delivered via a malicious VPN application to target Persian-speaking Android users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Fodcha DDoS Botnet Adds Extortion Feature to its Arsenal<a href="https://cyware.com/news/the-new-fodcha-ddos-botnet-adds-extortion-feature-to-its-arsenal-1fc260ad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Fodcha DDoS botnet delivers ransom demands directly within DDoS packets used against victims’ networks, revealed Netlab 360. The latest Fodcha version 4 now uses encryption to establish communication with the C2 server and relies on 42 C2 domains to operate 60,000 active bot no ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Years Open Source - Tomorrow's Vulnerabilities<a href="https://thehackernews.com/2022/11/last-years-open-source-tomorrows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linus Torvalds, the creator of Linux and Git, has his own law in software development, and it goes like this: " given enough eyeballs, all bugs are shallow ." This phrase puts the finger on the very principle of open source: the more, the merrier - if the code is easily available for anyone and everyone to fix bugs, it's pretty safe. But is it? Or is the saying "all bugs are shallow" only true for  shallow  bugs and not ones that lie deeper? It turns out that security flaws in open source can be harder to find than we thought. Emil Wåreus, Head of R&D at  Debricked , took it upon himself to look deeper into the community's performance. As the data scientist he is, he, of course, asked the data:  how good is the open source community at finding vulnerabilities in a timely manner ?  The thrill of the (vulnerability) hunt  Finding open source vulnerabilities is typically done by the maintainers of the open source project, users, auditors, or external secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy Store flaw could have allowed installing malicious apps on target devices<a href="https://securityaffairs.co/wordpress/137922/mobile-2/samsung-galaxy-store-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in the Galaxy Store app for Samsung devices could have potentially allowed remote command execution on affected phones.
+
+
+
+A now-patched vulnerability in the Galaxy Store app for Samsung devices could have potentially triggered remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Regex to Implement Passphrases in Your Active Directory<a href="https://www.bleepingcomputer.com/news/microsoft/using-regex-to-implement-passphrases-in-your-active-directory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passphrases provide a superior type of password for authentication as they allow you to create strong passwords you can remember. Furthermore, you can use regex (regular expression) to effectively help develop solid passphrases and ensure these do not contain weak elements. Let's see how.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mondelez and Zurich reach settlement in NotPetya cyberattack insurance suit<a href="https://therecord.media/mondelez-and-zurich-reach-settlement-in-notpetya-cyberattack-insurance-suit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mondelez International and Zurich American Insurance reached a settlement late last week in their multi-year legal battle over the food company’s $100 million claim regarding damage from the NotPetya cyberattack in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Reported in ConnectWise Server Backup Solution<a href="https://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT service management software platform ConnectWise has released Software patches for a critical security vulnerability in Recover and R1Soft Server Backup Manager (SBM).  The issue,  characterized  as a "neutralization of Special Elements in Output Used by a Downstream Component," could be abused to result in the execution of remote code or disclosure of sensitive information.  ConnectWise's advisory notes that the flaw affects Recover v2.9.7 and earlier, as well as R1Soft SBM v6.16.3 and earlier, are impacted by the critical flaw.   At its core, the issue is tied to an upstream authentication bypass vulnerability in the ZK open source Ajax web application framework ( CVE-2022-36537 ), which was initially patched in May 2022.   "Affected ConnectWise Recover SBMs have automatically been updated to the latest version of Recover (v2.9.9)," the company  said , urging customers to upgrade to  SBM v6.16.4  shipped on October 28, 2022.   Cybersecurity firm Huntress
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical RCE flaw affecting Azure Cosmos DB<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-critical-rce-flaw-affecting-azure-cosmos-db/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts at Orca Security have found a critical vulnerability affecting Azure Cosmos DB that allowed unauthenticated read and write access to containers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch Ransomware Group Claims to Have Hacked Military Technology Provider HENSOLDT France<a href="https://securityaffairs.co/wordpress/137886/cyber-crime/snatch-hensoldt-france-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Snatch ransomware group added HENSOLDT France to the list of victims published on its Tor leak site. The group has published a sample of the stolen data (94 MB) as proof of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google ad for GIMP.org served info-stealing malware via lookalike site<a href="https://www.bleepingcomputer.com/news/security/google-ad-for-gimporg-served-info-stealing-malware-via-lookalike-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Searching for 'GIMP' on Google as recently as last week would show visitors an ad for 'GIMP.org,' the official website of the well known graphics editor, GNU Image Manipulation Program. But clicking on it drove visitors to a lookalike phishing website that provided them with a 700 MB executable disguised as GIMP which was malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian tool exposed partial Social Security numbers, putting customers at risk<a href="https://www.cyberscoop.com/experian-kbv-ssn-nist-identity-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Experian product that allows organizations to verify customers’ identity could be exploited to expose partial Social Security numbers, a researcher found through testing several organizations that use the product.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 31, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
