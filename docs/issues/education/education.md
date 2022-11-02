@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Regex to Implement Passphrases in Your Active Directory<a href="https://www.bleepingcomputer.com/news/microsoft/using-regex-to-implement-passphrases-in-your-active-directory/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passphrases provide a superior type of password for authentication as they allow you to create strong passwords you can remember. Furthermore, you can use regex (regular expression) to effectively help develop solid passphrases and ensure these do not contain weak elements. Let's see how.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

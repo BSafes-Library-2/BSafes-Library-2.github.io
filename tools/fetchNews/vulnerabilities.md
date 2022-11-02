@@ -8,6 +8,130 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Firefox fixes freezes caused by new Windows 11 feature<a href="https://www.bleepingcomputer.com/news/security/mozilla-firefox-fixes-freezes-caused-by-new-windows-11-feature/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has fixed a known issue causing the Firefox web browser to freeze when copying text on Windows 11 devices where the&nbsp;Suggested Actions clipboard feature is enabled.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of the public availability of CVE-2021-39144 exploit code<a href="https://securityaffairs.co/wordpress/137912/security/vmware-cve-2021-39144-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warned of the availability of a public exploit for a recently addressed critical remote code execution flaw in NSX Data Center for vSphere (NSX-V).
+
+
+
+VMware warned of the existence of a public exploit targeting a recently addressed critical remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited Windows Mark-of-the-Web zero-day received an unofficial patch<a href="https://securityaffairs.co/wordpress/137900/hacking/mark-of-the-web-bypass-0day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial patch for an actively exploited flaw in Microsoft Windows that allows to bypass Mark-of-the-Web (MotW) protections.
+
+
+
+0patch released an unofficial patch to address an actively exploited security vulnerability in Microsoft Windows that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unofficial Patch Released for New Actively Exploited Windows MotW Vulnerability<a href="https://thehackernews.com/2022/10/unofficial-patch-released-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unofficial patch has been made available for an actively exploited security flaw in Microsoft Windows that makes it possible for files signed with malformed signatures to sneak past Mark-of-the-Web ( MotW ) protections.  The fix,&nbsp; released &nbsp;by 0patch, arrives weeks after HP Wolf Security&nbsp; disclosed &nbsp;a Magniber ransomware campaign that targets users with fake security updates which employ a JavaScript file to proliferate the file-encrypting malware.   While files downloaded from the internet in Windows are tagged with a MotW flag to prevent unauthorized actions, it has since been found that corrupt Authenticode signatures can be used to allow the execution of arbitrary executables without any&nbsp; SmartScreen warning .  Authenticode &nbsp;is a Microsoft code-signing technology that authenticates the identity of the publisher of a particular piece of software and verifies whether the software was tampered with after it was signed and published.  "The [JavaScript] file actually has the Mo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy Store Bug Could've Let Hackers Secretly Install Apps on Targeted Devices<a href="https://thehackernews.com/2022/10/samsung-galaxy-store-bug-couldve-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw has been disclosed in the Galaxy Store app for Samsung devices that could potentially trigger remote command execution on affected phones.  The vulnerability, which affects Galaxy Store version 4.5.32.4, relates to a cross-site scripting (XSS) bug that occurs when handling certain&nbsp; deep links . An independent security researcher has been credited with reporting the issue.  "Here, by not checking the deep link securely, when a user accesses a link from a website containing the deeplink, the attacker can execute JS code in the webview context of the Galaxy Store application," SSD Secure Disclosure&nbsp; said &nbsp;in an advisory posted last week.   XSS attacks &nbsp;allow an adversary to inject and execute malicious JavaScript code when visiting a website from a browser or another application.   The issue identified in the Galaxy Store app has to do with how deep links are configured for Samsung's Marketing &amp; Content Service ( MCS ), potentially leading to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Repojacking Bug Could've Allowed Attackers to Takeover Other Users' Repositories<a href="https://thehackernews.com/2022/10/github-repojacking-bug-couldve-allowed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub has addressed a high-severity security flaw that could have been exploited to create malicious repositories and mount supply chain attacks.  The RepoJacking  technique,&nbsp; disclosed &nbsp;by Checkmarx, entails a bypass of a protection mechanism called&nbsp; popular repository namespace retirement , which aims to prevent developers from pulling unsafe repositories with the same name.  The issue was addressed by the Microsoft-owned subsidiary on September 19, 2022 following responsible disclosure.   RepoJacking&nbsp; occurs &nbsp;when a creator of a repository opts to change the username, potentially enabling a threat actor to claim the old username and publish a rogue repository with the same name in an attempt to trick users into downloading them.   While Microsoft's countermeasure "retire[s] the namespace of any open source project that had more than 100 clones in the week leading up to the owner's account being renamed or deleted," Checkmarx
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub flaw could have allowed attackers to takeover repositories of other users<a href="https://securityaffairs.co/wordpress/137866/hacking/github-flaw-repojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in the cloud-based repository hosting service GitHub could've allowed attackers to takeover other repositories.
+
+
+
+The cloud-based repository hosting service GitHub has addressed a vulnerability that could have been exploited by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively exploited Windows MoTW zero-day gets unofficial patch<a href="https://www.bleepingcomputer.com/news/microsoft/actively-exploited-windows-motw-zero-day-gets-unofficial-patch/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A free unofficial patch has been released for an actively exploited zero-day that allows files signed with malformed signatures to bypass Mark-of-the-Web security warnings in Windows 10 and Windows 11.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

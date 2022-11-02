@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Not enough ransomware victims are reporting attacks, and that's a problem for everyone<a href="https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware continues to be a significant cyber threat to businesses and the general public - but it's difficult to know the true impact of attacks because many victims aren't coming forward to report them.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware activity and network access sales in Q3 2022<a href="https://securityaffairs.co/wordpress/137929/cyber-crime/ransomware-activity-q3-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware activity report: Threat actors are selling access to hundreds of organizations, with a cumulative requested price of around $4M.
+
+
+
+Research published by threat intelligence firm KELA related to ransomware activity in Q3 reveals a stable activity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

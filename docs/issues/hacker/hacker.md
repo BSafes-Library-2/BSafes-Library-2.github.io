@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cranefly Group Abuses Legitimate IIS Logs To Deliver New Malware<a href="https://cyware.com/news/cranefly-group-abuses-legitimate-iis-logs-to-deliver-new-malware-ee135023"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cranefly hacker group was spotted leveraging Microsoft IIS to deploy a previously undocumented dropper, named Danfuan, on security tools such as load balancers and SANS arrays. With new custom tools and evasive techniques, Cranefly is maintaining a foothold on compromised servers and focusing o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using New Stealthy Infection Chain to Deploy LODEINFO Malware<a href="https://thehackernews.com/2022/11/chinese-hackers-using-new-stealthy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese state-sponsored threat actor known as Stone Panda  has been observed employing a new stealthy infection chain in its attacks aimed at Japanese entities.  Targets include media, diplomatic, governmental and public sector organizations and think-tanks in Japan, according to&nbsp; twin &nbsp; reports &nbsp;published by Kaspersky.  Stone Panda , also called&nbsp; APT10 , Bronze Riverside, Cicada, and Potassium, is a cyber&nbsp; espionage group &nbsp;known for its intrusions against organizations identified as strategically significant to China. The threat actor is believed to have been active since at least 2009.   The latest set of attacks, observed between March and June 2022, involve the use of a bogus Microsoft Word file and a self-extracting archive ( SFX ) file in RAR format propagated via spear-phishing emails, leading to the execution of a backdoor called LODEINFO.  While the maldoc requires users to enable macros to activate the killchain, the June 2022 campaign was found to drop this method in fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

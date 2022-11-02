@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 gang claims to have stolen data from Thales<a href="https://securityaffairs.co/wordpress/137955/cyber-crime/lockbit-3-0-thales.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group LockBit 3.0 claimed to have stolen data from the French defence and technology group Thales.
+
+
+
+Thales is a global high-tech leader with more than 81,000 employees worldwide. The Group invests in digital and deep tech innovations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

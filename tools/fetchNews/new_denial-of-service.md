@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New Fodcha DDoS Botnet Adds Extortion Feature to its Arsenal<a href="https://cyware.com/news/the-new-fodcha-ddos-botnet-adds-extortion-feature-to-its-arsenal-1fc260ad"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Fodcha DDoS botnet delivers ransom demands directly within DDoS packets used against victims’ networks, revealed Netlab 360. The latest Fodcha version 4 now uses encryption to establish communication with the C2 server and relies on 42 C2 domains to operate 60,000 active bot no ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

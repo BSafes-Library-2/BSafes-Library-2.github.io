@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Releases Patch for 2 New High-Severity Vulnerabilities<a href="https://thehackernews.com/2022/11/just-in-openssl-releases-patch-for-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL project has rolled out fixes to contain two high-severity flaws in its widely used cryptography library that could result in a denial-of-service (DoS) and remote code execution.  The issues, tracked as&nbsp; CVE-2022-3602 and CVE-2022-3786 , have been described as buffer overrun vulnerabilities that can be triggered during X.509 certificate verification by supplying a specially-crafted email address.  "In a TLS client, this can be triggered by connecting to a malicious server," OpenSSL said in an advisory for CVE-2022-3786. "In a TLS server, this can be triggered if the server requests client authentication and a malicious client connects."   OpenSSL is an&nbsp; open source implementation &nbsp;of the SSL and TLS protocols used for secure communication and is baked into several operating systems and a wide range of software.  Versions 3.0.0 through 3.0.6 of the library are affected by the new flaws, which has been remediated in version 3.0.7. It's worth noting tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Details of Critical 'CosMiss' RCE Flaw Affecting Azure Cosmos DB<a href="https://thehackernews.com/2022/11/researchers-disclose-details-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday said it addressed an authentication bypass vulnerability in&nbsp; Jupyter Notebooks &nbsp;for Azure Cosmos DB that enabled full read and write access.  The tech giant said the problem was introduced on August 12, 2022, and rectified worldwide on October 6, 2022, two days after responsible disclosure from Orca Security, which dubbed the flaw&nbsp; CosMiss .  "In short, if an attacker had knowledge of a Notebook's 'forwardingId,' which is the UUID of the Notebook Workspace, they would have had full permissions on the Notebook without having to authenticate, including read and write access, and the ability to modify the file system of the container running the notebook," researchers Lidor Ben Shitrit and Roee Sagi said.   This container modification could ultimately pave the way for obtaining remote code execution in the Notebook container by overwriting a Python file associated with the&nbsp; Cosmos DB Explorer &nbsp;to spawn a reverse shell.   Successful exploitation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of critical RCE in ConnectWise Server Backup Solution<a href="https://securityaffairs.co/wordpress/137946/uncategorized/connectwise-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ConnectWise has addressed a critical remote code execution vulnerability impacting Recover and R1Soft Server Backup Manager (SBM).
+
+
+
+According to the advisory published by ConnectWise, the vulnerability is an Improper Neutralization of Special Elements...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixes two high severity vulnerabilities, what you need to know<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-two-high-severity-vulnerabilities-what-you-need-to-know/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project has patched two high-severity security flaws in its open-source cryptographic library used to encrypt communication channels and HTTPS connections.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Last Years Open Source - Tomorrow's Vulnerabilities<a href="https://thehackernews.com/2022/11/last-years-open-source-tomorrows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linus Torvalds, the creator of Linux and Git, has his own law in software development, and it goes like this: " given enough eyeballs, all bugs are shallow ." This phrase puts the finger on the very principle of open source: the more, the merrier - if the code is easily available for anyone and everyone to fix bugs, it's pretty safe. But is it? Or is the saying "all bugs are shallow" only true for&nbsp; shallow &nbsp;bugs and not ones that lie deeper? It turns out that security flaws in open source can be harder to find than we thought. Emil Wåreus, Head of R&amp;D at&nbsp; Debricked , took it upon himself to look deeper into the community's performance. As the data scientist he is, he, of course, asked the data:&nbsp; how good is the open source community at finding vulnerabilities in a timely manner ?  The thrill of the (vulnerability) hunt  Finding open source vulnerabilities is typically done by the maintainers of the open source project, users, auditors, or external secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy Store flaw could have allowed installing malicious apps on target devices<a href="https://securityaffairs.co/wordpress/137922/mobile-2/samsung-galaxy-store-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in the Galaxy Store app for Samsung devices could have potentially allowed remote command execution on affected phones.
+
+
+
+A now-patched vulnerability in the Galaxy Store app for Samsung devices could have potentially triggered remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Reported in ConnectWise Server Backup Solution<a href="https://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT service management software platform ConnectWise has released Software patches for a critical security vulnerability in Recover and R1Soft Server Backup Manager (SBM).  The issue,&nbsp; characterized &nbsp;as a "neutralization of Special Elements in Output Used by a Downstream Component," could be abused to result in the execution of remote code or disclosure of sensitive information.  ConnectWise's advisory notes that the flaw affects Recover v2.9.7 and earlier, as well as R1Soft SBM v6.16.3 and earlier, are impacted by the critical flaw.   At its core, the issue is tied to an upstream authentication bypass vulnerability in the ZK open source Ajax web application framework ( CVE-2022-36537 ), which was initially patched in May 2022.   "Affected ConnectWise Recover SBMs have automatically been updated to the latest version of Recover (v2.9.9)," the company&nbsp; said , urging customers to upgrade to&nbsp; SBM v6.16.4 &nbsp;shipped on October 28, 2022.   Cybersecurity firm Huntress
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes critical RCE flaw affecting Azure Cosmos DB<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-critical-rce-flaw-affecting-azure-cosmos-db/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysts at Orca Security have found a critical vulnerability affecting Azure Cosmos DB that allowed unauthenticated read and write access to containers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

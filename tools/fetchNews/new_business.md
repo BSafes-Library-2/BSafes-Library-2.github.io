@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mondelez and Zurich reach settlement in NotPetya cyberattack insurance suit<a href="https://therecord.media/mondelez-and-zurich-reach-settlement-in-notpetya-cyberattack-insurance-suit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mondelez International and Zurich American Insurance reached a settlement late last week in their multi-year legal battle over the food company’s $100 million claim regarding damage from the NotPetya cyberattack in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

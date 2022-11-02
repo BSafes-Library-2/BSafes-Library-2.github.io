@@ -8,6 +8,120 @@ nav_order: 900015
 
 ## Attack
 ---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Australian Defense Contractor May Expose Private Communications Between ADF Members<a href="https://www.theguardian.com/technology/2022/oct/31/cyber-attack-on-australian-defence-contractor-may-have-exposed-private-communications-between-adf-members?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack may have resulted in data related to private communications between current and former Australian defense force members being compromised, with as many as 40,000 records at risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch group claims to have hacked military provider HENSOLDT France<a href="https://securityaffairs.co/wordpress/137886/cyber-crime/snatch-hensoldt-france-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Snatch&nbsp;ransomware group claims to have hacked HENSOLDT France, a company specializing in&nbsp;military and defense&nbsp;electronics.
+
+
+
+The Snatch&nbsp;ransomware group claims to have hacked the French company HENSOLDT France. HENSOLDT is a company specializing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indianapolis Low-Income Housing Agency Hit by Ransomware Attack<a href="https://www.securityweek.com/indianapolis-low-income-housing-agency-hit-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack delayed the Indianapolis Housing Agency’s ability to send out October rent payments to landlords for the federal housing choice voucher program, also known as Section 8, which 8,000 Indianapolis families depend on.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0950 Uses Raspberry Robin Worm in Cl0p Ransomware Attacks<a href="https://cyware.com/news/dev-0950-uses-raspberry-robin-worm-in-cl0p-ransomware-attacks-33f6009f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raspberry Robin malware, which was initially spread via external USB drives, is now using additional infection methods and working with other malware families in its recent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte&nbsp;ransomware group hit Asahi Group Holdings, a precision metal manufacturing and metal solution provider<a href="https://securityaffairs.co/wordpress/137803/cyber-crime/blackbyte-ransomware-asahi-group-holdings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackByte&nbsp;ransomware group claims to have compromised Asahi Group Holdings, a precision metal manufacturing and metal solution provider.
+
+
+
+Asahi Group Holdings, Ltd. is a precision metal manufacturing and metal solution provider, for more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air New Zealand warns of an ongoing credential stuffing attack<a href="https://securityaffairs.co/wordpress/137793/cyber-crime/air-new-zealand-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air New Zealand suffered a security breach, multiple customers have been locked out of their accounts after the incident.
+
+
+
+Air New Zealand suffered a security breach, threat actors attempted to access customers' accounts by carrying out credential-stuffing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive cyberattack hit Slovak and Polish Parliaments<a href="https://securityaffairs.co/wordpress/137777/hacking/slovak-polish-parliaments-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Slovak and Polish parliaments were hit by a massive cyber attack, and the voting system in Slovakia's legislature was brought down.
+
+
+
+A massive cyber attack hit the Slovak and Polish parliaments, reported the authorities. The cyber attack brought...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
