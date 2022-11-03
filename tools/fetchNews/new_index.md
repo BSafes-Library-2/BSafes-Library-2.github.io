@@ -34,7 +34,363 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of U.S. news sites push malware in supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-us-news-sites-push-malware-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised infrastructure of an undisclosed media company is being used by threat actors to deploy the SocGholish JavaScript malware framework (also known as FakeUpdates) on the websites of hundreds of newspapers across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API of Website Scan Engine Urlscan.io Unwittingly Leaks Sensitive URLs, Data<a href="https://portswigger.net/daily-swig/urlscan-io-api-unwittingly-leaks-sensitive-urls-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a blog post published today, Positive Security said the urlscan API came to its attention due to an email sent by GitHub in February, warning customers that GitHub Pages URLs had been accidentally leaked via a third party during metadata analysis.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software<a href="https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities have been disclosed in Checkmk IT Infrastructure monitoring software that could be chained together by an unauthenticated, remote attacker to fully take over affected servers.   "These vulnerabilities can be chained together by an unauthenticated, remote attacker to gain code execution on the server running Checkmk version 2.1.0p10 and lower," SonarSource researcher Stefan Schiller  said  in a technical analysis.  Checkmk's open source edition of the monitoring tool is based on  Nagios Core  and offers integrations with  NagVis  for the visualization and generation of topological maps of infrastructures, servers, ports, and processes.   According to its Munich-based developer tribe29 GmbH, its Enterprise and Raw editions are used by  over 2,000 customers , including Airbus, Adobe, NASA, Siemens, Vodafone, and others.   The four vulnerabilities, which consist of two Critical and two Medium severity bugs, are as follows -   A  code injection flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vitali Kremez passed away<a href="https://securityaffairs.co/wordpress/138012/breaking-news/vitali-kremez-died.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm deeply saddened by the absurd death of Vitali Kremez, he died during a scuba diving off the coast of Hollywood Beach in Florida
+
+
+
+Vitali Kremez (36), founder and CEO of AdvIntel, has been found dead after scuba diving off the coast of Hollywood...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet starts blasting malware again after 5 month break<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-5-month-break/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware operation is again spamming malicious emails after almost a five-month "vacation" that saw little activity from the notorious cybercrime operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where do business continuity plans fit in a ransomware attack?<a href="https://www.techtarget.com/searchdisasterrecovery/tip/Where-do-business-continuity-plans-fit-in-a-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recovery isn't the only priority when ransomware hits. Careful planning, training and coordination among IT teams are critical to maintain business continuity during an attack.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Android Apps with a Million Play Store Installations Redirect Users to Malicious Sites<a href="https://thehackernews.com/2022/11/these-android-apps-with-million-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of four Android apps released by the same developer has been discovered directing victims to malicious websites as part of an adware and information-stealing campaign.  The apps, published by a developer named  Mobile apps Group  and currently available on the Play Store, have been collectively downloaded over one million times.  According to  Malwarebytes , the websites are designed to generate revenues through pay-per-click ads, and worse, prompt users to install cleaner apps on their phones with the goal of deploying additional malware.   The list of apps is as follows -   Bluetooth App Sender (com.bluetooth.share.app) - 50,000+ downloads  Bluetooth Auto Connect (com.bluetooth.autoconnect.anybtdevices) - 1,000,000+ downloads  Driver: Bluetooth, Wi-Fi, USB (com.driver.finder.bluetooth.wifi.usb) - 10,000+ downloads  Mobile transfer: smart switch (com.mobile.faster.transfer.smart.switch) - 1,000+ downloads    It's no surprise that malicious apps have  devised new ways  to ge
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Malicious apps on Play Store totaled +1M downloads<a href="https://securityaffairs.co/wordpress/137998/cyber-crime/malicious-android-apps-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four malicious Android apps uploaded by the same developer to Google Play totaled at least one million downloads.
+
+
+
+Malwarebytes researchers discovered four malicious apps uploaded by the same developer (Mobile apps Group) to the official Google Play....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of PyPI packages caught dropping 'W4SP' info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/dozens-of-pypi-packages-caught-dropping-w4sp-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered over two dozen Python packages on the PyPI registry that are pushing info-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the ideal CISO reporting structure is highest level<a href="https://www.techtarget.com/searchsecurity/tip/Why-the-ideal-CISO-reporting-structure-is-highest-level?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs usually report to a high-level executive, but reporting to a top-level business executive like the CEO rather than a technology executive protects the business best.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Raccoon Stealer V2<a href="https://thehackernews.com/2022/11/inside-raccoon-stealer-v2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Raccoon Stealer is back on the news again. US officials arrested Mark Sokolovsky, one of the malware actors behind this program. In July 2022, after several months of the shutdown, a Raccoon Stealer V2 went viral. Last week, the Department of Justice's press release stated that the malware collected 50 million credentials.  This article will give a quick guide to the latest info stealer's version.  What is Raccoon infostealer V2?  Raccoon Stealer  is a kind of malware that steals various data from an infected computer. It's quite a basic malware, but hackers have made Raccoon popular with excellent service and simple navigation.   In 2019, Raccoon infostealer was one of the most discussed malware. In exchange for $75 per week and $200 per month, cybercriminals sold this simple but versatile info stealer as a MaaS. The malware was successful in attacking a number of systems. In March 2022, however, threat authors ceased to operate.   An updated version of this malware was r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SandStrike, a previously undocumented Android malware targets a Persian-speaking religion minority<a href="https://securityaffairs.co/wordpress/137990/hacking/sandstrike-malware-cyberespionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using previously undocumented Android spyware, dubbed SandStrike, to spy on a Persian-speaking religion minority.
+
+
+
+In Q3 2022, Kaspersky researchers uncovered a previously undocumented Android spyware, dubbed SandStrike, employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Italy discloses data breach after reseller hacked<a href="https://www.bleepingcomputer.com/news/security/vodafone-italy-discloses-data-breach-after-reseller-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone Italia is sending customers notices of a data breach, informing them that one of its commercial partners, FourB S.p.A., who operates as a reseller of the telco's services in the country, has fallen victim to a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Amazon Prime Video Server Exposed Users Viewing Habits<a href="https://www.hackread.com/amazon-prime-video-viewing-habits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed database contained 215 million records of pseudonymized viewing data. This includes the name of the movie or show being streamed, the streaming device, and similar internal data such as subscription information and network quality.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of SandStrike Android Spyware Infecting Devices via Malicious VPN App<a href="https://thehackernews.com/2022/11/experts-warn-of-sandstrike-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Android spyware campaign has been found striking Persian-speaking individuals by masquerading as a seemingly harmless VPN application.  Russian cybersecurity firm Kaspersky is tracking the campaign under the moniker  SandStrike . It has not been attributed to any particular threat group.  "SandStrike is distributed as a means to access resources about the  Bahá'í religion  that are banned in Iran," the company noted in its  APT trends report  for the third quarter of 2022.   While the app is ostensibly designed to provide victims with a VPN connection to bypass the ban, it's also configured to covertly siphon data from the victims' devices, such as call logs, contacts, and even connect to a remote server to fetch additional commands.  The booby-trapped VPN service, while fully functional, is said to be distributed via a Telegram channel controlled by the adversary.  Links to the channel are also advertised on fabricated social media acco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox discloses unauthorized access to 130 GitHub source code repositories<a href="https://securityaffairs.co/wordpress/137975/hacking/dropbox-account-hacked-2fa-jpg.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dropbox disclosed a security breach, threat actors gained unauthorized access to 130 of its source code repositories on GitHub.
+
+
+
+File hosting service Dropbox announced that threat actors gained unauthorized access to 130 of its source code repositories...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. govt employees exposed to mobile attacks from outdated Android, iOS<a href="https://www.bleepingcomputer.com/news/security/us-govt-employees-exposed-to-mobile-attacks-from-outdated-android-ios/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roughly half of all Android-based mobile phones used by state and local government employees are running outdated versions of the operating system, exposing them to hundreds of vulnerabilities threat actors can leverage to perform cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Denmark’s Cybersecurity Journey to Becoming the Most Cyber-Secure Country<a href="https://heimdalsecurity.com/blog/denmarks-cybersecurity-journey-to-becoming-the-most-cyber-secure-country/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denmark is one of the most digitalized countries worldwide, with technologies used in the private and public sectors as well. This means that Denmark is also a target with a generous and attractive attack surface for threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories<a href="https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.  "These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the security team," the company  revealed  in an advisory.  The breach resulted in the access of some API keys used by Dropbox developers as well as "a few thousand names and email addresses belonging to Dropbox employees, current and past customers, sales leads, and vendors."   It, however, stressed that the repositories did not contain source code related to its core apps or infrastructure.  Dropbox, which offers cloud storage, data backup, and document signing services, among others, has over 17.37 million paying users and 700 million registered users as of  August 2022 .  The di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixed two high-severity vulnerabilities<a href="https://securityaffairs.co/wordpress/137965/security/openssl-fixed-two-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL project fixed two high-severity flaws in its cryptography library that can trigger a DoS condition or achieve remote code execution.
+
+
+
+The OpenSSL project has issued security updates to address a couple of high-severity vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Ransomware Gang Claims to Have Stolen Data from Thales<a href="https://securityaffairs.co/wordpress/137955/cyber-crime/lockbit-3-0-thales.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thales was added to the list of victims of the LockBit 3.0 group on October 31, the gang is threatening to publish stolen data by November 7, 2022, if the company will not pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dropbox discloses breach after hacker stole 130 GitHub repositories<a href="https://www.bleepingcomputer.com/news/security/dropbox-discloses-breach-after-hacker-stole-130-github-repositories/"> Full Text</a>
@@ -50,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cranefly Group Abuses Legitimate IIS Logs To Deliver New Malware<a href="https://cyware.com/news/cranefly-group-abuses-legitimate-iis-logs-to-deliver-new-malware-ee135023"> Full Text</a>
@@ -66,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Releases Patch for 2 New High-Severity Vulnerabilities<a href="https://thehackernews.com/2022/11/just-in-openssl-releases-patch-for-2.html"> Full Text</a>
@@ -82,7 +438,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 3.0 gang claims to have stolen data from Thales<a href="https://securityaffairs.co/wordpress/137955/cyber-crime/lockbit-3-0-thales.html"> Full Text</a>
@@ -102,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Android apps with 1M+ installs found on Google Play<a href="https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-1m-plus-installs-found-on-google-play/"> Full Text</a>
@@ -118,7 +474,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Azov Ransomware - New Data Wiper Frames Security Researchers<a href="https://cyware.com/news/azov-ransomware-new-data-wiper-frames-security-researchers-aae3fad3"> Full Text</a>
@@ -134,7 +490,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Details of Critical 'CosMiss' RCE Flaw Affecting Azure Cosmos DB<a href="https://thehackernews.com/2022/11/researchers-disclose-details-of.html"> Full Text</a>
@@ -150,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of critical RCE in ConnectWise Server Backup Solution<a href="https://securityaffairs.co/wordpress/137946/uncategorized/connectwise-rce.html"> Full Text</a>
@@ -170,7 +526,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL fixes two high severity vulnerabilities, what you need to know<a href="https://www.bleepingcomputer.com/news/security/openssl-fixes-two-high-severity-vulnerabilities-what-you-need-to-know/"> Full Text</a>
@@ -186,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: Not enough ransomware victims are reporting attacks, and that's a problem for everyone<a href="https://www.zdnet.com/article/ransomware-not-enough-victims-are-reporting-attacks-and-that-increases-the-threat-for-everyone/?&web_view=true"> Full Text</a>
@@ -202,7 +558,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Using New Stealthy Infection Chain to Deploy LODEINFO Malware<a href="https://thehackernews.com/2022/11/chinese-hackers-using-new-stealthy.html"> Full Text</a>
@@ -218,7 +574,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware activity and network access sales in Q3 2022<a href="https://securityaffairs.co/wordpress/137929/cyber-crime/ransomware-activity-q3-2022.html"> Full Text</a>
@@ -238,7 +594,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SandStrike spyware infects Android devices via malicious VPN app<a href="https://www.bleepingcomputer.com/news/security/new-sandstrike-spyware-infects-android-devices-via-malicious-vpn-app/"> Full Text</a>
@@ -254,7 +610,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The New Fodcha DDoS Botnet Adds Extortion Feature to its Arsenal<a href="https://cyware.com/news/the-new-fodcha-ddos-botnet-adds-extortion-feature-to-its-arsenal-1fc260ad"> Full Text</a>
@@ -270,7 +626,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Last Years Open Source - Tomorrow's Vulnerabilities<a href="https://thehackernews.com/2022/11/last-years-open-source-tomorrows.html"> Full Text</a>
@@ -286,7 +642,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Galaxy Store flaw could have allowed installing malicious apps on target devices<a href="https://securityaffairs.co/wordpress/137922/mobile-2/samsung-galaxy-store-flaw.html"> Full Text</a>
@@ -306,7 +662,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Regex to Implement Passphrases in Your Active Directory<a href="https://www.bleepingcomputer.com/news/microsoft/using-regex-to-implement-passphrases-in-your-active-directory/"> Full Text</a>
@@ -322,7 +678,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mondelez and Zurich reach settlement in NotPetya cyberattack insurance suit<a href="https://therecord.media/mondelez-and-zurich-reach-settlement-in-notpetya-cyberattack-insurance-suit/?&web_view=true"> Full Text</a>
@@ -338,7 +694,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Reported in ConnectWise Server Backup Solution<a href="https://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html"> Full Text</a>
@@ -354,7 +710,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes critical RCE flaw affecting Azure Cosmos DB<a href="https://www.bleepingcomputer.com/news/security/microsoft-fixes-critical-rce-flaw-affecting-azure-cosmos-db/"> Full Text</a>
@@ -370,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snatch Ransomware Group Claims to Have Hacked Military Technology Provider HENSOLDT France<a href="https://securityaffairs.co/wordpress/137886/cyber-crime/snatch-hensoldt-france-ransomware.html?&web_view=true"> Full Text</a>
@@ -386,7 +742,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2022
+November 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google ad for GIMP.org served info-stealing malware via lookalike site<a href="https://www.bleepingcomputer.com/news/security/google-ad-for-gimporg-served-info-stealing-malware-via-lookalike-site/"> Full Text</a>
@@ -402,7 +758,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2022
+November 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experian tool exposed partial Social Security numbers, putting customers at risk<a href="https://www.cyberscoop.com/experian-kbv-ssn-nist-identity-theft/?&web_view=true"> Full Text</a>
