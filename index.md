@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of U.S. news sites push malware in supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-us-news-sites-push-malware-in-supply-chain-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API of Website Scan Engine Urlscan.io Unwittingly Leaks Sensitive URLs, Data<a href="https://portswigger.net/daily-swig/urlscan-io-api-unwittingly-leaks-sensitive-urls-data?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software<a href="https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vitali Kremez passed away<a href="https://securityaffairs.co/wordpress/138012/breaking-news/vitali-kremez-died.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet botnet starts blasting malware again after 5 month break<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-5-month-break/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Where do business continuity plans fit in a ransomware attack?<a href="https://www.techtarget.com/searchdisasterrecovery/tip/Where-do-business-continuity-plans-fit-in-a-ransomware-attack?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These Android Apps with a Million Play Store Installations Redirect Users to Malicious Sites<a href="https://thehackernews.com/2022/11/these-android-apps-with-million-play.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Malicious apps on Play Store totaled +1M downloads<a href="https://securityaffairs.co/wordpress/137998/cyber-crime/malicious-android-apps-google-play.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of PyPI packages caught dropping 'W4SP' info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/dozens-of-pypi-packages-caught-dropping-w4sp-info-stealing-malware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why the ideal CISO reporting structure is highest level<a href="https://www.techtarget.com/searchsecurity/tip/Why-the-ideal-CISO-reporting-structure-is-highest-level?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Raccoon Stealer V2<a href="https://thehackernews.com/2022/11/inside-raccoon-stealer-v2.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SandStrike, a previously undocumented Android malware targets a Persian-speaking religion minority<a href="https://securityaffairs.co/wordpress/137990/hacking/sandstrike-malware-cyberespionage.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vodafone Italy discloses data breach after reseller hacked<a href="https://www.bleepingcomputer.com/news/security/vodafone-italy-discloses-data-breach-after-reseller-hacked/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaked Amazon Prime Video Server Exposed Users Viewing Habits<a href="https://www.hackread.com/amazon-prime-video-viewing-habits/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of SandStrike Android Spyware Infecting Devices via Malicious VPN App<a href="https://thehackernews.com/2022/11/experts-warn-of-sandstrike-android.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dropbox discloses unauthorized access to 130 GitHub source code repositories<a href="https://securityaffairs.co/wordpress/137975/hacking/dropbox-account-hacked-2fa-jpg.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. govt employees exposed to mobile attacks from outdated Android, iOS<a href="https://www.bleepingcomputer.com/news/security/us-govt-employees-exposed-to-mobile-attacks-from-outdated-android-ios/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Denmark’s Cybersecurity Journey to Becoming the Most Cyber-Secure Country<a href="https://heimdalsecurity.com/blog/denmarks-cybersecurity-journey-to-becoming-the-most-cyber-secure-country/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories<a href="https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL fixed two high-severity vulnerabilities<a href="https://securityaffairs.co/wordpress/137965/security/openssl-fixed-two-vulnerabilities.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 2, 2022
+November 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 3.0 Ransomware Gang Claims to Have Stolen Data from Thales<a href="https://securityaffairs.co/wordpress/137955/cyber-crime/lockbit-3-0-thales.html?&web_view=true"> Full Text</a>

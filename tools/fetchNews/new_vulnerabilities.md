@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Reported in Checkmk IT Infrastructure Monitoring Software<a href="https://thehackernews.com/2022/11/multiple-vulnerabilities-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities have been disclosed in Checkmk IT Infrastructure monitoring software that could be chained together by an unauthenticated, remote attacker to fully take over affected servers.&nbsp;  "These vulnerabilities can be chained together by an unauthenticated, remote attacker to gain code execution on the server running Checkmk version 2.1.0p10 and lower," SonarSource researcher Stefan Schiller&nbsp; said &nbsp;in a technical analysis.  Checkmk's open source edition of the monitoring tool is based on&nbsp; Nagios Core &nbsp;and offers integrations with&nbsp; NagVis &nbsp;for the visualization and generation of topological maps of infrastructures, servers, ports, and processes.   According to its Munich-based developer tribe29 GmbH, its Enterprise and Raw editions are used by&nbsp; over 2,000 customers , including Airbus, Adobe, NASA, Siemens, Vodafone, and others.   The four vulnerabilities, which consist of two Critical and two Medium severity bugs, are as follows -   A&nbsp; code injection flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL fixed two high-severity vulnerabilities<a href="https://securityaffairs.co/wordpress/137965/security/openssl-fixed-two-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL project fixed two high-severity flaws in its cryptography library that can trigger a DoS condition or achieve remote code execution.
+
+
+
+The OpenSSL project has issued security updates to address a couple of high-severity vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

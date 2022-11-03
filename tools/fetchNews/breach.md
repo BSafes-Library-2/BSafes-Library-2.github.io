@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox discloses breach after hacker stole 130 GitHub repositories<a href="https://www.bleepingcomputer.com/news/security/dropbox-discloses-breach-after-hacker-stole-130-github-repositories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dropbox disclosed a security breach after threat actors stole 130 code repositories after gaining access to one of its GitHub accounts using employee credentials stolen in a phishing attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experian tool exposed partial Social Security numbers, putting customers at risk<a href="https://www.cyberscoop.com/experian-kbv-ssn-nist-identity-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Experian product that allows organizations to verify customers’ identity could be exploited to expose partial Social Security numbers, a researcher found through testing several organizations that use the product.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of U.S. news sites push malware in supply-chain attack<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-us-news-sites-push-malware-in-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised infrastructure of an undisclosed media company is being used by threat actors to deploy the SocGholish JavaScript malware framework (also known as&nbsp;FakeUpdates) on the websites of hundreds of newspapers across the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

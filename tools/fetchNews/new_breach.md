@@ -8,6 +8,80 @@ nav_order: 900029
 
 ## Breach
 ---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API of Website Scan Engine Urlscan.io Unwittingly Leaks Sensitive URLs, Data<a href="https://portswigger.net/daily-swig/urlscan-io-api-unwittingly-leaks-sensitive-urls-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a blog post published today, Positive Security said the urlscan API came to its attention due to an email sent by GitHub in February, warning customers that GitHub Pages URLs had been accidentally leaked via a third party during metadata analysis.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vodafone Italy discloses data breach after reseller hacked<a href="https://www.bleepingcomputer.com/news/security/vodafone-italy-discloses-data-breach-after-reseller-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vodafone Italia is sending customers notices of a data breach, informing them that one of its commercial partners, FourB S.p.A., who operates as a reseller of the telco's services in the country, has fallen victim to a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Amazon Prime Video Server Exposed Users Viewing Habits<a href="https://www.hackread.com/amazon-prime-video-viewing-habits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed database contained 215 million records of pseudonymized viewing data. This includes the name of the movie or show being streamed, the streaming device, and similar internal data such as subscription information and network quality.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox discloses unauthorized access to 130 GitHub source code repositories<a href="https://securityaffairs.co/wordpress/137975/hacking/dropbox-account-hacked-2fa-jpg.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dropbox disclosed a security breach, threat actors gained unauthorized access to 130 of its source code repositories on GitHub.
+
+
+
+File hosting service Dropbox announced that threat actors gained unauthorized access to 130 of its source code repositories...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dropbox Breach: Hackers Unauthorizedly Accessed 130 GitHub Source Code Repositories<a href="https://thehackernews.com/2022/11/dropbox-breach-hackers-unauthorizedly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+File hosting service Dropbox on Tuesday disclosed that it was the victim of a phishing campaign that allowed unidentified threat actors to gain unauthorized access to 130 of its source code repositories on GitHub.  "These repositories included our own copies of third-party libraries slightly modified for use by Dropbox, internal prototypes, and some tools and configuration files used by the security team," the company&nbsp; revealed &nbsp;in an advisory.  The breach resulted in the access of some API keys used by Dropbox developers as well as "a few thousand names and email addresses belonging to Dropbox employees, current and past customers, sales leads, and vendors."   It, however, stressed that the repositories did not contain source code related to its core apps or infrastructure.  Dropbox, which offers cloud storage, data backup, and document signing services, among others, has over 17.37 million paying users and 700 million registered users as of&nbsp; August 2022 .  The di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

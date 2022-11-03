@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azov Ransomware - New Data Wiper Frames Security Researchers<a href="https://cyware.com/news/azov-ransomware-new-data-wiper-frames-security-researchers-aae3fad3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new data wiper strain, dubbed Azov Ransomware, has debuted recently. It is being distributed through pirated software, key generators, and adware bundles. In the ongoing campaign, the wiper operators try to frame some renowned security groups and researchers. The wiper appears to have borrowed it ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

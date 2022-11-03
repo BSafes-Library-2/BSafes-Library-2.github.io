@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Android Apps with a Million Play Store Installations Redirect Users to Malicious Sites<a href="https://thehackernews.com/2022/11/these-android-apps-with-million-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of four Android apps released by the same developer has been discovered directing victims to malicious websites as part of an adware and information-stealing campaign.  The apps, published by a developer named&nbsp; Mobile apps Group &nbsp;and currently available on the Play Store, have been collectively downloaded over one million times.  According to&nbsp; Malwarebytes , the websites are designed to generate revenues through pay-per-click ads, and worse, prompt users to install cleaner apps on their phones with the goal of deploying additional malware.   The list of apps is as follows -   Bluetooth App Sender (com.bluetooth.share.app) - 50,000+ downloads  Bluetooth Auto Connect (com.bluetooth.autoconnect.anybtdevices) - 1,000,000+ downloads  Driver: Bluetooth, Wi-Fi, USB (com.driver.finder.bluetooth.wifi.usb) - 10,000+ downloads  Mobile transfer: smart switch (com.mobile.faster.transfer.smart.switch) - 1,000+ downloads    It's no surprise that malicious apps have&nbsp; devised new ways &nbsp;to ge
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
