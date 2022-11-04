@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT malware campaign impersonates KeePass, SolarWinds NPM, Veeam<a href="https://www.bleepingcomputer.com/news/security/romcom-rat-malware-campaign-impersonates-keepass-solarwinds-npm-veeam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the RomCom RAT (remote access trojan) has refreshed its attack vector and is now abusing well-known software brands for distribution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT10 Targets Japan with New LODEINFO Backdoor Variant<a href="https://cyware.com/news/apt10-targets-japan-with-new-lodeinfo-backdoor-variant-180c2fc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hacking group Cicada, aka APT10, was found abusing antivirus software to deploy a new variant of the LODEINFO malware against Japanese organizations. LODEINFO operators have been updating the malware very frequently and continuously, to make it leaner and more efficient. Through LODEINFO, A ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Links b/w Black Basta Ransomware and FIN7 Hackers<a href="https://thehackernews.com/2022/11/researchers-find-links-bw-black-basta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of tools put to use by the Black Basta ransomware operation has identified ties between the threat actor and the  FIN7  (aka Carbanak) group.  This link "could suggest either that Black Basta and FIN7 maintain a special relationship or that one or more individuals belong to both groups," cybersecurity firm SentinelOne  said  in a technical write-up shared with The Hacker News.  Black Basta, which  emerged  earlier this year, has been attributed to a ransomware spree that has claimed over 90 organizations as of September 2022, suggesting that the adversary is both well-organized and well-resourced.  One notable aspect that makes the group stand out, per SentinelOne, is the fact that there have been no signs of its operators attempting to recruit affiliates or advertising the malware as a RaaS on darknet forums or crimeware marketplaces.  This has raised the possibility that the Black Basta developers either cut out affiliates from the chain and deploy the ranso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang claims the hack of Continental automotive group<a href="https://securityaffairs.co/wordpress/138062/cyber-crime/lockbit-gang-claims-continental-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group claimed to have hacked the multinational automotive group Continental and threatens to leak stolen data.
+
+
+
+LockBit ransomware gang announced to have hacked the German multinational automotive parts manufacturing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Crimson Kingsnake gang impersonates law firms in BEC attacks<a href="https://www.bleepingcomputer.com/news/security/new-crimson-kingsnake-gang-impersonates-law-firms-in-bec-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A business email compromise (BEC) group named 'Crimson Kingsnake' has emerged, impersonating well-known international law firms to trick recipients into approving overdue invoice payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drinik Malware Now Targets 18 Indian Banks<a href="https://cyware.com/news/drinik-malware-now-targets-18-indian-banks-1921d2bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers found a new version of the Drinik Android trojan targeting 18 Indian banks while posing as the country’s official tax management app. It attempts to steal victims’ banking credentials and personal information. Since 2016, Drinik has been circulating in India and operating as an SM ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Identity & Access Management Governance is a Core Part of Your SaaS Security<a href="https://thehackernews.com/2022/11/why-identity-access-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every SaaS app user and login is a potential threat; whether it's bad actors or potential disgruntled former associates,  identity management and   access control  is crucial to prevent unwanted or mistaken entrances to the organization's data and systems.   Since enterprises have thousands to tens of thousands of users, and hundreds to thousands of different apps, ensuring each entrance point and user role is secure is no easy feat. Security teams need to monitor all identities to ensure that user activity meets their organization's security guidelines.   Identity and Access Management (IAM) solutions administer user identities and control access to enterprise resources and applications. As identities became the new perimeter, making sure this area is governed by the security team is vital.  Gartner has recently named a new security discipline called Identity Threat Detection and Response (ITDR) that incorporates detection mechanisms that investigate suspicious posture ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+250+ U.S. news sites spotted spreading FakeUpdates malware in a supply-chain attack<a href="https://securityaffairs.co/wordpress/138052/cyber-crime/supply-chain-attack-fakeupdates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised a media company to deliver FakeUpdates malware through the websites of hundreds of newspapers in the US.
+
+
+
+Researchers at Proofpoint Threat Research observed threat actor TA569 intermittently injecting malicious code on a media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware claims attack on Continental automotive giant<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-attack-on-continental-automotive-giant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang has claimed responsibility for a cyberattack against the German multinational automotive group Continental.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deribit Crypto Derivatives Exchange Halts Withdrawals Amid $28 Million Hot Wallet Hack<a href="https://cointelegraph.com/news/deribit-crypto-exchange-halts-withdrawals-amid-28m-hot-wallet-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the information on Deribit’s Telegram chat, trading on Deribit is operating as usual. “Due to our hotwallet policy we were able to limit loss of user funds,” a Deribit support person noted.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPERA1ER APT Hackers Targeted Dozens of Financial Organizations in Africa<a href="https://thehackernews.com/2022/11/researchers-detail-opera1er-apt-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French-speaking threat actor dubbed  OPERA1ER  has been linked to a series of more than 30 successful cyber attacks aimed at banks, financial services, and telecom companies across Africa, Asia, and Latin America between 2018 and 2022.  According to Singapore-headquartered cybersecurity company Group-IB, the attacks have led to thefts totaling $11 million, with actual damages estimated to be as high as $30 million.  Some of the more recent attacks in 2021 and 2021 have singled out five different banks in Burkina Faso, Benin, Ivory Coast, and Senegal. Many of the victims identified are said to have been compromised twice, and their infrastructure subsequently weaponized to strike other organizations.  OPERA1ER, also known by the names DESKTOP-GROUP, Common Raven, and NXSMS, is known to be active since 2016, operating with the goal of conducting financially motivated heists and exfiltration of documents for further use in spear-phishing attacks.   "OPERA1ER often operates during
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link the Black Basta ransomware operation to FIN7 cybercrime gang<a href="https://securityaffairs.co/wordpress/138037/cyber-crime/black-basta-linked-fin7.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sentinel Labs found evidence that links the Black Basta ransomware gang to the financially motivated hacking group FIN7.
+
+
+
+Security researchers at Sentinel Labs shared details about Black Basta's TTPs and assess it is highly likely the ransomware operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPERA1ER hackers steal over $11 million from banks and telcos<a href="https://www.bleepingcomputer.com/news/security/opera1er-hackers-steal-over-11-million-from-banks-and-telcos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group that researchers call OPERA1ER has stolen at least $11 million from banks and telecommunication service providers in Africa using off-the-shelf hacking tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gatsby patches SSRF, XSS bugs in Cloud Image CDN<a href="https://portswigger.net/daily-swig/gatsby-patches-ssrf-xss-bugs-in-cloud-image-cdn?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-risk bug in the Gatsby Cloud Image CDN service allowed attackers to stage server-side request forgery (SSRF) and cross-site scripting (XSS) attacks against some cloud-hosted Gatsby websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Rogue Versions of KeePass and SolarWinds Software to Distribute RomCom RAT<a href="https://thehackernews.com/2022/11/hackers-using-rogue-versions-of-keepass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of RomCom RAT are continuing to evolve their campaigns with rogue versions of software such as SolarWinds Network Performance Monitor, KeePass password manager, and PDF Reader Pro.  Targets of the operation consist of victims in Ukraine and select English-speaking countries like the U.K.  "Given the geography of the targets and the current geopolitical situation, it's unlikely that the RomCom RAT threat actor is cybercrime-motivated," the BlackBerry Threat Research and Intelligence Team  said  in a new analysis.   The latest findings  come  a week after the Canadian cybersecurity company disclosed a spear-phishing campaign aimed at Ukrainian entities to deploy a remote access trojan called RomCom RAT.  The unknown threat actor has also been observed leveraging trojanized variants of Advanced IP Scanner and pdfFiller as droppers to distribute the implant.  The latest iteration of the campaign entails setting up decoy lookalike websites with a similar domain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated TikTok Privacy Policy confirms that Chinese staff can access European users’ data<a href="https://securityaffairs.co/wordpress/138026/digital-id/tiktok-employess-accss-eu-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok updated its privacy policy for European Economic Area (“EEA”) and confirmed that its Chinese staff can access their users' data.
+
+
+
+The short-form video-sharing service TikTok updated its privacy policy for European Economic Area...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALMA Observatory shuts down operations due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Atacama Large Millimeter Array (ALMA) Observatory in Chile has suspended all astronomical observation operations and taken its public website offline following a cyberattack on Saturday, October 29, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity recovery is a process that starts long before a cyberattack occurs<a href="https://www.helpnetsecurity.com/2022/11/03/cybersecurity-recovery/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that can prove their resiliency and compliance with NIS guidelines – showing that they will be able to recover quickly in the event of an attack – could reduce their risks and their insurance premiums.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TikTok Privacy Policy Confirms Chinese Staff Can Access European Users' Data<a href="https://thehackernews.com/2022/11/new-tiktok-privacy-policy-confirms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form video-sharing service TikTok is revising its  privacy policy  for European users to make it explicitly clear that user data can be accessed by some employees from across the world, including China.  The ByteDance-owned platform, which currently stores European user data in the U.S. and Singapore, said the revision is part of its ongoing data governance efforts to limit employee access to users in the region, minimize data flows outside of it, and store the information locally.  The privacy policy update applies to users located in the U.K., the European Economic Area (EEA), and Switzerland, and goes into effect on December 2, 2022, according to  The Guardian .   "Based on a demonstrated need to do their job, subject to a series of robust security controls and approval protocols, and by way of methods that are recognised under the GDPR, we allow certain employees within our corporate group located in Brazil, Canada, China, Israel, Japan, Malaysia, Philippines, S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed 16 vulnerabilities, 6 rated as high severity<a href="https://securityaffairs.co/wordpress/138021/security/fortinet-nov-2022-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed 16 vulnerabilities in some of the company’s products, six flaws received a ‘high’ severity rate.
+
+
+
+One of the high-severity issues is a persistent XSS, tracked as CVE-2022-38374, in Log pages of FortiADC. The root cause of the issue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New clipboard hijacker replaces crypto wallet addresses with lookalikes<a href="https://www.bleepingcomputer.com/news/security/new-clipboard-hijacker-replaces-crypto-wallet-addresses-with-lookalikes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new clipboard stealer called Laplas Clipper spotted in the wild is using cryptocurrency wallet addresses that look like the address of the victim's intended recipient.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Attacks Deploy Custom EDR Evasion Tools Tied to FIN7 Threat Actor<a href="https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs experts analyzed tools used by the ransomware gang in attacks, including some custom tools used for EDR evasion. SentinelLabs believes the developer of these tools is, or was, a developer for the FIN7 gang.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta ransomware gang linked to the FIN7 hacking group<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-linked-to-the-fin7-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Sentinel Labs have uncovered evidence that links the Black Basta ransomware gang to the financially motivated hacking group FIN7, also known as "Carbanak."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Mob Has 100K Slaves Working in Cambodian Cybercrime Mills<a href="https://www.darkreading.com/attacks-breaches/chinese-mob-100k-slaves-cambodian-cybercrime-mills?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Up to 100,000 people from across Asia have been lured to Cambodia by Chinese crime syndicates with the promise of good jobs. When they arrive, their passports are seized and they are put to work in modern-day sweatshops, running cybercrime campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Electric Cooperatives Awarded $15 Million to Expand ICS Security Capabilities<a href="https://www.securityweek.com/us-electric-cooperatives-awarded-15-million-expand-ics-security-capabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Energy has awarded $15 million to the National Rural Electric Cooperative Association (NRECA) in an effort to help electric cooperatives expand their cybersecurity capabilities for industrial control systems (ICS).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Metro Smart Cards Vulnerable to 'Free Top-up' Bug Allowing Free Rides<a href="https://techcrunch.com/2022/11/02/india-delhi-metro-smart-card-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India’s mass rapid transit systems — or metro, as it’s known locally — rely on commuter smart cards that are apparently vulnerable to exploitation and allow anyone to effectively travel for free.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet starts blasting malware again after 4 month break<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware operation is again spamming malicious emails after almost a four-month "vacation" that saw little activity from the notorious cybercrime operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 02, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

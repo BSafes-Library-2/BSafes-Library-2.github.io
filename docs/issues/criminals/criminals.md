@@ -8,6 +8,84 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware gang claims the hack of Continental automotive group<a href="https://securityaffairs.co/wordpress/138062/cyber-crime/lockbit-gang-claims-continental-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group claimed to have hacked the multinational automotive group Continental and threatens to leak stolen data.
+
+
+
+LockBit ransomware gang announced to have hacked the German multinational&nbsp;automotive&nbsp;parts manufacturing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Crimson Kingsnake gang impersonates law firms in BEC attacks<a href="https://www.bleepingcomputer.com/news/security/new-crimson-kingsnake-gang-impersonates-law-firms-in-bec-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A business email compromise (BEC) group named 'Crimson Kingsnake' has emerged, impersonating well-known international law firms to trick recipients into approving overdue invoice payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link the Black Basta ransomware operation to FIN7 cybercrime gang<a href="https://securityaffairs.co/wordpress/138037/cyber-crime/black-basta-linked-fin7.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sentinel Labs found evidence that links the Black Basta ransomware gang to the financially motivated hacking group FIN7.
+
+
+
+Security researchers at Sentinel Labs shared details about Black Basta's TTPs and assess it is highly likely the ransomware operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPERA1ER hackers steal over $11 million from banks and telcos<a href="https://www.bleepingcomputer.com/news/security/opera1er-hackers-steal-over-11-million-from-banks-and-telcos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group that researchers call OPERA1ER&nbsp;has stolen at least $11 million from banks and telecommunication service providers in Africa using off-the-shelf hacking tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta ransomware gang linked to the FIN7 hacking group<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-linked-to-the-fin7-hacking-group/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Sentinel Labs have uncovered evidence that links the Black Basta ransomware gang to the financially motivated hacking group FIN7, also known as "Carbanak."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

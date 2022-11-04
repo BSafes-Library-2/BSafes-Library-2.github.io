@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALMA Observatory shuts down operations due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Atacama Large Millimeter Array (ALMA) Observatory in Chile has suspended all astronomical observation operations and taken its public website offline following a cyberattack on Saturday, October 29, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

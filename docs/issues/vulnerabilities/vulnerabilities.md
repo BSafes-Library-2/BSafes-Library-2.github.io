@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gatsby patches SSRF, XSS bugs in Cloud Image CDN<a href="https://portswigger.net/daily-swig/gatsby-patches-ssrf-xss-bugs-in-cloud-image-cdn?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-risk bug in the Gatsby Cloud Image CDN service allowed attackers to stage server-side request forgery (SSRF) and cross-site scripting (XSS) attacks against some cloud-hosted Gatsby websites.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed 16 vulnerabilities, 6 rated as high severity<a href="https://securityaffairs.co/wordpress/138021/security/fortinet-nov-2022-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed 16 vulnerabilities in some of the company’s products, six flaws received a ‘high’ severity rate.
+
+
+
+One of the high-severity issues is a persistent XSS, tracked as CVE-2022-38374, in Log pages of FortiADC. The root cause of the issue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Metro Smart Cards Vulnerable to 'Free Top-up' Bug Allowing Free Rides<a href="https://techcrunch.com/2022/11/02/india-delhi-metro-smart-card-bug/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India’s mass rapid transit systems — or metro, as it’s known locally — rely on commuter smart cards that are apparently vulnerable to exploitation and allow anyone to effectively travel for free.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

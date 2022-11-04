@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deribit Crypto Derivatives Exchange Halts Withdrawals Amid $28 Million Hot Wallet Hack<a href="https://cointelegraph.com/news/deribit-crypto-exchange-halts-withdrawals-amid-28m-hot-wallet-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the information on Deribit’s Telegram chat, trading on Deribit is operating as usual. “Due to our hotwallet policy we were able to limit loss of user funds,” a Deribit support person noted.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New clipboard hijacker replaces crypto wallet addresses with lookalikes<a href="https://www.bleepingcomputer.com/news/security/new-clipboard-hijacker-replaces-crypto-wallet-addresses-with-lookalikes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new clipboard stealer called Laplas Clipper spotted in the wild&nbsp;is using cryptocurrency wallet addresses that look like the address of the victim's intended recipient.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

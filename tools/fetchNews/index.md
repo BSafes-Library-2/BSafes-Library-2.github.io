@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RomCom RAT malware campaign impersonates KeePass, SolarWinds NPM, Veeam<a href="https://www.bleepingcomputer.com/news/security/romcom-rat-malware-campaign-impersonates-keepass-solarwinds-npm-veeam/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT10 Targets Japan with New LODEINFO Backdoor Variant<a href="https://cyware.com/news/apt10-targets-japan-with-new-lodeinfo-backdoor-variant-180c2fc4"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Links b/w Black Basta Ransomware and FIN7 Hackers<a href="https://thehackernews.com/2022/11/researchers-find-links-bw-black-basta.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware gang claims the hack of Continental automotive group<a href="https://securityaffairs.co/wordpress/138062/cyber-crime/lockbit-gang-claims-continental-hack.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Crimson Kingsnake gang impersonates law firms in BEC attacks<a href="https://www.bleepingcomputer.com/news/security/new-crimson-kingsnake-gang-impersonates-law-firms-in-bec-attacks/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drinik Malware Now Targets 18 Indian Banks<a href="https://cyware.com/news/drinik-malware-now-targets-18-indian-banks-1921d2bc"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Identity & Access Management Governance is a Core Part of Your SaaS Security<a href="https://thehackernews.com/2022/11/why-identity-access-management.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 250+ U.S. news sites spotted spreading FakeUpdates malware in a supply-chain attack<a href="https://securityaffairs.co/wordpress/138052/cyber-crime/supply-chain-attack-fakeupdates.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware claims attack on Continental automotive giant<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-attack-on-continental-automotive-giant/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deribit Crypto Derivatives Exchange Halts Withdrawals Amid $28 Million Hot Wallet Hack<a href="https://cointelegraph.com/news/deribit-crypto-exchange-halts-withdrawals-amid-28m-hot-wallet-hack?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Coin Telegraph
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OPERA1ER APT Hackers Targeted Dozens of Financial Organizations in Africa<a href="https://thehackernews.com/2022/11/researchers-detail-opera1er-apt-attacks.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts link the Black Basta ransomware operation to FIN7 cybercrime gang<a href="https://securityaffairs.co/wordpress/138037/cyber-crime/black-basta-linked-fin7.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OPERA1ER hackers steal over $11 million from banks and telcos<a href="https://www.bleepingcomputer.com/news/security/opera1er-hackers-steal-over-11-million-from-banks-and-telcos/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gatsby patches SSRF, XSS bugs in Cloud Image CDN<a href="https://portswigger.net/daily-swig/gatsby-patches-ssrf-xss-bugs-in-cloud-image-cdn?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Rogue Versions of KeePass and SolarWinds Software to Distribute RomCom RAT<a href="https://thehackernews.com/2022/11/hackers-using-rogue-versions-of-keepass.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updated TikTok Privacy Policy confirms that Chinese staff can access European users’ data<a href="https://securityaffairs.co/wordpress/138026/digital-id/tiktok-employess-accss-eu-data.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALMA Observatory shuts down operations due to a cyberattack<a href="https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity recovery is a process that starts long before a cyberattack occurs<a href="https://www.helpnetsecurity.com/2022/11/03/cybersecurity-recovery/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New TikTok Privacy Policy Confirms Chinese Staff Can Access European Users' Data<a href="https://thehackernews.com/2022/11/new-tiktok-privacy-policy-confirms.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet fixed 16 vulnerabilities, 6 rated as high severity<a href="https://securityaffairs.co/wordpress/138021/security/fortinet-nov-2022-flaws.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New clipboard hijacker replaces crypto wallet addresses with lookalikes<a href="https://www.bleepingcomputer.com/news/security/new-clipboard-hijacker-replaces-crypto-wallet-addresses-with-lookalikes/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Attacks Deploy Custom EDR Evasion Tools Tied to FIN7 Threat Actor<a href="https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2022
+November 03, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta ransomware gang linked to the FIN7 hacking group<a href="https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-linked-to-the-fin7-hacking-group/"> Full Text</a>
@@ -422,7 +422,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Mob Has 100K Slaves Working in Cambodian Cybercrime Mills<a href="https://www.darkreading.com/attacks-breaches/chinese-mob-100k-slaves-cambodian-cybercrime-mills?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Electric Cooperatives Awarded $15 Million to Expand ICS Security Capabilities<a href="https://www.securityweek.com/us-electric-cooperatives-awarded-15-million-expand-ics-security-capabilities?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2022
+November 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Metro Smart Cards Vulnerable to 'Free Top-up' Bug Allowing Free Rides<a href="https://techcrunch.com/2022/11/02/india-delhi-metro-smart-card-bug/?&web_view=true"> Full Text</a>
@@ -470,7 +470,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 02, 2022
+November 02, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet botnet starts blasting malware again after 4 month break<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/"> Full Text</a>

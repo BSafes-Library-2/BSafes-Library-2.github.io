@@ -11,6 +11,20 @@ nav_order: 900025
 November 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Emotet botnet starts blasting malware again after 4 month break<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-4-month-break/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware operation is again spamming malicious emails after almost a four-month "vacation"&nbsp;that saw little activity from the notorious cybercrime operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Emotet botnet starts blasting malware again after 5 month break<a href="https://www.bleepingcomputer.com/news/security/emotet-botnet-starts-blasting-malware-again-after-5-month-break/"> Full Text</a>
 </p>
 <details>

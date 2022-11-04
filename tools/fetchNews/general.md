@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vitali Kremez passed away<a href="https://securityaffairs.co/wordpress/138012/breaking-news/vitali-kremez-died.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I'm deeply saddened by the absurd death of Vitali Kremez, he died during a scuba diving off the coast of Hollywood Beach in Florida
+
+
+
+Vitali Kremez (36), founder and CEO of AdvIntel, has been found dead after scuba diving off the coast of Hollywood...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where do business continuity plans fit in a ransomware attack?<a href="https://www.techtarget.com/searchdisasterrecovery/tip/Where-do-business-continuity-plans-fit-in-a-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recovery isn't the only priority when ransomware hits. Careful planning, training and coordination among IT teams are critical to maintain business continuity during an attack.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the ideal CISO reporting structure is highest level<a href="https://www.techtarget.com/searchsecurity/tip/Why-the-ideal-CISO-reporting-structure-is-highest-level?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs usually report to a high-level executive, but reporting to a top-level business executive like the CEO rather than a technology executive protects the business best.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Denmark’s Cybersecurity Journey to Becoming the Most Cyber-Secure Country<a href="https://heimdalsecurity.com/blog/denmarks-cybersecurity-journey-to-becoming-the-most-cyber-secure-country/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Denmark is one of the most digitalized countries worldwide, with technologies used in the private and public sectors as well. This means that Denmark is also a target with a generous and attractive attack surface for threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

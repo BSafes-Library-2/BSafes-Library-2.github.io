@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Electric Cooperatives Awarded $15 Million to Expand ICS Security Capabilities<a href="https://www.securityweek.com/us-electric-cooperatives-awarded-15-million-expand-ics-security-capabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Energy has awarded $15 million to the National Rural Electric Cooperative Association (NRECA) in an effort to help electric cooperatives expand their cybersecurity capabilities for industrial control systems (ICS).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

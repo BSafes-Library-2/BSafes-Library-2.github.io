@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Identity &amp; Access Management Governance is a Core Part of Your SaaS Security<a href="https://thehackernews.com/2022/11/why-identity-access-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every SaaS app user and login is a potential threat; whether it's bad actors or potential disgruntled former associates, &nbsp;identity management and &nbsp; access control &nbsp;is crucial to prevent unwanted or mistaken entrances to the organization's data and systems.&nbsp;  Since enterprises have thousands to tens of thousands of users, and hundreds to thousands of different apps, ensuring each entrance point and user role is secure is no easy feat. Security teams need to monitor all identities to ensure that user activity meets their organization's security guidelines.&nbsp;  Identity and Access Management (IAM) solutions administer user identities and control access to enterprise resources and applications. As identities became the new perimeter, making sure this area is governed by the security team is vital.  Gartner has recently named a new security discipline called Identity Threat Detection and Response (ITDR) that incorporates detection mechanisms that investigate suspicious posture ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity recovery is a process that starts long before a cyberattack occurs<a href="https://www.helpnetsecurity.com/2022/11/03/cybersecurity-recovery/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that can prove their resiliency and compliance with NIS guidelines – showing that they will be able to recover quickly in the event of an attack – could reduce their risks and their insurance premiums.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TikTok Privacy Policy Confirms Chinese Staff Can Access European Users' Data<a href="https://thehackernews.com/2022/11/new-tiktok-privacy-policy-confirms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form video-sharing service TikTok is revising its&nbsp; privacy policy &nbsp;for European users to make it explicitly clear that user data can be accessed by some employees from across the world, including China.  The ByteDance-owned platform, which currently stores European user data in the U.S. and Singapore, said the revision is part of its ongoing data governance efforts to limit employee access to users in the region, minimize data flows outside of it, and store the information locally.  The privacy policy update applies to users located in the U.K., the European Economic Area (EEA), and Switzerland, and goes into effect on December 2, 2022, according to&nbsp; The Guardian .   "Based on a demonstrated need to do their job, subject to a series of robust security controls and approval protocols, and by way of methods that are recognised under the GDPR, we allow certain employees within our corporate group located in Brazil, Canada, China, Israel, Japan, Malaysia, Philippines, S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Mob Has 100K Slaves Working in Cambodian Cybercrime Mills<a href="https://www.darkreading.com/attacks-breaches/chinese-mob-100k-slaves-cambodian-cybercrime-mills?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Up to 100,000 people from across Asia have been lured to Cambodia by Chinese crime syndicates with the promise of good jobs. When they arrive, their passports are seized and they are put to work in modern-day sweatshops, running cybercrime campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
