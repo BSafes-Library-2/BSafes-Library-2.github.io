@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+November 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hacktivist DDoS attacks had minor impact on critical orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-hacktivist-ddos-attacks-had-minor-impact-on-critical-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) said on Friday that distributed denial-of-service (DDoS) attacks coordinated by hacktivist groups have little to no impact.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British govt is scanning all Internet devices hosted in UK<a href="https://www.bleepingcomputer.com/news/security/british-govt-is-scanning-all-internet-devices-hosted-in-uk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Cyber Security Centre (NCSC), the government agency that leads the country's&nbsp;cyber security mission, is now scanning all Internet-exposed devices hosted in the UK for vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Vulnerabilities in 3 Industrial Control System Software<a href="https://thehackernews.com/2022/11/cisa-warns-of-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; published &nbsp;three Industrial Control Systems (ICS) advisories about multiple vulnerabilities in software from ETIC Telecom, Nokia, and Delta Industrial Automation.  Prominent among them is a set of three flaws affecting ETIC Telecom's Remote Access Server (RAS), which "could allow an attacker to obtain sensitive information and compromise the vulnerable device and other connected machines," CISA said.   This includes CVE-2022-3703 (CVSS score: 9.0), a critical flaw that stems from the RAS web portal's inability to verify the authenticity of firmware, thereby making it possible to slip in a rogue package that grants backdoor access to the adversary.  Two other flaws relate to a directory traversal bug in the RAS API (CVE-2022-41607, CVSS score: 8.6) and a file upload issue (CVE-2022-40981, CVSS score: 8.3) that can be exploited to read arbitrary files and upload malicious files that can compromise th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

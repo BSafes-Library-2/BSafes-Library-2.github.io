@@ -31,6 +31,9 @@
 
 Alerts:
 . https://media.defense.gov/2022/Oct/31/2003105368/-1/-1/0/SECURING_THE_SOFTWARE_SUPPLY_CHAIN_SUPPLIERS.PDF
+. https://www.bleepingcomputer.com/news/security/fbi-hacktivist-ddos-attacks-had-minor-impact-on-critical-orgs/
+. https://securityaffairs.co/wordpress/138077/security/enisa-threat-landscape-2022.html
+. https://thehackernews.com/2022/11/cisa-warns-of-critical-vulnerabilities.html
 
 Law
 

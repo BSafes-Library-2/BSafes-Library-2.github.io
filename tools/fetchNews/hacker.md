@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Links b/w Black Basta Ransomware and FIN7 Hackers<a href="https://thehackernews.com/2022/11/researchers-find-links-bw-black-basta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of tools put to use by the Black Basta ransomware operation has identified ties between the threat actor and the&nbsp; FIN7 &nbsp;(aka Carbanak) group.  This link "could suggest either that Black Basta and FIN7 maintain a special relationship or that one or more individuals belong to both groups," cybersecurity firm SentinelOne&nbsp; said &nbsp;in a technical write-up shared with The Hacker News.  Black Basta, which&nbsp; emerged &nbsp;earlier this year, has been attributed to a ransomware spree that has claimed over 90 organizations as of September 2022, suggesting that the adversary is both well-organized and well-resourced.  One notable aspect that makes the group stand out, per SentinelOne, is the fact that there have been no signs of its operators attempting to recruit affiliates or advertising the malware as a RaaS on darknet forums or crimeware marketplaces.  This has raised the possibility that the Black Basta developers either cut out affiliates from the chain and deploy the ranso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Rogue Versions of KeePass and SolarWinds Software to Distribute RomCom RAT<a href="https://thehackernews.com/2022/11/hackers-using-rogue-versions-of-keepass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of RomCom RAT are continuing to evolve their campaigns with rogue versions of software such as SolarWinds Network Performance Monitor, KeePass password manager, and PDF Reader Pro.  Targets of the operation consist of victims in Ukraine and select English-speaking countries like the U.K.  "Given the geography of the targets and the current geopolitical situation, it's unlikely that the RomCom RAT threat actor is cybercrime-motivated," the BlackBerry Threat Research and Intelligence Team&nbsp; said &nbsp;in a new analysis.   The latest findings&nbsp; come &nbsp;a week after the Canadian cybersecurity company disclosed a spear-phishing campaign aimed at Ukrainian entities to deploy a remote access trojan called RomCom RAT.  The unknown threat actor has also been observed leveraging trojanized variants of Advanced IP Scanner and pdfFiller as droppers to distribute the implant.  The latest iteration of the campaign entails setting up decoy lookalike websites with a similar domain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

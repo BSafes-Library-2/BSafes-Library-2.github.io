@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT10 Targets Japan with New LODEINFO Backdoor Variant<a href="https://cyware.com/news/apt10-targets-japan-with-new-lodeinfo-backdoor-variant-180c2fc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hacking group Cicada, aka APT10, was found abusing antivirus software to deploy a new variant of the LODEINFO malware against Japanese organizations. LODEINFO operators have been updating the malware very frequently and continuously, to make it leaner and more efficient. Through LODEINFO, A ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPERA1ER APT Hackers Targeted Dozens of Financial Organizations in Africa<a href="https://thehackernews.com/2022/11/researchers-detail-opera1er-apt-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French-speaking threat actor dubbed&nbsp; OPERA1ER &nbsp;has been linked to a series of more than 30 successful cyber attacks aimed at banks, financial services, and telecom companies across Africa, Asia, and Latin America between 2018 and 2022.  According to Singapore-headquartered cybersecurity company Group-IB, the attacks have led to thefts totaling $11 million, with actual damages estimated to be as high as $30 million.  Some of the more recent attacks in 2021 and 2021 have singled out five different banks in Burkina Faso, Benin, Ivory Coast, and Senegal. Many of the victims identified are said to have been compromised twice, and their infrastructure subsequently weaponized to strike other organizations.  OPERA1ER, also known by the names DESKTOP-GROUP, Common Raven, and NXSMS, is known to be active since 2016, operating with the goal of conducting financially motivated heists and exfiltration of documents for further use in spear-phishing attacks.   "OPERA1ER often operates during
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

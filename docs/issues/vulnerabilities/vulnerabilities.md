@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addressed several high-severity flaws in its products<a href="https://securityaffairs.co/wordpress/138068/security/cisco-addressed-multiple-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed multiple flaws impacting its products, including high-severity issues in identity, email, and web security solutions.
+
+
+
+Cisco addressed multiple vulnerabilities impacting some of its products, including high-severity flaws in identity,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk Patches 9 High-Severity Vulnerabilities in Enterprise Product<a href="https://www.securityweek.com/splunk-patches-9-high-severity-vulnerabilities-enterprise-product?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these security defects have a CVSS score of 8.8 and are described as remote code execution (RCE), XML external entity (XXE) injection, and reflected cross-site scripting (XSS) bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

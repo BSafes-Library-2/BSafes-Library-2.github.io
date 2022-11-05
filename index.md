@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Hacktivist DDoS attacks had minor impact on critical orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-hacktivist-ddos-attacks-had-minor-impact-on-critical-orgs/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abusing Microsoft Customer Voice to Send Phishing Links<a href="https://www.avanan.com/blog/abusing-microsoft-customer-voice-to-send-phishing-links?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Avanan
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail New Malware Campaign Targeting Indian Government Employees<a href="https://thehackernews.com/2022/11/researchers-detail-new-malware-campaign.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RomCom RAT campaigns abuses popular brands like KeePass and SolarWinds NPM<a href="https://securityaffairs.co/wordpress/138091/hacking/romcom-rat-campaigns.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British govt is scanning all Internet devices hosted in UK<a href="https://www.bleepingcomputer.com/news/security/british-govt-is-scanning-all-internet-devices-hosted-in-uk/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Incident at Boeing Subsidiary Causes Flight Planning Disruptions<a href="https://therecord.media/cyber-incident-at-boeing-subsidiary-causes-flight-planning-disruptions/?&web_view=true"> Full Text</a>
@@ -138,7 +138,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Your OT Is No Longer Isolated: Act Fast to Protect It<a href="https://thehackernews.com/2022/11/your-ot-is-no-longer-isolated-act-fast.html"> Full Text</a>
@@ -154,7 +154,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The 10th edition of the ENISA Threat Landscape (ETL) report is out!<a href="https://securityaffairs.co/wordpress/138077/security/enisa-threat-landscape-2022.html"> Full Text</a>
@@ -174,7 +174,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robin Banks phishing service returns to steal banking accounts<a href="https://www.bleepingcomputer.com/news/security/robin-banks-phishing-service-returns-to-steal-banking-accounts/"> Full Text</a>
@@ -190,7 +190,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Idaho College recovering from cyberattack that led to network shutdown<a href="https://therecord.media/north-idaho-college-recovering-from-cyberattack-that-led-to-network-shutdown/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical Vulnerabilities in 3 Industrial Control System Software<a href="https://thehackernews.com/2022/11/cisa-warns-of-critical-vulnerabilities.html"> Full Text</a>
@@ -222,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco addressed several high-severity flaws in its products<a href="https://securityaffairs.co/wordpress/138068/security/cisco-addressed-multiple-flaws.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2022
+November 04, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Twitter brings on $8 fee, phishing emails target verified accounts<a href="https://www.bleepingcomputer.com/news/security/as-twitter-brings-on-8-fee-phishing-emails-target-verified-accounts/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AstraZeneca password lapse exposed patient data<a href="https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Third-Party IT Service Provider Causes Danish State Railways Trains to Stop<a href="https://www.securityweek.com/cyberattack-causes-trains-stop-denmark?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victims lose $237,000 amid resurgence in SingPost and Singtel phishing scams: Singapore Police<a href="https://www.straitstimes.com/singapore/victims-lose-237000-amid-resurgence-in-singpost-and-singtel-phishing-scams-police?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Straits Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Splunk Patches 9 High-Severity Vulnerabilities in Enterprise Product<a href="https://www.securityweek.com/splunk-patches-9-high-severity-vulnerabilities-enterprise-product?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2022
+November 4, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 36-nation ransomware summit agrees to act on cryptocurrency<a href="https://www.theregister.com/2022/11/03/ransomware_summit_cryptocurrency/?&web_view=true"> Full Text</a>

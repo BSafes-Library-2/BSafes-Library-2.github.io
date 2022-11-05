@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraZeneca password lapse exposed patient data<a href="https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pharmaceutical company AstraZeneca has blamed “user error” for leaving a list of credentials unsecured online for more than a year that exposed access to sensitive patient data.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims lose $237,000 amid resurgence in SingPost and Singtel phishing scams: Singapore Police<a href="https://www.straitstimes.com/singapore/victims-lose-237000-amid-resurgence-in-singpost-and-singtel-phishing-scams-police?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 85 people here have lost about $237,000 since January 2022 after falling victim to phishing scams involving purported e-mails from Singapore Post (SingPost) and telco Singtel.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

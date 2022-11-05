@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+250+ U.S. news sites spotted spreading FakeUpdates malware in a supply-chain attack<a href="https://securityaffairs.co/wordpress/138052/cyber-crime/supply-chain-attack-fakeupdates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised a media company to deliver FakeUpdates malware through the websites of hundreds of newspapers in the US.
+
+
+
+Researchers at Proofpoint Threat Research observed threat actor TA569 intermittently injecting malicious code on a media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware claims attack on Continental automotive giant<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-attack-on-continental-automotive-giant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;LockBit ransomware gang has claimed responsibility for&nbsp;a cyberattack&nbsp;against the German multinational automotive group Continental.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Attacks Deploy Custom EDR Evasion Tools Tied to FIN7 Threat Actor<a href="https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs experts analyzed tools used by the ransomware gang in attacks, including some custom tools used for EDR evasion. SentinelLabs believes the developer of these tools is, or was, a developer for the FIN7 gang.
+</details>
+<div style="text-align: right" markdown="1">
+Sentinel One
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+November 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your OT Is No Longer Isolated: Act Fast to Protect It<a href="https://thehackernews.com/2022/11/your-ot-is-no-longer-isolated-act-fast.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not too long ago, there was a clear separation between the operational technology (OT) that drives the physical functions of a company – on the factory floor, for example – and the information technology (IT) that manages a company's data to enable management and planning.&nbsp;  As IT assets became increasingly connected to the outside world via the internet, OT remained isolated from IT – and the rest of the world.  However, the spread of Industrial IoT (IIoT) as well as the need for constant monitoring and tracking information from manufacturing and assembly lines mean the connection between IT and OT systems has greatly expanded. OT is no longer isolated. OT is now just as exposed to the outside world as IT is.  What does this mean for OT security, where hard-to-access devices needed for 24/7 production are difficult to patch? Let's take a look.  The Air Gap Is Gone  Not so long ago, any data exchange between IT and OT operated via a "sneaker net." An operator would p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 10th edition of the ENISA Threat Landscape (ETL) report is out!<a href="https://securityaffairs.co/wordpress/138077/security/enisa-threat-landscape-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I’m proud to announce the release of the 10th edition of the ENISA Threat Landscape (ETL) on the state of the cybersecurity threat landscape.
+
+
+
+The Europen Agency for cybersecurity ENISA releases its&nbsp;ENISA Threat Landscape 2022&nbsp;(ETL) report, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

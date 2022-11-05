@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+36-nation ransomware summit agrees to act on cryptocurrency<a href="https://www.theregister.com/2022/11/03/ransomware_summit_cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House's second International Counter Ransomware Initiative summit has concluded, and this year the 36-nation group has made clear it intends to crack down on how cryptocurrencies are used to finance ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
