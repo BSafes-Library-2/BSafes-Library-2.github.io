@@ -34,6 +34,310 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hacktivist DDoS attacks had minor impact on critical orgs<a href="https://www.bleepingcomputer.com/news/security/fbi-hacktivist-ddos-attacks-had-minor-impact-on-critical-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) said on Friday that distributed denial-of-service (DDoS) attacks coordinated by hacktivist groups have little to no impact.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abusing Microsoft Customer Voice to Send Phishing Links<a href="https://www.avanan.com/blog/abusing-microsoft-customer-voice-to-send-phishing-links?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this attack, hackers are leveraging legitimate links from Microsoft notifications to send credential-harvesting pages. Avanan has seen hundreds of these attacks in the last few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail New Malware Campaign Targeting Indian Government Employees<a href="https://thehackernews.com/2022/11/researchers-detail-new-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Transparent Tribe threat actor has been linked to a new campaign aimed at Indian government organizations with trojanized versions of a two-factor authentication solution called Kavach .  "This group abuses Google advertisements for the purpose of malvertising to distribute backdoored versions of Kavach multi-authentication (MFA) applications," Zscaler ThreatLabz researcher Sudeep Singh  said  in a Thursday analysis.  The cybersecurity company said the advanced persistent threat group has also conducted low-volume credential harvesting attacks in which rogue websites masquerading as official Indian government websites were set up to lure unwitting users into entering their passwords.  Transparent Tribe, also known by the monikers APT36, Operation C-Major, and Mythic Leopard, is a suspected Pakistan  adversarial collective  that has a  history  of striking Indian and Afghanistan entities.   The latest attack chain is not the first time the threat actor has set its sights
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT campaigns abuses popular brands like KeePass and SolarWinds NPM<a href="https://securityaffairs.co/wordpress/138091/hacking/romcom-rat-campaigns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign spreading RomCom RAT impersonates popular software brands like KeePass, and SolarWinds.
+
+
+
+The threat actor behind the RomCom RAT (remote access trojan) has refreshed its attack vector and is now abusing well-known software brands for distribution.
+
+
+
+Researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British govt is scanning all Internet devices hosted in UK<a href="https://www.bleepingcomputer.com/news/security/british-govt-is-scanning-all-internet-devices-hosted-in-uk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's National Cyber Security Centre (NCSC), the government agency that leads the country's cyber security mission, is now scanning all Internet-exposed devices hosted in the UK for vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Incident at Boeing Subsidiary Causes Flight Planning Disruptions<a href="https://therecord.media/cyber-incident-at-boeing-subsidiary-causes-flight-planning-disruptions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jeppesen, a wholly-owned Boeing subsidiary that provides navigation and flight planning tools, confirmed on Thursday that it is dealing with a cybersecurity incident that has caused some flight disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Your OT Is No Longer Isolated: Act Fast to Protect It<a href="https://thehackernews.com/2022/11/your-ot-is-no-longer-isolated-act-fast.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Not too long ago, there was a clear separation between the operational technology (OT) that drives the physical functions of a company – on the factory floor, for example – and the information technology (IT) that manages a company's data to enable management and planning.   As IT assets became increasingly connected to the outside world via the internet, OT remained isolated from IT – and the rest of the world.  However, the spread of Industrial IoT (IIoT) as well as the need for constant monitoring and tracking information from manufacturing and assembly lines mean the connection between IT and OT systems has greatly expanded. OT is no longer isolated. OT is now just as exposed to the outside world as IT is.  What does this mean for OT security, where hard-to-access devices needed for 24/7 production are difficult to patch? Let's take a look.  The Air Gap Is Gone  Not so long ago, any data exchange between IT and OT operated via a "sneaker net." An operator would p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 10th edition of the ENISA Threat Landscape (ETL) report is out!<a href="https://securityaffairs.co/wordpress/138077/security/enisa-threat-landscape-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+I’m proud to announce the release of the 10th edition of the ENISA Threat Landscape (ETL) on the state of the cybersecurity threat landscape.
+
+
+
+The Europen Agency for cybersecurity ENISA releases its ENISA Threat Landscape 2022 (ETL) report, which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robin Banks phishing service returns to steal banking accounts<a href="https://www.bleepingcomputer.com/news/security/robin-banks-phishing-service-returns-to-steal-banking-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Robin Banks phishing-as-a-service (PhaaS) platform is back in action with infrastructure hosted by a Russian internet company that offers protection against distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Idaho College recovering from cyberattack that led to network shutdown<a href="https://therecord.media/north-idaho-college-recovering-from-cyberattack-that-led-to-network-shutdown/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A community college in Idaho is recovering from a cyberattack that forced the school to shut down its networks temporarily. North Idaho College – established in 1933 – is based in Coeur d’Alene, Idaho and has about 6,000 students.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Vulnerabilities in 3 Industrial Control System Software<a href="https://thehackernews.com/2022/11/cisa-warns-of-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  published  three Industrial Control Systems (ICS) advisories about multiple vulnerabilities in software from ETIC Telecom, Nokia, and Delta Industrial Automation.  Prominent among them is a set of three flaws affecting ETIC Telecom's Remote Access Server (RAS), which "could allow an attacker to obtain sensitive information and compromise the vulnerable device and other connected machines," CISA said.   This includes CVE-2022-3703 (CVSS score: 9.0), a critical flaw that stems from the RAS web portal's inability to verify the authenticity of firmware, thereby making it possible to slip in a rogue package that grants backdoor access to the adversary.  Two other flaws relate to a directory traversal bug in the RAS API (CVE-2022-41607, CVSS score: 8.6) and a file upload issue (CVE-2022-40981, CVSS score: 8.3) that can be exploited to read arbitrary files and upload malicious files that can compromise th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco addressed several high-severity flaws in its products<a href="https://securityaffairs.co/wordpress/138068/security/cisco-addressed-multiple-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed multiple flaws impacting its products, including high-severity issues in identity, email, and web security solutions.
+
+
+
+Cisco addressed multiple vulnerabilities impacting some of its products, including high-severity flaws in identity,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Twitter brings on $8 fee, phishing emails target verified accounts<a href="https://www.bleepingcomputer.com/news/security/as-twitter-brings-on-8-fee-phishing-emails-target-verified-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Twitter announces plans to charge users $8 a month for Twitter Blue and verification under Elon Musk's management, BleepingComputer has come across several phishing emails targeting verified users. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AstraZeneca password lapse exposed patient data<a href="https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pharmaceutical company AstraZeneca has blamed “user error” for leaving a list of credentials unsecured online for more than a year that exposed access to sensitive patient data.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Third-Party IT Service Provider Causes Danish State Railways Trains to Stop<a href="https://www.securityweek.com/cyberattack-causes-trains-stop-denmark?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Danish broadcaster DR, all trains operated by DSB, the largest train operating company in the country, came to a standstill on Saturday morning and could not resume their journey for several hours.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victims lose $237,000 amid resurgence in SingPost and Singtel phishing scams: Singapore Police<a href="https://www.straitstimes.com/singapore/victims-lose-237000-amid-resurgence-in-singpost-and-singtel-phishing-scams-police?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 85 people here have lost about $237,000 since January 2022 after falling victim to phishing scams involving purported e-mails from Singapore Post (SingPost) and telco Singtel.
+</details>
+<div style="text-align: right" markdown="1">
+Straits Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk Patches 9 High-Severity Vulnerabilities in Enterprise Product<a href="https://www.securityweek.com/splunk-patches-9-high-severity-vulnerabilities-enterprise-product?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these security defects have a CVSS score of 8.8 and are described as remote code execution (RCE), XML external entity (XXE) injection, and reflected cross-site scripting (XSS) bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+36-nation ransomware summit agrees to act on cryptocurrency<a href="https://www.theregister.com/2022/11/03/ransomware_summit_cryptocurrency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House's second International Counter Ransomware Initiative summit has concluded, and this year the 36-nation group has made clear it intends to crack down on how cryptocurrencies are used to finance ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 03, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
