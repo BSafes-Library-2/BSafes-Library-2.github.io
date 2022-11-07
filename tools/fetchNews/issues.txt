@@ -31,7 +31,6 @@
 
 Alerts:
 . https://media.defense.gov/2022/Oct/31/2003105368/-1/-1/0/SECURING_THE_SOFTWARE_SUPPLY_CHAIN_SUPPLIERS.PDF
-[DOC]. https://www.ic3.gov/Media/News/2022/221104.pdf 
 [DOC]. https://securityaffairs.co/wordpress/138077/security/enisa-threat-landscape-2022.html
 
 Law

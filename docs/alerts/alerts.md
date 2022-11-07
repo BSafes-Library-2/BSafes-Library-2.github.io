@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists Use of DDoS Activity Causes Minor Impacts <a href="https://publications.bsafes.com/docs/fbi/pin-2022-1104-001-hacktivists-use-of-ddos-activity-causes-minor-impacts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) is releasing this Private Industry Notification to highlight hacktivism activity and encourage organizations to implement the recommendations in the Mitigations section to reduce the likelihood and impact of distributed denial of service (DDoS) attack.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 3, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
