@@ -34,6 +34,158 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 gang claims to have stolen data from Kearney & Company<a href="https://securityaffairs.co/wordpress/138136/cyber-crime/lockbit-ransomware-kearney-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group LockBit claimed to have stolen data from consulting and IT services provider Kearney & Company.
+
+
+
+Kearney is the premier CPA firm that services across the financial management spectrum to government entities. The company provides...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack blocked the trains in Denmark<a href="https://securityaffairs.co/wordpress/138127/cyber-crime/cyberattack-blocked-trains-denmark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of October, a cyber attack caused the trains to stop in Denmark, the attack hit a third-party IT service provider.
+
+
+
+A cyber attack caused training the trains operated by DSB to stop in Denmark the last weekend, threat actors hit a third-party...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 392<a href="https://securityaffairs.co/wordpress/138124/breaking-news/security-affairs-newsletter-round-392.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+29...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft sued for open-source piracy through GitHub Copilot<a href="https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Programmer and lawyer Matthew Butterick has sued Microsoft, GitHub, and OpenAI, alleging that GitHub's Copilot violates the terms of open-source licenses and infringes the rights of code authors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover 29 Malicious PyPI Packages Targeted Developers with W4SP Stealer<a href="https://thehackernews.com/2022/11/researchers-uncover-29-malicious-pypi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered 29 packages in Python Package Index (PyPI), the official third-party software repository for the Python programming language, that aim to infect developers' machines with a malware called W4SP Stealer .  "The main attack seems to have started around October 12, 2022, slowly picking up steam to a concentrated effort around October 22," software supply chain security company Phylum  said  in a report published this week.  The list of offending packages is as follows: typesutil, typestring, sutiltype, duonet, fatnoob, strinfer, pydprotect, incrivelsim, twyne, pyptext, installpy, faq, colorwin, requests-httpx, colorsama, shaasigma, stringe, felpesviadinho, cypress, pystyte, pyslyte, pystyle, pyurllib, algorithmic, oiu, iao, curlapi, type-color, and pyhints.   Collectively, the packages have been downloaded more than 5,700 times, with some of the libraries (e.g., twyne and colorsama) relying on typosquatting to trick unsuspecting users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Uptick in Hackers Leveraging Publicly-Disclosed 0-Day Vulnerabilities<a href="https://thehackernews.com/2022/11/microsoft-warns-of-uptick-in-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an uptick among nation-state and criminal actors increasingly leveraging publicly-disclosed zero-day vulnerabilities for breaching target environments.  The tech giant, in its 114-page  Digital Defense Report , said it has "observed a reduction in the time between the announcement of a vulnerability and the commoditization of that vulnerability," making it imperative that organizations patch such exploits in a timely manner.  This also corroborates with an April 2022 advisory from the U.S. Cybersecurity and Infrastructure Security Agency (CISA), which  found  that bad actors are "aggressively" targeting newly disclosed software bugs against broad targets globally.   Microsoft noted that it only takes 14 days on average for an exploit to be available in the wild after public disclosure of a flaw, stating that while zero-day attacks are initially limited in scope, they tend to be swiftly adopted by other threat actors, leading to indiscriminat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+29 malicious PyPI packages spotted delivering the W4SP Stealer<a href="https://securityaffairs.co/wordpress/138113/hacking/pypi-packages-delivers-w4sp-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers discovered 29 malicious PyPI packages delivering the W4SP stealer to developers' systems.
+
+
+
+Cybersecurity researchers have discovered 29 packages in the official Python Package Index (PyPI) repository designed to infect developers'...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day are exploited on a massive scale in increasingly shorter timeframes<a href="https://securityaffairs.co/wordpress/138100/security/treat-actors-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of an uptick among threat actors increasingly using publicly-disclosed zero-day exploits in their attacks.
+
+
+
+According to the Digital Defense Report published by Microsoft, threat actors are increasingly leveraging publicly-disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 04, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

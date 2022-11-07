@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft sued for open-source piracy through GitHub Copilot<a href="https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Programmer and lawyer Matthew Butterick has sued Microsoft, GitHub, and OpenAI, alleging that GitHub's Copilot violates the terms of open-source licenses and infringes the rights of code authors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

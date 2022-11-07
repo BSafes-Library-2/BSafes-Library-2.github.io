@@ -8,6 +8,48 @@ nav_order: 900140
 
 ## Outage
 ---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Incident at Boeing Subsidiary Causes Flight Planning Disruptions<a href="https://therecord.media/cyber-incident-at-boeing-subsidiary-causes-flight-planning-disruptions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Jeppesen, a wholly-owned Boeing subsidiary that provides navigation and flight planning tools, confirmed on Thursday that it is dealing with a cybersecurity incident that has caused some flight disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Idaho College recovering from cyberattack that led to network shutdown<a href="https://therecord.media/north-idaho-college-recovering-from-cyberattack-that-led-to-network-shutdown/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A community college in Idaho is recovering from a cyberattack that forced the school to shut down its networks temporarily. North Idaho College – established in 1933 – is based in Coeur d’Alene, Idaho and has about 6,000 students.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Third-Party IT Service Provider Causes Danish State Railways Trains to Stop<a href="https://www.securityweek.com/cyberattack-causes-trains-stop-denmark?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Danish broadcaster DR, all trains operated by DSB, the largest train operating company in the country, came to a standstill on Saturday morning and could not resume their journey for several hours.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

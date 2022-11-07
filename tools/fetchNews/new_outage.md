@@ -8,6 +8,24 @@ nav_order: 900140
 
 ## Outage
 ---
+November 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack blocked the trains in Denmark<a href="https://securityaffairs.co/wordpress/138127/cyber-crime/cyberattack-blocked-trains-denmark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of October, a cyber attack caused the trains to stop in Denmark, the attack hit a third-party IT service provider.
+
+
+
+A cyber attack caused training the trains operated by DSB to stop in Denmark the last weekend, threat actors hit a third-party...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

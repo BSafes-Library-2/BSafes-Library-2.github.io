@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abusing Microsoft Customer Voice to Send Phishing Links<a href="https://www.avanan.com/blog/abusing-microsoft-customer-voice-to-send-phishing-links?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this attack, hackers are leveraging legitimate links from Microsoft notifications to send credential-harvesting pages. Avanan has seen hundreds of these attacks in the last few weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robin Banks phishing service returns to steal banking accounts<a href="https://www.bleepingcomputer.com/news/security/robin-banks-phishing-service-returns-to-steal-banking-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Robin Banks&nbsp;phishing-as-a-service (PhaaS) platform is back in action with infrastructure hosted by a Russian internet company that offers protection against distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 04, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Twitter brings on $8 fee, phishing emails target verified accounts<a href="https://www.bleepingcomputer.com/news/security/as-twitter-brings-on-8-fee-phishing-emails-target-verified-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Twitter announces plans to charge users $8 a month for Twitter Blue and verification under Elon Musk's management, BleepingComputer has come across several phishing emails targeting verified users.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
