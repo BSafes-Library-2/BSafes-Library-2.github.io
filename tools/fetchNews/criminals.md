@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 gang claims to have stolen data from Kearney &amp; Company<a href="https://securityaffairs.co/wordpress/138136/cyber-crime/lockbit-ransomware-kearney-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group LockBit claimed to have stolen data from consulting and IT services provider Kearney &amp; Company.
+
+
+
+Kearney is the premier CPA firm that services across the financial management spectrum to government entities. The company provides...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantifying Cyber Conflict: Introducing the European Repository on Cyber Incidents<a href="https://www.lawfareblog.com/quantifying-cyber-conflict-introducing-european-repository-cyber-incidents"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Statistical data on cyber conflict is lacking. A new dataset by a European research initiative called EuRepoC tries to solve this problem by launching a dashboard to visualize more than 1,400 cyber incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Hidden Facebook Tool Lets Users Remove Their Email or Phone Number Shared by Others<a href="https://thehackernews.com/2022/11/this-hidden-facebook-tool-lets-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook appears to have silently rolled out a tool that allows users to remove their contact information, such as phone numbers and email addresses, uploaded by others.  The existence of the&nbsp; tool , which is buried inside a&nbsp; Help Center page &nbsp;about " Friending ," was first reported by&nbsp; Business Insider &nbsp;last week. It's offered as a way for "Non-users" to "exercise their rights under applicable laws."   An Internet Archive search via the Wayback Machine&nbsp; shows &nbsp;that the option has been available since at least May 29, 2022.  When users&nbsp; sync the contact lists &nbsp;on their devices with Facebook (or any other service), it's worth pointing out the&nbsp; privacy violation , which stems from the fact that those contacts didn't explicitly consent to the upload.  "Someone may have uploaded their address book to Facebook, Messenger or Instagram with your contact information in it," Facebook notes in the page. "You can ask us to confirm whether
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the global hack-for-hire industry<a href="https://www.thebureauinvestigates.com/stories/2022-11-05/inside-the-global-hack-for-hire-industry?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years there has been a trend for computer security firms to pretend to be training “white hat” hackers so their knowledge can be used to protect clients from online attacks. In reality, however, they are being readied for the dark side.
+</details>
+<div style="text-align: right" markdown="1">
+thebureauinvestigates
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

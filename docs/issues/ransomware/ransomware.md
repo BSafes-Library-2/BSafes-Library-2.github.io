@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azov Ransomware is a wiper, destroying data 666 bytes at a time<a href="https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Azov Ransomware continues to be heavily distributed worldwide, now proven to be a data wiper that intentionally destroys victims' data and infects other programs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

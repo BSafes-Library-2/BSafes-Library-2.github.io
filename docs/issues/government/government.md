@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NCSC govt agency is scanning the Internet for flawed devices in the UK<a href="https://securityaffairs.co/wordpress/138158/security/uk-ncsc-scans-internet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK National Cyber Security Centre (NCSC) announced that is scanning all Internet-exposed devices hosted in the UK for vulnerabilities.
+
+
+
+The United Kingdom's National Cyber Security Centre (NCSC) is scanning all Internet-exposed devices hosted in the United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

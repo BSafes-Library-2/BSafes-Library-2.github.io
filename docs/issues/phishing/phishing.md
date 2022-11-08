@@ -8,6 +8,70 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robin Banks phishing-as-a-service platform continues to evolve<a href="https://securityaffairs.co/wordpress/138199/cyber-crime/robin-banks-phaas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing-as-a-service (PhaaS) platform Robin Banks&nbsp;migrated its infrastructure to DDoS-Guard, a Russian bulletproof hosting service.
+
+
+
+The phishing-as-a-service (PhaaS) platform Robin Banks was originally hosted by Cloudflare provider, but the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robin Banks Phishing Service for Cybercriminals Returns with Russian Server<a href="https://thehackernews.com/2022/11/robin-banks-phishing-service-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing-as-a-service (PhaaS) platform known as&nbsp; Robin Banks &nbsp;has relocated its attack infrastructure to DDoS-Guard, a Russian provider of bulletproof hosting services.  The switch comes after "Cloudflare disassociated Robin Banks phishing infrastructure from its services, causing a multi-day disruption to operations," according to a&nbsp; report &nbsp;from cybersecurity company IronNet.  Robin Banks was&nbsp; first documented &nbsp;in July 2022 when the platform's abilities to offer ready-made phishing kits to criminal actors were revealed, making it possible to steal the financial information of customers of popular banks and other online services.  It was also found to prompt users to enter Google and Microsoft credentials on rogue landing pages, suggesting an attempt on part of the malware authors to monetize initial access to corporate networks for post-exploitation activities such as espionage and ransomware.   In recent months, Cloudflare's decision to blocklist its infrastruct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outmaneuvering cybercriminals by recognizing mobile phishing threats’ telltale markers<a href="https://www.helpnetsecurity.com/2022/11/04/smartphones-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, we are dealing with a different breed of hacker. They aren’t just targeting sub-optimal phone security or taking advantage of exploitable systems – they understand the end user (you and me). They know how we think and what we’ll do.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abusing Microsoft Dynamics 365 Customer Voice in phishing attacks<a href="https://securityaffairs.co/wordpress/138147/cyber-crime/microsoft-dynamics-365-customer-voice-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a campaign abusing Microsoft Dynamics 365 customer voice to steal credentials from the victims.
+
+
+
+Microsoft's Dynamics 365 Customer Voice product allows organizations to gain customer feedback, it is used to conduct customer satisfaction...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

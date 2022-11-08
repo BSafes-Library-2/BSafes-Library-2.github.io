@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. unmasks hacker who stole 50,000 bitcoins from Silk Road<a href="https://www.bleepingcomputer.com/news/security/us-unmasks-hacker-who-stole-50-000-bitcoins-from-silk-road/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice has announced today the conviction of James Zhong, a mysterious hacker who stole 50,000 bitcoins from the 'Silk Road' dark net marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang threatens to release stolen Medibank data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-release-stolen-medibank-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang that some believe is a relaunch of REvil and others track as BlogXX has claimed responsibility for last month's ransomware attack against Australian health insurance provider Medibank Private Limited.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

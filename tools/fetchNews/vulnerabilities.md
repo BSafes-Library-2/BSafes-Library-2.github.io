@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Uptick in Hackers Leveraging Publicly-Disclosed 0-Day Vulnerabilities<a href="https://thehackernews.com/2022/11/microsoft-warns-of-uptick-in-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an uptick among nation-state and criminal actors increasingly leveraging publicly-disclosed zero-day vulnerabilities for breaching target environments.  The tech giant, in its 114-page&nbsp; Digital Defense Report , said it has "observed a reduction in the time between the announcement of a vulnerability and the commoditization of that vulnerability," making it imperative that organizations patch such exploits in a timely manner.  This also corroborates with an April 2022 advisory from the U.S. Cybersecurity and Infrastructure Security Agency (CISA), which&nbsp; found &nbsp;that bad actors are "aggressively" targeting newly disclosed software bugs against broad targets globally.   Microsoft noted that it only takes 14 days on average for an exploit to be available in the wild after public disclosure of a flaw, stating that while zero-day attacks are initially limited in scope, they tend to be swiftly adopted by other threat actors, leading to indiscriminat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day are exploited on a massive scale in increasingly shorter timeframes<a href="https://securityaffairs.co/wordpress/138100/security/treat-actors-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of an uptick among threat actors increasingly using publicly-disclosed zero-day exploits in their attacks.
+
+
+
+According to the Digital Defense Report published by Microsoft, threat actors are increasingly leveraging publicly-disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

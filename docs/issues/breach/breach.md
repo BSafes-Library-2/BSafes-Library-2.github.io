@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank Refuses to Pay Ransom After 9.7 Million Customers Exposed in Ransomware Hack<a href="https://thehackernews.com/2022/11/medibank-refuses-to-pay-ransom-after-97.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian health insurer Medibank today confirmed that personal data belonging to around 9.7 million of its current and former customers were accessed following a ransomware incident.  The&nbsp; attack , according to the company, was detected in its IT network on October 12 in a manner that it said was "consistent with the precursors to a ransomware event," prompting it to isolate its systems, but not before the attackers exfiltrated the data.  "This figure represents around 5.1 million Medibank customers, around 2.8 million ahm customers, and around 1.8 million international customers," Medibank&nbsp; noted .   Compromised details include names, dates of birth, addresses, phone numbers, and email addresses, as well as Medicare numbers (but not expiry dates) for ahm customers, and passport numbers (but not expiry dates) and visa details for international student customers.  It further said the incident resulted in the theft of health claims data for about 160,000 Medibank c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Find URLScan Security Scanner Inadvertently Leaks Sensitive URLs and Data<a href="https://thehackernews.com/2022/11/experts-find-urlscan-security-scanner.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning of "a trove of sensitive information" leaking through&nbsp;urlscan.io, a website scanner for suspicious and malicious URLs.  "Sensitive URLs to shared documents, password reset pages, team invites, payment invoices and more are publicly listed and searchable," Positive Security co-founder, Fabian Bräunlein,&nbsp; said &nbsp;in a report published on November 2, 2022.  The Berlin-based cybersecurity firm said it started an investigation in the aftermath of a&nbsp; notification &nbsp;sent by GitHub in February 2022 to an unknown number of users about sharing their usernames and private repository names (i.e.,&nbsp; GitHub Pages URLs ) to urlscan.io for metadata analysis as part of an automated process.   Urlscan.io, which has been described as a&nbsp; sandbox for the web , is&nbsp; integrated &nbsp;into several security solutions&nbsp; via its API .  "With the type of integration of this API (for example via a security tool that scans every incoming email and performs a urlscan o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian real estate agency Harcourts suffers a data breach<a href="https://www.sbs.com.au/news/article/advocates-had-warned-of-the-dangers-of-a-real-estate-data-breach-it-just-happened/6mlieq0g0?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian real estate agency Harcourts has revealed it was affected by a cyberattack last month, with the personal information of tenants, landlords, and tradespeople potentially exposed.
+</details>
+<div style="text-align: right" markdown="1">
+SBS News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at IT Support Firm May Impact Health Records of Thousands of School Students in Victoria<a href="https://www.theage.com.au/national/victoria/data-hack-at-it-firm-may-include-health-records-of-victorian-school-students-20221105-p5bvuz.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Victorian students and their families may have had personal data including medical information stolen after a technology company that has contracts with the Victorian government was hacked.
+</details>
+<div style="text-align: right" markdown="1">
+The Age
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
