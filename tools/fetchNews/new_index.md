@@ -34,7 +34,423 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit affiliate uses Amadey Bot malware to deploy ransomware<a href="https://www.bleepingcomputer.com/news/security/lockbit-affiliate-uses-amadey-bot-malware-to-deploy-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A LockBit 3.0 ransomware affiliate is using phishing emails that install the Amadey Bot to take control of a device and encrypt devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT36 Targets Indian Government Employees with Limepad<a href="https://cyware.com/news/apt36-targets-indian-government-employees-with-limepad-b9245567"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign by Pakistan-linked Transparent Tribe was found targeting Indian government entities with trojanized strains of a 2FA solution, named Kavach. APT-36 has registered several domains spoofing Indian government organization sites to launch credential harvesting and phishing attack ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amadey Bot Spotted Deploying LockBit 3.0 Ransomware on Hacked Machines<a href="https://thehackernews.com/2022/11/amadey-bot-spotted-deploying-lockbit-30.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Amadey malware is being used to deploy  LockBit 3.0 ransomware  on compromised systems, researchers have warned.  "Amadey bot, the malware that is used to install LockBit, is being distributed through two methods: one using a malicious Word document file, and the other using an executable that takes the disguise of the Word file icon," AhnLab Security Emergency Response Center (ASEC)  said  in a new report published today.  Amadey, first discovered in 2018, is a "criminal-to-criminal (C2C) botnet infostealer project," as  described  by the BlackBerry Research and Intelligence Team, and is offered for purchase on the criminal underground for as much as $600.   While its primary function is to harvest sensitive information from the infected hosts, it further doubles up as a channel to deliver next-stage artifacts. Earlier this July, it was  spread using SmokeLoader , a malware with not-so-different features like itself.  Just last month, ASEC also  found  the mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix ADC and Citrix Gateway are affected by a critical authentication bypass flaw<a href="https://securityaffairs.co/wordpress/138264/security/citrix-gateway-adc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix released security updates to address a critical authentication bypass vulnerability in Citrix ADC and Citrix Gateway.
+
+
+
+Citrix is urging customers to install security updates to address a critical authentication bypass issue, tracked as CVE-2022-27510,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious extension lets attackers control Google Chrome remotely<a href="https://www.bleepingcomputer.com/news/security/malicious-extension-lets-attackers-control-google-chrome-remotely/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Chrome browser botnet named 'Cloud9' has been discovered in the wild using malicious extensions to steal online accounts, log keystrokes, inject ads and malicious JS code, and enlist the victim's browser in DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passport-SAML auth bypass triggers fix of critical, upstream XMLDOM bug<a href="https://portswigger.net/daily-swig/passport-saml-auth-bypass-triggers-fix-of-critical-upstream-xmldom-bug?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability arising from improper input validation has been addressed in XMLDOM, the JavaScript implementation of W3C DOM for Node.js, Rhino, and browsers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Laplas Clipper Malware Targeting Cryptocurrency Users via SmokeLoader<a href="https://thehackernews.com/2022/11/new-laplas-clipper-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency users are being targeted with a new clipper malware strain dubbed  Laplas  by means of another malware known as SmokeLoader.  SmokeLoader, which is delivered by means of weaponized documents sent through spear-phishing emails, further acts as a conduit for other  commodity trojans  like  SystemBC  and  Raccoon Stealer 2.0 , according to an  analysis  from Cyble.   Observed in the wild since circa 2013,  SmokeLoader  functions as a generic loader capable of distributing additional payloads onto compromised systems, such as information-stealing malware and other implants. In July 2022, it was found to deploy a backdoor called  Amadey .  Cyble said it discovered over 180 samples of the Laplas since October 24, 2022, suggesting a wide deployment.   Clippers, also called ClipBankers, fall under a category of malware that Microsoft calls  cryware , which are designed to steal crypto by keeping close tabs on a victim's clipboard activity and swapping the original wallet ad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmokeLoader campaign distributes new Laplas Clipper malware<a href="https://securityaffairs.co/wordpress/138251/malware/smokeloader-delivers-laplas-clipper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a SmokeLoader campaign that is distributing a new clipper malware dubbed Laplas Clipper that targets cryptocurrency users.
+
+
+
+Cyble researchers uncovered a SmokeLoader campaign that is distributing community malware, such as SystemBC and Raccoon...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes three critical auth bypass bugs in remote access tool<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to address three critical severity vulnerabilities in the Workspace ONE Assist solution that enable remote attackers to bypass authentication and elevate privileges to admin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robin Banks Receives Update with New Tools And Evasion Techniques<a href="https://cyware.com/news/robin-banks-receives-update-with-new-tools-and-evasion-techniques-5fbe3330"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robin Banks, of late, has gone through a major transformation. The Phishing-as-a-Service (PhaaS) platform has introduced several new features, including a cookie-stealing capability. Additionally, hackers can now fully access their phishing kit at $1,500 per month. The latest developments sugg ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Seizes Over 50K Bitcoin Worth $3.3 Billion Linked to Silk Road Dark Web<a href="https://thehackernews.com/2022/11/us-seizes-over-50k-bitcoin-worth-33.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Monday said it seized 50,676 Bitcoin in November 2021 that was stolen in the 2012 hack of the now-defunct Silk Road dark web marketplace.  The bitcoin, which was obtained in 2012 and valued at $3.36 billion when it was discovered last year, is now worth $1.04 billion. Additionally recovered were $661,900 in cash, 25 Casascius coins with an approximate value of 174 Bitcoin, and gold- and silver-colored bars.  It's also one of the largest cryptocurrency seizures to date, followed by the confiscation of $3.6 billion worth of bitcoin  earlier this February  tied to the 2016 breach of the Bitfinex crypto exchange.   The Justice Department said it conducted the seizure on November 9, 2021, pursuant to a search warrant issued to James Zhong's house located in the U.S. state of Georgia. It also said the keys to the tokens were found in an underground floor safe and on a "single-board computer that was submerged under blankets in a popcorn t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank confirms ransomware attack impacting 9.7M customers, but doesn’t pay the ransom<a href="https://securityaffairs.co/wordpress/138243/cyber-crime/medibank-confirms-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian health insurer Medibank confirmed that personal data belonging to around 9.7 million current and former customers were exposed as a result of a ransomware attack.
+
+
+
+Medibank announced that personal data belonging to around 9.7M of current...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes ProxyNotShell Exchange zero-days exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates to address two high-severity Microsoft Exchange zero-day vulnerabilities collectively known as ProxyNotShell and exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses Critical Vulnerabilities; Schneider Electric Also Issues One Advisory<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-addresses-critical-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric have released their Patch Tuesday advisories for November 2022. Siemens has released nine new security advisories covering a total of 30 vulnerabilities, but Schneider has only published one new advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Reasons to Consolidate Your Tech Stack<a href="https://thehackernews.com/2022/11/5-reasons-to-consolidate-your-tech-stack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The news surrounding the slowing economy has many wondering how much of an impact it will have on their businesses – and lives. And there's good reason to start preparing.   A recent survey by McKinsey & Company found that 85% of small and midsize businesses plan to increase their security spending heading into 2023, while Gartner recently projected that 2022 IT spending will only grow by 3%, down from a 10% growth rate the year before.  We're already seeing businesses making cuts and freezing budgets. And smaller organizations that already have limited budgets are more vulnerable than ever. While we are still dealing with the unknown, one thing  is  clear: even as the economy slows down, security threats don't.  But there's hope.   A  new eBook  illuminates how one solution can not only help increase security operations efficiency but also provide economic safeguards for security teams that are already strapped for cash.   What is the solution? Consolidation.  If
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ seizes $3.36B Bitcoin from Silk Road hacker<a href="https://securityaffairs.co/wordpress/138228/cyber-crime/silk-road-hacker-pleads-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice condemned James Zhong, a hacker who stole 50,000 bitcoins from the Silk Road dark net marketplace.
+
+
+
+The US Department of Justice announced that a man from Georgia, James Zhong, has pleaded guilty to wire fraud after stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft November 2022 Patch Tuesday fixes 6 exploited zero-days, 68 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2022-patch-tuesday-fixes-6-exploited-zero-days-68-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Today is Microsoft's November 2022 Patch Tuesday, and with it comes fixes for six actively exploited Windows vulnerabilities and a total of 68 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches High-Severity Privilege Escalation Vulnerabilities in Android<a href="https://www.securityweek.com/google-patches-high-severity-privilege-escalation-vulnerabilities-android?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first part of the update, the ‘2022-11-01 patch level’, includes fixes for 17 security defects, 12 of which could lead to escalation of privilege (EoP), three to denial of service (DoS), and two leading to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix urges admins to patch critical ADC, Gateway auth bypass<a href="https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-critical-adc-gateway-auth-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is urging customers to install security updates for a critical authentication bypass vulnerability in Citrix ADC and Citrix Gateway.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution bug exposed Ember.js applications to XSS<a href="https://portswigger.net/daily-swig/prototype-pollution-bug-exposed-ember-js-applications-to-xss?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A prototype pollution bug in the JavaScript framework for building Node.js web applications could potentially allow attackers to stage cross-site scripting (XSS) attacks and steal user information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Influencer 'Hushpuppi' gets 11 years in prison for cyber fraud<a href="https://www.bleepingcomputer.com/news/security/influencer-hushpuppi-gets-11-years-in-prison-for-cyber-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Instagram influencer known as 'Hushpuppi' has been sentenced to 11 years in prison for conspiring to launder tens of millions of USD from business email compromise (BEC) scams and various cyber schemes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Causes Disruptions at Canadian Meat Giant Maple Leaf Foods<a href="https://www.securityweek.com/cyberattack-causes-disruptions-canadian-meat-giant-maple-leaf-foods?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maple Leaf Foods said it has executed business continuity plans and that work is underway to restore the impacted systems. However, the company expects further operational and service disruptions, saying that restoration efforts take time.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhance your privacy with this second phone number app deal<a href="https://www.bleepingcomputer.com/news/security/enhance-your-privacy-with-this-second-phone-number-app-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protecting your privacy while staying in touch can be a difficult problem to solve. This second-phone app helps you solve it with a lifetime subscription for $24.99, 83% off the $150 MSRP.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worldr raises $11m to let businesses control their messaging data<a href="https://www.uktech.news/cybersecurity/worldr-seed-businesses-own-messaging-data-20221107?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Worldr has secured $11 million in a seed funding round led by Molten Ventures for its messaging data sovereignty software that integrates with Microsoft Teams, Slack, and WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+UKTN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beosin, a leading blockchain security firm, announces $20M Series A strategic financing<a href="https://cointelegraph.com/press-releases/beosin-a-leading-blockchain-security-firm-announces-20m-series-a-strategic-financing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beosin, a leading blockchain security service provider, has recently closed a $20-million strategic financing round participated by prominent industry investors and existing shareholders.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Azov Ransomware is a wiper, destroying data 666 bytes at a time<a href="https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/"> Full Text</a>
@@ -50,7 +466,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SocGholish Diversifies and Expands Its Malware Staging Infrastructure to Counter Defenders<a href="https://www.sentinelone.com/labs/socgholish-diversifies-and-expands-its-malware-staging-infrastructure-to-counter-defenders/?&web_view=true"> Full Text</a>
@@ -66,7 +482,7 @@ Sentinel One
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medibank Refuses to Pay Ransom After 9.7 Million Customers Exposed in Ransomware Hack<a href="https://thehackernews.com/2022/11/medibank-refuses-to-pay-ransom-after-97.html"> Full Text</a>
@@ -82,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantifying Cyber Conflict: Introducing the European Repository on Cyber Incidents<a href="https://www.lawfareblog.com/quantifying-cyber-conflict-introducing-european-repository-cyber-incidents"> Full Text</a>
@@ -98,7 +514,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Justice Blade’ Hackers are Targeting Saudi Arabia<a href="https://securityaffairs.co/wordpress/138213/hacking/justice-blade-targets-saudi-arabia.html"> Full Text</a>
@@ -118,7 +534,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. unmasks hacker who stole 50,000 bitcoins from Silk Road<a href="https://www.bleepingcomputer.com/news/security/us-unmasks-hacker-who-stole-50-000-bitcoins-from-silk-road/"> Full Text</a>
@@ -134,7 +550,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Laplas Clipper - A Feature-Rich Clipper With Sophisticated Tactics<a href="https://cyware.com/news/laplas-clipper-a-feature-rich-clipper-with-sophisticated-tactics-721ba48f"> Full Text</a>
@@ -150,7 +566,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Hidden Facebook Tool Lets Users Remove Their Email or Phone Number Shared by Others<a href="https://thehackernews.com/2022/11/this-hidden-facebook-tool-lets-users.html"> Full Text</a>
@@ -166,7 +582,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robin Banks phishing-as-a-service platform continues to evolve<a href="https://securityaffairs.co/wordpress/138199/cyber-crime/robin-banks-phaas.html"> Full Text</a>
@@ -186,7 +602,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maple Leaf Foods suffers outage following weekend cyberattack<a href="https://www.bleepingcomputer.com/news/security/maple-leaf-foods-suffers-outage-following-weekend-cyberattack/"> Full Text</a>
@@ -202,7 +618,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China likely is stockpiling vulnerabilities, says Microsoft<a href="https://www.theregister.com/2022/11/07/china_stockpiles_vulnerabilities_microsoft_asserts/?&web_view=true"> Full Text</a>
@@ -218,7 +634,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Find URLScan Security Scanner Inadvertently Leaks Sensitive URLs and Data<a href="https://thehackernews.com/2022/11/experts-find-urlscan-security-scanner.html"> Full Text</a>
@@ -234,7 +650,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water sector in the US and Israel still unprepared to defeat cyber attacks<a href="https://securityaffairs.co/wordpress/138185/hacking/water-sector-us-israel-cyberattacks.html"> Full Text</a>
@@ -254,7 +670,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang threatens to release stolen Medibank data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-release-stolen-medibank-data/"> Full Text</a>
@@ -270,7 +686,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the global hack-for-hire industry<a href="https://www.thebureauinvestigates.com/stories/2022-11-05/inside-the-global-hack-for-hire-industry?&web_view=true"> Full Text</a>
@@ -286,7 +702,7 @@ thebureauinvestigates
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2022
+November 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Robin Banks Phishing Service for Cybercriminals Returns with Russian Server<a href="https://thehackernews.com/2022/11/robin-banks-phishing-service-for.html"> Full Text</a>
@@ -302,7 +718,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK NCSC govt agency is scanning the Internet for flawed devices in the UK<a href="https://securityaffairs.co/wordpress/138158/security/uk-ncsc-scans-internet.html"> Full Text</a>
@@ -322,7 +738,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian real estate agency Harcourts suffers a data breach<a href="https://www.sbs.com.au/news/article/advocates-had-warned-of-the-dangers-of-a-real-estate-data-breach-it-just-happened/6mlieq0g0?&web_view=true"> Full Text</a>
@@ -338,7 +754,7 @@ SBS News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at IT Support Firm May Impact Health Records of Thousands of School Students in Victoria<a href="https://www.theage.com.au/national/victoria/data-hack-at-it-firm-may-include-health-records-of-victorian-school-students-20221105-p5bvuz.html?&web_view=true"> Full Text</a>
@@ -354,7 +770,7 @@ The Age
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 3.0 Claims to Have Stolen Data From Kearney & Company, Demands $2 Million in Ransom<a href="https://securityaffairs.co/wordpress/138136/cyber-crime/lockbit-ransomware-kearney-company.html?&web_view=true"> Full Text</a>
@@ -370,7 +786,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Outmaneuvering cybercriminals by recognizing mobile phishing threats’ telltale markers<a href="https://www.helpnetsecurity.com/2022/11/04/smartphones-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -386,7 +802,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Accuses Chinese State-linked Actors of Abusing Vulnerability Disclosure Requirements<a href="https://therecord.media/microsoft-accuses-china-of-abusing-vulnerability-disclosure-requirements/?&web_view=true"> Full Text</a>
@@ -402,7 +818,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: LockBit ransomware gang hits Melbourne school Kilvington Grammar<a href="https://itwire.com/business-it-news/security/lockbit-ransomware-gang-hits-melbourne-school-kilvington-grammar.html?&web_view=true"> Full Text</a>
@@ -418,7 +834,7 @@ IT Wire
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
+November 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abusing Microsoft Dynamics 365 Customer Voice in phishing attacks<a href="https://securityaffairs.co/wordpress/138147/cyber-crime/microsoft-dynamics-365-customer-voice-phishing.html"> Full Text</a>
