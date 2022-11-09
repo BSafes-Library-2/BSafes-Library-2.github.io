@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China likely is stockpiling vulnerabilities, says Microsoft<a href="https://www.theregister.com/2022/11/07/china_stockpiles_vulnerabilities_microsoft_asserts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has asserted that China's offensive cyber capabilities have improved, thanks to a law that has allowed Beijing to create an arsenal of unreported software vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water sector in the US and Israel still unprepared to defeat cyber attacks<a href="https://securityaffairs.co/wordpress/138185/hacking/water-sector-us-israel-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert warns that the US and Israel are still unprepared to defeat a cyber attack against organizations in the water sector.
+
+
+
+Ariel Stern, a former Israeli Air Force captain, warns that the US and Israel are still unprepared to defeat a cyber attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

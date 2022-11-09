@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Justice Blade’ Hackers are Targeting Saudi Arabia<a href="https://securityaffairs.co/wordpress/138213/hacking/justice-blade-targets-saudi-arabia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threats actors calling themselves "Justice Blade" published leaked data from an outsourcing IT vendor.
+
+
+
+The group of threat actors calling themselves 'Justice Blade' published leaked data from Smart Link BPO Solutions, an outsourcing IT vendor working...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Accuses Chinese State-linked Actors of Abusing Vulnerability Disclosure Requirements<a href="https://therecord.media/microsoft-accuses-china-of-abusing-vulnerability-disclosure-requirements/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday accused state-backed hackers in China of abusing the country’s vulnerability disclosure requirements in an effort to discover and develop zero-day exploits.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: LockBit ransomware gang hits Melbourne school Kilvington Grammar<a href="https://itwire.com/business-it-news/security/lockbit-ransomware-gang-hits-melbourne-school-kilvington-grammar.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data exfiltrated from independent co-educational Baptist institution Kilvington Grammar School by the LockBit ransomware gang has been posted on the dark web on October 14. LockBit only attacks Windows systems.
+</details>
+<div style="text-align: right" markdown="1">
+IT Wire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Robin Banks Receives Update with New Tools And Evasion Techniques<a href="https://cyware.com/news/robin-banks-receives-update-with-new-tools-and-evasion-techniques-5fbe3330"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Robin Banks, of late, has gone through a major transformation. The Phishing-as-a-Service (PhaaS) platform has introduced several new features, including a cookie-stealing capability. Additionally, hackers can now fully access their phishing kit at $1,500 per month.&nbsp;The latest developments sugg ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

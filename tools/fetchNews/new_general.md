@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Reasons to Consolidate Your Tech Stack<a href="https://thehackernews.com/2022/11/5-reasons-to-consolidate-your-tech-stack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The news surrounding the slowing economy has many wondering how much of an impact it will have on their businesses – and lives. And there's good reason to start preparing.&nbsp;  A recent survey by McKinsey &amp; Company found that 85% of small and midsize businesses plan to increase their security spending heading into 2023, while Gartner recently projected that 2022 IT spending will only grow by 3%, down from a 10% growth rate the year before.  We're already seeing businesses making cuts and freezing budgets. And smaller organizations that already have limited budgets are more vulnerable than ever. While we are still dealing with the unknown, one thing&nbsp; is &nbsp;clear: even as the economy slows down, security threats don't.  But there's hope.&nbsp;  A&nbsp; new eBook &nbsp;illuminates how one solution can not only help increase security operations efficiency but also provide economic safeguards for security teams that are already strapped for cash.&nbsp;  What is the solution? Consolidation.  If
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

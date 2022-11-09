@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT36 Targets Indian Government Employees with Limepad<a href="https://cyware.com/news/apt36-targets-indian-government-employees-with-limepad-b9245567"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign by Pakistan-linked Transparent Tribe was found targeting Indian government entities with trojanized strains of a 2FA solution, named Kavach. APT-36 has registered several domains spoofing Indian government organization sites to launch credential harvesting and phishing attack ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

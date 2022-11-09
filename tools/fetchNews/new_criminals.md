@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ seizes&nbsp;$3.36B Bitcoin from Silk Road hacker<a href="https://securityaffairs.co/wordpress/138228/cyber-crime/silk-road-hacker-pleads-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice condemned James Zhong, a hacker who stole 50,000 bitcoins from the Silk Road dark net marketplace.
+
+
+
+The US Department of Justice announced that a man from Georgia, James Zhong, has pleaded guilty to wire fraud after stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

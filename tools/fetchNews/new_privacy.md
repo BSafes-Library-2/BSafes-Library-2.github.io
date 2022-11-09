@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhance your privacy with this second phone number app deal<a href="https://www.bleepingcomputer.com/news/security/enhance-your-privacy-with-this-second-phone-number-app-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protecting your privacy while staying in touch can be a difficult problem to solve. This second-phone app helps you solve it with a lifetime subscription for $24.99, 83% off the $150 MSRP.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
