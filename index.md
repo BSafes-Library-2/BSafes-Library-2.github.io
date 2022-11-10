@@ -34,6 +34,422 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New StrelaStealer malware steals your Outlook, Thunderbird accounts<a href="https://www.bleepingcomputer.com/news/security/new-strelastealer-malware-steals-your-outlook-thunderbird-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information-stealing malware named 'StrelaStealer' is actively stealing email account credentials from Outlook and Thunderbird, two widely used email clients.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Vulnerabilities in BusinessObjects, SAPUI5<a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-businessobjects-sapui5?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German software maker SAP announced the release of nine new security notes on its November 2022 Security Patch Day, including two notes addressing critical bugs in BusinessObjects and SAPUI5.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 Exploited a Windows Feature to Compromise European Diplomatic Entity Network<a href="https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked APT29 nation-state actor has been found leveraging a "lesser-known" Windows feature called Credential Roaming as part of its attack against an unnamed European diplomatic entity.  "The diplomatic-centric targeting is consistent with Russian strategic priorities as well as historic APT29 targeting," Mandiant researcher Thibault Van Geluwe de Berlaere  said  in a technical write-up.  APT29, a Russian espionage group also called Cozy Bear, Iron Hemlock, and The Dukes, is  known  for its intrusions aimed at collecting intelligence that align with the country's strategic objectives. It's believed to be sponsored by the Foreign Intelligence Service (SVR).   Some of the adversarial collective's cyber activities are tracked publicly under the moniker  Nobelium , a threat cluster responsible for the widespread supply chain compromise through SolarWinds software in December 2020.  The Google-owned threat intelligence and incident response firm s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance vendor exploited Samsung phone zero-days<a href="https://securityaffairs.co/wordpress/138302/hacking/surveillance-vendor-exploited-samsung-phone-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero researchers reported that a surveillance vendor is using three Samsung phone zero-day exploits.
+
+
+
+Google Project Zero disclosed three Samsung phone vulnerabilities, tracked as CVE-2021-25337, CVE-2021-25369 and CVE-2021-25370, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Couple sentenced to prison for trying to sell nuclear warship secrets<a href="https://www.bleepingcomputer.com/news/security/couple-sentenced-to-prison-for-trying-to-sell-nuclear-warship-secrets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Navy nuclear engineer and his wife were sentenced to over 19 years and more than 21 years in prison for attempting to sell nuclear warship design secrets to what they believed was a foreign power agent. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Address Many Vulnerabilities With Patch Tuesday Advisories<a href="https://www.securityweek.com/intel-amd-address-many-vulnerabilities-patch-tuesday-advisories?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has published 24 new advisories covering more than 50 vulnerabilities affecting the chip giant’s products. AMD has published four new advisories describing a total of 10 vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Cyber Attacks Observed Leveraging IPFS Decentralized Network<a href="https://thehackernews.com/2022/11/several-cyber-attacks-observed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of phishing campaigns are leveraging the decentralized Interplanetary Filesystem (IPFS) network to host malware, phishing kit infrastructure, and facilitate other attacks.  "Multiple malware families are currently being hosted within IPFS and retrieved during the initial stages of malware attacks," Cisco Talos researcher Edmund Brumaghin said in an analysis  shared with The Hacker News.  The research mirrors similar findings from Trustwave SpiderLabs in July 2022, which  found  more than 3,000 emails containing IPFS phishing URLs as an attack vector, calling IPFS the new "hotbed" for hosting phishing sites.  IPFS as a technology is both resilient to censorship and takedowns, making it a double-edged sword. Underlying it is a peer-to-peer (P2P) network which replicates content across all participating nodes so that even if content is removed from one machine, requests for the resources can still be served via other systems.   This also makes it ripe for abu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts observed Amadey malware deploying LockBit 3.0 Ransomware<a href="https://securityaffairs.co/wordpress/138292/malware/amadey-malware-deploying-lockbit-3-0.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts noticed that the Amadey malware is being used to deploy LockBit 3.0 ransomware on compromised systems.
+
+
+
+Researchers from AhnLab Security Emergency Response Center (ASEC) reported that the Amadey malware is being used to deploy LockBit 3.0 ransomware on...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking group uses custom 'Symatic' Cobalt Strike loaders<a href="https://www.bleepingcomputer.com/news/security/new-hacking-group-uses-custom-symatic-cobalt-strike-loaders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Chinese APT (advanced persistent threat) hacking group dubbed 'Earth Longzhi' targets organizations in East Asia, Southeast Asia, and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Department of Health and Human Services Warns of Iranian Threats to Healthcare Sector<a href="https://www.bankinfosecurity.com/feds-warn-iranian-threats-to-healthcare-sector-a-20437?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Health and Human Services' Health Sector Cybersecurity Coordinating Center in a Thursday threat briefing says Tehran-backed hackers often rely on social engineering to penetrate targets that include hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Browser Extensions Spying On Users via Cloud9 Chrome Botnet Network<a href="https://thehackernews.com/2022/11/experts-warn-of-browser-extensions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Keksec threat actor has been linked to a previously undocumented malware strain, which has been observed in the wild masquerading as an extension for Chromium-based web browsers to enslave compromised machines into a botnet.  Called  Cloud9  by security firm Zimperium, the malicious browser add-on comes with a wide range of features that enables it to siphon cookies, log keystrokes, inject arbitrary JavaScript code, mine crypto, and even enlist the host to carry out DDoS attacks.  The extension "not only steals the information available during the browser session but can also install malware on a user's device and subsequently assume control of the entire device," Zimperium researcher Nipun Gupta  said  in a new report.  The JavaScript botnet isn't distributed via Chrome Web Store or Microsoft Edge Add-ons, but rather through fake executables and rogue websites disguised as Adobe Flash Player updates.  Once installed, the extension is designed to inject a JavaScr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday updates fix 6 actively exploited zero-days<a href="https://securityaffairs.co/wordpress/138288/security/microsoft-patch-tuesday-november-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday updates for November 2022 addressed 64 vulnerabilities, including six actively exploited zero-days.
+
+
+
+Microsoft Patch Tuesday updates for November 2022 addressed 64 new vulnerabilities in Microsoft Windows and Windows Components;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15,000 sites hacked for massive Google SEO poisoning campaign<a href="https://www.bleepingcomputer.com/news/security/15-000-sites-hacked-for-massive-google-seo-poisoning-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are conducting a massive black hat search engine optimization (SEO) campaign by compromising almost 15,000 websites to redirect visitors to fake Q&A discussion forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon to unveil zero-trust cyber strategy<a href="https://www.c4isrnet.com/cyber/2022/11/08/pentagon-to-unveil-zero-trust-cyber-strategy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Defense’s zero-trust strategy will be published in the coming days, giving the public a fresh look at its plan to achieve a new level of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+C4ISRNET
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 API Security Myths That Are Crushing Your Business<a href="https://thehackernews.com/2022/11/top-5-api-security-myths-that-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several myths and misconceptions about API security. These myths about securing APIs are crushing your business.   Why so? Because these myths are widening your security gaps. This is making it easier for attackers to abuse APIs. And API attacks are costly. Of course, you will have to bear financial losses. But there are other consequences too:    Reputational damage   Customer attrition   Loss of customer trust   Difficulty in acquiring new customers  Legal costs   Massive fines and penalties for non-compliance   In this article, we will debunk the top 5 myths about  securing APIs    Secure APIs Better: Top 5 API Security Myths Demystified   Myth 1: API Gateways, Existing IAM Tools, and WAFs are Enough to Secure API  Reality:   These aren't enough to secure your APIs. They are layers in API security. They need to be part of a larger security solution.   API gateways monitor endpoints. They provide visibility into API usage. They offer some level of access control and rate-l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes three critical flaws in Workspace ONE Assist<a href="https://securityaffairs.co/wordpress/138283/security/vmware-workspace-one-assist-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware address three critical bugs in the Workspace ONE Assist solution that allow remote attackers to bypass authentication and elevate privileges.
+
+
+
+VMware has released security updates to address three critical vulnerabilities impacting the Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank warns customers their data was leaked by ransomware gang<a href="https://www.bleepingcomputer.com/news/security/medibank-warns-customers-their-data-was-leaked-by-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian health insurance giant Medibank has warned customers that the ransomware group behind last month's breach has started to leak data stolen from its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US States Announce $16M Settlement With Experian, T-Mobile Over Data Breaches<a href="https://www.securityweek.com/us-states-announce-16m-settlement-experian-t-mobile-over-data-breaches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities in 40 US states have reached a settlement totaling more than $16 million with Experian and T-Mobile over data breaches suffered by the companies in 2012 and 2015.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New IceXLoader Malware Loader Variant Infected Thousands of Victims Worldwide<a href="https://thehackernews.com/2022/11/new-icexloader-malware-loader-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a malware loader codenamed  IceXLoader  is suspected of having compromised thousands of personal and enterprise Windows machines across the world.  IceXLoader is a commodity malware that's sold for $118 on underground forums for a lifetime license. It's chiefly employed to download and execute additional malware on breached hosts.  This past June, Fortinet FortiGuard Labs said it  uncovered  a version of the trojan written in the Nim programming language with the goal of evading analysis and detection.   "While the version discovered in June (v3.0) looked like a work-in-progress, we recently observed a newer v3.3.3 loader which looks to be fully functionable and includes a multi-stage delivery chain," Natalie Zargarov, cybersecurity researcher at Minerva Labs,  said  in a report published Tuesday.  IceXLoader is traditionally distributed through phishing campaigns, with emails containing ZIP archives functioning as a trigger to deploy the malwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lenovo fixes flaws that can be used to disable UEFI Secure Boot<a href="https://www.bleepingcomputer.com/news/security/lenovo-fixes-flaws-that-can-be-used-to-disable-uefi-secure-boot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo has fixed two high-severity vulnerabilities impacting various ThinkBook, IdeaPad, and Yoga laptop models that could allow an attacker to deactivate UEFI Secure Boot.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Blade Group Targets Saudi Arabian Giants<a href="https://cyware.com/news/justice-blade-group-targets-saudi-arabian-giants-f2661986"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justice Blade threat actor released data from outsourcing IT vendor Smart Link BPO Solutions. The vendor works with relatively bigger organizations and government agencies in the Kingdom of Saudi Arabia and other countries in the GCC. It is said that cybercriminals may have stolen CRM records, pers ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of 3 New Critical Flaws Affecting Workspace ONE Assist Software<a href="https://thehackernews.com/2022/11/vmware-warns-of-3-new-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has patched five security flaws affecting its  Workspace ONE Assist  solution, some of which could be exploited to bypass authentication and obtain elevated permissions.  Topping the list are three critical vulnerabilities tracked as CVE-2022-31685, CVE-2022-31686, and CVE-2022-31687. All the shortcomings are rated 9.8 on the CVSS vulnerability scoring system.  CVE-2022-31685 is an authentication bypass flaw that could be abused by an attacker with network access to VMware Workspace ONE Assist to obtain administrative access without the need to authenticate to the application.   CVE-2022-31686 has been described by the virtualization services provider as a "broken authentication method" vulnerability, and CVE-2022-31687 as a "Broken Access Control" flaw.  "A malicious actor with network access may be able to obtain administrative access without the need to authenticate to the application," VMware  said  in an advisory for CVE-2022-31686 and CVE-202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud computing is booming, but these are the challenges that lie ahead<a href="https://www.zdnet.com/article/cloud-computing-is-booming-but-these-are-the-challenges-that-lie-ahead/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and business leaders appear to finally be waking up to the fact that cybersecurity needs to be built into every business decision, particularly now that much of their day-to-day work is being conducted off-premises by distributed teams.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Install Latest Windows Update ASAP! Patches Issued for 6 Actively Exploited Zero-Days<a href="https://thehackernews.com/2022/11/install-latest-windows-update-asap.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's latest round of monthly security updates has been released with fixes for  68 vulnerabilities  spanning its software portfolio, including patches for six actively exploited zero-days.  12 of the issues are rated Critical, two are rated High, and 55 are rated Important in severity. This also includes the weaknesses that were closed out by  OpenSSL  the previous week.  Also separately  addressed  at the start of the month is an actively exploited flaw in Chromium-based browsers ( CVE-2022-3723 ) that was plugged by Google as part of an out-of-band update late last month.  "The big news is that  two older zero-day CVEs  affecting Exchange Server, made public at the end of September, have finally been fixed," Greg Wiseman, product manager at Rapid7, said in a statement shared with The Hacker News.   "Customers are advised to update their  Exchange Server systems  immediately, regardless of whether any previously recommended mitigation steps have been applied
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Chrome Extension Steals Information and Drops Cloud9 Botnet<a href="https://www.zimperium.com/blog/the-case-of-cloud9-chrome-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimperium discovered a malicious browser extension, which not only steals the information available during the browser session but can also install malware on a user’s device and subsequently assume control of the entire device.
+</details>
+<div style="text-align: right" markdown="1">
+Zimperium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 08, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
