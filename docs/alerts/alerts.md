@@ -19,6 +19,22 @@ The Federal Bureau of Investigation (FBI) is releasing this Private Industry Not
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2022 - HHS, HC3 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Threat Actors & Healthcare <a href="https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+- Analysis of the Iranian Cyber Attack Landscape
+- Iranian Cyber Threat Actors
+- Iran Cyberattacks in the News
+- Attack Analysis
+- Tactics, Techniques, and Procedures (TTPs) & Mitigations
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 3, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

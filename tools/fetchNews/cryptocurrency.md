@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Seizes Over 50K Bitcoin Worth $3.3 Billion Linked to Silk Road Dark Web<a href="https://thehackernews.com/2022/11/us-seizes-over-50k-bitcoin-worth-33.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Monday said it seized 50,676 Bitcoin in November 2021 that was stolen in the 2012 hack of the now-defunct Silk Road dark web marketplace.  The bitcoin, which was obtained in 2012 and valued at $3.36 billion when it was discovered last year, is now worth $1.04 billion. Additionally recovered were $661,900 in cash, 25 Casascius coins with an approximate value of 174 Bitcoin, and gold- and silver-colored bars.  It's also one of the largest cryptocurrency seizures to date, followed by the confiscation of $3.6 billion worth of bitcoin&nbsp; earlier this February &nbsp;tied to the 2016 breach of the Bitfinex crypto exchange.   The Justice Department said it conducted the seizure on November 9, 2021, pursuant to a search warrant issued to James Zhong's house located in the U.S. state of Georgia. It also said the keys to the tokens were found in an underground floor safe and on a "single-board computer that was submerged under blankets in a popcorn t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

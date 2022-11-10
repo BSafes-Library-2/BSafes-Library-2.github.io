@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 API Security Myths That Are Crushing Your Business<a href="https://thehackernews.com/2022/11/top-5-api-security-myths-that-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are several myths and misconceptions about API security. These myths about securing APIs are crushing your business.&nbsp;  Why so? Because these myths are widening your security gaps. This is making it easier for attackers to abuse APIs. And API attacks are costly. Of course, you will have to bear financial losses. But there are other consequences too:&nbsp;   Reputational damage&nbsp;  Customer attrition&nbsp;  Loss of customer trust&nbsp;  Difficulty in acquiring new customers  Legal costs&nbsp;  Massive fines and penalties for non-compliance   In this article, we will debunk the top 5 myths about&nbsp; securing APIs &nbsp;  Secure APIs Better: Top 5 API Security Myths Demystified&nbsp;  Myth 1: API Gateways, Existing IAM Tools, and WAFs are Enough to Secure API  Reality: &nbsp; These aren't enough to secure your APIs. They are layers in API security. They need to be part of a larger security solution.&nbsp;  API gateways monitor endpoints. They provide visibility into API usage. They offer some level of access control and rate-l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud computing is booming, but these are the challenges that lie ahead<a href="https://www.zdnet.com/article/cloud-computing-is-booming-but-these-are-the-challenges-that-lie-ahead/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and business leaders appear to finally be waking up to the fact that cybersecurity needs to be built into every business decision, particularly now that much of their day-to-day work is being conducted off-premises by distributed teams.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

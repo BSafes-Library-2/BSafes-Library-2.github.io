@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Vulnerabilities in BusinessObjects, SAPUI5<a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-businessobjects-sapui5?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German software maker SAP announced the release of nine new security notes on its November 2022 Security Patch Day, including two notes addressing critical bugs in BusinessObjects and SAPUI5.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Address Many Vulnerabilities With Patch Tuesday Advisories<a href="https://www.securityweek.com/intel-amd-address-many-vulnerabilities-patch-tuesday-advisories?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has published 24 new advisories covering more than 50 vulnerabilities affecting the chip giant’s products. AMD has published four new advisories describing a total of 10 vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday updates fix 6 actively exploited zero-days<a href="https://securityaffairs.co/wordpress/138288/security/microsoft-patch-tuesday-november-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday updates for November 2022 addressed 64 vulnerabilities, including six actively exploited zero-days.
+
+
+
+Microsoft Patch Tuesday updates for November 2022 addressed 64 new vulnerabilities in Microsoft Windows and Windows Components;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes three critical flaws in Workspace ONE Assist<a href="https://securityaffairs.co/wordpress/138283/security/vmware-workspace-one-assist-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware address three critical bugs in the Workspace ONE Assist solution that allow remote attackers to bypass authentication and elevate privileges.
+
+
+
+VMware has released security updates to address three critical vulnerabilities impacting the Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lenovo fixes flaws that can be used to disable UEFI Secure Boot<a href="https://www.bleepingcomputer.com/news/security/lenovo-fixes-flaws-that-can-be-used-to-disable-uefi-secure-boot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo has fixed two high-severity vulnerabilities impacting various ThinkBook, IdeaPad, and Yoga laptop models that could allow an attacker to deactivate UEFI Secure Boot.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Warns of 3 New Critical Flaws Affecting Workspace ONE Assist Software<a href="https://thehackernews.com/2022/11/vmware-warns-of-3-new-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has patched five security flaws affecting its&nbsp; Workspace ONE Assist &nbsp;solution, some of which could be exploited to bypass authentication and obtain elevated permissions.  Topping the list are three critical vulnerabilities tracked as CVE-2022-31685, CVE-2022-31686, and CVE-2022-31687. All the shortcomings are rated 9.8 on the CVSS vulnerability scoring system.  CVE-2022-31685 is an authentication bypass flaw that could be abused by an attacker with network access to VMware Workspace ONE Assist to obtain administrative access without the need to authenticate to the application.   CVE-2022-31686 has been described by the virtualization services provider as a "broken authentication method" vulnerability, and CVE-2022-31687 as a "Broken Access Control" flaw.  "A malicious actor with network access may be able to obtain administrative access without the need to authenticate to the application," VMware&nbsp; said &nbsp;in an advisory for CVE-2022-31686 and CVE-202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Install Latest Windows Update ASAP! Patches Issued for 6 Actively Exploited Zero-Days<a href="https://thehackernews.com/2022/11/install-latest-windows-update-asap.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's latest round of monthly security updates has been released with fixes for&nbsp; 68 vulnerabilities &nbsp;spanning its software portfolio, including patches for six actively exploited zero-days.  12 of the issues are rated Critical, two are rated High, and 55 are rated Important in severity. This also includes the weaknesses that were closed out by&nbsp; OpenSSL &nbsp;the previous week.  Also separately&nbsp; addressed &nbsp;at the start of the month is an actively exploited flaw in Chromium-based browsers ( CVE-2022-3723 ) that was plugged by Google as part of an out-of-band update late last month.  "The big news is that&nbsp; two older zero-day CVEs &nbsp;affecting Exchange Server, made public at the end of September, have finally been fixed," Greg Wiseman, product manager at Rapid7, said in a statement shared with The Hacker News.   "Customers are advised to update their&nbsp; Exchange Server systems &nbsp;immediately, regardless of whether any previously recommended mitigation steps have been applied
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

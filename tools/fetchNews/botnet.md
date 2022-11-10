@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amadey Bot Spotted Deploying LockBit 3.0 Ransomware on Hacked Machines<a href="https://thehackernews.com/2022/11/amadey-bot-spotted-deploying-lockbit-30.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Amadey malware is being used to deploy&nbsp; LockBit 3.0 ransomware &nbsp;on compromised systems, researchers have warned.  "Amadey bot, the malware that is used to install LockBit, is being distributed through two methods: one using a malicious Word document file, and the other using an executable that takes the disguise of the Word file icon," AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;in a new report published today.  Amadey, first discovered in 2018, is a "criminal-to-criminal (C2C) botnet infostealer project," as&nbsp; described &nbsp;by the BlackBerry Research and Intelligence Team, and is offered for purchase on the criminal underground for as much as $600.   While its primary function is to harvest sensitive information from the infected hosts, it further doubles up as a channel to deliver next-stage artifacts. Earlier this July, it was&nbsp; spread using SmokeLoader , a malware with not-so-different features like itself.  Just last month, ASEC also&nbsp; found &nbsp;the mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

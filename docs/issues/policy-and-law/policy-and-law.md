@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Couple sentenced to prison for trying to sell nuclear warship secrets<a href="https://www.bleepingcomputer.com/news/security/couple-sentenced-to-prison-for-trying-to-sell-nuclear-warship-secrets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Navy nuclear engineer and his wife were sentenced to over 19 years and more than 21 years in prison for attempting to sell nuclear warship design secrets to what they believed was a foreign power agent.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

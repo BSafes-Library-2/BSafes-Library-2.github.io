@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Department of Health and Human Services Warns of Iranian Threats to Healthcare Sector<a href="https://www.bankinfosecurity.com/feds-warn-iranian-threats-to-healthcare-sector-a-20437?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Health and Human Services' Health Sector Cybersecurity Coordinating Center in a Thursday threat briefing says Tehran-backed hackers often rely on social engineering to penetrate targets that include hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon to unveil zero-trust cyber strategy<a href="https://www.c4isrnet.com/cyber/2022/11/08/pentagon-to-unveil-zero-trust-cyber-strategy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Defense’s zero-trust strategy will be published in the coming days, giving the public a fresh look at its plan to achieve a new level of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+C4ISRNET
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

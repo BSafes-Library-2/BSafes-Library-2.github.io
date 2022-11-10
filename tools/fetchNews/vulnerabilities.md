@@ -8,6 +8,136 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix ADC and Citrix Gateway are affected by a critical authentication bypass flaw<a href="https://securityaffairs.co/wordpress/138264/security/citrix-gateway-adc-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix released security updates to address a critical authentication bypass vulnerability in Citrix ADC and Citrix Gateway.
+
+
+
+Citrix is urging customers to install security updates to address a critical authentication bypass issue, tracked as CVE-2022-27510,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passport-SAML auth bypass triggers fix of critical, upstream XMLDOM bug<a href="https://portswigger.net/daily-swig/passport-saml-auth-bypass-triggers-fix-of-critical-upstream-xmldom-bug?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability arising from improper input validation has been addressed in XMLDOM, the JavaScript implementation of W3C DOM for Node.js, Rhino, and browsers.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes three critical auth bypass bugs in remote access tool<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released security updates to address three critical severity vulnerabilities in the&nbsp;Workspace ONE Assist solution that enable remote attackers to bypass authentication and elevate&nbsp;privileges to admin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes ProxyNotShell Exchange zero-days exploited in attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released security updates to address two high-severity Microsoft Exchange zero-day vulnerabilities collectively known as ProxyNotShell and exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses Critical Vulnerabilities; Schneider Electric Also Issues One Advisory<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-addresses-critical-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens and Schneider Electric have released their Patch Tuesday advisories for November 2022. Siemens has released nine new security advisories covering a total of 30 vulnerabilities, but Schneider has only published one new advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft November 2022 Patch Tuesday fixes 6 exploited zero-days, 68 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2022-patch-tuesday-fixes-6-exploited-zero-days-68-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Today is Microsoft's November 2022 Patch Tuesday, and with it comes fixes for six actively exploited Windows vulnerabilities and a total of 68 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches High-Severity Privilege Escalation Vulnerabilities in Android<a href="https://www.securityweek.com/google-patches-high-severity-privilege-escalation-vulnerabilities-android?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first part of the update, the ‘2022-11-01 patch level’, includes fixes for 17 security defects, 12 of which could lead to escalation of privilege (EoP), three to denial of service (DoS), and two leading to information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix urges admins to patch critical ADC, Gateway auth bypass<a href="https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-critical-adc-gateway-auth-bypass/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is urging customers to install security updates for a critical authentication bypass vulnerability in Citrix ADC and Citrix Gateway.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution bug exposed Ember.js applications to XSS<a href="https://portswigger.net/daily-swig/prototype-pollution-bug-exposed-ember-js-applications-to-xss?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A prototype pollution bug in the JavaScript framework for building Node.js web applications could potentially allow attackers to stage cross-site scripting (XSS) attacks and steal user information.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

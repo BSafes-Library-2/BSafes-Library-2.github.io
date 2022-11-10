@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Causes Disruptions at Canadian Meat Giant Maple Leaf Foods<a href="https://www.securityweek.com/cyberattack-causes-disruptions-canadian-meat-giant-maple-leaf-foods?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maple Leaf Foods said it has executed business continuity plans and that work is underway to restore the impacted systems. However, the company expects further operational and service disruptions, saying that restoration efforts take time.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

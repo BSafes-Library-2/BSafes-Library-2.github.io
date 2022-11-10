@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worldr raises $11m to let businesses control their messaging data<a href="https://www.uktech.news/cybersecurity/worldr-seed-businesses-own-messaging-data-20221107?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Worldr has secured $11 million in a seed funding round led by Molten Ventures for its messaging data sovereignty software that integrates with Microsoft Teams, Slack, and WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+UKTN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beosin, a leading blockchain security firm, announces $20M Series A strategic financing<a href="https://cointelegraph.com/press-releases/beosin-a-leading-blockchain-security-firm-announces-20m-series-a-strategic-financing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beosin, a leading blockchain security service provider, has recently closed a $20-million strategic financing round participated by prominent industry investors and existing shareholders.
+</details>
+<div style="text-align: right" markdown="1">
+Coin Telegraph
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,52 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surveillance vendor exploited Samsung phone zero-days<a href="https://securityaffairs.co/wordpress/138302/hacking/surveillance-vendor-exploited-samsung-phone-zero-days.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Project Zero researchers reported that a surveillance vendor is using three Samsung phone zero-day exploits.
+
+
+
+Google Project Zero disclosed three Samsung phone vulnerabilities, tracked as CVE-2021-25337, CVE-2021-25369 and CVE-2021-25370, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New hacking group uses custom 'Symatic' Cobalt Strike loaders<a href="https://www.bleepingcomputer.com/news/security/new-hacking-group-uses-custom-symatic-cobalt-strike-loaders/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Chinese APT (advanced persistent threat) hacking group dubbed 'Earth Longzhi' targets organizations in East Asia, Southeast Asia, and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Blade Group Targets Saudi Arabian Giants<a href="https://cyware.com/news/justice-blade-group-targets-saudi-arabian-giants-f2661986"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Justice Blade threat actor released data from outsourcing IT vendor Smart Link BPO Solutions. The vendor works with relatively bigger organizations and government agencies in the Kingdom of Saudi Arabia and other countries in the GCC. It is said that cybercriminals may have stolen CRM records, pers ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

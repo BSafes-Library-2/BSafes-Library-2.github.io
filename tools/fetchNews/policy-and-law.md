@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Influencer 'Hushpuppi' gets 11 years in prison for cyber fraud<a href="https://www.bleepingcomputer.com/news/security/influencer-hushpuppi-gets-11-years-in-prison-for-cyber-fraud/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Instagram influencer known as 'Hushpuppi' has been sentenced to 11 years in prison for conspiring to launder tens of millions of USD from business email compromise (BEC) scams and various cyber schemes.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
