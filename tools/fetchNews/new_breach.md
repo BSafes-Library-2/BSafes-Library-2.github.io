@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Compromise 15,000 Sites for Massive Google SEO Poisoning Campaign<a href="https://blog.sucuri.net/2022/11/massive-ois-is-black-hat-redirect-malware-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These malicious redirects appear to be designed to increase the authority of the attacker’s sites for search engines. PublicWWW results show nearly 15,000 websites have been affected by this malware so far.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

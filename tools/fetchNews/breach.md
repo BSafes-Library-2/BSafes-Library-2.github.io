@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank warns customers their data was leaked by ransomware gang<a href="https://www.bleepingcomputer.com/news/security/medibank-warns-customers-their-data-was-leaked-by-ransomware-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian health insurance giant&nbsp;Medibank has warned customers that the ransomware group behind last month's breach has started to leak&nbsp;data stolen from its systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US States Announce $16M Settlement With Experian, T-Mobile Over Data Breaches<a href="https://www.securityweek.com/us-states-announce-16m-settlement-experian-t-mobile-over-data-breaches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities in 40 US states have reached a settlement totaling more than $16 million with Experian and T-Mobile over data breaches suffered by the companies in 2012 and 2015.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

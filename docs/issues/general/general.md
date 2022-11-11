@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Securing Open Source Software Act Is Good, but Whatever Happened to Legal Liability?<a href="https://www.lawfareblog.com/securing-open-source-software-act-good-whatever-happened-legal-liability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent introduction of the Securing Open Source Software Act, and its subsequent momentum, has stoked a debate about the true reason for the open source security problem and the merits of different solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Cybersecurity Awareness Month Anything More Than PR?<a href="https://thehackernews.com/2022/11/is-cybersecurity-awareness-month.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity Awareness Month has been going on since 2004. This year,&nbsp; Cybersecurity Awareness Month &nbsp;urged the public, professionals, and industry partners to "see themselves in cyber" in the following ways:&nbsp;   The public, by taking action to stay safe online.  Professionals, by joining the cyber workforce.  Cyber industry partners, as part of the cybersecurity solution.   CISA outlined four "things you can do" to stay safe online for individuals and families, including updating their software, thinking before they click, using strong passwords, and enabling multifactor authentication on sensitive accounts.  The industry has been teaching security tips to employees and the public for a long time. With so much repetitive media and education on cyber awareness in the rearview mirror, the returning October focus weighs on many. Here's a roundup of reactions to cyber month and traction from this year's themes and messaging which should tell us if there's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Re-Focusing Cyber Insurance with Security Validation<a href="https://thehackernews.com/2022/11/re-focusing-cyber-insurance-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise in the costs of data breaches, ransomware, and other cyber attacks leads to rising cyber insurance premiums and more limited cyber insurance coverage. This cyber insurance situation increases risks for organizations struggling to find coverage or facing steep increases.  Some&nbsp; Akin Gump Strauss Hauer &amp; Feld LLP's &nbsp;law firm clients, for example, reported a three-fold increase in insurance rates, and carriers are making "a huge pullback" on coverage limits in the past two years. Their cybersecurity practice co-head, Michelle Reed, adds, "The reduced coverage amount can no longer shield policyholders from cyber losses. A $10 million policy can end up with a $150,000 limit on cyber frauds."  The cyber-insurance situation is so concerning that the U.S. Treasury Department recently issued a&nbsp; request for public input &nbsp;on a potential federal cyber-insurance response program. This request is in addition to the assessment led conjointly by the Federal Insura
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Cyber Attacks Observed Leveraging IPFS Decentralized Network<a href="https://thehackernews.com/2022/11/several-cyber-attacks-observed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of phishing campaigns are leveraging the decentralized Interplanetary Filesystem (IPFS) network to host malware, phishing kit infrastructure, and facilitate other attacks.  "Multiple malware families are currently being hosted within IPFS and retrieved during the initial stages of malware attacks," Cisco Talos researcher Edmund Brumaghin said in an analysis  shared with The Hacker News.  The research mirrors similar findings from Trustwave SpiderLabs in July 2022, which&nbsp; found &nbsp;more than 3,000 emails containing IPFS phishing URLs as an attack vector, calling IPFS the new "hotbed" for hosting phishing sites.  IPFS as a technology is both resilient to censorship and takedowns, making it a double-edged sword. Underlying it is a peer-to-peer (P2P) network which replicates content across all participating nodes so that even if content is removed from one machine, requests for the resources can still be served via other systems.   This also makes it ripe for abu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15,000 sites hacked for massive Google SEO poisoning campaign<a href="https://www.bleepingcomputer.com/news/security/15-000-sites-hacked-for-massive-google-seo-poisoning-campaign/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are conducting a massive black hat search engine optimization (SEO) campaign by compromising almost 15,000 websites to redirect visitors to fake Q&amp;A discussion forums.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

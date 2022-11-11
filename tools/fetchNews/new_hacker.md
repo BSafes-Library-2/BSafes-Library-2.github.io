@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Affiliates BlackByte and Black Basta Rotating Targets<a href="https://cyware.com/news/conti-affiliates-blackbyte-and-black-basta-rotating-targets-681fc6b8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat ecosystem of Conti is growing stronger day by day. And, it can be evidenced by the recent findings about how it is drifting away from U.S. targets to target NATO-affiliated countries in Europe. Conti is forming new allies, developing new tools and techniques, and actively hacking critica ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian military hackers linked to ransomware attacks in Ukraine<a href="https://www.bleepingcomputer.com/news/security/russian-military-hackers-linked-to-ransomware-attacks-in-ukraine/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of attacks targeting&nbsp;transportation and logistics organizations in Ukraine and Poland with Prestige ransomware since October have been linked to&nbsp;an elite Russian military&nbsp;cyberespionage group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worok hackers hide new malware in PNGs using steganography<a href="https://www.bleepingcomputer.com/news/security/worok-hackers-hide-new-malware-in-pngs-using-steganography/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group tracked as 'Worok' hides malware within PNG images to infect victims' machines with information-stealing malware without raising alarms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

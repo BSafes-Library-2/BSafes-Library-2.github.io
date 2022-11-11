@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Using Computer-Technical Support Impersonation Scams to Target Victims and Conduct Wire Transfers <a href="https://www.ic3.gov/Media/Y2022/PSA221110"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As recently as October 2022, the FBI observed several instances nationwide of scammers conducting computer-technical support scams, where criminals pose as service representatives of a company's technical or computer repair service and contact victims through email or by telephone about a highly priced, soon-to-renew subscription. Scammers request victims contact the scammers at a provided telephone number or email to cancel the renewal and receive a varying refund amount. After the victims contact the scammers, they attempt to obtain personal and banking information that is then used to conduct unauthorized wire transfers of funds held within the targeted victim's accounts. Targeted victims generally fall within the elderly population.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 4, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

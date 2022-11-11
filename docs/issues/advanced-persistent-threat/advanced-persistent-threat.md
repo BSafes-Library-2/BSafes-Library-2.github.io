@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41’s New Subgroup Earth Longzhi Targets East and Southeast Asia<a href="https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both campaigns by the group used spear-phishing emails as the primary entry vector to deliver its malware. It embeds the malware in a password-protected archive or shares a link to download it, luring the victim with information about a person.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 abused the Windows Credential Roaming in an attack against a diplomatic entity<a href="https://securityaffairs.co/wordpress/138322/apt/apt29-windows-credential-roaming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 cyberespionage group exploited a Windows feature called Credential Roaming to target a European diplomatic entity.
+
+
+
+Mandiant researchers in early 2022 responded to an incident where the Russia-linked APT29 group (aka SVR group,&nbsp;Cozy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

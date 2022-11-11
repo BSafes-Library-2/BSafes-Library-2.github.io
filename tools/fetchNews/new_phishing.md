@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing drops IceXLoader malware on thousands of home, corporate devices<a href="https://www.bleepingcomputer.com/news/security/phishing-drops-icexloader-malware-on-thousands-of-home-corporate-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ongoing phishing campaign has infected thousands of home and corporate users with a new version of the 'IceXLoader' malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An $8 mess — Twitter Blue 'verified' accounts push crypto scams<a href="https://www.bleepingcomputer.com/news/security/an-8-mess-twitter-blue-verified-accounts-push-crypto-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has officially rolled out its Twitter Blue program for an $8 monthly fee that confers upon the Tweeter multiple benefits, including the much-sought blue badge. But, all this has led to its own set of problems, such as threat&nbsp;actors now impersonating famous people and still being granted&nbsp;a "verified" status.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

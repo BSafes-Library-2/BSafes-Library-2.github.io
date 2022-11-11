@@ -8,6 +8,116 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple out-of-band patches fix remote code execution bugs in iOS and macOS<a href="https://securityaffairs.co/wordpress/138355/security/apple-out-of-band-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released out-of-band patches for iOS and macOS to fix a couple of code execution vulnerabilities in the libxml2 library.
+
+
+
+Apple released out-of-band patches for iOS and macOS to address two code execution flaws, tracked as CVE-2022-40303 and CVE-2022-40304,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes MoTW zero-day used to drop malware via ISO files<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-motw-zero-day-used-to-drop-malware-via-iso-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows has fixed a bug that prevented Mark of the Web flags from propagating to files within downloaded ISO files, dealing a massive blow to malware distributors and developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Rewarded $70,000 for Finding Way to Bypass Google Pixel Phones' Lock Screens<a href="https://thehackernews.com/2022/11/hacker-rewarded-70000-for-finding-way.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has resolved a high-severity security issue affecting all Pixel smartphones that could be trivially exploited to unlock the devices.  The vulnerability, tracked as&nbsp; CVE-2022-20465 &nbsp;and reported by security researcher David Schütz in June 2022, was remediated as part of the search giant's&nbsp; monthly Android update &nbsp;for November 2022.  "The issue allowed an attacker with physical access to bypass the lock screen protections (fingerprint, PIN, etc.) and gain complete access to the user's device," Schütz, who was awarded $70,000 for the lock screen bypass,&nbsp; said &nbsp;in a write-up of the flaw.   The problem, per the researcher, is rooted in the fact that lock screen protections are completely defeated when following a specific sequence of steps -   Supply incorrect fingerprint three times to disable biometric authentication on the locked device  Hot swap &nbsp;the SIM card in the device with an attacker-controlled SIM that has a PIN code set up  Enter incorrect SIM pin thric
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A bug in ABB Totalflow&nbsp;flow computers exposed oil and gas companies to attack<a href="https://securityaffairs.co/wordpress/138331/security/abb-totalflow-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the ABB Totalflow system used in oil and gas organizations could be exploited by an attacker to inject and execute arbitrary code.
+
+
+
+Researchers from industrial security firm Claroty disclosed details of a vulnerability affecting ABB Totalflow&nbsp;flow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Issues Patches for Critical Flaw Affecting ADC and Gateway Products<a href="https://thehackernews.com/2022/11/citrix-issues-patches-for-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix has released&nbsp; security updates &nbsp;to address a critical authentication bypass flaw in the application delivery controller (ADC) and Gateway products that could be exploited to take control of affected systems.  Successful exploitation of the issues could enable an adversary to gain authorized access, perform remote desktop takeover, and even circumvent defenses against login brute-force attempts under specific configurations.    CVE-2022-27510 &nbsp;- Unauthorized access to Gateway user capabilities  CVE-2022-27513 &nbsp;- Remote desktop takeover via phishing  CVE-2022-27516 &nbsp;- User login brute-force protection functionality bypass   The following supported versions of Citrix ADC and Citrix Gateway are affected by the flaws -   Citrix ADC and Citrix Gateway 13.1 before 13.1-33.47&nbsp;  Citrix ADC and Citrix Gateway 13.0 before 13.0-88.12&nbsp;  Citrix ADC and Citrix Gateway 12.1 before 12.1.65.21  Citrix ADC 12.1-FIPS before 12.1-55.289  Citrix ADC 12.1-NDcPP before 12.1-55.289   Exploitation, howe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lenovo warns of flaws that can be used to bypass security features<a href="https://securityaffairs.co/wordpress/138312/security/lenovo-bypass-security-features.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lenovo fixed two high-severity flaws impacting various laptop models that could allow an attacker to deactivate UEFI Secure Boot.
+
+
+
+Lenovo has released security updates to address a couple of high-severity vulnerabilities impacting various ThinkBook,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaw Reported in Critical System Used by Oil and Gas Companies<a href="https://thehackernews.com/2022/11/high-severity-flaw-reported-in-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a new vulnerability in a system used across oil and gas organizations that could be exploited by an attacker to inject and execute arbitrary code.  The vulnerability, tracked as&nbsp; CVE-2022-0902 &nbsp;(CVSS score: 8.1), is a path-traversal vulnerability in ABB Totalflow&nbsp; flow computers and remote controllers .  "Attackers can exploit this flaw to gain root access on an ABB flow computer, read and write files, and remotely execute code," industrial security company Claroty&nbsp; said &nbsp;in a report shared with The Hacker News.   ABB, a Swedish-Swiss industrial automation firm, has since released&nbsp; firmware updates &nbsp;as of July 14, 2022, following responsible disclosure.  Flow computers are special-purpose electronic instruments used by petrochemical manufacturers to interpret data from flow meters and calculate and record the volume of substances such as natural gas, crude oils, and other hydrocarbon fluids at a specific point in time.   Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

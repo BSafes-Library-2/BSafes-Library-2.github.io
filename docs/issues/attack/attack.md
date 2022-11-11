@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: New Massive Malicious Campaigns Targeting Top Indian Banks' Customers<a href="https://thehackernews.com/2022/11/warning-this-widespread-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of "massive phishing campaigns" that distribute five different malware targeting banking users in India.  "The bank customers targeted include account subscribers of seven banks, including some of the most well-known banks located in the country and potentially affecting millions of customers," Trend Micro&nbsp; said &nbsp;in a report published this week.  Some of the targeted banks include Axis Bank, ICICI Bank, and the State Bank of India (SBI), among others.  The infection chains all have a common entry point in that they rely on SMS messages containing a phishing link that urge potential victims to enter their personal details and credit card information to supposedly get a tax refund or gain credit card reward points.   The smishing attacks, which deliver Elibomi, FakeReward, AxBanker, IcRAT, and IcSpy, are just the latest in a series of similar rewards-themed malware campaigns that have been documented by&nbsp; Microsoft, Cyble , and&nbsp; K
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

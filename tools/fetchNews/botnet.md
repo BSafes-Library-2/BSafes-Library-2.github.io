@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Browser Extensions Spying On Users via Cloud9 Chrome Botnet Network<a href="https://thehackernews.com/2022/11/experts-warn-of-browser-extensions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Keksec threat actor has been linked to a previously undocumented malware strain, which has been observed in the wild masquerading as an extension for Chromium-based web browsers to enslave compromised machines into a botnet.  Called&nbsp; Cloud9 &nbsp;by security firm Zimperium, the malicious browser add-on comes with a wide range of features that enables it to siphon cookies, log keystrokes, inject arbitrary JavaScript code, mine crypto, and even enlist the host to carry out DDoS attacks.  The extension "not only steals the information available during the browser session but can also install malware on a user's device and subsequently assume control of the entire device," Zimperium researcher Nipun Gupta&nbsp; said &nbsp;in a new report.  The JavaScript botnet isn't distributed via Chrome Web Store or Microsoft Edge Add-ons, but rather through fake executables and rogue websites disguised as Adobe Flash Player updates.  Once installed, the extension is designed to inject a JavaScr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

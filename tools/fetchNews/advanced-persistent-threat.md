@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 Exploited a Windows Feature to Compromise European Diplomatic Entity Network<a href="https://thehackernews.com/2022/11/apt29-exploited-windows-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked APT29 nation-state actor has been found leveraging a "lesser-known" Windows feature called Credential Roaming as part of its attack against an unnamed European diplomatic entity.  "The diplomatic-centric targeting is consistent with Russian strategic priorities as well as historic APT29 targeting," Mandiant researcher Thibault Van Geluwe de Berlaere&nbsp; said &nbsp;in a technical write-up.  APT29, a Russian espionage group also called Cozy Bear, Iron Hemlock, and The Dukes, is&nbsp; known &nbsp;for its intrusions aimed at collecting intelligence that align with the country's strategic objectives. It's believed to be sponsored by the Foreign Intelligence Service (SVR).   Some of the adversarial collective's cyber activities are tracked publicly under the moniker&nbsp; Nobelium , a threat cluster responsible for the widespread supply chain compromise through SolarWinds software in December 2020.  The Google-owned threat intelligence and incident response firm s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

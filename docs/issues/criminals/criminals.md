@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Gang Offers to Sell Files Stolen From Continental for $50 Million<a href="https://www.securityweek.com/ransomware-gang-offers-sell-files-stolen-continental-50-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Continental reported in August that it had been targeted in a cyberattack that resulted in hackers accessing some of its systems. The company said at the time that the attack had been “averted” and that business activities were not affected.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine arrests fraud ring members who made €200 million per year<a href="https://www.bleepingcomputer.com/news/security/ukraine-arrests-fraud-ring-members-who-made-200-million-per-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's cyber police and Europol have identified and arrested five key members of an international investment fraud ring estimated to have caused losses of over €200 million per year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian LockBit ransomware operator arrested in Canada<a href="https://www.bleepingcomputer.com/news/security/russian-lockbit-ransomware-operator-arrested-in-canada/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol has announced&nbsp;today the arrest of&nbsp;a Russian national linked to&nbsp;LockBit ransomware attacks targeting critical infrastructure organizations and high-profile companies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
