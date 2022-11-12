@@ -8,6 +8,38 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man charged for role in LockBit ransomware operation<a href="https://securityaffairs.co/wordpress/138381/cyber-crime/man-charged-lockbit-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DoJ charged a Russian-Canadian national for his alleged role in&nbsp;LockBit ransomware attacks&nbsp;against organizations worldwide.
+
+
+
+The U.S. Department of Justice (DoJ) charged Mikhail Vasiliev, a dual Russian and Canadian national, for his alleged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian-Canadian National Charged Over Involvement in LockBit Ransomware Attacks<a href="https://thehackernews.com/2022/11/russian-canadian-national-charged-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has announced charges against a dual Russian and Canadian national for his alleged participation in&nbsp; LockBit ransomware attacks &nbsp;across the world.  The 33-year-old Ontario resident,&nbsp; Mikhail Vasiliev , has been taken into custody and is awaiting extradition to the U.S., where is likely to be sentenced for a maximum of five years in prison.  Vasiliev has been charged with conspiracy to intentionally damage protected computers and to transmit ransom demands, according to a&nbsp; criminal complaint &nbsp;filed in the District of New Jersey.   A search of the defendant's home in August and October 2022 by Canadian law enforcement unearthed a file stored on a device containing what's suspected to be a list of "prospective or historical" victims as well as screenshots of communications exchanged with "LockBitSupp" on the Tox messaging platform.  Also found were a text file with instructions to deploy LockBit ransomware, the malware'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

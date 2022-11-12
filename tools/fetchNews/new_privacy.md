@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Long-running surveillance campaigns target Uyghurs with BadBazaar and MOONSHINE spyware<a href="https://securityaffairs.co/wordpress/138395/intelligence/uyghurs-badbazaar-moonshine-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout researchers discovered two long-running surveillance campaigns targeting the ethnic minority Uyghurs.
+
+
+
+Researchers from mobile security firm Lookout uncovered two long-running surveillance campaigns targeting the Uyghurs minority. The threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - November 11th 2022 - LockBit feeling the heat<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-11th-2022-lockbit-feeling-the-heat/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vulnerability in Popular Widget Shows Risks of Third-Party Code<a href="https://www.imperva.com/blog/vulnerability-discovered-in-equalweb-accessibility-widget/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Imperva
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Two Long-Running Android Spyware Campaigns Targeting Uyghurs<a href="https://thehackernews.com/2022/11/experts-uncover-two-long-running.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An initial access broker claims to have hacked Deutsche Bank<a href="https://securityaffairs.co/wordpress/138416/data-breach/deutsche-bank-alleged-data-breach.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender network protection generally available on iOS, Android<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-network-protection-generally-available-on-ios-android/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New phishing campaign posing as Spain's Tax Agency<a href="https://blog.avast.com/phishing-spain-tax-agency?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Avast
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Google Play Store App Spotted Distributing Xenomorph Banking Trojan<a href="https://thehackernews.com/2022/11/these-two-google-play-store-apps.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Long-running surveillance campaigns target Uyghurs with BadBazaar and MOONSHINE spyware<a href="https://securityaffairs.co/wordpress/138395/intelligence/uyghurs-badbazaar-moonshine-surveillance.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian food retail giant Sobeys hit by Black Basta ransomware<a href="https://www.bleepingcomputer.com/news/security/canadian-food-retail-giant-sobeys-hit-by-black-basta-ransomware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Three Vulnerabilities in OpenLiteSpeed Web Server<a href="https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VPN vs. DNS Security<a href="https://thehackernews.com/2022/11/vpn-vs-dns-security.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man charged for role in LockBit ransomware operation<a href="https://securityaffairs.co/wordpress/138381/cyber-crime/man-charged-lockbit-ransomware-attacks.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. seized 18 web domains used for recruiting money mules<a href="https://www.bleepingcomputer.com/news/security/us-seized-18-web-domains-used-for-recruiting-money-mules/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers pretend to be financial regulators<a href="https://www.kaspersky.com/blog/scam-for-scam-victims/46101/?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Kaspersky Lab
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple High-Severity Flaw Affect Widely Used OpenLiteSpeed Web Server Software<a href="https://thehackernews.com/2022/11/multiple-high-severity-flaw-affect.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher received a $70k award for a Google Pixel lock screen bypass<a href="https://securityaffairs.co/wordpress/138372/mobile-2/google-pixel-lock-screen-bypass.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BadBazaar Android malware linked to Chinese cyberspies<a href="https://www.bleepingcomputer.com/news/security/new-badbazaar-android-malware-linked-to-chinese-cyberspies/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches 33 Vulnerabilities in Enterprise Firewall Products<a href="https://www.securityweek.com/cisco-patches-33-vulnerabilities-enterprise-firewall-products?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Updates for ESET's Advanced Home Solutions<a href="https://thehackernews.com/2022/11/eset-antivirus-advanced-protection.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked IRIDIUM APT linked to Prestige ransomware attacks against Ukraine<a href="https://securityaffairs.co/wordpress/138362/apt/prestige-ransomware-linked-iridium.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft confirms gaming performance issues on Windows 11 22H2<a href="https://www.bleepingcomputer.com/news/security/microsoft-confirms-gaming-performance-issues-on-windows-11-22h2/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CSRF in Plesk API enabled privilege escalation<a href="https://portswigger.net/daily-swig/csrf-in-plesk-api-enabled-privilege-escalation?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian-Canadian National Charged Over Involvement in LockBit Ransomware Attacks<a href="https://thehackernews.com/2022/11/russian-canadian-national-charged-over.html"> Full Text</a>
@@ -422,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Mail down: Tracking unavailable as outage exceeds 24 hours<a href="https://www.bleepingcomputer.com/news/security/royal-mail-down-tracking-unavailable-as-outage-exceeds-24-hours/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘We know who you are’: Australian police say Russian cybercriminals behind Medibank hack<a href="https://www.theguardian.com/australia-news/2022/nov/11/we-know-who-you-are-australian-police-say-russian-cyber-criminals-behind-medibank-hack?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ The Guardian
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Blames Russian Hackers for Prestige Ransomware Attacks on Ukraine and Poland<a href="https://thehackernews.com/2022/11/microsoft-blames-russian-hackers-for.html"> Full Text</a>
@@ -470,7 +470,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2022
+November 11, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 County offices across Arkansas working without computers during possible breach<a href="https://www.arkansasonline.com/news/2022/nov/10/county-offices-working-without-computers-during/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ Arkansas Democrat Gazette
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2022
+November 10, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixes Windows zero-day bug exploited to push malware<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-zero-day-bug-exploited-to-push-malware/"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. seized 18 web domains used for recruiting money mules<a href="https://www.bleepingcomputer.com/news/security/us-seized-18-web-domains-used-for-recruiting-money-mules/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and U.S. Postal Inspection Service have seized eighteen web domains used to recruit money mules for work-from-home and reshipping scams.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘We know who you are’: Australian police say Russian cybercriminals behind Medibank hack<a href="https://www.theguardian.com/australia-news/2022/nov/11/we-know-who-you-are-australian-police-say-russian-cyber-criminals-behind-medibank-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian federal police say hackers in Russia are responsible for the Medibank data breach, with the commissioner stating “we know who you are”. Reece Kershaw said on Friday that the AFP had identified the hackers while working with Interpol.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

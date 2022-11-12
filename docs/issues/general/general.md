@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPN vs. DNS Security<a href="https://thehackernews.com/2022/11/vpn-vs-dns-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When you are trying to get another layer of cyber protection that would not require a lot of resources, you are most likely choosing between a VPN service &amp; a DNS Security solution. Let's discuss both.&nbsp;  VPN Explained  VPN stands for Virtual Private Networks and basically hides your IP and provides an encrypted server by redirecting your traffic via a server run by a VPN host. It establishes a protected connection in public networks. It does protect your actions from being seen by your ISP and potential hackers, however, it does not provide full protection and can still let intrusions happen.&nbsp;  Worth noting, VPN does gain access to restricted resources in your region, but bear in mind, it might be collecting your personal data. This problem relates mostly to free and cheap VPN services. In addition to that, VPNs, depending on their type, can proxy requests or not.  Most of the free ones do not even encrypt your data. According to Cybernews, last year 20 million emails and othe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Updates for ESET's Advanced Home Solutions<a href="https://thehackernews.com/2022/11/eset-antivirus-advanced-protection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that antivirus software is as essential to your computer as a power cord.  However, the threats don't stop at your devices. For example, criminals trying to steal your data can attack your Wi-Fi router, and phishing attempts can target your email.&nbsp;  ESET's latest consumer product release takes a comprehensive approach to security to guard against a full range of threats. All are built with ESET's signature light footprint for gaming, browsing, shopping and socializing with no interruptions or slowdowns.  Introducing enhanced security for Windows, Mac and Android  For more than 30 years, ESET® has created industry-leading IT security software and services, protecting businesses worldwide from ever-evolving digital threats.&nbsp;   ESET's solutions for consumers use the same advanced technologies. By protecting your digital life, ESET delivers real-world protection against criminals trying to steal your identity, hack your bank account or lock down your com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

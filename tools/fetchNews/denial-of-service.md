@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mississippi election websites knocked out by DDoS attack<a href="https://therecord.media/mississippi-election-websites-knocked-out-by-ddos-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Mississippi state websites were knocked offline during Tuesday’s midterm election in what was the most significant digital disruption of the day, though a federal official warned that more could be on the way as ballots are counted.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

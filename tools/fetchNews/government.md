@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+No Cyberattacks Affected US Vote Counting, Officials Say<a href="https://www.securityweek.com/no-cyberattacks-affected-us-vote-counting-officials-say?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No instances of digital interference are known to have affected the counting of the midterm vote after a tense Election Day in which officials were closely monitoring domestic and foreign threats.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns scammers now impersonate refund payment portals<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-scammers-now-impersonate-refund-payment-portals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that tech support scammers are now impersonating financial institutions' refund payment portals to harvest victims' sensitive information&nbsp;and add legitimacy.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

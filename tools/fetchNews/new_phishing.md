@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New phishing campaign posing as Spain's Tax Agency<a href="https://blog.avast.com/phishing-spain-tax-agency?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing attempt starts out via a fraudulent SMS that notifies victims of a supposed reimbursement that they qualify for. According to the SMS, all they need to do to receive the reimbursement is to fill out a form on the agency's website.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers pretend to be financial regulators<a href="https://www.kaspersky.com/blog/scam-for-scam-victims/46101/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky uncovered two separate scams in which cybercriminals impersonate financial regulators investigating fraud. Under this pretext, they extract an array of personal information from their hapless victims.
+</details>
+<div style="text-align: right" markdown="1">
+Kaspersky Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BOXX Insurance acquires Templarbit to strengthen cyber risk protection for businesses<a href="https://www.helpnetsecurity.com/2022/11/09/boxx-insurance-templarbit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BOXX Insurance has acquired Templarbit, a cyber threat intelligence platform that makes it simpler for businesses to stay ahead of digital threats. With teams in Palo Alto and Los Angeles, Templarbit was founded by Bjoern Zinssmeister in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky to kill its VPN service in Russia next week<a href="https://www.bleepingcomputer.com/news/security/kaspersky-to-kill-its-vpn-service-in-russia-next-week/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky is stopping the operation and sales of its VPN product, Kaspersky Secure Connection, in the Russian Federation, with the free version to be suspended as early as November 15, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

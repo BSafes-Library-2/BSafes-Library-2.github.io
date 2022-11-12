@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail down: Tracking unavailable as outage exceeds 24 hours<a href="https://www.bleepingcomputer.com/news/security/royal-mail-down-tracking-unavailable-as-outage-exceeds-24-hours/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Mail, UK's leading mail and parcel delivery service, has been experiencing ongoing outages with its online tracking services down for more than 24 hours at the time of writing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+County offices across Arkansas working without computers during possible breach<a href="https://www.arkansasonline.com/news/2022/nov/10/county-offices-working-without-computers-during/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Across Arkansas, many county government employees were working without computers on Wednesday after a Rogers-based information technology company told them to shut down computer servers because of a possible security breach.
+</details>
+<div style="text-align: right" markdown="1">
+Arkansas Democrat Gazette
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked IRIDIUM APT linked to Prestige ransomware attacks against Ukraine<a href="https://securityaffairs.co/wordpress/138362/apt/prestige-ransomware-linked-iridium.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked Prestige ransomware attacks against organizations in Ukraine and Poland to Russia-linked threat actors.
+
+
+
+In Mid-October, Microsoft Threat Intelligence Center (MSTIC) researchers uncovered previously undetected ransomware, tracked as Prestige...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

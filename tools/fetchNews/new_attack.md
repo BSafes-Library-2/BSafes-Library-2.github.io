@@ -8,6 +8,66 @@ nav_order: 900015
 
 ## Attack
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Two Long-Running Android Spyware Campaigns Targeting Uyghurs<a href="https://thehackernews.com/2022/11/experts-uncover-two-long-running.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two long-running surveillance campaigns have been found targeting the Uyghur community in China and elsewhere with Android spyware tools designed to harvest sensitive information and track their whereabouts.  This encompasses a previously undocumented malware strain called BadBazaar and updated variants of an espionage artifact dubbed&nbsp; MOONSHINE &nbsp;by researchers from the University of Toronto's Citizen Lab in September 2019.  "Mobile surveillance tools like BadBazaar and MOONSHINE can be used to track many of the 'pre-criminal' activities, actions considered indicative of religious extremism or separatism by the authorities in Xinjiang," Lookout&nbsp; said &nbsp;in a detailed write-up of the operations.  The BadBazaar campaign, according to the security firm, is said to date as far back as late 2018 and comprise 111 unique apps that masquerade as benign video players, messengers, religious apps, and even TikTok.  While these samples were distributed through Uyghur-language
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An initial access broker claims to have hacked Deutsche Bank<a href="https://securityaffairs.co/wordpress/138416/data-breach/deutsche-bank-alleged-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An initial access broker claims to have hacked Deutsche Bank and is offering access to its systems for sale on Telegram.
+
+
+
+A threat actor (0x_dump) claims to have hacked the multinational&nbsp;investment bank Deutsche Bank and is offering access to its network...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian food retail giant Sobeys hit by Black Basta ransomware<a href="https://www.bleepingcomputer.com/news/security/canadian-food-retail-giant-sobeys-hit-by-black-basta-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grocery stores and pharmacies belonging to Canadian food retail giant Sobeys have been experiencing IT systems issues since last weekend.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Blames Russian Hackers for Prestige Ransomware Attacks on Ukraine and Poland<a href="https://thehackernews.com/2022/11/microsoft-blames-russian-hackers-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday attributed the recent spate of ransomware incidents targeting transportation and logistics sectors in Ukraine and Poland to a threat cluster that shares overlaps with the Russian state-sponsored&nbsp; Sandworm group .  The attacks, which were disclosed by the tech giant last month, involved a strain of previously undocumented malware called&nbsp; Prestige &nbsp;and is said to have taken place within an hour of each other across all victims.  The Microsoft Threat Intelligence Center (MSTIC) is now tracking the threat actor under its element-themed moniker Iridium (née DEV-0960), citing overlaps with Sandworm (aka Iron Viking, TeleBots, and Voodoo Bear).  "This attribution assessment is based on forensic artifacts, as well as overlaps in victimology, tradecraft, capabilities, and infrastructure, with known Iridium activity," MSTIC&nbsp; said &nbsp;in an update.  The company also further assessed the group to have orchestrated compromise activity targeting many of the Prestige vic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

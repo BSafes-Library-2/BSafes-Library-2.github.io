@@ -8,6 +8,122 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability in Popular Widget Shows Risks of Third-Party Code<a href="https://www.imperva.com/blog/vulnerability-discovered-in-equalweb-accessibility-widget/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of this vulnerability could allow malicious actors to impersonate a user and take over a user’s account, perform any action on behalf of the user and or steal sensitive information such as cookies and session tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Imperva
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Three Vulnerabilities in OpenLiteSpeed Web Server<a href="https://unit42.paloaltonetworks.com/openlitespeed-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Unit 42 research team discovered three different vulnerabilities in the open-source OpenLiteSpeed Web Server. These vulnerabilities also affect the enterprise version, LiteSpeed Web Server.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple High-Severity Flaw Affect Widely Used OpenLiteSpeed Web Server Software<a href="https://thehackernews.com/2022/11/multiple-high-severity-flaw-affect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple high-severity flaws have been uncovered in the open source OpenLiteSpeed Web Server as well as its enterprise variant that could be weaponized to achieve remote code execution.  "By chaining and exploiting the vulnerabilities, adversaries could compromise the web server and gain fully privileged remote code execution," Palo Alto Networks Unit 42&nbsp; said &nbsp;in a Thursday report.   OpenLiteSpeed , the open source edition of LiteSpeed Web Server, is the sixth most popular web server, accounting for 1.9 million unique servers across the world.  The first of the three flaws is a directory traversal flaw ( CVE-2022-0072 , CVSS score: 5.8), which could be exploited to access forbidden files in the web root directory.   The remaining two vulnerabilities ( CVE-2022-0073 &nbsp;and&nbsp; CVE-2022-0074 , CVSS scores: 8.8) relate to a case of privilege escalation and command injection, respectively, that could be chained to achieve privileged code execution.   "A threat actor who managed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher received a $70k award for a Google Pixel lock screen bypass<a href="https://securityaffairs.co/wordpress/138372/mobile-2/google-pixel-lock-screen-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google fixed a high-severity security bug affecting all Pixel smartphones that can allow attackers to unlock the devices.
+
+
+
+Google has addressed a high-severity security bug, tracked as CVE-2022-20465, affecting all Pixel smartphones that could be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches 33 Vulnerabilities in Enterprise Firewall Products<a href="https://www.securityweek.com/cisco-patches-33-vulnerabilities-enterprise-firewall-products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco this week announced the release of patches for multiple vulnerabilities impacting enterprise firewall products running Cisco Adaptive Security Appliance (ASA), Firepower Threat Defense (FTD), and Firepower Management Center (FMC) software.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft confirms gaming performance issues on Windows 11 22H2<a href="https://www.bleepingcomputer.com/news/security/microsoft-confirms-gaming-performance-issues-on-windows-11-22h2/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is working on a fix for a new known issue behind lower-than-expected performance or stuttering in some games on systems running Windows 11&nbsp;22H2.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSRF in Plesk API enabled privilege escalation<a href="https://portswigger.net/daily-swig/csrf-in-plesk-api-enabled-privilege-escalation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REST API of Plesk was vulnerable to client-side request forgery (CSRF), which could lead to multiple potential attacks, including malicious file upload and privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixes Windows zero-day bug exploited to push malware<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-zero-day-bug-exploited-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows has fixed a bug that prevented Mark of the Web flags from propagating to files within downloaded ISO files, dealing a massive blow to malware distributors and developers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
