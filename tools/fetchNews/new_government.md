@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Decision Tree Model to Help Companies Prioritize Vulnerability Patching<a href="https://www.securityweek.com/cisa-releases-decision-tree-model-help-companies-prioritize-vulnerability-patching?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) announced the release of a Stakeholder-Specific Vulnerability Categorization (SSVC) guide that can help organizations prioritize vulnerability patching using a decision tree model.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

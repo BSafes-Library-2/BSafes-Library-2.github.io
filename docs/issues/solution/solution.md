@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Introduces Private Vulnerability Reporting for Public Repositories<a href="https://www.securityweek.com/github-introduces-private-vulnerability-reporting-public-repositories?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft-owned code hosting platform GitHub has announced the introduction of a direct channel for security researchers to report vulnerabilities in public repositories that allow it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender network protection generally available on iOS, Android<a href="https://www.bleepingcomputer.com/news/security/microsoft-defender-network-protection-generally-available-on-ios-android/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that the Mobile Network Protection feature is generally available to help organizations detect network weaknesses affecting Android and iOS devices running Microsoft's Defender for Endpoint (MDE) enterprise endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

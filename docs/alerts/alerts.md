@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STAKEHOLDER-SPECIFIC VULNERABILITY CATEGORIZATION <a href="https://www.cisa.gov/ssvc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Carnegie Mellon University's Software Engineering Institute (SEI), in collaboration with CISA, created the Stakeholder-Specific Vulnerability Categorization (SSVC) system in 2019 to provide the cyber community a vulnerability analysis methodology that accounts for a vulnerability's exploitation status, impacts to safety, and prevalence of the affected product in a singular system. CISA worked with SEI in 2020 to develop its own customized SSVC decision tree to examine vulnerabilities relevant to the United States government (USG), as well as state, local, tribal, and territorial (SLTT) governments, and critical infrastructure entities. Implementing SSVC has allowed CISA to better prioritize its vulnerability response and vulnerability messaging to the public. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 10, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

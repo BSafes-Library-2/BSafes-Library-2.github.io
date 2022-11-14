@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Changing Malware and Ransomware Ecosystem in H1 2022<a href="https://cyware.com/news/changing-malware-and-ransomware-ecosystem-in-h1-2022-d314e027"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep Instinct published its 2022 Bi-Annual Cyber Threat Report delineating the top ransomware and malware trends observed between January and September. Bugs such as DirtyPipe and Follina have been emphasized by hackers to abuse both Linux and Windows devices. Throughout, 2022 has been a good year  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

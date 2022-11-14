@@ -8,6 +8,56 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Police dismantled a transnational fraud group that made €200 million per year<a href="https://securityaffairs.co/wordpress/138481/cyber-crime/ukraine-police-dismantled-fraud-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Cyber ​​Police and Europol arrested 5 Ukrainian citizens who are members of a large-scale transnational fraud group.
+
+
+
+Ukraine's cyber police and Europol arrested five members of a transnational fraud group that caused more than 200 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit gang leaked data stolen from global high-tech giant Thales<a href="https://securityaffairs.co/wordpress/138471/data-breach/lockbit-leaked-thales-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lockbit 3.0 ransomware gang started leaking the information allegedly stolen from the global high-tech company Thales.
+
+
+
+Thales is a global high-tech leader with more than 81,000 employees worldwide. The Group invests in digital and deep tech innovations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Are Publishing Stolen Abortion Records on the Dark Web<a href="https://www.vice.com/en/article/5d3435/russian-hackers-abortion-records-dark-web?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers who stole a trove of data from one of Australia’s biggest private health insurers are drip-feeding sensitive details of customers' medical diagnoses and procedures, including abortions, onto the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

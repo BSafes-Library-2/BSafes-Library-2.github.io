@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTX Investigating Possible Hack Hours After Bankruptcy Filing<a href="https://www.nytimes.com/2022/11/12/business/ftx-cryptocurrency-hack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after it filed for bankruptcy, the collapsed cryptocurrency exchange FTX said that it was investigating “unauthorized transactions” flowing from its accounts, as crypto researchers documented suspicious transfers of $515 million.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

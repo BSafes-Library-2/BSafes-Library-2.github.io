@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says Russian hacktivists use new Somnia ransomware<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-russian-hacktivists-use-new-somnia-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hacktivists have infected multiple organizations in Ukraine with a new ransomware strain called 'Somnia,' encrypting their systems and causing operational problems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Changing Malware and Ransomware Ecosystem in H1 2022<a href="https://cyware.com/news/changing-malware-and-ransomware-ecosystem-in-h1-2022-d314e027"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep Instinct published its 2022 Bi-Annual Cyber Threat Report delineating the top ransomware and malware trends observed between January and September. Bugs such as DirtyPipe and Follina have been emphasized by hackers to abuse both Linux and Windows devices. Throughout, 2022 has been a good year  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Police dismantled a transnational fraud group that made €200 million per year<a href="https://securityaffairs.co/wordpress/138481/cyber-crime/ukraine-police-dismantled-fraud-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Cyber ​​Police and Europol arrested 5 Ukrainian citizens who are members of a large-scale transnational fraud group.
+
+
+
+Ukraine's cyber police and Europol arrested five members of a transnational fraud group that caused more than 200 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTX Investigating Possible Hack Hours After Bankruptcy Filing<a href="https://www.nytimes.com/2022/11/12/business/ftx-cryptocurrency-hack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A day after it filed for bankruptcy, the collapsed cryptocurrency exchange FTX said that it was investigating “unauthorized transactions” flowing from its accounts, as crypto researchers documented suspicious transfers of $515 million.
+</details>
+<div style="text-align: right" markdown="1">
+New York Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit gang leaked data stolen from global high-tech giant Thales<a href="https://securityaffairs.co/wordpress/138471/data-breach/lockbit-leaked-thales-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lockbit 3.0 ransomware gang started leaking the information allegedly stolen from the global high-tech company Thales.
+
+
+
+Thales is a global high-tech leader with more than 81,000 employees worldwide. The Group invests in digital and deep tech innovations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New extortion scam threatens to damage sites’ reputation, leak data<a href="https://www.bleepingcomputer.com/news/security/new-extortion-scam-threatens-to-damage-sites-reputation-leak-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active extortion scam is targeting website owners and admins worldwide, claiming to have hacked their servers and demanding $2,500 not to leak data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android phone owner accidentally finds a way to bypass lock screen<a href="https://www.bleepingcomputer.com/news/security/android-phone-owner-accidentally-finds-a-way-to-bypass-lock-screen/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher David Schütz accidentally found a way to bypass the lock screen on his fully patched Google Pixel 6 and Pixel 5 smartphones, enabling anyone with physical access to the device to unlock it.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrelaStealer and IceXLoader Drive Info-Stealing Campaigns | Cyware Hacker News<a href="https://cyware.com/news/strelastealer-and-icexloader-drive-info-stealing-campaigns-cyware-hacker-news-96d792c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered new waves of malware campaigns, with two information-stealing malware, StrelaStealer and IceXLoader, infecting victims with malicious email attachments. StrelaStealer searches for credentials stored in the Thunderbird and Outlook email clients to steal them. IceXLoader i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$1 billion of FTX customer funds have vanished, Reuters reported<a href="https://securityaffairs.co/wordpress/138449/digital-id/ftx-alleged-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto exchange FTX appears to have been hacked, rumors state that attackers stole $600 million drained from the company's wallets.
+
+
+
+Crypto exchange FTX is recommending users to delete FTX apps and avoid using its website, a circumstance that refutes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia tells Medibank hackers: 'We know who you are'<a href="https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police claims to have identified the cybercriminals behind the Medibank ransomware attack, which compromised the personal data of 9.7 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious app in the Play Store spotted distributing Xenomorph Banking Trojan<a href="https://securityaffairs.co/wordpress/138440/malware/xenomorph-banking-malware-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered two new malicious dropper apps on the Google Play Store distributing the Xenomorph banking malware.
+
+
+
+Zscaler ThreatLabz researchers discovered a couple of malicious dropper apps on the Play Store distributing the Xenomorph banking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Introduces Private Vulnerability Reporting for Public Repositories<a href="https://www.securityweek.com/github-introduces-private-vulnerability-reporting-public-repositories?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft-owned code hosting platform GitHub has announced the introduction of a direct channel for security researchers to report vulnerabilities in public repositories that allow it.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian supermarket chain giant Sobeys suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/138424/cyber-crime/sobeys-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sobeys, the second-largest supermarket chain in Canada, was he victim of a ransomware attack conducted by the Black Basta gang.
+
+
+
+Sobeys Inc. is the second largest supermarket chain in Canada, the company operates over 1,500 stores operating across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Decision Tree Model to Help Companies Prioritize Vulnerability Patching<a href="https://www.securityweek.com/cisa-releases-decision-tree-model-help-companies-prioritize-vulnerability-patching?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) announced the release of a Stakeholder-Specific Vulnerability Categorization (SSVC) guide that can help organizations prioritize vulnerability patching using a decision tree model.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Are Publishing Stolen Abortion Records on the Dark Web<a href="https://www.vice.com/en/article/5d3435/russian-hackers-abortion-records-dark-web?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers who stole a trove of data from one of Australia’s biggest private health insurers are drip-feeding sensitive details of customers' medical diagnoses and procedures, including abortions, onto the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Vice
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

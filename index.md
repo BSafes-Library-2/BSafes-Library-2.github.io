@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine says Russian hacktivists use new Somnia ransomware<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-russian-hacktivists-use-new-somnia-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Changing Malware and Ransomware Ecosystem in H1 2022<a href="https://cyware.com/news/changing-malware-and-ransomware-ecosystem-in-h1-2022-d314e027"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Police dismantled a transnational fraud group that made €200 million per year<a href="https://securityaffairs.co/wordpress/138481/cyber-crime/ukraine-police-dismantled-fraud-group.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTX Investigating Possible Hack Hours After Bankruptcy Filing<a href="https://www.nytimes.com/2022/11/12/business/ftx-cryptocurrency-hack.html?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit gang leaked data stolen from global high-tech giant Thales<a href="https://securityaffairs.co/wordpress/138471/data-breach/lockbit-leaked-thales-files.html"> Full Text</a>
@@ -122,7 +122,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New extortion scam threatens to damage sites’ reputation, leak data<a href="https://www.bleepingcomputer.com/news/security/new-extortion-scam-threatens-to-damage-sites-reputation-leak-data/"> Full Text</a>
@@ -138,7 +138,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android phone owner accidentally finds a way to bypass lock screen<a href="https://www.bleepingcomputer.com/news/security/android-phone-owner-accidentally-finds-a-way-to-bypass-lock-screen/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StrelaStealer and IceXLoader Drive Info-Stealing Campaigns | Cyware Hacker News<a href="https://cyware.com/news/strelastealer-and-icexloader-drive-info-stealing-campaigns-cyware-hacker-news-96d792c3"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $1 billion of FTX customer funds have vanished, Reuters reported<a href="https://securityaffairs.co/wordpress/138449/digital-id/ftx-alleged-hack.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia tells Medibank hackers: 'We know who you are'<a href="https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/?&web_view=true"> Full Text</a>
@@ -206,7 +206,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious app in the Play Store spotted distributing Xenomorph Banking Trojan<a href="https://securityaffairs.co/wordpress/138440/malware/xenomorph-banking-malware-play-store.html"> Full Text</a>
@@ -226,7 +226,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Introduces Private Vulnerability Reporting for Public Repositories<a href="https://www.securityweek.com/github-introduces-private-vulnerability-reporting-public-repositories?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian supermarket chain giant Sobeys suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/138424/cyber-crime/sobeys-ransomware-attack.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Decision Tree Model to Help Companies Prioritize Vulnerability Patching<a href="https://www.securityweek.com/cisa-releases-decision-tree-model-help-companies-prioritize-vulnerability-patching?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Are Publishing Stolen Abortion Records on the Dark Web<a href="https://www.vice.com/en/article/5d3435/russian-hackers-abortion-records-dark-web?&web_view=true"> Full Text</a>

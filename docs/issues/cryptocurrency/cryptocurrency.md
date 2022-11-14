@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+$1 billion of FTX customer funds have vanished, Reuters reported<a href="https://securityaffairs.co/wordpress/138449/digital-id/ftx-alleged-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto exchange FTX appears to have been hacked, rumors state that attackers stole $600 million drained from the company's wallets.
+
+
+
+Crypto exchange FTX is recommending users to delete FTX apps and avoid using its website, a circumstance that refutes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

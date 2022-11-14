@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 11th 2022 - LockBit feeling the heat<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-11th-2022-lockbit-feeling-the-heat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This 'Week in Ransomware' covers the last two weeks of ransomware news, with new information on attacks, arrests, data wipers, and reports shared by cybersecurity firms and researchers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
