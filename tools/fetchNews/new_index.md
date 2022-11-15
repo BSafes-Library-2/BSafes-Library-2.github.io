@@ -34,7 +34,375 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whoosh confirms data breach after hackers sell 7.2M user records<a href="https://www.bleepingcomputer.com/news/security/whoosh-confirms-data-breach-after-hackers-sell-72m-user-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian scooter-sharing service Whoosh has confirmed a data breach after hackers started to sell a database containing the details of 7.2 million customers on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Targets Ukraine With New Somnia Ransomware<a href="https://cyware.com/news/russia-targets-ukraine-with-new-somnia-ransomware-8d22d075"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During an investigation into the recent series of attacks against organizations in Ukraine, the CERT-UA discovered a new ransomware variant called Somnia. The government has attributed the attacks to the group ‘From Russia with Love’ (FRwL), allegedly a Pro-Russian hacker group. The attackers appar ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "Earth Longzhi" APT Targets Ukraine and Asian Countries with Custom Cobalt Strike Loaders<a href="https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities located in East and Southeast Asia as well as Ukraine have been targeted at least since 2020 by a previously undocumented subgroup of  APT41 , a prolific Chinese advanced persistent threat (APT).  Cybersecurity firm Trend Micro, which  christened  the espionage crew  Earth Longzhi , said the actor's long-running campaign can be split into two based on the toolset deployed to attack its victims.  The first wave from May 2020 to February 2021 is said to have targeted government, infrastructure, and healthcare industries in Taiwan and the banking sector in China, whereas the succeeding set of intrusions from August 2021 to June 2022 infiltrated high-profile victims in Ukraine and several countries in Asia.   This included defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.  The victimology patterns and the targeted sectors overlap with attacks mounted by a distinct sister group of  APT41  (aka
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Black hat SEO campaign used +15K WordPress sites<a href="https://securityaffairs.co/wordpress/138523/hacking/wordpress-sites-black-hat-seo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a malicious SEO campaign that has compromised over 15,000 WordPress websites to redirect visitors to fake Q&A portals.
+
+
+
+Since September 2022, researchers from security firm Sucuri have tracked a surge in WordPress malware redirecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+42,000 sites used to trap users in brand impersonation scheme<a href="https://www.bleepingcomputer.com/news/security/42-000-sites-used-to-trap-users-in-brand-impersonation-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious for-profit group named 'Fangxiao' has created a massive network of over 42,000 web domains that impersonate well-known brands to redirect users to sites promoting adware apps, dating sites, or 'free' giveaways.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Google Play Store App Distributes Xenomorph Banking Trojan<a href="https://cyware.com/news/malicious-google-play-store-app-distributes-xenomorph-banking-trojan-34fe6ab4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zscaler ThreatLabz team stumbled across the Xenomorph banking trojan loaded over a lifestyle app called ‘Todo: Day manager,’ in the Google Play store. The malware is dropped via GitHub as a fake Google Service application right during the installation of the app. It opens as an overlay onto leg ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 15,000 WordPress Sites Compromised in Malicious SEO Campaign<a href="https://thehackernews.com/2022/11/over-15000-wordpress-sites-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malicious campaign has compromised  over 15,000 WordPress websites  in an attempt to redirect visitors to bogus Q&A portals.  "These malicious redirects appear to be designed to increase the authority of the attacker's sites for search engines," Sucuri researcher Ben Martin  said  in a report published last week, calling it a "clever black hat SEO trick."  The search engine poisoning technique is designed to promote a "handful of fake low quality Q&A sites" that share similar website-building templates and are operated by the same threat actor.   A notable aspect of the campaign is the ability of the hackers to modify over 100 files per website on average, an approach that contrasts dramatically from other attacks of this kind wherein only a limited number of files are tampered with to reduce footprint and escape detection.  Some of the most commonly infected pages consist of wp-signup.php, wp-cron.php, wp-links-opml.php, wp-settings.php
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KmsdBot, a new evasive bot for cryptomining activity and DDoS attacks<a href="https://securityaffairs.co/wordpress/138514/malware/kmsdbot-golang-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new evasive malware, tracked as KmsdBot, that infects systems via an SSH connection that uses weak credentials.
+
+
+
+Akamai Security Research discovered a new evasive Golang-based malware, tracked as KmsdBot, that infects systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram, Facebook, Twitter, YouTube suspended in Turkey after blast<a href="https://www.bleepingcomputer.com/news/security/instagram-facebook-twitter-youtube-suspended-in-turkey-after-blast/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following yesterday's deadly blast on İstiklal Avenue in Istanbul, Turkish authorities began restricting access to social media including Instagram, Facebook, Twitter, YouTube and Telegram.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Impersonate Financial Regulators to Steal Personal and Banking Data<a href="https://cyware.com/news/scammers-impersonate-financial-regulators-to-steal-personal-and-banking-data-a02793ce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky uncovered two scam campaigns purporting to be from online marketplaces, video streaming services, and government agencies to steal personal and banking data from victims. The attackers did not create any website and just hoped that the victim will agree to discuss their investments first  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is an External Penetration Test?<a href="https://thehackernews.com/2022/11/what-is-external-penetration-test.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A penetration test (also known as a pentest) is a security assessment that simulates the activities of real-world attackers to identify security holes in your IT systems or applications.   The aim of the test is to understand what vulnerabilities you have, how they could be exploited, and what the impact would be if an attacker was successful.  Usually performed first, an external pentest (also known as external network penetration testing) is an assessment of your perimeter systems. Your perimeter is all the systems that are directly reachable from the internet. By definition, they are exposed and are, therefore the most easily and regularly attacked.  Testing for weaknesses  External pentests look for ways to compromise these external, accessible systems and services to access sensitive information and see how an attacker could target your clients, customers or users.   In a high-quality external pentest, the security professional(s) will copy the activities of real hackers, like ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA warns of multiple Somnia ransomware attacks against organizations in Ukraine<a href="https://securityaffairs.co/wordpress/138496/hacking/somnia-ransomware-attacks-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors employed a new ransomware family called Somnia in attacks against multiple organizations in Ukraine.
+
+
+
+The Government Computer Emergency Response Team of Ukraine CERT-UA is investigating multiple attacks against organizations in Ukraine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venus Ransomware Targets Healthcare - Warns HHS<a href="https://cyware.com/news/venus-ransomware-targets-healthcare-warns-hhs-642c2d37"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS raised an alarm regarding the increased threats on the country's healthcare organizations from the Venus ransomware operators. Officials claimed they are aware of at least one incident of the ransomware infection. Unfortunately, there’s no known data leak site (or maybe there isn’t any) per ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New KmsdBot Malware Hijacking Systems for Mining Crypto and Launch DDoS Attacks<a href="https://thehackernews.com/2022/11/new-kmsdbot-malware-hijacking-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered evasive malware leverages the Secure Shell ( SSH ) cryptographic protocol to gain entry into targeted systems with the goal of mining cryptocurrency and carrying out distributed denial-of-service (DDoS) attacks.  Dubbed  KmsdBot  by the Akamai Security Intelligence Response Team (SIRT), the Golang-based malware has been found targeting a variety of companies ranging from gaming to luxury car brands to security firms.  "The botnet infects systems via an SSH connection that uses weak login credentials," Akamai researcher Larry W. Cashdollar  said . "The malware does not stay persistent on the infected system as a way of evading detection."   The malware gets its name from an executable named "kmsd.exe" that's downloaded from a remote server following a successful compromise. It's also designed to support multiple architectures, such as Winx86, Arm64, mips64, and x86_64.  KmsdBot comes with capabilities to perform scanning operatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have board directors any liability for a cyberattack against their company?<a href="https://securityaffairs.co/wordpress/138507/security/board-directors-liability-for-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are the directors of a company hit by a cyberattack liable for negligence in failing to take steps to limit the risk.
+
+
+
+As the risk of a cyberattack grows, it is pivotal to consider whether the directors of a company hit by a ransomware attack, for example,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-Stealing Malware Tops Global Threat Index Ranking<a href="https://cyware.com/news/info-stealing-malware-tops-global-threat-index-ranking-b2fcbcc1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point's Global Threat Index for October 2022 revealed that keylogger AgentTesla has topped the list for the most widespread malware, impacting 7% of organizations worldwide. Modular .NET keylogger and credential stealer SnakeKeylogger bagged second place, which impacted 5% of organizations. E ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worok Hackers Abuse Dropbox API to Exfiltrate Data via Backdoor Hidden in Images<a href="https://thehackernews.com/2022/11/worok-hackers-abuse-dropbox-api-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered cyber espionage group dubbed  Worok  has been found hiding malware in seemingly innocuous image files, corroborating a crucial link in the threat actor's infection chain.  Czech cybersecurity firm Avast said the purpose of the PNG files is to conceal a payload that's used to facilitate information theft.  "What is noteworthy is data collection from victims' machines using Dropbox repository, as well as attackers using Dropbox API for communication with the final stage," the company  said .  The development comes a little over two months after ESET disclosed details of attacks carried out by  Worok  against high-profile companies and local governments located in Asia and Africa. Worok is believed to share tactical overlaps with a Chinese threat actor tracked as  TA428 .   The Slovak cybersecurity company also documented Worok's compromise sequence, which makes use of a C++-based loader called CLRLoad  to pave the way for an unknown PowerS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Publishes Guidance on Mitigating Software Memory Safety Issues<a href="https://www.securityweek.com/nsa-publishes-guidance-mitigating-software-memory-safety-issues?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Caused by how programs manage or allocate memory, logic errors, incorrect order of operations, or the use of uninitialized variables, software memory safety issues are often exploited for remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aiphone Intercom System Vulnerability Allows Hackers to Open Doors<a href="https://www.securityweek.com/aiphone-intercom-system-vulnerability-allows-hackers-open-doors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, researchers with Norwegian application security firm Promon published information on a vulnerability identified in several Aiphone products that could allow an attacker to easily breach the entry system using an NFC tag.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns unpatched Zimbra users to assume breach<a href="https://www.cybersecuritydive.com/news/cisa-warns-zimbra-collaboration-suite/636375/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors are launching attacks against unpatched users of Zimbra Collaboration Suite, a business productivity software and email platform, the Cybersecurity and Infrastructure Security Agency said in a warning last Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahrain Government Websites Attacked Right Before Parliamentary Election<a href="https://abcnews.go.com/International/wireStory/bahrain-websites-attacked-parliamentary-election-93144919?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interior Ministry did not identify the websites targeted, but the country's state-run Bahrain News Agency could not be reached online nor could the website for Bahrain's parliament.
+</details>
+<div style="text-align: right" markdown="1">
+ABC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gangs shift tactics, making crimes harder to track<a href="https://www.latimes.com/business/technology/story/2022-11-11/ransomware-gangs-shift-tactics-making-crimes-harder-to-track?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs increasingly use their own or stolen computer code, moving away from a ransomware-as-a-service model that made their activities easier to monitor, new research shows.
+</details>
+<div style="text-align: right" markdown="1">
+LA Times
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine says Russian hacktivists use new Somnia ransomware<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-russian-hacktivists-use-new-somnia-ransomware/"> Full Text</a>
@@ -50,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Changing Malware and Ransomware Ecosystem in H1 2022<a href="https://cyware.com/news/changing-malware-and-ransomware-ecosystem-in-h1-2022-d314e027"> Full Text</a>
@@ -66,7 +434,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Police dismantled a transnational fraud group that made €200 million per year<a href="https://securityaffairs.co/wordpress/138481/cyber-crime/ukraine-police-dismantled-fraud-group.html"> Full Text</a>
@@ -86,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTX Investigating Possible Hack Hours After Bankruptcy Filing<a href="https://www.nytimes.com/2022/11/12/business/ftx-cryptocurrency-hack.html?&web_view=true"> Full Text</a>
@@ -102,7 +470,7 @@ New York Times
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2022
+November 13, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit gang leaked data stolen from global high-tech giant Thales<a href="https://securityaffairs.co/wordpress/138471/data-breach/lockbit-leaked-thales-files.html"> Full Text</a>
@@ -122,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New extortion scam threatens to damage sites’ reputation, leak data<a href="https://www.bleepingcomputer.com/news/security/new-extortion-scam-threatens-to-damage-sites-reputation-leak-data/"> Full Text</a>
@@ -138,7 +506,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android phone owner accidentally finds a way to bypass lock screen<a href="https://www.bleepingcomputer.com/news/security/android-phone-owner-accidentally-finds-a-way-to-bypass-lock-screen/"> Full Text</a>
@@ -154,7 +522,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StrelaStealer and IceXLoader Drive Info-Stealing Campaigns | Cyware Hacker News<a href="https://cyware.com/news/strelastealer-and-icexloader-drive-info-stealing-campaigns-cyware-hacker-news-96d792c3"> Full Text</a>
@@ -170,7 +538,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 $1 billion of FTX customer funds have vanished, Reuters reported<a href="https://securityaffairs.co/wordpress/138449/digital-id/ftx-alleged-hack.html"> Full Text</a>
@@ -190,7 +558,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia tells Medibank hackers: 'We know who you are'<a href="https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/?&web_view=true"> Full Text</a>
@@ -206,7 +574,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious app in the Play Store spotted distributing Xenomorph Banking Trojan<a href="https://securityaffairs.co/wordpress/138440/malware/xenomorph-banking-malware-play-store.html"> Full Text</a>
@@ -226,7 +594,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Introduces Private Vulnerability Reporting for Public Repositories<a href="https://www.securityweek.com/github-introduces-private-vulnerability-reporting-public-repositories?&web_view=true"> Full Text</a>
@@ -242,7 +610,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian supermarket chain giant Sobeys suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/138424/cyber-crime/sobeys-ransomware-attack.html"> Full Text</a>
@@ -262,7 +630,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Decision Tree Model to Help Companies Prioritize Vulnerability Patching<a href="https://www.securityweek.com/cisa-releases-decision-tree-model-help-companies-prioritize-vulnerability-patching?&web_view=true"> Full Text</a>
@@ -278,7 +646,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 12, 2022
+November 12, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Are Publishing Stolen Abortion Records on the Dark Web<a href="https://www.vice.com/en/article/5d3435/russian-hackers-abortion-records-dark-web?&web_view=true"> Full Text</a>
