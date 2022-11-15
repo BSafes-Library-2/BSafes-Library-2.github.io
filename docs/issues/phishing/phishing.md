@@ -8,6 +8,52 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Black hat SEO campaign used +15K WordPress sites<a href="https://securityaffairs.co/wordpress/138523/hacking/wordpress-sites-black-hat-seo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a malicious SEO campaign that has compromised&nbsp;over 15,000 WordPress websites to redirect visitors to fake Q&amp;A portals.
+
+
+
+Since September 2022, researchers from security firm Sucuri have tracked a surge in WordPress malware redirecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+42,000 sites used to trap users in brand impersonation scheme<a href="https://www.bleepingcomputer.com/news/security/42-000-sites-used-to-trap-users-in-brand-impersonation-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious for-profit group named 'Fangxiao' has created a massive network of over 42,000 web domains that impersonate well-known brands to redirect users to sites promoting adware apps, dating sites, or 'free' giveaways.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Impersonate Financial Regulators to Steal Personal and Banking Data<a href="https://cyware.com/news/scammers-impersonate-financial-regulators-to-steal-personal-and-banking-data-a02793ce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky uncovered two scam campaigns purporting to be from online marketplaces, video streaming services, and government agencies to steal personal and banking data from victims. The attackers did not create any website and just hoped that the victim will agree to discuss their investments first  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine says Russian hacktivists use new Somnia ransomware<a href="https://www.bleepingcomputer.com/news/security/ukraine-says-russian-hacktivists-use-new-somnia-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian&nbsp;hacktivists have infected multiple organizations in Ukraine with a new ransomware strain called 'Somnia,'&nbsp;encrypting their systems and causing operational problems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia tells Medibank hackers: 'We know who you are'<a href="https://techcrunch.com/2022/11/11/australia-tells-medibank-hackers-we-know-who-you-are/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police claims to have identified the cybercriminals behind the Medibank ransomware attack, which compromised the personal data of 9.7 million customers.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Whoosh confirms data breach after hackers sell 7.2M user records<a href="https://www.bleepingcomputer.com/news/security/whoosh-confirms-data-breach-after-hackers-sell-72m-user-records/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Targets Ukraine With New Somnia Ransomware<a href="https://cyware.com/news/russia-targets-ukraine-with-new-somnia-ransomware-8d22d075"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New "Earth Longzhi" APT Targets Ukraine and Asian Countries with Custom Cobalt Strike Loaders<a href="https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Black hat SEO campaign used +15K WordPress sites<a href="https://securityaffairs.co/wordpress/138523/hacking/wordpress-sites-black-hat-seo.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 42,000 sites used to trap users in brand impersonation scheme<a href="https://www.bleepingcomputer.com/news/security/42-000-sites-used-to-trap-users-in-brand-impersonation-scheme/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Google Play Store App Distributes Xenomorph Banking Trojan<a href="https://cyware.com/news/malicious-google-play-store-app-distributes-xenomorph-banking-trojan-34fe6ab4"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 15,000 WordPress Sites Compromised in Malicious SEO Campaign<a href="https://thehackernews.com/2022/11/over-15000-wordpress-sites-compromised.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KmsdBot, a new evasive bot for cryptomining activity and DDoS attacks<a href="https://securityaffairs.co/wordpress/138514/malware/kmsdbot-golang-malware.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Instagram, Facebook, Twitter, YouTube suspended in Turkey after blast<a href="https://www.bleepingcomputer.com/news/security/instagram-facebook-twitter-youtube-suspended-in-turkey-after-blast/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Impersonate Financial Regulators to Steal Personal and Banking Data<a href="https://cyware.com/news/scammers-impersonate-financial-regulators-to-steal-personal-and-banking-data-a02793ce"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is an External Penetration Test?<a href="https://thehackernews.com/2022/11/what-is-external-penetration-test.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA warns of multiple Somnia ransomware attacks against organizations in Ukraine<a href="https://securityaffairs.co/wordpress/138496/hacking/somnia-ransomware-attacks-ukraine.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Venus Ransomware Targets Healthcare - Warns HHS<a href="https://cyware.com/news/venus-ransomware-targets-healthcare-warns-hhs-642c2d37"> Full Text</a>
@@ -254,7 +254,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New KmsdBot Malware Hijacking Systems for Mining Crypto and Launch DDoS Attacks<a href="https://thehackernews.com/2022/11/new-kmsdbot-malware-hijacking-systems.html"> Full Text</a>
@@ -270,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Have board directors any liability for a cyberattack against their company?<a href="https://securityaffairs.co/wordpress/138507/security/board-directors-liability-for-cyberattack.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Info-Stealing Malware Tops Global Threat Index Ranking<a href="https://cyware.com/news/info-stealing-malware-tops-global-threat-index-ranking-b2fcbcc1"> Full Text</a>
@@ -306,7 +306,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Worok Hackers Abuse Dropbox API to Exfiltrate Data via Backdoor Hidden in Images<a href="https://thehackernews.com/2022/11/worok-hackers-abuse-dropbox-api-to.html"> Full Text</a>
@@ -322,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Publishes Guidance on Mitigating Software Memory Safety Issues<a href="https://www.securityweek.com/nsa-publishes-guidance-mitigating-software-memory-safety-issues?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aiphone Intercom System Vulnerability Allows Hackers to Open Doors<a href="https://www.securityweek.com/aiphone-intercom-system-vulnerability-allows-hackers-open-doors?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns unpatched Zimbra users to assume breach<a href="https://www.cybersecuritydive.com/news/cisa-warns-zimbra-collaboration-suite/636375/?&web_view=true"> Full Text</a>
@@ -370,7 +370,7 @@ Cybersecurity Dive
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bahrain Government Websites Attacked Right Before Parliamentary Election<a href="https://abcnews.go.com/International/wireStory/bahrain-websites-attacked-parliamentary-election-93144919?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ ABC News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2022
+November 14, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gangs shift tactics, making crimes harder to track<a href="https://www.latimes.com/business/technology/story/2022-11-11/ransomware-gangs-shift-tactics-making-crimes-harder-to-track?&web_view=true"> Full Text</a>

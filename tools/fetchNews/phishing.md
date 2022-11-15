@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New extortion scam threatens to damage sites’ reputation, leak data<a href="https://www.bleepingcomputer.com/news/security/new-extortion-scam-threatens-to-damage-sites-reputation-leak-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active&nbsp;extortion scam is targeting website owners and admins worldwide, claiming to have hacked their servers and demanding $2,500 not to leak data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

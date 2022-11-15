@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aiphone Intercom System Vulnerability Allows Hackers to Open Doors<a href="https://www.securityweek.com/aiphone-intercom-system-vulnerability-allows-hackers-open-doors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, researchers with Norwegian application security firm Promon published information on a vulnerability identified in several Aiphone products that could allow an attacker to easily breach the entry system using an NFC tag.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

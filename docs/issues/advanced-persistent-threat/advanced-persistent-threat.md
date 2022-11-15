@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "Earth Longzhi" APT Targets Ukraine and Asian Countries with Custom Cobalt Strike Loaders<a href="https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities located in East and Southeast Asia as well as Ukraine have been targeted at least since 2020 by a previously undocumented subgroup of&nbsp; APT41 , a prolific Chinese advanced persistent threat (APT).  Cybersecurity firm Trend Micro, which&nbsp; christened &nbsp;the espionage crew&nbsp; Earth Longzhi , said the actor's long-running campaign can be split into two based on the toolset deployed to attack its victims.  The first wave from May 2020 to February 2021 is said to have targeted government, infrastructure, and healthcare industries in Taiwan and the banking sector in China, whereas the succeeding set of intrusions from August 2021 to June 2022 infiltrated high-profile victims in Ukraine and several countries in Asia.   This included defense, aviation, insurance, and urban development industries in Taiwan, China, Thailand, Malaysia, Indonesia, Pakistan, and Ukraine.  The victimology patterns and the targeted sectors overlap with attacks mounted by a distinct sister group of&nbsp; APT41 &nbsp;(aka
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

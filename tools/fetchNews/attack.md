@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrelaStealer and IceXLoader Drive Info-Stealing Campaigns | Cyware Hacker News<a href="https://cyware.com/news/strelastealer-and-icexloader-drive-info-stealing-campaigns-cyware-hacker-news-96d792c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered new waves of malware campaigns, with two information-stealing malware, StrelaStealer and IceXLoader, infecting victims with malicious email attachments. StrelaStealer searches for credentials stored in the Thunderbird and Outlook email clients to steal them. IceXLoader i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian supermarket chain giant Sobeys suffered a ransomware attack<a href="https://securityaffairs.co/wordpress/138424/cyber-crime/sobeys-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sobeys, the second-largest supermarket chain in Canada, was he victim of a ransomware attack conducted by the Black Basta gang.
+
+
+
+Sobeys Inc. is the second largest supermarket chain in&nbsp;Canada, the company operates over 1,500 stores operating across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

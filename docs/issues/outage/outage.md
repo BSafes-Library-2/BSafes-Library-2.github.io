@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram, Facebook, Twitter, YouTube suspended in Turkey after blast<a href="https://www.bleepingcomputer.com/news/security/instagram-facebook-twitter-youtube-suspended-in-turkey-after-blast/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following yesterday's deadly blast on&nbsp;İstiklal Avenue in Istanbul, Turkish authorities began restricting access to social media including Instagram, Facebook, Twitter, YouTube and Telegram.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

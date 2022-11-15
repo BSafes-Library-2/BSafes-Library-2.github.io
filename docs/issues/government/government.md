@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA warns of multiple Somnia ransomware attacks against organizations in Ukraine<a href="https://securityaffairs.co/wordpress/138496/hacking/somnia-ransomware-attacks-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors employed a new ransomware family called Somnia in attacks against multiple organizations in Ukraine.
+
+
+
+The Government Computer Emergency Response Team of Ukraine CERT-UA is investigating multiple attacks against organizations in Ukraine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venus Ransomware Targets Healthcare - Warns HHS<a href="https://cyware.com/news/venus-ransomware-targets-healthcare-warns-hhs-642c2d37"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS raised an alarm regarding the increased threats on the country's healthcare organizations from the Venus ransomware operators. Officials claimed they are aware of at least one incident of the ransomware infection. Unfortunately, there’s no known data leak site (or maybe there isn’t any) per ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Publishes Guidance on Mitigating Software Memory Safety Issues<a href="https://www.securityweek.com/nsa-publishes-guidance-mitigating-software-memory-safety-issues?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Caused by how programs manage or allocate memory, logic errors, incorrect order of operations, or the use of uninitialized variables, software memory safety issues are often exploited for remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns unpatched Zimbra users to assume breach<a href="https://www.cybersecuritydive.com/news/cisa-warns-zimbra-collaboration-suite/636375/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors are launching attacks against unpatched users of Zimbra Collaboration Suite, a business productivity software and email platform, the Cybersecurity and Infrastructure Security Agency said in a warning last Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

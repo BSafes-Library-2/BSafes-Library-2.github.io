@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whoosh confirms data breach after hackers sell 7.2M user records<a href="https://www.bleepingcomputer.com/news/security/whoosh-confirms-data-breach-after-hackers-sell-72m-user-records/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian scooter-sharing service Whoosh has confirmed a data breach after hackers started to sell a database containing the details of 7.2 million customers on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 15,000 WordPress Sites Compromised in Malicious SEO Campaign<a href="https://thehackernews.com/2022/11/over-15000-wordpress-sites-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malicious campaign has compromised&nbsp; over 15,000 WordPress websites &nbsp;in an attempt to redirect visitors to bogus Q&amp;A portals.  "These malicious redirects appear to be designed to increase the authority of the attacker's sites for search engines," Sucuri researcher Ben Martin&nbsp; said &nbsp;in a report published last week, calling it a "clever black hat SEO trick."  The search engine poisoning technique is designed to promote a "handful of fake low quality Q&amp;A sites" that share similar website-building templates and are operated by the same threat actor.   A notable aspect of the campaign is the ability of the hackers to modify over 100 files per website on average, an approach that contrasts dramatically from other attacks of this kind wherein only a limited number of files are tampered with to reduce footprint and escape detection.  Some of the most commonly infected pages consist of wp-signup.php, wp-cron.php, wp-links-opml.php, wp-settings.php
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

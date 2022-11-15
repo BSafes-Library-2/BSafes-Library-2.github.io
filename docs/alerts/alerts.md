@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 - NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Memory Safety <a href="https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern society relies heavily on software-based automation, implicitly trusting developers to write software that operates in the expected way and cannot be compromised for malicious purposes. While developers often perform rigorous testing to prepare the logic in software for surprising conditions, exploitable software vulnerabilities are still frequently based on memory issues. Examples include overflowing a memory buffer and leveraging issues with how software allocates and deallocates memory. Microsoft® revealed at a conference in 2019 that from 2006 to 2018 70 percent of their vulnerabilities were due to memory safety issues. [1] Google® also found a similar percentage of memory safety vulnerabilities over several years in Chrome®. [2] Malicious cyber actors can exploit these vulnerabilities for remote code execution or other adverse effects, which can often compromise a device and be the first step in large-scale network intrusions.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 11, 2022 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -27,6 +39,18 @@ Scammers Using Computer-Technical Support Impersonation Scams to Target Victims 
 <details>
   <summary>Abstract</summary>
 As recently as October 2022, the FBI observed several instances nationwide of scammers conducting computer-technical support scams, where criminals pose as service representatives of a company's technical or computer repair service and contact victims through email or by telephone about a highly priced, soon-to-renew subscription. Scammers request victims contact the scammers at a provided telephone number or email to cancel the renewal and receive a varying refund amount. After the victims contact the scammers, they attempt to obtain personal and banking information that is then used to conduct unauthorized wire transfers of funds held within the targeted victim's accounts. Targeted victims generally fall within the elderly population.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2022 - HC3
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Venus Ransomware Targets Publicly Exposed Remote Desktop Services <a href="https://www.hhs.gov/sites/default/files/venus-ransomware-analyst-note.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HC3 is aware of at least one healthcare entity in the United States falling victim to Venus ransomware recently. The threat actors behind Venus ransomware operations are known to target publicly exposed Remote Desktop Services to encrypt Windows devices. This report provides additional information, indicators of compromise, techniques and corresponding mitigations associated with Venus ransomware.
 </details>
 </div>
 
