@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Targets Ukraine With New Somnia Ransomware<a href="https://cyware.com/news/russia-targets-ukraine-with-new-somnia-ransomware-8d22d075"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During an investigation into the recent series of attacks against organizations in Ukraine, the CERT-UA discovered a new ransomware variant called Somnia. The government has attributed the attacks to the group ‘From Russia with Love’ (FRwL), allegedly a Pro-Russian hacker group. The attackers appar ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

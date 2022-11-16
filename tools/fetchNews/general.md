@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Have board directors any liability for a cyberattack against their company?<a href="https://securityaffairs.co/wordpress/138507/security/board-directors-liability-for-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are the directors of a company hit by a cyberattack liable for negligence in failing to take steps to limit the risk.
+
+
+
+As the risk of a cyberattack grows, it is pivotal to consider whether the directors of a company hit by a ransomware attack, for example,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-Stealing Malware Tops Global Threat Index Ranking<a href="https://cyware.com/news/info-stealing-malware-tops-global-threat-index-ranking-b2fcbcc1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point's Global Threat Index for October 2022 revealed that keylogger AgentTesla has topped the list for the most widespread malware, impacting 7% of organizations worldwide. Modular .NET keylogger and credential stealer SnakeKeylogger bagged second place, which impacted 5% of organizations. E ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

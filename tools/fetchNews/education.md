@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is an External Penetration Test?<a href="https://thehackernews.com/2022/11/what-is-external-penetration-test.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A penetration test (also known as a pentest) is a security assessment that simulates the activities of real-world attackers to identify security holes in your IT systems or applications.&nbsp;  The aim of the test is to understand what vulnerabilities you have, how they could be exploited, and what the impact would be if an attacker was successful.  Usually performed first, an external pentest (also known as external network penetration testing) is an assessment of your perimeter systems. Your perimeter is all the systems that are directly reachable from the internet. By definition, they are exposed and are, therefore the most easily and regularly attacked.  Testing for weaknesses  External pentests look for ways to compromise these external, accessible systems and services to access sensitive information and see how an attacker could target your clients, customers or users.&nbsp;  In a high-quality external pentest, the security professional(s) will copy the activities of real hackers, like ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

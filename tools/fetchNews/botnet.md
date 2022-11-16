@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KmsdBot, a new evasive bot for cryptomining activity and DDoS attacks<a href="https://securityaffairs.co/wordpress/138514/malware/kmsdbot-golang-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new evasive malware, tracked as KmsdBot, that infects systems via an SSH connection that uses weak credentials.
+
+
+
+Akamai Security Research discovered a new evasive Golang-based malware, tracked as KmsdBot, that infects systems...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahrain Government Websites Attacked Right Before Parliamentary Election<a href="https://abcnews.go.com/International/wireStory/bahrain-websites-attacked-parliamentary-election-93144919?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Interior Ministry did not identify the websites targeted, but the country's state-run Bahrain News Agency could not be reached online nor could the website for Bahrain's parliament.
+</details>
+<div style="text-align: right" markdown="1">
+ABC News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

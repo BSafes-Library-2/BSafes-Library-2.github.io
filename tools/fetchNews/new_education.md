@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Packet Inspection vs. Metadata Analysis of Network Detection &amp; Response (NDR) Solutions<a href="https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, most Network Detection and Response (NDR) solutions rely on traffic mirroring and Deep Packet Inspection (DPI). Traffic mirroring is typically deployed on a single-core switch to provide a copy of the network traffic to a sensor that uses DPI to thoroughly analyze the payload. While this approach provides detailed analysis, it requires large amounts of processing power and is blind when it comes to encrypted network traffic. Metadata Analysis has been specifically developed to overcome these limitations. By utilizing metadata for analysis, network communications can be observed at any collection point and be enriched by the information providing insights about encrypted communication.  Network Detection and Response (NDR) solutions have become crucial to reliably monitor and protect network operations. However, as network traffic becomes encrypted and data volumes continue to increase, most traditional NDR solutions are reaching their limits. This begs the question: What detect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

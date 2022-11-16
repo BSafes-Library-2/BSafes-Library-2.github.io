@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New KmsdBot Malware Hijacking Systems for Mining Crypto and Launch DDoS Attacks<a href="https://thehackernews.com/2022/11/new-kmsdbot-malware-hijacking-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly discovered evasive malware leverages the Secure Shell ( SSH ) cryptographic protocol to gain entry into targeted systems with the goal of mining cryptocurrency and carrying out distributed denial-of-service (DDoS) attacks.  Dubbed&nbsp; KmsdBot &nbsp;by the Akamai Security Intelligence Response Team (SIRT), the Golang-based malware has been found targeting a variety of companies ranging from gaming to luxury car brands to security firms.  "The botnet infects systems via an SSH connection that uses weak login credentials," Akamai researcher Larry W. Cashdollar&nbsp; said . "The malware does not stay persistent on the infected system as a way of evading detection."   The malware gets its name from an executable named "kmsd.exe" that's downloaded from a remote server following a successful compromise. It's also designed to support multiple architectures, such as Winx86, Arm64, mips64, and x86_64.  KmsdBot comes with capabilities to perform scanning operatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

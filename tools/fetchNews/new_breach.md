@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Say China State-backed Hackers Breached a Digital Certificate Authority<a href="https://thehackernews.com/2022/11/researchers-say-china-state-backed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese state-sponsored actor breached a digital certificate authority as well as government and defense agencies located in different countries in Asia as part of an ongoing campaign since at least March 2022.  Symantec, by Broadcom Software, linked the attacks to an adversarial group it tracks under the name&nbsp; Billbug , citing the use of tools previously attributed to this actor. The activity appears to be driven by espionage and data-theft, although no data is said to have been stolen to date.  Billbug , also called Bronze Elgin, Lotus Blossom, Lotus Panda,&nbsp; Spring Dragon , and&nbsp; Thrip , is an advanced persistent threat (APT) group that is believed to operate on behalf of Chinese interests. Primary targets include government and military organizations in South East Asia.   Attacks mounted by the adversary in 2019 involved the use of backdoors like&nbsp; Hannotog and Sagerunex , with the intrusions observed in Hong Kong, Macau, Indonesia, Malaysia, the Philippines, and Vietnam.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

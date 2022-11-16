@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean hackers target European orgs with updated malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-european-orgs-with-updated-malware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Warned of Critical Vulnerability in Backstage Developer Portal Platform<a href="https://www.securityweek.com/organizations-warned-critical-vulnerability-backstage-developer-portal-platform?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Flaw Reported in Spotify's Backstage Software Catalog and Developer Platform<a href="https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Happy birthday Security Affairs … 11 years together!<a href="https://securityaffairs.co/wordpress/138600/breaking-news/happy-birthday-security-affairs-11.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to roll out Privacy Sandbox on Android 13 starting early 2023<a href="https://www.bleepingcomputer.com/news/security/google-to-roll-out-privacy-sandbox-on-android-13-starting-early-2023/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anesthesiology Services Firm Faces 5 Class Action Lawsuits<a href="https://www.bankinfosecurity.com/anesthesiology-services-firm-faces-5-class-action-lawsuits-a-20464?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PCSpoof: New Vulnerability Affects Networking Tech Used by Spacecraft and Aircraft<a href="https://thehackernews.com/2022/11/pcspoof-new-vulnerability-affects.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found critical RCE in Spotify’s Backstage<a href="https://securityaffairs.co/wordpress/138591/security/spotify-backstage-rce.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers release exploit details for Backstage pre-auth RCE bug<a href="https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mastodon users vulnerable to password-stealing attacks<a href="https://portswigger.net/daily-swig/mastodon-users-vulnerable-to-password-stealing-attacks?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Reported Critical SQLi and Access Flaws in Zendesk Analytics Service<a href="https://thehackernews.com/2022/11/researchers-reported-critical-sqli-and.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts revealed details of critical SQLi and access issues in Zendesk Explore<a href="https://securityaffairs.co/wordpress/138579/hacking/zendesk-explore-critical-flaws.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Fatigue attacks are putting your organization at risk<a href="https://www.bleepingcomputer.com/news/security/mfa-fatigue-attacks-are-putting-your-organization-at-risk/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bishop Fox Adds $46 Million to Series B Funding Round<a href="https://www.securityweek.com/bishop-fox-adds-46-million-series-b-funding-round?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deep Packet Inspection vs. Metadata Analysis of Network Detection & Response (NDR) Solutions<a href="https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Billbug breached a certificate authority in Asia<a href="https://securityaffairs.co/wordpress/138568/apt/billbug-apt-hit-certificate-authority.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers target government agencies and defense orgs<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-government-agencies-and-defense-orgs/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Typhon Reborn: Stealer Comes Back with New Capabilities<a href="https://cyware.com/news/typhon-reborn-stealer-comes-back-with-new-capabilities-367f220c"> Full Text</a>
@@ -338,7 +338,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Say China State-backed Hackers Breached a Digital Certificate Authority<a href="https://thehackernews.com/2022/11/researchers-say-china-state-backed.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Pay a record $391M fine for misleading users about the collection of location data<a href="https://securityaffairs.co/wordpress/138555/reports/google-settlement-personal-location-data.html"> Full Text</a>
@@ -374,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese State-Sponsored Actor Targets Certificate Authority, Government Agencies Across Asia<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Symantec
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Pay $391 Million Privacy Fine for Secretly Tracking Users' Location<a href="https://thehackernews.com/2022/11/google-to-pays-391-million-privacy-fine.html"> Full Text</a>
@@ -406,7 +406,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Previously undetected Earth Longzhi APT group is a subgroup of APT41<a href="https://securityaffairs.co/wordpress/138536/apt/earth-longzhi-subgroup-apt41.html"> Full Text</a>
@@ -426,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dtrack Malware Operations Expanded to Europe and Latin America<a href="https://securelist.com/dtrack-targeting-europe-latin-america/107798/?&web_view=true"> Full Text</a>
@@ -442,7 +442,7 @@ Securelist
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast details Worok espionage group’s compromise chain<a href="https://securityaffairs.co/wordpress/138550/apt/worok-apt-dropbox-api.html"> Full Text</a>
@@ -462,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Typhon Cryptominer-for-Hire Malware Resurfaces With New Capabilities<a href="https://unit42.paloaltonetworks.com/typhon-reborn-stealer/?&web_view=true"> Full Text</a>
@@ -478,7 +478,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2022
+November 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The real cost of ransomware is even bigger than we realised<a href="https://www.zdnet.com/article/the-real-cost-of-ransomware-is-even-bigger-than-we-realised/?&web_view=true"> Full Text</a>

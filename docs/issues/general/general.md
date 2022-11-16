@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Happy birthday Security Affairs … 11 years together!<a href="https://securityaffairs.co/wordpress/138600/breaking-news/happy-birthday-security-affairs-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy BirthDay Security Affairs! Eleven years together! I launched Security Affairs for passion in November 2011 and since then the blog was visited by tens of millions of readers. Thank you!
+
+
+
+Eleven years ago I decided to launch Security Affairs,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Fatigue attacks are putting your organization at risk<a href="https://www.bleepingcomputer.com/news/security/mfa-fatigue-attacks-are-putting-your-organization-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A common threat targeting&nbsp;businesses is MFA fatigue attacks—a technique where a cybercriminal attempts to gain access to a corporate network by bombarding a user with MFA prompts. This article includes some measures you can implement to prevent these types of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The real cost of ransomware is even bigger than we realised<a href="https://www.zdnet.com/article/the-real-cost-of-ransomware-is-even-bigger-than-we-realised/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Harms and the Victim Experience project, by the Royal United Service Institute and University of Kent, explores and draws attention to the psychological harms and other effects that ransomware can have on its victims and wider society.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

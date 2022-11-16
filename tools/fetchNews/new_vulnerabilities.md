@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Warned of Critical Vulnerability in Backstage Developer Portal Platform<a href="https://www.securityweek.com/organizations-warned-critical-vulnerability-backstage-developer-portal-platform?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backstage, an open platform for building developer portals, is affected by a critical vulnerability whose exploitation could have a serious impact on a targeted enterprise, according to security firm Oxeye.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Reported in Spotify's Backstage Software Catalog and Developer Platform<a href="https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spotify's Backstage has been discovered as vulnerable to a severe security flaw that could be exploited to gain remote code execution by leveraging a recently disclosed bug in a third-party module.  The vulnerability (CVSS score: 9.8), at its core, takes advantage of a critical sandbox escape in vm2, a popular JavaScript sandbox library ( CVE-2022-36067 &nbsp;aka Sandbreak), that came to light last month.  "An unauthenticated threat actor can execute arbitrary system commands on a Backstage application by exploiting a vm2 sandbox escape in the Scaffolder core plugin," application security firm Oxeye said in a report  shared with The Hacker News.   Backstage &nbsp;is an open source&nbsp; developer portal &nbsp;from Spotify that allows users to create, manage, and explore software components from a unified " front door ." It's used by&nbsp; many companies &nbsp;like Netflix, DoorDash, Roku, and Expedia, among others.  According to Oxeye, the flaw is rooted in a tool called&nbsp; software templ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PCSpoof: New Vulnerability Affects Networking Tech Used by Spacecraft and Aircraft<a href="https://thehackernews.com/2022/11/pcspoof-new-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credit:&nbsp;Marina Minkin  A novel attack method has been disclosed against a crucial piece of technology called time-triggered ethernet ( TTE ) that's used in safety-critical infrastructure, potentially causing the failure of systems powering spacecraft and aircraft.  Dubbed&nbsp; PCspooF &nbsp;by a group of academics and researchers from the University of Michigan , the University of Pennsylvania, and the NASA Johnson Space Center, the&nbsp; technique &nbsp;is designed to break TTE's security guarantees and induce TTE devices to lose synchronization for up to a second, a behavior that can even lead to uncontrolled maneuvers in spaceflight missions and threaten crew safety.  TTE  is one among the networking technologies that's part of what's called a mixed-criticality network wherein traffic with different timing and faults tolerance requirements coexist in the same physical network. This means that both critical devices, which, say, enable vehicle control, and non-critical devices, which are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found critical RCE in Spotify’s Backstage<a href="https://securityaffairs.co/wordpress/138591/security/spotify-backstage-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a critical vulnerability impacting Spotify's Backstage Software Catalog and Developer Platform.
+
+
+
+Researchers from the security firm Oxeye discovered a critical Remote Code Execution in Spotify’s Backstage (CVSS Score of 9.8)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers release exploit details for Backstage pre-auth RCE bug<a href="https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Older versions of the Spotify Backstage development portal builder are vulnerable to a critical (CVSS score: 9.8) unauthenticated remote code execution flaw allowing attackers to run commands on publicly exposed systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon users vulnerable to password-stealing attacks<a href="https://portswigger.net/daily-swig/mastodon-users-vulnerable-to-password-stealing-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could steal password credentials from Mastodon users due to a security vulnerability in Glitch, a fork of Mastodon, Gareth Heyes of PortSwigger Research has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reported Critical SQLi and Access Flaws in Zendesk Analytics Service<a href="https://thehackernews.com/2022/11/researchers-reported-critical-sqli-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of now-patched flaws in Zendesk Explore that could have been exploited by an attacker to gain unauthorized access to information from customer accounts that have the feature turned on.  "Before it was patched, the flaw would have allowed threat actors to access conversations, email addresses, tickets, comments, and other information from Zendesk accounts with Explore enabled," Varonis&nbsp; said &nbsp;in a report shared with The Hacker News.  The cybersecurity firm said there was no evidence to suggest that the issues were actively exploited in real-world attacks. No action is required on the part of the customers.   Zendesk Explore is a&nbsp; reporting and analytics solution &nbsp;that allows organizations to "view and analyze key information about your customers, and your support resources."   According to the security software company, exploitation of the shortcoming first requires an attacker to register for the&nbsp; ticketing service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts revealed details of critical SQLi and access issues in Zendesk Explore<a href="https://securityaffairs.co/wordpress/138579/hacking/zendesk-explore-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed technical details of critical SQLi and access vulnerabilities in the Zendesk Explore Service. 
+
+
+
+Cybersecurity researchers at Varonis disclosed technical details of critical SQLi and access vulnerabilities impacting the Zendesk...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

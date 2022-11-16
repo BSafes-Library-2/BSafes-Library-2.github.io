@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worok Hackers Abuse Dropbox API to Exfiltrate Data via Backdoor Hidden in Images<a href="https://thehackernews.com/2022/11/worok-hackers-abuse-dropbox-api-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered cyber espionage group dubbed&nbsp; Worok &nbsp;has been found hiding malware in seemingly innocuous image files, corroborating a crucial link in the threat actor's infection chain.  Czech cybersecurity firm Avast said the purpose of the PNG files is to conceal a payload that's used to facilitate information theft.  "What is noteworthy is data collection from victims' machines using Dropbox repository, as well as attackers using Dropbox API for communication with the final stage," the company&nbsp; said .  The development comes a little over two months after ESET disclosed details of attacks carried out by&nbsp; Worok &nbsp;against high-profile companies and local governments located in Asia and Africa. Worok is believed to share tactical overlaps with a Chinese threat actor tracked as&nbsp; TA428 .   The Slovak cybersecurity company also documented Worok's compromise sequence, which makes use of a C++-based loader called CLRLoad  to pave the way for an unknown PowerS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

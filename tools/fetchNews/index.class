@@ -34,6 +34,466 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers target European orgs with updated malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-european-orgs-with-updated-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers are using a new version of the DTrack backdoor to attack organizations in Europe and Latin America.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Warned of Critical Vulnerability in Backstage Developer Portal Platform<a href="https://www.securityweek.com/organizations-warned-critical-vulnerability-backstage-developer-portal-platform?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backstage, an open platform for building developer portals, is affected by a critical vulnerability whose exploitation could have a serious impact on a targeted enterprise, according to security firm Oxeye.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Reported in Spotify's Backstage Software Catalog and Developer Platform<a href="https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spotify's Backstage has been discovered as vulnerable to a severe security flaw that could be exploited to gain remote code execution by leveraging a recently disclosed bug in a third-party module.  The vulnerability (CVSS score: 9.8), at its core, takes advantage of a critical sandbox escape in vm2, a popular JavaScript sandbox library ( CVE-2022-36067  aka Sandbreak), that came to light last month.  "An unauthenticated threat actor can execute arbitrary system commands on a Backstage application by exploiting a vm2 sandbox escape in the Scaffolder core plugin," application security firm Oxeye said in a report  shared with The Hacker News.   Backstage  is an open source  developer portal  from Spotify that allows users to create, manage, and explore software components from a unified " front door ." It's used by  many companies  like Netflix, DoorDash, Roku, and Expedia, among others.  According to Oxeye, the flaw is rooted in a tool called  software templ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Happy birthday Security Affairs … 11 years together!<a href="https://securityaffairs.co/wordpress/138600/breaking-news/happy-birthday-security-affairs-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Happy BirthDay Security Affairs! Eleven years together! I launched Security Affairs for passion in November 2011 and since then the blog was visited by tens of millions of readers. Thank you!
+
+
+
+Eleven years ago I decided to launch Security Affairs,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to roll out Privacy Sandbox on Android 13 starting early 2023<a href="https://www.bleepingcomputer.com/news/security/google-to-roll-out-privacy-sandbox-on-android-13-starting-early-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that they will begin rolling out the Privacy Sandbox system on a limited number of Android 13 devices starting in early 2023.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anesthesiology Services Firm Faces 5 Class Action Lawsuits<a href="https://www.bankinfosecurity.com/anesthesiology-services-firm-faces-5-class-action-lawsuits-a-20464?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least five complaints filed in the U.S. District for Southern New York allege that Somnia Inc. was negligent in failing to safeguard personally identifiable information and protected health information.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PCSpoof: New Vulnerability Affects Networking Tech Used by Spacecraft and Aircraft<a href="https://thehackernews.com/2022/11/pcspoof-new-vulnerability-affects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credit: Marina Minkin  A novel attack method has been disclosed against a crucial piece of technology called time-triggered ethernet ( TTE ) that's used in safety-critical infrastructure, potentially causing the failure of systems powering spacecraft and aircraft.  Dubbed  PCspooF  by a group of academics and researchers from the University of Michigan , the University of Pennsylvania, and the NASA Johnson Space Center, the  technique  is designed to break TTE's security guarantees and induce TTE devices to lose synchronization for up to a second, a behavior that can even lead to uncontrolled maneuvers in spaceflight missions and threaten crew safety.  TTE  is one among the networking technologies that's part of what's called a mixed-criticality network wherein traffic with different timing and faults tolerance requirements coexist in the same physical network. This means that both critical devices, which, say, enable vehicle control, and non-critical devices, which are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found critical RCE in Spotify’s Backstage<a href="https://securityaffairs.co/wordpress/138591/security/spotify-backstage-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a critical vulnerability impacting Spotify's Backstage Software Catalog and Developer Platform.
+
+
+
+Researchers from the security firm Oxeye discovered a critical Remote Code Execution in Spotify’s Backstage (CVSS Score of 9.8)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers release exploit details for Backstage pre-auth RCE bug<a href="https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Older versions of the Spotify Backstage development portal builder are vulnerable to a critical (CVSS score: 9.8) unauthenticated remote code execution flaw allowing attackers to run commands on publicly exposed systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon users vulnerable to password-stealing attacks<a href="https://portswigger.net/daily-swig/mastodon-users-vulnerable-to-password-stealing-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers could steal password credentials from Mastodon users due to a security vulnerability in Glitch, a fork of Mastodon, Gareth Heyes of PortSwigger Research has warned.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reported Critical SQLi and Access Flaws in Zendesk Analytics Service<a href="https://thehackernews.com/2022/11/researchers-reported-critical-sqli-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of now-patched flaws in Zendesk Explore that could have been exploited by an attacker to gain unauthorized access to information from customer accounts that have the feature turned on.  "Before it was patched, the flaw would have allowed threat actors to access conversations, email addresses, tickets, comments, and other information from Zendesk accounts with Explore enabled," Varonis  said  in a report shared with The Hacker News.  The cybersecurity firm said there was no evidence to suggest that the issues were actively exploited in real-world attacks. No action is required on the part of the customers.   Zendesk Explore is a  reporting and analytics solution  that allows organizations to "view and analyze key information about your customers, and your support resources."   According to the security software company, exploitation of the shortcoming first requires an attacker to register for the  ticketing service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts revealed details of critical SQLi and access issues in Zendesk Explore<a href="https://securityaffairs.co/wordpress/138579/hacking/zendesk-explore-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed technical details of critical SQLi and access vulnerabilities in the Zendesk Explore Service. 
+
+
+
+Cybersecurity researchers at Varonis disclosed technical details of critical SQLi and access vulnerabilities impacting the Zendesk...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Fatigue attacks are putting your organization at risk<a href="https://www.bleepingcomputer.com/news/security/mfa-fatigue-attacks-are-putting-your-organization-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A common threat targeting businesses is MFA fatigue attacks—a technique where a cybercriminal attempts to gain access to a corporate network by bombarding a user with MFA prompts. This article includes some measures you can implement to prevent these types of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bishop Fox Adds $46 Million to Series B Funding Round<a href="https://www.securityweek.com/bishop-fox-adds-46-million-series-b-funding-round?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The continuous attack surface management solution provider raised another $46 million in growth funding led by WestCap. In addition to WestCap, NextEquity Partners and Rockpool Capital joined the latest funding.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Packet Inspection vs. Metadata Analysis of Network Detection & Response (NDR) Solutions<a href="https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, most Network Detection and Response (NDR) solutions rely on traffic mirroring and Deep Packet Inspection (DPI). Traffic mirroring is typically deployed on a single-core switch to provide a copy of the network traffic to a sensor that uses DPI to thoroughly analyze the payload. While this approach provides detailed analysis, it requires large amounts of processing power and is blind when it comes to encrypted network traffic. Metadata Analysis has been specifically developed to overcome these limitations. By utilizing metadata for analysis, network communications can be observed at any collection point and be enriched by the information providing insights about encrypted communication.  Network Detection and Response (NDR) solutions have become crucial to reliably monitor and protect network operations. However, as network traffic becomes encrypted and data volumes continue to increase, most traditional NDR solutions are reaching their limits. This begs the question: What detect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Billbug breached a certificate authority in Asia<a href="https://securityaffairs.co/wordpress/138568/apt/billbug-apt-hit-certificate-authority.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected China-linked APT group breached a digital certificate authority in Asia as part of a campaign aimed at government agencies since March 2022.
+
+
+
+State-sponsored actors compromised a digital certificate authority in a country in Asia as part...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers target government agencies and defense orgs<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-government-agencies-and-defense-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese espionage APT (advanced persistent threat), tracked as 'Billbug' (aka Thrip, or Lotus Blossom), is currently running a 2022 campaign targeting government agencies and defense organizations in multiple Asian countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typhon Reborn: Stealer Comes Back with New Capabilities<a href="https://cyware.com/news/typhon-reborn-stealer-comes-back-with-new-capabilities-367f220c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto miner/stealer for hire, Typhon Stealer, received a new update in the form of Typhon Reborn, disclosed Palo Alto Networks. The new variant boasts enhanced anti-analysis techniques and other stealing and file-grabber features. Researchers found that it leverages Telegram’s API and infrastructu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Say China State-backed Hackers Breached a Digital Certificate Authority<a href="https://thehackernews.com/2022/11/researchers-say-china-state-backed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese state-sponsored actor breached a digital certificate authority as well as government and defense agencies located in different countries in Asia as part of an ongoing campaign since at least March 2022.  Symantec, by Broadcom Software, linked the attacks to an adversarial group it tracks under the name  Billbug , citing the use of tools previously attributed to this actor. The activity appears to be driven by espionage and data-theft, although no data is said to have been stolen to date.  Billbug , also called Bronze Elgin, Lotus Blossom, Lotus Panda,  Spring Dragon , and  Thrip , is an advanced persistent threat (APT) group that is believed to operate on behalf of Chinese interests. Primary targets include government and military organizations in South East Asia.   Attacks mounted by the adversary in 2019 involved the use of backdoors like  Hannotog and Sagerunex , with the intrusions observed in Hong Kong, Macau, Indonesia, Malaysia, the Philippines, and Vietnam.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay a record $391M fine for misleading users about the collection of location data<a href="https://securityaffairs.co/wordpress/138555/reports/google-settlement-personal-location-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is going to pay $391.5 million to settle with 40 states in the U.S. for secretly collecting personal location data.
+
+
+
+Google has agreed to pay $391.5 million to settle with 40 US states for misleading users about the collection of personal location...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese State-Sponsored Actor Targets Certificate Authority, Government Agencies Across Asia<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Billbug (aka Lotus Blossom, Thrip) is a long-established advanced persistent threat (APT) group that is believed to have been active since at least 2009. The attackers use multiple dual-use tools in this attack campaign, as well as custom malware.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay $391 Million Privacy Fine for Secretly Tracking Users' Location<a href="https://thehackernews.com/2022/11/google-to-pays-391-million-privacy-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet giant Google has agreed to pay a record $391.5 million to settle with 40 states in the U.S. over charges the company misled users about the collection of personal location data.  "Google misled its users into thinking they had turned off location tracking in their account settings, when, in fact, Google continued to collect their location information," Oregon Attorney General Ellen Rosenblum  said  Monday.  "For years Google has prioritized profit over their users' privacy. They have been crafty and deceptive," Rosenblum stated.  The investigation was sparked by a  2018 report  from the Associated Press that revealed Google was continuing to track users' locations on Android and iOS even when they turned off "location history" in their account settings, effectively undermining the privacy controls.   Rosenblum said the location data gathered by Google is combined with other personal and behavioral information it collects to flesh out deta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously undetected Earth Longzhi APT group is a subgroup of APT41<a href="https://securityaffairs.co/wordpress/138536/apt/earth-longzhi-subgroup-apt41.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro reported that the Earth Longzhi group, a previously undocumented subgroup of APT41, targets Ukraine and Asian Countries. 
+
+
+
+Early this year, Trend Micro investigated a security breach suffered by a company in Taiwan. Threat actors employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dtrack Malware Operations Expanded to Europe and Latin America<a href="https://securelist.com/dtrack-targeting-europe-latin-america/107798/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DTrack is a backdoor used by the Lazarus group. Initially discovered in 2019, the backdoor remains in use three years later. It is used by the Lazarus group against a wide variety of targets.
+</details>
+<div style="text-align: right" markdown="1">
+Securelist
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast details Worok espionage group’s compromise chain<a href="https://securityaffairs.co/wordpress/138550/apt/worok-apt-dropbox-api.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber espionage group Worok abuses Dropbox API to exfiltrate data via using a backdoor hidden in apparently innocuous image files.
+
+
+
+Researchers from cybersecurity firm Avast observed the recently discovered espionage group Worok abusing Dropbox API to exfiltrate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typhon Cryptominer-for-Hire Malware Resurfaces With New Capabilities<a href="https://unit42.paloaltonetworks.com/typhon-reborn-stealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The original version of Typhon Stealer was updated and released with the new name of “Typhon Reborn.” This new version has increased anti-analysis techniques and it was modified to improve the stealer and file grabber features.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The real cost of ransomware is even bigger than we realised<a href="https://www.zdnet.com/article/the-real-cost-of-ransomware-is-even-bigger-than-we-realised/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Harms and the Victim Experience project, by the Royal United Service Institute and University of Kent, explores and draws attention to the psychological harms and other effects that ransomware can have on its victims and wider society.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 14, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
