@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean hackers target European orgs with updated malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-european-orgs-with-updated-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers are using a new version of the DTrack backdoor to attack organizations in Europe and Latin America.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers target government agencies and defense orgs<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-target-government-agencies-and-defense-orgs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese espionage APT (advanced persistent threat), tracked as 'Billbug' (aka Thrip, or Lotus Blossom), is currently running a 2022 campaign targeting government agencies and defense organizations in multiple Asian countries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese State-Sponsored Actor Targets Certificate Authority, Government Agencies Across Asia<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Billbug (aka Lotus Blossom, Thrip) is a long-established advanced persistent threat (APT) group that is believed to have been active since at least 2009. The attackers use multiple dual-use tools in this attack campaign, as well as custom malware.
+</details>
+<div style="text-align: right" markdown="1">
+Symantec
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

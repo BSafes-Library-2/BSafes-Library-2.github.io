@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Roll Out Privacy Sandbox Beta on Android 13 by Early 2023<a href="https://thehackernews.com/2022/11/google-to-roll-out-privacy-sandbox-beta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet behemoth Google on Tuesday said it plans to roll out Privacy Sandbox for Android in beta to mobile devices running Android 13 starting early next year.  "The Privacy Sandbox Beta will be available for ad tech and app developers who wish to test the ads-related APIs as part of their solutions," the company&nbsp; said .  To that end, developers will need to complete an enrollment process in order to utilize the ads-related APIs, including&nbsp; Topics ,&nbsp; FLEDGE , and&nbsp; Attribution Reporting .   Topics, which&nbsp; replaced &nbsp;Federated Learning of Cohorts (FLoC) earlier this year, aims to categorize user interests under different "topics" based on their device web browsing history. These inferred interests are then shared with marketers to serve targeted ads.  FLEDGE and Attribution reporting, on the other hand, enable custom audience targeting and help measure&nbsp; ad conversions &nbsp;without relying on cross-party user identifiers, respectively.  Organizations can also request acce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo now lets all Android users block trackers in their apps<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-lets-all-android-users-block-trackers-in-their-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo for Android's 'App Tracking Protection' feature has reached open beta, allowing all Android users to block third-party trackers across all their installed apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

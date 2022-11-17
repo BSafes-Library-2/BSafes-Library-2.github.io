@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to roll out Privacy Sandbox on Android 13 starting early 2023<a href="https://www.bleepingcomputer.com/news/security/google-to-roll-out-privacy-sandbox-on-android-13-starting-early-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced today that they will begin rolling out the Privacy Sandbox system on a limited number of Android 13 devices starting in early 2023.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox 107 Patches High-Impact Vulnerabilities<a href="https://www.securityweek.com/firefox-107-patches-high-impact-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The high-impact flaws include issues that could lead to information disclosure, fullscreen notification bypass that could be used for spoofing attacks, and crashes or arbitrary code execution resulting from use-after-free bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 fixed 2 high-severity Remote Code Execution bugs in its products<a href="https://securityaffairs.co/wordpress/138631/security/2-rce-f5-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at cybersecurity firm Rapid7 have identified several vulnerabilities and other potential security issues affecting F5 products.
+
+
+
+Rapid7 researchers discovered several vulnerabilities in F5 BIG-IP and BIG-IQ devices running a customized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

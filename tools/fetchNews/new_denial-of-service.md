@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hacker Group KillNet Claims DDoS Attack on FBI Website<a href="https://www.bankinfosecurity.com/pro-moscow-nuisance-hackers-claim-ddos-attack-on-fbi-website-a-20471?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Russian hacking group claimed responsibility Monday for a denial-of-service attack against FBI websites, marking the latest in a series of nuisance attacks launched against a seemingly capricious and global set of targets.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: New RapperBot Campaign Aims to Launch DDoS Attacks at Game Servers<a href="https://thehackernews.com/2022/11/warning-new-rapperbot-campaign-aims-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed new samples of malware called RapperBot that are being used to build a botnet capable of launching Distributed Denial of Service (DDoS) attacks against game servers.  "In fact, it turns out that this campaign is less like RapperBot than an older campaign that appeared in February and then mysteriously disappeared in the middle of April," Fortinet FortiGuard Labs researchers Joie Salvio and Roy Tay&nbsp; said &nbsp;in a Tuesday report.  RapperBot, which was first&nbsp; documented &nbsp;by the network security firm in August 2022, is known to exclusively brute-force SSH servers configured to accept&nbsp; password authentication .   The nascent malware is heavily inspired by the&nbsp; Mirai botnet , whose source code leaked in October 2016, leading to the rise of several variants.  What's notable about the updated version of RapperBot is its ability to perform Telnet brute-force, in addition to supporting DoS attacks using the Generic Routing Encapsulation ( GRE
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

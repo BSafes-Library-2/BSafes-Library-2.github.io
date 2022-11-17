@@ -34,6 +34,358 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated RapperBot malware targets game servers in DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/updated-rapperbot-malware-targets-game-servers-in-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai-based botnet 'RapperBot' has re-emerged via a new campaign that infects IoT devices for DDoS (Distributed Denial of Service) attacks against game servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox 107 Patches High-Impact Vulnerabilities<a href="https://www.securityweek.com/firefox-107-patches-high-impact-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The high-impact flaws include issues that could lead to information disclosure, fullscreen notification bypass that could be used for spoofing attacks, and crashes or arbitrary code execution resulting from use-after-free bugs.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Hundreds of Amazon RDS Instances Leaking Users' Personal Data<a href="https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of databases on Amazon Relational Database Service (Amazon RDS) are exposing personal identifiable information (PII), new findings from Mitiga, a cloud incident response company, show.  "Leaking PII in this manner provides a potential treasure trove for threat actors – either during the reconnaissance phase of the cyber kill chain or extortionware/ransomware campaigns," researchers Ariel Szarf, Doron Karmi, and Lionel Saposnik said in a report  shared with The Hacker News.  This includes names, email addresses, phone numbers, dates of birth, marital status, car rental information, and even company logins.   Amazon RDS is a  web service  that makes it possible to set up relational databases in the Amazon Web Services (AWS) cloud. It offers support for different database engines such as MariaDB, MySQL, Oracle, PostgreSQL, and SQL Server.  The root cause of the leaks stems from a feature called public  RDS snapshots , which allows for creating a backup of the entire da
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Norms in the Context of Armed Conflict<a href="https://www.lawfareblog.com/cyber-norms-context-armed-conflict"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+United Nations norms related to nation-state cyberspace operations clearly apply during peacetime, but recent events in Ukraine and Russia raise challenges regarding those norms’ applicability in armed conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 fixed 2 high-severity Remote Code Execution bugs in its products<a href="https://securityaffairs.co/wordpress/138631/security/2-rce-f5-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at cybersecurity firm Rapid7 have identified several vulnerabilities and other potential security issues affecting F5 products.
+
+
+
+Rapid7 researchers discovered several vulnerabilities in F5 BIG-IP and BIG-IQ devices running a customized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Zeus cybercrime ring leader ‘Tank’ arrested by Swiss police<a href="https://www.bleepingcomputer.com/news/security/suspected-zeus-cybercrime-ring-leader-tank-arrested-by-swiss-police/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vyacheslav Igorevich Penchukov, also known as Tank and one of the leaders of the notorious JabberZeus cybercrime gang, was arrested in Geneva last month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hacker Group KillNet Claims DDoS Attack on FBI Website<a href="https://www.bankinfosecurity.com/pro-moscow-nuisance-hackers-claim-ddos-attack-on-fbi-website-a-20471?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Russian hacking group claimed responsibility Monday for a denial-of-service attack against FBI websites, marking the latest in a series of nuisance attacks launched against a seemingly capricious and global set of targets.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Reasons to Choose an MDR Provider<a href="https://thehackernews.com/2022/11/7-reasons-to-choose-mdr-provider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a  recent survey , 90% of CISOs running teams in small to medium-sized enterprises (SMEs) use a managed detection and response (MDR) service. That's a 53% increase from last year.  Why the dramatic shift to MDR?  CISOs at organizations of any size, but especially SMEs, are realizing that the threat landscape and the way we do cybersecurity are among the many things that will never look the same in a post-2020 world.   The increase in the number of sophisticated attacks, the heavy reliance on the cloud, limited resources and budgets (exacerbated by economic uncertainty), and a growing skills gap are all major contributors to why having an MDR service to support security operations is becoming a necessity.   Beyond that, there are a number of reasons for why incorporating an MDR service into your security strategy can provide exceptional value that even the people who are tightening your budget at your organization can't deny.   Here are just seven reasons why you (yes, you
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT uses DTrack backdoor in attacks against LATAM and European orgs<a href="https://securityaffairs.co/wordpress/138622/apt/dtrack-backdoor-targets-europe-latin-america.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT is using a new version of the DTrack backdoor in attacks aimed at organizations in Europe and Latin America.
+
+
+
+North Korea-linked APT Lazarus is using a new version of the DTrack backdoor to attack organizations in Europe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter source code indicates end-to-end encrypted DMs are coming<a href="https://www.bleepingcomputer.com/news/security/twitter-source-code-indicates-end-to-end-encrypted-dms-are-coming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter is reportedly working on finally adding end-to-end encryption (E2EE) for direct messages (DMs) exchanged between users on the social media platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of PC and Tech Support Scams Stealing Huge Sums of Money from Unsuspecting Users<a href="https://www.zdnet.com/article/fbi-warning-pc-and-tech-support-scams-are-back-heres-what-to-watch-out-for/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PSA by the FBI warns that there have been instances across the US recently of scammers posing as service representatives of software company tech support or computer repair services in attempts to trick victims into following instructions.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: New RapperBot Campaign Aims to Launch DDoS Attacks at Game Servers<a href="https://thehackernews.com/2022/11/warning-new-rapperbot-campaign-aims-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed new samples of malware called RapperBot that are being used to build a botnet capable of launching Distributed Denial of Service (DDoS) attacks against game servers.  "In fact, it turns out that this campaign is less like RapperBot than an older campaign that appeared in February and then mysteriously disappeared in the middle of April," Fortinet FortiGuard Labs researchers Joie Salvio and Roy Tay  said  in a Tuesday report.  RapperBot, which was first  documented  by the network security firm in August 2022, is known to exclusively brute-force SSH servers configured to accept  password authentication .   The nascent malware is heavily inspired by the  Mirai botnet , whose source code leaked in October 2016, leading to the rise of several variants.  What's notable about the updated version of RapperBot is its ability to perform Telnet brute-force, in addition to supporting DoS attacks using the Generic Routing Encapsulation ( GRE
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RapperBot Campaign targets game servers with DDoS attacks<a href="https://securityaffairs.co/wordpress/138615/malware/rapperbot-botnet-targets-game-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet researchers discovered new samples of RapperBot used to build a botnet to launch Distributed DDoS attacks against game servers.
+
+
+
+Fortinet FortiGuard Labs researchers have discovered new samples of the RapperBot malware that are being used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt: Iranian hackers breached federal agency using Log4Shell exploit<a href="https://www.bleepingcomputer.com/news/security/us-govt-iranian-hackers-breached-federal-agency-using-log4shell-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA revealed in a joint advisory published today that an unnamed Iranian-backed threat group hacked a Federal Civilian Executive Branch (FCEB) organization to deploy XMRig cryptomining malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatLocker acquires Third Wall to provide endpoint protection for MSPs<a href="https://www.helpnetsecurity.com/2022/11/16/threatlocker-third-wall/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed Service Providers (MSPs) using ThreatLocker's solutions will now be able to harden Windows operating systems, ensure end-users comply with government regulations, and strengthen their overall security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Roll Out Privacy Sandbox Beta on Android 13 by Early 2023<a href="https://thehackernews.com/2022/11/google-to-roll-out-privacy-sandbox-beta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet behemoth Google on Tuesday said it plans to roll out Privacy Sandbox for Android in beta to mobile devices running Android 13 starting early next year.  "The Privacy Sandbox Beta will be available for ad tech and app developers who wish to test the ads-related APIs as part of their solutions," the company  said .  To that end, developers will need to complete an enrollment process in order to utilize the ads-related APIs, including  Topics ,  FLEDGE , and  Attribution Reporting .   Topics, which  replaced  Federated Learning of Cohorts (FLoC) earlier this year, aims to categorize user interests under different "topics" based on their device web browsing history. These inferred interests are then shared with marketers to serve targeted ads.  FLEDGE and Attribution reporting, on the other hand, enable custom audience targeting and help measure  ad conversions  without relying on cross-party user identifiers, respectively.  Organizations can also request acce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beginning 2023 Google plans to rollout the initial Privacy Sandbox Beta<a href="https://securityaffairs.co/wordpress/138607/mobile-2/google-android-privacy-sandbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced it will roll out the Privacy Sandbox system for Android in beta to a limited number of Android 13 devices in early 2023.
+
+
+
+Google announced it will roll out the Privacy Sandbox for Android in beta to mobile devices running Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento stores targeted in massive surge of TrojanOrders attacks<a href="https://www.bleepingcomputer.com/news/security/magento-stores-targeted-in-massive-surge-of-trojanorders-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least seven hacking groups are behind a massive surge in 'TrojanOrders' attacks targeting Magento 2 websites, exploiting a vulnerability that allows the threat actors to compromise vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewYork-Presbyterian Hospital Issues Notification of Cybersecurity Incident<a href="https://www.nyp.org/notification-of-cybersecurity-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately twelve thousand (12,000) patients were affected. Information pertaining to those patients includes first and last names, addresses, insurance authorizations, medical records numbers, and exam results.
+</details>
+<div style="text-align: right" markdown="1">
+nyp
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo now lets all Android users block trackers in their apps<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-lets-all-android-users-block-trackers-in-their-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo for Android's 'App Tracking Protection' feature has reached open beta, allowing all Android users to block third-party trackers across all their installed apps.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Targets Government and Defense Agencies in Asia<a href="https://cyware.com/news/chinese-apt-targets-government-and-defense-agencies-in-asia-8e366792"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Symantec researchers, Billbug targeted a digital certificate authority, as well as government agencies and defense organizations in several countries in Asia in the latest campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

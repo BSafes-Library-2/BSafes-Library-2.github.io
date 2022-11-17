@@ -8,6 +8,38 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT uses DTrack backdoor in attacks against LATAM and European orgs<a href="https://securityaffairs.co/wordpress/138622/apt/dtrack-backdoor-targets-europe-latin-america.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked Lazarus APT is using a new version of the DTrack backdoor in attacks aimed at organizations in Europe and Latin America.
+
+
+
+North Korea-linked APT Lazarus is using a new version of the DTrack backdoor to attack organizations in Europe...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Targets Government and Defense Agencies in Asia<a href="https://cyware.com/news/chinese-apt-targets-government-and-defense-agencies-in-asia-8e366792"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Symantec researchers, Billbug targeted a digital certificate authority, as well as government agencies and defense organizations in several countries in Asia in the latest campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

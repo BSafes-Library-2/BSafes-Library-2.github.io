@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Billbug breached a certificate authority in Asia<a href="https://securityaffairs.co/wordpress/138568/apt/billbug-apt-hit-certificate-authority.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected China-linked APT group breached a digital certificate authority in Asia as part of a campaign aimed at government agencies since March 2022.
+
+
+
+State-sponsored actors compromised a digital certificate authority in a country in Asia as part...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously undetected Earth Longzhi APT group is a subgroup of&nbsp;APT41<a href="https://securityaffairs.co/wordpress/138536/apt/earth-longzhi-subgroup-apt41.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro reported that the Earth Longzhi group, a previously undocumented subgroup of&nbsp;APT41, targets Ukraine and Asian Countries. 
+
+
+
+Early this year, Trend Micro investigated a security breach suffered by a company in Taiwan. Threat actors employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

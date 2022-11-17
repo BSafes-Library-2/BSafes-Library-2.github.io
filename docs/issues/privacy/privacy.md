@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beginning 2023 Google plans to rollout the initial Privacy Sandbox Beta<a href="https://securityaffairs.co/wordpress/138607/mobile-2/google-android-privacy-sandbox.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced it will roll out the Privacy Sandbox system for Android in beta to a limited number of Android 13 devices in early 2023.
+
+
+
+Google announced it will roll out the Privacy Sandbox&nbsp;for Android in beta to mobile devices running Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

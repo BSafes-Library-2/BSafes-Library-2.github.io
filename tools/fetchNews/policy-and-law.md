@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anesthesiology Services Firm Faces 5 Class Action Lawsuits<a href="https://www.bankinfosecurity.com/anesthesiology-services-firm-faces-5-class-action-lawsuits-a-20464?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least five complaints filed in the U.S. District for Southern New York allege that Somnia Inc. was negligent in failing to safeguard personally identifiable information and protected health information.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay a record $391M fine for misleading users about the collection of location data<a href="https://securityaffairs.co/wordpress/138555/reports/google-settlement-personal-location-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is going to pay $391.5 million to settle with 40 states in the U.S. for secretly collecting personal location data.
+
+
+
+Google has agreed to pay $391.5 million to settle with 40 US states for misleading users about the collection of personal location...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay $391 Million Privacy Fine for Secretly Tracking Users' Location<a href="https://thehackernews.com/2022/11/google-to-pays-391-million-privacy-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet giant Google has agreed to pay a record $391.5 million to settle with 40 states in the U.S. over charges the company misled users about the collection of personal location data.  "Google misled its users into thinking they had turned off location tracking in their account settings, when, in fact, Google continued to collect their location information," Oregon Attorney General Ellen Rosenblum&nbsp; said &nbsp;Monday.  "For years Google has prioritized profit over their users' privacy. They have been crafty and deceptive," Rosenblum stated.  The investigation was sparked by a&nbsp; 2018 report &nbsp;from the Associated Press that revealed Google was continuing to track users' locations on Android and iOS even when they turned off "location history" in their account settings, effectively undermining the privacy controls.   Rosenblum said the location data gathered by Google is combined with other personal and behavioral information it collects to flesh out deta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

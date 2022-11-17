@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Hundreds of Amazon RDS Instances Leaking Users' Personal Data<a href="https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of databases on Amazon Relational Database Service (Amazon RDS) are exposing personal identifiable information (PII), new findings from Mitiga, a cloud incident response company, show.  "Leaking PII in this manner provides a potential treasure trove for threat actors – either during the reconnaissance phase of the cyber kill chain or extortionware/ransomware campaigns," researchers Ariel Szarf, Doron Karmi, and Lionel Saposnik said in a report  shared with The Hacker News.  This includes names, email addresses, phone numbers, dates of birth, marital status, car rental information, and even company logins.   Amazon RDS is a&nbsp; web service &nbsp;that makes it possible to set up relational databases in the Amazon Web Services (AWS) cloud. It offers support for different database engines such as MariaDB, MySQL, Oracle, PostgreSQL, and SQL Server.  The root cause of the leaks stems from a feature called public&nbsp; RDS snapshots , which allows for creating a backup of the entire da
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt: Iranian hackers breached federal agency using Log4Shell exploit<a href="https://www.bleepingcomputer.com/news/security/us-govt-iranian-hackers-breached-federal-agency-using-log4shell-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA revealed in a joint advisory published today that an unnamed Iranian-backed threat group hacked a&nbsp;Federal Civilian Executive Branch (FCEB) organization to deploy XMRig cryptomining malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewYork-Presbyterian Hospital Issues Notification of Cybersecurity Incident<a href="https://www.nyp.org/notification-of-cybersecurity-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately twelve thousand (12,000) patients were affected. Information pertaining to those patients includes first and last names, addresses, insurance authorizations, medical records numbers, and exam results.
+</details>
+<div style="text-align: right" markdown="1">
+nyp
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

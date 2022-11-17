@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bishop Fox Adds $46 Million to Series B Funding Round<a href="https://www.securityweek.com/bishop-fox-adds-46-million-series-b-funding-round?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The continuous attack surface management solution provider raised another $46 million in growth funding led by WestCap. In addition to WestCap, NextEquity Partners and Rockpool Capital joined the latest funding.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
