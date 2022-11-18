@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Norms in the Context of Armed Conflict<a href="https://www.lawfareblog.com/cyber-norms-context-armed-conflict"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+United Nations norms related to nation-state cyberspace operations clearly apply during peacetime, but recent events in Ukraine and Russia raise challenges regarding those norms’ applicability in armed conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Reasons to Choose an MDR Provider<a href="https://thehackernews.com/2022/11/7-reasons-to-choose-mdr-provider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a&nbsp; recent survey , 90% of CISOs running teams in small to medium-sized enterprises (SMEs) use a managed detection and response (MDR) service. That's a 53% increase from last year.  Why the dramatic shift to MDR?  CISOs at organizations of any size, but especially SMEs, are realizing that the threat landscape and the way we do cybersecurity are among the many things that will never look the same in a post-2020 world.&nbsp;  The increase in the number of sophisticated attacks, the heavy reliance on the cloud, limited resources and budgets (exacerbated by economic uncertainty), and a growing skills gap are all major contributors to why having an MDR service to support security operations is becoming a necessity.&nbsp;  Beyond that, there are a number of reasons for why incorporating an MDR service into your security strategy can provide exceptional value that even the people who are tightening your budget at your organization can't deny.&nbsp;  Here are just seven reasons why you (yes, you
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter source code indicates end-to-end encrypted DMs are coming<a href="https://www.bleepingcomputer.com/news/security/twitter-source-code-indicates-end-to-end-encrypted-dms-are-coming/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter is reportedly working on finally adding end-to-end encryption (E2EE) for direct messages (DMs) exchanged between users on the social media platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatLocker acquires Third Wall to provide endpoint protection for MSPs<a href="https://www.helpnetsecurity.com/2022/11/16/threatlocker-third-wall/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed Service Providers (MSPs) using ThreatLocker's solutions will now be able to harden Windows operating systems, ensure end-users comply with government regulations, and strengthen their overall security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 fixes two remote code execution flaws in BIG-IP, BIG-IQ<a href="https://www.bleepingcomputer.com/news/security/f5-fixes-two-remote-code-execution-flaws-in-big-ip-big-iq/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has released hotfixes for its BIG-IP and BIG-IQ products, addressing two high-severity flaws allowing attackers to perform unauthenticated remote code execution (RCE) on vulnerable endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High Severity Vulnerabilities Reported in F5 BIG-IP and BIG-IQ Devices<a href="https://thehackernews.com/2022/11/high-severity-vulnerabilities-reported.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in F5 BIG-IP and BIG-IQ devices that, if successfully exploited, to completely compromise affected systems.  Cybersecurity firm Rapid7 said the&nbsp; flaws &nbsp;could be abused to remote access to the devices and defeat security constraints. The issues impact BIG-IP versions 13.x, 14.x, 15.x, 16.x, and 17.x, and BIG-IQ Centralized Management versions 7.x and 8.x.  The two high-severity issues, which were reported to F5 on August 18, 2022, are as follows -    CVE-2022-41622 &nbsp;(CVSS score: 8.8) - A cross-site request forgery ( CSRF ) vulnerability through iControl SOAP, leading to unauthenticated remote code execution.  CVE-2022-41800 &nbsp;(CVSS score: 8.7) - An iControl REST vulnerability that could allow an authenticated user with an Administrator role to bypass&nbsp; Appliance mode &nbsp;restrictions.   "By successfully exploiting the worst of the vulnerabilities (CVE-2022-41622), an attacker could gain persistent root access to the device's man
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

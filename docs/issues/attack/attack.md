@@ -8,6 +8,42 @@ nav_order: 900015
 
 ## Attack
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two public schools in Michigan hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/138677/cyber-crime/public-schools-michigan-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public schools in two Michigan counties were forced to halt their activities, including the lessons, after a ransomware attack. &nbsp;
+
+
+
+Public schools in Jackson and Hillsdale counties, Michigan, reopen after a closure of two days caused by a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento and Adobe Commerce websites under attack<a href="https://securityaffairs.co/wordpress/138663/cyber-crime/trojanorders-attacks-adobe-commerce-magento.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a surge in cyberattacks targeting CVE-2022-24086, a pre-authentication issue&nbsp;impacting Adobe Commerce and Magento stores.
+
+
+
+In September 2022, Sansec researchers warned of a surge in hacking attempts targeting a critical Magento...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

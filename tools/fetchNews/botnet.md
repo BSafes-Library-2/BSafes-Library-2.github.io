@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated RapperBot malware targets game servers in DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/updated-rapperbot-malware-targets-game-servers-in-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai-based botnet 'RapperBot' has re-emerged via a new campaign that infects IoT devices for DDoS (Distributed Denial of Service) attacks against game servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

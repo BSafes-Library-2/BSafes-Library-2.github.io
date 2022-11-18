@@ -8,6 +8,52 @@ nav_order: 900029
 
 ## Breach
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Server Exposed PHI of 600,000 Inmates at Kentucky-based CorrectCare Integrated Health<a href="https://www.bankinfosecurity.com/misconfigured-server-exposed-phi-600000-inmates-a-20482?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A server misconfiguration at a firm that provides medical claims processing for correctional facilities exposed sensitive information of nearly 600,000 inmates who received medical care during the last decade while incarcerated.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked threat actors compromise US Federal Network<a href="https://securityaffairs.co/wordpress/138639/apt/iran-compromises-us-federal-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors compromised a Federal Civilian Executive Branch organization using a Log4Shell exploit and installed a cryptomining malware.
+
+
+
+According to a joint advisory published by the FBI and CISA, an Iran-linked APT group compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Compromised a U.S. Federal Agency's Network Using Log4Shell Exploit<a href="https://thehackernews.com/2022/11/iranian-hackers-compromised-us-federal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian government-sponsored threat actors have been blamed for compromising a U.S. federal agency by taking advantage of the Log4Shell vulnerability in an unpatched VMware Horizon server.  The details, which were shared by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), come in response to incident response efforts undertaken by the authority from mid-June through mid-July 2022.  "Cyber threat actors exploited the Log4Shell vulnerability in an unpatched VMware Horizon server, installed XMRig crypto mining software, moved laterally to the domain controller (DC), compromised credentials, and then implanted Ngrok reverse proxies on several hosts to maintain persistence," CISA&nbsp; noted .  LogShell, aka&nbsp; CVE-2021-44228 , is a critical remote code execution flaw in the widely-used Apache Log4j Java-based logging library. It was addressed by the open source project maintainers in December 2021.   The latest development&nbsp; marks &nbsp;the&nbsp; continued &nbsp; abuse &nbsp;of the Log4j v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

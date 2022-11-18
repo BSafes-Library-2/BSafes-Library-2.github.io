@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing kit impersonates well-known brands to target US shoppers<a href="https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing kit has been targeting North Americans since mid-September, using lures focused on holidays like Labor Day and Halloween.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using 42,000 Imposter Domains in Massive Phishing Attack Campaign<a href="https://thehackernews.com/2022/11/chinese-hackers-using-42000-imposter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-based financially motivated group is leveraging the trust associated with popular international brands to orchestrate a large-scale phishing campaign dating back as far as 2019.  The threat actor, dubbed Fangxiao by Cyjax, is said to have registered over&nbsp; 42,000 imposter domains , with initial activity observed in 2017.  "It targets businesses in multiple verticals including retail, banking, travel, and energy," researchers Emily Dennison and Alana Witten&nbsp; said . "Promised financial or physical incentives are used to trick victims into further spreading the campaign via WhatsApp."  Users clicking on a link sent through the messaging app are directed to an actor-controlled site, which, in turn, sends them to a landing domain impersonating a well-known brand, from where the victims are once again taken to sites distributing fraudulent apps and bogus rewards.   These sites prompt the visitors to complete a survey to claim cash prizes, in exchange for which the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot phishing abuses Windows Control Panel EXE to infect devices<a href="https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails distributing the QBot malware are using a DLL hijacking flaw in the Windows 10 Control Panel to infect computers, likely as an attempt to evade detection by security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

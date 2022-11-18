@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RapperBot Campaign targets game servers with DDoS attacks<a href="https://securityaffairs.co/wordpress/138615/malware/rapperbot-botnet-targets-game-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet researchers discovered new samples of RapperBot used to build a botnet to launch Distributed DDoS attacks against game servers.
+
+
+
+Fortinet FortiGuard Labs researchers have discovered new samples of the RapperBot malware that are being used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento stores targeted in massive surge of TrojanOrders attacks<a href="https://www.bleepingcomputer.com/news/security/magento-stores-targeted-in-massive-surge-of-trojanorders-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least seven hacking groups are behind a massive surge in 'TrojanOrders' attacks targeting Magento 2 websites, exploiting a vulnerability that allows the threat actors to compromise vulnerable servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Embrace A Paradigm Shift In SaaS Protection: SaaS Security Posture Management<a href="https://go.thn.li/homepage_forrester"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forrester interviews customers across different organizations who have implemented a SaaS security solution.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100 Apps, Endless Security Checks<a href="https://thehackernews.com/2022/11/100-apps-endless-security-checks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On average, organizations&nbsp; report &nbsp;using 102 business-critical SaaS applications, enabling operations of most departments across an organization, such as IT and Security, Sales, Marketing, R&amp;D, Product Management, HR, Legal, Finance, and Enablement. An attack can come from any app, no matter how robust the app is. Without visibility and control over a critical mass of an organization's entire SaaS app stack, security teams are flying blind. This is why it's important that all SaaS apps across the organization be managed at scale.&nbsp;  While this breadth of coverage is critical, each app has its own characteristics, UI, and terminology. Mitigating these threats requires a deep understanding of all security controls its configurations.&nbsp;  Learn how to automate SaaS security management .  Security teams need to map out the entire SaaS ecosystem within the organization, including the core SaaS apps and the numerous additional apps that employees connect to without checking or informing th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of DOD cyber incident reports are incomplete, GAO finds<a href="https://therecord.media/majority-of-dod-cyber-incident-reports-are-incomplete-gao-finds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Failures in reporting cyber incidents at the U.S. Department of Defense risks leaving commanders in the dark about the effects hackers could have on their missions, according to a new report by the Government Accountability Office.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges devs to migrate away from .NET Core 3.1 ASAP<a href="https://www.bleepingcomputer.com/news/security/microsoft-urges-devs-to-migrate-away-from-net-core-31-asap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has urged&nbsp;developers still using the&nbsp;long-term support (LTS) release of&nbsp;.NET Core 3.1 to migrate to the latest .NET Core versions until it reaches the end of support (EOS) next month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

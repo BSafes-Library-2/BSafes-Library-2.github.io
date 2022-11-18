@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Comprehensive Look at Emotet’s Fall 2022 Return<a href="https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA542, an actor that distributes Emotet malware, has once again returned from an extensive break from delivering malicious emails. The actor was absent from the landscape for nearly four months but became active again in early November.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Europe and Latin America with Updated DTrack Backdoor<a href="https://thehackernews.com/2022/11/north-korean-hackers-targeting-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers tied to the North Korean government have been observed using an updated version of a backdoor known as Dtrack targeting a wide range of industries in Germany, Brazil, India, Italy, Mexico, Switzerland, Saudi Arabia, Turkey, and the U.S.  "Dtrack allows criminals to upload, download, start or delete files on the victim host," Kaspersky researchers Konstantin Zykov and Jornt van der Wiel&nbsp; said &nbsp;in a report.  The victimology patterns indicate an expansion to Europe and Latin America. Sectors targeted by the malware are education, chemical manufacturing, governmental research centers and policy institutes, IT service providers, utility providers, and telecommunication firms.   Dtrack, also called Valefor and Preft, is the handiwork of Andariel, a subgroup of the&nbsp; Lazarus nation-state threat actor &nbsp;that's publicly tracked by the broader cybersecurity community using the monikers Operation Troy, Silent Chollima, and Stonefly.  Discovered in September 2019, the malware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
