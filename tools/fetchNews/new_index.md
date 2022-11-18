@@ -34,7 +34,408 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+Ravie Lakshmanan </span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Embrace A Paradigm Shift In SaaS Protection: SaaS Security Posture Management<a href="https://go.thn.li/homepage_forrester"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forrester interviews customers across different organizations who have implemented a SaaS security solution.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing kit impersonates well-known brands to target US shoppers<a href="https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing kit has been targeting North Americans since mid-September, using lures focused on holidays like Labor Day and Halloween.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s cyber personnel has ‘underperformed’ in Ukraine: U.S. Defense official<a href="https://therecord.media/russias-cyber-personnel-have-underperformed-in-ukraine-u-s-defense-official/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior Pentagon official on Wednesday said that Russia’s cyber personnel “underperformed” during the initial invasion of Ukraine, prompting it to ultimately rely less on digital attacks during the now months-long conflict than was expected.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using 42,000 Imposter Domains in Massive Phishing Attack Campaign<a href="https://thehackernews.com/2022/11/chinese-hackers-using-42000-imposter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-based financially motivated group is leveraging the trust associated with popular international brands to orchestrate a large-scale phishing campaign dating back as far as 2019.  The threat actor, dubbed Fangxiao by Cyjax, is said to have registered over  42,000 imposter domains , with initial activity observed in 2017.  "It targets businesses in multiple verticals including retail, banking, travel, and energy," researchers Emily Dennison and Alana Witten  said . "Promised financial or physical incentives are used to trick victims into further spreading the campaign via WhatsApp."  Users clicking on a link sent through the messaging app are directed to an actor-controlled site, which, in turn, sends them to a landing domain impersonating a well-known brand, from where the victims are once again taken to sites distributing fraudulent apps and bogus rewards.   These sites prompt the visitors to complete a survey to claim cash prizes, in exchange for which the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two public schools in Michigan hit by a ransomware attack<a href="https://securityaffairs.co/wordpress/138677/cyber-crime/public-schools-michigan-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public schools in two Michigan counties were forced to halt their activities, including the lessons, after a ransomware attack.  
+
+
+
+Public schools in Jackson and Hillsdale counties, Michigan, reopen after a closure of two days caused by a ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously unidentified ARCrypter ransomware expands worldwide<a href="https://www.bleepingcomputer.com/news/security/previously-unidentified-arcrypter-ransomware-expands-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown 'ARCrypter' ransomware that compromised key organizations in Latin America is now expanding its attacks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured Server Exposed PHI of 600,000 Inmates at Kentucky-based CorrectCare Integrated Health<a href="https://www.bankinfosecurity.com/misconfigured-server-exposed-phi-600000-inmates-a-20482?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A server misconfiguration at a firm that provides medical claims processing for correctional facilities exposed sensitive information of nearly 600,000 inmates who received medical care during the last decade while incarcerated.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI-Wanted Leader of the Notorious Zeus Botnet Gang Arrested in Geneva<a href="https://thehackernews.com/2022/11/fbi-wanted-leader-of-notorious-zeus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian national who has been wanted by the U.S for over a decade has been arrested by Swiss authorities for his role in a notorious cybercriminal ring that stole millions of dollars from victims' bank accounts using malware called Zeus .  Vyacheslav Igorevich Penchukov, who went by online pseu­do­nyms "tank" and "father," is said to have been involved in the day-to-day operations of the group. He was apprehended on October 23, 2022, and is pending extradition to the U.S.  Details of the arrest were  first reported  by independent security journalist Brian Krebs.  Penchukov, along with Ivan Viktorovich Klepikov (aka "petrovich" and "nowhere") and Alexey Dmitrievich Bron (aka "thehead"), was  first charged  in the District of Nebraska in August 2012.   According to court documents released by the U.S. Depart of Justice (DoJ) in 2014, Penchukov and eight other members of the cybercriminal group  infected  "thousands of busin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento and Adobe Commerce websites under attack<a href="https://securityaffairs.co/wordpress/138663/cyber-crime/trojanorders-attacks-adobe-commerce-magento.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a surge in cyberattacks targeting CVE-2022-24086, a pre-authentication issue impacting Adobe Commerce and Magento stores.
+
+
+
+In September 2022, Sansec researchers warned of a surge in hacking attempts targeting a critical Magento...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hive ransomware extorted $100M from over 1,300 victims<a href="https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m-from-over-1-300-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) said today that the notorious Hive ransomware gang has successfully extorted roughly $100 million from over a thousand companies since June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WASP Malware Uses Steganography and Polymorphism to Evade Detection<a href="https://www.theregister.com/2022/11/16/wasp_python_malware_checkmarx/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI, an open-source repository used by developers to share Python packages used in projects, is an increasingly popular target in software supply chain attacks for uploading malicious code via fake packages.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100 Apps, Endless Security Checks<a href="https://thehackernews.com/2022/11/100-apps-endless-security-checks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On average, organizations  report  using 102 business-critical SaaS applications, enabling operations of most departments across an organization, such as IT and Security, Sales, Marketing, R&D, Product Management, HR, Legal, Finance, and Enablement. An attack can come from any app, no matter how robust the app is. Without visibility and control over a critical mass of an organization's entire SaaS app stack, security teams are flying blind. This is why it's important that all SaaS apps across the organization be managed at scale.   While this breadth of coverage is critical, each app has its own characteristics, UI, and terminology. Mitigating these threats requires a deep understanding of all security controls its configurations.   Learn how to automate SaaS security management .  Security teams need to map out the entire SaaS ecosystem within the organization, including the core SaaS apps and the numerous additional apps that employees connect to without checking or informing th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tank, the leader of the Zeus cybercrime gang, was arrested by the Swiss police<a href="https://securityaffairs.co/wordpress/138648/cyber-crime/zeus-gang-leader-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected leader of the Zeus cybercrime gang, Vyacheslav Igorevich Penchukov (aka Tank), was arrested by Swiss police.
+
+
+
+Swiss police last month arrested in Geneva Vyacheslav Igorevich Penchukov (40), also known as Tank, which is one of the leaders...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot phishing abuses Windows Control Panel EXE to infect devices<a href="https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing emails distributing the QBot malware are using a DLL hijacking flaw in the Windows 10 Control Panel to infect computers, likely as an attempt to evade detection by security software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Comprehensive Look at Emotet’s Fall 2022 Return<a href="https://www.proofpoint.com/us/blog/threat-insight/comprehensive-look-emotets-fall-2022-return?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA542, an actor that distributes Emotet malware, has once again returned from an extensive break from delivering malicious emails. The actor was absent from the landscape for nearly four months but became active again in early November.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked threat actors compromise US Federal Network<a href="https://securityaffairs.co/wordpress/138639/apt/iran-compromises-us-federal-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actors compromised a Federal Civilian Executive Branch organization using a Log4Shell exploit and installed a cryptomining malware.
+
+
+
+According to a joint advisory published by the FBI and CISA, an Iran-linked APT group compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 fixes two remote code execution flaws in BIG-IP, BIG-IQ<a href="https://www.bleepingcomputer.com/news/security/f5-fixes-two-remote-code-execution-flaws-in-big-ip-big-iq/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has released hotfixes for its BIG-IP and BIG-IQ products, addressing two high-severity flaws allowing attackers to perform unauthenticated remote code execution (RCE) on vulnerable endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Majority of DOD cyber incident reports are incomplete, GAO finds<a href="https://therecord.media/majority-of-dod-cyber-incident-reports-are-incomplete-gao-finds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Failures in reporting cyber incidents at the U.S. Department of Defense risks leaving commanders in the dark about the effects hackers could have on their missions, according to a new report by the Government Accountability Office.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High Severity Vulnerabilities Reported in F5 BIG-IP and BIG-IQ Devices<a href="https://thehackernews.com/2022/11/high-severity-vulnerabilities-reported.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in F5 BIG-IP and BIG-IQ devices that, if successfully exploited, to completely compromise affected systems.  Cybersecurity firm Rapid7 said the  flaws  could be abused to remote access to the devices and defeat security constraints. The issues impact BIG-IP versions 13.x, 14.x, 15.x, 16.x, and 17.x, and BIG-IQ Centralized Management versions 7.x and 8.x.  The two high-severity issues, which were reported to F5 on August 18, 2022, are as follows -    CVE-2022-41622  (CVSS score: 8.8) - A cross-site request forgery ( CSRF ) vulnerability through iControl SOAP, leading to unauthenticated remote code execution.  CVE-2022-41800  (CVSS score: 8.7) - An iControl REST vulnerability that could allow an authenticated user with an Administrator role to bypass  Appliance mode  restrictions.   "By successfully exploiting the worst of the vulnerabilities (CVE-2022-41622), an attacker could gain persistent root access to the device's man
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET rolls out new consumer offerings to improve home security<a href="https://www.bleepingcomputer.com/news/security/eset-rolls-out-new-consumer-offerings-to-improve-home-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET's newest consumer product release has taken a comprehensive approach to security to guard against a full range of threats. While cyberthreats and hackers continue to evolve, ESET is always a step ahead. Here is a look at the new product updates:
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Compromised a U.S. Federal Agency's Network Using Log4Shell Exploit<a href="https://thehackernews.com/2022/11/iranian-hackers-compromised-us-federal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian government-sponsored threat actors have been blamed for compromising a U.S. federal agency by taking advantage of the Log4Shell vulnerability in an unpatched VMware Horizon server.  The details, which were shared by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), come in response to incident response efforts undertaken by the authority from mid-June through mid-July 2022.  "Cyber threat actors exploited the Log4Shell vulnerability in an unpatched VMware Horizon server, installed XMRig crypto mining software, moved laterally to the domain controller (DC), compromised credentials, and then implanted Ngrok reverse proxies on several hosts to maintain persistence," CISA  noted .  LogShell, aka  CVE-2021-44228 , is a critical remote code execution flaw in the widely-used Apache Log4j Java-based logging library. It was addressed by the open source project maintainers in December 2021.   The latest development  marks  the  continued   abuse  of the Log4j v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft urges devs to migrate away from .NET Core 3.1 ASAP<a href="https://www.bleepingcomputer.com/news/security/microsoft-urges-devs-to-migrate-away-from-net-core-31-asap/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has urged developers still using the long-term support (LTS) release of .NET Core 3.1 to migrate to the latest .NET Core versions until it reaches the end of support (EOS) next month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Europe and Latin America with Updated DTrack Backdoor<a href="https://thehackernews.com/2022/11/north-korean-hackers-targeting-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers tied to the North Korean government have been observed using an updated version of a backdoor known as Dtrack targeting a wide range of industries in Germany, Brazil, India, Italy, Mexico, Switzerland, Saudi Arabia, Turkey, and the U.S.  "Dtrack allows criminals to upload, download, start or delete files on the victim host," Kaspersky researchers Konstantin Zykov and Jornt van der Wiel  said  in a report.  The victimology patterns indicate an expansion to Europe and Latin America. Sectors targeted by the malware are education, chemical manufacturing, governmental research centers and policy institutes, IT service providers, utility providers, and telecommunication firms.   Dtrack, also called Valefor and Preft, is the handiwork of Andariel, a subgroup of the  Lazarus nation-state threat actor  that's publicly tracked by the broader cybersecurity community using the monikers Operation Troy, Silent Chollima, and Stonefly.  Discovered in September 2019, the malware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. charges Russian suspects with operating Z-Library e-Book site<a href="https://www.bleepingcomputer.com/news/security/us-charges-russian-suspects-with-operating-z-library-e-book-site/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anton Napolsky (33) and Valeriia Ermakova (27), two Russian nationals, were charged with intellectual property crimes linked to Z-Library, a pirate online eBook repository.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Updated RapperBot malware targets game servers in DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/updated-rapperbot-malware-targets-game-servers-in-ddos-attacks/"> Full Text</a>
@@ -50,7 +451,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox 107 Patches High-Impact Vulnerabilities<a href="https://www.securityweek.com/firefox-107-patches-high-impact-vulnerabilities?&web_view=true"> Full Text</a>
@@ -66,7 +467,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Hundreds of Amazon RDS Instances Leaking Users' Personal Data<a href="https://thehackernews.com/2022/11/researchers-discover-hundreds-of-amazon.html"> Full Text</a>
@@ -82,7 +483,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Norms in the Context of Armed Conflict<a href="https://www.lawfareblog.com/cyber-norms-context-armed-conflict"> Full Text</a>
@@ -98,7 +499,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 fixed 2 high-severity Remote Code Execution bugs in its products<a href="https://securityaffairs.co/wordpress/138631/security/2-rce-f5-products.html"> Full Text</a>
@@ -118,7 +519,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Zeus cybercrime ring leader ‘Tank’ arrested by Swiss police<a href="https://www.bleepingcomputer.com/news/security/suspected-zeus-cybercrime-ring-leader-tank-arrested-by-swiss-police/"> Full Text</a>
@@ -134,7 +535,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian Hacker Group KillNet Claims DDoS Attack on FBI Website<a href="https://www.bankinfosecurity.com/pro-moscow-nuisance-hackers-claim-ddos-attack-on-fbi-website-a-20471?&web_view=true"> Full Text</a>
@@ -150,7 +551,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 Reasons to Choose an MDR Provider<a href="https://thehackernews.com/2022/11/7-reasons-to-choose-mdr-provider.html"> Full Text</a>
@@ -166,7 +567,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT uses DTrack backdoor in attacks against LATAM and European orgs<a href="https://securityaffairs.co/wordpress/138622/apt/dtrack-backdoor-targets-europe-latin-america.html"> Full Text</a>
@@ -186,7 +587,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter source code indicates end-to-end encrypted DMs are coming<a href="https://www.bleepingcomputer.com/news/security/twitter-source-code-indicates-end-to-end-encrypted-dms-are-coming/"> Full Text</a>
@@ -202,7 +603,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of PC and Tech Support Scams Stealing Huge Sums of Money from Unsuspecting Users<a href="https://www.zdnet.com/article/fbi-warning-pc-and-tech-support-scams-are-back-heres-what-to-watch-out-for/?&web_view=true"> Full Text</a>
@@ -218,7 +619,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: New RapperBot Campaign Aims to Launch DDoS Attacks at Game Servers<a href="https://thehackernews.com/2022/11/warning-new-rapperbot-campaign-aims-to.html"> Full Text</a>
@@ -234,7 +635,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RapperBot Campaign targets game servers with DDoS attacks<a href="https://securityaffairs.co/wordpress/138615/malware/rapperbot-botnet-targets-game-servers.html"> Full Text</a>
@@ -254,7 +655,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt: Iranian hackers breached federal agency using Log4Shell exploit<a href="https://www.bleepingcomputer.com/news/security/us-govt-iranian-hackers-breached-federal-agency-using-log4shell-exploit/"> Full Text</a>
@@ -270,7 +671,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ThreatLocker acquires Third Wall to provide endpoint protection for MSPs<a href="https://www.helpnetsecurity.com/2022/11/16/threatlocker-third-wall/?&web_view=true"> Full Text</a>
@@ -286,7 +687,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Roll Out Privacy Sandbox Beta on Android 13 by Early 2023<a href="https://thehackernews.com/2022/11/google-to-roll-out-privacy-sandbox-beta.html"> Full Text</a>
@@ -302,7 +703,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beginning 2023 Google plans to rollout the initial Privacy Sandbox Beta<a href="https://securityaffairs.co/wordpress/138607/mobile-2/google-android-privacy-sandbox.html"> Full Text</a>
@@ -322,7 +723,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magento stores targeted in massive surge of TrojanOrders attacks<a href="https://www.bleepingcomputer.com/news/security/magento-stores-targeted-in-massive-surge-of-trojanorders-attacks/"> Full Text</a>
@@ -338,7 +739,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewYork-Presbyterian Hospital Issues Notification of Cybersecurity Incident<a href="https://www.nyp.org/notification-of-cybersecurity-incident?&web_view=true"> Full Text</a>
@@ -354,7 +755,7 @@ nyp
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DuckDuckGo now lets all Android users block trackers in their apps<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-lets-all-android-users-block-trackers-in-their-apps/"> Full Text</a>
@@ -370,7 +771,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
+November 16, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese APT Targets Government and Defense Agencies in Asia<a href="https://cyware.com/news/chinese-apt-targets-government-and-defense-agencies-in-asia-8e366792"> Full Text</a>
