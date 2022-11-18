@@ -34,8 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Ravie Lakshmanan </span>
-
+November 17, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Embrace A Paradigm Shift In SaaS Protection: SaaS Security Posture Management<a href="https://go.thn.li/homepage_forrester"> Full Text</a>
