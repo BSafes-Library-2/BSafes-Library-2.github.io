@@ -8,6 +8,38 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI-Wanted Leader of the Notorious Zeus Botnet Gang Arrested in Geneva<a href="https://thehackernews.com/2022/11/fbi-wanted-leader-of-notorious-zeus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Ukrainian national who has been wanted by the U.S for over a decade has been arrested by Swiss authorities for his role in a notorious cybercriminal ring that stole millions of dollars from victims' bank accounts using malware called Zeus .  Vyacheslav Igorevich Penchukov, who went by online pseu­do­nyms "tank" and "father," is said to have been involved in the day-to-day operations of the group. He was apprehended on October 23, 2022, and is pending extradition to the U.S.  Details of the arrest were&nbsp; first reported &nbsp;by independent security journalist Brian Krebs.  Penchukov, along with Ivan Viktorovich Klepikov (aka "petrovich" and "nowhere") and Alexey Dmitrievich Bron (aka "thehead"), was&nbsp; first charged &nbsp;in the District of Nebraska in August 2012.   According to court documents released by the U.S. Depart of Justice (DoJ) in 2014, Penchukov and eight other members of the cybercriminal group&nbsp; infected &nbsp;"thousands of busin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tank, the leader of the Zeus cybercrime gang, was arrested by the Swiss police<a href="https://securityaffairs.co/wordpress/138648/cyber-crime/zeus-gang-leader-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected leader of the Zeus&nbsp;cybercrime gang, Vyacheslav Igorevich Penchukov (aka Tank), was arrested by Swiss police.
+
+
+
+Swiss police last month arrested in Geneva Vyacheslav Igorevich Penchukov (40), also known as Tank, which is one of the leaders...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

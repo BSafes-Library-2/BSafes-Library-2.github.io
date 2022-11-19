@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Hackers Using Google Ads to Distribute Royal Ransomware<a href="https://thehackernews.com/2022/11/microsoft-warns-of-hackers-using-google.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A developing threat activity cluster has been found using Google Ads in one of its campaigns to distribute various post-compromise payloads, including the recently discovered&nbsp; Royal ransomware .  Microsoft, which spotted the updated malware delivery method in late October 2022, is tracking the group under the name&nbsp; DEV-0569 .  "Observed DEV-0569 attacks show a pattern of continuous innovation, with regular incorporation of new discovery techniques, defense evasion, and various post-compromise payloads, alongside increasing ransomware facilitation," the Microsoft Security Threat Intelligence team&nbsp; said &nbsp;in an analysis.  The threat actor is known to rely on malvertising to point unsuspecting victims to malware downloader links that pose as software installers for legitimate apps like Adobe Flash Player, AnyDesk, LogMeIn, Microsoft Teams, and Zoom.   The malware downloader, a strain referred to as&nbsp; BATLOADER , is a dropper that functions as a conduit to distribute next-stage pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese 'Mustang Panda' Hackers Actively Targeting Governments Worldwide<a href="https://thehackernews.com/2022/11/chinese-mustang-panda-hackers-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notorious advanced persistent threat actor known as&nbsp; Mustang Panda &nbsp;has been linked to a spate of spear-phishing attacks targeting government, education, and research sectors across the world.  The primary targets of the intrusions from May to October 2022 included counties in the Asia Pacific region such as Myanmar, Australia, the Philippines, Japan, and Taiwan, cybersecurity firm Trend Micro&nbsp; said &nbsp;in a Friday report.&nbsp;  Mustang Panda, also called Bronze President, Earth Preta, HoneyMyte, and Red Lich, is a China-based espionage actor believed to be active since at least July 2018. The group is known for its use of malware such as China Chopper and PlugX to collect data from compromised environments.   Activities of the group chronicled by&nbsp; ESET ,&nbsp; Google, Proofpoint ,&nbsp; Cisco Talos , and&nbsp; Secureworks &nbsp;this year have revealed the threat actor's pattern of using PlugX (and its variant called Hodur) to infect a wide range of entities in Asia, Europe, the Middle East, and the Ameri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers use Google Drive to drop malware on govt networks<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-google-drive-to-drop-malware-on-govt-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-backed Chinese hackers launched a spearphishing campaign to deliver custom malware stored in Google Drive to government, research, and academic organizations worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

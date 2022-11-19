@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously unidentified ARCrypter ransomware expands worldwide<a href="https://www.bleepingcomputer.com/news/security/previously-unidentified-arcrypter-ransomware-expands-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown 'ARCrypter' ransomware that compromised key organizations in Latin America is now expanding its attacks worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

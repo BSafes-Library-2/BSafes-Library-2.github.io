@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive ransomware crooks extort $100m from 1,300 global orgs<a href="https://www.theregister.com/2022/11/18/hive_ransomware_fbi/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a joint advisory with CISA and HHS, the FBI this week detailed Hive indicators of compromise and commonly used techniques and procedures that the Feds have observed as recently as this month.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Attackers Extorted $100 Million from Over 1,300 Companies Worldwide<a href="https://thehackernews.com/2022/11/hive-ransomware-attackers-extorted-100.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the Hive ransomware-as-a-service (RaaS) scheme have launched attacks against over 1,300 companies across the world, netting the gang $100 million in illicit payments as of November 2022.  "Hive ransomware has targeted a wide range of businesses and critical infrastructure sectors, including government facilities, communications, critical manufacturing, information technology, and — especially — Healthcare and Public Health (HPH)," U.S. cybersecurity and intelligence authorities&nbsp; said &nbsp;in an alert.  Active since June 2021, Hive's RaaS operation involves a mix of developers, who create and manage the malware, and affiliates, who are responsible for conducting the attacks on target networks by often purchasing initial access from initial access brokers (IABs).   In most cases, gaining a foothold involves the exploitation of&nbsp; ProxyShell flaws &nbsp;in Microsoft Exchange Server, followed by taking steps to terminate processes associated with antivirus engi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

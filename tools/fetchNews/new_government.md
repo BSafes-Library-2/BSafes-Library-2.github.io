@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Unveils Plan to Counter Global Cybercrime Problem<a href="https://www.bankinfosecurity.com/australia-unveils-plan-to-counter-global-cybercrime-problem-a-20497?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia Cyber Security Minister Clare O'Neil announced the formation of the Joint Standing Operation task force, which brings together experts from the Australian Federal Police and the Australian Signals Directorate.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

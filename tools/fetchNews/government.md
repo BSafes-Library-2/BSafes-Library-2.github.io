@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s cyber personnel has ‘underperformed’ in Ukraine: U.S. Defense official<a href="https://therecord.media/russias-cyber-personnel-have-underperformed-in-ukraine-u-s-defense-official/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A senior Pentagon official on Wednesday said that Russia’s cyber personnel “underperformed” during the initial invasion of Ukraine, prompting it to ultimately rely less on digital attacks during the now months-long conflict than was expected.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Hive ransomware extorted $100M from over 1,300 victims<a href="https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m-from-over-1-300-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) said today that the notorious Hive ransomware gang has successfully extorted roughly $100 million from over a thousand&nbsp;companies since June 2021.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

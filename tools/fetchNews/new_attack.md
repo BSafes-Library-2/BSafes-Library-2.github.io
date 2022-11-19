@@ -8,6 +8,24 @@ nav_order: 900015
 
 ## Attack
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing supply chain attack targets Python developers with WASP Stealer<a href="https://securityaffairs.co/wordpress/138692/cyber-crime/wasp-stealer-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked as WASP is behind an ongoing supply chain attack targeting Python developers with the WASP Stealer.
+
+
+
+Checkmarx researchers uncovered an ongoing supply chain attack conducted by a threat actor they tracked as WASP that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

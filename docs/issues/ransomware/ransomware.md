@@ -8,6 +8,66 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - November 18th 2022 - Rising Operations<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-18th-2022-rising-operations/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There have been some interesting developments in ransomware this week, with the arrest of a cybercrime ring leader and reports shedding light on two new, but up-and-coming,&nbsp; ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keeping Up With Ransomware<a href="https://www.lawfareblog.com/keeping-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent meeting of the International Counter Ransomware Initiative brought together representatives from over 30 countries and the private sector. It’s a good step in responding to different aspects of the ransomware threat, but the initiative seems to struggle to prevent future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware extorted over $100M in ransom payments from over 1,300 companies<a href="https://securityaffairs.co/wordpress/138702/cyber-crime/hive-ransomware-extorted-100m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive ransomware operators have extorted over $100 million in ransom payments from over 1,300 companies worldwide as of November 2022.
+
+
+
+The threat actors behind the Hive ransomware-as-a-service (RaaS) have extorted $100 million in ransom payments from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers secretly helped decrypt Zeppelin ransomware for 2 years<a href="https://www.bleepingcomputer.com/news/security/researchers-secretly-helped-decrypt-zeppelin-ransomware-for-2-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found vulnerabilities in the encryption mechanism of the Zeppelin ransomware and exploited them to create a working decryptor&nbsp;they used since 2020 to help victim companies recover files without paying the attackers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

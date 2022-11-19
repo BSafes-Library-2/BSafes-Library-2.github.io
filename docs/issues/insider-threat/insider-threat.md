@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Reportedly Fires Dozens of Employees for Hijacking Users' Facebook and Instagram Accounts<a href="https://thehackernews.com/2022/11/meta-reportedly-fires-dozens-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms is said to have fired or disciplined over two dozen employees and contractors over the past year for allegedly compromising and taking over user accounts, The Wall Street Journal reported  Thursday.  Some of these cases involved bribery, the publication said, citing sources and documents.  Included among those fired were contractors who worked as security guards at the social media firm's facilities and were given access to an internal tool that allowed employees to help "users they know" gain access to accounts after forgetting their passwords, or had their accounts locked out.   The system, called "Oops" and short for Online Operations, is off limits to a vast majority of the platform's users, leading to the rise of a "cottage industry of intermediaries" who charge users thousands of dollars and reach out to insiders who are willing to reset the accounts.  "You really have to have someone on the inside who will actually do it
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top passwords used in RDP brute-force attacks<a href="https://www.helpnetsecurity.com/2022/11/17/top-passwords-rdp-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While attacks on RDP ports grew during the COVID-19 pandemic as a result of the rise of remote work, the port has continued to be a popular attack method for criminals despite many workers returning to the office.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Search results poisoned with torrent sites via Data Studio<a href="https://www.bleepingcomputer.com/news/security/google-search-results-poisoned-with-torrent-sites-via-data-studio/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing Google's Looker Studio (formerly Google Data Studio) to boost search engine rankings for their illicit websites that promote spam, torrents, and pirated content.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transportation sector targeted by both ransomware and APTs<a href="https://www.helpnetsecurity.com/2022/11/18/cybersecurity-trends-q3-2022/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the US alone, ransomware activity increased 100% quarter over quarter in transportation and shipping. Globally, transportation was the second most active sector after telecom. APTs were also detected in transportation more than in other sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat hunting with MITRE ATT&amp;CK and Wazuh<a href="https://thehackernews.com/2022/11/threat-hunting-with-mitre-att-and-wazuh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunting is the process of looking for malicious activity and its artifacts in a computer system or network. Threat hunting is carried out intermittently in an environment regardless of whether or not threats have been discovered by automated security solutions. Some threat actors may stay dormant in an organization's infrastructure, extending their access while waiting for the right opportunity to exploit discovered weaknesses.  Therefore it is important to perform threat hunting to identify malicious actors in an environment and stop them before they achieve their ultimate goal.&nbsp;  To effectively perform threat hunting, the threat hunter must have a systematic approach to emulating possible adversary behavior. This adversarial behavior determines what artifacts can be searched for that indicate ongoing or past malicious activity.  MITRE ATT&amp;CK  Over the years, the security community has observed that threat actors have commonly used many tactics, techniques, and procedu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
