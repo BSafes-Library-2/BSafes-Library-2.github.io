@@ -8,6 +8,46 @@ nav_order: 900072
 
 ## General
 ---
+November 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 394<a href="https://securityaffairs.co/wordpress/138780/breaking-news/security-affairs-newsletter-round-394.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+DEV-0569...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday and Cyber Monday, crooks are already at work<a href="https://securityaffairs.co/wordpress/138737/cyber-crime/black-friday-and-cyber-monday-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year during Black Friday and Cyber Monday, crooks take advantage of the bad habits of users with fraudulent schema.
+
+
+
+Researchers at Bitdefender Antispam Lab have analyzed during the last weeks the fraudulent activities associated with Black Friday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

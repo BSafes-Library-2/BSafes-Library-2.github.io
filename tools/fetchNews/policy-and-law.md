@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US charges BEC suspects with targeting federal health care programs<a href="https://www.bleepingcomputer.com/news/security/us-charges-bec-suspects-with-targeting-federal-health-care-programs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DOJ) has charged ten defendants for their alleged involvement in business email compromise (BEC) schemes targeting numerous victims across the country, including U.S. federal funding programs like Medicare and Medicaid.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

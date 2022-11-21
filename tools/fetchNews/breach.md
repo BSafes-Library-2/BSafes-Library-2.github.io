@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's securities depository CDSL says malware compromised its network<a href="https://techcrunch.com/2022/11/18/cdsl-malware-internal-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CSDL said it continues to investigate, and that it has so far “no reason to believe that any confidential information or the investor data has been compromised” due to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

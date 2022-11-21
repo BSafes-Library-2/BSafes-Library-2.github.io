@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Releases Patches for Critical Flaws Affecting Crowd and Bitbucket Products<a href="https://thehackernews.com/2022/11/atlassian-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian software company Atlassian has rolled out security updates to address&nbsp; two critical flaws &nbsp;affecting Bitbucket Server, Data Center, and Crowd products.  The issues, tracked as&nbsp; CVE-2022-43781 &nbsp;and&nbsp; CVE-2022-43782 , are both rated 9 out of 10 on the CVSS vulnerability scoring system.  CVE-2022-43781, which Atlassian said was introduced in version 7.0.0 of Bitbucket Server and Data Center, affects versions 7.0 to 7.21 and 8.0 to 8.4 (only if mesh.enabled is set to false in bitbucket.properties).   The weakness has been described as a case of command injection using environment variables in the software, which could allow an adversary with permission to control their username to gain code execution on the affected system.  As a temporary workaround, the company is recommending users turn off the "Public Signup" option (Administration &gt; Authentication).  "Disabling public signup would change the attack vector from an unauthenticated attack to an authenticated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixed 2 critical flaws in Crowd and Bitbucket products<a href="https://securityaffairs.co/wordpress/138716/security/atlassian-critical-flaws-crowd-bitbucket.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian addressed this week two critical vulnerabilities impacting its Crowd and Bitbucket products.
+
+
+
+Atlassian announced the release of security updates to address critical-severity vulnerabilities in its identity management platform,&nbsp;Crowd...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for actively abused ProxyNotShell Exchange bug<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-actively-abused-proxynotshell-exchange-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been released online for two actively exploited and high-severity vulnerabilities in Microsoft Exchange, collectively known as ProxyNotShell.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samba Patches Vulnerability That Can Lead to DoS, Remote Code Execution<a href="https://www.securityweek.com/samba-patches-vulnerability-can-lead-dos-remote-code-execution?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-42898 and impacting multiple Samba releases, the security defect exists in the Service for User to Proxy (S4U2proxy) handler, which provides “a service that obtains a service ticket to another service on behalf of a user.”
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixes critical command injection bug in Bitbucket Server<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released updates to address critical-severity updates in its centralized identity management platform,&nbsp;Crowd Server and Data Center, and in&nbsp;Bitbucket Server and Data Center, the company's solution for Git repository management.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Omron PLC Vulnerability Exploited by Sophisticated ICS Malware<a href="https://www.securityweek.com/omron-plc-vulnerability-exploited-sophisticated-ics-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability affecting Omron products has been exploited by a sophisticated piece of malware designed to target industrial control systems (ICS), but it has not received the attention it deserves.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

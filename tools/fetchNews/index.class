@@ -34,6 +34,162 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware encrypts files, then steals your Discord account<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-encrypts-files-then-steals-your-discord-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new 'AXLocker' ransomware family is not only encrypting victims' files and demanding a ransom payment but also stealing the Discord accounts of infected users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 394<a href="https://securityaffairs.co/wordpress/138780/breaking-news/security-affairs-newsletter-round-394.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+DEV-0569...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit code for ProxyNotShell Microsoft Exchange bugs released online<a href="https://securityaffairs.co/wordpress/138768/hacking/proxynotshell-microsoft-exchange-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for two actively exploited Microsoft Exchange ProxyNotShell flaws released online. 
+
+
+
+Proof-of-concept exploit code has been released online for two actively exploited vulnerabilities in Microsoft Exchange, known as ProxyNotShell.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Government Publishes Draft of Digital Personal Data Protection Bill 2022<a href="https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian government on Friday released a draft version of the much-awaited data protection regulation, making it the fourth such effort since it was first proposed in July 2018.  The  Digital Personal Data Protection Bill, 2022 , as it's called,  aims  to secure personal data, while also seeking users' consent in what the draft claims is "clear and plain language" describing the exact kinds of information that will be collected and for what purpose.  The draft is open for public consultation until December 17, 2022.  India has over 760 million active internet users, necessitating that data generated and used by online platforms are subject to privacy rules to prevent abuse and increase accountability and trust.  "The Bill will establish the comprehensive legal framework governing digital personal data protection in India," the government  said . "The Bill provides for the processing of digital personal data in a manner that recognizes the right of in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New attacks use Windows security bypass zero-day to drop malware<a href="https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New phishing attacks use a Windows zero-day vulnerability to drop the Qbot malware without displaying Mark of the Web security warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0569 group uses Google Ads to distribute Royal Ransomware<a href="https://securityaffairs.co/wordpress/138750/malware/dev-0569-google-ads-royal-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns that a threat actor, tracked as DEV-0569, is using Google Ads to distribute the recently discovered Royal ransomware.
+
+
+
+Researchers from the Microsoft Security Threat Intelligence team warned that a threat actor, tracked as DEV-0569,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday and Cyber Monday, crooks are already at work<a href="https://securityaffairs.co/wordpress/138737/cyber-crime/black-friday-and-cyber-monday-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year during Black Friday and Cyber Monday, crooks take advantage of the bad habits of users with fraudulent schema.
+
+
+
+Researchers at Bitdefender Antispam Lab have analyzed during the last weeks the fraudulent activities associated with Black Friday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New improved versions of LodaRAT spotted in the wild<a href="https://securityaffairs.co/wordpress/138723/malware/lodarat-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos spotted multiple updated versions of LodaRAT that were deployed alongside other malware families, including RedLine and Neshta.
+
+
+
+Researchers from Cisco Talos have monitored the LodaRAT malware over the course of 2022 and recently discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

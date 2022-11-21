@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2022
+November 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ransomware encrypts files, then steals your Discord account<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-encrypts-files-then-steals-your-discord-account/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2022
+November 20, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 394<a href="https://securityaffairs.co/wordpress/138780/breaking-news/security-affairs-newsletter-round-394.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 20, 2022
+November 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC exploit code for ProxyNotShell Microsoft Exchange bugs released online<a href="https://securityaffairs.co/wordpress/138768/hacking/proxynotshell-microsoft-exchange-poc.html"> Full Text</a>
@@ -98,7 +98,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Government Publishes Draft of Digital Personal Data Protection Bill 2022<a href="https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New attacks use Windows security bypass zero-day to drop malware<a href="https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/"> Full Text</a>
@@ -130,7 +130,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DEV-0569 group uses Google Ads to distribute Royal Ransomware<a href="https://securityaffairs.co/wordpress/138750/malware/dev-0569-google-ads-royal-ransomware.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Friday and Cyber Monday, crooks are already at work<a href="https://securityaffairs.co/wordpress/138737/cyber-crime/black-friday-and-cyber-monday-scams.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New improved versions of LodaRAT spotted in the wild<a href="https://securityaffairs.co/wordpress/138723/malware/lodarat-malware.html"> Full Text</a>

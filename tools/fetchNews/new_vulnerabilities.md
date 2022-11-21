@@ -8,6 +8,42 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit code for ProxyNotShell Microsoft Exchange bugs released online<a href="https://securityaffairs.co/wordpress/138768/hacking/proxynotshell-microsoft-exchange-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for two actively exploited Microsoft Exchange ProxyNotShell flaws released online. 
+
+
+
+Proof-of-concept exploit code has been released online for two actively exploited vulnerabilities in Microsoft Exchange, known as ProxyNotShell.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New attacks use Windows security bypass zero-day to drop malware<a href="https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New phishing attacks use a Windows zero-day vulnerability to drop the Qbot malware without displaying Mark of the Web security warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

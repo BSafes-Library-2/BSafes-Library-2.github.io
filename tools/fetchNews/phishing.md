@@ -8,6 +8,24 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based Fangxiao group behind a long-running phishing campaign<a href="https://securityaffairs.co/wordpress/138683/cyber-crime/fangxiao-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-based financially motivated group, tracked as&nbsp;Fangxiao, is behind a large-scale phishing campaign dating back as far as 2019.
+
+
+
+Researchers from Cyjax reported that a China-based financially motivated group, dubbed Fangxiao, orchestrated a large-scale...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

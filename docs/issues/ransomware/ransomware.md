@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware encrypts files, then steals your Discord account<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-encrypts-files-then-steals-your-discord-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new 'AXLocker' ransomware family is not only encrypting victims' files and demanding a ransom payment but also stealing the Discord accounts of infected users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
