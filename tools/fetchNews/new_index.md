@@ -34,7 +34,163 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware encrypts files, then steals your Discord account<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-encrypts-files-then-steals-your-discord-account/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new 'AXLocker' ransomware family is not only encrypting victims' files and demanding a ransom payment but also stealing the Discord accounts of infected users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 394<a href="https://securityaffairs.co/wordpress/138780/breaking-news/security-affairs-newsletter-round-394.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+DEV-0569...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit code for ProxyNotShell Microsoft Exchange bugs released online<a href="https://securityaffairs.co/wordpress/138768/hacking/proxynotshell-microsoft-exchange-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for two actively exploited Microsoft Exchange ProxyNotShell flaws released online. 
+
+
+
+Proof-of-concept exploit code has been released online for two actively exploited vulnerabilities in Microsoft Exchange, known as ProxyNotShell.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Government Publishes Draft of Digital Personal Data Protection Bill 2022<a href="https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian government on Friday released a draft version of the much-awaited data protection regulation, making it the fourth such effort since it was first proposed in July 2018.  The  Digital Personal Data Protection Bill, 2022 , as it's called,  aims  to secure personal data, while also seeking users' consent in what the draft claims is "clear and plain language" describing the exact kinds of information that will be collected and for what purpose.  The draft is open for public consultation until December 17, 2022.  India has over 760 million active internet users, necessitating that data generated and used by online platforms are subject to privacy rules to prevent abuse and increase accountability and trust.  "The Bill will establish the comprehensive legal framework governing digital personal data protection in India," the government  said . "The Bill provides for the processing of digital personal data in a manner that recognizes the right of in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New attacks use Windows security bypass zero-day to drop malware<a href="https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New phishing attacks use a Windows zero-day vulnerability to drop the Qbot malware without displaying Mark of the Web security warnings.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0569 group uses Google Ads to distribute Royal Ransomware<a href="https://securityaffairs.co/wordpress/138750/malware/dev-0569-google-ads-royal-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns that a threat actor, tracked as DEV-0569, is using Google Ads to distribute the recently discovered Royal ransomware.
+
+
+
+Researchers from the Microsoft Security Threat Intelligence team warned that a threat actor, tracked as DEV-0569,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday and Cyber Monday, crooks are already at work<a href="https://securityaffairs.co/wordpress/138737/cyber-crime/black-friday-and-cyber-monday-scams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year during Black Friday and Cyber Monday, crooks take advantage of the bad habits of users with fraudulent schema.
+
+
+
+Researchers at Bitdefender Antispam Lab have analyzed during the last weeks the fraudulent activities associated with Black Friday...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New improved versions of LodaRAT spotted in the wild<a href="https://securityaffairs.co/wordpress/138723/malware/lodarat-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos spotted multiple updated versions of LodaRAT that were deployed alongside other malware families, including RedLine and Neshta.
+
+
+
+Researchers from Cisco Talos have monitored the LodaRAT malware over the course of 2022 and recently discovered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 19, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive ransomware crooks extort $100m from 1,300 global orgs<a href="https://www.theregister.com/2022/11/18/hive_ransomware_fbi/?&web_view=true"> Full Text</a>
@@ -50,7 +206,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Hackers Using Google Ads to Distribute Royal Ransomware<a href="https://thehackernews.com/2022/11/microsoft-warns-of-hackers-using-google.html"> Full Text</a>
@@ -66,7 +222,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India's securities depository CDSL says malware compromised its network<a href="https://techcrunch.com/2022/11/18/cdsl-malware-internal-systems/?&web_view=true"> Full Text</a>
@@ -82,7 +238,7 @@ Tech Crunch
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese 'Mustang Panda' Hackers Actively Targeting Governments Worldwide<a href="https://thehackernews.com/2022/11/chinese-mustang-panda-hackers-actively.html"> Full Text</a>
@@ -98,7 +254,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 19, 2022
+November 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Releases Patches for Critical Flaws Affecting Crowd and Bitbucket Products<a href="https://thehackernews.com/2022/11/atlassian-releases-patches-for-critical.html"> Full Text</a>
@@ -114,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - November 18th 2022 - Rising Operations<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-18th-2022-rising-operations/"> Full Text</a>
@@ -130,7 +286,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keeping Up With Ransomware<a href="https://www.lawfareblog.com/keeping-ransomware"> Full Text</a>
@@ -146,7 +302,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian fixed 2 critical flaws in Crowd and Bitbucket products<a href="https://securityaffairs.co/wordpress/138716/security/atlassian-critical-flaws-crowd-bitbucket.html"> Full Text</a>
@@ -166,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for actively abused ProxyNotShell Exchange bug<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-actively-abused-proxynotshell-exchange-bug/"> Full Text</a>
@@ -182,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware extorted over $100M in ransom payments from over 1,300 companies<a href="https://securityaffairs.co/wordpress/138702/cyber-crime/hive-ransomware-extorted-100m.html"> Full Text</a>
@@ -202,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers secretly helped decrypt Zeppelin ransomware for 2 years<a href="https://www.bleepingcomputer.com/news/security/researchers-secretly-helped-decrypt-zeppelin-ransomware-for-2-years/"> Full Text</a>
@@ -218,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samba Patches Vulnerability That Can Lead to DoS, Remote Code Execution<a href="https://www.securityweek.com/samba-patches-vulnerability-can-lead-dos-remote-code-execution?&web_view=true"> Full Text</a>
@@ -234,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing supply chain attack targets Python developers with WASP Stealer<a href="https://securityaffairs.co/wordpress/138692/cyber-crime/wasp-stealer-supply-chain-attack.html"> Full Text</a>
@@ -254,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US charges BEC suspects with targeting federal health care programs<a href="https://www.bleepingcomputer.com/news/security/us-charges-bec-suspects-with-targeting-federal-health-care-programs/"> Full Text</a>
@@ -270,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top passwords used in RDP brute-force attacks<a href="https://www.helpnetsecurity.com/2022/11/17/top-passwords-rdp-attacks/?&web_view=true"> Full Text</a>
@@ -286,7 +442,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Reportedly Fires Dozens of Employees for Hijacking Users' Facebook and Instagram Accounts<a href="https://thehackernews.com/2022/11/meta-reportedly-fires-dozens-of.html"> Full Text</a>
@@ -302,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-based Fangxiao group behind a long-running phishing campaign<a href="https://securityaffairs.co/wordpress/138683/cyber-crime/fangxiao-phishing-campaign.html"> Full Text</a>
@@ -322,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers use Google Drive to drop malware on govt networks<a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-google-drive-to-drop-malware-on-govt-networks/"> Full Text</a>
@@ -338,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Mustang Panda APT Targets Governments Worldwide via Spear-Phishing Attacks<a href="https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html?&web_view=true"> Full Text</a>
@@ -354,7 +510,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LodaRAT Malware Resurfaces with New Variants Employing Updated Functionalities<a href="https://thehackernews.com/2022/11/lodarat-malware-resurfaces-with-new.html"> Full Text</a>
@@ -370,7 +526,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Search results poisoned with torrent sites via Data Studio<a href="https://www.bleepingcomputer.com/news/security/google-search-results-poisoned-with-torrent-sites-via-data-studio/"> Full Text</a>
@@ -386,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transportation sector targeted by both ransomware and APTs<a href="https://www.helpnetsecurity.com/2022/11/18/cybersecurity-trends-q3-2022/?&web_view=true"> Full Text</a>
@@ -402,7 +558,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat hunting with MITRE ATT&CK and Wazuh<a href="https://thehackernews.com/2022/11/threat-hunting-with-mitre-att-and-wazuh.html"> Full Text</a>
@@ -418,7 +574,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian fixes critical command injection bug in Bitbucket Server<a href="https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/"> Full Text</a>
@@ -434,7 +590,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Omron PLC Vulnerability Exploited by Sophisticated ICS Malware<a href="https://www.securityweek.com/omron-plc-vulnerability-exploited-sophisticated-ics-malware?&web_view=true"> Full Text</a>
@@ -450,7 +606,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Attackers Extorted $100 Million from Over 1,300 Companies Worldwide<a href="https://thehackernews.com/2022/11/hive-ransomware-attackers-extorted-100.html"> Full Text</a>
@@ -466,7 +622,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Unveils Plan to Counter Global Cybercrime Problem<a href="https://www.bankinfosecurity.com/australia-unveils-plan-to-counter-global-cybercrime-problem-a-20497?&web_view=true"> Full Text</a>
@@ -482,7 +638,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
+November 18, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 W4SP Stealer Constantly Targeting Python Developers in Ongoing Supply Chain Attack<a href="https://thehackernews.com/2022/11/w4sp-stealer-constantly-targeting.html"> Full Text</a>
