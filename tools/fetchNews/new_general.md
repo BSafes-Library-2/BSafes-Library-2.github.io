@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Been Doing It The Same Way For Years? Think Again.<a href="https://thehackernews.com/2022/11/been-doing-it-same-way-for-years-think.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As IT professionals, we all reach a certain point in our IT career where we realize that some of our everyday tasks are done the same way year after year without anyone questioning why it's done that way.  Despite the constant change and improvement in technology, some things just get done the same ineffective way without any real thought behind it because "that's the way it's always been done."  A typical example: patching  Month in, month out, a day comes along that is dedicated to patching.&nbsp;  Patching may be more automated than before because you no longer need to log into each system to patch and reboot tediously. It's a step forward, but the patching process remains the same.&nbsp;  Patching is disruptive, slow, error-prone, and rarely fast enough to keep up with new vulnerabilities. Why disruptive? We all know that every time a maintenance window comes along, Bob from accounting will remind everyone how "the company's IT is going to mess up our week
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday deal: 50% off Malwarebytes Premium + Privacy VPN bundle<a href="https://www.bleepingcomputer.com/news/security/black-friday-deal-50-percent-off-malwarebytes-premium-plus-privacy-vpn-bundle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes' Black Friday deal&nbsp;is now live, offering a 50% discount&nbsp;on the&nbsp;Malwarebytes Premium antivirus + Malwarebytes&nbsp;Privacy VPN bundle until November 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Uses DLL Hijacking, Abuses Control Panel Executable In a Fresh Attack Wave<a href="https://cyware.com/news/qbot-uses-dll-hijacking-abuses-control-panel-executable-in-a-fresh-attack-wave-a4634c2b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware quietly runs in the background, steals emails for use in phishing attacks, and downloads additional post-exploitation toolkits such as Brute Ratel or Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Wins Lawsuit Against Russians Linked to Blockchain-based Glupteba Botnet<a href="https://thehackernews.com/2022/11/google-wins-lawsuit-against-russians.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has won a lawsuit filed against two Russian nationals in connection with the operation of a botnet called Glupteba , the company&nbsp; said &nbsp;last week.  The U.S. District Court for the Southern District of New York imposed monetary sanctions against the defendants and their U.S.-based legal counsel. The defendants have also been asked to pay Google's attorney fees. The defendants' move to press sanctions against Google was denied.  The development comes nearly a year after the tech giant&nbsp; took down &nbsp;the malware's command-and-control infrastructure and initiated legal proceedings against Dmitry Starovikov  and Alexander Filippov , who are said to have been in charge of running the illegal botnet.   The defendants, along with 15 others, have also been accused of using the malware to create a hacked network of devices to mine cryptocurrencies, harvest victims' personal and financial data, and place disruptive ads.  Gluteba is distinguished from its botnet counterparts b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apps with over 3 million installs leak 'Admin' search API keys<a href="https://www.bleepingcomputer.com/news/security/apps-with-over-3-million-installs-leak-admin-search-api-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered 1,550 mobile apps leaking Algolia API keys, risking the exposure of sensitive internal services and stored user information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

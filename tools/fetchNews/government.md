@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Government Publishes Draft of Digital Personal Data Protection Bill 2022<a href="https://thehackernews.com/2022/11/indian-government-publishes-draft-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian government on Friday released a draft version of the much-awaited data protection regulation, making it the fourth such effort since it was first proposed in July 2018.  The&nbsp; Digital Personal Data Protection Bill, 2022 , as it's called,&nbsp; aims &nbsp;to secure personal data, while also seeking users' consent in what the draft claims is "clear and plain language" describing the exact kinds of information that will be collected and for what purpose.  The draft is open for public consultation until December 17, 2022.  India has over 760 million active internet users, necessitating that data generated and used by online platforms are subject to privacy rules to prevent abuse and increase accountability and trust.  "The Bill will establish the comprehensive legal framework governing digital personal data protection in India," the government&nbsp; said . "The Bill provides for the processing of digital personal data in a manner that recognizes the right of in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

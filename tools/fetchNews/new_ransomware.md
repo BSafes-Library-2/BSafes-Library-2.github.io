@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Octocrypt, Alice, and AXLocker Ransomware, new threats in the wild<a href="https://securityaffairs.co/wordpress/138783/malware/octocrypt-alice-axlocker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from Cyble Research and Intelligence Labs (CRIL) discovered three new ransomware families: AXLocker, Octocrypt, and Alice Ransomware.
+
+
+
+Threat intelligence firm Cyble announced the discovery of three new ransomware families named AXLocker, Octocrypt,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

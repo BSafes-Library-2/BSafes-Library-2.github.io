@@ -11,6 +11,24 @@ nav_order: 900080
 November 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+DEV-0569 group uses Google Ads to distribute Royal Ransomware<a href="https://securityaffairs.co/wordpress/138750/malware/dev-0569-google-ads-royal-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns that a threat actor, tracked as DEV-0569, is using Google Ads to distribute the recently discovered Royal ransomware.
+
+
+
+Researchers from the Microsoft Security Threat Intelligence team warned that a threat actor, tracked as DEV-0569,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Hackers Using Google Ads to Distribute Royal Ransomware<a href="https://thehackernews.com/2022/11/microsoft-warns-of-hackers-using-google.html"> Full Text</a>
 </p>
 <details>

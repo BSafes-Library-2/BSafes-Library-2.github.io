@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Estonians arrested for running $575M crypto Ponzi scheme<a href="https://www.bleepingcomputer.com/news/security/two-estonians-arrested-for-running-575m-crypto-ponzi-scheme/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of Luna Moth Callback Phishing Campaign<a href="https://unit42.paloaltonetworks.com/luna-moth-callback-phishing/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Palo Alto Networks
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Daixin Ransomware Gang Steals 5 Million AirAsia Passengers' and Employees' Data<a href="https://thehackernews.com/2022/11/daixin-ransomware-gang-steals-5-million.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert published PoC exploit code for macOS sandbox escape flaw<a href="https://securityaffairs.co/wordpress/138815/hacking/macos-sandbox-escape-flaw.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aurora infostealer malware increasingly adopted by cybergangs<a href="https://www.bleepingcomputer.com/news/security/aurora-infostealer-malware-increasingly-adopted-by-cybergangs/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DEV-0569 Group Switches Tactics, Abuses Google Ads to Deliver Payloads<a href="https://cyware.com/news/dev-0569-group-switches-tactics-abuses-google-ads-to-deliver-payloads-c5f289b3"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notorious Emotet Malware Returns With High-Volume Malspam Campaign<a href="https://thehackernews.com/2022/11/notorious-emotet-malware-returns-with.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google won a lawsuit against the Glupteba botnet operators<a href="https://securityaffairs.co/wordpress/138803/cyber-crime/google-lawsuit-glupteba-botnet-operators.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers bypass Coinbase and MetaMask 2FA via TeamViewer, fake support chat<a href="https://www.bleepingcomputer.com/news/security/attackers-bypass-coinbase-and-metamask-2fa-via-teamviewer-fake-support-chat/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot Uses DLL Hijacking, Abuses Control Panel Executable In a Fresh Attack Wave<a href="https://cyware.com/news/qbot-uses-dll-hijacking-abuses-control-panel-executable-in-a-fresh-attack-wave-a4634c2b"> Full Text</a>
@@ -202,7 +202,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Been Doing It The Same Way For Years? Think Again.<a href="https://thehackernews.com/2022/11/been-doing-it-same-way-for-years-think.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google provides rules to detect tens of cracked versions of Cobalt Strike<a href="https://securityaffairs.co/wordpress/138795/hacking/google-cobalt-strike-detection.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers steal $300,000 in DraftKings credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-300-000-in-draftkings-credential-stuffing-attack/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Preta Targets Multiple Sectors With Large-Scale Spear-Phishing<a href="https://cyware.com/news/earth-preta-targets-multiple-sectors-with-large-scale-spear-phishing-ce639109"> Full Text</a>
@@ -270,7 +270,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Wins Lawsuit Against Russians Linked to Blockchain-based Glupteba Botnet<a href="https://thehackernews.com/2022/11/google-wins-lawsuit-against-russians.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Octocrypt, Alice, and AXLocker Ransomware, new threats in the wild<a href="https://securityaffairs.co/wordpress/138783/malware/octocrypt-alice-axlocker-ransomware.html"> Full Text</a>
@@ -306,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Friday deal: 50% off Malwarebytes Premium + Privacy VPN bundle<a href="https://www.bleepingcomputer.com/news/security/black-friday-deal-50-percent-off-malwarebytes-premium-plus-privacy-vpn-bundle/"> Full Text</a>
@@ -322,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft outlines tactics to prevent attackers from dodging multi-factor authentication<a href="https://www.zdnet.com/article/microsoft-hackers-are-using-this-concerning-tactic-to-dodge-multi-factor-authentication/?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ ZDNet
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Identifies 34 Cracked Versions of Popular Cobalt Strike Hacking Toolkit in the Wild<a href="https://thehackernews.com/2022/11/google-identifies-34-cracked-versions.html"> Full Text</a>
@@ -354,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome extension used to steal cryptocurrency, passwords<a href="https://www.bleepingcomputer.com/news/security/google-chrome-extension-used-to-steal-cryptocurrency-passwords/"> Full Text</a>
@@ -370,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC Code Published for High-Severity macOS Sandbox Escape Vulnerability<a href="https://www.securityweek.com/poc-code-published-high-severity-macos-sandbox-escape-vulnerability?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google releases 165 YARA rules to detect Cobalt Strike attacks<a href="https://www.bleepingcomputer.com/news/security/google-releases-165-yara-rules-to-detect-cobalt-strike-attacks/"> Full Text</a>
@@ -402,7 +402,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The pros and cons of using open-source Kubernetes security software<a href="https://www.helpnetsecurity.com/2022/11/21/open-source-kubernetes-security/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apps with over 3 million installs leak 'Admin' search API keys<a href="https://www.bleepingcomputer.com/news/security/apps-with-over-3-million-installs-leak-admin-search-api-keys/"> Full Text</a>

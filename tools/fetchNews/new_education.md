@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft outlines tactics to prevent attackers from dodging multi-factor authentication<a href="https://www.zdnet.com/article/microsoft-hackers-are-using-this-concerning-tactic-to-dodge-multi-factor-authentication/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has outlined several mitigations to protect against attacks on multi-factor authentication that will unfortunately make life more difficult for your remote workers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The pros and cons of using open-source Kubernetes security software<a href="https://www.helpnetsecurity.com/2022/11/21/open-source-kubernetes-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a survey by ARMO, 55% of respondents said they used at least some open-source tools to keep their Kubernetes clusters safe; this includes those who use purely open-source and those who mix open-source and proprietary solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

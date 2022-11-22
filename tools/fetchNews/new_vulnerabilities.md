@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert published PoC exploit code for macOS sandbox escape flaw<a href="https://securityaffairs.co/wordpress/138815/hacking/macos-sandbox-escape-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher published details and proof-of-concept (PoC) code for High-Severity macOS Sandbox escape vulnerability tracked as CVE-2022-26696.
+
+
+
+Researcher Wojciech Reguła (@_r3ggi) of SecuRing published technical details and proof-of-concept (PoC)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Code Published for High-Severity macOS Sandbox Escape Vulnerability<a href="https://www.securityweek.com/poc-code-published-high-severity-macos-sandbox-escape-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-26696 (CVSS score of 7.8), the security defect was identified and reported last year, with a patch available since the release of macOS Monterey 12.4 in May.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
