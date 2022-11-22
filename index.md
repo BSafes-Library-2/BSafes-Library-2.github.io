@@ -34,6 +34,406 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Estonians arrested for running $575M crypto Ponzi scheme<a href="https://www.bleepingcomputer.com/news/security/two-estonians-arrested-for-running-575m-crypto-ponzi-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Estonian nationals were arrested in Tallinn, Estonia, on Sunday after being indicted in the U.S. for running a massive cryptocurrency Ponzi scheme that led to losses of more than $575 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of Luna Moth Callback Phishing Campaign<a href="https://unit42.paloaltonetworks.com/luna-moth-callback-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, attackers use legitimate and trusted systems management tools to interact directly with a victim’s computer, to manually exfiltrate data to be used for extortion.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daixin Ransomware Gang Steals 5 Million AirAsia Passengers' and Employees' Data<a href="https://thehackernews.com/2022/11/daixin-ransomware-gang-steals-5-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime group called Daixin Team  has leaked sample data belonging to AirAsia, a Malaysian low-cost airline, on its data leak portal.  The development comes a little over a week after the company fell victim to a ransomware attack on November 11 and 12, per  DataBreaches.net .   The threat actors allegedly claim to have obtained the personal data associated with five million unique passengers and all of its employees.  The samples uploaded to the leak site reveal passenger information and the booking IDs as well as personal data related to the company's staff.   A spokesperson for the threat actor told DataBreaches.net that further attacks were not pursued owing to AirAsia's poor security measures and "the chaotic organization of the network."  Daixin Team was recently the subject of an  advisory  from the U.S. cybersecurity and intelligence agencies, which warned of attacks mainly aimed at the healthcare sector.  Other victims of the criminal group include Fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert published PoC exploit code for macOS sandbox escape flaw<a href="https://securityaffairs.co/wordpress/138815/hacking/macos-sandbox-escape-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher published details and proof-of-concept (PoC) code for High-Severity macOS Sandbox escape vulnerability tracked as CVE-2022-26696.
+
+
+
+Researcher Wojciech Reguła (@_r3ggi) of SecuRing published technical details and proof-of-concept (PoC)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aurora infostealer malware increasingly adopted by cybergangs<a href="https://www.bleepingcomputer.com/news/security/aurora-infostealer-malware-increasingly-adopted-by-cybergangs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly turning to a new Go-based information stealer named 'Aurora' to steal sensitive information from browsers and cryptocurrency apps, exfiltrate data directly from disks, and load additional payloads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0569 Group Switches Tactics, Abuses Google Ads to Deliver Payloads<a href="https://cyware.com/news/dev-0569-group-switches-tactics-abuses-google-ads-to-deliver-payloads-c5f289b3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DEV-0569 uses a malware downloader, BatLoader, that drops the next stage payloads (via PowerShell commands), including Royal ransomware and Cobalt Strike Beacon implant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Emotet Malware Returns With High-Volume Malspam Campaign<a href="https://thehackernews.com/2022/11/notorious-emotet-malware-returns-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Emotet malware has returned with renewed vigor as part of a high-volume malspam campaign designed to drop payloads like  IcedID  and  Bumblebee .  "Hundreds of thousands of emails per day" have been sent since early November 2022, enterprise security company Proofpoint  said  last week, adding, "the new activity suggests Emotet is returning to its full functionality acting as a delivery network for major malware families."  Among the primary countries targeted are the U.S., the U.K., Japan, Germany, Italy, France, Spain, Mexico, and Brazil.  The Emotet-related activity was last observed in July 2022, although  sporadic   infections  have been  reported  since then. In mid-October, ESET  revealed  that Emotet may be readying for a new wave of attacks, pointing out updates to its "systeminfo" module.   The malware, which is attributed to a threat actor known as Mummy Spider (aka Gold Crestwood or TA542), staged a revival of sorts late last yea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google won a lawsuit against the Glupteba botnet operators<a href="https://securityaffairs.co/wordpress/138803/cyber-crime/google-lawsuit-glupteba-botnet-operators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google won a lawsuit filed against two Russian nationals involved in the operations of the Glupteba botnet.
+
+
+
+This week, Google announced it has won a nearly year-long legal battle against the Glupteba botnet. Glupteba is a highly sophisticated botnet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers bypass Coinbase and MetaMask 2FA via TeamViewer, fake support chat<a href="https://www.bleepingcomputer.com/news/security/attackers-bypass-coinbase-and-metamask-2fa-via-teamviewer-fake-support-chat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crypto-stealing phishing campaign is underway to bypass multi-factor authentication and gain access to accounts on Coinbase, MetaMask, Crypto.com, and KuCoin and steal cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Uses DLL Hijacking, Abuses Control Panel Executable In a Fresh Attack Wave<a href="https://cyware.com/news/qbot-uses-dll-hijacking-abuses-control-panel-executable-in-a-fresh-attack-wave-a4634c2b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware quietly runs in the background, steals emails for use in phishing attacks, and downloads additional post-exploitation toolkits such as Brute Ratel or Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Been Doing It The Same Way For Years? Think Again.<a href="https://thehackernews.com/2022/11/been-doing-it-same-way-for-years-think.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As IT professionals, we all reach a certain point in our IT career where we realize that some of our everyday tasks are done the same way year after year without anyone questioning why it's done that way.  Despite the constant change and improvement in technology, some things just get done the same ineffective way without any real thought behind it because "that's the way it's always been done."  A typical example: patching  Month in, month out, a day comes along that is dedicated to patching.   Patching may be more automated than before because you no longer need to log into each system to patch and reboot tediously. It's a step forward, but the patching process remains the same.   Patching is disruptive, slow, error-prone, and rarely fast enough to keep up with new vulnerabilities. Why disruptive? We all know that every time a maintenance window comes along, Bob from accounting will remind everyone how "the company's IT is going to mess up our week
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google provides rules to detect tens of cracked versions of Cobalt Strike<a href="https://securityaffairs.co/wordpress/138795/hacking/google-cobalt-strike-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Google Cloud identified 34 different hacked release versions of the Cobalt Strike tool in the wild.
+
+
+
+Cobalt Strike is a paid penetration testing product that allows an attacker to deploy an agent named 'Beacon' on the victim machine....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $300,000 in DraftKings credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-300-000-in-draftkings-credential-stuffing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports betting company DraftKings said today that it would make whole customers affected by a credential stuffing attack that led to losses of up to $300,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Preta Targets Multiple Sectors With Large-Scale Spear-Phishing<a href="https://cyware.com/news/earth-preta-targets-multiple-sectors-with-large-scale-spear-phishing-ce639109"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trend Micro researchers, Earth Preta is targeting government, academic, foundations, and research sectors in Myanmar, Australia, the Philippines, Japan, Taiwan, and other Asia Pacific countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Wins Lawsuit Against Russians Linked to Blockchain-based Glupteba Botnet<a href="https://thehackernews.com/2022/11/google-wins-lawsuit-against-russians.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has won a lawsuit filed against two Russian nationals in connection with the operation of a botnet called Glupteba , the company  said  last week.  The U.S. District Court for the Southern District of New York imposed monetary sanctions against the defendants and their U.S.-based legal counsel. The defendants have also been asked to pay Google's attorney fees. The defendants' move to press sanctions against Google was denied.  The development comes nearly a year after the tech giant  took down  the malware's command-and-control infrastructure and initiated legal proceedings against Dmitry Starovikov  and Alexander Filippov , who are said to have been in charge of running the illegal botnet.   The defendants, along with 15 others, have also been accused of using the malware to create a hacked network of devices to mine cryptocurrencies, harvest victims' personal and financial data, and place disruptive ads.  Gluteba is distinguished from its botnet counterparts b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Octocrypt, Alice, and AXLocker Ransomware, new threats in the wild<a href="https://securityaffairs.co/wordpress/138783/malware/octocrypt-alice-axlocker-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts from Cyble Research and Intelligence Labs (CRIL) discovered three new ransomware families: AXLocker, Octocrypt, and Alice Ransomware.
+
+
+
+Threat intelligence firm Cyble announced the discovery of three new ransomware families named AXLocker, Octocrypt,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday deal: 50% off Malwarebytes Premium + Privacy VPN bundle<a href="https://www.bleepingcomputer.com/news/security/black-friday-deal-50-percent-off-malwarebytes-premium-plus-privacy-vpn-bundle/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes' Black Friday deal is now live, offering a 50% discount on the Malwarebytes Premium antivirus + Malwarebytes Privacy VPN bundle until November 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft outlines tactics to prevent attackers from dodging multi-factor authentication<a href="https://www.zdnet.com/article/microsoft-hackers-are-using-this-concerning-tactic-to-dodge-multi-factor-authentication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has outlined several mitigations to protect against attacks on multi-factor authentication that will unfortunately make life more difficult for your remote workers.
+</details>
+<div style="text-align: right" markdown="1">
+ZDNet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Identifies 34 Cracked Versions of Popular Cobalt Strike Hacking Toolkit in the Wild<a href="https://thehackernews.com/2022/11/google-identifies-34-cracked-versions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud last week disclosed that it identified 34 different hacked release versions of the Cobalt Strike tool in the wild, the earliest of which  shipped  in November 2012.  The versions, spanning 1.44 to 4.7, add up to a total of 275 unique JAR files, according to findings from the Google Cloud Threat Intelligence (GCTI) team. The  latest version  of Cobalt Strike is version 4.7.2.  Cobalt Strike, developed by  Fortra  (née HelpSystems), is a popular adversarial framework used by red teams to simulate attack scenarios and test the resilience of their cyber defenses.   It comprises a Team Server that acts as the command-and-control (C2) hub to remotely commandeer infected devices and a stager that's designed to deliver a next-stage payload called the Beacon, a fully-featured implant that reports back to the C2 server.   Given its wide-ranging suite of features, unauthorized versions of the software have been  increasingly   weaponized  by  many  a  threat   actor  to  advance
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome extension used to steal cryptocurrency, passwords<a href="https://www.bleepingcomputer.com/news/security/google-chrome-extension-used-to-steal-cryptocurrency-passwords/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An information-stealing Google Chrome browser extension named 'VenomSoftX'  is being deployed by Windows malware to steal cryptocurrency and clipboard contents as users browse the web.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Code Published for High-Severity macOS Sandbox Escape Vulnerability<a href="https://www.securityweek.com/poc-code-published-high-severity-macos-sandbox-escape-vulnerability?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-26696 (CVSS score of 7.8), the security defect was identified and reported last year, with a patch available since the release of macOS Monterey 12.4 in May.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google releases 165 YARA rules to detect Cobalt Strike attacks<a href="https://www.bleepingcomputer.com/news/security/google-releases-165-yara-rules-to-detect-cobalt-strike-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Google Cloud Threat Intelligence team has open-sourced YARA Rules and a VirusTotal Collection of indicators of compromise (IOCs) to help defenders detect Cobalt Strike components in their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The pros and cons of using open-source Kubernetes security software<a href="https://www.helpnetsecurity.com/2022/11/21/open-source-kubernetes-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a survey by ARMO, 55% of respondents said they used at least some open-source tools to keep their Kubernetes clusters safe; this includes those who use purely open-source and those who mix open-source and proprietary solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apps with over 3 million installs leak 'Admin' search API keys<a href="https://www.bleepingcomputer.com/news/security/apps-with-over-3-million-installs-leak-admin-search-api-keys/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered 1,550 mobile apps leaking Algolia API keys, risking the exposure of sensitive internal services and stored user information.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 20, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
