@@ -34,6 +34,378 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donut extortion group also targets victims with ransomware<a href="https://www.bleepingcomputer.com/news/security/donut-extortion-group-also-targets-victims-with-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Donut (D0nut) extortion group has been confirmed to deploy ransomware in double-extortion attacks on the enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Botnet Turned InfoStealer Aurora Gaining Traction Among Threat Actors<a href="https://cyware.com/news/botnet-turned-infostealer-aurora-gaining-traction-among-threat-actors-2db2171d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aurora is a Golang-based info-stealer, which runs several commands upon execution through WMIC to collect basic host information, snaps a desktop image, and exfiltrates data to the C2 server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Malware Installs Malicious Browser Extensions to Steal Users' Passwords and Cryptos<a href="https://thehackernews.com/2022/11/this-malware-installs-malicious-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious extension for Chromium-based web browsers has been observed to be distributed via a long-standing Windows information stealer called ViperSoftX .  Czech-based cybersecurity company dubbed the rogue browser add-on VenomSoftX owing to its standalone features that enable it to access website visits, steal credentials and clipboard data, and even swap cryptocurrency addresses via an adversary-in-the-middle (AiTM) attack.  ViperSoftX, which first  came to light  in February 2020, was characterized by  Fortinet  as a JavaScript-based remote access trojan and cryptocurrency stealer. The malware's use of a browser extension to advance its information-gathering goals was documented by Sophos threat analyst  Colin Cowie  earlier this year.   "This multi-stage stealer exhibits interesting hiding capabilities, concealed as small PowerShell scripts on a single line in the middle of otherwise innocent-looking large log files, among others," Avast researcher Jan Rubín  said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 API Vulnerabilities That Get Exploited by Criminals<a href="https://securityaffairs.co/wordpress/138879/security/5-api-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's give a look at API vulnerabilities by reading the API Security Top 10 published by the Open Web Application Security Project (OWASP).
+
+
+
+It’s no secret that cyber security has become a leading priority for most organizations — especially those...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers breach energy orgs via bugs in discontinued web server<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-energy-orgs-via-bugs-in-discontinued-web-server/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said today that security vulnerabilities found to impact a web server discontinued since 2005 have been used to target and compromise organizations in the energy sector.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Impersonate Reputed Brands Ahead of Holiday Season<a href="https://cyware.com/news/attackers-impersonate-reputed-brands-ahead-of-holiday-season-2f8c67fb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers observed a malicious phishing email campaign designed to target users looking for the Black Friday sale. A massive surge in TrojanOrders attacks was also reported.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Cyber Criminals Using Go-based Aurora Stealer Malware<a href="https://thehackernews.com/2022/11/researchers-warn-of-cyber-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent Go-based malware known as Aurora Stealer is being increasingly deployed as part of campaigns designed to steal sensitive information from compromised hosts.  "These infection chains leveraged phishing pages impersonating download pages of legitimate software, including cryptocurrency wallets or remote access tools, and the 911 method making use of YouTube videos and SEO-poised fake cracked software download websites," cybersecurity firm SEKOIA  said .  First advertised on Russian cybercrime forums in April 2022, Aurora was offered as a commodity malware for other threat actors, describing it as a "multi-purpose botnet with stealing, downloading and remote access capabilities."   In the intervening months, the malware has been scaled down to a stealer that can harvest files of interest, data from 40 cryptocurrency wallets, and applications like Telegram.  Aurora also comes with a loader that can deploy a next-stage payloading using a PowerShell command.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher warns that Cisco Secure Email Gateways can easily be circumvented<a href="https://securityaffairs.co/wordpress/138859/security/cisco-secure-email-gateways-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher revealed how to bypass some of the filters in Cisco Secure Email Gateway appliance and deliver malware using specially crafted emails.
+
+
+
+An anonymous researcher publicly disclosed a series of techniques to bypass some of the filters in Cisco...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android file manager apps infect thousands with Sharkbot malware<a href="https://www.bleepingcomputer.com/news/security/android-file-manager-apps-infect-thousands-with-sharkbot-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new collection of malicious Android apps posing as harmless file managers had infiltrated the official Google Play app store, infecting users with the Sharkbot banking trojan.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnam-Based Ducktail Cybercrime Operation Evolving, Expanding<a href="https://www.securityweek.com/vietnam-based-ducktail-cybercrime-operation-evolving-expanding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ducktail information stealer has been updated with new capabilities and the threat actors that use it have been expanding their operation, according to WithSecure, formerly known as F-Secure Business.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's How to Ensure Your Incident Response Strategy is Ready for Holiday Hackers<a href="https://thehackernews.com/2022/11/heres-how-to-ensure-your-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The best line of defense against holiday hacking schemes is a comprehensive  incident response strategy  that focuses on end-user vulnerabilities.   The holiday season is upon us and with it a slew of cybersecurity scams preying on end-user vulnerabilities.  Because employees often use their business emails and cell phones as their primary point of contact, these scams quickly become a threat to employer computer systems. With so many people shopping online, tracking shipments, and entering sensitive data across multiple websites, holiday hackers are primed and ready to attack your networks by taking advantage of your employees' online actions and cell phone usage.  According to the FBI, the two most frequent types of  holiday scams  include non-delivery and non-payment crimes – when a consumer either pays for a product or service that is never delivered or products being shipped without the seller receiving payment. Cybercriminals are also keen on gift card fraud and auction fraud, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aurora Stealer Malware is becoming a prominent threat in the cybercrime ecosystem<a href="https://securityaffairs.co/wordpress/138851/malware/aurora-stealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of threat actors employing a new Go-based malware dubbed Aurora Stealer in attacks in the wild.
+
+
+
+Aurora Stealer is an info-stealing malware that was first advertised on Russian-speaking underground forums in April 2022. Aurora was offered...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BMC Firmware Vulnerabilities Expose OT, IoT Devices to Remote Attacks<a href="https://www.securityweek.com/bmc-firmware-vulnerabilities-expose-ot-iot-devices-remote-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The firmware running on the affected card is based on BMC remote management firmware from AMI, which is used by tech giants such as Asus, Dell, HP, Lenovo, Gigabyte, and Nvidia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luna Moth Gang Invests in Call Centers to Target Businesses with Callback Phishing Campaigns<a href="https://thehackernews.com/2022/11/luna-moth-gang-invests-in-call-centers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Luna Moth campaign has extorted hundreds of thousands of dollars from several victims in the legal and retail sectors.  The attacks are notable for employing a technique called  callback phishing  or telephone-oriented attack delivery ( TOAD ), wherein the victims are social engineered into making a phone call through phishing emails containing invoices and subscription-themed lures.  Palo Alto Networks Unit 42 said the attacks are the "product of a single highly organized campaign," adding, "this threat actor has significantly invested in call centers and infrastructure that's unique to each victim."  The cybersecurity firm  described  the activity as a "pervasive multi-month campaign that is actively evolving."   What's notable about callback phishing is that the email messages are completely devoid of any malicious attachment or booby-trapped link, allowing them to evade detection and slip past email protection solutions.  These messages ty
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Estonian citizens arrested in $575M cryptocurrency fraud scheme<a href="https://securityaffairs.co/wordpress/138823/cyber-crime/estonian-575m-cryptocurrency-fraud-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Estonian citizens were arrested in Tallinn for allegedly running a $575 million cryptocurrency fraud scheme. 
+
+
+
+Two Estonian nationals were arrested in Tallinn, Estonia, after being indicted in the US for running a fraudulent cryptocurrency Ponzi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nighthawk: An Up-and-Coming Pentest Tool Likely to Gain Threat Actor Notice<a href="https://www.proofpoint.com/us/blog/threat-insight/nighthawk-and-coming-pentest-tool-likely-gain-threat-actor-notice?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers expect Nighthawk will show up in threat actor campaigns as the tool becomes more widely recognized or as threat actors search for new, more capable tools to use against targets.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Seize Domains Used in 'Pig butchering' Cryptocurrency Scams<a href="https://thehackernews.com/2022/11/us-authorities-seize-domains-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Monday  announced  the takedown of seven domain names in connection to a "pig butchering" cryptocurrency scam. The fraudulent scheme, which operated from May to August 2022, netted the actors over $10 million from five victims, the DoJ said.  Pig butchering, also called Sha Zhu Pan, is a type of scam in which swindlers lure unsuspecting investors into sending their crypto assets. The criminals encounter potential victims on dating apps, social media sites, and SMS messages.  These individuals initiate fake relationships in an attempt to build trust, only to trick them into making a cryptocurrency investment on a bogus platform.   "Once the money is sent to the fake investment app, the scammer vanishes, taking all the money with them, often resulting in significant losses for the victim," the DoJ said.  The seven seized portals all mimicked the Singapore International Monetary Exchange (SIMEX), the agency pointed out.  But once t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet is back and delivers payloads like IcedID and Bumblebee<a href="https://securityaffairs.co/wordpress/138824/cyber-crime/emotet-is-back-nov-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware is back and experts warn of a high-volume malspam campaign delivering payloads like IcedID and Bumblebee.
+
+
+
+Proofpoint researchers warn of the return of the Emotet malware, in early November the experts observed a high-volume malspam...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesco Gift Card scam explained<a href="https://cyberwarzone.com/tesco-gift-card-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this scam campaign, the scammers are trying to victimize visitors by claiming that they can receive a 100, 200, 400, or 500 dollar Tesco gift card by simply following some instructions which are given on the scam website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberwarzone
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+33 Attorneys General Send Letter to FTC on Commercial Surveillance Rules<a href="https://www.securityweek.com/33-attorneys-general-send-letter-ftc-commercial-surveillance-rules?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attorneys general in 33 US states are urging the Federal Trade Commission (FTC) to take into consideration consumer risks as it looks into creating rules to crack down on commercial surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Xi Jinping leveled-up China's hacking teams<a href="https://www.cyberscoop.com/china-hacking-talent-xi-jinping-education-policies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year after coming to power in 2013, Xi began to prioritize cybersecurity as a matter of government policy, focusing the bureaucracy, universities, and security services on purposefully cultivating talent and funding cybersecurity research.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Friday deal: Get 50% off Malwarebytes Premium, Privacy VPN<a href="https://www.bleepingcomputer.com/news/security/black-friday-deal-get-50-percent-off-malwarebytes-premium-privacy-vpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes' Black Friday deal is now live, offering a 50% discount on the Malwarebytes Premium antivirus + Malwarebytes Privacy VPN bundle until November 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

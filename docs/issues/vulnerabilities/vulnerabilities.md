@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 API Vulnerabilities That Get Exploited by Criminals<a href="https://securityaffairs.co/wordpress/138879/security/5-api-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's give a look at API vulnerabilities by reading the API Security Top 10 published by the Open Web Application Security Project (OWASP).
+
+
+
+It’s no secret that cyber security has become a leading priority for most organizations — especially those...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher warns that Cisco Secure Email Gateways can easily be circumvented<a href="https://securityaffairs.co/wordpress/138859/security/cisco-secure-email-gateways-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher revealed how to bypass some of the filters in Cisco Secure Email Gateway appliance and deliver malware using specially crafted emails.
+
+
+
+An anonymous researcher publicly disclosed a series of techniques to bypass some of the filters in Cisco...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BMC Firmware Vulnerabilities Expose OT, IoT Devices to Remote Attacks<a href="https://www.securityweek.com/bmc-firmware-vulnerabilities-expose-ot-iot-devices-remote-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The firmware running on the affected card is based on BMC remote management firmware from AMI, which is used by tech giants such as Asus, Dell, HP, Lenovo, Gigabyte, and Nvidia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

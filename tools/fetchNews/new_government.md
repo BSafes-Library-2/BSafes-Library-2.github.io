@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Xi Jinping leveled-up China's hacking teams<a href="https://www.cyberscoop.com/china-hacking-talent-xi-jinping-education-policies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A year after coming to power in 2013, Xi began to prioritize cybersecurity as a matter of government policy, focusing the bureaucracy, universities, and security services on purposefully cultivating talent and funding cybersecurity research.
+</details>
+<div style="text-align: right" markdown="1">
+CyberScoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

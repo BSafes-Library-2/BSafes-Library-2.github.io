@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's How to Ensure Your Incident Response Strategy is Ready for Holiday Hackers<a href="https://thehackernews.com/2022/11/heres-how-to-ensure-your-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The best line of defense against holiday hacking schemes is a comprehensive&nbsp; incident response strategy &nbsp;that focuses on end-user vulnerabilities.&nbsp;  The holiday season is upon us and with it a slew of cybersecurity scams preying on end-user vulnerabilities.  Because employees often use their business emails and cell phones as their primary point of contact, these scams quickly become a threat to employer computer systems. With so many people shopping online, tracking shipments, and entering sensitive data across multiple websites, holiday hackers are primed and ready to attack your networks by taking advantage of your employees' online actions and cell phone usage.  According to the FBI, the two most frequent types of&nbsp; holiday scams &nbsp;include non-delivery and non-payment crimes – when a consumer either pays for a product or service that is never delivered or products being shipped without the seller receiving payment. Cybercriminals are also keen on gift card fraud and auction fraud, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

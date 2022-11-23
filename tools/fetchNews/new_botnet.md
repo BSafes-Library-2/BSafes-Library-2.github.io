@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Botnet Turned InfoStealer Aurora Gaining Traction Among Threat Actors<a href="https://cyware.com/news/botnet-turned-infostealer-aurora-gaining-traction-among-threat-actors-2db2171d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aurora is a Golang-based info-stealer, which runs several commands upon execution through WMIC to collect basic host information, snaps a desktop image, and exfiltrates data to the C2 server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

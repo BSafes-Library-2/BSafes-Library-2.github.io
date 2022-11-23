@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+33 Attorneys General Send Letter to FTC on Commercial Surveillance Rules<a href="https://www.securityweek.com/33-attorneys-general-send-letter-ftc-commercial-surveillance-rules?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attorneys general in 33 US states are urging the Federal Trade Commission (FTC) to take into consideration consumer risks as it looks into creating rules to crack down on commercial surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

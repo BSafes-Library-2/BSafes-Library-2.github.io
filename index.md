@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Donut extortion group also targets victims with ransomware<a href="https://www.bleepingcomputer.com/news/security/donut-extortion-group-also-targets-victims-with-ransomware/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Botnet Turned InfoStealer Aurora Gaining Traction Among Threat Actors<a href="https://cyware.com/news/botnet-turned-infostealer-aurora-gaining-traction-among-threat-actors-2db2171d"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Malware Installs Malicious Browser Extensions to Steal Users' Passwords and Cryptos<a href="https://thehackernews.com/2022/11/this-malware-installs-malicious-browser.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 API Vulnerabilities That Get Exploited by Criminals<a href="https://securityaffairs.co/wordpress/138879/security/5-api-vulnerabilities.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers breach energy orgs via bugs in discontinued web server<a href="https://www.bleepingcomputer.com/news/security/hackers-breach-energy-orgs-via-bugs-in-discontinued-web-server/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Impersonate Reputed Brands Ahead of Holiday Season<a href="https://cyware.com/news/attackers-impersonate-reputed-brands-ahead-of-holiday-season-2f8c67fb"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Cyber Criminals Using Go-based Aurora Stealer Malware<a href="https://thehackernews.com/2022/11/researchers-warn-of-cyber-criminals.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher warns that Cisco Secure Email Gateways can easily be circumvented<a href="https://securityaffairs.co/wordpress/138859/security/cisco-secure-email-gateways-bypass.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android file manager apps infect thousands with Sharkbot malware<a href="https://www.bleepingcomputer.com/news/security/android-file-manager-apps-infect-thousands-with-sharkbot-malware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnam-Based Ducktail Cybercrime Operation Evolving, Expanding<a href="https://www.securityweek.com/vietnam-based-ducktail-cybercrime-operation-evolving-expanding?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here's How to Ensure Your Incident Response Strategy is Ready for Holiday Hackers<a href="https://thehackernews.com/2022/11/heres-how-to-ensure-your-incident.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aurora Stealer Malware is becoming a prominent threat in the cybercrime ecosystem<a href="https://securityaffairs.co/wordpress/138851/malware/aurora-stealer-malware.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BMC Firmware Vulnerabilities Expose OT, IoT Devices to Remote Attacks<a href="https://www.securityweek.com/bmc-firmware-vulnerabilities-expose-ot-iot-devices-remote-attacks?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Luna Moth Gang Invests in Call Centers to Target Businesses with Callback Phishing Campaigns<a href="https://thehackernews.com/2022/11/luna-moth-gang-invests-in-call-centers.html"> Full Text</a>
@@ -270,7 +270,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Estonian citizens arrested in $575M cryptocurrency fraud scheme<a href="https://securityaffairs.co/wordpress/138823/cyber-crime/estonian-575m-cryptocurrency-fraud-scheme.html"> Full Text</a>
@@ -290,7 +290,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nighthawk: An Up-and-Coming Pentest Tool Likely to Gain Threat Actor Notice<a href="https://www.proofpoint.com/us/blog/threat-insight/nighthawk-and-coming-pentest-tool-likely-gain-threat-actor-notice?&web_view=true"> Full Text</a>
@@ -306,7 +306,7 @@ Proof Point
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Authorities Seize Domains Used in 'Pig butchering' Cryptocurrency Scams<a href="https://thehackernews.com/2022/11/us-authorities-seize-domains-used-in.html"> Full Text</a>
@@ -322,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet is back and delivers payloads like IcedID and Bumblebee<a href="https://securityaffairs.co/wordpress/138824/cyber-crime/emotet-is-back-nov-2022.html"> Full Text</a>
@@ -342,7 +342,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tesco Gift Card scam explained<a href="https://cyberwarzone.com/tesco-gift-card-scam/?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Cyberwarzone
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 33 Attorneys General Send Letter to FTC on Commercial Surveillance Rules<a href="https://www.securityweek.com/33-attorneys-general-send-letter-ftc-commercial-surveillance-rules?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2022
+November 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Xi Jinping leveled-up China's hacking teams<a href="https://www.cyberscoop.com/china-hacking-talent-xi-jinping-education-policies/?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ CyberScoop
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2022
+November 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Friday deal: Get 50% off Malwarebytes Premium, Privacy VPN<a href="https://www.bleepingcomputer.com/news/security/black-friday-deal-get-50-percent-off-malwarebytes-premium-privacy-vpn/"> Full Text</a>

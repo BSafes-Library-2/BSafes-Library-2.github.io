@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google releases 165 YARA rules to detect Cobalt Strike attacks<a href="https://www.bleepingcomputer.com/news/security/google-releases-165-yara-rules-to-detect-cobalt-strike-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Google Cloud Threat Intelligence team has open-sourced YARA Rules and a VirusTotal Collection of indicators of compromise (IOCs) to help defenders detect Cobalt Strike components in their networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

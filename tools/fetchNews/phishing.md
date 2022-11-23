@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of Luna Moth Callback Phishing Campaign<a href="https://unit42.paloaltonetworks.com/luna-moth-callback-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign, attackers use legitimate and trusted systems management tools to interact directly with a victim’s computer, to manually exfiltrate data to be used for extortion.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Preta Targets Multiple Sectors With Large-Scale Spear-Phishing<a href="https://cyware.com/news/earth-preta-targets-multiple-sectors-with-large-scale-spear-phishing-ce639109"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trend Micro researchers, Earth Preta is targeting government, academic, foundations, and research sectors in Myanmar, Australia, the Philippines, Japan, Taiwan, and other Asia Pacific countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

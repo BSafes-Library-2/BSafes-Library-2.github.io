@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Seize Domains Used in 'Pig butchering' Cryptocurrency Scams<a href="https://thehackernews.com/2022/11/us-authorities-seize-domains-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Monday&nbsp; announced &nbsp;the takedown of seven domain names in connection to a "pig butchering" cryptocurrency scam. The fraudulent scheme, which operated from May to August 2022, netted the actors over $10 million from five victims, the DoJ said.  Pig butchering, also called Sha Zhu Pan, is a type of scam in which swindlers lure unsuspecting investors into sending their crypto assets. The criminals encounter potential victims on dating apps, social media sites, and SMS messages.  These individuals initiate fake relationships in an attempt to build trust, only to trick them into making a cryptocurrency investment on a bogus platform.   "Once the money is sent to the fake investment app, the scammer vanishes, taking all the money with them, often resulting in significant losses for the victim," the DoJ said.  The seven seized portals all mimicked the Singapore International Monetary Exchange (SIMEX), the agency pointed out.  But once t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

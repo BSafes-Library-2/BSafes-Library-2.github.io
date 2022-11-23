@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-0569 Group Switches Tactics, Abuses Google Ads to Deliver Payloads<a href="https://cyware.com/news/dev-0569-group-switches-tactics-abuses-google-ads-to-deliver-payloads-c5f289b3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DEV-0569 uses a malware downloader, BatLoader, that drops the next stage payloads (via PowerShell commands), including Royal ransomware and Cobalt Strike Beacon implant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers bypass Coinbase and MetaMask 2FA via TeamViewer, fake support chat<a href="https://www.bleepingcomputer.com/news/security/attackers-bypass-coinbase-and-metamask-2fa-via-teamviewer-fake-support-chat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crypto-stealing phishing campaign is underway to bypass multi-factor authentication and gain access to accounts on Coinbase, MetaMask, Crypto.com, and KuCoin&nbsp;and steal cryptocurrency.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

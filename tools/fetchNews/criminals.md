@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Estonians arrested for running $575M crypto Ponzi scheme<a href="https://www.bleepingcomputer.com/news/security/two-estonians-arrested-for-running-575m-crypto-ponzi-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Estonian nationals were arrested&nbsp;in Tallinn, Estonia, on Sunday after being indicted in the U.S.&nbsp;for running a massive cryptocurrency Ponzi scheme that led to losses of more than&nbsp;$575 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daixin Ransomware Gang Steals 5 Million AirAsia Passengers' and Employees' Data<a href="https://thehackernews.com/2022/11/daixin-ransomware-gang-steals-5-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime group called Daixin Team  has leaked sample data belonging to AirAsia, a Malaysian low-cost airline, on its data leak portal.  The development comes a little over a week after the company fell victim to a ransomware attack on November 11 and 12, per&nbsp; DataBreaches.net .   The threat actors allegedly claim to have obtained the personal data associated with five million unique passengers and all of its employees.  The samples uploaded to the leak site reveal passenger information and the booking IDs as well as personal data related to the company's staff.   A spokesperson for the threat actor told DataBreaches.net that further attacks were not pursued owing to AirAsia's poor security measures and "the chaotic organization of the network."  Daixin Team was recently the subject of an&nbsp; advisory &nbsp;from the U.S. cybersecurity and intelligence agencies, which warned of attacks mainly aimed at the healthcare sector.  Other victims of the criminal group include Fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $300,000 in DraftKings credential stuffing attack<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-300-000-in-draftkings-credential-stuffing-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports betting&nbsp;company DraftKings&nbsp;said today that it would make whole customers affected by a credential stuffing attack that led to losses of up to $300,000.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

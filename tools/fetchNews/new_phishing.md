@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Impersonate Reputed Brands Ahead of Holiday Season<a href="https://cyware.com/news/attackers-impersonate-reputed-brands-ahead-of-holiday-season-2f8c67fb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point researchers observed a malicious phishing email campaign designed to target users looking for the Black Friday sale.&nbsp;A massive surge in TrojanOrders attacks was also reported.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesco Gift Card scam explained<a href="https://cyberwarzone.com/tesco-gift-card-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this scam campaign, the scammers are trying to victimize visitors by claiming that they can receive a 100, 200, 400, or 500 dollar Tesco gift card by simply following some instructions which are given on the scam website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyberwarzone
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
