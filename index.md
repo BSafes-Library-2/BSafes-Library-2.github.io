@@ -34,6 +34,511 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get 50% off Emsisoft Anti-Malware Home through Cyber Monday<a href="https://www.bleepingcomputer.com/news/security/get-50-percent-off-emsisoft-anti-malware-home-through-cyber-monday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft's Black Friday through Cyber Monday deal is now live with 50% off Emsisoft Anti-Malware Home 1-year licenses for 1, 3, or 5 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomExx Ransomware Upgraded in Rust<a href="https://cyware.com/news/ransomexx-ransomware-upgraded-in-rust-c8f0517f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomExx is a ransomware that emerged first in 2018 under the name Defray. Since then, the malware has undergone multiple changes, with the latest updates being added in Rust language.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+34 Russian Cybercrime Groups Stole Over 50 Million Passwords with Stealer Malware<a href="https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 34 Russian-speaking gangs distributing information-stealing malware under the stealer-as-a-service model stole no fewer than 50 million passwords in the first seven months of 2022.  "The underground market value of stolen logs and compromised card details is estimated around $5.8 million," Singapore-headquartered Group-IB  said  in a report shared with The Hacker News.  Aside from looting passwords, the stealers also harvested 2.11 billion cookie files, 113,204 crypto wallets, and 103,150 payment cards.  A majority of the victims are located in the U.S., followed by Brazil, India, Germany, Indonesia, the Philippines, France, Turkey, Vietnam, and Italy. In total, 890,000 devices in 111 countries were infected during the time frame.   Group-IB said the members of several scam groups who are propagating the information stealers previously participated in the  Classiscam  operation.   These groups, which are active on Telegram and have around 200 members on average, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian group Killnet claims responsibility for DDoS attack that has taken down the European Parliament site<a href="https://securityaffairs.co/wordpress/138906/hacktivism/killnet-ddos-european-parliament.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacker collective Killnet took down the European Parliament website with a DDoS cyberattack.
+
+
+
+The Pro-Russia group of hacktivists Killnet claimed responsibility for the DDoS attack that today took down the website of the European Parliament...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta links U.S. military with covert Facebook influence operation<a href="https://www.bleepingcomputer.com/news/security/meta-links-us-military-with-covert-facebook-influence-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has removed several accounts on Facebook and Instagram associated with the U.S. military, saying they were used as part of covert influence operations targeting the Middle East and Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal data of nearly 4,000 people leaked in hack of Radio Free Asia<a href="https://therecord.media/personal-data-of-nearly-4000-people-leaked-in-hack-of-radio-free-asia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Radio Free Asia, a U.S. government-sponsored news outlet, announced a breach this week that affected almost 4,000 people – leaking troves of personal information including Social Security and passport numbers, as well as financial data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail Malware Operation Evolves with New Malicious Capabilities<a href="https://thehackernews.com/2022/11/ducktail-malware-operation-evolves-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the Ducktail information stealer have demonstrated a "relentless willingness to persist" and continued to update their malware as part of an ongoing financially driven campaign.  "The malware is designed to steal browser cookies and take advantage of authenticated Facebook sessions to steal information from the victim's Facebook account," WithSecure researcher Mohammad Kazem Hassan Nejad  said  in a new analysis.  "The operation ultimately hijacks Facebook Business accounts to which the victim has sufficient access. The threat actor uses their gained access to run ads for monetary gain."   Attributed to a Vietnamese threat actor, the Ducktail campaign is designed to target businesses in the digital marketing and advertising sectors which are active on the Facebook Ads and Business platform.  Also targeted are individuals within prospective companies that are likely to have high-level access to Facebook Business accounts. This includes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail information stealer continues to evolve<a href="https://securityaffairs.co/wordpress/138894/cyber-crime/ducktail-information-stealer-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the Ducktail information stealer continue to improve their malicious code, operators experts warn.
+
+
+
+In late July 2022, researchers from WithSecure (formerly F-Secure Business) discovered an ongoing operation, named DUCKTAIL, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake MSI Afterburner targets Windows gamers with miners, info-stealers<a href="https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows gamers and power users are being targeted by fake MSI Afterburner download portals to infect users with cryptocurrency miners and the RedLine information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donut Leaks Now Targets Victims With Its Own Custom Ransomware Tool<a href="https://cyware.com/news/donut-leaks-now-targets-victims-with-its-own-custom-ransomware-tool-488425bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer researchers have found new samples of an encryptor for Donut ransomware and confirmed that it is using its own customized ransomware in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Cyber Threats Facing E-Commerce Sites This Holiday Season<a href="https://thehackernews.com/2022/11/top-cyber-threats-facing-e-commerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delivering a superior customer experience is essential for any e-commerce business. For those companies, there's a lot at stake this holiday season. According to Digital Commerce 360, nearly $1.00 of every $4.00 spent on retail purchases during the 2022 holiday season will be spent online, resulting in $224 billion in e-commerce sales. To ensure your e-commerce site is ready for the holiday rush, it's vital to ensure it is secure.   While safety and security are top priorities for businesses of all sizes, it is essential for those who operate in the e-commerce space. To deliver the experience customers crave, many websites embed third-party solutions at every stage of the customer journey. In fact, for certain e-commerce businesses, their suite of third-party plugins is how they create and sustain a competitive advantage.   Yet many e-commerce sites are inherently insecure and vulnerable to attack due to their reliance on untrustworthy third-party solutions. Consequently,  cli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts claim that iPhone’s analytics data is not anonymous<a href="https://securityaffairs.co/wordpress/138884/digital-id/iphone-found-collecting-personal-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that analytics data associated with iPhone include Directory Services Identifier (DSID) that could allow identifying users.
+
+
+
+Researchers at software company Mysk discovered that analytics data collected by iPhone include the Directory...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hacktivists take down EU Parliament site in DDoS attack<a href="https://www.bleepingcomputer.com/news/security/pro-russian-hacktivists-take-down-eu-parliament-site-in-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website of the European Parliament has been taken down following a DDoS (Distributed Denial of Service) attack claimed by Anonymous Russia, part of the pro-Russian hacktivist group Killnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers Killnet launch multiple attacks on UK websites<a href="https://www.express.co.uk/news/uk/1699778/Killnet-hackers-Russia-war-UK-websites-Royal-Family-latest-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacking outfit has claimed to have taken down the website of the Prince of Wales over the UK's continued support for Ukraine. Killnet said it had launched the attack "due to the supply of high-precision missiles to Ukraine".
+</details>
+<div style="text-align: right" markdown="1">
+Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Abandoned Boa Web Servers to Target Critical Industries<a href="https://thehackernews.com/2022/11/hackers-exploiting-abandoned-boa-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed the intrusion activity aimed at Indian power grid entities earlier this year likely involved the exploitation of security flaws in a now-discontinued web server called Boa .  The tech behemoth's cybersecurity division  said  the vulnerable component poses a "supply chain risk that may affect millions of organizations and devices."  The findings build on a prior report  published  by Recorded Future in April 2022, which delved into a sustained campaign orchestrated by suspected China-linked adversaries to strike critical infrastructure organizations in India.  The cybersecurity firm attributed the attacks to a previously undocumented threat cluster called Threat Activity Group 38. While the Indian government described the attacks as unsuccessful "probing attempts," China denied it was behind the campaign.   The connections to China stem from the use of a modular backdoor dubbed  ShadowPad , which is known to be shared among several
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases out-of-band update to fix Kerberos auth issues caused by a patch for CVE-2022-37966<a href="https://securityaffairs.co/wordpress/138869/security/out-of-band-fix-kerberos-issues.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an out-of-band update to fix problems tied to a recent Windows security patch that caused Kerberos authentication issues.
+
+
+
+Microsoft released an out-of-band update to address issues caused by a recent Windows security patch that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Black Friday 2022 Security, IT, VPN, & Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-black-friday-2022-security-it-vpn-and-antivirus-deals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Friday is almost here, and great deals are already live today for computer security, software, online courses, system admin services, antivirus, and VPN software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Strikes Back On Misuse of Cobalt Strike - YARA Rules Released<a href="https://cyware.com/news/google-strikes-back-on-misuse-of-cobalt-strike-yara-rules-released-1bdcc7cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud team identified 34 different hacked releases of Cobalt Strike in the wild. Researchers have found the versions of Cobalt Strike JAR files starting with 1.44 (circa 2012) up to the latest version, 4.7.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Takes Down Fake Facebook and Instagram Accounts Linked to Pro-U.S. Influence Operation<a href="https://thehackernews.com/2022/11/meta-takes-down-fake-facebook-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Tuesday said it took down a network of accounts and pages across Facebook and Instagram that were operated by people associated with the U.S. military to spread narratives that depicted the country in a favorable light in the Middle East and Central Asia.  The network, which originated from the U.S., primarily singled out Afghanistan, Algeria, Iran, Iraq, Kazakhstan, Kyrgyzstan, Russia, Somalia, Syria, Tajikistan, Uzbekistan, and Yemen.  The social media giant stated the individuals behind the activity impersonated the communities they targeted, propagating content in Arabic, Farsi, and Russian that floated themes of increased military cooperation with the U.S., and criticized Iran, China, and Russia.  These narratives spanned "Russia's invasion of Ukraine, China's treatment of the Uyghur people, Iran's influence in the Middle East, and the support of the Taliban regime in Afghanistan by Russia and China," Meta  said  in its Quarterly Adversaria
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive – Quantum Locker lands in the Cloud<a href="https://securityaffairs.co/wordpress/138873/cyber-crime/quantum-locker-lands-in-the-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang behind Quantum Locker used a particular modus operandi to target large enterprises relying on cloud services in the NACE region.
+
+
+
+Executive Summary
+
+
+
+
+Quantum Locker gang demonstrated capabilities to operate ransomware extortion even on cloud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mali GPU ‘patch gap’ leaves Android users vulnerable to attacks<a href="https://www.bleepingcomputer.com/news/security/mali-gpu-patch-gap-leaves-android-users-vulnerable-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of five exploitable vulnerabilities in Arm's Mali GPU driver remain unfixed months after the chip maker patched them, leaving potentially millions of Android devices exposed to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomExx Upgrades to Rust<a href="https://securityintelligence.com/posts/ransomexx-upgrades-rust/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomExx2 has been completely rewritten using Rust, but otherwise, its functionality is similar to its C++ predecessor. It requires a list of target directories to encrypt to be passed as command line parameters and then encrypts files with AES-256.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nighthawk Likely to Become Hackers' New Post-Exploitation Tool After Cobalt Strike<a href="https://thehackernews.com/2022/11/nighthawk-likely-to-become-hackers-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent and legitimate penetration testing framework known as Nighthawk is likely to gain threat actors' attention for its Cobalt Strike-like capabilities.  Enterprise security firm Proofpoint said it detected the use of the software in mid-September 2022 with a number of test emails sent using generic subject lines such as "Just checking in" and "Hope this works2."  However, there are no indications that a leaked or cracked version of Nighthawk is being weaponized by threat actors in the wild, Proofpoint researcher Alexander Rausch  said  in a write-up.   Nighthawk, launched in December 2021 by a company called MDSec, is analogous to its counterparts  Cobalt Strike ,  Sliver , and  Brute Ratel , offering a red team toolset for adversary threat simulation. It's licensed for £7,500 (or $10,000) per user for a year.  "Nighthawk is the most advanced and evasive command-and-control framework available on the market," MDSec  notes . "Nighthawk i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NordVPN Black Friday deal: Up to 63% off a 27-month VPN subscription<a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-up-to-63-percent-off-a-27-month-vpn-subscription/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NordVPN's Black Friday deal is live with up to 63% off and 3 extra months for free on 1-year or 2-year subscriptions to the NordVPN VPN service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Locks Up City of Westmount Services and Takes Down Email System<a href="https://www.bankinfosecurity.com/lockbit-30-says-its-holding-canadian-city-for-ransom-a-20529?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nefarious LockBit 3.0 cybercriminal group is claiming responsibility for the ransomware attack that halted municipal services and shut down employee email accounts in Westmount, Quebec, giving the city a deadline of December 4 to pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoored Chrome extension installed by 200,000 Roblox players<a href="https://www.bleepingcomputer.com/news/security/backdoored-chrome-extension-installed-by-200-000-roblox-players/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome browser extension 'SearchBlox' installed by more than 200,000 users has been discovered to contain a backdoor that can steal your Roblox credentials as well as your assets on Rolimons, a Roblox trading platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback Technologies CBFS Filter denial-of-service vulnerabilities patched<a href="https://blog.talosintelligence.com/vulnerability-spotlight-callback-technologies-cbfs-filter-denial-of-service-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered three denial-of-service vulnerabilities in Callback Technologies CBFS Filter. A specially crafted I/O request packet (IRP) can lead to denial of service. An attacker can issue an ioctl to trigger these vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybergangs stole over 50 million passwords this year<a href="https://www.bleepingcomputer.com/news/security/russian-cybergangs-stole-over-50-million-passwords-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 34 distinct Russian-speaking cybercrime groups using info-stealing malware like Raccoon and Redline have collectively stolen 50,350,000 account passwords from over 896,000 individual infections from January to July 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarusian Hacktivist Group Claims to Breach Russia’s Internet and Media Regulator<a href="https://therecord.media/belarusian-hacktivists-claim-to-breach-russias-internet-regulator/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A unit of the Russian internet and media regulator Roskomnadzor confirmed Saturday that hackers had breached its systems after the Belarusian hacktivist group known as the Cyber Partisans claimed to attack the organization.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail hackers now use WhatsApp to phish for Facebook Ad accounts<a href="https://www.bleepingcomputer.com/news/security/ducktail-hackers-now-use-whatsapp-to-phish-for-facebook-ad-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercriminal operation tracked as Ducktail has been hijacking Facebook Business accounts causing losses of up to $600,000 in advertising credits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
