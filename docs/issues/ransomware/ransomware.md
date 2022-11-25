@@ -8,6 +8,108 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yanluowang Ransomware: The Hunter Becomes the Hunted<a href="https://cyware.com/news/yanluowang-ransomware-the-hunter-becomes-the-hunted-fc977e52"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix researchers analyzed thousands of leaked internal messages related to the Yanluowang group and revealed the group's inner workings, victims, and possible collaboration with other Russian ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RansomExx Ransomware Variant Rewritten in the Rust Programming Language<a href="https://thehackernews.com/2022/11/new-ransomexx-ransomware-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of the RansomExx ransomware have become the latest to develop a new variant fully rewritten in the Rust programming language, following other strains like&nbsp; BlackCat ,&nbsp; Hive , and&nbsp; Luna .  The latest version, dubbed RansomExx2 by the threat actor known as Hive0091 (aka DefrayX), is primarily designed to run on the Linux operating system, although it's expected that a Windows version will be released in the future.   RansomExx, also known as Defray777 and Ransom X, is a&nbsp; ransomware &nbsp; family &nbsp;that's known to be active since 2018. It has since been linked to a number of attacks on government agencies, manufacturers, and other high-profile entities like Embraer and GIGABYTE.  "Malware written in Rust often benefits from lower [antivirus] detection rates (compared to those written in more common languages) and this may have been the primary reason to use the language," IBM Security X-Force researcher Charlotte Hammond&nbsp; said &nbsp;in a report published this week.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomExx Ransomware upgrades to Rust programming language<a href="https://securityaffairs.co/wordpress/138933/malware/ransomexx-ransomware-rust-language.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomExx ransomware is the last ransomware in order of time to have a version totally written in the Rust programming language.
+
+
+
+The operators of the RansomExx ransomware (aka Defray777 and Ransom X) have developed a new variant of their malware,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WannaRen Returns as Life Ransomware, Targets India<a href="https://www.trendmicro.com/en_us/research/22/k/wannaren-returns-as-life-ransomware--targets-india.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike its previous version, this new variant dubbed Life ransomware uses a batch file to download and execute WINWORD.exe to perform DLL side-loading and load the ransomware in memory.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomExx Ransomware Upgraded in Rust<a href="https://cyware.com/news/ransomexx-ransomware-upgraded-in-rust-c8f0517f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomExx is a ransomware that emerged first in 2018 under the name Defray. Since then, the malware has undergone multiple changes, with the latest updates being added in Rust language.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donut Leaks Now Targets Victims With Its Own Custom Ransomware Tool<a href="https://cyware.com/news/donut-leaks-now-targets-victims-with-its-own-custom-ransomware-tool-488425bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BleepingComputer researchers have found new samples of an encryptor for Donut ransomware and confirmed that it is using its own customized ransomware in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomExx Upgrades to Rust<a href="https://securityintelligence.com/posts/ransomexx-upgrades-rust/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomExx2 has been completely rewritten using Rust, but otherwise, its functionality is similar to its C++ predecessor. It requires a list of target directories to encrypt to be passed as command line parameters and then encrypts files with AES-256.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

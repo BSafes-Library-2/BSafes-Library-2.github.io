@@ -8,6 +8,113 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol seized $130 million from cybercriminals worldwide<a href="https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+INTERPOL has announced the seizure of $130,000,000 million worth of money and virtual assets linked to various cybercrimes and money laundering operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. govt seizes domains used in 'pig butchering' scams<a href="https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, the U.S. Department of Justice&nbsp;seized seven domains that hosted websites linked to "pig butchering" scams, where fraudsters trick victims of romance scams into investing in cryptocurrency via fake investment platforms.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'iSpoof' service dismantled, main operator and 145 users arrested<a href="https://www.bleepingcomputer.com/news/security/ispoof-service-dismantled-main-operator-and-145-users-arrested/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 'iSpoof' online spoofing service has been dismantled following an international law enforcement investigation that also led to the arrest of 146 people, including the suspected mastermind of the operation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Actively Infiltrating U.S. Companies with Qakbot Malware<a href="https://thehackernews.com/2022/11/black-basta-ransomware-gang-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies based in the U.S. have been at the receiving end of an "aggressive" Qakbot malware campaign that leads to Black Basta ransomware infections on compromised networks.  "In this latest campaign, the Black Basta ransomware gang is using QakBot malware to create an initial point of entry and move laterally within an organization's network," Cybereason researchers Joakim Kandefelt and Danielle Frankel&nbsp; said &nbsp;in a report shared with The Hacker News.  Black Basta, which emerged in April 2022, follows the tried-and-tested approach of double extortion to steal sensitive data from targeted companies and use it as leverage to extort cryptocurrency payments by threatening to release the stolen information.   This is not the first time the ransomware crew has been observed using Qakbot (aka QBot, QuackBot, or Pinkslipbot). Last month, Trend Micro&nbsp; disclosed &nbsp;similar attacks that entailed the use of Qakbot to deliver the&nbsp; Brute Ratel C4 &nbsp;framework, which, in turn, w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+34 Russian Cybercrime Groups Stole Over 50 Million Passwords with Stealer Malware<a href="https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 34 Russian-speaking gangs distributing information-stealing malware under the stealer-as-a-service model stole no fewer than 50 million passwords in the first seven months of 2022.  "The underground market value of stolen logs and compromised card details is estimated around $5.8 million," Singapore-headquartered Group-IB&nbsp; said &nbsp;in a report shared with The Hacker News.  Aside from looting passwords, the stealers also harvested 2.11 billion cookie files, 113,204 crypto wallets, and 103,150 payment cards.  A majority of the victims are located in the U.S., followed by Brazil, India, Germany, Indonesia, the Philippines, France, Turkey, Vietnam, and Italy. In total, 890,000 devices in 111 countries were infected during the time frame.   Group-IB said the members of several scam groups who are propagating the information stealers previously participated in the&nbsp; Classiscam &nbsp;operation.   These groups, which are active on Telegram and have around 200 members on average, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive – Quantum Locker lands in the Cloud<a href="https://securityaffairs.co/wordpress/138873/cyber-crime/quantum-locker-lands-in-the-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang behind Quantum Locker used a particular modus operandi to target large enterprises relying on cloud services in the NACE region.
+
+
+
+Executive Summary
+
+
+
+
+Quantum Locker gang demonstrated capabilities to operate ransomware extortion even on cloud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybergangs stole over 50 million passwords this year<a href="https://www.bleepingcomputer.com/news/security/russian-cybergangs-stole-over-50-million-passwords-this-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 34 distinct Russian-speaking cybercrime groups using info-stealing malware like Raccoon and Redline have collectively stolen 50,350,000 account passwords from over 896,000 individual infections from January to July 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

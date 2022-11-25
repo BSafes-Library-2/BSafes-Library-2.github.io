@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Software Firm Exposes Vulnerable Children’s Sensitive Data<a href="https://www.hackread.com/medical-software-expose-child-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reviewed a sample of 1,000 records to determine who owned the data and informed them about the exposed database. As per their findings, each record they reviewed had some form of PII related to children.
+</details>
+<div style="text-align: right" markdown="1">
+Hackread
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal data of nearly 4,000 people leaked in hack of Radio Free Asia<a href="https://therecord.media/personal-data-of-nearly-4000-people-leaked-in-hack-of-radio-free-asia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Radio Free Asia, a U.S. government-sponsored news outlet, announced a breach this week that affected almost 4,000 people – leaking troves of personal information including Social Security and passport numbers, as well as financial data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarusian Hacktivist Group Claims to Breach Russia’s Internet and Media Regulator<a href="https://therecord.media/belarusian-hacktivists-claim-to-breach-russias-internet-regulator/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A unit of the Russian internet and media regulator Roskomnadzor confirmed Saturday that hackers had breached its systems after the Belarusian hacktivist group known as the Cyber Partisans claimed to attack the organization.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

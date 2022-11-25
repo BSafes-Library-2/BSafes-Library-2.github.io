@@ -11,6 +11,20 @@ nav_order: 900072
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Black Friday deal: Get 50% off Malwarebytes Premium, Privacy VPN<a href="https://www.bleepingcomputer.com/news/security/black-friday-deal-get-50-percent-off-malwarebytes-premium-privacy-vpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes' Black Friday deal&nbsp;is now live, offering a 50% discount&nbsp;on the&nbsp;Malwarebytes Premium antivirus + Malwarebytes&nbsp;Privacy VPN bundle until November 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Been Doing It The Same Way For Years? Think Again.<a href="https://thehackernews.com/2022/11/been-doing-it-same-way-for-years-think.html"> Full Text</a>
 </p>
 <details>

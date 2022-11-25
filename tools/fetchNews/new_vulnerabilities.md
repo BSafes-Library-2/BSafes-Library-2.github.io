@@ -8,6 +8,80 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Android Devices Still Don't Have Patches for Mali GPU Flaws<a href="https://thehackernews.com/2022/11/million-of-android-devices-still-dont.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of five medium-severity security flaws in Arm's Mali GPU driver has continued to remain unpatched on Android devices for months, despite fixes released by the chipmaker.  Google Project Zero, which discovered and reported the bugs, said Arm addressed the shortcomings in July and August 2022.  "These fixes have not yet made it downstream to affected Android devices (including Pixel, Samsung, Xiaomi, Oppo, and others)," Project Zero researcher Ian Beer&nbsp; said &nbsp;in a report. "Devices with a Mali GPU are currently vulnerable."  The vulnerabilities, collectively tracked under the identifiers&nbsp; CVE-2022-33917 &nbsp;(CVSS score: 5.5) and&nbsp; CVE-2022-36449 &nbsp;(CVSS score: 6.5), concern a case of improper memory processing, thereby allowing a non-privileged user to gain access to freed memory.   The second flaw, CVE-2022-36449, can be further weaponized to write outside of buffer bounds and disclose details of memory mappings, according to an&nbsp; advisory &nbsp;issued by Arm. The lis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in ConnectWise Control spurred the company to make life harder for scammers<a href="https://www.helpnetsecurity.com/2022/11/23/connectwise-control-vulnerability-scammers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in popular remote access service/platform ConnectWise Control could have been leveraged by scammers to make compromising targets’ computers easier, Guardio researchers have discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft releases out-of-band update to fix Kerberos auth issues caused by a patch for CVE-2022-37966<a href="https://securityaffairs.co/wordpress/138869/security/out-of-band-fix-kerberos-issues.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released an out-of-band update to fix problems tied to a recent Windows security patch that caused Kerberos authentication issues.
+
+
+
+Microsoft released an out-of-band update to address issues caused by a recent Windows security patch that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mali GPU ‘patch gap’ leaves Android users vulnerable to attacks<a href="https://www.bleepingcomputer.com/news/security/mali-gpu-patch-gap-leaves-android-users-vulnerable-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of five exploitable vulnerabilities in Arm's Mali GPU driver remain unfixed months after the chip maker patched them, leaving potentially millions of Android devices exposed to attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Callback Technologies CBFS Filter denial-of-service vulnerabilities patched<a href="https://blog.talosintelligence.com/vulnerability-spotlight-callback-technologies-cbfs-filter-denial-of-service-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered three denial-of-service vulnerabilities in Callback Technologies CBFS Filter. A specially crafted I/O request packet (IRP) can lead to denial of service. An attacker can issue an ioctl to trigger these vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cisco Talos
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

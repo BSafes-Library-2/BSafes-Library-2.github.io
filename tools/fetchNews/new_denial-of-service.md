@@ -8,6 +8,38 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian group Killnet claims responsibility for DDoS attack that has taken down the European Parliament site<a href="https://securityaffairs.co/wordpress/138906/hacktivism/killnet-ddos-european-parliament.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacker collective Killnet took down the European Parliament website with a DDoS cyberattack.
+
+
+
+The Pro-Russia group of hacktivists Killnet claimed responsibility for the DDoS attack that today took down the website of the European Parliament...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian hacktivists take down EU Parliament site in DDoS attack<a href="https://www.bleepingcomputer.com/news/security/pro-russian-hacktivists-take-down-eu-parliament-site-in-ddos-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website of the European Parliament has been taken down following a DDoS (Distributed Denial of Service) attack claimed by Anonymous Russia, part of the pro-Russian&nbsp;hacktivist group Killnet.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

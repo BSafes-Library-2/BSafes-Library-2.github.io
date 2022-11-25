@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts claim that iPhone’s analytics data is not anonymous<a href="https://securityaffairs.co/wordpress/138884/digital-id/iphone-found-collecting-personal-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that analytics data associated with iPhone include Directory Services Identifier (DSID) that could allow identifying users.
+
+
+
+Researchers at software company Mysk discovered that analytics data collected by iPhone include the Directory...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

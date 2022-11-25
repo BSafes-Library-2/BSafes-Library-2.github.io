@@ -8,6 +8,66 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail Group Brings New Arsenal and Evasion Tactics to Uplift Its Attack Game<a href="https://cyware.com/news/ducktail-group-brings-new-arsenal-and-evasion-tactics-to-uplift-its-attack-game-c5a10876"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WithSecure researchers have published an advisory about new developments of the Ducktail infostealer. The recent campaigns feature new tricks to spear-phish targets via WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors exploit discontinues Boa web servers to target critical infrastructure<a href="https://securityaffairs.co/wordpress/138916/hacking/boa-web-servers-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft reported that hackers have exploited flaws in a now-discontinued web server called&nbsp;Boa in attacks against critical industries.
+
+
+
+Microsoft experts believe that threat actors behind a malicious campaign aimed at Indian critical infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahamut Cyber Espionage Hackers Targeting Android Users with Fake VPN Apps<a href="https://thehackernews.com/2022/11/bahamut-cyber-espionage-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber espionage group known as Bahamut  has been attributed as behind a highly targeted campaign that infects users of Android devices with malicious apps designed to extract sensitive information.  The activity, which has been active since January 2022, entails distributing rogue VPN apps through a fake SecureVPN website set up for this purpose, Slovak cybersecurity firm ESET&nbsp; said &nbsp;in a new report shared with The Hacker News.  At least eight different variants of the spyware apps have been discovered to date, with them being trojanized versions of legitimate VPN apps like&nbsp; SoftVPN &nbsp;and&nbsp; OpenVPN .   The tampered apps and their updates are pushed to users through the fraudulent website. It's also suspected that the targets are carefully selected, since launching the app requires the victim to enter an activation key to enable the features.  This implies the use of an undetermined distribution vector, although past evidence shows that it could take the form of spear-phishing em
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Abandoned Boa Web Servers to Target Critical Industries<a href="https://thehackernews.com/2022/11/hackers-exploiting-abandoned-boa-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday disclosed the intrusion activity aimed at Indian power grid entities earlier this year likely involved the exploitation of security flaws in a now-discontinued web server called Boa .  The tech behemoth's cybersecurity division&nbsp; said &nbsp;the&nbsp;vulnerable component&nbsp;poses a "supply chain risk that may affect millions of organizations and devices."  The findings build on a prior report&nbsp; published &nbsp;by Recorded Future in April 2022, which delved into a sustained campaign orchestrated by suspected China-linked adversaries to strike critical infrastructure organizations in India.  The cybersecurity firm attributed the attacks to a previously undocumented threat cluster called Threat Activity Group 38. While the Indian government described the attacks as unsuccessful "probing attempts," China denied it was behind the campaign.   The connections to China stem from the use of a modular backdoor dubbed&nbsp; ShadowPad , which is known to be shared among several
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An aggressive malware campaign targets US-based companies with Qakbot to deliver Black Basta Ransomware<a href="https://securityaffairs.co/wordpress/138924/cyber-crime/qakbot-campaign-black-basta-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of an ongoing aggressive Qakbot malware campaign that leads to Black Basta ransomware infections in the US.
+
+
+
+Experts at the Cybereason Global SOC (GSOC) team have observed a surge in&nbsp;Qakbot&nbsp;infections as part of an ongoing aggressive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers Killnet launch multiple attacks on UK websites<a href="https://www.express.co.uk/news/uk/1699778/Killnet-hackers-Russia-war-UK-websites-Royal-Family-latest-update?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacking outfit has claimed to have taken down the website of the Prince of Wales over the UK's continued support for Ukraine. Killnet said it had launched the attack "due to the supply of high-precision missiles to Ukraine".
+</details>
+<div style="text-align: right" markdown="1">
+Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

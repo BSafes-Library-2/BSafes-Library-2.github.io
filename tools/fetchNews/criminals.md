@@ -8,6 +8,80 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Donut extortion group also targets victims with ransomware<a href="https://www.bleepingcomputer.com/news/security/donut-extortion-group-also-targets-victims-with-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Donut (D0nut) extortion group has been confirmed to deploy ransomware in double-extortion attacks on the enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Cyber Criminals Using Go-based Aurora Stealer Malware<a href="https://thehackernews.com/2022/11/researchers-warn-of-cyber-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nascent Go-based malware known as Aurora Stealer is being increasingly deployed as part of campaigns designed to steal sensitive information from compromised hosts.  "These infection chains leveraged phishing pages impersonating download pages of legitimate software, including cryptocurrency wallets or remote access tools, and the 911 method making use of YouTube videos and SEO-poised fake cracked software download websites," cybersecurity firm SEKOIA&nbsp; said .  First advertised on Russian cybercrime forums in April 2022, Aurora was offered as a commodity malware for other threat actors, describing it as a "multi-purpose botnet with stealing, downloading and remote access capabilities."   In the intervening months, the malware has been scaled down to a stealer that can harvest files of interest, data from 40 cryptocurrency wallets, and applications like Telegram.  Aurora also comes with a loader that can deploy a next-stage payloading using a PowerShell command.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnam-Based Ducktail Cybercrime Operation Evolving, Expanding<a href="https://www.securityweek.com/vietnam-based-ducktail-cybercrime-operation-evolving-expanding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ducktail information stealer has been updated with new capabilities and the threat actors that use it have been expanding their operation, according to WithSecure, formerly known as F-Secure Business.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luna Moth Gang Invests in Call Centers to Target Businesses with Callback Phishing Campaigns<a href="https://thehackernews.com/2022/11/luna-moth-gang-invests-in-call-centers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Luna Moth campaign has extorted hundreds of thousands of dollars from several victims in the legal and retail sectors.  The attacks are notable for employing a technique called&nbsp; callback phishing &nbsp;or telephone-oriented attack delivery ( TOAD ), wherein the victims are social engineered into making a phone call through phishing emails containing invoices and subscription-themed lures.  Palo Alto Networks Unit 42 said the attacks are the "product of a single highly organized campaign," adding, "this threat actor has significantly invested in call centers and infrastructure that's unique to each victim."  The cybersecurity firm&nbsp; described &nbsp;the activity as a "pervasive multi-month campaign that is actively evolving."   What's notable about callback phishing is that the email messages are completely devoid of any malicious attachment or booby-trapped link, allowing them to evade detection and slip past email protection solutions.  These messages ty
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Estonian citizens arrested in $575M cryptocurrency fraud scheme<a href="https://securityaffairs.co/wordpress/138823/cyber-crime/estonian-575m-cryptocurrency-fraud-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Estonian citizens were arrested in Tallinn for allegedly running a $575 million cryptocurrency fraud scheme. 
+
+
+
+Two Estonian nationals were arrested in Tallinn, Estonia, after being indicted in the US for running a fraudulent cryptocurrency Ponzi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

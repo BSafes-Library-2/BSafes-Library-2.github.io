@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Strikes Back On Misuse of Cobalt Strike - YARA Rules Released<a href="https://cyware.com/news/google-strikes-back-on-misuse-of-cobalt-strike-yara-rules-released-1bdcc7cf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud team identified 34 different hacked releases of Cobalt Strike in the wild. Researchers have found the versions of Cobalt Strike JAR files starting with 1.44 (circa 2012) up to the latest version, 4.7.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Takes Down Fake Facebook and Instagram Accounts Linked to Pro-U.S. Influence Operation<a href="https://thehackernews.com/2022/11/meta-takes-down-fake-facebook-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms on Tuesday said it took down a network of accounts and pages across Facebook and Instagram that were operated by people associated with the U.S. military to spread narratives that depicted the country in a favorable light in the Middle East and Central Asia.  The network, which originated from the U.S., primarily singled out Afghanistan, Algeria, Iran, Iraq, Kazakhstan, Kyrgyzstan, Russia, Somalia, Syria, Tajikistan, Uzbekistan, and Yemen.  The social media giant stated the individuals behind the activity impersonated the communities they targeted, propagating content in Arabic, Farsi, and Russian that floated themes of increased military cooperation with the U.S., and criticized Iran, China, and Russia.  These narratives spanned "Russia's invasion of Ukraine, China's treatment of the Uyghur people, Iran's influence in the Middle East, and the support of the Taliban regime in Afghanistan by Russia and China," Meta&nbsp; said &nbsp;in its Quarterly Adversaria
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

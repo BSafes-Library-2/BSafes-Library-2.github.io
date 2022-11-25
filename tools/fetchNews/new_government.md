@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta links U.S. military with covert Facebook influence operation<a href="https://www.bleepingcomputer.com/news/security/meta-links-us-military-with-covert-facebook-influence-operation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has removed several accounts on Facebook and Instagram associated with the U.S. military, saying they were used as part of covert influence operations targeting the Middle East and Russia.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Ransomware attack cripples AIIMS Delhi services<a href="https://indianexpress.com/article/cities/delhi/aiims-ransomware-attack-services-hit-8285901/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Informatics Centre (NIC) at AIIMS Delhi on Wednesday said that a ransomware attack affected the hospital server due to which day-to-day activities including OPD registrations and blood sample reports remained halted.
+</details>
+<div style="text-align: right" markdown="1">
+The Indian Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Locks Up City of Westmount Services and Takes Down Email System<a href="https://www.bankinfosecurity.com/lockbit-30-says-its-holding-canadian-city-for-ransom-a-20529?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nefarious LockBit 3.0 cybercriminal group is claiming responsibility for the ransomware attack that halted municipal services and shut down employee email accounts in Westmount, Quebec, giving the city a deadline of December 4 to pay the ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
