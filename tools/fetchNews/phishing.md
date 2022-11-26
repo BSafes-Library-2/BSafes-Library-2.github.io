@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake MSI Afterburner targets Windows gamers with miners, info-stealers<a href="https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Windows gamers and power users are being targeted by fake MSI Afterburner download portals to infect users with cryptocurrency miners and the RedLine information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ducktail hackers now use WhatsApp to phish for Facebook Ad accounts<a href="https://www.bleepingcomputer.com/news/security/ducktail-hackers-now-use-whatsapp-to-phish-for-facebook-ad-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercriminal operation tracked as Ducktail has been hijacking Facebook Business accounts causing losses of up to $600,000 in advertising credits.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-based RansomBoggs Ransomware Targeted Several Ukrainian Organizations<a href="https://thehackernews.com/2022/11/russia-based-ransomboggs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine has come under a fresh onslaught of ransomware attacks that mirror previous intrusions attributed to the Russia-based Sandworm nation-state group.  Slovak cybersecurity company ESET, which dubbed the new ransomware strain&nbsp; RansomBoggs , said the attacks against several Ukrainian entities were first detected on November 21, 2022.  "While the malware written in .NET is new, its deployment is similar to previous attacks attributed to Sandworm," the company&nbsp; said &nbsp;in a series of tweets Friday.   The development comes as the Sandworm actor, tracked by Microsoft as Iridium, was implicated for a set of attacks aimed at transportation and logistics sectors in Ukraine and Poland with another ransomware strain called&nbsp; Prestige &nbsp;in October 2022.  The RansomBoggs activity is said to employ a PowerShell script to distribute the ransomware, with the latter "almost identical" to the one used in the&nbsp; Industroyer2 malware &nbsp;attacks that came to light in April.   According to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

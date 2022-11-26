@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Numbers of 487 Million WhatsApp Users Available for Sale on Hacking Forum<a href="https://heimdalsecurity.com/blog/487-million-whatsapp-mobile-numbers-hacking-forum/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On November 16, a sales ad was found on a notorious hacking community forum where the threat actor claimed they had fresh data, not older than 2022, from millions of people around the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OSSTF Victim of Ransomware Attack, Notifies Members of Personal Data Compromised<a href="https://www.thepeterboroughexaminer.com/ts/news/gta/2022/11/23/osstf-victim-of-ransomware-attack-notifies-members-of-personal-data-compromised.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ontario Secondary School Teachers’ Federation says it discovered in late May that an “unauthorized third party” accessed and encrypted its systems between May 25 and 30.
+</details>
+<div style="text-align: right" markdown="1">
+The Peterborough Examiner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts investigate WhatsApp data leak: 500M user records for sale<a href="https://securityaffairs.co/wordpress/138967/data-breach/whatsapp-data-leak-500m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybernews investigated a data sample available for sale containing up-to-date mobile phone numbers of nearly 500 million WhatsApp users. 
+
+
+
+Original post published by Cybernews: https://cybernews.com/news/whatsapp-data-leak/
+
+
+
+On November 16, an actor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

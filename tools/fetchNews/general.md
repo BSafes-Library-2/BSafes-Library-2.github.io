@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+November 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boost Your Security with Europe's Leading Bug Bounty Platform<a href="https://thehackernews.com/2022/11/boost-your-security-with-europes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As 2022 comes to an end, now's the time to level up your bug bounty program with Intigriti.  Are you experiencing slow bug bounty lead times, gaps in security skills, or low-quality reports from researchers? Intigriti's expert triage team and global community of ethical hackers are enabling businesses to protect themselves against every emerging cybersecurity threat.  Join the likes of Intel, Yahoo, and Sixt who levelled up their security with Intigriti to enjoy higher quality bug bounty reports, faster lead times, and an intuitive platform.  Our expert triage team, renowned community management, and impact-focused customer support are enabling businesses to protect themselves against emerging cybersecurity threats.  Build a better bug bounty program &nbsp;  Intigriti is more than a bug bounty platform. Our managed security service takes the pain out of vulnerability disclosure and uses our active hacking community to suit your exact security needs.  Moving bug bounties can feel li
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NordVPN Black Friday deal: Up to 68% off a 27-month VPN subscription<a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-up-to-68-percent-off-a-27-month-vpn-subscription/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NordVPN's Black Friday deal is live with&nbsp;up to 68% off and 3 extra months for free&nbsp;on 1-year or 2-year subscriptions to the NordVPN VPN service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get 50% off Emsisoft Anti-Malware Home through Cyber Monday<a href="https://www.bleepingcomputer.com/news/security/get-50-percent-off-emsisoft-anti-malware-home-through-cyber-monday/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Emsisoft's Black Friday through Cyber Monday deal is now live with&nbsp;50% off Emsisoft Anti-Malware Home&nbsp;1-year licenses for 1, 3, or 5 devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Cyber Threats Facing E-Commerce Sites This Holiday Season<a href="https://thehackernews.com/2022/11/top-cyber-threats-facing-e-commerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delivering a superior customer experience is essential for any e-commerce business. For those companies, there's a lot at stake this holiday season. According to Digital Commerce 360, nearly $1.00 of every $4.00 spent on retail purchases during the 2022 holiday season will be spent online, resulting in $224 billion in e-commerce sales. To ensure your e-commerce site is ready for the holiday rush, it's vital to ensure it is secure.&nbsp;  While safety and security are top priorities for businesses of all sizes, it is essential for those who operate in the e-commerce space. To deliver the experience customers crave, many websites embed third-party solutions at every stage of the customer journey. In fact, for certain e-commerce businesses, their suite of third-party plugins is how they create and sustain a competitive advantage.&nbsp;  Yet many e-commerce sites are inherently insecure and vulnerable to attack due to their reliance on untrustworthy third-party solutions. Consequently,&nbsp; cli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Black Friday 2022 Security, IT, VPN, &amp; Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-black-friday-2022-security-it-vpn-and-antivirus-deals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Friday is almost here, and great deals are already live today for computer security, software, online courses, system admin services, antivirus, and VPN software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NordVPN Black Friday deal: Up to 63% off a 27-month VPN subscription<a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-up-to-63-percent-off-a-27-month-vpn-subscription/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NordVPN's Black Friday deal is live with&nbsp;up to 63% off and 3 extra months for free&nbsp;on 1-year or 2-year subscriptions to the NordVPN VPN service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

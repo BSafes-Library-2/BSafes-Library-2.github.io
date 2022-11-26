@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+November 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Bans Chinese Telecom Equipment and Surveillance Cameras Over National Security Risk<a href="https://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) formally announced it will no longer authorize electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, deeming them an "unacceptable" national security threat.  All these Chinese telecom and video surveillance companies were previously included in the&nbsp; Covered List &nbsp;as of March 12, 2021.  "The FCC is committed to protecting our national security by ensuring that untrustworthy communications equipment is not authorized for use within our borders, and we are continuing that work here," FCC Chairwoman Jessica Rosenworcel&nbsp; said &nbsp;in a Friday order.   "These new rules are an important part of our ongoing actions to protect the American people from national security threats involving telecommunications."  Pursuant to the ban, Hytera, Hikvision, and Dahua are required to document the safeguards the firms are putting in place on the sale of their devices for government use and surveillance of critical i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK urges to disconnect Chinese security cameras in government buildings<a href="https://securityaffairs.co/wordpress/138945/digital-id/uk-ban-chinese-security-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British government banned the installation of Chinese-linked security cameras at sensitive facilities due to security risks.
+
+
+
+Reuters reports that the British government ordered its departments to stop installing Chinese security cameras at sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

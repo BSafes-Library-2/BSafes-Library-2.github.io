@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware attacks in Ukraine linked to Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-attacks-in-ukraine-linked-to-russian-sandworm-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware attacks targeting&nbsp;organizations in Ukraine first detected this Monday have&nbsp;been linked&nbsp;to the notorious Russian military threat&nbsp;group known as Sandworm.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware claims attack on Cincinnati State college<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-cincinnati-state-college/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware operation has claimed responsibility for a cyberattack on Cincinnati State Technical and Community College, with the threat actors now leaking data allegedly stolen during the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
