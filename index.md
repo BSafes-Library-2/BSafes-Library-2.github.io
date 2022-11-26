@@ -34,6 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Bans Chinese Telecom Equipment and Surveillance Cameras Over National Security Risk<a href="https://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) formally announced it will no longer authorize electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, deeming them an "unacceptable" national security threat.  All these Chinese telecom and video surveillance companies were previously included in the  Covered List  as of March 12, 2021.  "The FCC is committed to protecting our national security by ensuring that untrustworthy communications equipment is not authorized for use within our borders, and we are continuing that work here," FCC Chairwoman Jessica Rosenworcel  said  in a Friday order.   "These new rules are an important part of our ongoing actions to protect the American people from national security threats involving telecommunications."  Pursuant to the ban, Hytera, Hikvision, and Dahua are required to document the safeguards the firms are putting in place on the sale of their devices for government use and surveillance of critical i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Devices from Dell, HP, and Lenovo used outdated OpenSSL versions<a href="https://securityaffairs.co/wordpress/138986/security/dell-hp-lenovo-openssl-outdated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that devices from Dell, HP, and Lenovo are still using outdated versions of the OpenSSL cryptographic library.
+
+
+
+Binarly researchers discovered that devices from Dell, HP, and Lenovo are still using outdated versions of the OpenSSL cryptographic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-based RansomBoggs Ransomware Targeted Several Ukrainian Organizations<a href="https://thehackernews.com/2022/11/russia-based-ransomboggs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine has come under a fresh onslaught of ransomware attacks that mirror previous intrusions attributed to the Russia-based Sandworm nation-state group.  Slovak cybersecurity company ESET, which dubbed the new ransomware strain  RansomBoggs , said the attacks against several Ukrainian entities were first detected on November 21, 2022.  "While the malware written in .NET is new, its deployment is similar to previous attacks attributed to Sandworm," the company  said  in a series of tweets Friday.   The development comes as the Sandworm actor, tracked by Microsoft as Iridium, was implicated for a set of attacks aimed at transportation and logistics sectors in Ukraine and Poland with another ransomware strain called  Prestige  in October 2022.  The RansomBoggs activity is said to employ a PowerShell script to distribute the ransomware, with the latter "almost identical" to the one used in the  Industroyer2 malware  attacks that came to light in April.   According to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware attacks in Ukraine linked to Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-attacks-in-ukraine-linked-to-russian-sandworm-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware attacks targeting organizations in Ukraine first detected this Monday have been linked to the notorious Russian military threat group known as Sandworm.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Numbers of 487 Million WhatsApp Users Available for Sale on Hacking Forum<a href="https://heimdalsecurity.com/blog/487-million-whatsapp-mobile-numbers-hacking-forum/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On November 16, a sales ad was found on a notorious hacking community forum where the threat actor claimed they had fresh data, not older than 2022, from millions of people around the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware claims attack on Cincinnati State college<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-cincinnati-state-college/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware operation has claimed responsibility for a cyberattack on Cincinnati State Technical and Community College, with the threat actors now leaking data allegedly stolen during the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OSSTF Victim of Ransomware Attack, Notifies Members of Personal Data Compromised<a href="https://www.thepeterboroughexaminer.com/ts/news/gta/2022/11/23/osstf-victim-of-ransomware-attack-notifies-members-of-personal-data-compromised.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ontario Secondary School Teachers’ Federation says it discovered in late May that an “unauthorized third party” accessed and encrypted its systems between May 25 and 30.
+</details>
+<div style="text-align: right" markdown="1">
+The Peterborough Examiner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the eighth actively exploited #Chrome #zeroday this year<a href="https://securityaffairs.co/wordpress/138977/hacking/8-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday released security updates to address a new zero-day vulnerability, tracked as CVE-2022-4135, impacting the Chrome web browser.
+
+
+
+Google rolled out an emergency security update for the desktop version of the Chrome web browser to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix 8th zero-day in 2022<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency security update for the desktop version of the Chrome web browser, addressing the eighth zero-day vulnerability exploited in attacks this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahamut Cyber Mercenary Group Targets Android Users with Fake VPN Apps<a href="https://www.welivesecurity.com/2022/11/23/bahamut-cybermercenary-group-targets-android-users-fake-vpn-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking-for-hire group is distributing malicious apps through a fake SecureVPN website that enables Android apps to be downloaded from Google Play, say researchers at Eset.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome Browser Now to Patch New Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/11/update-chrome-browser-now-to-patch-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday released software updates to address yet another zero-day flaw in its Chrome web browser.  Tracked as  CVE-2022-4135 , the high-severity vulnerability has been described as a heap buffer overflow in the GPU component. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the flaw on November 22, 2022.  Heap-based buffer overflow bugs can be  weaponized  by threat actors to crash a program or execute arbitrary code, leading to unintended behavior.  According to the NIST's National Vulnerability Database, the flaw could  permit a "remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page."  "Google is aware that an exploit for CVE-2022-4135 exists in the wild," the tech giant  acknowledged  in an advisory.  But like other actively exploited issues, technical specifics have been withheld until a majority of the users are updated with a fix and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts investigate WhatsApp data leak: 500M user records for sale<a href="https://securityaffairs.co/wordpress/138967/data-breach/whatsapp-data-leak-500m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybernews investigated a data sample available for sale containing up-to-date mobile phone numbers of nearly 500 million WhatsApp users. 
+
+
+
+Original post published by Cybernews: https://cybernews.com/news/whatsapp-data-leak/
+
+
+
+On November 16, an actor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ukraine conflict has exposed the limits of cyber warfare<a href="https://thenextweb.com/news/why-russia-cyber-army-has-struggled-to-impact-ukraine-war?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have offered an array of explanations for Russia’s cyber limitations. They range from upgrades to Ukraine’s defenses to changes in the Kremlin’s tactics.
+</details>
+<div style="text-align: right" markdown="1">
+The Next Web
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell, HP, and Lenovo Devices Found Using Outdated OpenSSL Versions<a href="https://thehackernews.com/2022/11/dell-hp-and-lenovo-devices-found-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of firmware images across devices from Dell, HP, and Lenovo has revealed the presence of outdated versions of the  OpenSSL  cryptographic library, underscoring a supply chain risk.  EFI Development Kit, aka  EDK , is an open source implementation of the Unified Extensible Firmware Interface ( UEFI ), which functions as an interface between the operating system and the firmware embedded in the device's hardware.  The firmware development environment, which is in its second iteration (EDK II), comes with its own cryptographic package called  CryptoPkg  that, in turn, makes use of services from the OpenSSL project.   Per firmware security company Binarly, the firmware image associated with Lenovo Thinkpad enterprise devices was found to use three different versions of OpenSSL: 0.9.8zb, 1.0.0a, and 1.0.2j, the last of which was released in 2018.  What's more, one of the firmware modules named InfineonTpmUpdateDxe relied on OpenSSL version 0.9.8zb that was shipped on Au
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An international police operation dismantled the spoofing service iSpoof<a href="https://securityaffairs.co/wordpress/138957/cyber-crime/police-dismantled-spoofing-service-ispoof.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has dismantled an online phone number spoofing service called iSpoof.
+
+
+
+An international law enforcement operation that was conducted by authorities in Europe, Australia, the United States, Ukraine, and Canada,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Police Arrest 142 in Global Crackdown on 'iSpoof' Phone Spoofing Service<a href="https://thehackernews.com/2022/11/uk-police-arrest-142-in-global.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement effort has dismantled an online phone number spoofing service called  iSpoof  and arrested 142 individuals linked to the operation.  The websites, ispoof[.]me and ispoof[.]cc, allowed the crooks to "impersonate trusted corporations or contacts to access sensitive information from victims," Europol  said  in a press statement.  Worldwide losses exceeded €115 million ($ 119.8 million), with over 200,000 potential victims believed to have been directly targeted through iSpoof in the U.K. alone, the Metropolitan Police  noted .    Among the 142 people arrested is the administrator of the website, who was apprehended in the U.K. on November 6, 2022. The website and its server were subsequently seized and taken offline two days later by Ukrainian and U.S. agencies.  Per the National Police Corps, the helpdesk fraud  allowed  registered subscribers on the online portal to mask their phone numbers and make calls impersonating banks, retail companies, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK urges to disconnect Chinese security cameras in government buildings<a href="https://securityaffairs.co/wordpress/138945/digital-id/uk-ban-chinese-security-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British government banned the installation of Chinese-linked security cameras at sensitive facilities due to security risks.
+
+
+
+Reuters reports that the British government ordered its departments to stop installing Chinese security cameras at sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Seized $130 Million from Cybercriminals in Global "HAECHI-III" Crackdown Operation<a href="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol on Thursday  announced  the seizure of $130 million worth of virtual assets in connection with a global crackdown on cyber-enabled financial crimes and money laundering.  The international police operation, dubbed  HAECHI-III , transpired between June 28 and November 23, 2022, resulting in the arrests of 975 individuals and the closure of more than 1,600 cases.  This comprised two fugitives wanted by South Korea for their supposed involvement in a Ponzi scheme to embezzle €28 million from 2,000 victims.   Another instance pertained to a call center scam based out of India, wherein a group of criminals impersonated Interpol and Europol officers to trick victims in Austria into transferring funds. The call centers operated from New Delhi and Noida.  The illegal activity informed the victims that their "identities were stolen and crime pertaining to narcotics drugs were committed in their names," forcing them to make a money transfer.  "In order to clear themselve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

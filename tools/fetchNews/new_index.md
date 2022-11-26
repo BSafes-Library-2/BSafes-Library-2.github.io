@@ -34,7 +34,319 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Bans Chinese Telecom Equipment and Surveillance Cameras Over National Security Risk<a href="https://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) formally announced it will no longer authorize electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, deeming them an "unacceptable" national security threat.  All these Chinese telecom and video surveillance companies were previously included in the  Covered List  as of March 12, 2021.  "The FCC is committed to protecting our national security by ensuring that untrustworthy communications equipment is not authorized for use within our borders, and we are continuing that work here," FCC Chairwoman Jessica Rosenworcel  said  in a Friday order.   "These new rules are an important part of our ongoing actions to protect the American people from national security threats involving telecommunications."  Pursuant to the ban, Hytera, Hikvision, and Dahua are required to document the safeguards the firms are putting in place on the sale of their devices for government use and surveillance of critical i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Devices from Dell, HP, and Lenovo used outdated OpenSSL versions<a href="https://securityaffairs.co/wordpress/138986/security/dell-hp-lenovo-openssl-outdated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that devices from Dell, HP, and Lenovo are still using outdated versions of the OpenSSL cryptographic library.
+
+
+
+Binarly researchers discovered that devices from Dell, HP, and Lenovo are still using outdated versions of the OpenSSL cryptographic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-based RansomBoggs Ransomware Targeted Several Ukrainian Organizations<a href="https://thehackernews.com/2022/11/russia-based-ransomboggs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine has come under a fresh onslaught of ransomware attacks that mirror previous intrusions attributed to the Russia-based Sandworm nation-state group.  Slovak cybersecurity company ESET, which dubbed the new ransomware strain  RansomBoggs , said the attacks against several Ukrainian entities were first detected on November 21, 2022.  "While the malware written in .NET is new, its deployment is similar to previous attacks attributed to Sandworm," the company  said  in a series of tweets Friday.   The development comes as the Sandworm actor, tracked by Microsoft as Iridium, was implicated for a set of attacks aimed at transportation and logistics sectors in Ukraine and Poland with another ransomware strain called  Prestige  in October 2022.  The RansomBoggs activity is said to employ a PowerShell script to distribute the ransomware, with the latter "almost identical" to the one used in the  Industroyer2 malware  attacks that came to light in April.   According to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ransomware attacks in Ukraine linked to Russian Sandworm hackers<a href="https://www.bleepingcomputer.com/news/security/new-ransomware-attacks-in-ukraine-linked-to-russian-sandworm-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ransomware attacks targeting organizations in Ukraine first detected this Monday have been linked to the notorious Russian military threat group known as Sandworm.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Numbers of 487 Million WhatsApp Users Available for Sale on Hacking Forum<a href="https://heimdalsecurity.com/blog/487-million-whatsapp-mobile-numbers-hacking-forum/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On November 16, a sales ad was found on a notorious hacking community forum where the threat actor claimed they had fresh data, not older than 2022, from millions of people around the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware claims attack on Cincinnati State college<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-cincinnati-state-college/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware operation has claimed responsibility for a cyberattack on Cincinnati State Technical and Community College, with the threat actors now leaking data allegedly stolen during the attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OSSTF Victim of Ransomware Attack, Notifies Members of Personal Data Compromised<a href="https://www.thepeterboroughexaminer.com/ts/news/gta/2022/11/23/osstf-victim-of-ransomware-attack-notifies-members-of-personal-data-compromised.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ontario Secondary School Teachers’ Federation says it discovered in late May that an “unauthorized third party” accessed and encrypted its systems between May 25 and 30.
+</details>
+<div style="text-align: right" markdown="1">
+The Peterborough Examiner
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the eighth actively exploited #Chrome #zeroday this year<a href="https://securityaffairs.co/wordpress/138977/hacking/8-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday released security updates to address a new zero-day vulnerability, tracked as CVE-2022-4135, impacting the Chrome web browser.
+
+
+
+Google rolled out an emergency security update for the desktop version of the Chrome web browser to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix 8th zero-day in 2022<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency security update for the desktop version of the Chrome web browser, addressing the eighth zero-day vulnerability exploited in attacks this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahamut Cyber Mercenary Group Targets Android Users with Fake VPN Apps<a href="https://www.welivesecurity.com/2022/11/23/bahamut-cybermercenary-group-targets-android-users-fake-vpn-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking-for-hire group is distributing malicious apps through a fake SecureVPN website that enables Android apps to be downloaded from Google Play, say researchers at Eset.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome Browser Now to Patch New Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/11/update-chrome-browser-now-to-patch-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday released software updates to address yet another zero-day flaw in its Chrome web browser.  Tracked as  CVE-2022-4135 , the high-severity vulnerability has been described as a heap buffer overflow in the GPU component. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the flaw on November 22, 2022.  Heap-based buffer overflow bugs can be  weaponized  by threat actors to crash a program or execute arbitrary code, leading to unintended behavior.  According to the NIST's National Vulnerability Database, the flaw could  permit a "remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page."  "Google is aware that an exploit for CVE-2022-4135 exists in the wild," the tech giant  acknowledged  in an advisory.  But like other actively exploited issues, technical specifics have been withheld until a majority of the users are updated with a fix and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts investigate WhatsApp data leak: 500M user records for sale<a href="https://securityaffairs.co/wordpress/138967/data-breach/whatsapp-data-leak-500m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybernews investigated a data sample available for sale containing up-to-date mobile phone numbers of nearly 500 million WhatsApp users. 
+
+
+
+Original post published by Cybernews: https://cybernews.com/news/whatsapp-data-leak/
+
+
+
+On November 16, an actor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ukraine conflict has exposed the limits of cyber warfare<a href="https://thenextweb.com/news/why-russia-cyber-army-has-struggled-to-impact-ukraine-war?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have offered an array of explanations for Russia’s cyber limitations. They range from upgrades to Ukraine’s defenses to changes in the Kremlin’s tactics.
+</details>
+<div style="text-align: right" markdown="1">
+The Next Web
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell, HP, and Lenovo Devices Found Using Outdated OpenSSL Versions<a href="https://thehackernews.com/2022/11/dell-hp-and-lenovo-devices-found-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of firmware images across devices from Dell, HP, and Lenovo has revealed the presence of outdated versions of the  OpenSSL  cryptographic library, underscoring a supply chain risk.  EFI Development Kit, aka  EDK , is an open source implementation of the Unified Extensible Firmware Interface ( UEFI ), which functions as an interface between the operating system and the firmware embedded in the device's hardware.  The firmware development environment, which is in its second iteration (EDK II), comes with its own cryptographic package called  CryptoPkg  that, in turn, makes use of services from the OpenSSL project.   Per firmware security company Binarly, the firmware image associated with Lenovo Thinkpad enterprise devices was found to use three different versions of OpenSSL: 0.9.8zb, 1.0.0a, and 1.0.2j, the last of which was released in 2018.  What's more, one of the firmware modules named InfineonTpmUpdateDxe relied on OpenSSL version 0.9.8zb that was shipped on Au
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An international police operation dismantled the spoofing service iSpoof<a href="https://securityaffairs.co/wordpress/138957/cyber-crime/police-dismantled-spoofing-service-ispoof.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has dismantled an online phone number spoofing service called iSpoof.
+
+
+
+An international law enforcement operation that was conducted by authorities in Europe, Australia, the United States, Ukraine, and Canada,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Police Arrest 142 in Global Crackdown on 'iSpoof' Phone Spoofing Service<a href="https://thehackernews.com/2022/11/uk-police-arrest-142-in-global.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement effort has dismantled an online phone number spoofing service called  iSpoof  and arrested 142 individuals linked to the operation.  The websites, ispoof[.]me and ispoof[.]cc, allowed the crooks to "impersonate trusted corporations or contacts to access sensitive information from victims," Europol  said  in a press statement.  Worldwide losses exceeded €115 million ($ 119.8 million), with over 200,000 potential victims believed to have been directly targeted through iSpoof in the U.K. alone, the Metropolitan Police  noted .    Among the 142 people arrested is the administrator of the website, who was apprehended in the U.K. on November 6, 2022. The website and its server were subsequently seized and taken offline two days later by Ukrainian and U.S. agencies.  Per the National Police Corps, the helpdesk fraud  allowed  registered subscribers on the online portal to mask their phone numbers and make calls impersonating banks, retail companies, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK urges to disconnect Chinese security cameras in government buildings<a href="https://securityaffairs.co/wordpress/138945/digital-id/uk-ban-chinese-security-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British government banned the installation of Chinese-linked security cameras at sensitive facilities due to security risks.
+
+
+
+Reuters reports that the British government ordered its departments to stop installing Chinese security cameras at sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Seized $130 Million from Cybercriminals in Global "HAECHI-III" Crackdown Operation<a href="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol on Thursday  announced  the seizure of $130 million worth of virtual assets in connection with a global crackdown on cyber-enabled financial crimes and money laundering.  The international police operation, dubbed  HAECHI-III , transpired between June 28 and November 23, 2022, resulting in the arrests of 975 individuals and the closure of more than 1,600 cases.  This comprised two fugitives wanted by South Korea for their supposed involvement in a Ponzi scheme to embezzle €28 million from 2,000 victims.   Another instance pertained to a call center scam based out of India, wherein a group of criminals impersonated Interpol and Europol officers to trick victims in Austria into transferring funds. The call centers operated from New Delhi and Noida.  The illegal activity informed the victims that their "identities were stolen and crime pertaining to narcotics drugs were committed in their names," forcing them to make a money transfer.  "In order to clear themselve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Hub repositories hide over 1,650 malicious containers<a href="https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/"> Full Text</a>
@@ -50,7 +362,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Yanluowang Ransomware: The Hunter Becomes the Hunted<a href="https://cyware.com/news/yanluowang-ransomware-the-hunter-becomes-the-hunted-fc977e52"> Full Text</a>
@@ -66,7 +378,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RansomExx Ransomware Variant Rewritten in the Rust Programming Language<a href="https://thehackernews.com/2022/11/new-ransomexx-ransomware-variant.html"> Full Text</a>
@@ -82,7 +394,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomExx Ransomware upgrades to Rust programming language<a href="https://securityaffairs.co/wordpress/138933/malware/ransomexx-ransomware-rust-language.html"> Full Text</a>
@@ -102,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol seized $130 million from cybercriminals worldwide<a href="https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/"> Full Text</a>
@@ -118,7 +430,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ViperSoftX Drops VenomSoftX Chrome Extension to Steal Cryptocurrency<a href="https://cyware.com/news/vipersoftx-drops-venomsoftx-chrome-extension-to-steal-cryptocurrency-63568614"> Full Text</a>
@@ -134,7 +446,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Android Devices Still Don't Have Patches for Mali GPU Flaws<a href="https://thehackernews.com/2022/11/million-of-android-devices-still-dont.html"> Full Text</a>
@@ -150,7 +462,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An aggressive malware campaign targets US-based companies with Qakbot to deliver Black Basta Ransomware<a href="https://securityaffairs.co/wordpress/138924/cyber-crime/qakbot-campaign-black-basta-ransomware.html"> Full Text</a>
@@ -170,7 +482,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers modify popular OpenVPN Android app to include spyware<a href="https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/"> Full Text</a>
@@ -186,7 +498,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ducktail Group Brings New Arsenal and Evasion Tactics to Uplift Its Attack Game<a href="https://cyware.com/news/ducktail-group-brings-new-arsenal-and-evasion-tactics-to-uplift-its-attack-game-c5a10876"> Full Text</a>
@@ -202,7 +514,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boost Your Security with Europe's Leading Bug Bounty Platform<a href="https://thehackernews.com/2022/11/boost-your-security-with-europes.html"> Full Text</a>
@@ -218,7 +530,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors exploit discontinues Boa web servers to target critical infrastructure<a href="https://securityaffairs.co/wordpress/138916/hacking/boa-web-servers-attacks.html"> Full Text</a>
@@ -238,7 +550,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. govt seizes domains used in 'pig butchering' scams<a href="https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/"> Full Text</a>
@@ -254,7 +566,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WannaRen Returns as Life Ransomware, Targets India<a href="https://www.trendmicro.com/en_us/research/22/k/wannaren-returns-as-life-ransomware--targets-india.html?&web_view=true"> Full Text</a>
@@ -270,7 +582,7 @@ Trend Micro
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bahamut Cyber Espionage Hackers Targeting Android Users with Fake VPN Apps<a href="https://thehackernews.com/2022/11/bahamut-cyber-espionage-hackers.html"> Full Text</a>
@@ -286,7 +598,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'iSpoof' service dismantled, main operator and 145 users arrested<a href="https://www.bleepingcomputer.com/news/security/ispoof-service-dismantled-main-operator-and-145-users-arrested/"> Full Text</a>
@@ -302,7 +614,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Ransomware attack cripples AIIMS Delhi services<a href="https://indianexpress.com/article/cities/delhi/aiims-ransomware-attack-services-hit-8285901/?&web_view=true"> Full Text</a>
@@ -318,7 +630,7 @@ The Indian Express
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Android File Manager App Infected Thousands of Devices with SharkBot Malware<a href="https://thehackernews.com/2022/11/this-android-file-manager-app-infected.html"> Full Text</a>
@@ -334,7 +646,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Software Firm Exposes Vulnerable Children’s Sensitive Data<a href="https://www.hackread.com/medical-software-expose-child-data/?&web_view=true"> Full Text</a>
@@ -350,7 +662,7 @@ Hackread
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Gang Actively Infiltrating U.S. Companies with Qakbot Malware<a href="https://thehackernews.com/2022/11/black-basta-ransomware-gang-actively.html"> Full Text</a>
@@ -366,7 +678,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2022
+November 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in ConnectWise Control spurred the company to make life harder for scammers<a href="https://www.helpnetsecurity.com/2022/11/23/connectwise-control-vulnerability-scammers/?&web_view=true"> Full Text</a>
@@ -382,7 +694,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NordVPN Black Friday deal: Up to 68% off a 27-month VPN subscription<a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-up-to-68-percent-off-a-27-month-vpn-subscription/"> Full Text</a>
@@ -398,7 +710,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Get 50% off Emsisoft Anti-Malware Home through Cyber Monday<a href="https://www.bleepingcomputer.com/news/security/get-50-percent-off-emsisoft-anti-malware-home-through-cyber-monday/"> Full Text</a>
@@ -414,7 +726,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomExx Ransomware Upgraded in Rust<a href="https://cyware.com/news/ransomexx-ransomware-upgraded-in-rust-c8f0517f"> Full Text</a>
@@ -430,7 +742,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 34 Russian Cybercrime Groups Stole Over 50 Million Passwords with Stealer Malware<a href="https://thehackernews.com/2022/11/34-russian-hacker-groups-stole-over-50.html"> Full Text</a>
@@ -446,7 +758,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian group Killnet claims responsibility for DDoS attack that has taken down the European Parliament site<a href="https://securityaffairs.co/wordpress/138906/hacktivism/killnet-ddos-european-parliament.html"> Full Text</a>
@@ -466,7 +778,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta links U.S. military with covert Facebook influence operation<a href="https://www.bleepingcomputer.com/news/security/meta-links-us-military-with-covert-facebook-influence-operation/"> Full Text</a>
@@ -482,7 +794,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal data of nearly 4,000 people leaked in hack of Radio Free Asia<a href="https://therecord.media/personal-data-of-nearly-4000-people-leaked-in-hack-of-radio-free-asia/?&web_view=true"> Full Text</a>
@@ -498,7 +810,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ducktail Malware Operation Evolves with New Malicious Capabilities<a href="https://thehackernews.com/2022/11/ducktail-malware-operation-evolves-with.html"> Full Text</a>
@@ -514,7 +826,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ducktail information stealer continues to evolve<a href="https://securityaffairs.co/wordpress/138894/cyber-crime/ducktail-information-stealer-evolution.html"> Full Text</a>
@@ -534,7 +846,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake MSI Afterburner targets Windows gamers with miners, info-stealers<a href="https://www.bleepingcomputer.com/news/security/fake-msi-afterburner-targets-windows-gamers-with-miners-info-stealers/"> Full Text</a>
@@ -550,7 +862,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Donut Leaks Now Targets Victims With Its Own Custom Ransomware Tool<a href="https://cyware.com/news/donut-leaks-now-targets-victims-with-its-own-custom-ransomware-tool-488425bd"> Full Text</a>
@@ -566,7 +878,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Cyber Threats Facing E-Commerce Sites This Holiday Season<a href="https://thehackernews.com/2022/11/top-cyber-threats-facing-e-commerce.html"> Full Text</a>
@@ -582,7 +894,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts claim that iPhone’s analytics data is not anonymous<a href="https://securityaffairs.co/wordpress/138884/digital-id/iphone-found-collecting-personal-data.html"> Full Text</a>
@@ -602,7 +914,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian hacktivists take down EU Parliament site in DDoS attack<a href="https://www.bleepingcomputer.com/news/security/pro-russian-hacktivists-take-down-eu-parliament-site-in-ddos-attack/"> Full Text</a>
@@ -618,7 +930,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hackers Killnet launch multiple attacks on UK websites<a href="https://www.express.co.uk/news/uk/1699778/Killnet-hackers-Russia-war-UK-websites-Royal-Family-latest-update?&web_view=true"> Full Text</a>
@@ -634,7 +946,7 @@ Express
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Abandoned Boa Web Servers to Target Critical Industries<a href="https://thehackernews.com/2022/11/hackers-exploiting-abandoned-boa-web.html"> Full Text</a>
@@ -650,7 +962,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft releases out-of-band update to fix Kerberos auth issues caused by a patch for CVE-2022-37966<a href="https://securityaffairs.co/wordpress/138869/security/out-of-band-fix-kerberos-issues.html"> Full Text</a>
@@ -670,7 +982,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Black Friday 2022 Security, IT, VPN, & Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-black-friday-2022-security-it-vpn-and-antivirus-deals/"> Full Text</a>
@@ -686,7 +998,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Strikes Back On Misuse of Cobalt Strike - YARA Rules Released<a href="https://cyware.com/news/google-strikes-back-on-misuse-of-cobalt-strike-yara-rules-released-1bdcc7cf"> Full Text</a>
@@ -702,7 +1014,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Takes Down Fake Facebook and Instagram Accounts Linked to Pro-U.S. Influence Operation<a href="https://thehackernews.com/2022/11/meta-takes-down-fake-facebook-and.html"> Full Text</a>
@@ -718,7 +1030,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exclusive – Quantum Locker lands in the Cloud<a href="https://securityaffairs.co/wordpress/138873/cyber-crime/quantum-locker-lands-in-the-cloud.html"> Full Text</a>
@@ -743,7 +1055,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mali GPU ‘patch gap’ leaves Android users vulnerable to attacks<a href="https://www.bleepingcomputer.com/news/security/mali-gpu-patch-gap-leaves-android-users-vulnerable-to-attacks/"> Full Text</a>
@@ -759,7 +1071,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomExx Upgrades to Rust<a href="https://securityintelligence.com/posts/ransomexx-upgrades-rust/?&web_view=true"> Full Text</a>
@@ -775,7 +1087,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nighthawk Likely to Become Hackers' New Post-Exploitation Tool After Cobalt Strike<a href="https://thehackernews.com/2022/11/nighthawk-likely-to-become-hackers-new.html"> Full Text</a>
@@ -791,7 +1103,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NordVPN Black Friday deal: Up to 63% off a 27-month VPN subscription<a href="https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-up-to-63-percent-off-a-27-month-vpn-subscription/"> Full Text</a>
@@ -807,7 +1119,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Locks Up City of Westmount Services and Takes Down Email System<a href="https://www.bankinfosecurity.com/lockbit-30-says-its-holding-canadian-city-for-ransom-a-20529?&web_view=true"> Full Text</a>
@@ -823,7 +1135,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Backdoored Chrome extension installed by 200,000 Roblox players<a href="https://www.bleepingcomputer.com/news/security/backdoored-chrome-extension-installed-by-200-000-roblox-players/"> Full Text</a>
@@ -839,7 +1151,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Callback Technologies CBFS Filter denial-of-service vulnerabilities patched<a href="https://blog.talosintelligence.com/vulnerability-spotlight-callback-technologies-cbfs-filter-denial-of-service-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -855,7 +1167,7 @@ Cisco Talos
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian cybergangs stole over 50 million passwords this year<a href="https://www.bleepingcomputer.com/news/security/russian-cybergangs-stole-over-50-million-passwords-this-year/"> Full Text</a>
@@ -871,7 +1183,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belarusian Hacktivist Group Claims to Breach Russia’s Internet and Media Regulator<a href="https://therecord.media/belarusian-hacktivists-claim-to-breach-russias-internet-regulator/?&web_view=true"> Full Text</a>
@@ -887,7 +1199,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2022
+November 23, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ducktail hackers now use WhatsApp to phish for Facebook Ad accounts<a href="https://www.bleepingcomputer.com/news/security/ducktail-hackers-now-use-whatsapp-to-phish-for-facebook-ad-accounts/"> Full Text</a>
