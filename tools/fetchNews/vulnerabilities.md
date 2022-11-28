@@ -8,6 +8,84 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Devices from Dell, HP, and Lenovo used outdated OpenSSL versions<a href="https://securityaffairs.co/wordpress/138986/security/dell-hp-lenovo-openssl-outdated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that devices from Dell, HP, and Lenovo are still using outdated versions of the&nbsp;OpenSSL&nbsp;cryptographic library.
+
+
+
+Binarly researchers discovered that devices from Dell, HP, and Lenovo are still using outdated versions of the&nbsp;OpenSSL&nbsp;cryptographic...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the eighth actively exploited #Chrome #zeroday this year<a href="https://securityaffairs.co/wordpress/138977/hacking/8-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday released security updates to address a new zero-day vulnerability, tracked as CVE-2022-4135, impacting the Chrome web browser.
+
+
+
+Google rolled out an emergency security update for the desktop version of the Chrome web browser to address...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google pushes emergency Chrome update to fix 8th zero-day in 2022<a href="https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released an emergency security update for the desktop version of the Chrome web browser, addressing the eighth zero-day vulnerability exploited in attacks this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome Browser Now to Patch New Actively Exploited Zero-Day Flaw<a href="https://thehackernews.com/2022/11/update-chrome-browser-now-to-patch-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday released software updates to address yet another zero-day flaw in its Chrome web browser.  Tracked as&nbsp; CVE-2022-4135 , the high-severity vulnerability has been described as a heap buffer overflow in the GPU component. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the flaw on November 22, 2022.  Heap-based buffer overflow bugs can be&nbsp; weaponized &nbsp;by threat actors to crash a program or execute arbitrary code, leading to unintended behavior.  According to the NIST's National Vulnerability Database, the flaw could  permit a "remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page."  "Google is aware that an exploit for CVE-2022-4135 exists in the wild," the tech giant&nbsp; acknowledged &nbsp;in an advisory.  But like other actively exploited issues, technical specifics have been withheld until a majority of the users are updated with a fix and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell, HP, and Lenovo Devices Found Using Outdated OpenSSL Versions<a href="https://thehackernews.com/2022/11/dell-hp-and-lenovo-devices-found-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of firmware images across devices from Dell, HP, and Lenovo has revealed the presence of outdated versions of the&nbsp; OpenSSL &nbsp;cryptographic library, underscoring a supply chain risk.  EFI Development Kit, aka&nbsp; EDK , is an open source implementation of the Unified Extensible Firmware Interface ( UEFI ), which functions as an interface between the operating system and the firmware embedded in the device's hardware.  The firmware development environment, which is in its second iteration (EDK II), comes with its own cryptographic package called&nbsp; CryptoPkg &nbsp;that, in turn, makes use of services from the OpenSSL project.   Per firmware security company Binarly, the firmware image associated with Lenovo Thinkpad enterprise devices was found to use three different versions of OpenSSL: 0.9.8zb, 1.0.0a, and 1.0.2j, the last of which was released in 2018.  What's more, one of the firmware modules named InfineonTpmUpdateDxe relied on OpenSSL version 0.9.8zb that was shipped on Au
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

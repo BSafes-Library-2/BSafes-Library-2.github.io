@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+November 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5.4 million Twitter users' stolen data leaked online — more shared privately<a href="https://www.bleepingcomputer.com/news/security/54-million-twitter-users-stolen-data-leaked-online-more-shared-privately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 5.4 million Twitter user records containing non-public information stolen using an API vulnerability fixed in January have been shared for free on a hacker forum. Another massive, potentially more significant, data dump of millions of Twitter records has also been disclosed by a security researcher.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data from 5.4M Twitter users obtained from multiple threat actors and combined with data from other breaches<a href="https://securityaffairs.co/wordpress/139001/data-breach/twitter-massive-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive data breach suffered by Twitter that exposed emails and phone numbers of its customers may have impacted more than five million users.
+
+
+
+At the end of July, a threat actor&nbsp;leaked data of 5.4 million Twitter accounts&nbsp;that were obtained...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

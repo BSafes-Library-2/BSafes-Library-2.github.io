@@ -8,6 +8,34 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta and Qakbot Join Hands to Attack U.S. Companies<a href="https://cyware.com/news/black-basta-and-qakbot-join-hands-to-attack-us-companies-a1c8fbc9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason researchers identified widespread Qakbot (QBot or Pinkslipbot) campaigns targeting U.S.-based companies. The Black Basta ransomware gang is behind these recent campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All You Need to Know About Emotet in 2022<a href="https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For 6 months, the infamous Emotet botnet has shown almost no activity, and now it's distributing malicious spam. Let's dive into details and discuss all you need to know about the notorious malware to combat it.  Why is everyone scared of Emotet?  Emotet &nbsp;is by far one of the most dangerous trojans ever created. The malware became a very destructive program as it grew in scale and sophistication. The victim can be anyone from corporate to private users exposed to spam email campaigns.  The botnet distributes through phishing containing malicious Excel or Word documents. When users open these documents and enable macros, the Emotet DLL downloads and then loads into memory.  It searches for email addresses and steals them for spam campaigns. Moreover, the botnet drops additional payloads, such as Cobalt Strike or other attacks that lead to ransomware.  The polymorphic nature of Emotet, along with the many modules it includes, makes the malware challenging to identify. The Emotet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang targets Belgian municipality, hits police instead<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-belgian-municipality-hits-police-instead/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang has published&nbsp;stolen data from what they thought was the&nbsp;municipality of Zwijndrecht, but turned out to be stolen from Zwijndrecht police, a local police unit in Antwerp, Belgium.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2022
+November 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5.4 million Twitter users' stolen data leaked online — more shared privately<a href="https://www.bleepingcomputer.com/news/security/54-million-twitter-users-stolen-data-leaked-online-more-shared-privately/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2022
+November 27, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta and Qakbot Join Hands to Attack U.S. Companies<a href="https://cyware.com/news/black-basta-and-qakbot-join-hands-to-attack-us-companies-a1c8fbc9"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2022
+November 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 395<a href="https://securityaffairs.co/wordpress/139024/breaking-news/security-affairs-newsletter-round-395.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2022
+November 27, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SocGholish Attacks Remain a Real Threat<a href="https://cyware.com/news/socgholish-attacks-remain-a-real-threat-7ff136f2"> Full Text</a>
@@ -106,7 +106,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2022
+November 27, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US FCC bans the import of electronic equipment from Chinese firms<a href="https://securityaffairs.co/wordpress/138998/breaking-news/fcc-bans-import-chinese-equipment.html"> Full Text</a>
@@ -126,7 +126,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 27, 2022
+November 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abandoned Boa Servers Abused by Chinese Attackers to Target Critical Industries<a href="https://cyware.com/news/abandoned-boa-servers-abused-by-chinese-attackers-to-target-critical-industries-af7742a1"> Full Text</a>
@@ -142,7 +142,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2022
+November 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 All You Need to Know About Emotet in 2022<a href="https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html"> Full Text</a>
@@ -158,7 +158,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2022
+November 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gang targets Belgian municipality, hits police instead<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-belgian-municipality-hits-police-instead/"> Full Text</a>
@@ -174,7 +174,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 26, 2022
+November 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data from 5.4M Twitter users obtained from multiple threat actors and combined with data from other breaches<a href="https://securityaffairs.co/wordpress/139001/data-breach/twitter-massive-data-breach.html"> Full Text</a>

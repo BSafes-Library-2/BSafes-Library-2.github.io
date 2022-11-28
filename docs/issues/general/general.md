@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+November 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 395<a href="https://securityaffairs.co/wordpress/139024/breaking-news/security-affairs-newsletter-round-395.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SocGholish Attacks Remain a Real Threat<a href="https://cyware.com/news/socgholish-attacks-remain-a-real-threat-7ff136f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent finding shared by Proofpoint, SocGholish was injected into nearly 300 websites to target users worldwide. The targeted countries included Poland, Italy, France, Iran, Spain, Germany, the U.S., and the U.K.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

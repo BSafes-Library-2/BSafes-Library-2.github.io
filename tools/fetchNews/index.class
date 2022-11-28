@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5.4 million Twitter users' stolen data leaked online — more shared privately<a href="https://www.bleepingcomputer.com/news/security/54-million-twitter-users-stolen-data-leaked-online-more-shared-privately/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 5.4 million Twitter user records containing non-public information stolen using an API vulnerability fixed in January have been shared for free on a hacker forum. Another massive, potentially more significant, data dump of millions of Twitter records has also been disclosed by a security researcher.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta and Qakbot Join Hands to Attack U.S. Companies<a href="https://cyware.com/news/black-basta-and-qakbot-join-hands-to-attack-us-companies-a1c8fbc9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybereason researchers identified widespread Qakbot (QBot or Pinkslipbot) campaigns targeting U.S.-based companies. The Black Basta ransomware gang is behind these recent campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 395<a href="https://securityaffairs.co/wordpress/139024/breaking-news/security-affairs-newsletter-round-395.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SocGholish Attacks Remain a Real Threat<a href="https://cyware.com/news/socgholish-attacks-remain-a-real-threat-7ff136f2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent finding shared by Proofpoint, SocGholish was injected into nearly 300 websites to target users worldwide. The targeted countries included Poland, Italy, France, Iran, Spain, Germany, the U.S., and the U.K.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US FCC bans the import of electronic equipment from Chinese firms<a href="https://securityaffairs.co/wordpress/138998/breaking-news/fcc-bans-import-chinese-equipment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission announced it will completely ban the import of electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua.
+
+
+
+The U.S. Federal Communications Commission (FCC) announced the total ban for telecom and surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abandoned Boa Servers Abused by Chinese Attackers to Target Critical Industries<a href="https://cyware.com/news/abandoned-boa-servers-abused-by-chinese-attackers-to-target-critical-industries-af7742a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boa web server was discontinued in 2005, however, different vendors still implement it across a variety of IoT devices ranging from routers to cameras and popular SDKs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+All You Need to Know About Emotet in 2022<a href="https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For 6 months, the infamous Emotet botnet has shown almost no activity, and now it's distributing malicious spam. Let's dive into details and discuss all you need to know about the notorious malware to combat it.  Why is everyone scared of Emotet?  Emotet  is by far one of the most dangerous trojans ever created. The malware became a very destructive program as it grew in scale and sophistication. The victim can be anyone from corporate to private users exposed to spam email campaigns.  The botnet distributes through phishing containing malicious Excel or Word documents. When users open these documents and enable macros, the Emotet DLL downloads and then loads into memory.  It searches for email addresses and steals them for spam campaigns. Moreover, the botnet drops additional payloads, such as Cobalt Strike or other attacks that lead to ransomware.  The polymorphic nature of Emotet, along with the many modules it includes, makes the malware challenging to identify. The Emotet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang targets Belgian municipality, hits police instead<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-belgian-municipality-hits-police-instead/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ragnar Locker ransomware gang has published stolen data from what they thought was the municipality of Zwijndrecht, but turned out to be stolen from Zwijndrecht police, a local police unit in Antwerp, Belgium.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data from 5.4M Twitter users obtained from multiple threat actors and combined with data from other breaches<a href="https://securityaffairs.co/wordpress/139001/data-breach/twitter-massive-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive data breach suffered by Twitter that exposed emails and phone numbers of its customers may have impacted more than five million users.
+
+
+
+At the end of July, a threat actor leaked data of 5.4 million Twitter accounts that were obtained...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 26, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

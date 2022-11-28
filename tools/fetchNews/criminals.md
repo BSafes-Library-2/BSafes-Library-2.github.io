@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An international police operation dismantled the spoofing service iSpoof<a href="https://securityaffairs.co/wordpress/138957/cyber-crime/police-dismantled-spoofing-service-ispoof.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has dismantled an online phone number spoofing service called&nbsp;iSpoof.
+
+
+
+An international law enforcement operation that was conducted by authorities in Europe, Australia, the United States, Ukraine, and Canada,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Police Arrest 142 in Global Crackdown on 'iSpoof' Phone Spoofing Service<a href="https://thehackernews.com/2022/11/uk-police-arrest-142-in-global.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement effort has dismantled an online phone number spoofing service called&nbsp; iSpoof &nbsp;and arrested 142 individuals linked to the operation.  The websites, ispoof[.]me and ispoof[.]cc, allowed the crooks to "impersonate trusted corporations or contacts to access sensitive information from victims," Europol&nbsp; said &nbsp;in a press statement.  Worldwide losses exceeded €115 million ($ 119.8 million), with over 200,000 potential victims believed to have been directly targeted through iSpoof in the U.K. alone, the Metropolitan Police&nbsp; noted .&nbsp;   Among the 142 people arrested is the administrator of the website, who was apprehended in the U.K. on November 6, 2022. The website and its server were subsequently seized and taken offline two days later by Ukrainian and U.S. agencies.  Per the National Police Corps, the helpdesk fraud&nbsp; allowed &nbsp;registered subscribers on the online portal to mask their phone numbers and make calls impersonating banks, retail companies, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Seized $130 Million from Cybercriminals in Global "HAECHI-III" Crackdown Operation<a href="https://thehackernews.com/2022/11/interpol-seized-130-million-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol on Thursday&nbsp; announced &nbsp;the seizure of $130 million worth of virtual assets in connection with a global crackdown on cyber-enabled financial crimes and money laundering.  The international police operation, dubbed&nbsp; HAECHI-III , transpired between June 28 and November 23, 2022, resulting in the arrests of 975 individuals and the closure of more than 1,600 cases.  This comprised two fugitives wanted by South Korea for their supposed involvement in a Ponzi scheme to embezzle €28 million from 2,000 victims.   Another instance pertained to a call center scam based out of India, wherein a group of criminals impersonated Interpol and Europol officers to trick victims in Austria into transferring funds. The call centers operated from New Delhi and Noida.  The illegal activity informed the victims that their "identities were stolen and crime pertaining to narcotics drugs were committed in their names," forcing them to make a money transfer.  "In order to clear themselve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

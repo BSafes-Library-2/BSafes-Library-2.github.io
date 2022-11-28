@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ukraine conflict has exposed the limits of cyber warfare<a href="https://thenextweb.com/news/why-russia-cyber-army-has-struggled-to-impact-ukraine-war?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have offered an array of explanations for Russia’s cyber limitations. They range from upgrades to Ukraine’s defenses to changes in the Kremlin’s tactics.
+</details>
+<div style="text-align: right" markdown="1">
+The Next Web
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

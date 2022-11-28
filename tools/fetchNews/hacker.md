@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahamut Cyber Mercenary Group Targets Android Users with Fake VPN Apps<a href="https://www.welivesecurity.com/2022/11/23/bahamut-cybermercenary-group-targets-android-users-fake-vpn-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking-for-hire group is distributing malicious apps through a fake SecureVPN website that enables Android apps to be downloaded from Google Play, say researchers at Eset.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
