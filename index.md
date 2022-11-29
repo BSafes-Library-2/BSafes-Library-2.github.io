@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acer fixes UEFI bugs that can be used to disable Secure Boot<a href="https://www.bleepingcomputer.com/news/security/acer-fixes-uefi-bugs-that-can-be-used-to-disable-secure-boot/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit RCE Vulnerability in Windows Internet Key Exchange<a href="https://cyware.com/news/hackers-exploit-rce-vulnerability-in-windows-internet-key-exchange-ce908a01"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail AppSync Cross-Tenant Vulnerability in Amazon Web Services<a href="https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in some Acer laptops can be used to bypass security features<a href="https://securityaffairs.co/wordpress/139055/hacking/acer-flaw-uefi-secure-boot.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Android app found powering account creation service<a href="https://www.bleepingcomputer.com/news/security/malicious-android-app-found-powering-account-creation-service/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomBoggs Attacks in Ukraine Linked To Russian Hackers<a href="https://cyware.com/news/ransomboggs-attacks-in-ukraine-linked-to-russian-hackers-ddf45c03"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The 5 Cornerstones for an Effective Cyber Security Awareness Training<a href="https://thehackernews.com/2022/11/the-5-cornerstones-for-effective-cyber.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found a vulnerability in AWS AppSync<a href="https://securityaffairs.co/wordpress/139045/hacking/amazon-web-services-flaw.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok ‘Invisible Body’ challenge exploited to push malware<a href="https://www.bleepingcomputer.com/news/security/tiktok-invisible-body-challenge-exploited-to-push-malware/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FC Barcelona’s Website Used by Scammers for Fraud<a href="https://heimdalsecurity.com/blog/fc-barcelonas-website-used-by-scammers-for-fraud/?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Heimdal Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over a Dozen New BMC Firmware Flaws Expose OT and IoT Devices to Remote Attacks<a href="https://thehackernews.com/2022/11/over-dozen-new-bmc-firmware-flaws.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomBoggs Ransomware hit several Ukrainian entities, experts attribute it to Russia<a href="https://securityaffairs.co/wordpress/139028/cyber-warfare-2/ransomboggs-ransomware-targeted-ukraine.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Monday deal: Get 50% off Malwarebytes Premium, Privacy VPN<a href="https://www.bleepingcomputer.com/news/security/cyber-monday-deal-get-50-percent-off-malwarebytes-premium-privacy-vpn/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hacker Groups Xenotime and Kamacite Target Dutch LNG Terminal<a href="https://finance.yahoo.com/news/russian-hackers-target-dutch-lng-170000151.html?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Yahoo Finance
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages<a href="https://thehackernews.com/2022/11/elon-musk-confirms-twitter-20-will.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta fined €265M for not protecting Facebook users' data from scrapers<a href="https://www.bleepingcomputer.com/news/security/meta-fined-265m-for-not-protecting-facebook-users-data-from-scrapers/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco ISE Vulnerabilities Can Be Chained in One-Click Exploit<a href="https://www.securityweek.com/cisco-ise-vulnerabilities-can-be-chained-one-click-exploit?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Cyber Monday 2022 Security, IT, VPN, & Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-cyber-monday-2022-security-it-vpn-and-antivirus-deals/"> Full Text</a>
@@ -334,7 +334,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US effectively bans imports of Chinese telecoms products<a href="https://www.theregister.com/2022/11/27/fcc_china_equipment_authorization_ban/?&web_view=true"> Full Text</a>
@@ -350,7 +350,7 @@ The Register
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US bans sales of Huawei, Hikvision, ZTE, and Dahua equipment<a href="https://www.bleepingcomputer.com/news/security/us-bans-sales-of-huawei-hikvision-zte-and-dahua-equipment/"> Full Text</a>
@@ -366,7 +366,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2022
+November 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Census Bureau disputes Inspector General claim that hacking team gained unauthorized access<a href="https://therecord.media/census-bureau-disputes-inspector-general-claim-that-hacking-team-gained-unauthorized-access/?&web_view=true"> Full Text</a>

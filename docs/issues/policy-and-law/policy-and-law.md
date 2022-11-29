@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta fined €265M for not protecting Facebook users' data from scrapers<a href="https://www.bleepingcomputer.com/news/security/meta-fined-265m-for-not-protecting-facebook-users-data-from-scrapers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has been fined&nbsp;€265 million ($275.5 million) by the Irish data protection commission (DPC)&nbsp;for a massive 2021 Facebook data leak exposing the information of hundreds of million users worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

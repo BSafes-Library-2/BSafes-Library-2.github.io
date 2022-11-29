@@ -34,6 +34,354 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer fixes UEFI bugs that can be used to disable Secure Boot<a href="https://www.bleepingcomputer.com/news/security/acer-fixes-uefi-bugs-that-can-be-used-to-disable-secure-boot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acer has fixed a high-severity vulnerability affecting multiple laptop models that could enable local attackers to deactivate UEFI Secure Boot security feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit RCE Vulnerability in Windows Internet Key Exchange<a href="https://cyware.com/news/hackers-exploit-rce-vulnerability-in-windows-internet-key-exchange-ce908a01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company Cyfirma outlined a series of exploits in the wild targeting Windows Internet Key Exchange (IKE) Protocol Extensions for CVE-2022-34721. The critical bug may have been exploited to target almost 1000 systems. Microsoft added that IKEv2 is not impacted, however, all Windows Servers a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail AppSync Cross-Tenant Vulnerability in Amazon Web Services<a href="https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has resolved a cross-tenant vulnerability in its platform that could be weaponized by an attacker to gain unauthorized access to resources.  The issue relates to a  confused deputy problem , a type of privilege escalation where a program that doesn't have permission to perform an action can coerce a more-privileged entity to perform the action.  The shortcoming was reported by Datadog to AWS on September 1, 2022, following which a patch was shipped on September 6.  "This attack abuses the AppSync service to assume [identity and access management]  roles  in other AWS accounts, which allows an attacker to pivot into a victim organization and access resources in those accounts," Datadog researcher Nick Frichette  said  in a report published last week.   In a coordinated disclosure, Amazon  said  that no customers were affected by the vulnerability and that no customer action is required.  It described it as a "case-sensitivity parsing issue w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in some Acer laptops can be used to bypass security features<a href="https://securityaffairs.co/wordpress/139055/hacking/acer-flaw-uefi-secure-boot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET announced the discovery of a vulnerability impacting Acer laptops that can allow an attacker to deactivate UEFI Secure Boot.
+
+
+
+ESET researchers announced in a series of tweets the discovery of a vulnerability impacting Acer laptops, the issue can allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Android app found powering account creation service<a href="https://www.bleepingcomputer.com/news/security/malicious-android-app-found-powering-account-creation-service/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A fake Android SMS application, with 100,000 downloads on the Google Play store, has been discovered to secretly act as an SMS relay for an account creation service for sites like Microsoft, Google, Instagram, Telegram, and Facebook
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomBoggs Attacks in Ukraine Linked To Russian Hackers<a href="https://cyware.com/news/ransomboggs-attacks-in-ukraine-linked-to-russian-hackers-ddf45c03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers connected the Russian Sandworm APT group to a new ransomware, dubbed RansomBoggs, that has been targeting Ukrainian entities. Sandworm’s linkage with the new RansomBoggs indicates that the group is actively enhancing its toolset to make its attacks efficient.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 5 Cornerstones for an Effective Cyber Security Awareness Training<a href="https://thehackernews.com/2022/11/the-5-cornerstones-for-effective-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's not news that phishing attacks are getting more complex and happening more often. This year alone, APWG reported a record-breaking total of  1,097,811 phishing attacks.  These attacks continue to target organizations and individuals to gain their sensitive information.   The hard news:  they're often successful, have a long-lasting negative impact on your organization and employees, including:   Loss of Money  Reputation damage  Loss of Intellectual property  Disruptions to operational activities  Negative effect on company culture   The harder news:  These often could have been easily avoided.  Phishing, educating your employees, and creating a cyber awareness culture? These are topics we're sensitive to and well-versed in. So, how can you effectively protect your organization against phishing attempts? These best practices will help transform your employees' behavior and build organizational resilience to phishing attacks.   Source: APWG  Plan for total workforc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found a vulnerability in AWS AppSync<a href="https://securityaffairs.co/wordpress/139045/hacking/amazon-web-services-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) fixed a cross-tenant vulnerability that could have allowed attackers to gain unauthorized access to resources.
+
+
+
+Amazon Web Services (AWS) has addressed a cross-tenant confused deputy problem in its platform that could have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok ‘Invisible Body’ challenge exploited to push malware<a href="https://www.bleepingcomputer.com/news/security/tiktok-invisible-body-challenge-exploited-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are capitalizing on a trending TikTok challenge named 'Invisible Challenge' to install malware on thousands of devices and steal their passwords, Discord accounts, and, potentially, cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FC Barcelona’s Website Used by Scammers for Fraud<a href="https://heimdalsecurity.com/blog/fc-barcelonas-website-used-by-scammers-for-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Adex, the threat actors used the club website to increase traffic to a likely fraudulent online gaming website. FC Barcelona’s website is visited monthly by 5.4 million people and ranks among the most visited football clubs.
+</details>
+<div style="text-align: right" markdown="1">
+Heimdal Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Dozen New BMC Firmware Flaws Expose OT and IoT Devices to Remote Attacks<a href="https://thehackernews.com/2022/11/over-dozen-new-bmc-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over a dozen security flaws have been discovered in baseboard management controller ( BMC ) firmware from Lanner that could expose operational technology (OT) and internet of things (IoT) networks to remote attacks.  BMC refers to a specialized service processor, a system-on-chip (SoC), that's found in server motherboards and is used for remote monitoring and management of a host system, including performing low-level system operations such as  firmware flashing  and power control.   Nozomi Networks, which analyzed an Intelligent Platform Management Interface ( IPMC ) from Taiwanese vendor Lanner Electronics, said it uncovered 13 weaknesses affecting  IAC-AST2500 .  All the issues affect version 1.10.0 of the standard firmware, with the exception of CVE-2021-4228, which impacts version 1.00.0. Four of the flaws (from CVE-2021-26727 to CVE-2021-26730) are rated 10 out of 10 on the CVSS scoring system.   In particular, the industrial security company found that CVE-2021-44467, an ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomBoggs Ransomware hit several Ukrainian entities, experts attribute it to Russia<a href="https://securityaffairs.co/wordpress/139028/cyber-warfare-2/ransomboggs-ransomware-targeted-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian organizations were hit by Russia-based RansomBoggs Ransomware in the last week, ESET reports.
+
+
+
+Researchers from ESET observed multiple attacks involving a new family of ransomware, tracked as RansomBoggs ransomware, against Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Monday deal: Get 50% off Malwarebytes Premium, Privacy VPN<a href="https://www.bleepingcomputer.com/news/security/cyber-monday-deal-get-50-percent-off-malwarebytes-premium-privacy-vpn/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes' Cyber Monday deal is now live, offering a 50% discount on the Malwarebytes Premium antivirus + Malwarebytes Privacy VPN bundle until November 28th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Groups Xenotime and Kamacite Target Dutch LNG Terminal<a href="https://finance.yahoo.com/news/russian-hackers-target-dutch-lng-170000151.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers have been doing “exploratory research” into the systems of the Dutch LNG terminals, trying to find ways into the systems, American cybersecurity company Dragos has reported.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages<a href="https://thehackernews.com/2022/11/elon-musk-confirms-twitter-20-will.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter chief executive Elon Musk confirmed plans for end-to-end encryption ( E2EE ) for direct messages on the platform.  The  feature  is part of Musk's vision for Twitter 2.0, which is expected to be what's called an "everything app." Other functionalities include longform tweets and payments, according to a slide deck shared by Musk over the weekend.   The company's plans for encrypted messages first came to light in mid-November 2022, when mobile researcher Jane Manchun Wong  spotted  source code changes in Twitter's Android app referencing conversation keys for E2EE chats.  It's worth noting that various other messaging platforms, such as Signal, Threema, WhatsApp, iMessage, Wire, Tox, and Keybase, already support encryption for messages.  Google, which previously turned on E2EE for  one-to-one chats  in its RCS-based Messages app for Android, is currently piloting the same option for group chats. Facebook, likewise, began  enabling E2EE  on Messeng
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta fined €265M for not protecting Facebook users' data from scrapers<a href="https://www.bleepingcomputer.com/news/security/meta-fined-265m-for-not-protecting-facebook-users-data-from-scrapers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has been fined €265 million ($275.5 million) by the Irish data protection commission (DPC) for a massive 2021 Facebook data leak exposing the information of hundreds of million users worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco ISE Vulnerabilities Can Be Chained in One-Click Exploit<a href="https://www.securityweek.com/cisco-ise-vulnerabilities-can-be-chained-one-click-exploit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in Cisco Identity Services Engine (ISE) could allow remote attackers to inject arbitrary commands, bypass existing security protections, or perform cross-site scripting (XSS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyber Monday 2022 Security, IT, VPN, & Antivirus Deals<a href="https://www.bleepingcomputer.com/news/security/the-cyber-monday-2022-security-it-vpn-and-antivirus-deals/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Monday is here, and great deals are live in computer security, software, online courses, system admin services, antivirus, and VPN software.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US effectively bans imports of Chinese telecoms products<a href="https://www.theregister.com/2022/11/27/fcc_china_equipment_authorization_ban/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Communications Commission (FCC) has barred itself from authorizing the import or sale of Chinese telecoms and video surveillance products from Huawei, ZTE, Hytera Communications, Hikvision, and Dahua, on national security grounds.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US bans sales of Huawei, Hikvision, ZTE, and Dahua equipment<a href="https://www.bleepingcomputer.com/news/security/us-bans-sales-of-huawei-hikvision-zte-and-dahua-equipment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government, through the Federal Communications Commission (FCC), has banned the sale of equipment from Chinese telecommunications and video surveillance vendor Huawei, ZTE, Hytera, Hikvision, and Dahua due "unacceptable risks to national security".
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Census Bureau disputes Inspector General claim that hacking team gained unauthorized access<a href="https://therecord.media/census-bureau-disputes-inspector-general-claim-that-hacking-team-gained-unauthorized-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Census Bureau disputed a report from the Office of Inspector General (OIG) that found the organization vulnerable to cyberattacks, claiming that they knowingly allowed a “red team” of hired hackers to access their systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 27, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

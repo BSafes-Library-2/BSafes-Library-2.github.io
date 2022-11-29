@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abandoned Boa Servers Abused by Chinese Attackers to Target Critical Industries<a href="https://cyware.com/news/abandoned-boa-servers-abused-by-chinese-attackers-to-target-critical-industries-af7742a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boa web server was discontinued in 2005, however, different vendors still implement it across a variety of IoT devices ranging from routers to cameras and popular SDKs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

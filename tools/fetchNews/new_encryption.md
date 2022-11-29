@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk Confirms Twitter 2.0 will Bring End-to-End Encryption to Direct Messages<a href="https://thehackernews.com/2022/11/elon-musk-confirms-twitter-20-will.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter chief executive Elon Musk confirmed plans for end-to-end encryption ( E2EE ) for direct messages on the platform.  The&nbsp; feature &nbsp;is part of Musk's vision for Twitter 2.0, which is expected to be what's called an "everything app." Other functionalities include longform tweets and payments, according to a slide deck shared by Musk over the weekend.   The company's plans for encrypted messages first came to light in mid-November 2022, when mobile researcher Jane Manchun Wong&nbsp; spotted &nbsp;source code changes in Twitter's Android app referencing conversation keys for E2EE chats.  It's worth noting that various other messaging platforms, such as Signal, Threema, WhatsApp, iMessage, Wire, Tox, and Keybase, already support encryption for messages.  Google, which previously turned on E2EE for&nbsp; one-to-one chats &nbsp;in its RCS-based Messages app for Android, is currently piloting the same option for group chats. Facebook, likewise, began&nbsp; enabling E2EE &nbsp;on Messeng
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,126 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer fixes UEFI bugs that can be used to disable Secure Boot<a href="https://www.bleepingcomputer.com/news/security/acer-fixes-uefi-bugs-that-can-be-used-to-disable-secure-boot/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acer has fixed a high-severity vulnerability affecting multiple&nbsp;laptop models that could enable local attackers to deactivate UEFI Secure Boot security feature.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit RCE Vulnerability in Windows Internet Key Exchange<a href="https://cyware.com/news/hackers-exploit-rce-vulnerability-in-windows-internet-key-exchange-ce908a01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company Cyfirma outlined a series of exploits in the wild targeting Windows Internet Key Exchange (IKE) Protocol Extensions for CVE-2022-34721. The critical bug may have been exploited to target almost 1000 systems. Microsoft added that IKEv2 is not impacted, however, all Windows Servers a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail AppSync Cross-Tenant Vulnerability in Amazon Web Services<a href="https://thehackernews.com/2022/11/researchers-detail-appsync-cross-tenant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has resolved a cross-tenant vulnerability in its platform that could be weaponized by an attacker to gain unauthorized access to resources.  The issue relates to a&nbsp; confused deputy problem , a type of privilege escalation where a program that doesn't have permission to perform an action can coerce a more-privileged entity to perform the action.  The shortcoming was reported by Datadog to AWS on September 1, 2022, following which a patch was shipped on September 6.  "This attack abuses the AppSync service to assume [identity and access management]&nbsp; roles &nbsp;in other AWS accounts, which allows an attacker to pivot into a victim organization and access resources in those accounts," Datadog researcher Nick Frichette&nbsp; said &nbsp;in a report published last week.   In a coordinated disclosure, Amazon&nbsp; said &nbsp;that no customers were affected by the vulnerability and that no customer action is required.  It described it as a "case-sensitivity parsing issue w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in some Acer laptops can be used to bypass security features<a href="https://securityaffairs.co/wordpress/139055/hacking/acer-flaw-uefi-secure-boot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET announced the discovery of a vulnerability impacting Acer laptops that can allow an attacker to deactivate UEFI Secure Boot.
+
+
+
+ESET researchers announced in a series of tweets the discovery of a vulnerability impacting Acer laptops, the issue can allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found a vulnerability in AWS AppSync<a href="https://securityaffairs.co/wordpress/139045/hacking/amazon-web-services-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) fixed a cross-tenant vulnerability that could have allowed attackers to gain unauthorized access to resources.
+
+
+
+Amazon Web Services (AWS) has addressed a cross-tenant confused deputy problem in its platform that could have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok ‘Invisible Body’ challenge exploited to push malware<a href="https://www.bleepingcomputer.com/news/security/tiktok-invisible-body-challenge-exploited-to-push-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are capitalizing on a trending TikTok challenge named 'Invisible Challenge' to install malware on thousands of devices and steal their passwords, Discord accounts, and, potentially, cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Dozen New BMC Firmware Flaws Expose OT and IoT Devices to Remote Attacks<a href="https://thehackernews.com/2022/11/over-dozen-new-bmc-firmware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over a dozen security flaws have been discovered in baseboard management controller ( BMC ) firmware from Lanner that could expose operational technology (OT) and internet of things (IoT) networks to remote attacks.  BMC refers to a specialized service processor, a system-on-chip (SoC), that's found in server motherboards and is used for remote monitoring and management of a host system, including performing low-level system operations such as&nbsp; firmware flashing &nbsp;and power control.   Nozomi Networks, which analyzed an Intelligent Platform Management Interface ( IPMC ) from Taiwanese vendor Lanner Electronics, said it uncovered 13 weaknesses affecting&nbsp; IAC-AST2500 .  All the issues affect version 1.10.0 of the standard firmware, with the exception of CVE-2021-4228, which impacts version 1.00.0. Four of the flaws (from CVE-2021-26727 to CVE-2021-26730) are rated 10 out of 10 on the CVSS scoring system.   In particular, the industrial security company found that CVE-2021-44467, an ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco ISE Vulnerabilities Can Be Chained in One-Click Exploit<a href="https://www.securityweek.com/cisco-ise-vulnerabilities-can-be-chained-one-click-exploit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in Cisco Identity Services Engine (ISE) could allow remote attackers to inject arbitrary commands, bypass existing security protections, or perform cross-site scripting (XSS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

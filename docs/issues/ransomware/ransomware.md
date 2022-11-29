@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomBoggs Ransomware hit several Ukrainian entities, experts attribute it to Russia<a href="https://securityaffairs.co/wordpress/139028/cyber-warfare-2/ransomboggs-ransomware-targeted-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Ukrainian organizations were hit by Russia-based RansomBoggs Ransomware in the last week, ESET reports.
+
+
+
+Researchers from ESET observed multiple attacks involving a new family of ransomware, tracked as RansomBoggs ransomware, against Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
