@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let’s Encrypt issued over 3 billion certificates, securing 309M sites for free<a href="https://www.bleepingcomputer.com/news/security/let-s-encrypt-issued-over-3-billion-certificates-securing-309m-sites-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet Security Research Group (ISRG),&nbsp;the nonprofit behind Let's Encrypt, says the&nbsp;open certificate authority (CA) has issued its three billionth certificate this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

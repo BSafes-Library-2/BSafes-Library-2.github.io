@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Groups Xenotime and Kamacite Target Dutch LNG Terminal<a href="https://finance.yahoo.com/news/russian-hackers-target-dutch-lng-170000151.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hackers have been doing “exploratory research” into the systems of the Dutch LNG terminals, trying to find ways into the systems, American cybersecurity company Dragos has reported.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo Finance
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

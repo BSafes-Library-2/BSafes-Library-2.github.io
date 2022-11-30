@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 5 Cornerstones for an Effective Cyber Security Awareness Training<a href="https://thehackernews.com/2022/11/the-5-cornerstones-for-effective-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's not news that phishing attacks are getting more complex and happening more often. This year alone, APWG reported a record-breaking total of&nbsp; 1,097,811 phishing attacks. &nbsp;These attacks continue to target organizations and individuals to gain their sensitive information.&nbsp;  The hard news:&nbsp; they're often successful, have a long-lasting negative impact on your organization and employees, including:   Loss of Money  Reputation damage  Loss of Intellectual property  Disruptions to operational activities  Negative effect on company culture   The harder news:&nbsp; These often could have been easily avoided.  Phishing, educating your employees, and creating a cyber awareness culture? These are topics we're sensitive to and well-versed in. So, how can you effectively protect your organization against phishing attempts? These best practices will help transform your employees' behavior and build organizational resilience to phishing attacks.&nbsp;  Source: APWG  Plan for total workforc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KNOWN EXPLOITED VULNERABILITIES CATALOG
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 25, 2022 - FCC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -75,6 +87,18 @@ Venus Ransomware Targets Publicly Exposed Remote Desktop Services <a href="https
 <details>
   <summary>Abstract</summary>
 HC3 is aware of at least one healthcare entity in the United States falling victim to Venus ransomware recently. The threat actors behind Venus ransomware operations are known to target publicly exposed Remote Desktop Services to encrypt Windows devices. This report provides additional information, indicators of compromise, techniques and corresponding mitigations associated with Venus ransomware.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2022 - Department of Defense
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoD Zero Trust Strategy <a href="https://s3.documentcloud.org/documents/23321540/dod-ztstrategy.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Our adversaries are in our networks, exfiltrating our data, and exploiting the Department’s users.  The rapid growth of these offensive threats emphasizes the need for the Department of Defense (DoD) to adapt and significantly improve our deterrence strategies and cybersecurity implementations. Defending DoD networks with high-powered and ever-more sophisticated perimeter defenses is no longer sufficient for achieving cyber resiliency and securing our information enterprise that spans geographic borders, interfaces with external partners, and support to millions of authorized users, many of which now require access to DoD networks outside traditional boundaries, such as work from home. To meet these challenges, the DoD requires an enhanced cybersecurity framework built upon Zero Trust principles that must be adopted across the Department, enterprise-wide, as quickly as possible as described within this document. 
 </details>
 </div>
 

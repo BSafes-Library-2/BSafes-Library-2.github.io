@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Abuse Vulnerability in Fortinet Products<a href="https://cyware.com/news/hackers-actively-abuse-vulnerability-in-fortinet-products-ba3911bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are abusing a critical authentication bypass vulnerability, tracked as CVE-2022-40684 in multiple versions of Fortinet Products, including FortiOS, FortiProxy, and FortiSwitchManager. Researchers found that there are over a hundred thousand FortiGate firewalls exposed over the internet th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaw in Acer Laptops Could Let Attackers Disable Secure Boot Protection<a href="https://thehackernews.com/2022/11/new-flaw-in-acer-laptops-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acer has released a firmware update to address a security vulnerability that could be potentially weaponized to turn off UEFI Secure Boot on affected machines.  Tracked as&nbsp; CVE-2022-4020 , the high-severity vulnerability affects five different models that consist of Aspire A315-22, A115-21, and A315-22G, and Extensa EX215-21 and EX215-21G.   The PC maker described the vulnerability as an issue that "may allow changes to Secure Boot settings by creating NVRAM variables." Credited with&nbsp; discovering &nbsp;the flaw is ESET researcher Martin Smolár, who previously disclosed&nbsp; similar bugs &nbsp;in Lenovo computers.  Disabling Secure Boot, an integrity mechanism that guarantees that only trusted software is loaded during system startup, enables a malicious actor to tamper with&nbsp; boot loaders , leading to severe consequences.  This includes&nbsp; granting &nbsp;the attacker complete control over the operating system loading process as well as "disable or bypass protections to silently deploy their
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell, HP, &amp; Lenovo System Found Using Outdated OpenSSL<a href="https://gbhackers.com/outdated-openssl/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity researchers at Binarly recently discovered that outdated versions of the OpenSSL cryptographic library are still being used by Dell, HP, and Lenovo on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

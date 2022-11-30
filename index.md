@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trigona ransomware spotted in increasing attacks worldwide<a href="https://www.bleepingcomputer.com/news/security/trigona-ransomware-spotted-in-increasing-attacks-worldwide/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Actively Abuse Vulnerability in Fortinet Products<a href="https://cyware.com/news/hackers-actively-abuse-vulnerability-in-fortinet-products-ba3911bf"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaw in Acer Laptops Could Let Attackers Disable Secure Boot Protection<a href="https://thehackernews.com/2022/11/new-flaw-in-acer-laptops-could-let.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense Department Releases Zero Trust Strategy<a href="https://www.lawfareblog.com/defense-department-releases-zero-trust-strategy"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are offering access to corporate networks via unauthorized Fortinet VPN access<a href="https://securityaffairs.co/wordpress/139085/cyber-crime/iabs-offers-access-via-fortinet-products.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Let’s Encrypt issued over 3 billion certificates, securing 309M sites for free<a href="https://www.bleepingcomputer.com/news/security/let-s-encrypt-issued-over-3-billion-certificates-securing-309m-sites-for-free/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Two Actively Exploited Flaws to its Catalog<a href="https://cyware.com/news/cisa-adds-two-actively-exploited-flaws-to-its-catalog-3edff244"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Trending TikTok 'Invisible Challenge' to Spread Malware<a href="https://thehackernews.com/2022/11/hackers-using-trending-invisible.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Oracle Fusion Middleware flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/139077/security/oracle-fusion-middleware-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -186,7 +186,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish police dismantle operation that made €12M via investment scams<a href="https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-operation-that-made-12m-via-investment-scams/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dell, HP, & Lenovo System Found Using Outdated OpenSSL<a href="https://gbhackers.com/outdated-openssl/?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ GB Hackers
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 Cyber Security Tips for SMBs<a href="https://thehackernews.com/2022/11/7-cyber-security-tips-for-smbs.html"> Full Text</a>
@@ -234,7 +234,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tips for Gamifying Your Cybersecurity Awareness Training Program<a href="https://securityaffairs.co/wordpress/139073/security/gamifying-cybersecurity-awareness-training.html"> Full Text</a>
@@ -254,7 +254,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware detection with Wazuh SIEM and XDR platform<a href="https://www.bleepingcomputer.com/news/security/ransomware-detection-with-wazuh-siem-and-xdr-platform/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptonite and Punisher - An Analysis of New Ransomware<a href="https://cyware.com/news/cryptonite-and-punisher-an-analysis-of-new-ransomware-ef8b3124"> Full Text</a>
@@ -286,7 +286,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish Regulator Fines Facebook $277 Million for Leak of Half a Billion Users' Data<a href="https://thehackernews.com/2022/11/irish-regulator-fines-facebook-277.html"> Full Text</a>
@@ -302,7 +302,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish data protection commission fines Meta over 2021 data-scraping leak<a href="https://securityaffairs.co/wordpress/139063/laws-and-regulations/irish-dpc-fines-meta-data-scraping.html"> Full Text</a>
@@ -322,7 +322,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender boosts default protection for all enterprise users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-boosts-default-protection-for-all-enterprise-users/"> Full Text</a>
@@ -338,7 +338,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indiana Health Entity Reports Breach Involving Tracking Code<a href="https://www.bankinfosecurity.com/indiana-health-entity-reports-breach-involving-tracking-code-a-20569?&web_view=true"> Full Text</a>
@@ -354,7 +354,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Actively Exploited Critical Oracle Fusion Middleware Vulnerability<a href="https://thehackernews.com/2022/11/cisa-warns-of-actively-exploited.html"> Full Text</a>
@@ -370,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 https://thehackernews.com/2022/11/cisa-warns-of-actively-exploited.html
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Greater Toronto School Offline Following 'Cyber Incident'<a href="https://www.bankinfosecurity.com/greater-toronto-school-offline-following-cyber-incident-a-20567?&web_view=true"> Full Text</a>
@@ -386,7 +386,7 @@ Bank Info Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How WannaCry Shapes Cybersecurity Today<a href="https://securityintelligence.com/articles/how-wannacry-shapes-cybersecurity/?&web_view=true"> Full Text</a>
@@ -402,7 +402,7 @@ Security Intelligence
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Carolina College Confirms Ransomware Group Stole Sensitive Data<a href="https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-sensitive-data/?&web_view=true"> Full Text</a>
@@ -418,7 +418,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
+November 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blockchain didn't end spam in India, regulator now trying AI<a href="https://www.theregister.com/2022/11/29/india_txt_spam_crackdown/?&web_view=true"> Full Text</a>

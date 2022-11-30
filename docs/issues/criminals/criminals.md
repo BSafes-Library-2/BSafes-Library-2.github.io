@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish police dismantle operation that made €12M via investment scams<a href="https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-operation-that-made-12m-via-investment-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish National Police have dismantled a cybercrime organization that used fake investment sites to defraud over €12.3 million ($12.8 million) from 300 victims across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Carolina College Confirms Ransomware Group Stole Sensitive Data<a href="https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-sensitive-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spokesperson for the college said the attack occurred in October and law enforcement was immediately notified. The school disconnected its systems and hired outside security experts to help restore systems and investigate the incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

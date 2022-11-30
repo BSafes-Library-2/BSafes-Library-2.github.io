@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Regulator Fines Facebook $277 Million for Leak of Half a Billion Users' Data<a href="https://thehackernews.com/2022/11/irish-regulator-fines-facebook-277.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Data Protection Commission (DPC) has&nbsp; levied fines &nbsp;of €265 million ($277 million) against Meta Platforms for failing to safeguard the personal data of more than half a billion users of its Facebook service, ramping up privacy enforcement against U.S. tech firms.  The fines follow an inquiry initiated by the European regulator on April 14, 2021, close on the heels of a leak of a "collated dataset of Facebook personal data that had been made available on the internet."  This included the&nbsp; personal information &nbsp;associated with 533 million users of the social media platform, such as their phone numbers, dates of birth, locations, email addresses, gender, marital status, account creation date, and other profile details.   Meta acknowledged that the information was "old data" that was obtained by malicious actors by taking advantage of a technique called "phone number enumeration" to&nbsp; scrape users' public profiles . This entailed misusing a t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

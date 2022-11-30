@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish data protection commission fines Meta over 2021 data-scraping leak<a href="https://securityaffairs.co/wordpress/139063/laws-and-regulations/irish-dpc-fines-meta-data-scraping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Irish data protection commission (DPC) fined Meta for not protecting Facebook's users' data from scraping. 
+
+
+
+Meta has been fined&nbsp;€265 million ($275.5 million) by the Irish data protection commission (DPC) for the data leak suffered by Facebook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indiana Health Entity Reports Breach Involving Tracking Code<a href="https://www.bankinfosecurity.com/indiana-health-entity-reports-breach-involving-tracking-code-a-20569?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Community Health Network on November 18 reported to the U.S. Department of Health and Human Services an unauthorized access/disclosure breach affecting 1.5 million individuals involving the use of website tracking code.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

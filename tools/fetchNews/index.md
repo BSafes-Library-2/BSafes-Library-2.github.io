@@ -34,6 +34,406 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trigona ransomware spotted in increasing attacks worldwide<a href="https://www.bleepingcomputer.com/news/security/trigona-ransomware-spotted-in-increasing-attacks-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unnamed ransomware has rebranded under the name 'Trigona,' launching a new Tor negotiation site where they accept Monero as ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Actively Abuse Vulnerability in Fortinet Products<a href="https://cyware.com/news/hackers-actively-abuse-vulnerability-in-fortinet-products-ba3911bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are abusing a critical authentication bypass vulnerability, tracked as CVE-2022-40684 in multiple versions of Fortinet Products, including FortiOS, FortiProxy, and FortiSwitchManager. Researchers found that there are over a hundred thousand FortiGate firewalls exposed over the internet th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaw in Acer Laptops Could Let Attackers Disable Secure Boot Protection<a href="https://thehackernews.com/2022/11/new-flaw-in-acer-laptops-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acer has released a firmware update to address a security vulnerability that could be potentially weaponized to turn off UEFI Secure Boot on affected machines.  Tracked as  CVE-2022-4020 , the high-severity vulnerability affects five different models that consist of Aspire A315-22, A115-21, and A315-22G, and Extensa EX215-21 and EX215-21G.   The PC maker described the vulnerability as an issue that "may allow changes to Secure Boot settings by creating NVRAM variables." Credited with  discovering  the flaw is ESET researcher Martin Smolár, who previously disclosed  similar bugs  in Lenovo computers.  Disabling Secure Boot, an integrity mechanism that guarantees that only trusted software is loaded during system startup, enables a malicious actor to tamper with  boot loaders , leading to severe consequences.  This includes  granting  the attacker complete control over the operating system loading process as well as "disable or bypass protections to silently deploy their
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense Department Releases Zero Trust Strategy<a href="https://www.lawfareblog.com/defense-department-releases-zero-trust-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Nov. 22, the U.S. Department of Defense released their Zero Trust Strategy, a new approach to countering cyberattacks. The new framework employs a “‘never trust, always verify’” mindset, deviating from the Defense Department’s previously used perimeter defense model. The strategy is prompted by the “rapid growth” of offensive cyber threats and aims to fully implement the department-wide model by fiscal year 2027.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are offering access to corporate networks via unauthorized Fortinet VPN access<a href="https://securityaffairs.co/wordpress/139085/cyber-crime/iabs-offers-access-via-fortinet-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble observed Initial Access Brokers (IABs) offering access to enterprise networks compromised via a critical flaw in Fortinet products.
+
+
+
+Researchers at Cyble have observed initial access brokers (IABs) selling access to enterprise networks likely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Let’s Encrypt issued over 3 billion certificates, securing 309M sites for free<a href="https://www.bleepingcomputer.com/news/security/let-s-encrypt-issued-over-3-billion-certificates-securing-309m-sites-for-free/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet Security Research Group (ISRG), the nonprofit behind Let's Encrypt, says the open certificate authority (CA) has issued its three billionth certificate this year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Actively Exploited Flaws to its Catalog<a href="https://cyware.com/news/cisa-adds-two-actively-exploited-flaws-to-its-catalog-3edff244"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA urged users' attention toward a high-severity bug in Oracle Fusion Middleware that is under heavy exploitation by hackers. A hacker could completely take over Access Manager instances by abusing the flaw. The CISA has also added s Google Chrome bug that can be abused to take control of sys ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Trending TikTok 'Invisible Challenge' to Spread Malware<a href="https://thehackernews.com/2022/11/hackers-using-trending-invisible.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are capitalizing on a popular TikTok challenge to trick users into downloading information-stealing malware, according to new research from Checkmarx.  The trend, called  Invisible Challenge , involves applying a filter known as  Invisible Body  that just leaves behind a silhouette of the person's body.  But the fact that individuals filming such videos could be undressed has led to a nefarious scheme wherein the attackers post TikTok videos with links to rogue software dubbed "unfilter" that purport to remove the applied filters.   "Instructions to get the 'unfilter' software deploy  WASP stealer malware  hiding inside malicious Python packages," Checkmarx researcher Guy Nachshon  said  in a Monday analysis.  The WASP stealer (aka W4SP Stealer) is a malware that's designed to steal users' passwords, Discord accounts, cryptocurrency wallets, and other sensitive information.  The TikTok videos posted by the attackers, @learncyber an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Oracle Fusion Middleware flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/139077/security/oracle-fusion-middleware-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a critical flaw impacting Oracle Fusion Middleware, tracked as CVE-2021-35587, to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) a critical vulnerability impacting Oracle Fusion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish police dismantle operation that made €12M via investment scams<a href="https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-operation-that-made-12m-via-investment-scams/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish National Police have dismantled a cybercrime organization that used fake investment sites to defraud over €12.3 million ($12.8 million) from 300 victims across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dell, HP, & Lenovo System Found Using Outdated OpenSSL<a href="https://gbhackers.com/outdated-openssl/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity researchers at Binarly recently discovered that outdated versions of the OpenSSL cryptographic library are still being used by Dell, HP, and Lenovo on their devices.
+</details>
+<div style="text-align: right" markdown="1">
+GB Hackers
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Cyber Security Tips for SMBs<a href="https://thehackernews.com/2022/11/7-cyber-security-tips-for-smbs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When the headlines focus on breaches of large enterprises like the Optus breach, it's easy for smaller businesses to think they're not a target for hackers. Surely, they're not worth the time or effort?   Unfortunately, when it comes to cyber security, size doesn't matter.   Assuming you're not a target leads to lax security practices in many SMBs who lack the knowledge or expertise to put simple security steps in place. Few small businesses prioritise cybersecurity, and hackers know it. According to Verizon, the number of smaller businesses being hit has climbed steadily in the last few years – 46% of cyber breaches in 2021 impacted businesses with fewer than 1,000 employees.   Cyber security doesn't need to be difficult  Securing any business doesn't need to be complex or come with a hefty price tag. Here are seven simple tips to help the smaller business secure their systems, people and data.  1 — Install anti-virus software everywhere   Every organisation has anti-virus on the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tips for Gamifying Your Cybersecurity Awareness Training Program<a href="https://securityaffairs.co/wordpress/139073/security/gamifying-cybersecurity-awareness-training.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today’s technological world, educating people about cybersecurity awareness is an absolute necessity.
+
+
+
+According to one report, 82% of data breaches involved the human element, from social attacks to misuse of technologies. These errors are not always...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware detection with Wazuh SIEM and XDR platform<a href="https://www.bleepingcomputer.com/news/security/ransomware-detection-with-wazuh-siem-and-xdr-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wazuh is a free, open source SIEM/XDR solution with more than 10 million annual downloads. Learn more about how Wazuh can help protect your organization against the ever-evolving tactics of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptonite and Punisher - An Analysis of New Ransomware<a href="https://cyware.com/news/cryptonite-and-punisher-an-analysis-of-new-ransomware-ef8b3124"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat landscape is constantly evolving with new ransomware. FortiGuard Labs and Cyble spotted new Cryptonite and Punisher ransomware variants. The latter targeted users in Chile. Cryptonite is a free and open-source ransomware kit that can be downloaded by anyone willing to deploy it.  Pu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Regulator Fines Facebook $277 Million for Leak of Half a Billion Users' Data<a href="https://thehackernews.com/2022/11/irish-regulator-fines-facebook-277.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ireland's Data Protection Commission (DPC) has  levied fines  of €265 million ($277 million) against Meta Platforms for failing to safeguard the personal data of more than half a billion users of its Facebook service, ramping up privacy enforcement against U.S. tech firms.  The fines follow an inquiry initiated by the European regulator on April 14, 2021, close on the heels of a leak of a "collated dataset of Facebook personal data that had been made available on the internet."  This included the  personal information  associated with 533 million users of the social media platform, such as their phone numbers, dates of birth, locations, email addresses, gender, marital status, account creation date, and other profile details.   Meta acknowledged that the information was "old data" that was obtained by malicious actors by taking advantage of a technique called "phone number enumeration" to  scrape users' public profiles . This entailed misusing a t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish data protection commission fines Meta over 2021 data-scraping leak<a href="https://securityaffairs.co/wordpress/139063/laws-and-regulations/irish-dpc-fines-meta-data-scraping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Irish data protection commission (DPC) fined Meta for not protecting Facebook's users' data from scraping. 
+
+
+
+Meta has been fined €265 million ($275.5 million) by the Irish data protection commission (DPC) for the data leak suffered by Facebook...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender boosts default protection for all enterprise users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-boosts-default-protection-for-all-enterprise-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that built-in protection is generally available for all devices onboarded to Defender for Endpoint, the company's endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indiana Health Entity Reports Breach Involving Tracking Code<a href="https://www.bankinfosecurity.com/indiana-health-entity-reports-breach-involving-tracking-code-a-20569?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Community Health Network on November 18 reported to the U.S. Department of Health and Human Services an unauthorized access/disclosure breach affecting 1.5 million individuals involving the use of website tracking code.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Critical Oracle Fusion Middleware Vulnerability<a href="https://thehackernews.com/2022/11/cisa-warns-of-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday  added  a critical flaw impacting Oracle Fusion Middleware to its Known Exploited Vulnerabilities ( KEV ) Catalog, citing evidence of active exploitation.  The vulnerability, tracked as  CVE-2021-35587 , carries a CVSS score of 9.8 and impacts Oracle Access Manager (OAM) versions 11.1.2.3.0, 12.2.1.3.0, and 12.2.1.4.0.   Successful exploitation of the remote command execution bug could enable an unauthenticated attacker with network access to completely compromise and take over Access Manager instances.  "It may give the attacker access to OAM server, to create any user with any privileges, or just get code execution in the victim's server," Vietnamese security researcher Nguyen Jang ( Janggggg ), who reported the bug alongside  peterjson ,  noted  earlier this March.   The issue was addressed by Oracle as part of its  Critical Patch Update  in January 2022.   Additional details regarding the natu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 https://thehackernews.com/2022/11/cisa-warns-of-actively-exploited.html
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greater Toronto School Offline Following 'Cyber Incident'<a href="https://www.bankinfosecurity.com/greater-toronto-school-offline-following-cyber-incident-a-20567?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber incident at a school district serving Toronto's outer suburbs disabled online learning for thousands of students and plunged school administration into a mainly pre-digital era.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How WannaCry Shapes Cybersecurity Today<a href="https://securityintelligence.com/articles/how-wannacry-shapes-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What set WannaCry apart, however, was its use of the SMB vulnerability to replicate itself across multiple network-connected devices. This exploit effort — known as EternalBlue — took WannaCry from mildly annoying to massively problematic.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Carolina College Confirms Ransomware Group Stole Sensitive Data<a href="https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-sensitive-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spokesperson for the college said the attack occurred in October and law enforcement was immediately notified. The school disconnected its systems and hired outside security experts to help restore systems and investigate the incident.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain didn't end spam in India, regulator now trying AI<a href="https://www.theregister.com/2022/11/29/india_txt_spam_crackdown/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Telecom Regulatory Authority of India (TRAI) has announced a fresh crackdown on TXT spam – this time using artificial intelligence, after a previous blockchain-powered effort delivered mixed results.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

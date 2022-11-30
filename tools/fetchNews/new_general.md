@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockchain didn't end spam in India, regulator now trying AI<a href="https://www.theregister.com/2022/11/29/india_txt_spam_crackdown/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Telecom Regulatory Authority of India (TRAI) has announced a fresh crackdown on TXT spam – this time using artificial intelligence, after a previous blockchain-powered effort delivered mixed results.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US effectively bans imports of Chinese telecoms products<a href="https://www.theregister.com/2022/11/27/fcc_china_equipment_authorization_ban/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Federal Communications Commission (FCC) has barred itself from authorizing the import or sale of Chinese telecoms and video surveillance products from Huawei, ZTE, Hytera Communications, Hikvision, and Dahua, on national security grounds.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US bans sales of Huawei, Hikvision, ZTE, and Dahua equipment<a href="https://www.bleepingcomputer.com/news/security/us-bans-sales-of-huawei-hikvision-zte-and-dahua-equipment/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States government, through the Federal Communications Commission (FCC), has banned the sale of&nbsp;equipment from Chinese telecommunications and video surveillance vendor&nbsp;Huawei, ZTE, Hytera, Hikvision, and Dahua due "unacceptable risks to national security".
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Census Bureau disputes Inspector General claim that hacking team gained unauthorized access<a href="https://therecord.media/census-bureau-disputes-inspector-general-claim-that-hacking-team-gained-unauthorized-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Census Bureau disputed a report from the Office of Inspector General (OIG) that found the organization vulnerable to cyberattacks, claiming that they knowingly allowed a “red team” of hired hackers to access their systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,66 @@ nav_order: 900075
 
 ## Government
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense Department Releases Zero Trust Strategy<a href="https://www.lawfareblog.com/defense-department-releases-zero-trust-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Nov. 22, the U.S. Department of Defense released their Zero Trust Strategy, a new approach to countering cyberattacks. The new framework employs a “‘never trust, always verify’” mindset, deviating from the Defense Department’s previously used perimeter defense model. The strategy is prompted by the “rapid growth” of offensive cyber threats and aims to fully implement the department-wide model by fiscal year 2027.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Actively Exploited Flaws to its Catalog<a href="https://cyware.com/news/cisa-adds-two-actively-exploited-flaws-to-its-catalog-3edff244"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA urged users' attention toward a high-severity bug in Oracle Fusion Middleware that is under heavy exploitation by hackers. A hacker could completely take over Access Manager instances by abusing the flaw. The CISA has also added s Google Chrome bug that can be abused to take control of sys ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Oracle Fusion Middleware flaw to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/139077/security/oracle-fusion-middleware-flaw-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA added a critical flaw impacting Oracle Fusion Middleware, tracked as CVE-2021-35587, to its&nbsp;Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) a critical vulnerability impacting Oracle Fusion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Critical Oracle Fusion Middleware Vulnerability<a href="https://thehackernews.com/2022/11/cisa-warns-of-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday&nbsp; added &nbsp;a critical flaw impacting Oracle Fusion Middleware to its Known Exploited Vulnerabilities ( KEV ) Catalog, citing evidence of active exploitation.  The vulnerability, tracked as&nbsp; CVE-2021-35587 , carries a CVSS score of 9.8 and impacts Oracle Access Manager (OAM) versions 11.1.2.3.0, 12.2.1.3.0, and 12.2.1.4.0.   Successful exploitation of the remote command execution bug could enable an unauthenticated attacker with network access to completely compromise and take over Access Manager instances.  "It may give the attacker access to OAM server, to create any user with any privileges, or just get code execution in the victim's server," Vietnamese security researcher Nguyen Jang ( Janggggg ), who reported the bug alongside&nbsp; peterjson ,&nbsp; noted &nbsp;earlier this March.   The issue was addressed by Oracle as part of its&nbsp; Critical Patch Update &nbsp;in January 2022.   Additional details regarding the natu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

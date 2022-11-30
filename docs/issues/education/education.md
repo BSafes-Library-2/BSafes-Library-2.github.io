@@ -8,6 +8,38 @@ nav_order: 900053
 
 ## Education
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Cyber Security Tips for SMBs<a href="https://thehackernews.com/2022/11/7-cyber-security-tips-for-smbs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When the headlines focus on breaches of large enterprises like the Optus breach, it's easy for smaller businesses to think they're not a target for hackers. Surely, they're not worth the time or effort?&nbsp;  Unfortunately, when it comes to cyber security, size doesn't matter.&nbsp;  Assuming you're not a target leads to lax security practices in many SMBs who lack the knowledge or expertise to put simple security steps in place. Few small businesses prioritise cybersecurity, and hackers know it. According to Verizon, the number of smaller businesses being hit has climbed steadily in the last few years – 46% of cyber breaches in 2021 impacted businesses with fewer than 1,000 employees.&nbsp;  Cyber security doesn't need to be difficult  Securing any business doesn't need to be complex or come with a hefty price tag. Here are seven simple tips to help the smaller business secure their systems, people and data.  1 — Install anti-virus software everywhere   Every organisation has anti-virus on the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tips for Gamifying Your Cybersecurity Awareness Training Program<a href="https://securityaffairs.co/wordpress/139073/security/gamifying-cybersecurity-awareness-training.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today’s technological world, educating people about cybersecurity awareness is an absolute necessity.
+
+
+
+According to one report, 82% of data breaches involved the human element, from social attacks to misuse of technologies. These errors are not always...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
