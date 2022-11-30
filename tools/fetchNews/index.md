@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafty threat actor uses 'aged' domains to evade security platforms<a href="https://www.bleepingcomputer.com/news/security/crafty-threat-actor-uses-aged-domains-to-evade-security-platforms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated threat actor named 'CashRewindo' has been using aged domains in global malvertising campaigns that lead to investment scam sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian school district recovering from cyberattack that left schools without access to email<a href="https://www.cp24.com/news/ddsb-recovering-from-cyber-attack-that-left-schools-without-access-to-email-or-emergency-contact-information-1.6170841?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Durham District School Board (DDSB) says it’s currently recovering from what it calls a ‘cyber-incident’ that has left schools without access to phone or email services as well as emergency contact information.
+</details>
+<div style="text-align: right" markdown="1">
+CP24
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 New Vulnerabilities Affect OT Products from German Festo and CODESYS Companies<a href="https://thehackernews.com/2022/11/3-new-vulnerabilities-affect-ot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of three new security vulnerabilities affecting operational technology (OT) products from CODESYS and Festo that could lead to source code tampering and denial-of-service (DoS).  The vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long list of flaws collectively tracked under the name  OT:ICEFALL .  "These issues exemplify either an insecure-by-design approach — which was usual at the time the products were launched – where manufacturers include dangerous functions that can be accessed with no authentication or a subpar implementation of security controls, such as cryptography," the researchers  said .   The most critical of the flaws is  CVE-2022-3270  (CVSS score: 9.8), a critical vulnerability that affects Festo automation controllers using the Festo Generic Multicast (FGMC) protocol to reboot the devices without requiring any authentication and cause a denial of service (DoS) condition.  Another DoS shortcoming i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyber Espionage Hackers Using USB Devices to Target Entities in Philippines<a href="https://thehackernews.com/2022/11/chinese-cyber-espionage-hackers-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with a suspected China nexus has been linked to a set of espionage attacks in the Philippines that primarily relies on USB devices as an initial infection vector.  Mandiant, which is part of Google Cloud, is tracking the cluster under its uncategorized moniker  UNC4191 . An analysis of the artifacts used in the intrusions indicates that the campaign dates as far back as September 2021.  "UNC4191 operations have affected a range of public and private sector entities primarily in Southeast Asia and extending to the U.S., Europe, and APJ," researchers Ryan Tomcik, John Wolfram, Tommy Dacanay, and Geoff Ackerman  said .   "However, even when targeted organizations were based in other locations, the specific systems targeted by UNC4191 were also found to be physically located in the Philippines."  The reliance on infected USB drives to propagate the malware is unusual if  not new . The  Raspberry Robin  worm, which has  evolved  into an initial access ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 29, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
