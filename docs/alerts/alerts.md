@@ -22,7 +22,7 @@ KNOWN EXPLOITED VULNERABILITIES CATALOG
 November 25, 2022 - FCC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-https://securityaffairs.co/wordpress/138998/breaking-news/fcc-bans-import-chinese-equipment.html <a href="https://www.fcc.gov/document/fcc-bans-authorizations-devices-pose-national-security-threat"> Full Text</a>
+FCC Bans Authorizations for Devices That Pose National Security Threat <a href="https://www.fcc.gov/document/fcc-bans-authorizations-devices-pose-national-security-threat"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
