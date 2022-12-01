@@ -34,6 +34,458 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Hackers Using New "Dolphin" Backdoor to Spy on South Korean Targets<a href="https://thehackernews.com/2022/12/north-korea-hackers-using-new-dolphin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked  ScarCruft  group has been attributed to a previously undocumented backdoor called Dolphin  that the threat actor has used against targets located in its southern counterpart.  "The backdoor [...] has a wide range of spying capabilities, including monitoring drives and portable devices and exfiltrating files of interest, keylogging and taking screenshots, and stealing credentials from browsers," ESET researcher Filip Jurčacko  said  in a new report published today.  Dolphin is said to be selectively deployed, with the malware using cloud services like Google Drive for data exfiltration as well as command-and-control.   The Slovak cybersecurity company said it found the implant deployed as a final-stage payload as part of a watering hole attack in early 2021 directed against a South Korean digital newspaper.  The campaign, first uncovered by  Kaspersky  and  Volexity  last year,  entailed  the weaponization of two Internet Explorer flaws ( CVE-2020-1380
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTo says hackers breached its dev environment, cloud storage<a href="https://www.bleepingcomputer.com/news/security/goto-says-hackers-breached-its-dev-environment-cloud-storage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access and collaboration company GoTo disclosed today that they suffered a security breach where threat actors gained access to their development environment and third-party cloud storage service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA Investigating Cyberattacks on Outlets in Kuwait, Morocco<a href="https://therecord.media/ikea-investigating-cyberattacks-on-outlets-in-kuwait-morocco/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish furniture giant IKEA confirmed that its franchises in Kuwait and Morocco are dealing with a cyberattack that caused a disturbance on some operating systems. They were added to the leak site of the Vice Society ransomware group on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google links three exploitation frameworks to Spanish commercial spyware vendor Variston<a href="https://securityaffairs.co/wordpress/139126/malware/spanish-spyware-vendor-variston.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Threat Analysis Group (TAG) linked three exploitation frameworks to a Spanish surveillance spyware vendor named Variston.
+
+
+
+While tracking the activities of commercial spyware vendors, Threat Analysis Group (TAG) spotted an exploitation framework...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keralty ransomware attack impacts Colombia's health care system<a href="https://www.bleepingcomputer.com/news/security/keralty-ransomware-attack-impacts-colombias-health-care-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Keralty multinational healthcare organization suffered a RansomHouse ransomware attack on Sunday, disrupting the websites and operations of the company and its subsidiaries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel disputes seriousness of Data Centre Manager authentication flaw<a href="https://portswigger.net/daily-swig/intel-disputes-seriousness-of-data-centre-manager-authentication-flaw?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel acknowledges the vulnerability – tracked as CVE-2022-33942 and assessed with a severity score of 8.8 – but disputes its seriousness. As per Intel, the issue represents only a privilege elevation flaw rather than an RCE risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection<a href="https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings from cybersecurity firm JFrog show that malware targeting the npm ecosystem can evade security checks by taking advantage of an "unexpected behavior" in the npm command line interface (CLI) tool.  npm CLI's  install  and  audit   commands  have built-in capabilities to check a package and all of its dependencies for known vulnerabilities, effectively acting as a warning mechanism for developers by highlighting the flaws.  But as JFrog established, the security advisories are not displayed when the packages follow certain version formats, creating a scenario where critical flaws could be introduced into their systems either directly or via the package's dependencies.   Specifically, the problem arises only when the installed package version contains a hyphen (e.g., 1.2.3-a), which is included to denote a  pre-release version  of an npm module.  While the project maintainers treat the discrepancy between regular npm package versions and pre-release version
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abused the popular TikTok Invisible Challenge to spread info-stealer<a href="https://securityaffairs.co/wordpress/139112/malware/tiktok-invisible-challenge-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting interest in a popular TikTok challenge, dubbed Invisible Challenge, to trick users into downloading info-stealing malware.
+
+
+
+Threat actors are exploiting the popularity of a TikTok challenge, called Invisible Challenge,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE bugs in Android remote keyboard apps with 2M installs<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bugs-in-android-remote-keyboard-apps-with-2m-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Android applications that allow users to use devices as remote keyboards for their computers have critical vulnerabilities that could expose key presses and enable remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investors Bet $31 Million on Sphere for Identity Hygiene Tech<a href="https://www.securityweek.com/investors-bet-31-million-sphere-identity-hygiene-tech?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The woman-owned company led by Rita Gurevich said the $31 million Series B was led by growth equity firm Edison Partners. Forgepoint Capital, the venture capital firm that led Sphere’s Series A, also invested in the new round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Malicious App Abused Hacked Devices to Create Fake Accounts on Multiple Platforms<a href="https://thehackernews.com/2022/11/this-malicious-app-abused-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Android SMS application discovered on the Google Play Store has been found to stealthily harvest text messages with the goal of creating accounts on a wide range of platforms like Facebook, Google, and WhatsApp.  The app, named  Symoo  (com.vanjan.sms), had over 100,000 downloads and functioned as a relay for transmitting messages to a server, which advertises an account creation service.  This is achieved by using the phone numbers associated with the infected devices as a means to gather the one-time password that's typically sent to verify the user when setting up new accounts.   "The malware asks the phone number of the user in the first screen," security researcher Maxime Ingrao, who discovered the malware,  said , while also requesting for SMS permissions.  "Then it pretends to load the application but remains all the time on this page, it is to hide the interface of the received SMS and that the user does not see the SMS of subscriptions to the va
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked UNC4191 APT relies on USB Devices in attacks against entities in the Philippines<a href="https://securityaffairs.co/wordpress/139097/apt/unc4191-used-usb-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged China-linked cyberespionage group, tracked as UNC4191, used USB devices in attacks aimed at Philippines entities.
+
+
+
+Mandiant researchers spotted an alleged China-linked cyberespionage group, tracked as UNC4191, leveraging USB devices as attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lastpass says hackers accessed customer data in new breach<a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass says unknown attackers breached its cloud storage using information stolen during a previous security incident from August 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers Warned of Critical Remote Code Execution Flaw in Quarkus Java Framework<a href="https://www.securityweek.com/developers-warned-critical-remote-code-execution-flaw-quarkus-java-framework?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-4116 (CVSS score of 9.8), the security defect was identified in the Dev UI Config Editor of Quarkus framework and can be exploited via drive-by localhost attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Electricity Provider Fined for Storing Users' Passwords with Weak MD5 Algorithm<a href="https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French data protection watchdog on Tuesday fined electricity provider Électricité de France  €600,000 for violating the European Union General Data Protection Regulation (GDPR) requirements.  The Commission nationale de l'informatique et des libertés (CNIL)  said  the electric utility breached European regulation by storing the passwords for over 25,800 accounts by hashing them using the  MD5 algorithm  as recently as July 2022.  It's worth noting that MD5, a message digest algorithm, is considered cryptographically broken as of December 2008  owing to the risk of  collision attacks .   Furthermore, the authority noted that the passwords associated with 2,414,254 customer accounts had only been hashed and not  salted , exposing the account holders to potential cyber threats.  The probe also pointed fingers at EDF for failing to comply with GDPR data retention policies and for providing "inaccurate information on the origin of the data collected."  "The amoun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENC Security, the encryption provider for Sony and Lexar, leaked sensitive data for over a year<a href="https://securityaffairs.co/wordpress/139091/data-breach/enc-security-data-leak-sony-lexar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews experts discovered that ENC Security, a Netherlands software company, had been leaking critical business data since May 2021.
+
+
+
+Original post at https://cybernews.com/security/encsecurity-leaked-sensitive-data/
+
+
+
+When you buy a Sony, Lexar,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows malware scans victims’ mobile phones for data to steal<a href="https://www.bleepingcomputer.com/news/security/new-windows-malware-scans-victims-mobile-phones-for-data-to-steal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers found a previously unknown backdoor they call Dophin that's been used by North Korean hackers in highly targeted operations for more than a year to steal files and send them to Google Drive storage.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tailscale VPN nodes vulnerable to DNS rebinding, RCE<a href="https://portswigger.net/daily-swig/tailscale-vpn-nodes-vulnerable-to-dns-rebinding-rce?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of flaws in Tailscale, an open-source mesh virtual private network (VPN) software, could allow attackers to stage remote code execution (RCE) attacks against VPN nodes.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Passes Bill to Fine Companies up to $50 Million for Data Breaches<a href="https://thehackernews.com/2022/11/australia-passes-bill-to-fine-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government has passed a bill that markedly increases the penalty for companies suffering from serious or repeated data breaches.  To that end, the maximum fines have been bumped up from the current AU$2.22 million to AU$50 million, 30% of an entity's adjusted turnover in the relevant period, or three times the value of any benefit obtained through the misuse of information, whichever is greater.  The turnover period is the time duration from when the contravention occurred to the end of the month when the incident is officially addressed.   "Significant privacy breaches in recent months have shown existing safeguards are outdated and inadequate," Attorney-General Mark Dreyfus  said  in a statement. "These reforms make clear to companies that the penalty for a major data breach can no longer be regarded as the cost of doing business."  The legislation, called the Privacy Legislation Amendment (Enforcement and Other Measures) Bill 2022, also bestow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity researchers take down DDoS botnet by accident<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While analyzing its capabilities, Akamai researchers have accidentally taken down a cryptomining botnet that was also used for distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Delta Electronics Patches Serious Flaws in Industrial Networking Devices<a href="https://www.securityweek.com/delta-electronics-patches-serious-flaws-industrial-networking-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified by researchers at CyberDanube, an industrial cybersecurity company based in Austria, in Delta’s DX-2100-L1-CN 3G cloud router and the DVW-W02W2-E2 industrial wireless access point.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia will now fine firms up to AU$50 million for data breaches<a href="https://www.bleepingcomputer.com/news/security/australia-will-now-fine-firms-up-to-au50-million-for-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian parliament has approved a bill to amend the country's privacy legislation, significantly increasing the maximum penalties to AU$50 million for companies and data controllers who suffered large-scale data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of These Threats Surrounding FIFA World Cup<a href="https://cyware.com/news/beware-of-these-threats-surrounding-fifa-world-cup-df6fd913"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are targeting World Cup fans through unauthorized Hayya Cards and FIFA-themed crypto tokens and coins. Cybercriminals are also selling stolen credit card details to conduct unauthorized transactions. Please take a look at the various kinds of threats and their impact on organizations ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google discovers Windows exploit framework used to deploy spyware<a href="https://www.bleepingcomputer.com/news/security/google-discovers-windows-exploit-framework-used-to-deploy-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) has linked an exploit framework that targets now-patched vulnerabilities in the Chrome and Firefox web browsers and the Microsoft Defender security app to a Spanish software company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption Provider ENC Security Leaked Sensitive Data for Over a Year Due to Security Misconfiguration<a href="https://securityaffairs.co/wordpress/139091/data-breach/enc-security-data-leak-sony-lexar.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said a misconfiguration by a third-party supplier caused the issue and fixed it immediately upon notification. The data was accessible from May 27, 2021, up until November 9, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA releases GPU driver update to fix 29 security flaws<a href="https://www.bleepingcomputer.com/news/security/nvidia-releases-gpu-driver-update-to-fix-29-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released a security update for its GPU display driver for Windows, containing a fix for a high-severity flaw that threat actors can exploit to perform, among other things, code execution and privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android and iOS apps with 15 million installs extort loan seekers<a href="https://www.bleepingcomputer.com/news/security/android-and-ios-apps-with-15-million-installs-extort-loan-seekers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 280 Android and iOS apps on the Google Play and the Apple App stores trapped users in loan schemes with misleading terms and employed various methods to extort and harass borrowers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 30, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
