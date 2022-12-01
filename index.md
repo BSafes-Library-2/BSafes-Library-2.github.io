@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea Hackers Using New "Dolphin" Backdoor to Spy on South Korean Targets<a href="https://thehackernews.com/2022/12/north-korea-hackers-using-new-dolphin.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTo says hackers breached its dev environment, cloud storage<a href="https://www.bleepingcomputer.com/news/security/goto-says-hackers-breached-its-dev-environment-cloud-storage/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IKEA Investigating Cyberattacks on Outlets in Kuwait, Morocco<a href="https://therecord.media/ikea-investigating-cyberattacks-on-outlets-in-kuwait-morocco/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google links three exploitation frameworks to Spanish commercial spyware vendor Variston<a href="https://securityaffairs.co/wordpress/139126/malware/spanish-spyware-vendor-variston.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keralty ransomware attack impacts Colombia's health care system<a href="https://www.bleepingcomputer.com/news/security/keralty-ransomware-attack-impacts-colombias-health-care-system/"> Full Text</a>
@@ -118,7 +118,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel disputes seriousness of Data Centre Manager authentication flaw<a href="https://portswigger.net/daily-swig/intel-disputes-seriousness-of-data-centre-manager-authentication-flaw?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection<a href="https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers abused the popular TikTok Invisible Challenge to spread info-stealer<a href="https://securityaffairs.co/wordpress/139112/malware/tiktok-invisible-challenge-malware.html"> Full Text</a>
@@ -170,7 +170,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE bugs in Android remote keyboard apps with 2M installs<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bugs-in-android-remote-keyboard-apps-with-2m-installs/"> Full Text</a>
@@ -186,7 +186,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Investors Bet $31 Million on Sphere for Identity Hygiene Tech<a href="https://www.securityweek.com/investors-bet-31-million-sphere-identity-hygiene-tech?&web_view=true"> Full Text</a>
@@ -202,7 +202,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Malicious App Abused Hacked Devices to Create Fake Accounts on Multiple Platforms<a href="https://thehackernews.com/2022/11/this-malicious-app-abused-hacked.html"> Full Text</a>
@@ -218,7 +218,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked UNC4191 APT relies on USB Devices in attacks against entities in the Philippines<a href="https://securityaffairs.co/wordpress/139097/apt/unc4191-used-usb-devices.html"> Full Text</a>
@@ -238,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lastpass says hackers accessed customer data in new breach<a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/"> Full Text</a>
@@ -254,7 +254,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developers Warned of Critical Remote Code Execution Flaw in Quarkus Java Framework<a href="https://www.securityweek.com/developers-warned-critical-remote-code-execution-flaw-quarkus-java-framework?&web_view=true"> Full Text</a>
@@ -270,7 +270,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Electricity Provider Fined for Storing Users' Passwords with Weak MD5 Algorithm<a href="https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html"> Full Text</a>
@@ -286,7 +286,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ENC Security, the encryption provider for Sony and Lexar, leaked sensitive data for over a year<a href="https://securityaffairs.co/wordpress/139091/data-breach/enc-security-data-leak-sony-lexar.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows malware scans victims’ mobile phones for data to steal<a href="https://www.bleepingcomputer.com/news/security/new-windows-malware-scans-victims-mobile-phones-for-data-to-steal/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tailscale VPN nodes vulnerable to DNS rebinding, RCE<a href="https://portswigger.net/daily-swig/tailscale-vpn-nodes-vulnerable-to-dns-rebinding-rce?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ The Daily Swig
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Passes Bill to Fine Companies up to $50 Million for Data Breaches<a href="https://thehackernews.com/2022/11/australia-passes-bill-to-fine-companies.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity researchers take down DDoS botnet by accident<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Delta Electronics Patches Serious Flaws in Industrial Networking Devices<a href="https://www.securityweek.com/delta-electronics-patches-serious-flaws-industrial-networking-devices?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia will now fine firms up to AU$50 million for data breaches<a href="https://www.bleepingcomputer.com/news/security/australia-will-now-fine-firms-up-to-au50-million-for-data-breaches/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of These Threats Surrounding FIFA World Cup<a href="https://cyware.com/news/beware-of-these-threats-surrounding-fifa-world-cup-df6fd913"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google discovers Windows exploit framework used to deploy spyware<a href="https://www.bleepingcomputer.com/news/security/google-discovers-windows-exploit-framework-used-to-deploy-spyware/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encryption Provider ENC Security Leaked Sensitive Data for Over a Year Due to Security Misconfiguration<a href="https://securityaffairs.co/wordpress/139091/data-breach/enc-security-data-leak-sony-lexar.html?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NVIDIA releases GPU driver update to fix 29 security flaws<a href="https://www.bleepingcomputer.com/news/security/nvidia-releases-gpu-driver-update-to-fix-29-security-flaws/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android and iOS apps with 15 million installs extort loan seekers<a href="https://www.bleepingcomputer.com/news/security/android-and-ios-apps-with-15-million-installs-extort-loan-seekers/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virginia County Confirms Personal Information Stolen in Ransomware Attack<a href="https://www.securityweek.com/virginia-county-confirms-personal-information-stolen-ransomware-attack?&web_view=true"> Full Text</a>
@@ -502,7 +502,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crafty threat actor uses 'aged' domains to evade security platforms<a href="https://www.bleepingcomputer.com/news/security/crafty-threat-actor-uses-aged-domains-to-evade-security-platforms/"> Full Text</a>
@@ -518,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian school district recovering from cyberattack that left schools without access to email<a href="https://www.cp24.com/news/ddsb-recovering-from-cyber-attack-that-left-schools-without-access-to-email-or-emergency-contact-information-1.6170841?&web_view=true"> Full Text</a>
@@ -534,7 +534,7 @@ CP24
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 New Vulnerabilities Affect OT Products from German Festo and CODESYS Companies<a href="https://thehackernews.com/2022/11/3-new-vulnerabilities-affect-ot.html"> Full Text</a>
@@ -550,7 +550,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 30, 2022
+November 30, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cyber Espionage Hackers Using USB Devices to Target Entities in Philippines<a href="https://thehackernews.com/2022/11/chinese-cyber-espionage-hackers-using.html"> Full Text</a>

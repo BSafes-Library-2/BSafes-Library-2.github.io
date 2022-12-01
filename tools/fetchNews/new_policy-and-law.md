@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Passes Bill to Fine Companies up to $50 Million for Data Breaches<a href="https://thehackernews.com/2022/11/australia-passes-bill-to-fine-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government has passed a bill that markedly increases the penalty for companies suffering from serious or repeated data breaches.  To that end, the maximum fines have been bumped up from the current AU$2.22 million to AU$50 million, 30% of an entity's adjusted turnover in the relevant period, or three times the value of any benefit obtained through the misuse of information, whichever is greater.  The turnover period is the time duration from when the contravention occurred to the end of the month when the incident is officially addressed.   "Significant privacy breaches in recent months have shown existing safeguards are outdated and inadequate," Attorney-General Mark Dreyfus&nbsp; said &nbsp;in a statement. "These reforms make clear to companies that the penalty for a major data breach can no longer be regarded as the cost of doing business."  The legislation, called the Privacy Legislation Amendment (Enforcement and Other Measures) Bill 2022, also bestow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia will now fine firms up to AU$50 million for data breaches<a href="https://www.bleepingcomputer.com/news/security/australia-will-now-fine-firms-up-to-au50-million-for-data-breaches/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian parliament has approved a bill to amend the country's privacy legislation, significantly increasing the maximum penalties to AU$50 million for companies and data controllers who suffered large-scale data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

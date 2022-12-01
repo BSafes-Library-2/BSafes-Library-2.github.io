@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Hackers Using New "Dolphin" Backdoor to Spy on South Korean Targets<a href="https://thehackernews.com/2022/12/north-korea-hackers-using-new-dolphin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked&nbsp; ScarCruft &nbsp;group has been attributed to a previously undocumented backdoor called Dolphin  that the threat actor has used against targets located in its southern counterpart.  "The backdoor [...] has a wide range of spying capabilities, including monitoring drives and portable devices and exfiltrating files of interest, keylogging and taking screenshots, and stealing credentials from browsers," ESET researcher Filip Jurčacko&nbsp; said &nbsp;in a new report published today.  Dolphin is said to be selectively deployed, with the malware using cloud services like Google Drive for data exfiltration as well as command-and-control.   The Slovak cybersecurity company said it found the implant deployed as a final-stage payload as part of a watering hole attack in early 2021 directed against a South Korean digital newspaper.  The campaign, first uncovered by&nbsp; Kaspersky &nbsp;and&nbsp; Volexity &nbsp;last year,&nbsp; entailed &nbsp;the weaponization of two Internet Explorer flaws ( CVE-2020-1380
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafty threat actor uses 'aged' domains to evade security platforms<a href="https://www.bleepingcomputer.com/news/security/crafty-threat-actor-uses-aged-domains-to-evade-security-platforms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated threat actor named 'CashRewindo' has been using aged domains in global malvertising campaigns that lead to investment scam sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyber Espionage Hackers Using USB Devices to Target Entities in Philippines<a href="https://thehackernews.com/2022/11/chinese-cyber-espionage-hackers-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor with a suspected China nexus has been linked to a set of espionage attacks in the Philippines that primarily relies on USB devices as an initial infection vector.  Mandiant, which is part of Google Cloud, is tracking the cluster under its uncategorized moniker&nbsp; UNC4191 . An analysis of the artifacts used in the intrusions indicates that the campaign dates as far back as September 2021.  "UNC4191 operations have affected a range of public and private sector entities primarily in Southeast Asia and extending to the U.S., Europe, and APJ," researchers Ryan Tomcik, John Wolfram, Tommy Dacanay, and Geoff Ackerman&nbsp; said .   "However, even when targeted organizations were based in other locations, the specific systems targeted by UNC4191 were also found to be physically located in the Philippines."  The reliance on infected USB drives to propagate the malware is unusual if&nbsp; not new . The&nbsp; Raspberry Robin &nbsp;worm, which has&nbsp; evolved &nbsp;into an initial access ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

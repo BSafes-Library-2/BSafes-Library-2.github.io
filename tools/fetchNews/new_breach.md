@@ -8,6 +8,84 @@ nav_order: 900029
 
 ## Breach
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTo says hackers breached its dev environment, cloud storage<a href="https://www.bleepingcomputer.com/news/security/goto-says-hackers-breached-its-dev-environment-cloud-storage/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access and collaboration company GoTo disclosed today that they suffered a security breach where threat actors gained access to their development environment and third-party cloud storage service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lastpass says hackers accessed customer data in new breach<a href="https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass says unknown attackers breached its cloud storage using information stolen during a previous security incident&nbsp;from August 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENC Security, the encryption provider for Sony and Lexar, leaked sensitive data for over a year<a href="https://securityaffairs.co/wordpress/139091/data-breach/enc-security-data-leak-sony-lexar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews experts discovered that ENC Security, a Netherlands software company, had been leaking critical business data since May 2021.
+
+
+
+Original post at https://cybernews.com/security/encsecurity-leaked-sensitive-data/
+
+
+
+When you buy a Sony, Lexar,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption Provider ENC Security Leaked Sensitive Data for Over a Year Due to Security Misconfiguration<a href="https://securityaffairs.co/wordpress/139091/data-breach/enc-security-data-leak-sony-lexar.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said a misconfiguration by a third-party supplier caused the issue and fixed it immediately upon notification. The data was accessible from May 27, 2021, up until November 9, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virginia County Confirms Personal Information Stolen in Ransomware Attack<a href="https://www.securityweek.com/virginia-county-confirms-personal-information-stolen-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county says that it took steps to contain the attack immediately after identifying it, and that it launched an investigation into the incident, to determine the type of data that might have been compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

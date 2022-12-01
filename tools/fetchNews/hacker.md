@@ -8,6 +8,38 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are offering access to corporate networks via unauthorized Fortinet VPN access<a href="https://securityaffairs.co/wordpress/139085/cyber-crime/iabs-offers-access-via-fortinet-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble observed Initial Access Brokers (IABs)&nbsp;offering access to enterprise networks compromised via a critical flaw in Fortinet products.
+
+
+
+Researchers at Cyble have observed initial access brokers (IABs) selling access to enterprise networks likely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Trending TikTok 'Invisible Challenge' to Spread Malware<a href="https://thehackernews.com/2022/11/hackers-using-trending-invisible.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are capitalizing on a popular TikTok challenge to trick users into downloading information-stealing malware, according to new research from Checkmarx.  The trend, called&nbsp; Invisible Challenge , involves applying a filter known as&nbsp; Invisible Body &nbsp;that just leaves behind a silhouette of the person's body.  But the fact that individuals filming such videos could be undressed has led to a nefarious scheme wherein the attackers post TikTok videos with links to rogue software dubbed "unfilter" that purport to remove the applied filters.   "Instructions to get the 'unfilter' software deploy&nbsp; WASP stealer malware &nbsp;hiding inside malicious Python packages," Checkmarx researcher Guy Nachshon&nbsp; said &nbsp;in a Monday analysis.  The WASP stealer (aka W4SP Stealer) is a malware that's designed to steal users' passwords, Discord accounts, cryptocurrency wallets, and other sensitive information.  The TikTok videos posted by the attackers, @learncyber an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

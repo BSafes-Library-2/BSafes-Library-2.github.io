@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investors Bet $31 Million on Sphere for Identity Hygiene Tech<a href="https://www.securityweek.com/investors-bet-31-million-sphere-identity-hygiene-tech?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The woman-owned company led by Rita Gurevich said the $31 million Series B was led by growth equity firm Edison Partners. Forgepoint Capital, the venture capital firm that led Sphere’s Series A, also invested in the new round.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trigona ransomware spotted in increasing attacks worldwide<a href="https://www.bleepingcomputer.com/news/security/trigona-ransomware-spotted-in-increasing-attacks-worldwide/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unnamed ransomware has rebranded under the name 'Trigona,' launching a new Tor negotiation site where they accept Monero as ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptonite and Punisher - An Analysis of New Ransomware<a href="https://cyware.com/news/cryptonite-and-punisher-an-analysis-of-new-ransomware-ef8b3124"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat landscape is constantly evolving with new ransomware. FortiGuard Labs and Cyble spotted new Cryptonite and Punisher ransomware variants. The latter targeted users in Chile. Cryptonite is a free and open-source ransomware kit that can be downloaded by anyone willing to deploy it. &nbsp;Pu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How WannaCry Shapes Cybersecurity Today<a href="https://securityintelligence.com/articles/how-wannacry-shapes-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What set WannaCry apart, however, was its use of the SMB vulnerability to replicate itself across multiple network-connected devices. This exploit effort — known as EternalBlue — took WannaCry from mildly annoying to massively problematic.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

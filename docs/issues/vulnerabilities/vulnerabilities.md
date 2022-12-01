@@ -8,6 +8,132 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel disputes seriousness of Data Centre Manager authentication flaw<a href="https://portswigger.net/daily-swig/intel-disputes-seriousness-of-data-centre-manager-authentication-flaw?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel acknowledges the vulnerability – tracked as CVE-2022-33942 and assessed with a severity score of 8.8 – but disputes its seriousness. As per Intel, the issue represents only a privilege elevation flaw rather than an RCE risk.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find a Way Malicious NPM Libraries Can Evade Vulnerability Detection<a href="https://thehackernews.com/2022/11/researchers-find-way-malicious-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings from cybersecurity firm JFrog show that malware targeting the npm ecosystem can evade security checks by taking advantage of an "unexpected behavior" in the npm command line interface (CLI) tool.  npm CLI's&nbsp; install &nbsp;and&nbsp; audit &nbsp; commands &nbsp;have built-in capabilities to check a package and all of its dependencies for known vulnerabilities, effectively acting as a warning mechanism for developers by highlighting the flaws.  But as JFrog established, the security advisories are not displayed when the packages follow certain version formats, creating a scenario where critical flaws could be introduced into their systems either directly or via the package's dependencies.   Specifically, the problem arises only when the installed package version contains a hyphen (e.g., 1.2.3-a), which is included to denote a&nbsp; pre-release version &nbsp;of an npm module.  While the project maintainers treat the discrepancy between regular npm package versions and pre-release version
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE bugs in Android remote keyboard apps with 2M installs<a href="https://www.bleepingcomputer.com/news/security/critical-rce-bugs-in-android-remote-keyboard-apps-with-2m-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Android applications that allow users to use devices as remote keyboards for their computers have critical vulnerabilities that could expose key presses and enable remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers Warned of Critical Remote Code Execution Flaw in Quarkus Java Framework<a href="https://www.securityweek.com/developers-warned-critical-remote-code-execution-flaw-quarkus-java-framework?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-4116 (CVSS score of 9.8), the security defect was identified in the Dev UI Config Editor of Quarkus framework and can be exploited via drive-by localhost attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Electricity Provider Fined for Storing Users' Passwords with Weak MD5 Algorithm<a href="https://thehackernews.com/2022/11/french-electricity-provider-fined-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French data protection watchdog on Tuesday fined electricity provider Électricité de France  €600,000 for violating the European Union General Data Protection Regulation (GDPR) requirements.  The Commission nationale de l'informatique et des libertés (CNIL)&nbsp; said &nbsp;the electric utility breached European regulation by storing the passwords for over 25,800 accounts by hashing them using the&nbsp; MD5 algorithm &nbsp;as recently as July 2022.  It's worth noting that MD5, a message digest algorithm, is considered cryptographically broken as of December 2008  owing to the risk of&nbsp; collision attacks .   Furthermore, the authority noted that the passwords associated with 2,414,254 customer accounts had only been hashed and not&nbsp; salted , exposing the account holders to potential cyber threats.  The probe also pointed fingers at EDF for failing to comply with GDPR data retention policies and for providing "inaccurate information on the origin of the data collected."  "The amoun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tailscale VPN nodes vulnerable to DNS rebinding, RCE<a href="https://portswigger.net/daily-swig/tailscale-vpn-nodes-vulnerable-to-dns-rebinding-rce?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of flaws in Tailscale, an open-source mesh virtual private network (VPN) software, could allow attackers to stage remote code execution (RCE) attacks against VPN nodes.
+</details>
+<div style="text-align: right" markdown="1">
+The Daily Swig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Delta Electronics Patches Serious Flaws in Industrial Networking Devices<a href="https://www.securityweek.com/delta-electronics-patches-serious-flaws-industrial-networking-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified by researchers at CyberDanube, an industrial cybersecurity company based in Austria, in Delta’s DX-2100-L1-CN 3G cloud router and the DVW-W02W2-E2 industrial wireless access point.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVIDIA releases GPU driver update to fix 29 security flaws<a href="https://www.bleepingcomputer.com/news/security/nvidia-releases-gpu-driver-update-to-fix-29-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NVIDIA has released a security update for its GPU display driver for Windows, containing a fix for a high-severity flaw that threat actors can exploit to perform, among other things, code execution and privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 New Vulnerabilities Affect OT Products from German Festo and CODESYS Companies<a href="https://thehackernews.com/2022/11/3-new-vulnerabilities-affect-ot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed details of three new security vulnerabilities affecting operational technology (OT) products from CODESYS and Festo that could lead to source code tampering and denial-of-service (DoS).  The vulnerabilities, reported by Forescout Vedere Labs, are the latest in a long list of flaws collectively tracked under the name&nbsp; OT:ICEFALL .  "These issues exemplify either an insecure-by-design approach — which was usual at the time the products were launched – where manufacturers include dangerous functions that can be accessed with no authentication or a subpar implementation of security controls, such as cryptography," the researchers&nbsp; said .   The most critical of the flaws is&nbsp; CVE-2022-3270 &nbsp;(CVSS score: 9.8), a critical vulnerability that affects Festo automation controllers using the Festo Generic Multicast (FGMC) protocol to reboot the devices without requiring any authentication and cause a denial of service (DoS) condition.  Another DoS shortcoming i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of These Threats Surrounding FIFA World Cup<a href="https://cyware.com/news/beware-of-these-threats-surrounding-fifa-world-cup-df6fd913"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are targeting World Cup fans through unauthorized Hayya Cards and FIFA-themed crypto tokens and coins. Cybercriminals are also selling stolen credit card details to conduct unauthorized transactions. Please take a look at the various kinds of threats and their impact on organizations ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

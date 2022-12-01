@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware detection with Wazuh SIEM and XDR platform<a href="https://www.bleepingcomputer.com/news/security/ransomware-detection-with-wazuh-siem-and-xdr-platform/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wazuh is a free, open source SIEM/XDR solution with more than 10 million annual downloads. Learn more about how Wazuh can help protect your organization against the ever-evolving tactics of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender boosts default protection for all enterprise users<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-boosts-default-protection-for-all-enterprise-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that built-in protection is generally available for all devices onboarded to Defender for Endpoint, the company's endpoint security platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
