@@ -670,7 +670,7 @@ function getItemsFromSource(id, fn) {
 						var thisURL =  thisNew.url;
 						var thisDate = thisNew.date; 
 						var thisTime = new Date(thisDate).getTime();
-						if (thisTime < lastDate.getTime()) {
+						if (!lastDate || thisTime < lastDate.getTime()) {
 							console.log("Old item");
 							break;
 						}

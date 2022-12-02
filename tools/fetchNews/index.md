@@ -34,6 +34,436 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">Threat Detection / Zero Day</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Accuses Spanish Spyware Vendor of Exploiting Chrome, Firefox, & Windows Zero-Days<a href="https://thehackernews.com/2022/12/google-accuses-spanish-spyware-vendor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Barcelona-based surveillanceware vendor named Variston IT is said to have surreptitiously planted spyware on targeted devices by exploiting several zero-day flaws in Google Chrome, Mozilla Firefox, and Windows, some of which date back to December 2018.  "Their Heliconia framework exploits n-day vulnerabilities in Chrome, Firefox, and Microsoft Defender, and provides all the tools necessary to deploy a payload to a target device," Google Threat Analysis Group (TAG) researchers Clement Lecigne and Benoit Sevens  said  in a write-up.  Variston, which has a  bare-bones website , claims to "offer tailor made Information Security Solutions to our customers," "design custom security patches for any kind of proprietary system," and support the "the discovery of digital information by [law enforcement agencies]," among other services.  The vulnerabilities, which have been patched by Google, Microsoft, and Mozilla in 2021 and early 2022, are believed to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">Data Security /  Security Breach</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak Another Set of Medibank Customer Data on the Dark Web<a href="https://thehackernews.com/2022/12/hackers-leak-another-set-of-medibank.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medibank on Thursday confirmed that the threat actors behind the  devastating cyber attack  have posted another dump of data stolen from its systems on the dark web after its refusal to pay a ransom.  "We are in the process of analyzing the data, but the data released appears to be the data we believed the criminal stole," the Australian health insurer  said .  "While our investigation continues there are currently no signs that financial or banking data has been taken. And the personal data stolen, in itself, is not sufficient to enable identity and financial fraud. The raw data we have analyzed today so far is incomplete and hard to understand."   The leak comes almost a month after the company acknowledged that personal data belonging to  around 9.7 million  of its current and former customers were accessed following a ransomware incident in October 2022.  This includes 5.1 million Medibank customers, 2.8 million ahm customers, and 1.8 million international cust
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">Kubernetes / Vulnerability Management</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework<a href="https://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in the Quarkus Java framework that could be potentially exploited to achieve remote code execution on affected systems.  Tracked as  CVE-2022-4116  (CVSS score: 9.8), the shortcoming could be trivially abused by a malicious actor without any privileges.  "The vulnerability is found in the Dev UI Config Editor, which is vulnerable to drive-by localhost attacks that could lead to remote-code execution (RCE)," Contrast Security researcher Joseph Beeton, who reported the bug,  said  in a write-up.   Quarkus, developed by Red Hat, is an  open source project  that's used for creating Java applications in  containerized  and serverless environments.  It's worth pointing out that the  issue  only impacts developers who are running Quarkus and are tricked into visiting a specially crafted website, which is embedded with malicious JavaScript code designed to install or execute arbitrary payloads.   This could take the form o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">DevSecOps / Secure Coding</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Developers Need to Fight the Battle Against Common Vulnerabilities<a href="https://thehackernews.com/2022/12/what-developers-need-to-fight-battle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's threat landscape is constantly evolving, and now more than ever, organizations and businesses in every sector have a critical need to consistently produce and maintain secure software. While some verticals - like the finance industry, for example - have been subject to regulatory and compliance requirements for some time, we are seeing a steady increase in attention on cybersecurity best practices at the highest levels of government, with the US, UK, and Australia all shining very recent light on the need for secure development at every stage of the SDLC.   Despite this, attackers are constantly finding new ways to bypass even the most advanced protections and defenses. For example, many have shifted their focus from delivering malware to instead compromising APIs, or launching targeted attacks  against a supply chain . And while those high-level incidents are happening with much greater frequency, so too are the more simplistic exploits like cross-site scripting and SQL i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">Mobile Threat Advisory</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schoolyard Bully Trojan Apps Stole Facebook Credentials from Over 300,000 Android Users<a href="https://thehackernews.com/2022/12/schoolyard-bully-trojan-apps-stole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 300,000 users across 71 countries have been victimized by a new Android threat campaign called the  Schoolyard Bully Trojan .  Mainly designed to steal Facebook credentials, the malware is camouflaged as legitimate education-themed applications to lure unsuspecting users into downloading them.  The apps, which were available for download from the official Google Play Store, have now been taken down. That said, they still continue to be available on third-party app stores.   "This trojan uses JavaScript injection to steal the Facebook credentials," Zimperium researchers Nipun Gupta and Aazim Bill SE Yaswant said in a report  shared with The Hacker News.  It achieves this by launching Facebook's login page in a WebView, which also embeds within it malicious JavasCript code to exfiltrate the user's phone number, email address, and password to a configured command-and-control (C2) server.   The Schoolyard Bully Trojan further makes use of native libraries such
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">Threat Intelligence / Botnet</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers 'Accidentally' Crash KmsdBot Cryptocurrency Mining Botnet Network<a href="https://thehackernews.com/2022/12/researchers-accidentally-crashed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing analysis into an up-and-coming cryptocurrency mining botnet known as  KmsdBot  has led to it being accidentally taken down.  KmsdBot, as christened by the Akamai Security Intelligence Response Team (SIRT), came to light mid-November 2022 for its ability to  brute-force systems  with weak SSH credentials.  The botnet strikes both Windows and Linux devices spanning a wide range of microarchitectures with the primary goal of deploying mining software and corralling the compromised hosts into a DDoS bot.   Some of the major targets included gaming firms, technology companies, and luxury car manufacturers.  Akamai researcher Larry W. Cashdollar, in a new update, explained how commands sent to the bot to understand its functionality in a controlled environment inadvertently neutralized the malware.   "Interestingly, after one single improperly formatted command, the bot stopped sending commands," Cashdollar  said . "It's not every day you come across a botnet t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 01, 2022</span>
+<span class="h-tags">Password Management</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Suffers Another Security Breach; Exposed Some Customers Information<a href="https://thehackernews.com/2022/12/lastpass-suffers-another-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular password management service LastPass said it's investigating a second security incident that involved attackers accessing some of its customer information.  "We recently detected unusual activity within a third-party cloud storage service, which is currently shared by both LastPass and its affiliate, GoTo," LastPass CEO Karim Toubba  said .  GoTo, formerly called LogMeIn, acquired LastPass in October 2015. In December 2021, the Boston-based firm  announced  plans to spin off LastPass as an independent company.  The digital break-in resulted in the unauthorized third-party leveraging information obtained following a previous breach in August 2022 to access "certain elements of our customers' information."   The August 2022 security event  targeted  its development environment, leading to the theft of some of its source code and technical information. In September, LastPass  revealed  the threat actor had access for four days.  The scope of the breach
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android malware infected 300,000 devices to steal Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/android-malware-infected-300-000-devices-to-steal-facebook-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android malware campaign masquerading as reading and education apps has been underway since 2018, attempting to steal Facebook account credentials from infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Going on with FinServ? Cybersecurity Edition<a href="https://cyware.com/news/whats-going-on-with-finserv-cybersecurity-edition-eb2dc798"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial services sector has been hit by cybercriminals again and again - ranging from ransomware attacks to DDoS attacks to phishing. There is a 3.5 times increase (257%) in web app and API attacks, year-over-year. 32% of organizations in the financial services sector observed accidental ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private-Sector Cyber Defense in Armed Conflict<a href="https://www.lawfareblog.com/private-sector-cyber-defense-armed-conflict"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private sector is playing an integral role in Ukrainian cyber defense in the armed conflict between Russia and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Go-based Redigo malware targets Redis servers<a href="https://securityaffairs.co/wordpress/139164/malware/redigo-malware-targets-redis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Redigo is a new Go-based malware employed in attacks against Redis servers affected by the CVE-2022-0543 vulnerability.
+
+
+
+Researchers from security firm AquaSec discovered a new Go-based malware that is used in a campaign targeting Redis servers. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cuba ransomware raked in $60 million from over 100 victims<a href="https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-raked-in-60-million-from-over-100-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA revealed in a new joint security advisory that the Cuba ransomware gang raked in over $60 million in ransoms as of August 2022 after breaching more than 100 victims worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schoolyard Bully Trojan Steals Facebook Credentials Across 71 Countries via Fake Educational Apps<a href="https://www.zimperium.com/blog/schoolyard-bully-trojan-facebook-credential-stealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disguised as the good guy, these malicious apps known as the “Schoolyard Bully Trojan” are camouflaged as legitimate, educational applications with a wide range of books and topics for their victims to read.
+</details>
+<div style="text-align: right" markdown="1">
+Zimperium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 of the Worst Data Breaches in the World That Could Have Been Prevented<a href="https://securityaffairs.co/wordpress/139160/data-breach/worst-data-breaches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches can be devastating for organizations, these are 3 of the worst incidents that could have been prevented
+
+
+
+Data breaches can be devastating for organizations and even entire countries. Eliminating the risk of a data breach is nearly impossible,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Redigo malware drops stealthy backdoor on Redis servers<a href="https://www.bleepingcomputer.com/news/security/new-redigo-malware-drops-stealthy-backdoor-on-redis-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based malware threat that researchers call Redigo has been targeting Redis servers vulnerable to CVE-2022-0543 to plant a stealthy backdoor and allow command execution.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolution of Business Email Compromise<a href="https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the threat has evolved, threat actors continue to use phishing attacks to steal credentials and then send fraudulent invoices soliciting payment. Thousands of organizations have lost billions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea ScarCruft APT used previously undetected Dolphin Backdoor against South Korea<a href="https://securityaffairs.co/wordpress/139148/hacking/north-korea-scarcruft-dolphin-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked ScarCruft group used a previously undocumented backdoor called Dolphin against targets in South Korea.
+
+
+
+ESET researchers discovered a previously undocumented backdoor called Dolphin that was employed by North...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DuckLogs malware service claims having thousands of ‘customers’<a href="https://www.bleepingcomputer.com/news/security/new-ducklogs-malware-service-claims-having-thousands-of-customers-/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware-as-a-service (MaaS) operation named 'DuckLogs' has emerged, giving low-skilled attackers easy access to multiple modules to steal information, log key strokes, access clipboard data, and remote access to the compromised host.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Server bugs caused years of security turmoil<a href="https://www.techtarget.com/searchsecurity/news/252527862/Exchange-Server-bugs-caused-years-of-security-turmoil?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two years after the first series of Microsoft Exchange Server vulnerabilities became known, four collections of high-profile bugs are likely to remain a headache for enterprises for the foreseeable future.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lastpass discloses the second security breach this year<a href="https://securityaffairs.co/wordpress/139136/data-breach/lastpass-second-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass disclosed a new security breach, threat actors had access to its cloud storage using information stolen in the August 2022 breach.
+
+
+
+Password management solution LastPass disclosed a new security breach, the attackers had access to a third-party...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyundai app bugs allowed hackers to remotely unlock, start cars<a href="https://www.bleepingcomputer.com/news/security/hyundai-app-bugs-allowed-hackers-to-remotely-unlock-start-cars/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in mobile apps exposed Hyundai and Genesis car models after 2012 to remote attacks that allowed unlocking and even starting the vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 108 Patches High-Severity Memory Safety Bugs<a href="https://www.securityweek.com/chrome-108-patches-high-severity-memory-safety-bugs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of Chrome 108 in the stable channel with patches for 28 vulnerabilities, including 22 reported by external researchers. Of those 22, eight are high-severity issues and 14 are medium-severity flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Broker on the Scene Pays Premium for Signal App Zero-Days<a href="https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-based OpZero went on the record recently with a $1.5 million offer for Signal remote code execution (RCE) exploits, more than tripling the relatively stable high-water mark for that app offered by American firm Zerodium.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScarCruft's New Dolphin Backdoor Uses Google Drive for C&C Communication<a href="https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backdoor has a wide range of spying capabilities, including monitoring drives and portable devices and exfiltrating files of interest, keylogging and taking screenshots, and stealing credentials from browsers.
+</details>
+<div style="text-align: right" markdown="1">
+ESET Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security pros feel threat detection and response workloads have increased<a href="https://www.helpnetsecurity.com/2022/12/01/threat-detection-and-response-workloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report conducted by Enterprise Strategy Group (ESG) highlights why today’s security teams find it increasingly difficult to detect and stop cyber threats targeting their organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 01, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
