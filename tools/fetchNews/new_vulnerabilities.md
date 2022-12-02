@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+Dec 01, 2022 <br>
+<span class="h-tags">Kubernetes / Vulnerability Management</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework<a href="https://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in the Quarkus Java framework that could be potentially exploited to achieve remote code execution on affected systems.  Tracked as&nbsp; CVE-2022-4116 &nbsp;(CVSS score: 9.8), the shortcoming could be trivially abused by a malicious actor without any privileges.  "The vulnerability is found in the Dev UI Config Editor, which is vulnerable to drive-by localhost attacks that could lead to remote-code execution (RCE)," Contrast Security researcher Joseph Beeton, who reported the bug,&nbsp; said &nbsp;in a write-up.   Quarkus, developed by Red Hat, is an&nbsp; open source project &nbsp;that's used for creating Java applications in&nbsp; containerized &nbsp;and serverless environments.  It's worth pointing out that the&nbsp; issue &nbsp;only impacts developers who are running Quarkus and are tricked into visiting a specially crafted website, which is embedded with malicious JavaScript code designed to install or execute arbitrary payloads.   This could take the form o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exchange Server bugs caused years of security turmoil<a href="https://www.techtarget.com/searchsecurity/news/252527862/Exchange-Server-bugs-caused-years-of-security-turmoil?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly two years after the first series of Microsoft Exchange Server vulnerabilities became known, four collections of high-profile bugs are likely to remain a headache for enterprises for the foreseeable future.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyundai app bugs allowed hackers to remotely unlock, start cars<a href="https://www.bleepingcomputer.com/news/security/hyundai-app-bugs-allowed-hackers-to-remotely-unlock-start-cars/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in mobile apps exposed Hyundai and Genesis car models after 2012 to remote attacks that allowed unlocking and even starting the vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 108 Patches High-Severity Memory Safety Bugs<a href="https://www.securityweek.com/chrome-108-patches-high-severity-memory-safety-bugs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of Chrome 108 in the stable channel with patches for 28 vulnerabilities, including 22 reported by external researchers. Of those 22, eight are high-severity issues and 14 are medium-severity flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

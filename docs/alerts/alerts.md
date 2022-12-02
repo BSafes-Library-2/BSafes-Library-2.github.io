@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022 - FBI, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#StopRansomware: Cuba Ransomware <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-335a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are releasing this joint CSA to disseminate known Cuba ransomware IOCs and TTPs associated with Cuba ransomware actors identified through FBI investigations, third-party reporting, and open-source reporting. This advisory updates the December 2021 FBI Flash: Indicators of Compromise Associated with Cuba Ransomware.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 30, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

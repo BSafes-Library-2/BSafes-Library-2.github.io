@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian school district recovering from cyberattack that left schools without access to email<a href="https://www.cp24.com/news/ddsb-recovering-from-cyber-attack-that-left-schools-without-access-to-email-or-emergency-contact-information-1.6170841?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Durham District School Board (DDSB) says it’s currently recovering from what it calls a ‘cyber-incident’ that has left schools without access to phone or email services as well as emergency contact information.
+</details>
+<div style="text-align: right" markdown="1">
+CP24
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

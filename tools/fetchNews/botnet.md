@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity researchers take down DDoS botnet by accident<a href="https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While analyzing its capabilities, Akamai researchers have accidentally taken down a cryptomining botnet that was also used for distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

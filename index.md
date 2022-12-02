@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Malware](/docs/issues/malware/malware/)<br>
 <span class="h-tags">Threat Detection / Zero Day</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -52,7 +52,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Breach](/docs/issues/breach/breach/)<br>
 <span class="h-tags">Data Security /  Security Breach</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -70,7 +70,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 <span class="h-tags">Kubernetes / Vulnerability Management</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -88,7 +88,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Education](/docs/issues/education/education/)<br>
 <span class="h-tags">DevSecOps / Secure Coding</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -106,7 +106,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Malware](/docs/issues/malware/malware/)<br>
 <span class="h-tags">Mobile Threat Advisory</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -124,7 +124,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 <span class="h-tags">Threat Intelligence / Botnet</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -142,7 +142,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 01, 2022</span>
+Dec 01, 2022</span> -- [Breach](/docs/issues/breach/breach/)<br>
 <span class="h-tags">Password Management</span>
 
 {: .fs-4 .fw-700 .lh-0  }
@@ -160,7 +160,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware infected 300,000 devices to steal Facebook accounts<a href="https://www.bleepingcomputer.com/news/security/android-malware-infected-300-000-devices-to-steal-facebook-accounts/"> Full Text</a>
@@ -176,7 +176,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What’s Going on with FinServ? Cybersecurity Edition<a href="https://cyware.com/news/whats-going-on-with-finserv-cybersecurity-edition-eb2dc798"> Full Text</a>
@@ -192,7 +192,7 @@ Cyware Alerts - Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Private-Sector Cyber Defense in Armed Conflict<a href="https://www.lawfareblog.com/private-sector-cyber-defense-armed-conflict"> Full Text</a>
@@ -208,7 +208,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Go-based Redigo malware targets Redis servers<a href="https://securityaffairs.co/wordpress/139164/malware/redigo-malware-targets-redis-servers.html"> Full Text</a>
@@ -228,7 +228,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Cuba ransomware raked in $60 million from over 100 victims<a href="https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-raked-in-60-million-from-over-100-victims/"> Full Text</a>
@@ -244,7 +244,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schoolyard Bully Trojan Steals Facebook Credentials Across 71 Countries via Fake Educational Apps<a href="https://www.zimperium.com/blog/schoolyard-bully-trojan-facebook-credential-stealer/?&web_view=true"> Full Text</a>
@@ -260,7 +260,7 @@ Zimperium
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 of the Worst Data Breaches in the World That Could Have Been Prevented<a href="https://securityaffairs.co/wordpress/139160/data-breach/worst-data-breaches.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Redigo malware drops stealthy backdoor on Redis servers<a href="https://www.bleepingcomputer.com/news/security/new-redigo-malware-drops-stealthy-backdoor-on-redis-servers/"> Full Text</a>
@@ -296,7 +296,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Evolution of Business Email Compromise<a href="https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise?&web_view=true"> Full Text</a>
@@ -312,7 +312,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea ScarCruft APT used previously undetected Dolphin Backdoor against South Korea<a href="https://securityaffairs.co/wordpress/139148/hacking/north-korea-scarcruft-dolphin-backdoor.html"> Full Text</a>
@@ -332,7 +332,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DuckLogs malware service claims having thousands of ‘customers’<a href="https://www.bleepingcomputer.com/news/security/new-ducklogs-malware-service-claims-having-thousands-of-customers-/"> Full Text</a>
@@ -348,7 +348,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exchange Server bugs caused years of security turmoil<a href="https://www.techtarget.com/searchsecurity/news/252527862/Exchange-Server-bugs-caused-years-of-security-turmoil?&web_view=true"> Full Text</a>
@@ -364,7 +364,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lastpass discloses the second security breach this year<a href="https://securityaffairs.co/wordpress/139136/data-breach/lastpass-second-security-breach.html"> Full Text</a>
@@ -384,7 +384,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hyundai app bugs allowed hackers to remotely unlock, start cars<a href="https://www.bleepingcomputer.com/news/security/hyundai-app-bugs-allowed-hackers-to-remotely-unlock-start-cars/"> Full Text</a>
@@ -400,7 +400,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 108 Patches High-Severity Memory Safety Bugs<a href="https://www.securityweek.com/chrome-108-patches-high-severity-memory-safety-bugs?&web_view=true"> Full Text</a>
@@ -416,7 +416,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Exploit Broker on the Scene Pays Premium for Signal App Zero-Days<a href="https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days?&web_view=true"> Full Text</a>
@@ -432,7 +432,7 @@ Dark Reading
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScarCruft's New Dolphin Backdoor Uses Google Drive for C&C Communication<a href="https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/?&web_view=true"> Full Text</a>
@@ -448,7 +448,7 @@ ESET Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
+December 1, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security pros feel threat detection and response workloads have increased<a href="https://www.helpnetsecurity.com/2022/12/01/threat-detection-and-response-workloads/?&web_view=true"> Full Text</a>

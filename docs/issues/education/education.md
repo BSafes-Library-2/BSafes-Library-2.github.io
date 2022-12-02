@@ -8,6 +8,36 @@ nav_order: 900053
 
 ## Education
 ---
+Dec 01, 2022 <br>
+<span class="h-tags">DevSecOps / Secure Coding</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Developers Need to Fight the Battle Against Common Vulnerabilities<a href="https://thehackernews.com/2022/12/what-developers-need-to-fight-battle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's threat landscape is constantly evolving, and now more than ever, organizations and businesses in every sector have a critical need to consistently produce and maintain secure software. While some verticals - like the finance industry, for example - have been subject to regulatory and compliance requirements for some time, we are seeing a steady increase in attention on cybersecurity best practices at the highest levels of government, with the US, UK, and Australia all shining very recent light on the need for secure development at every stage of the SDLC.&nbsp;  Despite this, attackers are constantly finding new ways to bypass even the most advanced protections and defenses. For example, many have shifted their focus from delivering malware to instead compromising APIs, or launching targeted attacks&nbsp; against a supply chain . And while those high-level incidents are happening with much greater frequency, so too are the more simplistic exploits like cross-site scripting and SQL i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolution of Business Email Compromise<a href="https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the threat has evolved, threat actors continue to use phishing attacks to steal credentials and then send fraudulent invoices soliciting payment. Thousands of organizations have lost billions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

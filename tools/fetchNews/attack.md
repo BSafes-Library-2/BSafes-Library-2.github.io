@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IKEA Investigating Cyberattacks on Outlets in Kuwait, Morocco<a href="https://therecord.media/ikea-investigating-cyberattacks-on-outlets-in-kuwait-morocco/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish furniture giant IKEA confirmed that its franchises in Kuwait and Morocco are dealing with a cyberattack that caused a disturbance on some operating systems. They were added to the leak site of the Vice Society ransomware group on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keralty ransomware attack impacts Colombia's health care system<a href="https://www.bleepingcomputer.com/news/security/keralty-ransomware-attack-impacts-colombias-health-care-system/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Keralty multinational healthcare organization suffered a RansomHouse ransomware attack on Sunday, disrupting the websites and operations of the company and its subsidiaries.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers abused the popular TikTok Invisible Challenge to spread info-stealer<a href="https://securityaffairs.co/wordpress/139112/malware/tiktok-invisible-challenge-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting interest in a popular TikTok challenge, dubbed Invisible Challenge, to trick users into downloading info-stealing malware.
+
+
+
+Threat actors are exploiting the popularity of a TikTok challenge, called&nbsp;Invisible Challenge,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

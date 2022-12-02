@@ -8,6 +8,22 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+Dec 01, 2022 <br>
+<span class="h-tags">Threat Intelligence / Botnet</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers 'Accidentally' Crash KmsdBot Cryptocurrency Mining Botnet Network<a href="https://thehackernews.com/2022/12/researchers-accidentally-crashed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing analysis into an up-and-coming cryptocurrency mining botnet known as&nbsp; KmsdBot &nbsp;has led to it being accidentally taken down.  KmsdBot, as christened by the Akamai Security Intelligence Response Team (SIRT), came to light mid-November 2022 for its ability to&nbsp; brute-force systems &nbsp;with weak SSH credentials.  The botnet strikes both Windows and Linux devices spanning a wide range of microarchitectures with the primary goal of deploying mining software and corralling the compromised hosts into a DDoS bot.   Some of the major targets included gaming firms, technology companies, and luxury car manufacturers.  Akamai researcher Larry W. Cashdollar, in a new update, explained how commands sent to the bot to understand its functionality in a controlled environment inadvertently neutralized the malware.   "Interestingly, after one single improperly formatted command, the bot stopped sending commands," Cashdollar&nbsp; said . "It's not every day you come across a botnet t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
