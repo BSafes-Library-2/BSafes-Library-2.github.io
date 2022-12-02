@@ -312,7 +312,7 @@ function getTheHackerNews($content, fn) {
       thisItem.title = $.trim($thisNew.find('.home-title').text());
       thisItem.url = $thisNew.find('.story-link').attr('href');
 	  var itemLabel = $thisNew.find('.item-label').html();
-	  thisItem.date = itemLabel.split('</i>')[1].split('<span>')[0];
+	  thisItem.date = itemLabel.split('</i>')[1].split('</span>')[0];
       thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
       newItems.push(thisItem);
     }
