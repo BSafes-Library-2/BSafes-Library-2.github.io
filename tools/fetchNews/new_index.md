@@ -35,8 +35,6 @@ BSafes library includes mobile-friendly cybersecurity publications.
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Malware](/docs/issues/malware/malware/)<br>
-<span class="h-tags">Threat Detection / Zero Day</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Accuses Spanish Spyware Vendor of Exploiting Chrome, Firefox, & Windows Zero-Days<a href="https://thehackernews.com/2022/12/google-accuses-spanish-spyware-vendor.html"> Full Text</a>
@@ -53,8 +51,6 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Breach](/docs/issues/breach/breach/)<br>
-<span class="h-tags">Data Security /  Security Breach</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Leak Another Set of Medibank Customer Data on the Dark Web<a href="https://thehackernews.com/2022/12/hackers-leak-another-set-of-medibank.html"> Full Text</a>
@@ -71,8 +67,6 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-<span class="h-tags">Kubernetes / Vulnerability Management</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework<a href="https://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"> Full Text</a>
@@ -89,8 +83,6 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Education](/docs/issues/education/education/)<br>
-<span class="h-tags">DevSecOps / Secure Coding</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Developers Need to Fight the Battle Against Common Vulnerabilities<a href="https://thehackernews.com/2022/12/what-developers-need-to-fight-battle.html"> Full Text</a>
@@ -107,8 +99,6 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Malware](/docs/issues/malware/malware/)<br>
-<span class="h-tags">Mobile Threat Advisory</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schoolyard Bully Trojan Apps Stole Facebook Credentials from Over 300,000 Android Users<a href="https://thehackernews.com/2022/12/schoolyard-bully-trojan-apps-stole.html"> Full Text</a>
@@ -125,8 +115,6 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
-<span class="h-tags">Threat Intelligence / Botnet</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers 'Accidentally' Crash KmsdBot Cryptocurrency Mining Botnet Network<a href="https://thehackernews.com/2022/12/researchers-accidentally-crashed.html"> Full Text</a>
@@ -143,8 +131,6 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022</span> -- [Breach](/docs/issues/breach/breach/)<br>
-<span class="h-tags">Password Management</span>
-
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass Suffers Another Security Breach; Exposed Some Customers Information<a href="https://thehackernews.com/2022/12/lastpass-suffers-another-security.html"> Full Text</a>
