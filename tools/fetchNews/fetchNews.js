@@ -483,6 +483,22 @@ const months = {
 	DECEMBER: 12
 }
 
+const monthsAbbr = {
+	JAN: 1,
+	FEB: 2,
+	MAR: 3,
+	APR: 4,
+	MAY: 5,
+	JUNE: 6,
+	JULY: 7,
+	AUG: 8,
+	SEPT: 9,
+	OCT: 10,
+	NOV: 11,
+	DEC: 12
+}
+
+
 function newCycle() {
 	var now = new Date();
 	round ++;
@@ -549,6 +565,9 @@ function readLastDate() {
 	console.log(thisDate.toLocaleTimeString());
 
 	var month = months[subParts[0].toUpperCase()];
+	if(!month) {
+		month = monthsAbbr[subParts[0].toUpperCase()];
+	}
 	if (month === undefined) {
 		console.log("Error month");
 		return null;
