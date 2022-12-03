@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Windows 11's Enhanced Phishing Protection guards your password<a href="https://www.bleepingcomputer.com/news/microsoft/how-windows-11s-enhanced-phishing-protection-guards-your-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the easier ways to steal a user's credentials is through a convincing fake login page or application. To help combat the constant risk of password theft,&nbsp;Microsoft added enhanced phishing protection in Windows 11 Version 22H2.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

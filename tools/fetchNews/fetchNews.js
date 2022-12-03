@@ -312,7 +312,9 @@ function getTheHackerNews($content, fn) {
       thisItem.title = $.trim($thisNew.find('.home-title').text());
       thisItem.url = $thisNew.find('.story-link').attr('href');
 	  var itemLabel = $thisNew.find('.item-label').html();
-	  thisItem.date = itemLabel.split('</i>')[1].split('</span>')[0];
+	  var dateStr =  itemLabel.split('</i>')[1].split('</span>')[0];
+	  var parts = dateStr.split(' ');
+      thisItem.date = shortMonths[parts[1]] + ' ' + parts[0] + ', ' + parts[2] ;
       thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
       newItems.push(thisItem);
     }
@@ -453,17 +455,20 @@ const numberMonths = {
 }
 
 const shortMonths = {
-	'Jan': 'January',
-	'Feb': 'February',
-	'Mar': 'March',
+	'JAN': 'January',
+	'FEB': 'February',
+	'MAR': 'March',
 	'Apr': 'April',
 	'May': 'May',
-	'Jun': 'June',
-	'Jul': 'July',
-	'Aug': 'August',
-	'Sep': 'September',
-	'Oct': 'October',
-	'Nov': 'November',
+	'JUN': 'June',
+	'JUNE': 'June',
+	'JUL': 'July',
+	'JULY': 'July',
+	'AUG': 'August',
+	'SEP': 'September',
+	'SEPT': 'September',
+	'OCT': 'October',
+	'NOV': 'November',
 	'Dec': 'December'
 }
 
@@ -489,9 +494,12 @@ const monthsAbbr = {
 	MAR: 3,
 	APR: 4,
 	MAY: 5,
+	JUN:6,
 	JUNE: 6,
+	JUL: 7,
 	JULY: 7,
 	AUG: 8,
+	SEP: 9,
 	SEPT: 9,
 	OCT: 10,
 	NOV: 11,

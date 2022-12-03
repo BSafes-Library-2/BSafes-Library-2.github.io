@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand health insurer Accuro says it's been hacked, can't rule out customers' data being accessed<a href="https://www.newshub.co.nz/home/new-zealand/2022/12/new-zealand-health-insurer-accuro-says-it-s-been-hacked-can-t-rule-out-customers-data-being-accessed.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accuro, a New Zealand health insurer, says a cybersecurity incident has compromised its ability to access systems but it's not yet known whether customer data is exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Newshub
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

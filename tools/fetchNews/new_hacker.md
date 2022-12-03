@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Sign Android Malware Apps with Compromised Platform Certificates<a href="https://thehackernews.com/2022/12/hackers-sign-android-malware-apps-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Platform certificates used by Android smartphone vendors like Samsung, LG, and MediaTek have been found to be abused to sign malicious apps.  The findings were first&nbsp; discovered and reported &nbsp;by Google reverse engineer Łukasz Siewierski on Thursday.  "A platform certificate is the application signing certificate used to sign the 'android' application on the system image," a report filed through the Android Partner Vulnerability Initiative ( AVPI )&nbsp; reads .  "The 'android' application runs with a highly privileged user id – android.uid.system – and holds system permissions, including permissions to access user data."   This effectively means that a rogue application signed with the same certificate can gain the highest level of privileges as the Android operating system, permitting it to harvest all kinds of sensitive information from a compromised device.  The list of malicious Android app packages that have abused the certificates is below -   com.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackProxies proxy service increasingly popular among hackers<a href="https://www.bleepingcomputer.com/news/security/blackproxies-proxy-service-increasingly-popular-among-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new residential proxy market is becoming popular among hackers, cybercriminals, phishers, scalpers, and scammers, selling access to a million claimed proxy IP addresses worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Redis Vulnerability to Deploy New Redigo Malware on Servers<a href="https://thehackernews.com/2022/12/hackers-exploiting-redis-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Go-based malware is targeting Redis servers with the goal of taking control of the infected systems and likely building a botnet network.  The attacks involve taking advantage of a critical security vulnerability in the open source, in-memory, key-value store that was disclosed earlier this year to deploy&nbsp; Redigo , according to cloud security firm&nbsp; Aqua .   Tracked as CVE-2022-0543 (CVSS score: 10.0), the weakness pertains to a case of sandbox escape in the Lua scripting engine that could be leveraged to attain remote code execution.   This is not the first time the flaw has come under active exploitation, what with Juniper Threat Labs uncovering attacks perpetrated by the&nbsp; Muhstik botnet &nbsp;in March 2022 to execute arbitrary commands.  The Redigo infection chain is similar in that the adversaries scan for exposed Redis servers on port 6379 to establish initial access, following it up by downloading a shared library "exp_lin.so" from a remote server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

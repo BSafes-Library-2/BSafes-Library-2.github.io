@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Cuba ransomware raked in $60 million from over 100 victims<a href="https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-raked-in-60-million-from-over-100-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and CISA revealed in a new joint security advisory that the Cuba ransomware gang raked in over $60 million in ransoms as of August 2022 after breaching more than 100 victims worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Multiple Critical Vulnerabilities Affecting Mitsubishi Electric PLCs<a href="https://thehackernews.com/2022/12/cisa-warns-of-multiple-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released an Industrial Control Systems (ICS) advisory warning of multiple vulnerabilities in Mitsubishi Electric GX Works3 engineering software.  "Successful exploitation of these vulnerabilities could allow unauthorized users to gain access to the MELSEC iQ-R/F/L series CPU modules and the MELSEC iQ-R series OPC UA server module or to view and execute programs," the agency&nbsp; said .  GX Works3 &nbsp;is an&nbsp; engineering workstation &nbsp;software used in ICS environments, acting as a mechanism for uploading and downloading programs from/to the controller, troubleshooting software and hardware issues, and performing maintenance operations.   The wide range of functions also makes them an attractive target for threat actors looking to compromise such systems to commandeer the&nbsp; managed PLCs .  Three of the 10 shortcomings relate to cleartext storage of sensitive data, four relate to the use of a hard-coded cryptograp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Cyber Safety Board to review Lapsus$ gang’s hacking tactics<a href="https://www.bleepingcomputer.com/news/security/dhs-cyber-safety-board-to-review-lapsus-gang-s-hacking-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) Cyber Safety Review Board&nbsp;will review attacks linked to&nbsp;an extortion group&nbsp;known as Lapsus$, which breached multiple high-profile companies in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

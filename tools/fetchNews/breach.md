@@ -8,6 +8,70 @@ nav_order: 900029
 
 ## Breach
 ---
+Dec 01, 2022 <br>
+<span class="h-tags">Data Security /  Security Breach</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak Another Set of Medibank Customer Data on the Dark Web<a href="https://thehackernews.com/2022/12/hackers-leak-another-set-of-medibank.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medibank on Thursday confirmed that the threat actors behind the&nbsp; devastating cyber attack &nbsp;have posted another dump of data stolen from its systems on the dark web after its refusal to pay a ransom.  "We are in the process of analyzing the data, but the data released appears to be the data we believed the criminal stole," the Australian health insurer&nbsp; said .  "While our investigation continues there are currently no signs that financial or banking data has been taken. And the personal data stolen, in itself, is not sufficient to enable identity and financial fraud. The raw data we have analyzed today so far is incomplete and hard to understand."   The leak comes almost a month after the company acknowledged that personal data belonging to&nbsp; around 9.7 million &nbsp;of its current and former customers were accessed following a ransomware incident in October 2022.  This includes 5.1 million Medibank customers, 2.8 million ahm customers, and 1.8 million international cust
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+Dec 01, 2022 <br>
+<span class="h-tags">Password Management</span>
+
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Suffers Another Security Breach; Exposed Some Customers Information<a href="https://thehackernews.com/2022/12/lastpass-suffers-another-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular password management service LastPass said it's investigating a second security incident that involved attackers accessing some of its customer information.  "We recently detected unusual activity within a third-party cloud storage service, which is currently shared by both LastPass and its affiliate, GoTo," LastPass CEO Karim Toubba&nbsp; said .  GoTo, formerly called LogMeIn, acquired LastPass in October 2015. In December 2021, the Boston-based firm&nbsp; announced &nbsp;plans to spin off LastPass as an independent company.  The digital break-in resulted in the unauthorized third-party leveraging information obtained following a previous breach in August 2022 to access "certain elements of our customers' information."   The August 2022 security event&nbsp; targeted &nbsp;its development environment, leading to the theft of some of its source code and technical information. In September, LastPass&nbsp; revealed &nbsp;the threat actor had access for four days.  The scope of the breach
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schoolyard Bully Trojan Steals Facebook Credentials Across 71 Countries via Fake Educational Apps<a href="https://www.zimperium.com/blog/schoolyard-bully-trojan-facebook-credential-stealer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Disguised as the good guy, these malicious apps known as the “Schoolyard Bully Trojan” are camouflaged as legitimate, educational applications with a wide range of books and topics for their victims to read.
+</details>
+<div style="text-align: right" markdown="1">
+Zimperium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lastpass discloses the second security breach this year<a href="https://securityaffairs.co/wordpress/139136/data-breach/lastpass-second-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass disclosed a new security breach, threat actors had access to its cloud storage using information stolen in the August 2022 breach.
+
+
+
+Password management solution LastPass disclosed a new security breach, the attackers had access to a third-party...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

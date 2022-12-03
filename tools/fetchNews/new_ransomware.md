@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 2nd 2022 - Disrupting Health Care<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-2nd-2022-disrupting-health-care/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's big news was the Colombia health system being severely disrupted by a ransomware attack on Keralty, one of the country's largest healthcare providers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

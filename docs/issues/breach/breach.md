@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 01, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung, LG, Mediatek certificates compromised to sign Android malware<a href="https://www.bleepingcomputer.com/news/security/samsung-lg-mediatek-certificates-compromised-to-sign-android-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple platform certificates used by Android OEM device vendors to digitally sign core system applications have also been used to sign Android apps containing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 01, 2022 <br>
 <span class="h-tags">Data Security /  Security Breach</span>
 

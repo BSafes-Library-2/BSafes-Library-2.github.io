@@ -8,6 +8,70 @@ nav_order: 900072
 
 ## General
 ---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits and Risks of Extending Weapons Deliveries to the Cyber Domain<a href="https://www.lawfareblog.com/benefits-and-risks-extending-weapons-deliveries-cyber-domain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While NATO members continue to supply weapons to Ukraine, they should consider the benefits and risks associated with extending these deliveries to include cyber weapons.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack of drones: airborne cybersecurity nightmare<a href="https://securityaffairs.co/wordpress/139196/hacking/drones-abuse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors could exploit drones for payload delivery, kinetic operations, and even diversion, experts warn.
+
+
+
+Original post at https://cybernews.com/security/drones-hack-airborne-cybersecurity-nightmare/
+
+
+
+Once a niche technology, drones are about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Value of Old Systems<a href="https://thehackernews.com/2022/12/the-value-of-old-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Old technology solutions – every organization has a few of them tucked away somewhere.&nbsp;  It could be an old and unsupported storage system or a tape library holding the still-functional backups from over 10 years ago.&nbsp;  This is a common scenario with software too. For example, consider an accounting software suite that was extremely expensive when it was purchased. If the vendor eventually went under, then there's no longer any support for the software – which means that the accounting solution only works on some older operating system that isn't supplied with updates either.  How valuable is it to&nbsp; keep older solutions like this running ? Well, organizations don't enjoy running old legacy systems just for the pleasure of it, but they're often forced to keep them running because it's their only option, or at least the only cost-effective option available to them.  If it works, it works…?  From a purely functional perspective, there is usually no problem with old te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial organizations more prone to accidental data leakage<a href="https://www.helpnetsecurity.com/2022/12/02/financial-sector-cloud-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Netwrix 2022 Cloud Security Report, compared to other industries surveyed, financial institutions are much more concerned about users who have legitimate access to their cloud infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

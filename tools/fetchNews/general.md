@@ -8,6 +8,66 @@ nav_order: 900072
 
 ## General
 ---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What’s Going on with FinServ? Cybersecurity Edition<a href="https://cyware.com/news/whats-going-on-with-finserv-cybersecurity-edition-eb2dc798"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial services sector has been hit by cybercriminals again and again - ranging from ransomware attacks to DDoS attacks to phishing.&nbsp;There is a 3.5 times increase (257%) in web app and API attacks, year-over-year. 32% of organizations in the financial services sector observed accidental ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware Alerts - Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private-Sector Cyber Defense in Armed Conflict<a href="https://www.lawfareblog.com/private-sector-cyber-defense-armed-conflict"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private sector is playing an integral role in Ukrainian cyber defense in the armed conflict between Russia and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 of the Worst Data Breaches in the World That Could Have Been Prevented<a href="https://securityaffairs.co/wordpress/139160/data-breach/worst-data-breaches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches can be devastating for organizations, these are 3 of the worst incidents that could have been prevented
+
+
+
+Data breaches can be devastating for organizations and even entire countries. Eliminating the risk of a data breach is nearly impossible,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security pros feel threat detection and response workloads have increased<a href="https://www.helpnetsecurity.com/2022/12/01/threat-detection-and-response-workloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report conducted by Enterprise Strategy Group (ESG) highlights why today’s security teams find it increasingly difficult to detect and stop cyber threats targeting their organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

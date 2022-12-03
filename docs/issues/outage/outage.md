@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vatican website down in suspected hacker attack<a href="https://www.reuters.com/technology/vatican-website-down-suspected-hacker-attack-2022-11-30/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official Vatican website was taken offline on Wednesday following an apparent hacking attack, the Holy See said. "Technical investigations are ongoing due to abnormal attempts to access the site," Vatican spokesman Matteo Bruni said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet issues caused by 'unauthorized third party' close South Jersey school<a href="https://6abc.com/monroe-township-school-district-internet-outage-gloucester-county-police/12511652/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Classes are canceled for the third day in a row in a Gloucester County school district due to technical problems caused by an "unauthorized third party," according to notifications from the district.
+</details>
+<div style="text-align: right" markdown="1">
+6ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

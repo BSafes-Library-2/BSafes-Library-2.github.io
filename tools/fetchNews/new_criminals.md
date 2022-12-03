@@ -8,6 +8,66 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware received over $60M in Ransom payments as of August 2022<a href="https://securityaffairs.co/wordpress/139183/cyber-crime/cuba-ransomware-alert-cisa-fbi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cuba ransomware gang received more than $60 million in ransom payments related to attacks against 100 entities worldwide as of August 2022.
+
+
+
+The threat actors behind the Cuba ransomware (aka COLDDRAW, Tropical Scorpius) have demanded over 145 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest 55 members of 'Black Panthers' SIM Swap gang<a href="https://www.bleepingcomputer.com/news/security/police-arrest-55-members-of-black-panthers-sim-swap-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish National Police have arrested 55 members of the 'Black Panthers' cybercrime group, including one of the organization's leaders based in Barcelona.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group may have stolen customer bank details from British water company<a href="https://therecord.media/ransomware-group-may-have-stolen-customer-bank-details-from-british-water-company/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected details include the names and addresses associated with customers’ accounts as well as the bank details used to set up direct debit payments. The company said it is writing letters to the affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Extorted Over $60 Million in Ransom Fees from More than 100 Entities<a href="https://thehackernews.com/2022/12/cuba-ransomware-extorted-over-60.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind Cuba (aka COLDDRAW) ransomware have received more than $60 million in ransom payments and compromised over 100 entities across the world as of August 2022.  In a new advisory shared by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI), the agencies&nbsp; highlighted &nbsp;a "sharp increase in both the number of compromised U.S. entities and the ransom amounts."  The ransomware crew, also known as&nbsp; Tropical Scorpius , has been observed targeting financial services, government facilities, healthcare, critical manufacturing, and IT sectors, while simultaneously expanding its tactics to gain initial access and interact with breached networks.   It's worth noting that despite the name "Cuba," there is no evidence to suggest that the actors have any connection or affiliation with the island country.  The entry point for the attacks involves the exploitation of known security flaws, phishing,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

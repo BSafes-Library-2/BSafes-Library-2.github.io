@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Linux flaw can be chained with other two bugs to gain full root privileges<a href="https://securityaffairs.co/wordpress/139209/hacking/three-linux-bugs-full-root-privileges.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Week in Ransomware - December 2nd 2022 - Disrupting Health Care<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-2nd-2022-disrupting-health-care/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wipers Are Widening: Here's Why That Matters<a href="https://www.securityweek.com/wipers-are-widening-heres-why-matters?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Security Week
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Sign Android Malware Apps with Compromised Platform Certificates<a href="https://thehackernews.com/2022/12/hackers-sign-android-malware-apps-with.html"> Full Text</a>
@@ -102,7 +102,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Benefits and Risks of Extending Weapons Deliveries to the Cyber Domain<a href="https://www.lawfareblog.com/benefits-and-risks-extending-weapons-deliveries-cyber-domain"> Full Text</a>
@@ -118,7 +118,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome emergency update fixes 9th zero-day of the year<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-9th-zero-day-of-the-year/"> Full Text</a>
@@ -134,7 +134,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nigeria-based group ‘Lilac Wolverine’ using COVID-19, emotional lures in BEC scams<a href="https://therecord.media/nigeria-based-group-lilac-wolverine-using-covid-19-emotional-lures-in-bec-scams/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Multiple Critical Vulnerabilities Affecting Mitsubishi Electric PLCs<a href="https://thehackernews.com/2022/12/cisa-warns-of-multiple-critical.html"> Full Text</a>
@@ -166,7 +166,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attack of drones: airborne cybersecurity nightmare<a href="https://securityaffairs.co/wordpress/139196/hacking/drones-abuse.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS Cyber Safety Board to review Lapsus$ gang’s hacking tactics<a href="https://www.bleepingcomputer.com/news/security/dhs-cyber-safety-board-to-review-lapsus-gang-s-hacking-tactics/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vatican website down in suspected hacker attack<a href="https://www.reuters.com/technology/vatican-website-down-suspected-hacker-attack-2022-11-30/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Reuters
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Value of Old Systems<a href="https://thehackernews.com/2022/12/the-value-of-old-systems.html"> Full Text</a>
@@ -238,7 +238,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware received over $60M in Ransom payments as of August 2022<a href="https://securityaffairs.co/wordpress/139183/cyber-crime/cuba-ransomware-alert-cisa-fbi.html"> Full Text</a>
@@ -258,7 +258,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackProxies proxy service increasingly popular among hackers<a href="https://www.bleepingcomputer.com/news/security/blackproxies-proxy-service-increasingly-popular-among-hackers/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial organizations more prone to accidental data leakage<a href="https://www.helpnetsecurity.com/2022/12/02/financial-sector-cloud-security/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Help Net Security
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclose Supply-Chain Flaw Affecting IBM Cloud Databases for PostgreSQL<a href="https://thehackernews.com/2022/12/researchers-disclose-supply-chain-flaw.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Keyboard Apps with 2 Million downloads can remotely hack your device<a href="https://securityaffairs.co/wordpress/139174/hacking/android-keyboard-apps-flaws.html"> Full Text</a>
@@ -326,7 +326,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CryWiper data wiper targets Russian courts, mayor’s offices<a href="https://www.bleepingcomputer.com/news/security/new-crywiper-data-wiper-targets-russian-courts-mayor-s-offices/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zealand health insurer Accuro says it's been hacked, can't rule out customers' data being accessed<a href="https://www.newshub.co.nz/home/new-zealand/2022/12/new-zealand-health-insurer-accuro-says-it-s-been-hacked-can-t-rule-out-customers-data-being-accessed.html?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Newshub
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Redis Vulnerability to Deploy New Redigo Malware on Servers<a href="https://thehackernews.com/2022/12/hackers-exploiting-redis-vulnerability.html"> Full Text</a>
@@ -374,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police arrest 55 members of 'Black Panthers' SIM Swap gang<a href="https://www.bleepingcomputer.com/news/security/police-arrest-55-members-of-black-panthers-sim-swap-gang/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet issues caused by 'unauthorized third party' close South Jersey school<a href="https://6abc.com/monroe-township-school-district-internet-outage-gloucester-county-police/12511652/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Classes are canceled for the third day in a row in a Gloucester County school di
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the CISA Reporting Rule Means for Your IT Security Protocol<a href="https://thehackernews.com/2022/12/what-cisa-reporting-rule-means-for-your.html"> Full Text</a>
@@ -422,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2022
+December 02, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Windows 11's Enhanced Phishing Protection guards your password<a href="https://www.bleepingcomputer.com/news/microsoft/how-windows-11s-enhanced-phishing-protection-guards-your-password/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Archive files become preferred format for malware delivery<a href="https://www.techtarget.com/searchsecurity/news/252527865/Archive-files-become-preferred-format-for-malware-delivery?&web_view=true"> Full Text</a>
@@ -454,7 +454,7 @@ Tech Target
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watch Out! These Android Keyboard Apps With 2 Million Installs Can be Hacked Remotely<a href="https://thehackernews.com/2022/12/watch-out-these-android-keyboard-apps.html"> Full Text</a>
@@ -470,7 +470,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
+December 2, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware group may have stolen customer bank details from British water company<a href="https://therecord.media/ransomware-group-may-have-stolen-customer-bank-details-from-british-water-company/?&web_view=true"> Full Text</a>
@@ -486,7 +486,7 @@ The Record
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-Dec 02, 2022
+Dec 02, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware Extorted Over $60 Million in Ransom Fees from More than 100 Entities<a href="https://thehackernews.com/2022/12/cuba-ransomware-extorted-over-60.html"> Full Text</a>
@@ -502,7 +502,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2022
+December 01, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung, LG, Mediatek certificates compromised to sign Android malware<a href="https://www.bleepingcomputer.com/news/security/samsung-lg-mediatek-certificates-compromised-to-sign-android-malware/"> Full Text</a>

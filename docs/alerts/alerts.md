@@ -28,6 +28,18 @@ Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/k
   <summary>Abstract</summary>
 KNOWN EXPLOITED VULNERABILITIES CATALOG
 </details>
+</div> 
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric FA Engineering Software <a href="https://www.cisa.gov/uscert/ics/advisories/icsa-22-333-05"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cleartext Storage of Sensitive Information, Use of Hard-coded Password, Insufficiently Protected Credentials, Use of Hard-coded Cryptographic Key, Cleartext Storage of Sensitive Information in Memory 
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">

@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea ScarCruft APT used previously undetected Dolphin Backdoor against South Korea<a href="https://securityaffairs.co/wordpress/139148/hacking/north-korea-scarcruft-dolphin-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked&nbsp;ScarCruft&nbsp;group used a previously undocumented backdoor called&nbsp;Dolphin&nbsp;against targets in South Korea.
+
+
+
+ESET researchers discovered a previously undocumented backdoor called&nbsp;Dolphin that was employed by North...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

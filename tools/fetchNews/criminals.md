@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 1, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Exploit Broker on the Scene Pays Premium for Signal App Zero-Days<a href="https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-based OpZero went on the record recently with a $1.5 million offer for Signal remote code execution (RCE) exploits, more than tripling the relatively stable high-water mark for that app offered by American firm Zerodium.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
