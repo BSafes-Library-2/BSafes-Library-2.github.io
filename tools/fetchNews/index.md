@@ -34,6 +34,490 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Linux flaw can be chained with other two bugs to gain full root privileges<a href="https://securityaffairs.co/wordpress/139209/hacking/three-linux-bugs-full-root-privileges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys researchers demonstrated how to chain a new Linux flaw with two other two issues to gain full root privileges on an impacted system.
+
+
+
+Researchers at the Qualys’ Threat Research Unit demonstrated how to chain a new Linux vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 2nd 2022 - Disrupting Health Care<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-2nd-2022-disrupting-health-care/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's big news was the Colombia health system being severely disrupted by a ransomware attack on Keralty, one of the country's largest healthcare providers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wipers Are Widening: Here's Why That Matters<a href="https://www.securityweek.com/wipers-are-widening-heres-why-matters?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first half of this year, researchers saw a rising trend of wiper malware being deployed in parallel with the Russia-Ukraine war. However, those wipers haven’t stayed in one place – they’re emerging globally.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Sign Android Malware Apps with Compromised Platform Certificates<a href="https://thehackernews.com/2022/12/hackers-sign-android-malware-apps-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Platform certificates used by Android smartphone vendors like Samsung, LG, and MediaTek have been found to be abused to sign malicious apps.  The findings were first  discovered and reported  by Google reverse engineer Łukasz Siewierski on Thursday.  "A platform certificate is the application signing certificate used to sign the 'android' application on the system image," a report filed through the Android Partner Vulnerability Initiative ( AVPI )  reads .  "The 'android' application runs with a highly privileged user id – android.uid.system – and holds system permissions, including permissions to access user data."   This effectively means that a rogue application signed with the same certificate can gain the highest level of privileges as the Android operating system, permitting it to harvest all kinds of sensitive information from a compromised device.  The list of malicious Android app packages that have abused the certificates is below -   com.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits and Risks of Extending Weapons Deliveries to the Cyber Domain<a href="https://www.lawfareblog.com/benefits-and-risks-extending-weapons-deliveries-cyber-domain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While NATO members continue to supply weapons to Ukraine, they should consider the benefits and risks associated with extending these deliveries to include cyber weapons.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes 9th zero-day of the year<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-9th-zero-day-of-the-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 108.0.5359.94/.95 for Windows, Mac, and Linux users to address a single high-severity security flaw, the ninth Chrome zero-day exploited in the wild patched since the start of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigeria-based group ‘Lilac Wolverine’ using COVID-19, emotional lures in BEC scams<a href="https://therecord.media/nigeria-based-group-lilac-wolverine-using-covid-19-emotional-lures-in-bec-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime group based in Nigeria is targeting businesses in the United States and Western Europe with a plethora of scam emails as part of a larger campaign of business email compromise (BEC) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Multiple Critical Vulnerabilities Affecting Mitsubishi Electric PLCs<a href="https://thehackernews.com/2022/12/cisa-warns-of-multiple-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week released an Industrial Control Systems (ICS) advisory warning of multiple vulnerabilities in Mitsubishi Electric GX Works3 engineering software.  "Successful exploitation of these vulnerabilities could allow unauthorized users to gain access to the MELSEC iQ-R/F/L series CPU modules and the MELSEC iQ-R series OPC UA server module or to view and execute programs," the agency  said .  GX Works3  is an  engineering workstation  software used in ICS environments, acting as a mechanism for uploading and downloading programs from/to the controller, troubleshooting software and hardware issues, and performing maintenance operations.   The wide range of functions also makes them an attractive target for threat actors looking to compromise such systems to commandeer the  managed PLCs .  Three of the 10 shortcomings relate to cleartext storage of sensitive data, four relate to the use of a hard-coded cryptograp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack of drones: airborne cybersecurity nightmare<a href="https://securityaffairs.co/wordpress/139196/hacking/drones-abuse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors could exploit drones for payload delivery, kinetic operations, and even diversion, experts warn.
+
+
+
+Original post at https://cybernews.com/security/drones-hack-airborne-cybersecurity-nightmare/
+
+
+
+Once a niche technology, drones are about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Cyber Safety Board to review Lapsus$ gang’s hacking tactics<a href="https://www.bleepingcomputer.com/news/security/dhs-cyber-safety-board-to-review-lapsus-gang-s-hacking-tactics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Homeland Security (DHS) Cyber Safety Review Board will review attacks linked to an extortion group known as Lapsus$, which breached multiple high-profile companies in recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vatican website down in suspected hacker attack<a href="https://www.reuters.com/technology/vatican-website-down-suspected-hacker-attack-2022-11-30/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The official Vatican website was taken offline on Wednesday following an apparent hacking attack, the Holy See said. "Technical investigations are ongoing due to abnormal attempts to access the site," Vatican spokesman Matteo Bruni said.
+</details>
+<div style="text-align: right" markdown="1">
+Reuters
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Value of Old Systems<a href="https://thehackernews.com/2022/12/the-value-of-old-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Old technology solutions – every organization has a few of them tucked away somewhere.   It could be an old and unsupported storage system or a tape library holding the still-functional backups from over 10 years ago.   This is a common scenario with software too. For example, consider an accounting software suite that was extremely expensive when it was purchased. If the vendor eventually went under, then there's no longer any support for the software – which means that the accounting solution only works on some older operating system that isn't supplied with updates either.  How valuable is it to  keep older solutions like this running ? Well, organizations don't enjoy running old legacy systems just for the pleasure of it, but they're often forced to keep them running because it's their only option, or at least the only cost-effective option available to them.  If it works, it works…?  From a purely functional perspective, there is usually no problem with old te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware received over $60M in Ransom payments as of August 2022<a href="https://securityaffairs.co/wordpress/139183/cyber-crime/cuba-ransomware-alert-cisa-fbi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cuba ransomware gang received more than $60 million in ransom payments related to attacks against 100 entities worldwide as of August 2022.
+
+
+
+The threat actors behind the Cuba ransomware (aka COLDDRAW, Tropical Scorpius) have demanded over 145 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackProxies proxy service increasingly popular among hackers<a href="https://www.bleepingcomputer.com/news/security/blackproxies-proxy-service-increasingly-popular-among-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new residential proxy market is becoming popular among hackers, cybercriminals, phishers, scalpers, and scammers, selling access to a million claimed proxy IP addresses worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial organizations more prone to accidental data leakage<a href="https://www.helpnetsecurity.com/2022/12/02/financial-sector-cloud-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Netwrix 2022 Cloud Security Report, compared to other industries surveyed, financial institutions are much more concerned about users who have legitimate access to their cloud infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Supply-Chain Flaw Affecting IBM Cloud Databases for PostgreSQL<a href="https://thehackernews.com/2022/12/researchers-disclose-supply-chain-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has fixed a high-severity security vulnerability affecting its Cloud Databases (ICD) for PostgreSQL product that could be potentially exploited to tamper with internal repositories and run unauthorized code.  The privilege escalation flaw (CVSS score: 8.8), dubbed " Hell's Keychain " by cloud security firm Wiz, has been described as a "first-of-its-kind supply-chain attack vector impacting a cloud provider's infrastructure."  Successful exploitation of the bug could enable a malicious actor to remotely execute code in customers' environments and even read or modify data stored in the PostgreSQL database.   "The vulnerability consists of a chain of three exposed secrets (Kubernetes service account token, private container registry password, CI/CD server credentials) coupled with overly permissive network access to internal build servers," Wiz researchers Ronen Shustin and Shir Tamari  said .  Hell's Keychain commences with an SQL inject
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Keyboard Apps with 2 Million downloads can remotely hack your device<a href="https://securityaffairs.co/wordpress/139174/hacking/android-keyboard-apps-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found multiple flaws in three Android Keyboard apps that can be exploited by remote attackers to compromise a mobile phone.
+
+
+
+Researchers at the Synopsys Cybersecurity Research Center (CyRC) warn of three Android keyboard apps with cumulatively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CryWiper data wiper targets Russian courts, mayor’s offices<a href="https://www.bleepingcomputer.com/news/security/new-crywiper-data-wiper-targets-russian-courts-mayor-s-offices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented data wiper named CryWiper is masquerading as ransomware, extorting victims to pay for a decrypter, but in reality, it just destroys data beyond recovery.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand health insurer Accuro says it's been hacked, can't rule out customers' data being accessed<a href="https://www.newshub.co.nz/home/new-zealand/2022/12/new-zealand-health-insurer-accuro-says-it-s-been-hacked-can-t-rule-out-customers-data-being-accessed.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Accuro, a New Zealand health insurer, says a cybersecurity incident has compromised its ability to access systems but it's not yet known whether customer data is exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Newshub
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Redis Vulnerability to Deploy New Redigo Malware on Servers<a href="https://thehackernews.com/2022/12/hackers-exploiting-redis-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Go-based malware is targeting Redis servers with the goal of taking control of the infected systems and likely building a botnet network.  The attacks involve taking advantage of a critical security vulnerability in the open source, in-memory, key-value store that was disclosed earlier this year to deploy  Redigo , according to cloud security firm  Aqua .   Tracked as CVE-2022-0543 (CVSS score: 10.0), the weakness pertains to a case of sandbox escape in the Lua scripting engine that could be leveraged to attain remote code execution.   This is not the first time the flaw has come under active exploitation, what with Juniper Threat Labs uncovering attacks perpetrated by the  Muhstik botnet  in March 2022 to execute arbitrary commands.  The Redigo infection chain is similar in that the adversaries scan for exposed Redis servers on port 6379 to establish initial access, following it up by downloading a shared library "exp_lin.so" from a remote server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police arrest 55 members of 'Black Panthers' SIM Swap gang<a href="https://www.bleepingcomputer.com/news/security/police-arrest-55-members-of-black-panthers-sim-swap-gang/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish National Police have arrested 55 members of the 'Black Panthers' cybercrime group, including one of the organization's leaders based in Barcelona.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet issues caused by 'unauthorized third party' close South Jersey school<a href="https://6abc.com/monroe-township-school-district-internet-outage-gloucester-county-police/12511652/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Classes are canceled for the third day in a row in a Gloucester County school district due to technical problems caused by an "unauthorized third party," according to notifications from the district.
+</details>
+<div style="text-align: right" markdown="1">
+6ABC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the CISA Reporting Rule Means for Your IT Security Protocol<a href="https://thehackernews.com/2022/12/what-cisa-reporting-rule-means-for-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new  Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA)  requires CISA to create rules regarding cyber incident reporting by critical infrastructure organizations. The RFI and hearings precede a Notice of Proposed Rulemaking (NPRM) that CISA must publish sooner than  24 months  from the enactment of CIRCIA, which the President signed into law  in March . The sessions and NPRM are steps toward creating the new rule.   CISA is  soliciting expert opinion on what to include  in a report but is taking steps to implement the change soon. Here's what that change means for businesses in the US and what you can do about it now.   Overview of the CISA reporting rule   Owners and operators of critical infrastructure must file cyber incident reports with CISA  within 72 hours . They must report ransom payments for ransomware attacks  within 24 hours . Other businesses can take part voluntarily.   The CISA Director can  subpoena  organizations in noncompliance to compel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Windows 11's Enhanced Phishing Protection guards your password<a href="https://www.bleepingcomputer.com/news/microsoft/how-windows-11s-enhanced-phishing-protection-guards-your-password/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the easier ways to steal a user's credentials is through a convincing fake login page or application. To help combat the constant risk of password theft, Microsoft added enhanced phishing protection in Windows 11 Version 22H2.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Archive files become preferred format for malware delivery<a href="https://www.techtarget.com/searchsecurity/news/252527865/Archive-files-become-preferred-format-for-malware-delivery?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The team at HP Wolf Security found that cybercriminals are using archive files as the preferred method for spreading malware, beating Microsoft Office for the first time.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch Out! These Android Keyboard Apps With 2 Million Installs Can be Hacked Remotely<a href="https://thehackernews.com/2022/12/watch-out-these-android-keyboard-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple unpatched vulnerabilities have been discovered in three Android apps that allow a smartphone to be used as a remote keyboard and mouse.  The apps in question are Lazy Mouse , PC Keyboard , and Telepad , which have been cumulatively downloaded over two million times from the Google Play Store. Telepad is no longer available through the app marketplace but can be downloaded from its website.   Lazy Mouse (com.ahmedaay.lazymouse2 and com.ahmedaay.lazymousepro)  PC Keyboard (com.beapps.pckeyboard)  Telepad (com.pinchtools.telepad)   While these apps function by connecting to a server on a desktop and transmitting to it the mouse and keyboard events, the Synopsys Cybersecurity Research Center (CyRC)  found  as many as seven flaws related to weak or missing authentication, missing authorization, and insecure communication.   The issues (from CVE-2022-45477 through CVE-2022-45483), in a nutshell, could be exploited by a malicious actor to execute arbitrary commands sans authenticati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group may have stolen customer bank details from British water company<a href="https://therecord.media/ransomware-group-may-have-stolen-customer-bank-details-from-british-water-company/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected details include the names and addresses associated with customers’ accounts as well as the bank details used to set up direct debit payments. The company said it is writing letters to the affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Dec 02, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Extorted Over $60 Million in Ransom Fees from More than 100 Entities<a href="https://thehackernews.com/2022/12/cuba-ransomware-extorted-over-60.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind Cuba (aka COLDDRAW) ransomware have received more than $60 million in ransom payments and compromised over 100 entities across the world as of August 2022.  In a new advisory shared by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI), the agencies  highlighted  a "sharp increase in both the number of compromised U.S. entities and the ransom amounts."  The ransomware crew, also known as  Tropical Scorpius , has been observed targeting financial services, government facilities, healthcare, critical manufacturing, and IT sectors, while simultaneously expanding its tactics to gain initial access and interact with breached networks.   It's worth noting that despite the name "Cuba," there is no evidence to suggest that the actors have any connection or affiliation with the island country.  The entry point for the attacks involves the exploitation of known security flaws, phishing,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung, LG, Mediatek certificates compromised to sign Android malware<a href="https://www.bleepingcomputer.com/news/security/samsung-lg-mediatek-certificates-compromised-to-sign-android-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple platform certificates used by Android OEM device vendors to digitally sign core system applications have also been used to sign Android apps containing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Dec 01, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
