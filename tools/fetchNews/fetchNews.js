@@ -43,7 +43,7 @@ var sources = {
 		handler: getCyberSecurityNews
 	},
 	'CY': {
-		name: null,
+		name: "Cyware",
 		domain: "https://cyware.com/",
 		url: "https://cyware.com/cyber-security-news-articles",
 		items: [],

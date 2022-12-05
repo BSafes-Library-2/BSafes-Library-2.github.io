@@ -34,145 +34,237 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 22, 2022
+December 04, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
+Android malware apps with 2 million installs spotted on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-spotted-on-google-play/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Following the Supreme Court’s abortion ruling in Dobbs this past June, cross-border data requests between states for abortion-related investigations may start to resemble cross-border requests between countries and trigger new conflicts of law.
+A new set of Android malware, phishing, and adware apps have infiltrated the Google Play store, tricking over two million people into installing them.
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 10, 2022
+December 4, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-The Securing Open Source Software Act Is Good, but Whatever Happened to Legal Liability?<a href="https://www.lawfareblog.com/securing-open-source-software-act-good-whatever-happened-legal-liability"> Full Text</a>
+Law enforcement agencies can extract data from thousands of cars’ infotainment systems<a href="https://securityaffairs.co/wordpress/139267/hacking/law-enforcement-cars-infotainment-systems.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The recent introduction of the Securing Open Source Software Act, and its subsequent momentum, has stoked a debate about the true reason for the open source security problem and the merits of different solutions.
+Law enforcement agencies can extract data from the infotainment systems of thousands of different car models.
+
+
+
+Data managed by infotainment systems in modern vehicles are a valuable source of information for the investigation of law enforcement agencies.
+
+
+
+Modern...
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 2, 2022
+December 4, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Has the Time for an EU-U.S. Agreement on E-Evidence Come and Gone?<a href="https://www.lawfareblog.com/has-time-eu-us-agreement-e-evidence-come-and-gone"> Full Text</a>
+US DHS Cyber Safety Board will review Lapsus$ gang’s operations<a href="https://securityaffairs.co/wordpress/139255/cyber-crime/us-dhs-cyber-safety-board-review-lapsus-attacks.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A legislative deadlock in Brussels risks the future of U.S.-EU negotiations.
+US DHS Cyber Safety Review Board will review attacks linked to the Lapsus$ extortion gang that hit multiple high-profile companies.
+
+
+
+The Department of Homeland Security (DHS) Cyber Safety Review Board announced that it will review cyberattacks linked...
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 7, 2022
+December 4, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Quantifying Cyber Conflict: Introducing the European Repository on Cyber Incidents<a href="https://www.lawfareblog.com/quantifying-cyber-conflict-introducing-european-repository-cyber-incidents"> Full Text</a>
+New CryWiper wiper targets Russian entities masquerading as a ransomware<a href="https://securityaffairs.co/wordpress/139237/malware/crywiper-wiper.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Statistical data on cyber conflict is lacking. A new dataset by a European research initiative called EuRepoC tries to solve this problem by launching a dashboard to visualize more than 1,400 cyber incidents.
+Experts spotted a new data wiper, dubbed CryWiper, that was employed in destructive attacks against Russian mayor's offices and courts.
+
+
+
+Researchers from Kaspersky discovered a previously unknown data wiper, dubbed CryWiper, that was employed in destructive...
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 21, 2022
+December 4, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-What Impact, if Any, Does Killnet Have?<a href="https://www.lawfareblog.com/what-impact-if-any-does-killnet-have"> Full Text</a>
+Security Affairs newsletter Round 396<a href="https://securityaffairs.co/wordpress/139246/breaking-news/security-affairs-newsletter-round-396.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Killnet, the pro-Russian hacktivist collective, launched an ineffective DDoS attack on U.S. government websites earlier this month, leaving many to wonder what the purpose of such groups is and what impact they actually have, especially amid the war in Ukraine.
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Google...
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 20, 2022
+December 3, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-The Emerging Cyber Threat to the American Rail Industry<a href="https://www.lawfareblog.com/emerging-cyber-threat-american-rail-industry"> Full Text</a>
+Schoolyard Bully Trojan Steals Facebook Credentials<a href="https://cyware.com/news/schoolyard-bully-trojan-steals-facebook-credentials-a1d20a7c"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Adding trains to the Internet of Things opens the door to a new threat: cyberattacks.
+Schoolyard Bully Trojan, a new Android threat campaign, victimized over 300,000 users across 71 countries. The malware steals Facebook credentials pretending to be educational apps. Experts found 37 apps associated with this campaign and these are actively being distributed via third-party app stor ... Read More
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+Cyware Alerts - Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 19, 2022
+December 03, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-The Fallout From the First Trial of a Corporate Executive for ‘Covering Up’ a Data Breach<a href="https://www.lawfareblog.com/fallout-first-trial-corporate-executive-covering-data-breach"> Full Text</a>
+SIM swapper gets 18-months for involvement in $22 million crypto heist<a href="https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The Justice Department should issue guidance to clarify the line between covering up a data breach and merely declining to disclose it.
+Florida man Nicholas Truglia was sentenced to 18 months in prison on Thursday for his involvement in a fraud scheme that led to the theft of millions from cryptocurrency investor Michael Terpin.
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+BleepingComputer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 13, 2022
+December 3, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Clarifying Responsible Cyber Power: Developing Views in the U.K. Regarding Non-intervention and Peacetime Cyber Operations<a href="https://www.lawfareblog.com/clarifying-responsible-cyber-power-developing-views-uk-regarding-non-intervention-and-peacetime"> Full Text</a>
+Cybercriminal Organizations Offer Record High Reward for Signal App Zero-Days<a href="https://cyware.com/news/cybercriminal-organizations-offer-record-high-reward-for-signal-app-zero-days-720bede0"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A response to a previous Lawfare article on the U.K.’s cyber strategy, emphasizing the need to develop a nuanced, incremental development of that strategy over time
+The market for gray-market exploit brokers is growing and a majority of credit can be given to an ongoing bidding war wherein a new entrant has bid in millions for Signal messaging app zero-days. The reasons behind this bidding war include an overwhelming 80% market share of Android in Ukraine and  ... Read More
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+Cyware Alerts - Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined 6, 2022
+December 03, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Cybersecurity Regulation: It’s Not ‘Performance-Based’ If Outcomes Can’t Be Measured<a href="https://www.lawfareblog.com/cybersecurity-regulation-its-not-performance-based-if-outcomes-cant-be-measured"> Full Text</a>
+Hackers use new, fake crypto app to breach networks, steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A closer look at the TSA’s cybersecurity directive for pipelines casts doubt on the applicability of “performance-based” regulation to cybersecurity. For now, policymakers have to combine management-based controls and technology-specific prescriptions.
+The North Korean 'Lazarus' hacking group is linked to a new attack spreading fake cryptocurrency apps under the made-up brand, "BloxHolder," to install the AppleJeus malware for initial access to networks and steal crypto assets.
 </details>
 <div style="text-align: right" markdown="1">
-Lawfare
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Innocuous Linux Vulnerabilities Chained to Obtain Full Root Privileges<a href="https://www.securityweek.com/three-innocuous-linux-vulnerabilities-chained-obtain-full-root-privileges?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys’ Threat Research Unit has shown how a new Linux vulnerability could be chained with two other apparently harmless flaws to gain full root privileges on an affected system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric PLCs Exposed to Attacks by Engineering Software Flaws<a href="https://www.securityweek.com/mitsubishi-electric-plcs-exposed-attacks-engineering-software-flaws?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at industrial cybersecurity firm Nozomi Networks have discovered three vulnerabilities in Mitsubishi Electric’s GX Works3 engineering workstation software that could be exploited to hack safety systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Week
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns about Cuba, no, not that one — the ransomware gang<a href="https://www.theregister.com/2022/12/02/fbi_warning_cuba_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba gang has hit more than 100 organizations worldwide, demanding over $145 million in payments and successfully extorting at least $60 million since August, according to a joint FBI and CISA advisory.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 3, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the ninth actively exploited Chrome zeroday this year<a href="https://securityaffairs.co/wordpress/139226/security/9-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released security updates to address a new Chrome zero-day flaw, tracked as CVE-2022-4262, actively exploited in the wild.
+
+
+
+Google rolled out an emergency security update for the Chrome web browser to address a new zero-day vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
