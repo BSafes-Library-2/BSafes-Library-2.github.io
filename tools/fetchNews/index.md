@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the Supreme Court’s abortion ruling in Dobbs this past June, cross-border data requests between states for abortion-related investigations may start to resemble cross-border requests between countries and trigger new conflicts of law.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Securing Open Source Software Act Is Good, but Whatever Happened to Legal Liability?<a href="https://www.lawfareblog.com/securing-open-source-software-act-good-whatever-happened-legal-liability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent introduction of the Securing Open Source Software Act, and its subsequent momentum, has stoked a debate about the true reason for the open source security problem and the merits of different solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Has the Time for an EU-U.S. Agreement on E-Evidence Come and Gone?<a href="https://www.lawfareblog.com/has-time-eu-us-agreement-e-evidence-come-and-gone"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legislative deadlock in Brussels risks the future of U.S.-EU negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantifying Cyber Conflict: Introducing the European Repository on Cyber Incidents<a href="https://www.lawfareblog.com/quantifying-cyber-conflict-introducing-european-repository-cyber-incidents"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Statistical data on cyber conflict is lacking. A new dataset by a European research initiative called EuRepoC tries to solve this problem by launching a dashboard to visualize more than 1,400 cyber incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Impact, if Any, Does Killnet Have?<a href="https://www.lawfareblog.com/what-impact-if-any-does-killnet-have"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Killnet, the pro-Russian hacktivist collective, launched an ineffective DDoS attack on U.S. government websites earlier this month, leaving many to wonder what the purpose of such groups is and what impact they actually have, especially amid the war in Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 20, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Emerging Cyber Threat to the American Rail Industry<a href="https://www.lawfareblog.com/emerging-cyber-threat-american-rail-industry"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adding trains to the Internet of Things opens the door to a new threat: cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Fallout From the First Trial of a Corporate Executive for ‘Covering Up’ a Data Breach<a href="https://www.lawfareblog.com/fallout-first-trial-corporate-executive-covering-data-breach"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department should issue guidance to clarify the line between covering up a data breach and merely declining to disclose it.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clarifying Responsible Cyber Power: Developing Views in the U.K. Regarding Non-intervention and Peacetime Cyber Operations<a href="https://www.lawfareblog.com/clarifying-responsible-cyber-power-developing-views-uk-regarding-non-intervention-and-peacetime"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A response to a previous Lawfare article on the U.K.’s cyber strategy, emphasizing the need to develop a nuanced, incremental development of that strategy over time
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Regulation: It’s Not ‘Performance-Based’ If Outcomes Can’t Be Measured<a href="https://www.lawfareblog.com/cybersecurity-regulation-its-not-performance-based-if-outcomes-cant-be-measured"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A closer look at the TSA’s cybersecurity directive for pipelines casts doubt on the applicability of “performance-based” regulation to cybersecurity. For now, policymakers have to combine management-based controls and technology-specific prescriptions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
