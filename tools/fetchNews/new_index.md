@@ -148,7 +148,7 @@ Schoolyard Bully Trojan Steals Facebook Credentials<a href="https://cyware.com/n
 Schoolyard Bully Trojan, a new Android threat campaign, victimized over 300,000 users across 71 countries. The malware steals Facebook credentials pretending to be educational apps. Experts found 37 apps associated with this campaign and these are actively being distributed via third-party app stor ... Read More
 </details>
 <div style="text-align: right" markdown="1">
-Cyware Alerts - Hacker News
+Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -180,7 +180,7 @@ Cybercriminal Organizations Offer Record High Reward for Signal App Zero-Days<a 
 The market for gray-market exploit brokers is growing and a majority of credit can be given to an ongoing bidding war wherein a new entrant has bid in millions for Signal messaging app zero-days. The reasons behind this bidding war include an overwhelming 80% market share of Android in Ukraine and  ... Read More
 </details>
 <div style="text-align: right" markdown="1">
-Cyware Alerts - Hacker News
+Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -212,7 +212,7 @@ Three Innocuous Linux Vulnerabilities Chained to Obtain Full Root Privileges<a h
 Qualys’ Threat Research Unit has shown how a new Linux vulnerability could be chained with two other apparently harmless flaws to gain full root privileges on an affected system.
 </details>
 <div style="text-align: right" markdown="1">
-Security Week
+Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -228,7 +228,7 @@ Mitsubishi Electric PLCs Exposed to Attacks by Engineering Software Flaws<a href
 Researchers at industrial cybersecurity firm Nozomi Networks have discovered three vulnerabilities in Mitsubishi Electric’s GX Works3 engineering workstation software that could be exploited to hack safety systems.
 </details>
 <div style="text-align: right" markdown="1">
-Security Week
+Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -244,7 +244,7 @@ FBI warns about Cuba, no, not that one — the ransomware gang<a href="https://w
 The Cuba gang has hit more than 100 organizations worldwide, demanding over $145 million in payments and successfully extorting at least $60 million since August, according to a joint FBI and CISA advisory.
 </details>
 <div style="text-align: right" markdown="1">
-The Register
+Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
