@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal Organizations Offer Record High Reward for Signal App Zero-Days<a href="https://cyware.com/news/cybercriminal-organizations-offer-record-high-reward-for-signal-app-zero-days-720bede0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The market for gray-market exploit brokers is growing and a majority of credit can be given to an ongoing bidding war wherein a new entrant has bid in millions for Signal messaging app zero-days. The reasons behind this bidding war include an overwhelming 80% market share of Android in Ukraine and  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

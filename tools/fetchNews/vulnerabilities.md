@@ -8,6 +8,52 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Linux flaw can be chained with other two bugs to gain full root privileges<a href="https://securityaffairs.co/wordpress/139209/hacking/three-linux-bugs-full-root-privileges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys researchers demonstrated how to chain a new Linux flaw with two other two issues to gain full root privileges on an impacted system.
+
+
+
+Researchers at the Qualys’ Threat Research Unit demonstrated how to chain a new Linux vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome emergency update fixes 9th zero-day of the year<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-9th-zero-day-of-the-year/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 108.0.5359.94/.95 for Windows, Mac, and Linux users to address a single high-severity security flaw, the ninth Chrome zero-day exploited in the wild patched since the start of the year.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclose Supply-Chain Flaw Affecting IBM Cloud Databases for PostgreSQL<a href="https://thehackernews.com/2022/12/researchers-disclose-supply-chain-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM has fixed a high-severity security vulnerability affecting its Cloud Databases (ICD) for PostgreSQL product that could be potentially exploited to tamper with internal repositories and run unauthorized code.  The privilege escalation flaw (CVSS score: 8.8), dubbed " Hell's Keychain " by cloud security firm Wiz, has been described as a "first-of-its-kind supply-chain attack vector impacting a cloud provider's infrastructure."  Successful exploitation of the bug could enable a malicious actor to remotely execute code in customers' environments and even read or modify data stored in the PostgreSQL database.   "The vulnerability consists of a chain of three exposed secrets (Kubernetes service account token, private container registry password, CI/CD server credentials) coupled with overly permissive network access to internal build servers," Wiz researchers Ronen Shustin and Shir Tamari&nbsp; said .  Hell's Keychain commences with an SQL inject
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 01, 2022 <br>
 <span class="h-tags">Kubernetes / Vulnerability Management</span>
 

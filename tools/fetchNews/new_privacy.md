@@ -8,6 +8,28 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement agencies can extract data from thousands of cars’ infotainment systems<a href="https://securityaffairs.co/wordpress/139267/hacking/law-enforcement-cars-infotainment-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement agencies can extract data from the infotainment systems of thousands of different car models.
+
+
+
+Data managed by infotainment systems in modern vehicles are a valuable source of information for the investigation of law enforcement agencies.
+
+
+
+Modern...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

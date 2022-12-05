@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+Dec 02, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the CISA Reporting Rule Means for Your IT Security Protocol<a href="https://thehackernews.com/2022/12/what-cisa-reporting-rule-means-for-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new&nbsp; Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA) &nbsp;requires CISA to create rules regarding cyber incident reporting by critical infrastructure organizations. The RFI and hearings precede a Notice of Proposed Rulemaking (NPRM) that CISA must publish sooner than&nbsp; 24 months &nbsp;from the enactment of CIRCIA, which the President signed into law&nbsp; in March . The sessions and NPRM are steps toward creating the new rule.&nbsp;  CISA is&nbsp; soliciting expert opinion on what to include &nbsp;in a report but is taking steps to implement the change soon. Here's what that change means for businesses in the US and what you can do about it now.&nbsp;  Overview of the CISA reporting rule&nbsp;  Owners and operators of critical infrastructure must file cyber incident reports with CISA&nbsp; within 72 hours . They must report ransom payments for ransomware attacks&nbsp; within 24 hours . Other businesses can take part voluntarily.&nbsp;  The CISA Director can&nbsp; subpoena &nbsp;organizations in noncompliance to compel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 01, 2022 <br>
 <span class="h-tags">DevSecOps / Secure Coding</span>
 

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2022
+December 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware apps with 2 million installs spotted on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-spotted-on-google-play/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement agencies can extract data from thousands of cars’ infotainment systems<a href="https://securityaffairs.co/wordpress/139267/hacking/law-enforcement-cars-infotainment-systems.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DHS Cyber Safety Board will review Lapsus$ gang’s operations<a href="https://securityaffairs.co/wordpress/139255/cyber-crime/us-dhs-cyber-safety-board-review-lapsus-attacks.html"> Full Text</a>
@@ -94,7 +94,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CryWiper wiper targets Russian entities masquerading as a ransomware<a href="https://securityaffairs.co/wordpress/139237/malware/crywiper-wiper.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 396<a href="https://securityaffairs.co/wordpress/139246/breaking-news/security-affairs-newsletter-round-396.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schoolyard Bully Trojan Steals Facebook Credentials<a href="https://cyware.com/news/schoolyard-bully-trojan-steals-facebook-credentials-a1d20a7c"> Full Text</a>
@@ -154,7 +154,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2022
+December 03, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SIM swapper gets 18-months for involvement in $22 million crypto heist<a href="https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/"> Full Text</a>
@@ -170,7 +170,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal Organizations Offer Record High Reward for Signal App Zero-Days<a href="https://cyware.com/news/cybercriminal-organizations-offer-record-high-reward-for-signal-app-zero-days-720bede0"> Full Text</a>
@@ -186,7 +186,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2022
+December 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use new, fake crypto app to breach networks, steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/"> Full Text</a>
@@ -202,7 +202,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Innocuous Linux Vulnerabilities Chained to Obtain Full Root Privileges<a href="https://www.securityweek.com/three-innocuous-linux-vulnerabilities-chained-obtain-full-root-privileges?&web_view=true"> Full Text</a>
@@ -218,7 +218,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitsubishi Electric PLCs Exposed to Attacks by Engineering Software Flaws<a href="https://www.securityweek.com/mitsubishi-electric-plcs-exposed-attacks-engineering-software-flaws?&web_view=true"> Full Text</a>
@@ -234,7 +234,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns about Cuba, no, not that one — the ransomware gang<a href="https://www.theregister.com/2022/12/02/fbi_warning_cuba_ransomware/?&web_view=true"> Full Text</a>
@@ -250,7 +250,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed the ninth actively exploited Chrome zeroday this year<a href="https://securityaffairs.co/wordpress/139226/security/9-google-chrome-zero-day.html"> Full Text</a>

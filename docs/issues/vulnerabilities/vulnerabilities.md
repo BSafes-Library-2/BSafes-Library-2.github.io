@@ -11,6 +11,52 @@ nav_order: 900220
 December 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Three Innocuous Linux Vulnerabilities Chained to Obtain Full Root Privileges<a href="https://www.securityweek.com/three-innocuous-linux-vulnerabilities-chained-obtain-full-root-privileges?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualys’ Threat Research Unit has shown how a new Linux vulnerability could be chained with two other apparently harmless flaws to gain full root privileges on an affected system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitsubishi Electric PLCs Exposed to Attacks by Engineering Software Flaws<a href="https://www.securityweek.com/mitsubishi-electric-plcs-exposed-attacks-engineering-software-flaws?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at industrial cybersecurity firm Nozomi Networks have discovered three vulnerabilities in Mitsubishi Electric’s GX Works3 engineering workstation software that could be exploited to hack safety systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the ninth actively exploited Chrome zeroday this year<a href="https://securityaffairs.co/wordpress/139226/security/9-google-chrome-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released security updates to address a new Chrome zero-day flaw, tracked as CVE-2022-4262, actively exploited in the wild.
+
+
+
+Google rolled out an emergency security update for the Chrome web browser to address a new zero-day vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 A new Linux flaw can be chained with other two bugs to gain full root privileges<a href="https://securityaffairs.co/wordpress/139209/hacking/three-linux-bugs-full-root-privileges.html"> Full Text</a>
 </p>
 <details>

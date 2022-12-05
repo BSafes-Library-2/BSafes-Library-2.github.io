@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+December 4, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DHS Cyber Safety Board will review Lapsus$ gang’s operations<a href="https://securityaffairs.co/wordpress/139255/cyber-crime/us-dhs-cyber-safety-board-review-lapsus-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US DHS Cyber Safety Review Board will review attacks linked to the Lapsus$ extortion gang that hit multiple high-profile companies.
+
+
+
+The Department of Homeland Security (DHS) Cyber Safety Review Board announced that it will review cyberattacks linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 3, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns about Cuba, no, not that one — the ransomware gang<a href="https://www.theregister.com/2022/12/02/fbi_warning_cuba_ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cuba gang has hit more than 100 organizations worldwide, demanding over $145 million in payments and successfully extorting at least $60 million since August, according to a joint FBI and CISA advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use new, fake crypto app to breach networks, steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean 'Lazarus' hacking group is linked to a new attack spreading fake cryptocurrency apps under the made-up brand, "BloxHolder," to install the AppleJeus malware for initial access to networks and steal crypto assets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 01, 2022 <br>
 <span class="h-tags">Threat Intelligence / Botnet</span>
 

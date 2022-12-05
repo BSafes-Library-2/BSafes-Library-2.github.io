@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 03, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SIM swapper gets 18-months for involvement in $22 million crypto heist<a href="https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Florida man Nicholas Truglia was sentenced to 18 months in prison on Thursday for his involvement in a fraud scheme that led to the theft of millions from cryptocurrency investor Michael Terpin.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 2, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigeria-based group ‘Lilac Wolverine’ using COVID-19, emotional lures in BEC scams<a href="https://therecord.media/nigeria-based-group-lilac-wolverine-using-covid-19-emotional-lures-in-bec-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime group based in Nigeria is targeting businesses in the United States and Western Europe with a plethora of scam emails as part of a larger campaign of business email compromise (BEC) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
