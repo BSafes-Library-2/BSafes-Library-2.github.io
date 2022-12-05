@@ -314,7 +314,7 @@ function getTheHackerNews($content, fn) {
 	  var itemLabel = $thisNew.find('.item-label').html();
 	  var dateStr =  itemLabel.split('</i>')[1].split('</span>')[0];
 	  var parts = dateStr.split(' ');
-      thisItem.date = shortMonths[parts[1]] + ' ' + parts[0] + ', ' + parts[2] ;
+      thisItem.date = shortMonths[parts[1].toUpperCase()]+ ' ' + parts[0] + ', ' + parts[2] ;
       thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
       newItems.push(thisItem);
     }
@@ -338,7 +338,7 @@ function getInfoSecurity($content, fn) {
       thisItem.url = $thisNew.find('a').attr('href');
       var dateStr = $thisNew.find('time').text();
 	  var parts = dateStr.split(' ');
-      thisItem.date = shortMonths[parts[1]] + ' ' + parts[0] + ', ' + parts[2] ;
+      thisItem.date = shortMonths[parts[1].toUpperCase()] + ' ' + parts[0] + ', ' + parts[2] ;
       thisItem.abstract = $.trim($thisNew.find('p').text());
       newItems.push(thisItem);
     }
@@ -364,7 +364,7 @@ function getLawfareCybersecurity($content, fn) {
 			var parts = dateStr.split('strong>');
 			parts = parts[parts.length - 1].split(' ');
 			var year = parts[5].substr(0, 4);
-      thisItem.date = shortMonths[parts[3]] + ' ' +  parts[4] + ' ' + year;
+      thisItem.date = shortMonths[parts[3].toUpperCase()] + ' ' +  parts[4] + ' ' + year;
       thisItem.abstract = $.trim($thisNew.find('.node__content').find('p').text());
       newItems.push(thisItem);
     }
@@ -494,7 +494,7 @@ const monthsAbbr = {
 	MAR: 3,
 	APR: 4,
 	MAY: 5,
-	JUN:6,
+	JUN: 6,
 	JUNE: 6,
 	JUL: 7,
 	JULY: 7,
