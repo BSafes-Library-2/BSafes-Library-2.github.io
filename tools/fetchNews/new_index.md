@@ -34,7 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2022
+December 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch exploited Google Chrome bug by Dec 26th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-exploited-google-chrome-bug-by-dec-26th/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has added one more security vulnerability to its list of bugs known to be exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Hackers Selling Personal Data Of 150,000 Patients From Tamil Nadu Hospital On Dark Web<a href="https://www.indiatimes.com/technology/news/personal-data-from-tn-hospital-on-dark-web-586554.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The seller shared a sample as proof, showing data records dated from the years 2007-2011. The data set of 150,000 records of patients' information includes their name, guardian name, date of birth, doctor's details, and address information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French hospital cancels operations after a ransomware attack<a href="https://securityaffairs.co/wordpress/139316/cyber-crime/french-hospital-ransomware-attack-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French hospital near Paris canceled operations and transfer some patients due to a cyber attack suffered over the weekend.
+
+
+
+France's health ministry announced that the Hospital Centre of Versailles was hit by a cyber attack over the weekend.
+
+
+
+Hospital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack forces French hospital to transfer patients<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-french-hospital-to-transfer-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The André-Mignot teaching hospital in the suburbs of Paris had to shut down its phone and computer systems because of a ransomware attack that hit on Saturday evening.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target Vulnerable Redis Servers to Deliver Redigo Backdoor<a href="https://cyware.com/news/attackers-target-vulnerable-redis-servers-to-deliver-redigo-backdoor-da958bc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AquaSec security firm spotted a new Go-based malware, dubbed Redigo, launching attacks on Redis servers. The adversaries are exploiting an already patched critical flaw, CVE-2022-0543, in Redis servers. The flaw—CVSS score 10.0—is a Lua sandbox escape flaw that impacts Debian and Debian-derived Lin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exclusive: The largest mobile malware marketplace identified by Resecurity in the Dark Web<a href="https://securityaffairs.co/wordpress/139310/cyber-crime/dark-web-mobile-malware-marketplace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity has identified a new underground marketplace in the Dark Web oriented towards mobile malware developers and operators.
+
+
+
+"In the Box" dark web marketplace is leveraged by cybercriminals to attack over 300 financial institutions (FIs), payment...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sneaky hackers reverse defense mitigations when detected<a href="https://www.bleepingcomputer.com/news/security/sneaky-hackers-reverse-defense-mitigations-when-detected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor is hacking telecommunication service providers and business process outsourcing firms, actively reversing defensive mitigations applied when the breach is detected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Cybersecurity incident' hits San Diego Unified computer network<a href="https://www.kpbs.org/news/local/2022/12/02/cybersecurity-incident-hits-san-diego-unified-computer-network?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+District Superintendent Lamont Jackson on Thursday sent a letter to his staff and families of students attending SDUSD campuses to apprise them of what he described as a "cybersecurity incident."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Ping bug potentially allows remote hack of FreeBSD systems<a href="https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical stack-based buffer overflow bug, tracked as CVE-2022-23093, in the ping service can allow to take over FreeBSD systems.
+
+
+
+The maintainers of the FreeBSD operating system released updates to address a critical flaw, tracked as CVE-2022-23093,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hijack Linux devices using PRoot isolated filesystems<a href="https://www.bleepingcomputer.com/news/security/hackers-hijack-linux-devices-using-proot-isolated-filesystems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are abusing the open-source Linux PRoot utility in BYOF (Bring Your Own Filesystem) attacks to provide a consistent repository of malicious tools that work on many Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Platform Certificates Used to Sign Android Malware Installers and Droppers<a href="https://cyware.com/news/platform-certificates-used-to-sign-android-malware-installers-and-droppers-784462dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several platform certificates, belonging to LG Electronics, Revoview, Mediatek, and Samsung Electronics, were found being abused by threat actors to sign malicious Android apps. Google recommends vendors minimize the number of applications signed with the platform certificate to lower the cost of p ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT uses fake cryptocurrency apps to spread AppleJeus Malware<a href="https://securityaffairs.co/wordpress/139290/apt/lazarus-apt-bloxholder-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Lazarus APT spreads fake cryptocurrency apps under the fake brand BloxHolder to install the AppleJeus malware.
+
+
+
+Volexity researchers warn of a new malware campaign conducted by the North Korea-linked Lazarus APT  against cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe AMI MegaRAC flaws impact servers from AMD, ARM, HPE, Dell, others<a href="https://www.bleepingcomputer.com/news/security/severe-ami-megarac-flaws-impact-servers-from-amd-arm-hpe-dell-others/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three vulnerabilities in the American Megatrends MegaRAC Baseboard Management Controller (BMC) software impact server equipment used in many cloud service and data center providers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Ninth Chrome Zero-Day of 2022<a href="https://www.securityweek.com/google-patches-ninth-chrome-zero-day-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches for this vulnerability have been included in Chrome 108.0.5359.94 for Mac and Linux, and in Chrome 108.0.5359.94/.95 for Windows. Users are advised to update to a patched iteration as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace Shuts Down Hosted Exchange Systems Due to Security Incident<a href="https://www.securityweek.com/rackspace-shuts-down-hosted-exchange-systems-due-security-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rackspace has not said if this is caused by ransomware or another type of cyberattack, and it's also unclear if there was any data breach involving customer information or other kinds of information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Gambling Spam Targets World Cup Keywords<a href="https://blog.sucuri.net/2022/12/chinese-gambling-spam-targets-world-cup-keywords.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack affects mostly Chinese websites, but we’ve found a number of western websites also affected by the malicious injections. According to PublicWWW data, the number of infected sites exceeds 50,000 at the time of writing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi Protocol Ankr Suffers $5 Million Theft; Promises to Reimburse Affected Users<a href="https://finance.yahoo.com/news/defi-protocol-ankr-exploited-over-060811318.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We will take a snapshot and reissue ankrBNB to all valid aBNBc holders before the exploit. The ankrBNB token will continue to be redeemable, while aBNBc and aBNBb will no longer be redeemable," Ankr said in a tweet after the exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Safdarjung Hospital reports cyberattack but not ransomware; AIIMS server down for 11th day<a href="https://timesofindia.indiatimes.com/city/delhi/safdarjung-hospital-reports-cyberattack-but-not-ransomware-aiims-server-down-for-11th-day/articleshow/95967250.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the officials, the Safdarjung hospital runs OPD services manually therefore it had not been severe. Meanwhile, the AIIMS server remained down for the 11th day today.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckLogs Advertises its Features and MaaS Capabilities on Cybercrime Forums<a href="https://cyware.com/news/ducklogs-advertises-its-features-and-maas-capabilities-on-cybercrime-forums-928250fe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble research team has unearthed a new MaaS operation dubbed DuckLogs. It reportedly offers beginners and other cyber attackers easy access to malicious modules. DuckLogs mainly includes an information stealer and a RAT component. The malware is most likely distributed using spam or phishing email ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android malware apps with 2 million installs spotted on Google Play<a href="https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-spotted-on-google-play/"> Full Text</a>
@@ -50,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement agencies can extract data from thousands of cars’ infotainment systems<a href="https://securityaffairs.co/wordpress/139267/hacking/law-enforcement-cars-infotainment-systems.html"> Full Text</a>
@@ -74,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DHS Cyber Safety Board will review Lapsus$ gang’s operations<a href="https://securityaffairs.co/wordpress/139255/cyber-crime/us-dhs-cyber-safety-board-review-lapsus-attacks.html"> Full Text</a>
@@ -94,7 +418,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CryWiper wiper targets Russian entities masquerading as a ransomware<a href="https://securityaffairs.co/wordpress/139237/malware/crywiper-wiper.html"> Full Text</a>
@@ -114,7 +438,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2022
+December 4, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 396<a href="https://securityaffairs.co/wordpress/139246/breaking-news/security-affairs-newsletter-round-396.html"> Full Text</a>
@@ -138,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schoolyard Bully Trojan Steals Facebook Credentials<a href="https://cyware.com/news/schoolyard-bully-trojan-steals-facebook-credentials-a1d20a7c"> Full Text</a>
@@ -154,7 +478,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2022
+December 03, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SIM swapper gets 18-months for involvement in $22 million crypto heist<a href="https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/"> Full Text</a>
@@ -170,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal Organizations Offer Record High Reward for Signal App Zero-Days<a href="https://cyware.com/news/cybercriminal-organizations-offer-record-high-reward-for-signal-app-zero-days-720bede0"> Full Text</a>
@@ -186,7 +510,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 03, 2022
+December 03, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use new, fake crypto app to breach networks, steal cryptocurrency<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/"> Full Text</a>
@@ -202,7 +526,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Innocuous Linux Vulnerabilities Chained to Obtain Full Root Privileges<a href="https://www.securityweek.com/three-innocuous-linux-vulnerabilities-chained-obtain-full-root-privileges?&web_view=true"> Full Text</a>
@@ -218,7 +542,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitsubishi Electric PLCs Exposed to Attacks by Engineering Software Flaws<a href="https://www.securityweek.com/mitsubishi-electric-plcs-exposed-attacks-engineering-software-flaws?&web_view=true"> Full Text</a>
@@ -234,7 +558,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns about Cuba, no, not that one — the ransomware gang<a href="https://www.theregister.com/2022/12/02/fbi_warning_cuba_ransomware/?&web_view=true"> Full Text</a>
@@ -250,7 +574,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 3, 2022
+December 3, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed the ninth actively exploited Chrome zeroday this year<a href="https://securityaffairs.co/wordpress/139226/security/9-google-chrome-zero-day.html"> Full Text</a>
