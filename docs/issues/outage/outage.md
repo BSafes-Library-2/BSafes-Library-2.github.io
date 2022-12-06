@@ -8,6 +8,42 @@ nav_order: 900140
 
 ## Outage
 ---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French hospital cancels operations after a ransomware attack<a href="https://securityaffairs.co/wordpress/139316/cyber-crime/french-hospital-ransomware-attack-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French hospital near Paris canceled operations and transfer some patients due to a cyber attack suffered over the weekend.
+
+
+
+France's health ministry announced that the Hospital Centre of Versailles was hit by a cyber attack over the weekend.
+
+
+
+Hospital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace Shuts Down Hosted Exchange Systems Due to Security Incident<a href="https://www.securityweek.com/rackspace-shuts-down-hosted-exchange-systems-due-security-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rackspace has not said if this is caused by ransomware or another type of cyberattack, and it's also unclear if there was any data breach involving customer information or other kinds of information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

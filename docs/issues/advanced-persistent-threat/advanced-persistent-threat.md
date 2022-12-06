@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT uses fake cryptocurrency apps to spread AppleJeus Malware<a href="https://securityaffairs.co/wordpress/139290/apt/lazarus-apt-bloxholder-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Lazarus APT spreads fake cryptocurrency apps under the fake brand BloxHolder to install the AppleJeus malware.
+
+
+
+Volexity researchers warn of a new malware campaign conducted by the North Korea-linked Lazarus APT  against cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

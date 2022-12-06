@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2022
+December 05, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of Russian cyberattacks throughout the winter<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-russian-cyberattacks-throughout-the-winter/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2022
+December 05, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch exploited Google Chrome bug by Dec 26th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-exploited-google-chrome-bug-by-dec-26th/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Hackers Selling Personal Data Of 150,000 Patients From Tamil Nadu Hospital On Dark Web<a href="https://www.indiatimes.com/technology/news/personal-data-from-tn-hospital-on-dark-web-586554.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French hospital cancels operations after a ransomware attack<a href="https://securityaffairs.co/wordpress/139316/cyber-crime/french-hospital-ransomware-attack-2.html"> Full Text</a>
@@ -106,7 +106,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2022
+December 05, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack forces French hospital to transfer patients<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-french-hospital-to-transfer-patients/"> Full Text</a>
@@ -122,7 +122,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Target Vulnerable Redis Servers to Deliver Redigo Backdoor<a href="https://cyware.com/news/attackers-target-vulnerable-redis-servers-to-deliver-redigo-backdoor-da958bc4"> Full Text</a>
@@ -138,7 +138,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exclusive: The largest mobile malware marketplace identified by Resecurity in the Dark Web<a href="https://securityaffairs.co/wordpress/139310/cyber-crime/dark-web-mobile-malware-marketplace.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2022
+December 05, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sneaky hackers reverse defense mitigations when detected<a href="https://www.bleepingcomputer.com/news/security/sneaky-hackers-reverse-defense-mitigations-when-detected/"> Full Text</a>
@@ -174,7 +174,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Cybersecurity incident' hits San Diego Unified computer network<a href="https://www.kpbs.org/news/local/2022/12/02/cybersecurity-incident-hits-san-diego-unified-computer-network?&web_view=true"> Full Text</a>
@@ -190,7 +190,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Ping bug potentially allows remote hack of FreeBSD systems<a href="https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html"> Full Text</a>
@@ -210,7 +210,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2022
+December 05, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers hijack Linux devices using PRoot isolated filesystems<a href="https://www.bleepingcomputer.com/news/security/hackers-hijack-linux-devices-using-proot-isolated-filesystems/"> Full Text</a>
@@ -226,7 +226,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Platform Certificates Used to Sign Android Malware Installers and Droppers<a href="https://cyware.com/news/platform-certificates-used-to-sign-android-malware-installers-and-droppers-784462dc"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT uses fake cryptocurrency apps to spread AppleJeus Malware<a href="https://securityaffairs.co/wordpress/139290/apt/lazarus-apt-bloxholder-campaign.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2022
+December 05, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe AMI MegaRAC flaws impact servers from AMD, ARM, HPE, Dell, others<a href="https://www.bleepingcomputer.com/news/security/severe-ami-megarac-flaws-impact-servers-from-amd-arm-hpe-dell-others/"> Full Text</a>
@@ -278,7 +278,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Ninth Chrome Zero-Day of 2022<a href="https://www.securityweek.com/google-patches-ninth-chrome-zero-day-2022?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rackspace Shuts Down Hosted Exchange Systems Due to Security Incident<a href="https://www.securityweek.com/rackspace-shuts-down-hosted-exchange-systems-due-security-incident?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Gambling Spam Targets World Cup Keywords<a href="https://blog.sucuri.net/2022/12/chinese-gambling-spam-targets-world-cup-keywords.html?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeFi Protocol Ankr Suffers $5 Million Theft; Promises to Reimburse Affected Users<a href="https://finance.yahoo.com/news/defi-protocol-ankr-exploited-over-060811318.html?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Safdarjung Hospital reports cyberattack but not ransomware; AIIMS server down for 11th day<a href="https://timesofindia.indiatimes.com/city/delhi/safdarjung-hospital-reports-cyberattack-but-not-ransomware-aiims-server-down-for-11th-day/articleshow/95967250.cms?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2022
+December 5, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DuckLogs Advertises its Features and MaaS Capabilities on Cybercrime Forums<a href="https://cyware.com/news/ducklogs-advertises-its-features-and-maas-capabilities-on-cybercrime-forums-928250fe"> Full Text</a>

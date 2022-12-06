@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+December 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack forces French hospital to transfer patients<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-french-hospital-to-transfer-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The André-Mignot teaching hospital&nbsp;in the suburbs of Paris had to shut down its phone and computer systems because of a ransomware attack that hit on Saturday evening.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Cybersecurity incident' hits San Diego Unified computer network<a href="https://www.kpbs.org/news/local/2022/12/02/cybersecurity-incident-hits-san-diego-unified-computer-network?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+District Superintendent Lamont Jackson on Thursday sent a letter to his staff and families of students attending SDUSD campuses to apprise them of what he described as a "cybersecurity incident."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Safdarjung Hospital reports cyberattack but not ransomware; AIIMS server down for 11th day<a href="https://timesofindia.indiatimes.com/city/delhi/safdarjung-hospital-reports-cyberattack-but-not-ransomware-aiims-server-down-for-11th-day/articleshow/95967250.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the officials, the Safdarjung hospital runs OPD services manually therefore it had not been severe. Meanwhile, the AIIMS server remained down for the 11th day today.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

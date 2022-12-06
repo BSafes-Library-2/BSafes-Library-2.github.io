@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Hackers Selling Personal Data Of 150,000 Patients From Tamil Nadu Hospital On Dark Web<a href="https://www.indiatimes.com/technology/news/personal-data-from-tn-hospital-on-dark-web-586554.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The seller shared a sample as proof, showing data records dated from the years 2007-2011. The data set of 150,000 records of patients' information includes their name, guardian name, date of birth, doctor's details, and address information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckLogs Advertises its Features and MaaS Capabilities on Cybercrime Forums<a href="https://cyware.com/news/ducklogs-advertises-its-features-and-maas-capabilities-on-cybercrime-forums-928250fe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble research team has unearthed a new MaaS operation dubbed DuckLogs. It reportedly offers beginners and other cyber attackers easy access to malicious modules. DuckLogs mainly includes an information stealer and a RAT component. The malware is most likely distributed using spam or phishing email ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

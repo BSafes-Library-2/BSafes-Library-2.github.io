@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders agencies to patch exploited Google Chrome bug by Dec 26th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-exploited-google-chrome-bug-by-dec-26th/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp;added one more&nbsp;security vulnerability to its list of bugs known to be exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
