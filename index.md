@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 December 05, 2022
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of Russian cyberattacks throughout the winter<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-russian-cyberattacks-throughout-the-winter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned of Russian-sponsored cyberattacks continuing to target Ukrainian infrastructure and NATO allies in Europe throughout the winter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA orders agencies to patch exploited Google Chrome bug by Dec 26th<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-exploited-google-chrome-bug-by-dec-26th/"> Full Text</a>
 </p>
 <details>
