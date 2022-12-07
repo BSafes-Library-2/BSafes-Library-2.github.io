@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antwerp's city services down after hackers attack digital partner<a href="https://www.bleepingcomputer.com/news/security/antwerps-city-services-down-after-hackers-attack-digital-partner/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Antwerp, Belgium, is working to restore its digital services that were disrupted last night by a cyberattack on its digital provider.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace confirms outage was caused by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/rackspace-confirms-outage-was-caused-by-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Texas-based cloud computing provider Rackspace has confirmed today that a ransomware attack is behind an ongoing Hosted Exchange outage described as an "isolated disruption."
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

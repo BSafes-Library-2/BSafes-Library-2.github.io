@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+68% of IT leaders are worried about API sprawl<a href="https://www.helpnetsecurity.com/2022/12/06/api-sprawl-fears/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per an Axway study, ensuring data security and controlling API sprawl were top concerns, with 68% worrying about complexity due to sprawl and 48% of respondents ranking “increased security challenges” as their single greatest concern.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password Reset Calls Are Costing Your Org Big Money<a href="https://www.bleepingcomputer.com/news/security/password-reset-calls-are-costing-your-org-big-money/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research states that the average help desk labor cost for a single password reset is about $70. With this cost, what can an organization do to lessen the impact of password resets?
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

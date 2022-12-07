@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sneaky hackers reverse defense mitigations when detected<a href="https://www.bleepingcomputer.com/news/security/sneaky-hackers-reverse-defense-mitigations-when-detected/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor is hacking telecommunication service providers and business process outsourcing firms, actively reversing defensive mitigations applied when the breach is detected.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers hijack Linux devices using PRoot isolated filesystems<a href="https://www.bleepingcomputer.com/news/security/hackers-hijack-linux-devices-using-proot-isolated-filesystems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are abusing the open-source Linux PRoot utility in BYOF (Bring Your Own Filesystem) attacks to provide a consistent repository of malicious tools that work on many Linux distributions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

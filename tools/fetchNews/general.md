@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of Russian cyberattacks throughout the winter<a href="https://www.bleepingcomputer.com/news/security/microsoft-warns-of-russian-cyberattacks-throughout-the-winter/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned of Russian-sponsored cyberattacks&nbsp;continuing to target Ukrainian infrastructure and NATO allies in Europe throughout the winter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

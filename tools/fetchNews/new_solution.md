@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2022.4 adds 6 new tools, Azure images, and desktop updates<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20224-adds-6-new-tools-azure-images-and-desktop-updates/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offensive Security has released ​Kali Linux 2022.4, the fourth and final version of 2022, with new Azure and QEMU images, six new tools, and improved desktop experiences.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

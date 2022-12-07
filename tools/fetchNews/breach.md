@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi Protocol Ankr Suffers $5 Million Theft; Promises to Reimburse Affected Users<a href="https://finance.yahoo.com/news/defi-protocol-ankr-exploited-over-060811318.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We will take a snapshot and reissue ankrBNB to all valid aBNBc holders before the exploit. The ankrBNB token will continue to be redeemable, while aBNBc and aBNBb will no longer be redeemable," Ankr said in a tweet after the exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

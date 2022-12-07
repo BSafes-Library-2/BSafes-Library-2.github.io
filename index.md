@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Galaxy S22 hacked twice on first day of Pwn2Own Toronto<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-twice-on-first-day-of-pwn2own-toronto/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 68% of IT leaders are worried about API sprawl<a href="https://www.helpnetsecurity.com/2022/12/06/api-sprawl-fears/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia’s second-largest bank VTB Bank under DDoS attack<a href="https://securityaffairs.co/wordpress/139354/hacking/vtb-bank-ddos-attack.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2022.4 adds 6 new tools, Azure images, and desktop updates<a href="https://www.bleepingcomputer.com/news/security/kali-linux-20224-adds-6-new-tools-azure-images-and-desktop-updates/"> Full Text</a>
@@ -106,7 +106,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ninth Actively Exploited Chrome Zero-day Spotted in the Wild<a href="https://cyware.com/news/ninth-actively-exploited-chrome-zero-day-spotted-in-the-wild-725fc5b0"> Full Text</a>
@@ -122,7 +122,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in the connected vehicle service SiriusXM allows remote car hacking<a href="https://securityaffairs.co/wordpress/139345/hacking/vehicle-service-siriusxm-flaw.html"> Full Text</a>
@@ -142,7 +142,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amnesty International Canada breached by suspected Chinese hackers<a href="https://www.bleepingcomputer.com/news/security/amnesty-international-canada-breached-by-suspected-chinese-hackers/"> Full Text</a>
@@ -158,7 +158,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Professionalization Grows as RaaS Takes Hold<a href="https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold?&web_view=true"> Full Text</a>
@@ -174,7 +174,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Toolkit Cryptonite turning into an accidental wiper<a href="https://securityaffairs.co/wordpress/139336/cyber-crime/cryptonite-ransomware-toolkit-wiper.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Antwerp's city services down after hackers attack digital partner<a href="https://www.bleepingcomputer.com/news/security/antwerps-city-services-down-after-hackers-attack-digital-partner/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NETGEAR Router Vulnerability Allowed Access to Restricted Services<a href="https://www.hackread.com/netgear-router-vulnerability/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crook sentenced to 18 months for stealing $20M in SIM swapping attack<a href="https://securityaffairs.co/wordpress/139328/cyber-crime/crook-sentenced-sim-swapping.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspects arrested for hacking US networks to steal employee data<a href="https://www.bleepingcomputer.com/news/security/suspects-arrested-for-hacking-us-networks-to-steal-employee-data/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 6, 2022
+December 6, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eufy "no cloud" security cameras streaming data to the cloud<a href="https://www.malwarebytes.com/blog/news/2022/12/is-your-home-security-system-storing-data-100-locally?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Hackers target cryptocurrency firms over Telegram<a href="https://www.bleepingcomputer.com/news/security/microsoft-hackers-target-cryptocurrency-firms-over-telegram/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android December 2022 security updates fix 81 vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/android-december-2022-security-updates-fix-81-vulnerabilities/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rackspace confirms outage was caused by ransomware attack<a href="https://www.bleepingcomputer.com/news/security/rackspace-confirms-outage-was-caused-by-ransomware-attack/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive DDoS attack takes Russia’s second-largest bank VTB offline<a href="https://www.bleepingcomputer.com/news/security/massive-ddos-attack-takes-russia-s-second-largest-bank-vtb-offline/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 06, 2022
+December 06, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Password Reset Calls Are Costing Your Org Big Money<a href="https://www.bleepingcomputer.com/news/security/password-reset-calls-are-costing-your-org-big-money/"> Full Text</a>

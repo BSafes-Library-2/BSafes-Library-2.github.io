@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspects arrested for hacking US networks to steal employee data<a href="https://www.bleepingcomputer.com/news/security/suspects-arrested-for-hacking-us-networks-to-steal-employee-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four men suspected of hacking into US networks to steal employee data for identity theft and the filing of fraudulent US tax returns have been arrested in London, UK, and Malmo, Sweden, at the request of the U.S. law enforcement authorities.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

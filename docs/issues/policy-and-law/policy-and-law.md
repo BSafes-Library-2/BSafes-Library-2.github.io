@@ -8,6 +8,24 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crook sentenced to 18 months for stealing $20M in SIM swapping attack<a href="https://securityaffairs.co/wordpress/139328/cyber-crime/crook-sentenced-sim-swapping.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nicholas Truglia, from Florida, US, was sentenced to 18 months in prison for stealing more than $20 million in a SIM swapping scheme.
+
+
+
+DoJ announced that Nicholas Truglia (25) was sentenced to 18 months in prison for the theft of over $20 million worth...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 03, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

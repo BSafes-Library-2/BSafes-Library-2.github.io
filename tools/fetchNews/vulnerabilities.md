@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Target Vulnerable Redis Servers to Deliver Redigo Backdoor<a href="https://cyware.com/news/attackers-target-vulnerable-redis-servers-to-deliver-redigo-backdoor-da958bc4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AquaSec security firm spotted a new Go-based malware, dubbed Redigo, launching attacks on Redis servers. The adversaries are exploiting an already patched critical flaw, CVE-2022-0543, in Redis servers. The flaw—CVSS score 10.0—is a Lua sandbox escape flaw that impacts Debian and Debian-derived Lin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Ping bug potentially allows remote hack of FreeBSD systems<a href="https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical stack-based buffer overflow&nbsp;bug, tracked as CVE-2022-23093, in the&nbsp;ping service can allow to take over FreeBSD systems.
+
+
+
+The maintainers of the FreeBSD operating system released updates to address a critical flaw, tracked as CVE-2022-23093,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 05, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe AMI MegaRAC flaws impact servers from AMD, ARM, HPE, Dell, others<a href="https://www.bleepingcomputer.com/news/security/severe-ami-megarac-flaws-impact-servers-from-amd-arm-hpe-dell-others/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three vulnerabilities in the American Megatrends MegaRAC Baseboard Management Controller (BMC) software impact server equipment used in many cloud service and data center providers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Patches Ninth Chrome Zero-Day of 2022<a href="https://www.securityweek.com/google-patches-ninth-chrome-zero-day-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches for this vulnerability have been included in Chrome 108.0.5359.94 for Mac and Linux, and in Chrome 108.0.5359.94/.95 for Windows. Users are advised to update to a patched iteration as soon as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 3, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

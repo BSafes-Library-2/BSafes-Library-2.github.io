@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amnesty International Canada breached by suspected Chinese hackers<a href="https://www.bleepingcomputer.com/news/security/amnesty-international-canada-breached-by-suspected-chinese-hackers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amnesty International's Canadian branch has disclosed a security breach detected in early October and linked by cybersecurity firm Secureworks, who investigated the incident, to a threat group likely sponsored by China.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,42 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s second-largest bank VTB Bank under DDoS attack<a href="https://securityaffairs.co/wordpress/139354/hacking/vtb-bank-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's second-largest bank VTB Bank reveals it is facing the largest DDoS (distributed denial of service) attack in its history.
+
+
+
+
+
+
+
+State-owned VTB Bank, the second-largest financial institution in Russia, says it is facing the largest DDoS (distributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive DDoS attack takes Russia’s second-largest bank VTB offline<a href="https://www.bleepingcomputer.com/news/security/massive-ddos-attack-takes-russia-s-second-largest-bank-vtb-offline/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's second-largest financial institution VTB Bank says it is facing the worse cyberattack in its history after its website and mobile apps were taken offline due to an ongoing DDoS (distributed denial of service) attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
