@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple rolls out end-to-end encryption for iCloud backups<a href="https://www.bleepingcomputer.com/news/apple/apple-rolls-out-end-to-end-encryption-for-icloud-backups/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Expected to Face New Fines After EU Privacy Ruling<a href="https://www.securityweek.com/meta-expected-face-new-fines-after-eu-privacy-ruling?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Go-based botnet Zerobot exploits dozens of flaws<a href="https://securityaffairs.co/wordpress/139392/malware/zerobot-botnet-dozens-flaws.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zerobot malware has 21 exploits for BIG-IP, Zyxel, D-Link devices<a href="https://www.bleepingcomputer.com/news/security/new-zerobot-malware-has-21-exploits-for-big-ip-zyxel-d-link-devices/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian PAM Company Senhasegura Raises $13 Million<a href="https://www.securityweek.com/brazilian-pam-company-senhasegura-raises-13-million?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own Toronto 2022 hacking competition. Samsung S22 hacked<a href="https://securityaffairs.co/wordpress/139384/hacking/pwn2own-toronto-2022-day-one.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CloudSEK claims it was hacked by another cybersecurity firm<a href="https://www.bleepingcomputer.com/news/security/cloudsek-claims-it-was-hacked-by-another-cybersecurity-firm/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regulation won't fix internet routing security<a href="https://www.cyberscoop.com/fcc-routing-security-regulation/?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos fixed a critical flaw in its Sophos Firewall version 19.5<a href="https://securityaffairs.co/wordpress/139362/security/sophos-firewall-critical-flaw.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use new Fantasy data wiper in coordinated supply chain attack<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-fantasy-data-wiper-in-coordinated-supply-chain-attack/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware group Vice Society targeted dozens of schools in 2022, new report finds<a href="https://www.cbsnews.com/news/vice-society-ransomware-group-targeted-dozens-of-school-pala-alto-network-report/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: State hackers still exploiting Internet Explorer zero-days<a href="https://www.bleepingcomputer.com/news/security/google-state-hackers-still-exploiting-internet-explorer-zero-days/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infected WordPress Plugins Redirect to Push Notification Scam<a href="https://blog.sucuri.net/2022/12/infected-wordpress-plugins-redirect-to-push-notification-scam.html?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CryptosLabs ‘pig butchering’ ring stole up to $505 million since 2018<a href="https://www.bleepingcomputer.com/news/security/cryptoslabs-pig-butchering-ring-stole-up-to-505-million-since-2018/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maryland bans use of TikTok, other products by state agencies<a href="https://www.nbcnews.com/tech/security/maryland-bans-use-tiktok-huawei-chinese-russian-products-rcna60382?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2022
+December 07, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Elon Musk's Twitter followers targeted in fake crypto giveaway scam<a href="https://www.bleepingcomputer.com/news/security/elon-musks-twitter-followers-targeted-in-fake-crypto-giveaway-scam/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2022
+December 7, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Pacific vacations may be wrecked by ransomware<a href="https://www.theregister.com/2022/12/07/nz_vanuatu_cyberattacks/?&web_view=true"> Full Text</a>

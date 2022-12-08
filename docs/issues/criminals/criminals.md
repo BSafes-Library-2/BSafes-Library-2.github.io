@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group Vice Society targeted dozens of schools in 2022, new report finds<a href="https://www.cbsnews.com/news/vice-society-ransomware-group-targeted-dozens-of-school-pala-alto-network-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 40 educational organizations, including 15 in the United States, suffered ransomware attacks launched by the cybercriminal group known as Vice Society, researchers at Palo Alto Networks revealed in a report published Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptosLabs ‘pig butchering’ ring stole up to $505 million since 2018<a href="https://www.bleepingcomputer.com/news/security/cryptoslabs-pig-butchering-ring-stole-up-to-505-million-since-2018/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown investment scam group named 'CryptosLabs' has stolen up to €480 million ($505 million) from victims in France, Belgium, and Luxembourg, since the launch of its operation in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

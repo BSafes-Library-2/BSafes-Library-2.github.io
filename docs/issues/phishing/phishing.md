@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infected WordPress Plugins Redirect to Push Notification Scam<a href="https://blog.sucuri.net/2022/12/infected-wordpress-plugins-redirect-to-push-notification-scam.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of leveraging the typical base64 encoding to evade detection, the attacker was adding variations of a PHP function to normal plugin files which decoded hex2dec from a second file containing a hexadecimal payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk's Twitter followers targeted in fake crypto giveaway scam<a href="https://www.bleepingcomputer.com/news/security/elon-musks-twitter-followers-targeted-in-fake-crypto-giveaway-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter accounts giving Elon Musk&nbsp;a follow are being targeted in a crypto giveaway scam dubbed 'Freedom Giveaway.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulation won't fix internet&nbsp;routing security<a href="https://www.cyberscoop.com/fcc-routing-security-regulation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The routing system security is critical to maintaining privacy online and ensuring information isn’t hijacked by malicious actors and that the information an organization sends — and receives — is trustworthy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

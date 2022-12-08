@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Expected to Face New Fines After EU Privacy Ruling<a href="https://www.securityweek.com/meta-expected-face-new-fines-after-eu-privacy-ruling?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta is expected to face another large fine after Europe's data watchdog on Tuesday imposed binding decisions concerning the treatment of personal data by the owner of Facebook, Instagram and WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

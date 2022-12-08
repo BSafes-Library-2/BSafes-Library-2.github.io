@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+December 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple rolls out end-to-end encryption for iCloud backups<a href="https://www.bleepingcomputer.com/news/apple/apple-rolls-out-end-to-end-encryption-for-icloud-backups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple introduced&nbsp;today Advanced Data Protection for iCloud, a new feature that uses end-to-end encryption to protect sensitive&nbsp;iCloud data, including backups, photos, notes, and more.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

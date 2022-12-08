@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Professionalization Grows as RaaS Takes Hold<a href="https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware's prevalence has grown over the past decade, leading ransomware groups such as Conti have added services and features as part of a growing trend toward professionalization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

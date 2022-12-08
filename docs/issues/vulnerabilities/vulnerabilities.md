@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 hacking competition. Samsung S22 hacked<a href="https://securityaffairs.co/wordpress/139384/hacking/pwn2own-toronto-2022-day-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Toronto 2022 hacking competition has begun, this is the 10th anniversary of the consumer-focused version of the contest.
+
+
+
+The news of the Samsung Galaxy S22 hack on the first day of Pwn2Own Toronto 2022 made the headlines. White hat hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos fixed a critical flaw in its Sophos Firewall version 19.5<a href="https://securityaffairs.co/wordpress/139362/security/sophos-firewall-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos addressed several vulnerabilities affecting its Sophos Firewall version 19.5, including arbitrary code execution issues.
+
+
+
+Sophos has released security patches to address seven vulnerabilities in Sophos Firewall version 19.5, including some arbitrary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: State hackers still exploiting Internet Explorer zero-days<a href="https://www.bleepingcomputer.com/news/security/google-state-hackers-still-exploiting-internet-explorer-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) revealed today that&nbsp;a group of North Korean hackers tracked as APT37 exploited a previously unknown Internet Explorer vulnerability (known as a zero-day) to infect South Korean targets with malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

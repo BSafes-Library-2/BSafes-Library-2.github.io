@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy S22 hacked twice on first day of Pwn2Own Toronto<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-twice-on-first-day-of-pwn2own-toronto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants have hacked the Samsung Galaxy S22 smartphone twice during the first day of the Pwn2Own Toronto 2022 hacking competition, the 10th edition of the consumer-focused event.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ninth Actively Exploited Chrome Zero-day Spotted in the Wild<a href="https://cyware.com/news/ninth-actively-exploited-chrome-zero-day-spotted-in-the-wild-725fc5b0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warned against a highly critical zero-day described as a type of confusion flaw in the browser’s V8 JavaScript engine. Identified as CVE-2022-4262, the flaw could let a remote attacker potentially exploit heap corruption via a specially crafted HTML page. Hackers exploiting it can execute RC ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the connected vehicle service SiriusXM allows remote car hacking<a href="https://securityaffairs.co/wordpress/139345/hacking/vehicle-service-siriusxm-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a security flaw in the connected vehicle service SiriusXM that exposes multiple car models to remote attacks.
+
+
+
+Cybersecurity researchers discovered a security vulnerability in the connected vehicle service provided by SiriusXM...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NETGEAR Router Vulnerability Allowed Access to Restricted Services<a href="https://www.hackread.com/netgear-router-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report from Tenable outlined an emerging threat related to NETGEAR and TP-Link routers. According to Tenable research, both TP-Link and NETGEAR had to release last-minute patches for their devices that were a part of the Pwn2Own event.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 6, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eufy "no cloud" security cameras streaming data to the cloud<a href="https://www.malwarebytes.com/blog/news/2022/12/is-your-home-security-system-storing-data-100-locally?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eufy home security cameras are currently in a spot of trouble as a result of door camera footage. This is because it turns out that data that should not have been going to the cloud was doing so anyway in certain conditions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 06, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android December 2022 security updates fix 81 vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/android-december-2022-security-updates-fix-81-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the December 2022 security update for Android, fixing four critical-severity vulnerabilities, including a remote code execution flaw exploitable via Bluetooth.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
