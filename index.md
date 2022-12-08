@@ -34,6 +34,290 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple rolls out end-to-end encryption for iCloud backups<a href="https://www.bleepingcomputer.com/news/apple/apple-rolls-out-end-to-end-encryption-for-icloud-backups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple introduced today Advanced Data Protection for iCloud, a new feature that uses end-to-end encryption to protect sensitive iCloud data, including backups, photos, notes, and more.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Expected to Face New Fines After EU Privacy Ruling<a href="https://www.securityweek.com/meta-expected-face-new-fines-after-eu-privacy-ruling?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta is expected to face another large fine after Europe's data watchdog on Tuesday imposed binding decisions concerning the treatment of personal data by the owner of Facebook, Instagram and WhatsApp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Go-based botnet Zerobot exploits dozens of flaws<a href="https://securityaffairs.co/wordpress/139392/malware/zerobot-botnet-dozens-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Go-based botnet called Zerobot that exploits two dozen security vulnerabilities IoT devices.
+
+
+
+Fortinet FortiGuard Labs researchers have discovered a new Go-based botnet called Zerobot that spreads by exploiting two dozen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zerobot malware has 21 exploits for BIG-IP, Zyxel, D-Link devices<a href="https://www.bleepingcomputer.com/news/security/new-zerobot-malware-has-21-exploits-for-big-ip-zyxel-d-link-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based malware named 'Zerobot' has been spotted in mid-November using exploits for almost two dozen vulnerabilities in a variety of devices that include F5 BIG-IP, Zyxel firewalls, Totolink and D-Link routers, and Hikvision cameras.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian PAM Company Senhasegura Raises $13 Million<a href="https://www.securityweek.com/brazilian-pam-company-senhasegura-raises-13-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2010 and having a market presence in over 55 countries, the Sao Paulo-based privileged access management (PAM) vendor officially launched its North American operations in August this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 hacking competition. Samsung S22 hacked<a href="https://securityaffairs.co/wordpress/139384/hacking/pwn2own-toronto-2022-day-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Toronto 2022 hacking competition has begun, this is the 10th anniversary of the consumer-focused version of the contest.
+
+
+
+The news of the Samsung Galaxy S22 hack on the first day of Pwn2Own Toronto 2022 made the headlines. White hat hackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudSEK claims it was hacked by another cybersecurity firm<a href="https://www.bleepingcomputer.com/news/security/cloudsek-claims-it-was-hacked-by-another-cybersecurity-firm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian cybersecurity firm CloudSEK says a threat actor gained access to its Confluence server using stolen credentials for one of its employees' Jira accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regulation won't fix internet routing security<a href="https://www.cyberscoop.com/fcc-routing-security-regulation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The routing system security is critical to maintaining privacy online and ensuring information isn’t hijacked by malicious actors and that the information an organization sends — and receives — is trustworthy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos fixed a critical flaw in its Sophos Firewall version 19.5<a href="https://securityaffairs.co/wordpress/139362/security/sophos-firewall-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos addressed several vulnerabilities affecting its Sophos Firewall version 19.5, including arbitrary code execution issues.
+
+
+
+Sophos has released security patches to address seven vulnerabilities in Sophos Firewall version 19.5, including some arbitrary...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use new Fantasy data wiper in coordinated supply chain attack<a href="https://www.bleepingcomputer.com/news/security/hackers-use-new-fantasy-data-wiper-in-coordinated-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian Agrius APT hacking group is using a new 'Fantasy' data wiper in supply-chain attacks impacting organizations in Israel, Hong Kong, and South Africa.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware group Vice Society targeted dozens of schools in 2022, new report finds<a href="https://www.cbsnews.com/news/vice-society-ransomware-group-targeted-dozens-of-school-pala-alto-network-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 40 educational organizations, including 15 in the United States, suffered ransomware attacks launched by the cybercriminal group known as Vice Society, researchers at Palo Alto Networks revealed in a report published Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: State hackers still exploiting Internet Explorer zero-days<a href="https://www.bleepingcomputer.com/news/security/google-state-hackers-still-exploiting-internet-explorer-zero-days/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) revealed today that a group of North Korean hackers tracked as APT37 exploited a previously unknown Internet Explorer vulnerability (known as a zero-day) to infect South Korean targets with malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infected WordPress Plugins Redirect to Push Notification Scam<a href="https://blog.sucuri.net/2022/12/infected-wordpress-plugins-redirect-to-push-notification-scam.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of leveraging the typical base64 encoding to evade detection, the attacker was adding variations of a PHP function to normal plugin files which decoded hex2dec from a second file containing a hexadecimal payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptosLabs ‘pig butchering’ ring stole up to $505 million since 2018<a href="https://www.bleepingcomputer.com/news/security/cryptoslabs-pig-butchering-ring-stole-up-to-505-million-since-2018/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown investment scam group named 'CryptosLabs' has stolen up to €480 million ($505 million) from victims in France, Belgium, and Luxembourg, since the launch of its operation in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland bans use of TikTok, other products by state agencies<a href="https://www.nbcnews.com/tech/security/maryland-bans-use-tiktok-huawei-chinese-russian-products-rcna60382?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state of Maryland banned the use of TikTok and other Chinese and Russian products by state agencies, citing reporting by NBC News about hackers linked to the Chinese government stealing millions in Covid benefits from U.S. state governments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk's Twitter followers targeted in fake crypto giveaway scam<a href="https://www.bleepingcomputer.com/news/security/elon-musks-twitter-followers-targeted-in-fake-crypto-giveaway-scam/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter accounts giving Elon Musk a follow are being targeted in a crypto giveaway scam dubbed 'Freedom Giveaway.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Pacific vacations may be wrecked by ransomware<a href="https://www.theregister.com/2022/12/07/nz_vanuatu_cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's Privacy Commission has signaled it may open an investigation into local managed services provider Mercury IT, which serves many government agencies and businesses and has been hit by ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 06, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
