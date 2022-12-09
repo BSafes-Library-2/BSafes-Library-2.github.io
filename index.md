@@ -34,6 +34,394 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Health Dept warns of Royal Ransomware targeting healthcare<a href="https://www.bleepingcomputer.com/news/security/us-health-dept-warns-of-royal-ransomware-targeting-healthcare/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Health and Human Services (HHS) issued a new warning today for the country's healthcare organizations regarding ongoing attacks from a relatively new operation, the Royal ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Attacking Each Other Gives Defenders Access to Inside Info<a href="https://heimdalsecurity.com/blog/cybercriminals-attacking-each-other-gives-defenders-access-to-inside-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new sub-economy linked to cybercriminal activity: hackers scamming each other for millions of dollars. This practice led to the apparition of arbitration rooms in forums to settle conflicts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zombinder APK binding service used in multiple malware attacks<a href="https://securityaffairs.co/wordpress/139431/malware/zombinder-apk-binding-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zombinder is a third-party service on darknet used to embed malicious payloads in legitimate Android applications.
+
+
+
+While investigating a new malware campaign targeting Android and Windows systems, researchers at Threat Fabric discovered a darknet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked corporate email accounts used to send MSP remote access tool<a href="https://www.bleepingcomputer.com/news/security/hacked-corporate-email-accounts-used-to-send-msp-remote-access-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MuddyWater hackers, a group associated with Iran's Ministry of Intelligence and Security (MOIS), used compromised corporate email accounts to deliver phishing messages to their targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Variant in Major New Attack<a href="https://blog.morphisec.com/babuk-ransomware-variant-major-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers used a new Babuk strain to target a multibillion-dollar manufacturing company with more than 10,000 workstations and server devices. The attackers had network access for two weeks of full reconnaissance prior to launching their attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 Day 2: Participants earned $281K<a href="https://securityaffairs.co/wordpress/139421/hacking/pwn2own-toronto-2022-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own Toronto 2022 Day Two - Participants demonstrated exploits for smart speaker, smartphone, printer, router, and NAS.
+
+
+
+On the first day of the Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition participants earned $400,000 for 26 unique...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit Health ransomware attack exposed data of 623,000 patients<a href="https://www.bleepingcomputer.com/news/security/commonspirit-health-ransomware-attack-exposed-data-of-623-000-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit Health has confirmed that threat actors accessed the personal data for 623,774 patients during an October ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized OneNote Document Leads to Formbook Malware<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trojanized-onenote-document-leads-to-formbook-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave SpiderLabs’ researchers uncovered threat actors using a OneNote document to move Formbook malware, an information stealing trojan sold on an underground hacking forum since mid-2016 as malware-as-a-service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android app with over 5m downloads leaked user browsing history<a href="https://securityaffairs.co/wordpress/139415/mobile-2/android-app-with-over-5m-downloads-leaked-user-browsing-history.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android app Web Explorer – Fast Internet left an open instance, exposing a trove of sensitive data that malicious actors could use to check specific users’ browsing history.
+
+
+
+Original post at https://cybernews.com/security/android-app-leaked-user-browsing-history/
+
+
+
+A...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses high-severity IP phone bug with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-discloses-high-severity-ip-phone-bug-with-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed today a high-severity vulnerability affecting the latest generation of its IP phones and exposing unpatched devices to remote code execution and denial of service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Direct Deposit Scams Around Holiday Scam<a href="https://www.avanan.com/blog/phishmas-direct-deposit-scams-continued?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though this happens all the time, the fact that we're seeing an influx around the holiday is an interesting trend. It means that hackers are actively targeting people when they are likely to spend their money the most.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT37 used Internet Explorer Zero-Day in a recent campaign<a href="https://securityaffairs.co/wordpress/139403/apt/apt37-internet-explorer-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google warns that the North Korea-linked APT37 group is exploiting Internet Explorer zero-day flaw to spread malware.
+
+
+
+North Korea-linked APT37 group (aka ScarCruft, Reaper, and Group123) actively exploited an Internet Explorer zero-day vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 12.0 brings Apple Silicon support, Android enhancements<a href="https://www.bleepingcomputer.com/news/security/tor-browser-120-brings-apple-silicon-support-android-enhancements/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project team has announced the release of Tor Browser 12.0, a major version release introducing support for Apple Silicon chips and several enhancements for the Android version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Sporting Goods Retailer Intersport Hit by Hive Ransomware Group<a href="https://heimdalsecurity.com/blog/french-brand-intersport-hit-by-ransomware-group-hive/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach allegedly happened in November, with details made available only on the dark web. Passports, paystubs, and other details on Intersport customers are included in a sample file that media outlet Numerama claims Hive leaked on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: How Android’s Private Compute Core protects your data<a href="https://www.bleepingcomputer.com/news/security/google-how-android-s-private-compute-core-protects-your-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has disclosed more technical details about how Private Compute Core (PCC) on Android works and keeps sensitive user data processed locally on protected devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Takes Down the Met Opera’s Website and Box Office<a href="https://www.nytimes.com/2022/12/07/arts/met-opera-cyberattack-website.html/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Metropolitan Opera has been the victim of a cyberattack that has kept its website and box office out of commission for more than 30 hours, the company’s general manager said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy S22 hacked again on second day of Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-again-on-second-day-of-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants hacked the Samsung Galaxy S22 again during the second day of the consumer-focused Pwn2Own 2022 competition in Toronto, Canada.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cincinnati restaurants under attack by cyber hackers<a href="https://www.wlwt.com/article/cincinnati-restaurants-under-attack-by-cyber-hackers/42169854?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple restaurants in Cincinnati, Ohio, are fighting cyber hackers who have stolen thousands of dollars, damaged their reputations, and shut down their social media pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated dark web markets sell corporate email accounts for $2<a href="https://www.bleepingcomputer.com/news/security/automated-dark-web-markets-sell-corporate-email-accounts-for-2/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime marketplaces are increasingly selling stolen corporate email addresses for as low as $2 to fill a growing demand by hackers who use them for business email compromise and phishing attacks or initial access to networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vaultree raises $12.8M to let companies more easily work with encrypted data<a href="https://techcrunch.com/2022/12/07/vaultree-raises-12-8m-to-let-companies-more-easily-work-with-encrypted-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vaultree this week closed a $12.8 million Series A round co-led by Molten Ventures and Ten Eleven Ventures, with participation from SentinelOne, Elkstone Partners, CircleRock Capital, and Cyber Club London.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Zombinder' platform binds Android malware with legitimate apps<a href="https://www.bleepingcomputer.com/news/security/new-zombinder-platform-binds-android-malware-with-legitimate-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A darknet platform dubbed 'Zombinder' allows threat actors to bind malware to legitimate Android apps, causing victims to infect themselves while still having the full functionality of the original app to evade suspicion.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Patients' Data at Seven More Hospitals Breached in CommonSpirit Ransomware Attack<a href="https://www.bankinfosecurity.com/commonspirit-patients-data-breached-in-ransomware-attack-a-20650?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patients of at least seven hospitals in Washington state affiliated with CommonSpirit have been affected by a data breach involving the hospital chain's October ransomware incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk "Freedom Giveaway" crypto scam promoted via Twitter lists<a href="https://www.bleepingcomputer.com/news/security/elon-musk-freedom-giveaway-crypto-scam-promoted-via-twitter-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter accounts giving Elon Musk a follow are being targeted in a crypto giveaway scam dubbed 'Freedom Giveaway.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 07, 2022 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
