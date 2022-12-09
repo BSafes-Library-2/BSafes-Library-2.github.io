@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian PAM Company Senhasegura Raises $13 Million<a href="https://www.securityweek.com/brazilian-pam-company-senhasegura-raises-13-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2010 and having a market presence in over 55 countries, the Sao Paulo-based privileged access management (PAM) vendor officially launched its North American operations in August this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

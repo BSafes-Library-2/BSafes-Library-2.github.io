@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android app with over 5m downloads leaked user browsing history<a href="https://securityaffairs.co/wordpress/139415/mobile-2/android-app-with-over-5m-downloads-leaked-user-browsing-history.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android app Web Explorer – Fast Internet left an open instance, exposing a trove of sensitive data that malicious actors could use to check specific users’ browsing history.
+
+
+
+Original post at https://cybernews.com/security/android-app-leaked-user-browsing-history/
+
+
+
+A...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses high-severity IP phone bug with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-discloses-high-severity-ip-phone-bug-with-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed today a high-severity vulnerability affecting the latest generation of its&nbsp;IP phones and exposing unpatched devices to&nbsp;remote code execution and&nbsp;denial of service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy S22 hacked again on second day of Pwn2Own<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-again-on-second-day-of-pwn2own/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contestants hacked the Samsung Galaxy S22 again during the second day of the consumer-focused Pwn2Own 2022 competition in Toronto, Canada.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

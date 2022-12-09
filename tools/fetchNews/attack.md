@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudSEK claims it was hacked by another cybersecurity firm<a href="https://www.bleepingcomputer.com/news/security/cloudsek-claims-it-was-hacked-by-another-cybersecurity-firm/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian cybersecurity firm CloudSEK says a threat actor gained access to its Confluence server using stolen credentials for one of its employees' Jira accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Pacific vacations may be wrecked by ransomware<a href="https://www.theregister.com/2022/12/07/nz_vanuatu_cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's Privacy Commission has signaled it may open an investigation into local managed services provider Mercury IT, which serves many government agencies and businesses and has been hit by ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

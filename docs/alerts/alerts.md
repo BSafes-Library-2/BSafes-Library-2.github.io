@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2022 - HC3 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware <a href="https://www.hhs.gov/sites/default/files/royal-ransomware-analyst-note.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal is a human-operated ransomware that was first observed in 2022 and has increased in appearance.  It has demanded ransoms up to millions of dollars. Since its appearance, HC3 is aware of attacks against the Healthcare and Public Healthcare (HPH) sector. Due to the historical nature of ransomware victimizing the healthcare community, Royal should be considered a threat to the HPH sector.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 5, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked corporate email accounts used to send MSP remote access tool<a href="https://www.bleepingcomputer.com/news/security/hacked-corporate-email-accounts-used-to-send-msp-remote-access-tool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MuddyWater hackers, a group associated with Iran's Ministry of Intelligence and Security (MOIS), used compromised corporate email accounts to deliver phishing messages to their targets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit Health ransomware attack exposed data of 623,000 patients<a href="https://www.bleepingcomputer.com/news/security/commonspirit-health-ransomware-attack-exposed-data-of-623-000-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit Health has confirmed that threat actors accessed the personal data for 623,774 patients during an October ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Patients' Data at Seven More Hospitals Breached in CommonSpirit Ransomware Attack<a href="https://www.bankinfosecurity.com/commonspirit-patients-data-breached-in-ransomware-attack-a-20650?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patients of at least seven hospitals in Washington state affiliated with CommonSpirit have been affected by a data breach involving the hospital chain's October ransomware incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

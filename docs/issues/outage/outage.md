@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Takes Down the Met Opera’s Website and Box Office<a href="https://www.nytimes.com/2022/12/07/arts/met-opera-cyberattack-website.html/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Metropolitan Opera has been the victim of a cyberattack that has kept its website and box office out of commission for more than 30 hours, the company’s general manager said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

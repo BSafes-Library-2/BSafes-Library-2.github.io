@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maryland bans use of TikTok, other products by state agencies<a href="https://www.nbcnews.com/tech/security/maryland-bans-use-tiktok-huawei-chinese-russian-products-rcna60382?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state of Maryland banned the use of TikTok and other Chinese and Russian products by state agencies, citing reporting by NBC News about hackers linked to the Chinese government stealing millions in Covid benefits from U.S. state governments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

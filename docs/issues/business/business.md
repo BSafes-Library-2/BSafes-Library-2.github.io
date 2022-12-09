@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vaultree raises $12.8M to let companies more easily work with encrypted data<a href="https://techcrunch.com/2022/12/07/vaultree-raises-12-8m-to-let-companies-more-easily-work-with-encrypted-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vaultree this week closed a $12.8 million Series A round co-led by Molten Ventures and Ten Eleven Ventures, with participation from SentinelOne, Elkstone Partners, CircleRock Capital, and Cyber Club London.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 7, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Go-based botnet Zerobot exploits dozens of flaws<a href="https://securityaffairs.co/wordpress/139392/malware/zerobot-botnet-dozens-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Go-based botnet called&nbsp;Zerobot&nbsp;that exploits two dozen security vulnerabilities IoT devices.
+
+
+
+Fortinet FortiGuard Labs researchers have discovered a new Go-based botnet called&nbsp;Zerobot&nbsp;that spreads by exploiting two dozen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
