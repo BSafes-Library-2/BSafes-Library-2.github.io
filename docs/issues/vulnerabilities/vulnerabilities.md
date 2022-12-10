@@ -8,6 +8,112 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 4,000 Vulnerable Pulse Connect Secure Hosts Exposed to Internet<a href="https://www.securityweek.com/over-4000-vulnerable-pulse-connect-secure-hosts-exposed-internet?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 4,000 internet-accessible Pulse Connect Secure hosts are impacted by at least one known vulnerability, attack surface management firm Censys warns. Pulse Connect Secure provides remote users with secure access to corporate resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses high-severity flaw impacting IP Phone 7800 and 8800 Series<a href="https://securityaffairs.co/wordpress/139453/security/cisco-ip-phones-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco disclosed a high-severity flaw in its IP phones that can be exploited to gain remote code execution and conduct DoS attacks.
+
+
+
+Cisco disclosed a high-severity vulnerability, tracked as CVE-2022-20968, impacting its IP Phone 7800 and 8800 Series...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antivirus and EDR solutions tricked into acting as data wipers<a href="https://www.bleepingcomputer.com/news/security/antivirus-and-edr-solutions-tricked-into-acting-as-data-wipers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has found a way to exploit the data deletion capabilities of widely used endpoint detection and response (EDR) and antivirus (AV) software from Microsoft, SentinelOne, TrendMicro, Avast, and AVG to turn them into data wipers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devised a technique to bypass web application firewalls (WAF) of several vendors<a href="https://securityaffairs.co/wordpress/139445/hacking/web-application-firewalls-waf-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claroty researchers devised a technique for bypassing the web application firewalls (WAF) of several vendors.
+
+
+
+Researchers at industrial and IoT cybersecurity firm Claroty devised an attack technique for bypassing the web application firewalls (WAF)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy S22 hacked in 55 seconds on Pwn2Own Day 3<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-in-55-seconds-on-pwn2own-day-3/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third day of Pwn2Own, contestants hacked the Samsung Galaxy S22 a fourth time since the start of the competition, and this time they did it in just 55 seconds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Allow Researcher to Turn EDR and AV Security Products Into Wipers<a href="https://www.securityweek.com/vulnerabilities-allow-researcher-turn-security-products-wipers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Aikido, the researcher’s wiper abuses the extended privileges that EDR and AV products have on the system, relying on decoy directories containing specially crafted paths to trigger the deletion of legitimate files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses high-severity IP phone zero-day with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-discloses-high-severity-ip-phone-zero-day-with-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed today a high-severity zero-day vulnerability affecting the latest generation of its IP phones and exposing them to remote code execution and denial of service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

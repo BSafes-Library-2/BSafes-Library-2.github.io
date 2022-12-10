@@ -8,6 +8,24 @@ nav_order: 900072
 
 ## General
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 Day 2: Participants earned $281K<a href="https://securityaffairs.co/wordpress/139421/hacking/pwn2own-toronto-2022-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own Toronto 2022 Day Two - Participants demonstrated exploits for smart speaker, smartphone, printer, router, and NAS.
+
+
+
+On the first day of the Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition participants earned $400,000 for 26 unique...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

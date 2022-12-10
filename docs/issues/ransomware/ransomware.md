@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 09, 2022 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 9th 2022 - Wide Impact<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-9th-2022-wide-impact/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has been filled with research reports and news of significant attacks having a wide impact on many organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransom Payment Schemes Target Executives, Telemedicine – Krebs on Security<a href="https://krebsonsecurity.com/2022/12/new-ransom-payment-schemes-target-executives-telemedicine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups are constantly devising new methods for infecting victims and convincing them to pay up, but a couple of strategies tested recently seem especially devious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

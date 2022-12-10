@@ -8,6 +8,38 @@ nav_order: 900072
 
 ## General
 ---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 Day 3: Participants earned nearly $1 million<a href="https://securityaffairs.co/wordpress/139462/hacking/pwn2own-toronto-2022-day-3-participants-earned-nearly-1-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the&nbsp;third day of the Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition, participants earned more than $250,000.
+
+
+
+On the&nbsp;third day of the Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition, participants earned more...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 09, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holiday 2022 deal: 20% off Zero2Automated malware analysis training<a href="https://www.bleepingcomputer.com/news/security/holiday-2022-deal-20-percent-off-zero2automated-malware-analysis-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero2Automated, the creators of the popular malware analysis and reverse-engineering course, is having a Christmas special where you can get 20% off all courses on their site, with additional goodies thrown in.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

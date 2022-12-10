@@ -8,6 +8,38 @@ nav_order: 900029
 
 ## Breach
 ---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit confirms data breach impacts 623K patients<a href="https://securityaffairs.co/wordpress/139472/data-breach/commonspirit-data-breach-623k-patients.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit Health confirmed that the October security breach resulted in the exposure of the personal data of 623,774 patients.
+
+
+
+In early October, Common Spirit, one of the largest hospital chains in the US, suffered a ransomware cyberattack that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular HR and Payroll Company Sequoia Discloses a Data Breach<a href="https://www.wired.com/story/sequoia-hr-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“An unauthorized party may have accessed a cloud storage system that contained personal information,” the company wrote in the customer and individual disclosures. WIRED reviewed examples of both notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

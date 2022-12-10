@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Browser 12.0 brings Apple Silicon support, Android enhancements<a href="https://www.bleepingcomputer.com/news/security/tor-browser-120-brings-apple-silicon-support-android-enhancements/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tor Project team has announced the release of Tor Browser 12.0, a major version release introducing support for Apple Silicon chips and several enhancements for the Android version.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: How Android’s Private Compute Core protects your data<a href="https://www.bleepingcomputer.com/news/security/google-how-android-s-private-compute-core-protects-your-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has disclosed more technical details about how Private Compute Core (PCC) on Android works and keeps sensitive user data processed locally on protected devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

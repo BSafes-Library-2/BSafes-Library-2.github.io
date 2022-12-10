@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Sporting Goods Retailer Intersport Hit by Hive Ransomware Group<a href="https://heimdalsecurity.com/blog/french-brand-intersport-hit-by-ransomware-group-hive/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach allegedly happened in November, with details made available only on the dark web. Passports, paystubs, and other details on Intersport customers are included in a sample file that media outlet Numerama claims Hive leaked on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cincinnati restaurants under attack by cyber hackers<a href="https://www.wlwt.com/article/cincinnati-restaurants-under-attack-by-cyber-hackers/42169854?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple restaurants in Cincinnati, Ohio, are fighting cyber hackers who have stolen thousands of dollars, damaged their reputations, and shut down their social media pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

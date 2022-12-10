@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Direct Deposit Scams Around Holiday Scam<a href="https://www.avanan.com/blog/phishmas-direct-deposit-scams-continued?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though this happens all the time, the fact that we're seeing an influx around the holiday is an interesting trend. It means that hackers are actively targeting people when they are likely to spend their money the most.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Elon Musk "Freedom Giveaway" crypto scam promoted via Twitter lists<a href="https://www.bleepingcomputer.com/news/security/elon-musk-freedom-giveaway-crypto-scam-promoted-via-twitter-lists/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter accounts giving Elon Musk&nbsp;a follow are being targeted in a crypto giveaway scam dubbed 'Freedom Giveaway.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

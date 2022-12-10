@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NDAA requires intelligence agencies to study creation of cyber collaboration program<a href="https://www.fedscoop.com/ndaa-requires-intelligence-agencies-to-study-creation-of-cyber-collaboration-program/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies in charge of intelligence and cybersecurity will be required by the NDAA bill to study how to build a new cyber information collaboration environment to enable government and industry to better mitigate malicious cyber activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Targets US With Drokbk Spyware via GitHub<a href="https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A subgroup of the state-backed Iranian threat actor Cobalt Mirage is using a new custom malware dubbed "Drokbk" to attack a variety of US organizations, using GitHub as a "dead-drop resolver."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

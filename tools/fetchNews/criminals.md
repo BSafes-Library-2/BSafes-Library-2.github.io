@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Attacking Each Other Gives Defenders Access to Inside Info<a href="https://heimdalsecurity.com/blog/cybercriminals-attacking-each-other-gives-defenders-access-to-inside-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new sub-economy linked to cybercriminal activity: hackers scamming each other for millions of dollars. This practice led to the apparition of arbitration rooms in forums to settle conflicts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 08, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated dark web markets sell corporate email accounts for $2<a href="https://www.bleepingcomputer.com/news/security/automated-dark-web-markets-sell-corporate-email-accounts-for-2/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime marketplaces are increasingly selling stolen corporate email addresses for as low as $2 to fill a growing demand by hackers who use them for business email compromise and phishing attacks or initial access to networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 8, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Babuk Ransomware Variant in Major New Attack<a href="https://blog.morphisec.com/babuk-ransomware-variant-major-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers used a new Babuk strain to target a multibillion-dollar manufacturing company with more than 10,000 workstations and server devices. The attackers had network access for two weeks of full reconnaissance prior to launching their attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
