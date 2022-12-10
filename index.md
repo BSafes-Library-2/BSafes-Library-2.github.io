@@ -34,6 +34,310 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 9th 2022 - Wide Impact<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-9th-2022-wide-impact/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week has been filled with research reports and news of significant attacks having a wide impact on many organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Targets US With Drokbk Spyware via GitHub<a href="https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A subgroup of the state-backed Iranian threat actor Cobalt Mirage is using a new custom malware dubbed "Drokbk" to attack a variety of US organizations, using GitHub as a "dead-drop resolver."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonSpirit confirms data breach impacts 623K patients<a href="https://securityaffairs.co/wordpress/139472/data-breach/commonspirit-data-breach-623k-patients.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CommonSpirit Health confirmed that the October security breach resulted in the exposure of the personal data of 623,774 patients.
+
+
+
+In early October, Common Spirit, one of the largest hospital chains in the US, suffered a ransomware cyberattack that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace warns of phishing risks following ransomware attack<a href="https://www.bleepingcomputer.com/news/security/rackspace-warns-of-phishing-risks-following-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing provider Rackspace warned customers on Thursday of increased risks of phishing attacks following a ransomware attack affecting its hosted Microsoft Exchange environment.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 4,000 Vulnerable Pulse Connect Secure Hosts Exposed to Internet<a href="https://www.securityweek.com/over-4000-vulnerable-pulse-connect-secure-hosts-exposed-internet?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 4,000 internet-accessible Pulse Connect Secure hosts are impacted by at least one known vulnerability, attack surface management firm Censys warns. Pulse Connect Secure provides remote users with secure access to corporate resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 Day 3: Participants earned nearly $1 million<a href="https://securityaffairs.co/wordpress/139462/hacking/pwn2own-toronto-2022-day-3-participants-earned-nearly-1-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third day of the Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition, participants earned more than $250,000.
+
+
+
+On the third day of the Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition, participants earned more...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia arrests 'Pig Butchering' suspects for stealing $100 million<a href="https://www.bleepingcomputer.com/news/security/australia-arrests-pig-butchering-suspects-for-stealing-100-million/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) have arrested four suspected members of a financial investment scam syndicate estimated to have stolen $100 million from victims worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack via New Malicious Python Package, “shaderz”<a href="https://www.fortinet.com/blog/threat-research/supply-chain-attack-new-malicious-python-package-shaderz?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Python package was published on December 2, 2022, as shown in its official PyPI repository. The package includes malicious code in its setup.py installation script that downloads and runs an executable file as a part of its installation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses high-severity flaw impacting IP Phone 7800 and 8800 Series<a href="https://securityaffairs.co/wordpress/139453/security/cisco-ip-phones-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco disclosed a high-severity flaw in its IP phones that can be exploited to gain remote code execution and conduct DoS attacks.
+
+
+
+Cisco disclosed a high-severity vulnerability, tracked as CVE-2022-20968, impacting its IP Phone 7800 and 8800 Series...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antivirus and EDR solutions tricked into acting as data wipers<a href="https://www.bleepingcomputer.com/news/security/antivirus-and-edr-solutions-tricked-into-acting-as-data-wipers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher has found a way to exploit the data deletion capabilities of widely used endpoint detection and response (EDR) and antivirus (AV) software from Microsoft, SentinelOne, TrendMicro, Avast, and AVG to turn them into data wipers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular HR and Payroll Company Sequoia Discloses a Data Breach<a href="https://www.wired.com/story/sequoia-hr-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“An unauthorized party may have accessed a cloud storage system that contained personal information,” the company wrote in the customer and individual disclosures. WIRED reviewed examples of both notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devised a technique to bypass web application firewalls (WAF) of several vendors<a href="https://securityaffairs.co/wordpress/139445/hacking/web-application-firewalls-waf-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Claroty researchers devised a technique for bypassing the web application firewalls (WAF) of several vendors.
+
+
+
+Researchers at industrial and IoT cybersecurity firm Claroty devised an attack technique for bypassing the web application firewalls (WAF)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy S22 hacked in 55 seconds on Pwn2Own Day 3<a href="https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-in-55-seconds-on-pwn2own-day-3/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third day of Pwn2Own, contestants hacked the Samsung Galaxy S22 a fourth time since the start of the competition, and this time they did it in just 55 seconds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransom Payment Schemes Target Executives, Telemedicine – Krebs on Security<a href="https://krebsonsecurity.com/2022/12/new-ransom-payment-schemes-target-executives-telemedicine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups are constantly devising new methods for infecting victims and convincing them to pay up, but a couple of strategies tested recently seem especially devious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Holiday 2022 deal: 20% off Zero2Automated malware analysis training<a href="https://www.bleepingcomputer.com/news/security/holiday-2022-deal-20-percent-off-zero2automated-malware-analysis-training/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero2Automated, the creators of the popular malware analysis and reverse-engineering course, is having a Christmas special where you can get 20% off all courses on their site, with additional goodies thrown in.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NDAA requires intelligence agencies to study creation of cyber collaboration program<a href="https://www.fedscoop.com/ndaa-requires-intelligence-agencies-to-study-creation-of-cyber-collaboration-program/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal agencies in charge of intelligence and cybersecurity will be required by the NDAA bill to study how to build a new cyber information collaboration environment to enable government and industry to better mitigate malicious cyber activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Allow Researcher to Turn EDR and AV Security Products Into Wipers<a href="https://www.securityweek.com/vulnerabilities-allow-researcher-turn-security-products-wipers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed Aikido, the researcher’s wiper abuses the extended privileges that EDR and AV products have on the system, relying on decoy directories containing specially crafted paths to trigger the deletion of legitimate files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses high-severity IP phone zero-day with exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-discloses-high-severity-ip-phone-zero-day-with-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed today a high-severity zero-day vulnerability affecting the latest generation of its IP phones and exposing them to remote code execution and denial of service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 08, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
