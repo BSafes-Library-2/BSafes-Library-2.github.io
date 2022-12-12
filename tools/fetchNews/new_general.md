@@ -8,6 +8,51 @@ nav_order: 900072
 
 ## General
 ---
+December 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 Day 4: $989K awarded for 63 unique zero-days<a href="https://securityaffairs.co/wordpress/139516/hacking/pwn2own-toronto-2022-day4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Toronto 2022 is ended, and the participants earned a total of $989,750 for 63 unique zero-day exploits.
+
+
+
+The Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition has ended and these are the final numbers for the event:
+
+
+
+
+$989,750...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 397<a href="https://securityaffairs.co/wordpress/139513/breaking-news/security-affairs-newsletter-round-397.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+At...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

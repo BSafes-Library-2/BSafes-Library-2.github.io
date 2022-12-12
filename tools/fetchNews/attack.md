@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 9, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack via New Malicious Python Package, “shaderz”<a href="https://www.fortinet.com/blog/threat-research/supply-chain-attack-new-malicious-python-package-shaderz?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Python package was published on December 2, 2022, as shown in its official PyPI repository. The package includes malicious code in its setup.py installation script that downloads and runs an executable file as a part of its installation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

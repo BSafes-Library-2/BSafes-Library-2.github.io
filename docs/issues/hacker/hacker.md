@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto<a href="https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own Toronto 2022 has ended with competitors earning $989,750 for 63 zero-day exploits (and multiple&nbsp;bug collisions) targeting consumer products between&nbsp;December 6th and December 9th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
