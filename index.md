@@ -34,6 +34,163 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware uses TrueBot malware for access to networks<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-uses-truebot-malware-for-access-to-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed a spike in devices infected with the TrueBot malware downloader created by a Russian-speaking hacking group known as Silence.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Toronto 2022 Day 4: $989K awarded for 63 unique zero-days<a href="https://securityaffairs.co/wordpress/139516/hacking/pwn2own-toronto-2022-day4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Toronto 2022 is ended, and the participants earned a total of $989,750 for 63 unique zero-day exploits.
+
+
+
+The Zero Day Initiative’s Pwn2Own Toronto 2022 hacking competition has ended and these are the final numbers for the event:
+
+
+
+
+$989,750...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 397<a href="https://securityaffairs.co/wordpress/139513/breaking-news/security-affairs-newsletter-round-397.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+At...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater APT group is back with updated TTPs<a href="https://securityaffairs.co/wordpress/139505/apt/muddywater-changs-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked MuddyWater APT is targeting countries in the Middle East as well as Central and West Asia in a new campaign.
+
+
+
+Deep Instinct’s Threat Research team uncovered a new campaign conducted by the MuddyWater APT (aka SeedWorm, TEMP.Zagros,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-gapped PCs vulnerable to data theft via power supply radiation<a href="https://www.bleepingcomputer.com/news/security/air-gapped-pcs-vulnerable-to-data-theft-via-power-supply-radiation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack method named COVID-bit uses electromagnetic waves to transmit data from air-gapped systems isolated from the internet over a distance of at least two meters (6.5 ft), where its captured by a receiver.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers earn $989,750 for 63 zero-days exploited at Pwn2Own Toronto<a href="https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own Toronto 2022 has ended with competitors earning $989,750 for 63 zero-day exploits (and multiple bug collisions) targeting consumer products between December 6th and December 9th.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At least 4,460 vulnerable Pulse Connect Secure hosts are exposed to the Internet<a href="https://securityaffairs.co/wordpress/139491/security/pulse-connect-secure-vulnerbale-hosts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys researchers warn of more than 4,000 vulnerable Pulse Connect Secure hosts exposed to the Internet.
+
+
+
+Pulse Connect Secure is a widely-deployed SSL VPN solution for remote and mobile users, for this reason, it is a target of attacks by multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US HHS warns healthcare orgs of Royal Ransomware attacks<a href="https://securityaffairs.co/wordpress/139486/cyber-crime/us-hhs-royal-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Health and Human Services (HHS) warns healthcare organizations of Royal ransomware attacks.
+
+
+
+The human-operated Royal ransomware first appeared on the threat landscape in September 2022, it has demanded ransoms up to millions of dollars....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 09, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
