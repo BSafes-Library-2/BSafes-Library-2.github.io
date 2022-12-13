@@ -34,6 +34,350 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play ransomware claims attack on Belgium city of Antwerp<a href="https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-belgium-city-of-antwerp/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware operation has claimed responsibility for a recent cyberattack on the Belgium city of Antwerp.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Aims to Be World's 'Most Cyber-Secure' Country<a href="https://www.bankinfosecurity.com/australia-aims-to-be-worlds-most-cyber-secure-country-a-20677?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Australian official vowed to transform the country into "the world’s most cyber-secure country by 2030" after a wave of data breaches revealed the personal data of millions of residents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges customers to fix actively exploited FortiOS SSL-VPN bug<a href="https://securityaffairs.co/wordpress/139569/hacking/fortinet-fortios-ssl-vpn-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet fixed an actively exploited FortiOS SSL-VPN flaw that could allow a remote, unauthenticated attacker to execute arbitrary code on devices.
+
+
+
+Fortinet urges customers to update their installs to address an actively exploited FortiOS SSL-VPN...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python malware backdoors VMware ESXi servers for remote access<a href="https://www.bleepingcomputer.com/news/security/new-python-malware-backdoors-vmware-esxi-servers-for-remote-access/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Python backdoor targeting VMware ESXi servers has been spotted, enabling hackers to execute commands remotely on a compromised system.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of New Aerst, ScareCrow, and Vohuk Ransomware Families<a href="https://www.securityweek.com/users-warned-new-aerst-scarecrow-and-vohuk-ransomware-families?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targeting Windows computers, these are typical ransomware families that encrypt victim files and demand a ransom payment in exchange for a decryption key. These new ransomware have been used in an increasing number of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian foreign ministry’s Global Pravasi Rishta portal leaks expat passport details<a href="https://securityaffairs.co/wordpress/139561/data-breach/indian-foreign-ministrys-global-pravasi-rishta-portal-leaks-expat-passport-details.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybernews research team reported that India’s government platform Global Pravasi Rishta Portal was leaking sensitive user data.
+
+
+
+Original post @ https://cybernews.com/security/indias-foreign-ministry-leaks-passport-details/
+
+
+
+The Global Pravasi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter confirms recent user data leak is from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/twitter-confirms-recent-user-data-leak-is-from-2021-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter confirmed today that the recent leak of millions of members' profiles, including private phone numbers and email addresses, resulted from the same data breach the company disclosed in August 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Knox College president addresses ransomware incident as notorious group claims credit<a href="https://www.galesburg.com/story/news/local/2022/12/09/notorious-ransomware-group-claims-credit-for-knox-college-disruptions/69712979007/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware group claimed to have encrypted “critical infrastructure and data,” compromised the college’s backup servers, and mined sensitive personal information like medical records and social security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining campaign targets Linux systems with Go-based CHAOS Malware<a href="https://securityaffairs.co/wordpress/139554/cyber-crime/cryptocurrency-mining-campaign-chaos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a cryptocurrency mining campaign targeting Linux users with Go-based CHAOS malware (Trojan.Linux.CHAOSRAT).
+
+
+
+In November 2022, Trend Micro researchers discovered a cryptocurrency mining campaign targeting Linux users with Go-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber suffers new data breach after attack on vendor, info leaked online<a href="https://www.bleepingcomputer.com/news/security/uber-suffers-new-data-breach-after-attack-on-vendor-info-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber has suffered a new data breach after a threat actor leaked employee email addresses, corporate reports, and IT asset information stolen from a third-party vendor in a cybersecurity incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach of Ontario's vaccine booking system affects hundreds of thousands, province says<a href="https://www.cbc.ca/news/canada/toronto/vaccine-data-breach-ontario-1.6680714?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some 360,000 people will receive notices that their personal information was part of the November 2021 data breach of the COVAXX system, the Ministry of Public and Business Service Delivery said in a statement Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evilnum group targets legal entities with a new Janicab variant<a href="https://securityaffairs.co/wordpress/139540/hacking/evilnum-new-janicab-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hack-for-hire group dubbed Evilnum is targeting travel and financial entities with the new Janicab malware variant.
+
+
+
+Kaspersky researchers reported that a hack-for-hire group dubbed Evilnum is targeting travel and financial entities. The attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet says SSL-VPN pre-auth RCE bug is exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet urges customers to patch their appliances against an actively exploited FortiOS SSL-VPN vulnerability that could allow unauthenticated remote code execution on devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python, JavaScript Developers Targeted With Fake Packages Delivering Ransomware<a href="https://www.securityweek.com/python-javascript-developers-targeted-fake-packages-delivering-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Friday, Phylum security researchers warned that a threat actor was typosquatting popular PyPI packages to direct developers to malicious dependencies containing code to download payloads written in Golang (Go).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrueBot infections were observed in Clop ransomware attacks<a href="https://securityaffairs.co/wordpress/139527/malware/truebot-infections-clop-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported an increase in TrueBot infections, attackers have shifted from using malicious emails as their primary delivery method to other techniques.
+
+
+
+Cisco Talos researchers reported an increase in TrueBot infections, threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare's Zero Trust suite now available for free to at-risk groups<a href="https://www.bleepingcomputer.com/news/security/cloudflares-zero-trust-suite-now-available-for-free-to-at-risk-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has made its 'Cloudflare One Zero Trust' security suite free to public interest groups, election sites, and state organizations that are currently part of Project Galileo and the Athenian Project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 4,000 Vulnerable Pulse Connect Secure Hosts Exposed to Internet<a href="https://www.securityweek.com/over-4000-vulnerable-pulse-connect-secure-hosts-exposed-internet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure appliances are known for being the target of choice for both cybercriminals and state-sponsored threat actors, and government agencies have issued multiple alerts to warn of the continuous exploitation of unpatched vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: New rules for apps to boost consumer security and privacy<a href="https://www.gov.uk/government/news/new-rules-for-apps-to-boost-consumer-security-and-privacy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers in the U.K will be better protected from malicious apps which can steal data and money, thanks to new privacy and security rules for app store operators and developers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Year Later, That Brutal Log4j Vulnerability Is Still Lurking<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are still actively exploiting Log4Shell everywhere they can, from criminal hackers looking for a way into targets' systems to Chinese and Iranian state-backed attackers deploying the exploit in their espionage campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Telecom Firm Leaks Data of 130,000 Unlisted Customers<a href="https://www.bankinfosecurity.com/australian-telecom-firm-leaks-data-130000-customers-a-20681?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We're in the process of communicating to some unlisted customers whose details were incorrectly made available via Directory Assistance or the White Pages," Telstra said in a Friday statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 11, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
