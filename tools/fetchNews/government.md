@@ -8,6 +8,24 @@ nav_order: 900075
 
 ## Government
 ---
+December 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US HHS warns healthcare orgs of Royal Ransomware attacks<a href="https://securityaffairs.co/wordpress/139486/cyber-crime/us-hhs-royal-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Health and Human Services (HHS) warns healthcare organizations of Royal ransomware attacks.
+
+
+
+The human-operated Royal ransomware first appeared on the threat landscape in September 2022, it has demanded ransoms up to millions of dollars....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

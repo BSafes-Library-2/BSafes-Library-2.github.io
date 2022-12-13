@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air-gapped PCs vulnerable to data theft via power supply radiation<a href="https://www.bleepingcomputer.com/news/security/air-gapped-pcs-vulnerable-to-data-theft-via-power-supply-radiation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack method named COVID-bit uses electromagnetic waves to transmit data from air-gapped systems isolated from the internet over a distance of at least two meters (6.5 ft), where its captured by a receiver.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 10, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At least 4,460 vulnerable Pulse Connect Secure hosts are exposed to the Internet<a href="https://securityaffairs.co/wordpress/139491/security/pulse-connect-secure-vulnerbale-hosts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys researchers warn of more than 4,000 vulnerable Pulse Connect Secure hosts exposed to the Internet.
+
+
+
+Pulse Connect Secure&nbsp;is a widely-deployed SSL VPN solution for remote and mobile users, for this reason, it is a target of attacks by multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

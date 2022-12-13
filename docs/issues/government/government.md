@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Aims to Be World's 'Most Cyber-Secure' Country<a href="https://www.bankinfosecurity.com/australia-aims-to-be-worlds-most-cyber-secure-country-a-20677?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top Australian official vowed to transform the country into "the world’s most cyber-secure country by 2030" after a wave of data breaches revealed the personal data of millions of residents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

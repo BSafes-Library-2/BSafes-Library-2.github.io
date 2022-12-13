@@ -8,6 +8,24 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptomining campaign targets Linux systems with Go-based CHAOS Malware<a href="https://securityaffairs.co/wordpress/139554/cyber-crime/cryptocurrency-mining-campaign-chaos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a cryptocurrency mining campaign targeting Linux users with Go-based CHAOS malware (Trojan.Linux.CHAOSRAT).
+
+
+
+In November 2022, Trend Micro researchers discovered a cryptocurrency mining campaign targeting Linux users with Go-based...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

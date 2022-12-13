@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges customers to fix actively exploited FortiOS&nbsp;SSL-VPN bug<a href="https://securityaffairs.co/wordpress/139569/hacking/fortinet-fortios-ssl-vpn-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet fixed an actively exploited FortiOS&nbsp;SSL-VPN flaw that could allow a remote, unauthenticated attacker to execute arbitrary code on devices.
+
+
+
+Fortinet urges customers to update their installs to address an actively exploited FortiOS&nbsp;SSL-VPN...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet says SSL-VPN pre-auth RCE bug is exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet urges customers to patch their appliances against an actively exploited FortiOS&nbsp;SSL-VPN vulnerability that could allow unauthenticated remote code execution on devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 4,000 Vulnerable Pulse Connect Secure Hosts Exposed to Internet<a href="https://www.securityweek.com/over-4000-vulnerable-pulse-connect-secure-hosts-exposed-internet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pulse Secure appliances are known for being the target of choice for both cybercriminals and state-sponsored threat actors, and government agencies have issued multiple alerts to warn of the continuous exploitation of unpatched vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Year Later, That Brutal Log4j Vulnerability Is Still Lurking<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are still actively exploiting Log4Shell everywhere they can, from criminal hackers looking for a way into targets' systems to Chinese and Iranian state-backed attackers deploying the exploit in their espionage campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

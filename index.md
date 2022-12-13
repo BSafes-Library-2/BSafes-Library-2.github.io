@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play ransomware claims attack on Belgium city of Antwerp<a href="https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-belgium-city-of-antwerp/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Aims to Be World's 'Most Cyber-Secure' Country<a href="https://www.bankinfosecurity.com/australia-aims-to-be-worlds-most-cyber-secure-country-a-20677?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges customers to fix actively exploited FortiOS SSL-VPN bug<a href="https://securityaffairs.co/wordpress/139569/hacking/fortinet-fortios-ssl-vpn-bug.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python malware backdoors VMware ESXi servers for remote access<a href="https://www.bleepingcomputer.com/news/security/new-python-malware-backdoors-vmware-esxi-servers-for-remote-access/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of New Aerst, ScareCrow, and Vohuk Ransomware Families<a href="https://www.securityweek.com/users-warned-new-aerst-scarecrow-and-vohuk-ransomware-families?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian foreign ministry’s Global Pravasi Rishta portal leaks expat passport details<a href="https://securityaffairs.co/wordpress/139561/data-breach/indian-foreign-ministrys-global-pravasi-rishta-portal-leaks-expat-passport-details.html"> Full Text</a>
@@ -142,7 +142,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter confirms recent user data leak is from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/twitter-confirms-recent-user-data-leak-is-from-2021-breach/"> Full Text</a>
@@ -158,7 +158,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Knox College president addresses ransomware incident as notorious group claims credit<a href="https://www.galesburg.com/story/news/local/2022/12/09/notorious-ransomware-group-claims-credit-for-knox-college-disruptions/69712979007/?&web_view=true"> Full Text</a>
@@ -174,7 +174,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptomining campaign targets Linux systems with Go-based CHAOS Malware<a href="https://securityaffairs.co/wordpress/139554/cyber-crime/cryptocurrency-mining-campaign-chaos-malware.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber suffers new data breach after attack on vendor, info leaked online<a href="https://www.bleepingcomputer.com/news/security/uber-suffers-new-data-breach-after-attack-on-vendor-info-leaked-online/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach of Ontario's vaccine booking system affects hundreds of thousands, province says<a href="https://www.cbc.ca/news/canada/toronto/vaccine-data-breach-ontario-1.6680714?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evilnum group targets legal entities with a new Janicab variant<a href="https://securityaffairs.co/wordpress/139540/hacking/evilnum-new-janicab-variant.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet says SSL-VPN pre-auth RCE bug is exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python, JavaScript Developers Targeted With Fake Packages Delivering Ransomware<a href="https://www.securityweek.com/python-javascript-developers-targeted-fake-packages-delivering-ransomware?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrueBot infections were observed in Clop ransomware attacks<a href="https://securityaffairs.co/wordpress/139527/malware/truebot-infections-clop-ransomware-attacks.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare's Zero Trust suite now available for free to at-risk groups<a href="https://www.bleepingcomputer.com/news/security/cloudflares-zero-trust-suite-now-available-for-free-to-at-risk-groups/"> Full Text</a>
@@ -314,7 +314,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 4,000 Vulnerable Pulse Connect Secure Hosts Exposed to Internet<a href="https://www.securityweek.com/over-4000-vulnerable-pulse-connect-secure-hosts-exposed-internet/?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: New rules for apps to boost consumer security and privacy<a href="https://www.gov.uk/government/news/new-rules-for-apps-to-boost-consumer-security-and-privacy?&web_view=true"> Full Text</a>
@@ -346,7 +346,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Year Later, That Brutal Log4j Vulnerability Is Still Lurking<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/?&web_view=true"> Full Text</a>
@@ -362,7 +362,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Telecom Firm Leaks Data of 130,000 Unlisted Customers<a href="https://www.bankinfosecurity.com/australian-telecom-firm-leaks-data-130000-customers-a-20681?&web_view=true"> Full Text</a>

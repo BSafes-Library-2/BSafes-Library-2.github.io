@@ -8,6 +8,24 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evilnum group targets legal entities with a new Janicab variant<a href="https://securityaffairs.co/wordpress/139540/hacking/evilnum-new-janicab-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hack-for-hire group dubbed&nbsp;Evilnum is targeting travel and financial entities with the new Janicab malware variant.
+
+
+
+Kaspersky researchers reported that a hack-for-hire group dubbed&nbsp;Evilnum&nbsp;is targeting travel and financial entities. The attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 10, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware uses TrueBot malware for access to networks<a href="https://www.bleepingcomputer.com/news/security/clop-ransomware-uses-truebot-malware-for-access-to-networks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have noticed a spike in devices infected with the TrueBot malware downloader created by a Russian-speaking hacking group known as Silence.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2022 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

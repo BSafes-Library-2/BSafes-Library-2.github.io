@@ -8,6 +8,84 @@ nav_order: 900029
 
 ## Breach
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian foreign ministry’s Global Pravasi Rishta portal leaks expat passport details<a href="https://securityaffairs.co/wordpress/139561/data-breach/indian-foreign-ministrys-global-pravasi-rishta-portal-leaks-expat-passport-details.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybernews research team reported that India’s government platform Global Pravasi Rishta Portal was leaking sensitive user data.
+
+
+
+Original post @ https://cybernews.com/security/indias-foreign-ministry-leaks-passport-details/
+
+
+
+The Global Pravasi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter confirms recent user data leak is from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/twitter-confirms-recent-user-data-leak-is-from-2021-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter confirmed today that the recent leak of millions of members' profiles, including private phone numbers and email addresses, resulted from the same data breach the company disclosed in August 2022.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber suffers new data breach after attack on vendor, info leaked online<a href="https://www.bleepingcomputer.com/news/security/uber-suffers-new-data-breach-after-attack-on-vendor-info-leaked-online/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Uber has suffered a new data breach after a threat actor leaked employee email addresses, corporate reports, and IT asset information stolen from a third-party vendor in a cybersecurity incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach of Ontario's vaccine booking system affects hundreds of thousands, province says<a href="https://www.cbc.ca/news/canada/toronto/vaccine-data-breach-ontario-1.6680714?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some 360,000 people will receive notices that their personal information was part of the November 2021 data breach of the COVAXX system, the Ministry of Public and Business Service Delivery said in a statement Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Telecom Firm Leaks Data of 130,000 Unlisted Customers<a href="https://www.bankinfosecurity.com/australian-telecom-firm-leaks-data-130000-customers-a-20681?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We're in the process of communicating to some unlisted customers whose details were incorrectly made available via Directory Assistance or the White Pages," Telstra said in a Friday statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

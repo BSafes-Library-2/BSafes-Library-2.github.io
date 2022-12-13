@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 11, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyWater APT group is back with updated TTPs<a href="https://securityaffairs.co/wordpress/139505/apt/muddywater-changs-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked&nbsp;MuddyWater&nbsp;APT is targeting countries in the Middle East as well as Central and West Asia in a new campaign.
+
+
+
+Deep Instinct’s Threat Research team uncovered a new campaign conducted by the MuddyWater APT (aka&nbsp;SeedWorm,&nbsp;TEMP.Zagros,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
