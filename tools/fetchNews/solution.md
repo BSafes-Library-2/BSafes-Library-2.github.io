@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare's Zero Trust suite now available for free to at-risk groups<a href="https://www.bleepingcomputer.com/news/security/cloudflares-zero-trust-suite-now-available-for-free-to-at-risk-groups/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has made its 'Cloudflare One Zero Trust' security suite free to public interest groups, election sites, and state organizations that are currently part of Project Galileo and the Athenian Project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

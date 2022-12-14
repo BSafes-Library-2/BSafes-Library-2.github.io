@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit claims attack on California's Department of Finance<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-attack-on-californias-department-of-finance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Finance in California has been the target of a cyberattack now claimed by the LockBit ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Railway, Government Agencies Allegedly Targeted by DolphinCape Malware<a href="https://therecord.media/ukrainian-railway-state-agencies-allegedly-targeted-by-dolphincape-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks involved an email campaign in which hackers sent out messages purportedly on behalf of Ukraine’s State Emergency Service with tips on how to identify a kamikaze drone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos RAT Sharpens Up Cryptocurrency Mining Attack Campaign<a href="https://cyware.com/news/chaos-rat-sharpens-up-cryptocurrency-mining-attack-campaign-9b97835e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers spotted a cryptocurrency mining campaign against Linux machines using the open-source Chaos RAT to deploy Monero miner, among other functions. The main server is located in Russia and uses cloud-bulletproof hosting to hide its whereabouts.&nbsp;Experts suggest individuals an ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

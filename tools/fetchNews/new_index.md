@@ -34,7 +34,343 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft-signed malicious Windows drivers used in ransomware attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-signed-malicious-windows-drivers-used-in-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has revoked several Microsoft hardware developer accounts after drivers signed through their profiles were used in cyberattacks, including ransomware incidents.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrueBot Malware Downloader Comes with Alternative Delivery Methods<a href="https://cyware.com/news/truebot-malware-downloader-comes-with-alternative-delivery-methods-ceccb8a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-speaking hacking group Silence dropped the TrueBot malware downloader on over 1,500 systems worldwide to deploy their set of hacking tools, including Grace malware, Cobalt Strike, Teleport, and Cl0p ransomware. Teleport is a new custom data leakage tool created by the group. It uses Truebot ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix and NSA urge admins to fix actively exploited zero-day in Citrix ADC and Gateway<a href="https://securityaffairs.co/wordpress/139609/apt/citrix-adc-gateway-cve-2022-27518.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix urges customers to update their installs to fix actively exploited zero-day (CVE-2022-27518) in Citrix ADC and Gateway.
+
+
+
+Citrix urges administrators to apply security updates for a zero-day vulnerability, tracked as CVE-2022-27518, in Citrix...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit claims attack on California's Department of Finance<a href="https://www.bleepingcomputer.com/news/security/lockbit-claims-attack-on-californias-department-of-finance/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Finance in California has been the target of a cyberattack now claimed by the LockBit ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Companies Compensate the Hackers, We All Foot the Bill<a href="https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paying the piper emboldens the criminal syndicates behind the hackers and only serves to buttress ransom demands, opening the door to more attacks and burdening the consumer with higher prices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang hacked California Department of Finance<a href="https://securityaffairs.co/wordpress/139599/cyber-crime/lockbit-ransomware-california-department-of-finance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang hacked the California Department of Finance and threatens to leak data stolen from its systems.
+
+
+
+The LockBit ransomware gang claims to have stolen 76Gb from the California Department of Finance and is threatening to leak the stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes new Webkit zero-day used in attacks against iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-webkit-zero-day-used-in-attacks-against-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In security updates released today, Apple has fixed the tenth zero-day vulnerability since the start of the year, with this latest one actively used in attacks against iPhones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drokbk Flying Under the Radar by using GitHub as Dead Drop Resolver<a href="https://cyware.com/news/drokbk-flying-under-the-radar-by-using-github-as-dead-drop-resolver-eee32e68"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented malware, dubbed Drokbk, was linked to an Iranian hacker group known as Nemesis Kitten (aka DEV-0270). The malware uses GitHub as a dead drop resolver to extract data from a compromised system or to receive commands. The malware is written in .NET and is deployed post-intru ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts detailed a previously undetected VMware ESXi backdoor<a href="https://securityaffairs.co/wordpress/139586/hacking/vmware-esxi-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Python backdoor is targeting VMware ESXi servers, allowing attackers to take over compromised systems.
+
+
+
+Juniper Networks researchers spotted a previously undocumented Python backdoor targeting VMware ESXi servers. The researchers discovered the backdoor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft December 2022 Patch Tuesday fixes 2 zero-days, 49 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2022-patch-tuesday-fixes-2-zero-days-49-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Today is Microsoft's December 2022 Patch Tuesday, and with it comes fixes for two zero-day vulnerabilities, including an actively exploited bug, and a total of 49 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own wraps with nearly $1m paid out to ethical hackers<a href="https://www.theregister.com/2022/12/13/pwn2own_wraps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own paid out almost $1 million to bug hunters at last week's event in Toronto, but the prize money wasn't big enough to attract attempts at cracking the iPhone or Google Pixel because miscreants can score far more from less wholesome sources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter says recently leaked user data are from 2021 breach<a href="https://securityaffairs.co/wordpress/139574/data-breach/twitter-leaked-data-dated-2021-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter confirmed that the recent leak of members' profile information resulted from the 2021 data breach disclosed in August 2022.
+
+
+
+Twitter confirmed that the recent data leak of millions of profiles resulted from the 2021 data breach that the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google releases dev tool to list vulnerabilities in project dependencies<a href="https://www.bleepingcomputer.com/news/security/google-releases-dev-tool-to-list-vulnerabilities-in-project-dependencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has launched OSV Scanner, a new tool that allows developers to scan for vulnerabilities in open-source software dependencies used in their project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Families Lead Attacks Against Windows Systems<a href="https://cyware.com/news/new-ransomware-families-lead-attacks-against-windows-systems-2771da08"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Fortinet, three new (typical) ransomware families, named Aerst, ScareCrow, and Vohuk, are being increasingly used in attacks. The core target of the malware infection remains users in Germany and India. Experts have jotted down some similarities between ScareCrow and Conti, suggesting  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoTrim botnet brute forces WordPress site admin accounts<a href="https://www.bleepingcomputer.com/news/security/new-gotrim-botnet-brute-forces-wordpress-site-admin-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based botnet malware named 'GoTrim' is scanning the web for self-hosted WordPress websites and attempting to brute force the administrator's password and take control of the site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Railway, Government Agencies Allegedly Targeted by DolphinCape Malware<a href="https://therecord.media/ukrainian-railway-state-agencies-allegedly-targeted-by-dolphincape-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks involved an email campaign in which hackers sent out messages purportedly on behalf of Ukraine’s State Emergency Service with tips on how to identify a kamikaze drone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit critical Citrix ADC and Gateway zero day, patch now<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-citrix-adc-and-gateway-zero-day-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix strongly urges admins to apply security updates for an 'Critical' zero-day vulnerability (CVE-2022-27518) in Citrix ADC and Gateway that is actively exploited by state-sponsored hackers to gain access to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+24% of technology applications contain high-risk security flaws<a href="https://www.helpnetsecurity.com/2022/12/13/technology-applications-high-risk-security-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With, arguably, a higher proportion of applications to contend with than other industries, tech firms would benefit from implementing improved secure coding training and practices for their development teams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon ECR Public Gallery flaw could have wiped or poisoned any image<a href="https://www.bleepingcomputer.com/news/security/amazon-ecr-public-gallery-flaw-could-have-wiped-or-poisoned-any-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe security flaw in the Amazon ECR (Elastic Container Registry) Public Gallery could have allowed attackers to delete any container image or inject malicious code into the images of other AWS accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chaos RAT Sharpens Up Cryptocurrency Mining Attack Campaign<a href="https://cyware.com/news/chaos-rat-sharpens-up-cryptocurrency-mining-attack-campaign-9b97835e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers spotted a cryptocurrency mining campaign against Linux machines using the open-source Chaos RAT to deploy Monero miner, among other functions. The main server is located in Russia and uses cloud-bulletproof hosting to hide its whereabouts. Experts suggest individuals an ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play ransomware claims attack on Belgium city of Antwerp<a href="https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-belgium-city-of-antwerp/"> Full Text</a>
@@ -50,7 +386,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Aims to Be World's 'Most Cyber-Secure' Country<a href="https://www.bankinfosecurity.com/australia-aims-to-be-worlds-most-cyber-secure-country-a-20677?&web_view=true"> Full Text</a>
@@ -66,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet urges customers to fix actively exploited FortiOS SSL-VPN bug<a href="https://securityaffairs.co/wordpress/139569/hacking/fortinet-fortios-ssl-vpn-bug.html"> Full Text</a>
@@ -86,7 +422,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python malware backdoors VMware ESXi servers for remote access<a href="https://www.bleepingcomputer.com/news/security/new-python-malware-backdoors-vmware-esxi-servers-for-remote-access/"> Full Text</a>
@@ -102,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of New Aerst, ScareCrow, and Vohuk Ransomware Families<a href="https://www.securityweek.com/users-warned-new-aerst-scarecrow-and-vohuk-ransomware-families?&web_view=true"> Full Text</a>
@@ -118,7 +454,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian foreign ministry’s Global Pravasi Rishta portal leaks expat passport details<a href="https://securityaffairs.co/wordpress/139561/data-breach/indian-foreign-ministrys-global-pravasi-rishta-portal-leaks-expat-passport-details.html"> Full Text</a>
@@ -142,7 +478,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter confirms recent user data leak is from 2021 breach<a href="https://www.bleepingcomputer.com/news/security/twitter-confirms-recent-user-data-leak-is-from-2021-breach/"> Full Text</a>
@@ -158,7 +494,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Knox College president addresses ransomware incident as notorious group claims credit<a href="https://www.galesburg.com/story/news/local/2022/12/09/notorious-ransomware-group-claims-credit-for-knox-college-disruptions/69712979007/?&web_view=true"> Full Text</a>
@@ -174,7 +510,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptomining campaign targets Linux systems with Go-based CHAOS Malware<a href="https://securityaffairs.co/wordpress/139554/cyber-crime/cryptocurrency-mining-campaign-chaos-malware.html"> Full Text</a>
@@ -194,7 +530,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber suffers new data breach after attack on vendor, info leaked online<a href="https://www.bleepingcomputer.com/news/security/uber-suffers-new-data-breach-after-attack-on-vendor-info-leaked-online/"> Full Text</a>
@@ -210,7 +546,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach of Ontario's vaccine booking system affects hundreds of thousands, province says<a href="https://www.cbc.ca/news/canada/toronto/vaccine-data-breach-ontario-1.6680714?&web_view=true"> Full Text</a>
@@ -226,7 +562,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evilnum group targets legal entities with a new Janicab variant<a href="https://securityaffairs.co/wordpress/139540/hacking/evilnum-new-janicab-variant.html"> Full Text</a>
@@ -246,7 +582,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet says SSL-VPN pre-auth RCE bug is exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/"> Full Text</a>
@@ -262,7 +598,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python, JavaScript Developers Targeted With Fake Packages Delivering Ransomware<a href="https://www.securityweek.com/python-javascript-developers-targeted-fake-packages-delivering-ransomware?&web_view=true"> Full Text</a>
@@ -278,7 +614,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrueBot infections were observed in Clop ransomware attacks<a href="https://securityaffairs.co/wordpress/139527/malware/truebot-infections-clop-ransomware-attacks.html"> Full Text</a>
@@ -298,7 +634,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare's Zero Trust suite now available for free to at-risk groups<a href="https://www.bleepingcomputer.com/news/security/cloudflares-zero-trust-suite-now-available-for-free-to-at-risk-groups/"> Full Text</a>
@@ -314,7 +650,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 4,000 Vulnerable Pulse Connect Secure Hosts Exposed to Internet<a href="https://www.securityweek.com/over-4000-vulnerable-pulse-connect-secure-hosts-exposed-internet/?&web_view=true"> Full Text</a>
@@ -330,7 +666,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: New rules for apps to boost consumer security and privacy<a href="https://www.gov.uk/government/news/new-rules-for-apps-to-boost-consumer-security-and-privacy?&web_view=true"> Full Text</a>
@@ -346,7 +682,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Year Later, That Brutal Log4j Vulnerability Is Still Lurking<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/?&web_view=true"> Full Text</a>
@@ -362,7 +698,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 12, 2022
+December 12, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Telecom Firm Leaks Data of 130,000 Unlisted Customers<a href="https://www.bankinfosecurity.com/australian-telecom-firm-leaks-data-130000-customers-a-20681?&web_view=true"> Full Text</a>

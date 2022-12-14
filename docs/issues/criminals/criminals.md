@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang hacked California Department of Finance<a href="https://securityaffairs.co/wordpress/139599/cyber-crime/lockbit-ransomware-california-department-of-finance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware gang hacked the California Department of Finance and threatens to leak data stolen from its systems.
+
+
+
+The LockBit ransomware gang claims to have stolen 76Gb from the California Department of Finance and is threatening to leak the stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

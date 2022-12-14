@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 12, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of New Aerst, ScareCrow, and Vohuk Ransomware Families<a href="https://www.securityweek.com/users-warned-new-aerst-scarecrow-and-vohuk-ransomware-families?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targeting Windows computers, these are typical ransomware families that encrypt victim files and demand a ransom payment in exchange for a decryption key. These new ransomware have been used in an increasing number of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

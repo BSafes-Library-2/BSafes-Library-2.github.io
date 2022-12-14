@@ -8,6 +8,94 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix and NSA urge admins to fix actively exploited zero-day in Citrix ADC and Gateway<a href="https://securityaffairs.co/wordpress/139609/apt/citrix-adc-gateway-cve-2022-27518.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix urges customers to update their installs to fix actively exploited zero-day (CVE-2022-27518) in Citrix ADC and Gateway.
+
+
+
+Citrix urges administrators to apply security updates for a zero-day vulnerability, tracked as CVE-2022-27518, in Citrix...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes new Webkit zero-day used in attacks against iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-new-webkit-zero-day-used-in-attacks-against-iphones/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In security updates released today, Apple has fixed the tenth zero-day vulnerability since the start of the year, with this latest one actively used in attacks against iPhones.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft December 2022 Patch Tuesday fixes 2 zero-days, 49 flaws<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2022-patch-tuesday-fixes-2-zero-days-49-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Today is Microsoft's December 2022 Patch Tuesday, and with it comes fixes for two zero-day vulnerabilities, including an actively exploited bug, and a total of 49 flaws.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google releases dev tool to list vulnerabilities in project dependencies<a href="https://www.bleepingcomputer.com/news/security/google-releases-dev-tool-to-list-vulnerabilities-in-project-dependencies/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has launched OSV Scanner, a new tool that allows developers to scan for vulnerabilities in open-source software dependencies used in their project.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit critical Citrix ADC and Gateway zero day, patch now<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-citrix-adc-and-gateway-zero-day-patch-now/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix strongly urges admins to apply security updates for an 'Critical' zero-day vulnerability (CVE-2022-27518) in Citrix ADC and Gateway that is actively exploited by state-sponsored hackers to gain access to corporate networks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amazon ECR Public Gallery flaw could have wiped or poisoned any image<a href="https://www.bleepingcomputer.com/news/security/amazon-ecr-public-gallery-flaw-could-have-wiped-or-poisoned-any-image/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe security flaw in the Amazon ECR (Elastic Container Registry) Public Gallery could have allowed attackers to delete any container image or inject malicious code into the images of other AWS accounts.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
