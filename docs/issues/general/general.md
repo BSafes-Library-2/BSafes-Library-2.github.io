@@ -11,6 +11,20 @@ nav_order: 900072
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+What CISOs consider when building up security resilience<a href="https://www.helpnetsecurity.com/2022/12/14/building-up-security-resilience/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resilience has emerged as a top priority as 62 percent of organizations surveyed said they had experienced a security event that impacted business in the past two years, according to Cisco.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 3.5m IP cameras exposed, with US in the lead<a href="https://securityaffairs.co/wordpress/139625/hacking/3-5m-ip-cameras-exposed-with-us-in-the-lead.html"> Full Text</a>
 </p>
 <details>

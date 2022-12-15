@@ -8,6 +8,28 @@ nav_order: 900072
 
 ## General
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.5m IP cameras exposed, with US in the lead<a href="https://securityaffairs.co/wordpress/139625/hacking/3-5m-ip-cameras-exposed-with-us-in-the-lead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of internet-facing cameras in the world is growing exponentially. Some of the most popular brands don't enforce a strong password policy, meaning anyone can peer into their owners' lives.
+
+
+
+Original post at https://cybernews.com/security/millions-ip-cameras-exposed/
+
+
+
+When...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

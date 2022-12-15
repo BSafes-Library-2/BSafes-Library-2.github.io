@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA shares tips on mitigating 5G network slicing threats<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-tips-on-mitigating-5g-network-slicing-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA),&nbsp;and the Office of the Director of National Intelligence (ODNI), have published a joint report that highlights the most likely risks and potential threats in 5G network slicing implementations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mapping Threat Intelligence to the NIST Compliance Framework<a href="https://www.securityweek.com/mapping-threat-intelligence-nist-compliance-framework?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the NIST Framework, organizations assess their current security posture, agree to organizational goals, understand their gaps, and develop plans to optimize their security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

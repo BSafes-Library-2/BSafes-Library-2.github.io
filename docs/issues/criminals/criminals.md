@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized domains linked to 48 DDoS-for-hire service platforms<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-domains-linked-to-48-ddos-for-hire-service-platforms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has seized 48 Internet domains and charged six suspects for their involvement in running 'Booter' or 'Stresser' platforms&nbsp;that allow anyone to easily conduct distributed denial of service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Dark Web is Getting Darker - Ransomware Thrives on Illegal Markets<a href="https://www.bleepingcomputer.com/news/security/the-dark-web-is-getting-darker-ransomware-thrives-on-illegal-markets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web is getting darker as cybercrime gangs increasingly shop their malware, phishing, and ransomware tools on illegal cybercrime markets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

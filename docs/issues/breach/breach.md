@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nosey Parker: Find sensitive information in textual data and Git history<a href="https://www.helpnetsecurity.com/2022/12/14/nosey-parker/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nosey Parker addresses the pervasive problem of secret exposure in source code and configuration files where sensitive information such as passwords, API keys, access tokens, asymmetric private keys, client secrets, and credentials exist.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California hospital breach exposed patients’ Social Security numbers, medical info<a href="https://therecord.media/california-hospital-breach-exposed-patients-social-security-numbers-medical-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hospital in California’s Riverside County has reported a data breach to its patients including sensitive information like Social Security numbers and the details of medical care following an incident in the fall.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TPG Reveals Emails of 15,000 iiNet and Westnet Customers Exposed in Email Hack<a href="https://www.theguardian.com/business/2022/dec/14/tpg-reveals-emails-of-15000-iinet-and-westnet-customers-exposed-in-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TPG has not said what might have been obtained in the attack, but an investigation is ongoing and affected customers will be advised. It told the ASX the breach didn't affect mobile or broadband services, and access has been cut off for the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

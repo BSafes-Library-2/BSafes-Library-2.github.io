@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Crisis Situation’ Declared as Two Swedish Municipalities Hit by Cyberattack<a href="https://therecord.media/crisis-situation-declared-as-two-swedish-municipalities-hit-by-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An intrusion has been confirmed into the joint IT system used by the two municipalities of Borgholm and Mörbylånga, which together make up the island of Öland with a total population of just over 25,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

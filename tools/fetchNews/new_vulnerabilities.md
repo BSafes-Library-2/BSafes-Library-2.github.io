@@ -11,6 +11,48 @@ nav_order: 900220
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SAP's December 2022 Security Updates Patch Critical Vulnerabilities<a href="https://www.securityweek.com/saps-december-2022-security-updates-patch-critical-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a CVSS score of 10, the most severe of SAP’s security notes updates a note released on April 2018 Patch Day, which deals with software updates for the Chrome-based browser in SAP Business Client.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches Windows zero-day used to drop ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-used-to-drop-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a security vulnerability used by threat actors to circumvent the Windows SmartScreen security feature and deliver Magniber ransomware and Qbot malware payloads.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical ESXi and vRealize security flaws<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-esxi-and-vrealize-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security updates to address a critical-severity vulnerability impacting ESXi, Workstation, Fusion, and Cloud Foundation, and a critical-severity command injection flaw affecting vRealize Network Insight.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 December 2022 Patch Tuesday fixed 2 zero-day flaws<a href="https://securityaffairs.co/wordpress/139640/security/december-2022-patch-tuesday.html"> Full Text</a>
 </p>
 <details>

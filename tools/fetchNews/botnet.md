@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTrim botnet actively brute forces WordPress and OpenCart sites<a href="https://securityaffairs.co/wordpress/139647/malware/gotrim-botnet-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Go-based botnet, dubbed GoTrim, attempting to brute force WordPress websites.
+
+
+
+Fortinet FortiGuard Labs researchers spotted a new Go-based botnet, dubbed GoTrim, that has been spotted scanning and brute-forcing WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

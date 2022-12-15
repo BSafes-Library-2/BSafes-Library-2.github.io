@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-source repositories flooded by 144,000 phishing packages<a href="https://www.bleepingcomputer.com/news/security/open-source-repositories-flooded-by-144-000-phishing-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown threat actors have uploaded a total of 144,294 phishing-related packages on the open-source package repositories NuGet, PyPI, and NPM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 09, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
