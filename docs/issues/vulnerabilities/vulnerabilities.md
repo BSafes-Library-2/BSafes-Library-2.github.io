@@ -8,6 +8,60 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+December 2022 Patch Tuesday fixed 2 zero-day flaws<a href="https://securityaffairs.co/wordpress/139640/security/december-2022-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released December 2022 Patch Tuesday security updates that&nbsp;fix 52 vulnerabilities&nbsp;across its products.
+
+
+
+Microsoft December 2022 Patch Tuesday security updates addressed&nbsp;52 vulnerabilities in Microsoft Windows and Windows Components; Azure;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the tenth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/139635/hacking/apple-tenth-actively-exploited-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple rolled out security updates to iOS, iPadOS, macOS, tvOS, and Safari to fix a new actively exploited zero-day (CVE-2022-42856).
+
+
+
+Apple released security updates to address a new zero-day vulnerability, tracked as CVE-2022-42856, that is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed critical VM Escape bug demonstrated at Geekpwn hacking contest<a href="https://securityaffairs.co/wordpress/139616/security/vmware-vm-escape-flaw-geekpwn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed three flaws in multiple products, including a virtual machine escape issue exploited at the GeekPwn 2022 hacking competition.
+
+
+
+VMware addressed three vulnerabilities in multiple products, including a virtual machine escape flaw, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

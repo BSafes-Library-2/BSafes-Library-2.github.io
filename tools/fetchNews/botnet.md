@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoTrim botnet brute forces WordPress site admin accounts<a href="https://www.bleepingcomputer.com/news/security/new-gotrim-botnet-brute-forces-wordpress-site-admin-accounts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based botnet malware named 'GoTrim' is scanning the web for self-hosted WordPress websites and attempting to brute force the administrator's password and take control of the site.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

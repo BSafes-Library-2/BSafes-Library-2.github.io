@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Companies Compensate the Hackers, We All Foot the Bill<a href="https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paying the piper emboldens the criminal syndicates behind the hackers and only serves to buttress ransom demands, opening the door to more attacks and burdening the consumer with higher prices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own wraps with nearly $1m paid out to ethical hackers<a href="https://www.theregister.com/2022/12/13/pwn2own_wraps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pwn2Own paid out almost $1 million to bug hunters at last week's event in Toronto, but the prize money wasn't big enough to attract attempts at cracking the iPhone or Google Pixel because miscreants can score far more from less wholesome sources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+24% of technology applications contain high-risk security flaws<a href="https://www.helpnetsecurity.com/2022/12/13/technology-applications-high-risk-security-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With, arguably, a higher proportion of applications to contend with than other industries, tech firms would benefit from implementing improved secure coding training and practices for their development teams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,24 @@ nav_order: 900029
 
 ## Breach
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter says recently leaked user data are from 2021 breach<a href="https://securityaffairs.co/wordpress/139574/data-breach/twitter-leaked-data-dated-2021-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter confirmed that the recent leak of members' profile information resulted from the 2021 data breach disclosed in August 2022.
+
+
+
+Twitter confirmed that the recent data leak of millions of profiles resulted from the 2021 data breach that the company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

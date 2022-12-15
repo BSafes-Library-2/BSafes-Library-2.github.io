@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 13, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Families Lead Attacks Against Windows Systems<a href="https://cyware.com/news/new-ransomware-families-lead-attacks-against-windows-systems-2771da08"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Fortinet, three new (typical) ransomware families, named Aerst, ScareCrow, and Vohuk, are being increasingly used in attacks. The core target of the malware infection remains users in Germany and India. Experts have jotted down some similarities between ScareCrow and Conti, suggesting  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

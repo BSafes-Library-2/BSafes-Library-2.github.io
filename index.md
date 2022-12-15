@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2022
+December 14, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTrim botnet actively brute forces WordPress and OpenCart sites<a href="https://securityaffairs.co/wordpress/139647/malware/gotrim-botnet-wordpress.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2022
+December 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 December 2022 Patch Tuesday fixed 2 zero-day flaws<a href="https://securityaffairs.co/wordpress/139640/security/december-2022-patch-tuesday.html"> Full Text</a>
@@ -74,7 +74,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2022
+December 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed the tenth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/139635/hacking/apple-tenth-actively-exploited-zero-day.html"> Full Text</a>
@@ -94,7 +94,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2022
+December 14, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3.5m IP cameras exposed, with US in the lead<a href="https://securityaffairs.co/wordpress/139625/hacking/3-5m-ip-cameras-exposed-with-us-in-the-lead.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2022
+December 14, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed critical VM Escape bug demonstrated at Geekpwn hacking contest<a href="https://securityaffairs.co/wordpress/139616/security/vmware-vm-escape-flaw-geekpwn.html"> Full Text</a>
