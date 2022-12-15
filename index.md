@@ -34,6 +34,110 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTrim botnet actively brute forces WordPress and OpenCart sites<a href="https://securityaffairs.co/wordpress/139647/malware/gotrim-botnet-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Go-based botnet, dubbed GoTrim, attempting to brute force WordPress websites.
+
+
+
+Fortinet FortiGuard Labs researchers spotted a new Go-based botnet, dubbed GoTrim, that has been spotted scanning and brute-forcing WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+December 2022 Patch Tuesday fixed 2 zero-day flaws<a href="https://securityaffairs.co/wordpress/139640/security/december-2022-patch-tuesday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released December 2022 Patch Tuesday security updates that fix 52 vulnerabilities across its products.
+
+
+
+Microsoft December 2022 Patch Tuesday security updates addressed 52 vulnerabilities in Microsoft Windows and Windows Components; Azure;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed the tenth actively exploited zero-day this year<a href="https://securityaffairs.co/wordpress/139635/hacking/apple-tenth-actively-exploited-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple rolled out security updates to iOS, iPadOS, macOS, tvOS, and Safari to fix a new actively exploited zero-day (CVE-2022-42856).
+
+
+
+Apple released security updates to address a new zero-day vulnerability, tracked as CVE-2022-42856, that is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3.5m IP cameras exposed, with US in the lead<a href="https://securityaffairs.co/wordpress/139625/hacking/3-5m-ip-cameras-exposed-with-us-in-the-lead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of internet-facing cameras in the world is growing exponentially. Some of the most popular brands don't enforce a strong password policy, meaning anyone can peer into their owners' lives.
+
+
+
+Original post at https://cybernews.com/security/millions-ip-cameras-exposed/
+
+
+
+When...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed critical VM Escape bug demonstrated at Geekpwn hacking contest<a href="https://securityaffairs.co/wordpress/139616/security/vmware-vm-escape-flaw-geekpwn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed three flaws in multiple products, including a virtual machine escape issue exploited at the GeekPwn 2022 hacking competition.
+
+
+
+VMware addressed three vulnerabilities in multiple products, including a virtual machine escape flaw, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 13, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
