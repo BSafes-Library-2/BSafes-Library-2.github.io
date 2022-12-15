@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized domains linked to 48 DDoS-for-hire service platforms<a href="https://www.bleepingcomputer.com/news/security/fbi-seized-domains-linked-to-48-ddos-for-hire-service-platforms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice has seized 48 Internet domains and charged six suspects for their involvement in running 'Booter' or 'Stresser' platforms that allow anyone to easily conduct distributed denial of service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passkeys Now Fully Supported in Google Chrome<a href="https://www.securityweek.com/passkeys-now-fully-supported-google-chrome?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passkeys offer the same experience that password autofill does, but provide the advantage of passwordless authentication, eliminating the risks associated with phishing or the use of poor passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use SVG files to smuggle QBot malware onto Windows systems<a href="https://www.bleepingcomputer.com/news/security/attackers-use-svg-files-to-smuggle-qbot-malware-onto-windows-systems/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QBot malware phishing campaigns have adopted a new distribution method using SVG files to perform HTML smuggling that locally creates a malicious installer for Windows.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP's December 2022 Security Updates Patch Critical Vulnerabilities<a href="https://www.securityweek.com/saps-december-2022-security-updates-patch-critical-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a CVSS score of 10, the most severe of SAP’s security notes updates a note released on April 2018 Patch Day, which deals with software updates for the Chrome-based browser in SAP Business Client.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft patches Windows zero-day used to drop ransomware<a href="https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-used-to-drop-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has fixed a security vulnerability used by threat actors to circumvent the Windows SmartScreen security feature and deliver Magniber ransomware and Qbot malware payloads. 
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nosey Parker: Find sensitive information in textual data and Git history<a href="https://www.helpnetsecurity.com/2022/12/14/nosey-parker/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nosey Parker addresses the pervasive problem of secret exposure in source code and configuration files where sensitive information such as passwords, API keys, access tokens, asymmetric private keys, client secrets, and credentials exist.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes critical ESXi and vRealize security flaws<a href="https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-esxi-and-vrealize-security-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security updates to address a critical-severity vulnerability impacting ESXi, Workstation, Fusion, and Cloud Foundation, and a critical-severity command injection flaw affecting vRealize Network Insight.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California hospital breach exposed patients’ Social Security numbers, medical info<a href="https://therecord.media/california-hospital-breach-exposed-patients-social-security-numbers-medical-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hospital in California’s Riverside County has reported a data breach to its patients including sensitive information like Social Security numbers and the details of medical care following an incident in the fall.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA shares tips on mitigating 5G network slicing threats<a href="https://www.bleepingcomputer.com/news/security/nsa-shares-tips-on-mitigating-5g-network-slicing-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Agency (NSA), the Cybersecurity and Infrastructure Security Agency (CISA), and the Office of the Director of National Intelligence (ODNI), have published a joint report that highlights the most likely risks and potential threats in 5G network slicing implementations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Crisis Situation’ Declared as Two Swedish Municipalities Hit by Cyberattack<a href="https://therecord.media/crisis-situation-declared-as-two-swedish-municipalities-hit-by-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An intrusion has been confirmed into the joint IT system used by the two municipalities of Borgholm and Mörbylånga, which together make up the island of Öland with a total population of just over 25,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Dark Web is Getting Darker - Ransomware Thrives on Illegal Markets<a href="https://www.bleepingcomputer.com/news/security/the-dark-web-is-getting-darker-ransomware-thrives-on-illegal-markets/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web is getting darker as cybercrime gangs increasingly shop their malware, phishing, and ransomware tools on illegal cybercrime markets.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mapping Threat Intelligence to the NIST Compliance Framework<a href="https://www.securityweek.com/mapping-threat-intelligence-nist-compliance-framework?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the NIST Framework, organizations assess their current security posture, agree to organizational goals, understand their gaps, and develop plans to optimize their security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-source repositories flooded by 144,000 phishing packages<a href="https://www.bleepingcomputer.com/news/security/open-source-repositories-flooded-by-144-000-phishing-packages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown threat actors have uploaded a total of 144,294 phishing-related packages on the open-source package repositories NuGet, PyPI, and NPM.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What CISOs consider when building up security resilience<a href="https://www.helpnetsecurity.com/2022/12/14/building-up-security-resilience/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resilience has emerged as a top priority as 62 percent of organizations surveyed said they had experienced a security event that impacted business in the past two years, according to Cisco.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TPG Reveals Emails of 15,000 iiNet and Westnet Customers Exposed in Email Hack<a href="https://www.theguardian.com/business/2022/dec/14/tpg-reveals-emails-of-15000-iinet-and-westnet-customers-exposed-in-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TPG has not said what might have been obtained in the attack, but an investigation is ongoing and affected customers will be advised. It told the ASX the breach didn't affect mobile or broadband services, and access has been cut off for the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 14, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
