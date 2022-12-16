@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware Puts Novel Spin on Encryption Tactics<a href="https://www.darkreading.com/attacks-breaches/royal-ransomware-novel-spin-encryption-tactics?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging cybercriminal group linked with Conti has expanded its partial encryption strategy and demonstrates other evasive maneuvers, as it takes aim at healthcare and other sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

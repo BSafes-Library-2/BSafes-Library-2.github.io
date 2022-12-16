@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Gcore uses regular expressions to block DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/how-gcore-uses-regular-expressions-to-block-ddos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In DDoS Protection, Gcore uses the bundle of XDP and regular expressions (regex). This article will explain why Gcore started using this solution (regex in XDP) and how they bound them via a third-party engine and API development.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

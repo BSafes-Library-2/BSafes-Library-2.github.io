@@ -18,6 +18,18 @@ Today, the National Security Agency (NSA), CISA, and the Office of the Director 
 </details>
 </div>
 
+ding-bottom:0px">
+December 12, 2022 - HC3
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Ransomware <a href="https://www.hhs.gov/sites/default/files/lockbit-3-analyst-note.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit 3.0 is the newest version of the LockBit ransomware that was first discovered in September 2019.  The ransomware family has a history of using the Ransomware-as-a-service (RaaS) model and typically targets organizations that could pay higher ransoms. Historically, this ransomware employs a double extortion technique where sensitive data is encrypted and exfiltrated. The actor requests payment to decrypt data and threatens to leak the sensitive data if the payment is not made. With the new release, it appears that the ransomware is using a triple extortion model where the affected victim may also be asked to purchase their sensitive information. Since its appearance, HC3 is aware of LockBit 3.0 attacks against the Healthcare and Public Healthcare (HPH) sector. Due to the historical nature of ransomware victimizing the healthcare community, LockBit 3.0 should be considered a threat to the HPH sector.
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 7, 2022 - HC3 
 {: .fs-4 .fw-700 .lh-0  }

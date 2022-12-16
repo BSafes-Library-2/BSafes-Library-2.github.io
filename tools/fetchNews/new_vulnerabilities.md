@@ -8,6 +8,66 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft revised CVE-2022-37958 severity due to its broader scope<a href="https://securityaffairs.co/wordpress/139709/hacking/microsoft-revised-cve-2022-37958-rate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revised the severity rate for the CVE-2022-37958 flaw which was addressed with Patch Tuesday security updates for September 2022.
+
+
+
+Microsoft revised the severity rate for the CVE-2022-37958 vulnerability, the IT giant now rated it as "critical"...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Fixes Firefox Vulnerabilities That Could Have Lead to System Takeover<a href="https://heimdalsecurity.com/blog/mozilla-fixes-firefox-vulnerabilities-that-could-have-lead-to-system-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple high-impact vulnerabilities affecting Thunderbird, Firefox ESR, and Firefox were fixed by updates from Mozilla. The bugs might have given arbitrary code execution if they were successfully exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LEGO BrickLink bugs let hackers hijack accounts, breach servers<a href="https://www.bleepingcomputer.com/news/security/lego-bricklink-bugs-let-hackers-hijack-accounts-breach-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts have discovered two API security vulnerabilities in BrickLink.com, LEGO Group's official second-hand and vintage marketplace for LEGO bricks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Fixes 80 OpenSSL, OpenSSH Flaws in Switches<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-fixes-80-openssl-openssh-flaws-switches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens released 20 new advisories addressing roughly 140 security holes, including more than 80 OpenSSL and OpenSSH vulnerabilities affecting its Scalance X-200RNA switches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

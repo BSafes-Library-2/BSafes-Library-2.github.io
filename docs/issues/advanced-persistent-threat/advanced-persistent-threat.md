@@ -8,6 +8,24 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese MirrorFace APT group targets Japanese political entities<a href="https://securityaffairs.co/wordpress/139698/apt/mirrorface-apt-group-targets-japan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking APT group, tracked as MirrorFace,&nbsp;is behind a spear-phishing campaign targeting Japanese political entities.
+
+
+
+ESET researchers recently discovered a spear-phishing campaign targeting Japanese political entities and attributed it to the Chinese-speaking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

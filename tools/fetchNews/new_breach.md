@@ -8,6 +8,66 @@ nav_order: 900029
 
 ## Breach
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak personal info allegedly stolen from 5.7M Gemini users<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-personal-info-allegedly-stolen-from-57m-gemini-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gemini crypto exchange announced this week that customers were targeted in phishing campaigns after a threat actor collected their personal information from a third-party vendor.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Database of the FBI’s InfraGard US Critical Infrastructure Intelligence portal available for sale<a href="https://securityaffairs.co/wordpress/139682/data-breach/fbi-infragard-us-critical-infrastructure-intelligence-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The portal of the FBI's InfraGard US Critical Infrastructure Intelligence was hacked, and data is available for sale on a cybercrime forum. 
+
+
+
+InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian govt networks breached via trojanized Windows 10 installers<a href="https://www.bleepingcomputer.com/news/security/ukrainian-govt-networks-breached-via-trojanized-windows-10-installers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian government entities were hacked in targeted attacks after their networks were first compromised via trojanized ISO files posing as legitimate Windows 10 installers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Blade confirms breach after hacker posts stolen user data<a href="https://www.bleepingcomputer.com/news/security/social-blade-confirms-breach-after-hacker-posts-stolen-user-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media analytics platform Social Blade has confirmed they suffered a data breach after its database was breached and put up for sale on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

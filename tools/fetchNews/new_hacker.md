@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber warfare group caused AIIMS hack: sources - ET CISO<a href="https://ciso.economictimes.indiatimes.com/news/cyber-warfare-group-caused-aiims-hack-sources/96244657?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber warfare group backed by a “neighbouring” nation’s government was involved in the cyberattack on servers of the All India Institute of Medical Sciences (AIIMS), two sources aware of a government probe into the breach said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers target Japanese politicians with new MirrorStealer malware<a href="https://www.bleepingcomputer.com/news/security/hackers-target-japanese-politicians-with-new-mirrorstealer-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group tracked as MirrorFace has been targeting Japanese politicians for weeks before the House of Councilors election in July 2022, using a previously undocumented credentials stealer named 'MirrorStealer.'
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

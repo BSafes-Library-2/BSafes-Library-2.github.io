@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub to require all users to enable 2FA by the end of 2023<a href="https://www.bleepingcomputer.com/news/security/github-to-require-all-users-to-enable-2fa-by-the-end-of-2023/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub will require all users who contribute code on the platform to enable two-factor authentication (2FA) as an additional protection measure on their accounts by the end of 2023.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

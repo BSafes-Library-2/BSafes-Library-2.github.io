@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Laying Bare Charming Kitten's Massive Campaign<a href="https://cyware.com/news/laying-bare-charming-kittens-massive-campaign-db78b57b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New&nbsp;phishing techniques by APT42, or Charming Kitten, have come to light that includes compromised accounts, malware, and confrontational lures. The researchers observed at least 60 campaigns this year, which relied on benign conversations to initiate contact with targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation LiberalFace Targeted Japanese Political Entities Before Elections<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers discovered a spearphishing campaign targeting Japanese political entities a few weeks before the House of Councillors elections, and in the process uncovered a previously undescribed MirrorFace credential stealer
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing attack uses Facebook posts to evade email security<a href="https://www.bleepingcomputer.com/news/security/phishing-attack-uses-facebook-posts-to-evade-email-security/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign uses Facebook posts as part of its attack chain to trick users into giving away their account credentials and personally identifiable information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

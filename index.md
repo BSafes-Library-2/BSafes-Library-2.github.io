@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 16, 2022
+December 16, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft revised CVE-2022-37958 severity due to its broader scope<a href="https://securityaffairs.co/wordpress/139709/hacking/microsoft-revised-cve-2022-37958-rate.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FuboTV says World Cup streaming outage caused by a cyberattack<a href="https://www.bleepingcomputer.com/news/security/fubotv-says-world-cup-streaming-outage-caused-by-a-cyberattack/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HHS Issues an Alert on LockBit 3.0 Attacks<a href="https://cyware.com/news/hhs-issues-an-alert-on-lockbit-30-attacks-51b28742"> Full Text</a>
@@ -86,7 +86,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak personal info allegedly stolen from 5.7M Gemini users<a href="https://www.bleepingcomputer.com/news/security/hackers-leak-personal-info-allegedly-stolen-from-57m-gemini-users/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Laying Bare Charming Kitten's Massive Campaign<a href="https://cyware.com/news/laying-bare-charming-kittens-massive-campaign-db78b57b"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese MirrorFace APT group targets Japanese political entities<a href="https://securityaffairs.co/wordpress/139698/apt/mirrorface-apt-group-targets-japan.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub to require all users to enable 2FA by the end of 2023<a href="https://www.bleepingcomputer.com/news/security/github-to-require-all-users-to-enable-2fa-by-the-end-of-2023/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use Microsoft-Signed Malicious Windows Drivers in Post-Exploitation Activity<a href="https://cyware.com/news/hackers-use-microsoft-signed-malicious-windows-drivers-in-post-exploitation-activity-59399df4"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Database of the FBI’s InfraGard US Critical Infrastructure Intelligence portal available for sale<a href="https://securityaffairs.co/wordpress/139682/data-breach/fbi-infragard-us-critical-infrastructure-intelligence-hacked.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub rolls out free secret scanning for all public repositories<a href="https://www.bleepingcomputer.com/news/security/github-rolls-out-free-secret-scanning-for-all-public-repositories/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation LiberalFace Targeted Japanese Political Entities Before Elections<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI seized 48 domains linked to DDoS-for-Hire service platforms<a href="https://securityaffairs.co/wordpress/139670/cyber-crime/fbi-ddos-for-hire-service-platforms.html"> Full Text</a>
@@ -242,7 +242,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing attack uses Facebook posts to evade email security<a href="https://www.bleepingcomputer.com/news/security/phishing-attack-uses-facebook-posts-to-evade-email-security/"> Full Text</a>
@@ -258,7 +258,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTrim Brute Forcer Botnet Scans Internet for WordPress Sites<a href="https://cyware.com/news/gotrim-brute-forcer-botnet-scans-internet-for-wordpress-sites-56b6cd3a"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use HTML smuggling to spread QBot malware via SVG files<a href="https://securityaffairs.co/wordpress/139658/cyber-crime/qbot-html-smuggling-svg.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian govt networks breached via trojanized Windows 10 installers<a href="https://www.bleepingcomputer.com/news/security/ukrainian-govt-networks-breached-via-trojanized-windows-10-installers/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Fixes Firefox Vulnerabilities That Could Have Lead to System Takeover<a href="https://heimdalsecurity.com/blog/mozilla-fixes-firefox-vulnerabilities-that-could-have-lead-to-system-takeover/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social Blade confirms breach after hacker posts stolen user data<a href="https://www.bleepingcomputer.com/news/security/social-blade-confirms-breach-after-hacker-posts-stolen-user-data/"> Full Text</a>
@@ -342,7 +342,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Ransomware Puts Novel Spin on Encryption Tactics<a href="https://www.darkreading.com/attacks-breaches/royal-ransomware-novel-spin-encryption-tactics?&web_view=true"> Full Text</a>
@@ -358,7 +358,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Gcore uses regular expressions to block DDoS attacks<a href="https://www.bleepingcomputer.com/news/security/how-gcore-uses-regular-expressions-to-block-ddos-attacks/"> Full Text</a>
@@ -374,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber warfare group caused AIIMS hack: sources - ET CISO<a href="https://ciso.economictimes.indiatimes.com/news/cyber-warfare-group-caused-aiims-hack-sources/96244657?&web_view=true"> Full Text</a>
@@ -390,7 +390,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LEGO BrickLink bugs let hackers hijack accounts, breach servers<a href="https://www.bleepingcomputer.com/news/security/lego-bricklink-bugs-let-hackers-hijack-accounts-breach-servers/"> Full Text</a>
@@ -406,7 +406,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Fixes 80 OpenSSL, OpenSSH Flaws in Switches<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-fixes-80-openssl-openssh-flaws-switches?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers target Japanese politicians with new MirrorStealer malware<a href="https://www.bleepingcomputer.com/news/security/hackers-target-japanese-politicians-with-new-mirrorstealer-malware/"> Full Text</a>
@@ -438,7 +438,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2022
+December 15, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware-hit Rackspace email outage enters 12th day<a href="https://www.theregister.com/2022/12/14/rackspace_email_outage/?&web_view=true"> Full Text</a>
