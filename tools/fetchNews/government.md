@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS Issues an Alert on LockBit 3.0 Attacks<a href="https://cyware.com/news/hhs-issues-an-alert-on-lockbit-30-attacks-51b28742"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS warned the healthcare and public health sector organizations against the rising number of LockBit 3.0 ransomware attacks, along with other ransomware and triple-extortion. The frequent attack vectors associated with ransomware are phishing, Remote Desktop Protocol (RDP), credentials, and kn ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub rolls out free secret scanning for all public repositories<a href="https://www.bleepingcomputer.com/news/security/github-rolls-out-free-secret-scanning-for-all-public-repositories/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub is rolling out support for the free scanning of exposed secrets (such as&nbsp;credentials and auth tokens) to all public repositories on its code hosting platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

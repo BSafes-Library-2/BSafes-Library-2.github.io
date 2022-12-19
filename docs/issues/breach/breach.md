@@ -8,6 +8,56 @@ nav_order: 900029
 
 ## Breach
 ---
+December 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Restaurant CRM platform ‘SevenRooms’ confirms breach after data for sale<a href="https://www.bleepingcomputer.com/news/security/restaurant-crm-platform-sevenrooms-confirms-breach-after-data-for-sale/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SevenRooms, a restaurant CRM software and guest manRestaurant&nbsp;customer management platform SevenRooms has confirmed it suffered a data breach after a threat actor began selling stolen data on a hacking forum.agement service provider, has admitted it has suffered a data breach, result of a security incident on&nbsp;one of its vendors.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Blade discloses security breach<a href="https://securityaffairs.co/wordpress/139747/data-breach/social-blade-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media analytics service Social Blade disclosed a security breach after a database containing allegedly stolen data from the company was offered for sale.
+
+
+
+Social Blade&nbsp;is an American&nbsp;social media analytics&nbsp;platform, the company disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 5.7M Gemini users available for sale on hacking forums<a href="https://securityaffairs.co/wordpress/139742/data-breach/5-7m-gemini-users-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gemini crypto exchange warns users of an ongoing phishing campaign after a third-party vendor suffered a security breach.
+
+
+
+Gemini crypto exchange is warning of phishing campaigns targeting its users after a threat actor obtained their data by breaching...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

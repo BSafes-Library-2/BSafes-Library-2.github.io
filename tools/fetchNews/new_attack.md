@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+December 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fire and rescue service in Victoria, Australia, confirms cyber attack<a href="https://securityaffairs.co/wordpress/139764/cyber-crime/fire-service-victoria-australia-australia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fire and rescue service in the state of Victoria, Australia, has shut down its network and turned to operating manually after a cyberattack.
+
+
+
+The fire and rescue service in the state of Victoria (FRV), Australia, has shut down its network after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colombian energy supplier EPM hit by BlackCat ransomware attack<a href="https://www.bleepingcomputer.com/news/security/colombian-energy-supplier-epm-hit-by-blackcat-ransomware-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Colombian energy company Empresas Públicas de Medellín (EPM) suffered a BlackCat/ALPHV ransomware attack on Monday, disrupting the company's operations and taking down online services.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

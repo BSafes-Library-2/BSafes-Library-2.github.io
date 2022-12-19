@@ -8,6 +8,52 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile hacker gets 10 years for $25 million phone unlock scheme<a href="https://www.bleepingcomputer.com/news/security/t-mobile-hacker-gets-10-years-for-25-million-phone-unlock-scheme/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Argishti Khudaverdyan, the former owner of a T-Mobile retail store, was sentenced to 10 years in prison for a $25 million scheme where he unlocked and unblocked cellphones by hacking into T-Mobile's internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Twitter employee sentenced to 3.5 years in jail for spying on behalf of Saudi Arabia<a href="https://securityaffairs.co/wordpress/139755/intelligence/ex-twitter-employee-sentenced-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ex Twitter employee has been sentenced to three-and-a-half years in prison for spying on individuals on behalf of Saudi Arabia.
+
+
+
+On august 2022, the former Twitter employee,&nbsp;Ahmad Abouammo&nbsp;(44), was found guilty of gathering private information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Woman gets 66 months in prison for role in $3.3 million ID fraud op<a href="https://www.bleepingcomputer.com/news/security/woman-gets-66-months-in-prison-for-role-in-33-million-id-fraud-op/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Federal Police (AFP) have announced today that a 24-year-old woman from Melbourne, arrested in 2019 for her role in large-scale, cyber-enabled identity theft crimes, was sentenced to five years and six months in prison.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

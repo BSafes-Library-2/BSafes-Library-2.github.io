@@ -7,6 +7,43 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2022 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KNOWN EXPLOITED VULNERABILITIES CATALOG
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2022 - FBI, FDA OCI, USDA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminal Actors Use Business Email Compromise to Steal Large Shipments of Food Products and Ingredients <a href="https://publications.bsafes.com/docs/fbi/joint-cyber-security-advisory-2022-12-15-criminal-actors-use-business-email-compromise-to-steal-large-shipments-of-products-and-ingredients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the US Department of Agriculture (USDA) are releasing this joint Cybersecurity Advisory (CSA) to advise the Food & Agriculture sector about recently observed incidents of criminal actors using business email compromise (BEC) to steal shipments of food products and ingredients valued at hundreds of thousands of dollars.
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2022 - NSA, CISA, ODNI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA, and ODNI Release Guidance on Potential Threats to 5G Network Slicing <a href="https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/nsa-cisa-and-odni-release-guidance-potential-threats-5g-network"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the National Security Agency (NSA), CISA, and the Office of the Director of National Intelligence (ODNI), published Potential Threats to 5G Network Slicing. This guidance—created by the Enduring Security Framework (ESF), a public-private cross-sector working group led by the NSA and CISA—presents both the benefits and risks associated with 5G network slicing. It also provides mitigation strategies that address potential threats to 5G network slicing. The guidance builds upon ESF’s Potential Threat Vectors to 5G Infrastructure, published in 2021.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 13, 2022 - NSA, CISA, ODNI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

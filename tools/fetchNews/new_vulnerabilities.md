@@ -8,6 +8,38 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samba addressed multiple high-severity vulnerabilities<a href="https://securityaffairs.co/wordpress/139760/hacking/samba-multiple-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samba released updates to address multiple vulnerabilities that can be exploited to take control of impacted systems.
+
+
+
+Samba released updates to address multiple vulnerabilities, tracked as&nbsp;CVE-2022-38023, CVE-2022-37966, CVE-2022-37967, and CVE-2022-45141,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical IP spoofing bug patched in Cacti<a href="https://portswigger.net/daily-swig/critical-ip-spoofing-bug-patched-in-cacti?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability resides in a PHP file in Cacti that allows remote agents to run different actions on the server. The only safeguard this file offered was to check whether requests were coming from an authorized IP address.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

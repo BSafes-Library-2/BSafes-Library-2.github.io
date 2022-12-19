@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns that BEC attacks now also target food shipments<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-that-bec-attacks-now-also-target-food-shipments/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the food sector are now also targeted in business email compromise (BEC) attacks, according to a joint advisory issued by the FBI, the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the U.S. Department of Agriculture (USDA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Veeam Backup and Replication bugs to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.co/wordpress/139731/hacking/veeam-backup-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA&nbsp;added&nbsp;two vulnerabilities impacting Veeam Backup &amp; Replication software to its Known Exploited Vulnerabilities Catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added&nbsp;two vulnerabilities impacting Veeam Backup...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta takes down surveillance-for-hire firms, calls for government action against the industry<a href="https://www.cyberscoop.com/meta-surveillance-for-hire-government-action/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta revealed its latest actions in a report released Thursday that was accompanied by a policy paper offering 13 recommendations for confronting the surveillance-for-hire industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

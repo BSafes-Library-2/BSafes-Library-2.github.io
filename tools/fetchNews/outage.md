@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FuboTV says World Cup streaming outage caused by a cyberattack<a href="https://www.bleepingcomputer.com/news/security/fubotv-says-world-cup-streaming-outage-caused-by-a-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FuboTV has confirmed that a streaming outage preventing subscribers from watching the World Cup Qatar 2022 semifinal match between France and Morocco was caused by a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-hit Rackspace email outage enters 12th day<a href="https://www.theregister.com/2022/12/14/rackspace_email_outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's no end – or restored data – in sight for some Rackspace customers now on the 12th day of the company's ransomware attack-induced hosted Exchange email service outage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTrim Brute Forcer Botnet Scans Internet for WordPress Sites<a href="https://cyware.com/news/gotrim-brute-forcer-botnet-scans-internet-for-wordpress-sites-56b6cd3a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs identified an ongoing, previously unseen CMS scanner and brute forcer, dubbed GoTrim, installed in infected WordPress sites on Linux systems.&nbsp;The botnet detects and evades anti-bot techniques used by web hosting providers and CDNs, such as Cloudflare and SiteGround.&nbsp;WordPr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

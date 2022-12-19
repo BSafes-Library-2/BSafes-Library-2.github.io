@@ -8,6 +8,24 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 15, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized 48 domains linked to DDoS-for-Hire service platforms<a href="https://securityaffairs.co/wordpress/139670/cyber-crime/fbi-ddos-for-hire-service-platforms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) seized forty-eight domains that offered DDoS-for-Hire Service Platforms to crooks.
+
+
+
+The U.S. Department of Justice (DoJ) this week announced the seizure of 48 domains associated with the DDoS-for-Hire Service platforms...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

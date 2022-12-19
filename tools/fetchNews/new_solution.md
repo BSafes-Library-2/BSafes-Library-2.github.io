@@ -8,6 +8,38 @@ nav_order: 900195
 
 ## Solution
 ---
+December 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announced end-to-end encryption for Gmail web<a href="https://securityaffairs.co/wordpress/139778/security/end-to-end-encryption-gmail-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduces end-to-end encryption for Gmail web to its Workspace and education customers to protect emails sent using the web client.
+
+
+
+Google announced end-to-end encryption for Gmail (E2EE), with Gmail client-side encryption beta, users can send...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 17, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google introduces end-to-end encryption for Gmail on the web<a href="https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced on Friday that it's adding end-to-end encryption to Gmail on the web, allowing enrolled Google Workspace users to&nbsp;send and receive encrypted emails within their domain and outside their domain.&nbsp;
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
