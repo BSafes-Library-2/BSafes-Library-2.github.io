@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2022
+December 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI package posed as SentinelOne SDK to serve info-stealing malware<a href="https://securityaffairs.co/wordpress/139831/cyber-crime/malicious-pypi-package-sentinelone-sdk.html"> Full Text</a>
@@ -54,7 +54,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play ransomware claims attack on German hotel chain H-Hotels<a href="https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-german-hotel-chain-h-hotels/"> Full Text</a>
@@ -70,7 +70,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Reveton Ransomware-as-a-Service Changed Cybersecurity<a href="https://securityintelligence.com/articles/how-reveton-raas-changed-cybersecurity/?&web_view=true"> Full Text</a>
@@ -86,7 +86,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft finds macOS bug that lets malware bypass security checks<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-malware-bypass-security-checks/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Warns of Many Old Vulnerabilities Being Exploited in Attacks<a href="https://www.securityweek.com/cisco-warns-many-old-vulnerabilities-being-exploited-attacks?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Old vulnerabilities in Cisco products actively exploited in the wild<a href="https://securityaffairs.co/wordpress/139821/security/cisco-old-vulnerabilities-exploitation.html"> Full Text</a>
@@ -142,7 +142,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DraftKings warns data of 67K people was exposed in account hacks<a href="https://www.bleepingcomputer.com/news/security/draftkings-warns-data-of-67k-people-was-exposed-in-account-hacks/"> Full Text</a>
@@ -158,7 +158,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Puts 3 Dozen More Chinese Companies on Trade Blacklist<a href="https://www.securityweek.com/us-puts-3-dozen-more-chinese-companies-trade-blacklist?&web_view=true"> Full Text</a>
@@ -174,7 +174,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a variant of the Agenda Ransomware written in Rust<a href="https://securityaffairs.co/wordpress/139811/cyber-crime/agenda-ransomware-rust.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine's DELTA military system users targeted by info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/ukraines-delta-military-system-users-targeted-by-info-stealing-malware/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Highly Sophisticated DarkTortilla Malware Spreads via Phishing Sites Disguising as Cisco and Grammarly<a href="https://gbhackers.com/highly-sophisticated-darktortilla-malware/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Gov warns of BEC attacks to hijack shipments of food products<a href="https://securityaffairs.co/wordpress/139801/cyber-crime/bec-attacks-hijack-shipments-food.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious ‘SentinelOne’ PyPI package steals data from developers<a href="https://www.bleepingcomputer.com/news/security/malicious-sentinelone-pypi-package-steals-data-from-developers/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qakbot Attackers Manipulates SVG Files in HTML Smuggling Attack<a href="https://cyware.com/news/qakbot-attackers-manipulates-svg-files-in-html-smuggling-attack-587704da"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Glupteba botnet is back after Google disrupted it in December 2021<a href="https://securityaffairs.co/wordpress/139791/cyber-crime/glupteba-botnet-is-back.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UID smuggling: A new technique for tracking users online<a href="https://www.helpnetsecurity.com/2022/12/19/uid-smuggling-tracking-users-online/?&web_view=true"> Full Text</a>
@@ -314,7 +314,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Glupteba botnet is back after Google disrupted it in December 2021<a href="https://securityaffairs.co/wordpress/139791/cyber-crime/glupteba-botnet-is-back.html?&web_view=true"> Full Text</a>
@@ -330,7 +330,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 19, 2022
+December 19, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 85% of attacks now use encrypted channels<a href="https://www.helpnetsecurity.com/2022/12/19/attacks-encrypted-channels/?&web_view=true"> Full Text</a>

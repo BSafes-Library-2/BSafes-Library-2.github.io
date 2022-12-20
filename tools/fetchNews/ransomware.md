@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agenda Ransomware Uses Rust to Target More Vital Industries<a href="https://www.trendmicro.com/en_us/research/22/l/agenda-ransomware-uses-rust-to-target-more-vital-industries.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Rust-based variant of Agenda ransomware has also been seen using intermittent encryption, one of the emerging tactics that threat actors use today for faster encryption and detection evasion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 16th 2022 - Losing Trust<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-16th-2022-losing-trust/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's Week in Ransomware brings you the latest news and stories about the cyberattacks, new tactics, and reports related to ransomware operations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

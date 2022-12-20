@@ -8,6 +8,42 @@ nav_order: 900072
 
 ## General
 ---
+December 18, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 398 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/139787/breaking-news/security-affairs-newsletter-round-398-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+
+
+
+Samba...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Want to Know What’s in That Online Mystery Box? NOTHING AT ALL<a href="https://www.fortinet.com/blog/threat-research/want-to-know-whats-in-that-online-mystery-box-nothing-at-all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shoppers have been flocking to sites selling return pallets looking for great deals on holiday purchases. And as you might expect, scammers and bad actors have also seized on this trend.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

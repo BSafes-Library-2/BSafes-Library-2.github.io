@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play ransomware claims attack on German hotel chain H-Hotels<a href="https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-german-hotel-chain-h-hotels/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware gang has claimed responsibility for a cyber attack on H-Hotels (h-hotels.com) that has resulted in communication outages for the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine's DELTA military system users targeted by info-stealing malware<a href="https://www.bleepingcomputer.com/news/security/ukraines-delta-military-system-users-targeted-by-info-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A compromised Ukrainian Ministry of Defense email account was found sending phishing emails and instant messages to users of the 'DELTA' situational awareness program to infect systems with information-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot Attackers Manipulates SVG Files in HTML Smuggling Attack<a href="https://cyware.com/news/qakbot-attackers-manipulates-svg-files-in-html-smuggling-attack-587704da"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns involving QBot malware as payload have started using a new technique. Hackers are using SVG files to perform HTML smuggling that locally creates a malicious installer for Windows systems. This particular activity allows them to stay under the radar and bypass security tools that  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

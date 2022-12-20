@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highly Sophisticated DarkTortilla Malware Spreads via Phishing Sites Disguising as Cisco and Grammarly<a href="https://gbhackers.com/highly-sophisticated-darktortilla-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers described DarkTortilla’s spreads to users through spam emails with malicious attachments. However, CRIL discovered that the Threat Actors responsible for DarkTortilla had built phishing websites to spread the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

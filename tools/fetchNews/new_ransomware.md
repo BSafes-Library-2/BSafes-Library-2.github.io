@@ -8,6 +8,38 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Reveton Ransomware-as-a-Service Changed Cybersecurity<a href="https://securityintelligence.com/articles/how-reveton-raas-changed-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2012, Reveton ransomware emerged. It’s considered to be the first Ransomware-as-a-Service (RaaS) operation ever. Since then, RaaS has enabled gangs with basic technical skills to launch attacks indiscriminately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a variant of the Agenda Ransomware written in Rust<a href="https://securityaffairs.co/wordpress/139811/cyber-crime/agenda-ransomware-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new variant of the Agenda ransomware which is written in the cross-platform programming language Rust. 
+
+
+
+Trend Micro researchers have spotted a new variant of the Agenda ransomware (aka Qilin) that is written in Rust Language....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

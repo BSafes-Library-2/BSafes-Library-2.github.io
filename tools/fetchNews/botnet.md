@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 16, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MCCrash botnet targets private Minecraft servers, Microsoft warns<a href="https://securityaffairs.co/wordpress/139718/malware/mccrash-botnet-targets-minecraft-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced that a botnet dubbed MCCrash is launching distributed denial-of-service (DDoS) attacks against private Minecraft servers.
+
+
+
+Microsoft spotted a cross-platform botnet, tracked as MCCrash, which has been designed to launch distributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DraftKings warns data of 67K people was exposed in account hacks<a href="https://www.bleepingcomputer.com/news/security/draftkings-warns-data-of-67k-people-was-exposed-in-account-hacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports betting company DraftKings revealed last week that more than&nbsp;67,000&nbsp;customers had their personal information exposed following a&nbsp;credential attack in November.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
