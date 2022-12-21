@@ -34,6 +34,306 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang uses new Microsoft Exchange exploit to breach servers<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-new-microsoft-exchange-exploit-to-breach-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware threat actors are using a new exploit chain that bypasses ProxyNotShell URL rewrite mitigations to gain remote code execution (RCE) on vulnerable servers through Outlook Web Access (OWA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Identified RisePro Malware is a Spin-off of Vidar Stealer<a href="https://cyware.com/news/newly-identified-risepro-malware-is-a-spin-off-of-vidar-stealer-444baee5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RisePro stealer malware has been found targeting sensitive information on infected systems and harvesting data in the form of logs. It may have been dropped or downloaded by the pay-per-install malware downloader service PrivateLoader, finds Flashpoint. The malware first appeared on a Russian forum ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0142 APT targets Ukraine’s Delta military intelligence program<a href="https://securityaffairs.co/wordpress/139859/intelligence/ukraine-delta-military-intelligence-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s CERT-UA revealed the national Delta military intelligence program has been targeted with a malware-based attack.
+
+
+
+On December 17, 2022, the Center for Innovations and Development of Defense Technologies of the Ministry of Defense of Ukraine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal cheat sheet makes it easy to search for specific results<a href="https://www.bleepingcomputer.com/news/security/virustotal-cheat-sheet-makes-it-easy-to-search-for-specific-results/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal has published a cheat sheet to help researchers create queries leading to more specific results from the malware intelligence platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hackers targeted petroleum refining company in NATO state<a href="https://therecord.media/russian-hackers-targeted-petroleum-refining-company-in-nato-state/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group associated with Russia’s Federal Security Service (FSB) unsuccessfully attempted to compromise a large petroleum refining company within a NATO member state at the end of August, according to a new report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT targeted a petroleum refining company in a NATO nation in August<a href="https://securityaffairs.co/wordpress/139848/apt/gamaredon-petroleum-refining-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Gamaredon APT group targeted a large petroleum refining company in a NATO state this year amid the invasion of Ukraine.
+
+
+
+The Russia-linked Gamaredon APT group (aka Shuckworm, Actinium, Armageddon, Primitive Bear, UAC-0010, and Trident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will turn off Exchange Online basic auth in January<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-turn-off-exchange-online-basic-auth-in-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned today that it will permanently turn off Exchange Online basic authentication starting early January 2023 to improve security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infamous hacker steals 14 BAYCs worth over $1 million<a href="https://www.cryptopolitan.com/infamous-hacker-steals-14-baycs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to @serpent, the hacker contacted the victim and asked to license IP rights for BAYC #2060. They claimed to be a casting director for Forte Pictures, an L. A based Emmy Award-winning company. The alias the scammer used was fake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares details for a Gatekeeper Bypass bug in Apple macOS<a href="https://securityaffairs.co/wordpress/139841/hacking/apple-gatekeeper-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft disclosed technical details of a vulnerability in Apple macOS that could be exploited by an attacker to bypass Gatekeeper.
+
+
+
+Microsoft has disclosed details of a now-fixed security vulnerability dubbed Achilles (CVE-2022-42821, CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ad fraud campaign used adult content to make millions<a href="https://www.bleepingcomputer.com/news/security/google-ad-fraud-campaign-used-adult-content-to-make-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive advertising fraud campaign using Google Ads and 'popunders' on adult sites is estimated to have generated millions of ad impressions on stolen articles, making the fraudsters an estimated $275k per month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connected homes are expanding, so is attack volume<a href="https://www.helpnetsecurity.com/2022/12/20/connected-homes-attack-volume/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+78% Americans report unsafe online behaviors that open them up to cyber threats, such as reusing or sharing passwords, skipping software updates and more – a 14% increase from just two years ago, according to Comcast.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers bombard PyPi platform with information-stealing malware<a href="https://www.bleepingcomputer.com/news/security/hackers-bombard-pypi-platform-with-information-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PyPi python package repository is being bombarded by a wave of information-stealing malware hiding inside malicious packages uploaded to the platform to steal software developers' data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack Campaign Spreads Raspberry Robin Malware Across Europe, South America, and Oceania<a href="https://www.trendmicro.com/en_us/research/22/l/raspberry-robin-malware-targets-telecom-governments.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind Raspberry Robin appears to be testing the waters to see how far its deployments can spread. Majority of the group’s victims are either government agencies or telecommunication entities from South America, Europe, and Oceania.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin worm drops fake malware to confuse researchers<a href="https://www.bleepingcomputer.com/news/security/raspberry-robin-worm-drops-fake-malware-to-confuse-researchers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raspberry Robin malware is now trying its hand at some trickery by dropping a fake payload to confuse researchers and evade detection when it detects it's being run within sandboxes and debugging tools.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command conducted offensive operations to protect midterm elections<a href="https://therecord.media/cyber-command-conducted-offensive-operations-to-protect-midterm-elections/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command conducted both defensive and offensive operations to thwart foreign actors from interfering in the 2022 midterms, according to the digital combat unit’s chief.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glupteba Botnet Rises from the Dead<a href="https://cyware.com/news/glupteba-botnet-rises-from-the-dead-c865769e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at Nozomi Networks announced that they spotted an ongoing Glupteba botnet campaign, starting June 2022. Just a year ago, Google had claimed to dismantle the botnet’s infrastructure. Glupteba operators used the Bitcoin blockchain for hiding C&C domains, making it resilient to takedown ef ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Little Rock School District approves $250K payment in ransomware settlement<a href="https://www.cybersecuritydive.com/news/little-rock-school-ransomware-payment/639083/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While trying to retrieve stolen data from its network, the Little Rock School District’s board voted 6-3 on December 5 to approve a $250,000 settlement that would end a recent ransomware incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkTortilla Masquerades Grammarly, Cisco For Phishing Attacks<a href="https://cyware.com/news/darktortilla-masquerades-grammarly-cisco-for-phishing-attacks-36645417"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at Cyble observed two phishing sites imitating Grammarly and Cisco to distribute the DarkTortilla malware. The malware is capable of adding more RAT and stealer payloads, such as AgentTesla, AsyncRAT, NanoCore, and others to an infected system. The complex .NET-based malware has b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 20, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

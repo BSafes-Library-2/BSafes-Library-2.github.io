@@ -8,6 +8,38 @@ nav_order: 900075
 
 ## Government
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Puts 3 Dozen More Chinese Companies on Trade Blacklist<a href="https://www.securityweek.com/us-puts-3-dozen-more-chinese-companies-trade-blacklist?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Commerce is adding 36 Chinese high-tech companies, including makers of aviation equipment, chemicals, and computer chips, to an export controls blacklist, citing concerns over national security, U.S. interests and human rights.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov warns of BEC attacks to hijack shipments of food products<a href="https://securityaffairs.co/wordpress/139801/cyber-crime/bec-attacks-hijack-shipments-food.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government is warning of business email compromise (BEC) attacks aimed at hijacking shipments of food products and ingredients.
+
+
+
+The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

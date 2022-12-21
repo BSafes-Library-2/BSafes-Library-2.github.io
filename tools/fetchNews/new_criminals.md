@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang uses new Microsoft Exchange exploit to breach servers<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-new-microsoft-exchange-exploit-to-breach-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware threat actors are using a new exploit chain that bypasses ProxyNotShell URL rewrite mitigations to gain remote code execution (RCE) on vulnerable servers through Outlook Web Access (OWA).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infamous hacker steals 14 BAYCs worth over $1 million<a href="https://www.cryptopolitan.com/infamous-hacker-steals-14-baycs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to @serpent, the hacker contacted the victim and asked to license IP rights for BAYC #2060. They claimed to be a casting director for Forte Pictures, an L. A based Emmy Award-winning company. The alias the scammer used was fake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ad fraud campaign used adult content to make millions<a href="https://www.bleepingcomputer.com/news/security/google-ad-fraud-campaign-used-adult-content-to-make-millions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive advertising fraud campaign using Google Ads and 'popunders' on adult sites is estimated to have generated millions of ad impressions on stolen articles, making the fraudsters an estimated $275k per month.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

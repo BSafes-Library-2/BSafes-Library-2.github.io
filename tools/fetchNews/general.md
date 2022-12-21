@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+85% of attacks now use encrypted channels<a href="https://www.helpnetsecurity.com/2022/12/19/attacks-encrypted-channels/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware continues to pose the greatest threat to individuals and businesses across nine key industries, with manufacturing, education and healthcare being the most commonly targeted, according to Zscaler.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

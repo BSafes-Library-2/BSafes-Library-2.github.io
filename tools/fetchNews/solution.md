@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UID smuggling: A new technique for tracking users online<a href="https://www.helpnetsecurity.com/2022/12/19/uid-smuggling-tracking-users-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers at UC San Diego have for the first time sought to quantify the frequency of UID smuggling in the wild, by developing a measurement tool called CrumbCruncher.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

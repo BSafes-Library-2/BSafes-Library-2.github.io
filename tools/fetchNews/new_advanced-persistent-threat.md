@@ -8,6 +8,42 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0142 APT targets Ukraine’s Delta military intelligence program<a href="https://securityaffairs.co/wordpress/139859/intelligence/ukraine-delta-military-intelligence-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s CERT-UA revealed the national Delta military intelligence program has been targeted with a malware-based attack.
+
+
+
+On December 17, 2022, the Center for Innovations and Development of Defense Technologies of the Ministry of Defense of Ukraine...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT targeted a petroleum refining company in a NATO nation in August<a href="https://securityaffairs.co/wordpress/139848/apt/gamaredon-petroleum-refining-company.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Gamaredon APT group targeted a large petroleum refining company in a NATO state this year amid the invasion of Ukraine.
+
+
+
+The Russia-linked Gamaredon APT group (aka&nbsp;Shuckworm,&nbsp;Actinium,&nbsp;Armageddon,&nbsp;Primitive Bear, UAC-0010, and Trident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

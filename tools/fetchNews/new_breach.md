@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Little Rock School District approves $250K payment in ransomware settlement<a href="https://www.cybersecuritydive.com/news/little-rock-school-ransomware-payment/639083/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While trying to retrieve stolen data from its network, the Little Rock School District’s board voted 6-3 on December 5 to approve a $250,000 settlement that would end a recent ransomware incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

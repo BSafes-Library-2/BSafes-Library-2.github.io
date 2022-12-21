@@ -8,6 +8,38 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glupteba botnet is back after Google disrupted it in December 2021<a href="https://securityaffairs.co/wordpress/139791/cyber-crime/glupteba-botnet-is-back.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Glupteba botnet is back, researchers reported a surge in infection worldwide after Google disrupted its operation in 2021.
+
+
+
+In December 2021, Google announced it has taken down the infrastructure operated by the&nbsp;Glupteba botnet, it also sued...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glupteba botnet is back after Google disrupted it in December 2021<a href="https://securityaffairs.co/wordpress/139791/cyber-crime/glupteba-botnet-is-back.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The blockchain-enabled botnet has been active since at least 2011, researchers estimated that the Glupteba botnet was composed of more than 1 million Windows PCs around the world as of December 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

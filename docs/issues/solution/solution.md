@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal cheat sheet makes it easy to search for specific results<a href="https://www.bleepingcomputer.com/news/security/virustotal-cheat-sheet-makes-it-easy-to-search-for-specific-results/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VirusTotal has published a cheat sheet to help researchers create queries leading to more specific results from the malware intelligence platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

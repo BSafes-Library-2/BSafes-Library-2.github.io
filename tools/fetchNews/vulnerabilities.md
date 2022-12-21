@@ -8,6 +8,56 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft finds macOS bug that lets malware bypass security checks<a href="https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-malware-bypass-security-checks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has fixed a vulnerability that&nbsp;could be leveraged to deploy malware on vulnerable macOS&nbsp;devices via untrusted&nbsp;applications capable of bypassing&nbsp;Gatekeeper&nbsp;application execution restrictions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Many Old Vulnerabilities Being Exploited in Attacks<a href="https://www.securityweek.com/cisco-warns-many-old-vulnerabilities-being-exploited-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five of the updated advisories resolve critical-severity vulnerabilities that could allow remote attackers to execute arbitrary code (RCE), cause a denial-of-service (DoS) condition, or execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old vulnerabilities in Cisco products actively exploited in the wild<a href="https://securityaffairs.co/wordpress/139821/security/cisco-old-vulnerabilities-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT giant Cisco is warning of threat actors exploiting many old vulnerabilities in attacks in the wild.
+
+
+
+Cisco has updated multiple security advisories to warn of the active exploitation of several old vulnerabilities impacting its products.
+
+
+
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
