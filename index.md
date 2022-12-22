@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Corsair keyboard bug makes it type on its own, no malware involved<a href="https://www.bleepingcomputer.com/news/security/corsair-keyboard-bug-makes-it-type-on-its-own-no-malware-involved/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Info-stealers Used to Target Ukraine's Military Systems<a href="https://cyware.com/news/info-stealers-used-to-target-ukraines-military-systems-8e30d7bc"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play ransomware attacks use a new exploit to bypass ProxyNotShell mitigations on Exchange servers<a href="https://securityaffairs.co/wordpress/139897/cyber-crime/play-ransomware-bypass-proxynotshell-mitigation.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zerobot malware now spreads by exploiting Apache vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/zerobot-malware-now-spreads-by-exploiting-apache-vulnerabilities/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Found in Passwordstate Enterprise Password Manager<a href="https://www.securityweek.com/critical-vulnerabilities-found-passwordstate-enterprise-password-manager?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta revealed that its private GitHub repositories were hacked this month<a href="https://securityaffairs.co/wordpress/139881/data-breach/okta-source-code-stolen.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russians hacked JFK airport’s taxi dispatch system for profit<a href="https://www.bleepingcomputer.com/news/security/russians-hacked-jfk-airport-s-taxi-dispatch-system-for-profit/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conti Team One Splinter Group Resurfaces as Royal Ransomware with Callback Phishing Attacks<a href="https://www.trendmicro.com/en_us/research/22/l/conti-team-one-splinter-group-resurfaces-as-royal-ransomware-wit.html?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shoemaker Ecco leaks over 60GB of sensitive data for 500+ days<a href="https://securityaffairs.co/wordpress/139885/data-breach/shoemaker-ecco-data-leaks.html"> Full Text</a>
@@ -194,7 +194,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of search engine ads pushing malware, phishing<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-search-engine-ads-pushing-malware-phishing/"> Full Text</a>
@@ -210,7 +210,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 cybersecurity trends accelerating in 2023<a href="https://www.helpnetsecurity.com/2022/12/19/5-cybersecurity-trends-accelerating-in-2023/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German industrial giant ThyssenKrupp targeted in a new cyberattack<a href="https://securityaffairs.co/wordpress/139870/hacking/thyssenkrupp-targeted-cyberattack.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GodFather Android malware targets 400 banks, crypto exchanges<a href="https://www.bleepingcomputer.com/news/security/godfather-android-malware-targets-400-banks-crypto-exchanges/"> Full Text</a>
@@ -262,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Killnet Hacker Group Claims Data Theft of 10,000 FBI Agents<a href="https://www.hackread.com/russian-killnet-hackers-fbi-agents/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta's source code stolen after GitHub repositories hacked<a href="https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"> Full Text</a>
@@ -294,7 +294,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Hikvision Wireless Bridges Allows CCTV Hacking<a href="https://www.securityweek.com/critical-vulnerability-hikvision-wireless-bridges-allows-cctv-hacking?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Antwerp denies negotiating ransomware payment as city disappears from leak site<a href="https://therecord.media/antwerp-denies-negotiating-ransomware-payment-as-city-disappears-from-leak-site/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 21, 2022
+December 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Steel Production Giant ThyssenKrupp Targeted in a New Cyberattack<a href="https://securityaffairs.co/wordpress/139870/hacking/thyssenkrupp-targeted-cyberattack.html?&web_view=true"> Full Text</a>

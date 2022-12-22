@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 cybersecurity trends accelerating in 2023<a href="https://www.helpnetsecurity.com/2022/12/19/5-cybersecurity-trends-accelerating-in-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The return of malware strains like Emotet, Conti, and Trickbot indicates an expansion of cybercrime for hire. Modern organizations rely on complex supply chains, including SMBs and MSPs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

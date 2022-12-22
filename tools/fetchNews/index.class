@@ -34,6 +34,314 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corsair keyboard bug makes it type on its own, no malware involved<a href="https://www.bleepingcomputer.com/news/security/corsair-keyboard-bug-makes-it-type-on-its-own-no-malware-involved/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Corsair has confirmed that a bug in the firmware of K100 keyboards, and not malware, is behind previously entered text being auto-typed into applications days later.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-stealers Used to Target Ukraine's Military Systems<a href="https://cyware.com/news/info-stealers-used-to-target-ukraines-military-systems-8e30d7bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s DELTA military system users were the target of a phishing attack that distributed infostealers identified as FateGrab and StealDeal. Email and instant messages with fake warnings to update the Delta certificates were used to lure victims.  Upon execution, StealDeal and FateGrab malware wo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play ransomware attacks use a new exploit to bypass ProxyNotShell mitigations on Exchange servers<a href="https://securityaffairs.co/wordpress/139897/cyber-crime/play-ransomware-bypass-proxynotshell-mitigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware attacks target Exchange servers with a new exploit that bypasses Microsoft’s ProxyNotShell mitigations.
+
+
+
+Play ransomware operators target Exchange servers using a new exploit chain, dubbed OWASSRF by Crowdstrike, that bypasses Microsoft’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zerobot malware now spreads by exploiting Apache vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/zerobot-malware-now-spreads-by-exploiting-apache-vulnerabilities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Zerobot botnet has been upgraded to infect new devices by exploiting security vulnerabilities affecting Internet-exposed and unpatched Apache servers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Found in Passwordstate Enterprise Password Manager<a href="https://www.securityweek.com/critical-vulnerabilities-found-passwordstate-enterprise-password-manager?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the Passwordstate enterprise password manager made by Australian company Click Studios is affected by serious vulnerabilities that could allow an unauthenticated attacker to obtain a user’s passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta revealed that its private GitHub repositories were hacked this month<a href="https://securityaffairs.co/wordpress/139881/data-breach/okta-source-code-stolen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American identity and access management giant Okta revealed that that its private GitHub repositories were hacked this month.
+
+
+
+Okta revealed that its private GitHub repositories were hacked this month, the news was first reported by BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians hacked JFK airport’s taxi dispatch system for profit<a href="https://www.bleepingcomputer.com/news/security/russians-hacked-jfk-airport-s-taxi-dispatch-system-for-profit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two U.S. citizens were arrested for allegedly conspiring with Russian hackers to hack the John F. Kennedy International Airport (JFK) taxi dispatch system to move specific taxis to the front of the queue in exchange for a $10 fee.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Team One Splinter Group Resurfaces as Royal Ransomware with Callback Phishing Attacks<a href="https://www.trendmicro.com/en_us/research/22/l/conti-team-one-splinter-group-resurfaces-as-royal-ransomware-wit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors running the ransomware — who used to be a part of Conti Team One, according to a mind map shared by Vitali Kremez — initially dubbed it Zeon ransomware, until they rebranded it to Royal ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shoemaker Ecco leaks over 60GB of sensitive data for 500+ days<a href="https://securityaffairs.co/wordpress/139885/data-breach/shoemaker-ecco-data-leaks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers reported that Ecco, a global shoe manufacturer and retailer, exposed millions of documents. 
+
+
+
+Original post @ https://cybernews.com/security/ecco-leaks-sensitive-data-for-months/
+
+
+
+Ecco, a global shoe manufacturer and retailer,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of search engine ads pushing malware, phishing<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-search-engine-ads-pushing-malware-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that threat actors are using search engine advertisements to promote websites distributing ransomware or stealing login credentials for financial institutions and crypto exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 cybersecurity trends accelerating in 2023<a href="https://www.helpnetsecurity.com/2022/12/19/5-cybersecurity-trends-accelerating-in-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The return of malware strains like Emotet, Conti, and Trickbot indicates an expansion of cybercrime for hire. Modern organizations rely on complex supply chains, including SMBs and MSPs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German industrial giant ThyssenKrupp targeted in a new cyberattack<a href="https://securityaffairs.co/wordpress/139870/hacking/thyssenkrupp-targeted-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German multinational industrial engineering and steel production company ThyssenKrupp AG was the target of a cyberattack.
+
+
+
+German multinational industrial engineering and steel production giant ThyssenKrupp AG announced that the Materials Services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GodFather Android malware targets 400 banks, crypto exchanges<a href="https://www.bleepingcomputer.com/news/security/godfather-android-malware-targets-400-banks-crypto-exchanges/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android banking malware named 'Godfather' has been targeting users in 16 countries, attempting to steal account credentials for over 400 online banking sites and cryptocurrency exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Killnet Hacker Group Claims Data Theft of 10,000 FBI Agents<a href="https://www.hackread.com/russian-killnet-hackers-fbi-agents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian hacker group, KillNet, claims to have infiltrated an FBI database, allegedly stealing the personal information of more than 10,000 US federal agents. Like their other attacks, this alleged hack also appears to have political undertones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta's source code stolen after GitHub repositories hacked<a href="https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a 'confidential' email notification sent by Okta and seen by BleepingComputer, the company states that attackers gained access to its GitHub repositories this month and stole the company's source code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Hikvision Wireless Bridges Allows CCTV Hacking<a href="https://www.securityweek.com/critical-vulnerability-hikvision-wireless-bridges-allows-cctv-hacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese video surveillance company Hikvision has patched a critical vulnerability in some of its wireless bridge products. The flaw can lead to remote CCTV hacking, according to the researchers who found it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antwerp denies negotiating ransomware payment as city disappears from leak site<a href="https://therecord.media/antwerp-denies-negotiating-ransomware-payment-as-city-disappears-from-leak-site/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A listing for the City of Antwerp was removed from the PLAY ransomware group’s leak site this weekend, despite its mayor announcing that the municipality did not pay the gang to unlock its data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Steel Production Giant ThyssenKrupp Targeted in a New Cyberattack<a href="https://securityaffairs.co/wordpress/139870/hacking/thyssenkrupp-targeted-cyberattack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the time of reporting, the company is yet to disclose the type of attack that hit its systems and no cybercriminal group has yet claimed responsibility for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 20, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

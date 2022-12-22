@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers bombard PyPi platform with information-stealing malware<a href="https://www.bleepingcomputer.com/news/security/hackers-bombard-pypi-platform-with-information-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PyPi python package repository is being bombarded by a wave of information-stealing malware hiding inside malicious packages uploaded to the platform to steal software developers' data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack Campaign Spreads Raspberry Robin Malware Across Europe, South America, and Oceania<a href="https://www.trendmicro.com/en_us/research/22/l/raspberry-robin-malware-targets-telecom-governments.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind Raspberry Robin appears to be testing the waters to see how far its deployments can spread. Majority of the group’s victims are either government agencies or telecommunication entities from South America, Europe, and Oceania.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

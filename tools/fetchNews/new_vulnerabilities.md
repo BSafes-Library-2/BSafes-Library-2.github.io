@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corsair keyboard bug makes it type on its own, no malware involved<a href="https://www.bleepingcomputer.com/news/security/corsair-keyboard-bug-makes-it-type-on-its-own-no-malware-involved/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Corsair has confirmed that a bug in the firmware of K100 keyboards, and not malware, is behind previously entered text being auto-typed into applications days later.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Found in Passwordstate Enterprise Password Manager<a href="https://www.securityweek.com/critical-vulnerabilities-found-passwordstate-enterprise-password-manager?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the Passwordstate enterprise password manager made by Australian company Click Studios is affected by serious vulnerabilities that could allow an unauthenticated attacker to obtain a user’s passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Hikvision Wireless Bridges Allows CCTV Hacking<a href="https://www.securityweek.com/critical-vulnerability-hikvision-wireless-bridges-allows-cctv-hacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese video surveillance company Hikvision has patched a critical vulnerability in some of its wireless bridge products. The flaw can lead to remote CCTV hacking, according to the researchers who found it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

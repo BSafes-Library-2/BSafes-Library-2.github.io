@@ -8,6 +8,24 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play ransomware attacks use a new exploit to bypass ProxyNotShell mitigations on Exchange servers<a href="https://securityaffairs.co/wordpress/139897/cyber-crime/play-ransomware-bypass-proxynotshell-mitigation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware attacks target Exchange servers with a new exploit that bypasses Microsoft’s ProxyNotShell mitigations.
+
+
+
+Play ransomware operators target Exchange servers using a new exploit chain, dubbed OWASSRF by Crowdstrike, that bypasses Microsoft’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

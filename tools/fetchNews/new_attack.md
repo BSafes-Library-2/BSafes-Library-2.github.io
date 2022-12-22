@@ -8,6 +8,52 @@ nav_order: 900015
 
 ## Attack
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians hacked JFK airport’s taxi dispatch system for profit<a href="https://www.bleepingcomputer.com/news/security/russians-hacked-jfk-airport-s-taxi-dispatch-system-for-profit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two U.S. citizens were arrested for allegedly conspiring with Russian hackers to hack the John F. Kennedy International Airport (JFK) taxi dispatch system to move specific taxis to the front of the queue in exchange for a $10 fee.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German industrial giant ThyssenKrupp targeted in a new cyberattack<a href="https://securityaffairs.co/wordpress/139870/hacking/thyssenkrupp-targeted-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German multinational industrial engineering and steel production company ThyssenKrupp AG was the target of a cyberattack.
+
+
+
+German multinational industrial engineering and steel production giant ThyssenKrupp AG announced that the Materials Services...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Steel Production Giant ThyssenKrupp Targeted in a New Cyberattack<a href="https://securityaffairs.co/wordpress/139870/hacking/thyssenkrupp-targeted-cyberattack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the time of reporting, the company is yet to disclose the type of attack that hit its systems and no cybercriminal group has yet claimed responsibility for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

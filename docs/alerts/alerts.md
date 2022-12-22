@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2022 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Criminals Impersonating Brands Using Search Engine Advertisement Services to Defraud Users <a href="Cyber Criminals Impersonating Brands Using Search Engine Advertisement Services to Defraud Users"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning the public that cyber criminals are using search engine advertisement services to impersonate brands and direct users to malicious sites that host ransomware and steal login credentials and other financial information.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 19, 2022 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

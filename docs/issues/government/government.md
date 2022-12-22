@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of search engine ads pushing malware, phishing<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-search-engine-ads-pushing-malware-phishing/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that threat actors are using search engine advertisements to promote websites distributing ransomware or stealing login credentials for financial institutions and crypto exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

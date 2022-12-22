@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will turn off Exchange Online basic auth in January<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-turn-off-exchange-online-basic-auth-in-january/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned today that it will permanently turn off Exchange Online basic authentication starting early January 2023 to improve security.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Connected homes are expanding, so is attack volume<a href="https://www.helpnetsecurity.com/2022/12/20/connected-homes-attack-volume/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+78% Americans report unsafe online behaviors that open them up to cyber threats, such as reusing or sharing passwords, skipping software updates and more – a 14% increase from just two years ago, according to Comcast.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

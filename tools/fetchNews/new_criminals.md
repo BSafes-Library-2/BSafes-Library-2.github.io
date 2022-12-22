@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Killnet Hacker Group Claims Data Theft of 10,000 FBI Agents<a href="https://www.hackread.com/russian-killnet-hackers-fbi-agents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian hacker group, KillNet, claims to have infiltrated an FBI database, allegedly stealing the personal information of more than 10,000 US federal agents. Like their other attacks, this alleged hack also appears to have political undertones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command conducted offensive operations to protect midterm elections<a href="https://therecord.media/cyber-command-conducted-offensive-operations-to-protect-midterm-elections/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command conducted both defensive and offensive operations to thwart foreign actors from interfering in the 2022 midterms, according to the digital combat unit’s chief.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 20, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Glupteba Botnet Rises from the Dead<a href="https://cyware.com/news/glupteba-botnet-rises-from-the-dead-c865769e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at Nozomi Networks announced that they spotted an ongoing Glupteba botnet campaign, starting June 2022. Just a year ago, Google had claimed to dismantle the botnet’s infrastructure. Glupteba operators used the Bitcoin blockchain for hiding C&amp;C domains, making it resilient to takedown ef ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
