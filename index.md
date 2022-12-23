@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leading sports betting firm BetMGM discloses data breach<a href="https://www.bleepingcomputer.com/news/security/leading-sports-betting-firm-betmgm-discloses-data-breach/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beyond ProxyNotShell - New OWASSRF Exploit Targets MS Exchange<a href="https://cyware.com/news/beyond-proxynotshell-new-owassrf-exploit-targets-ms-exchange-0d4dae20"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware gang is using a custom locker<a href="https://securityaffairs.co/wordpress/139924/cyber-crime/vice-society-ransomware-custom-locker.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lastpass: Hackers stole customer vault data in cloud storage breach<a href="https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/"> Full Text</a>
@@ -102,7 +102,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 50 New CVE Numbering Authorities Announced in 2022<a href="https://www.securityweek.com/over-50-new-cve-numbering-authorities-announced-2022?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Zerobot variant spreads by exploiting Apache flaws<a href="https://securityaffairs.co/wordpress/139918/malware/zerobot-spreads-apache-flaws.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DuckDuckGo now blocks Google sign-in pop-ups on all sites<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/"> Full Text</a>
@@ -154,7 +154,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen certificates in two waves of ransomware and wiper attacks<a href="https://securelist.com/ransomware-and-wiper-signed-with-stolen-certificates/108350/?&web_view=true"> Full Text</a>
@@ -170,7 +170,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked hackers stole $626 million in virtual assets in 2022<a href="https://securityaffairs.co/wordpress/139909/intelligence/north-korea-cryptocurrency-theft.html"> Full Text</a>
@@ -190,7 +190,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comcast Xfinity accounts hacked in widespread 2FA bypass attacks<a href="https://www.bleepingcomputer.com/news/security/comcast-xfinity-accounts-hacked-in-widespread-2fa-bypass-attacks/"> Full Text</a>
@@ -206,7 +206,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shoemaker Ecco Leaks Over 60GB of Sensitive Data for 500+ Days<a href="https://securityaffairs.co/wordpress/139885/data-breach/shoemaker-ecco-data-leaks.html?&web_view=true"> Full Text</a>
@@ -222,7 +222,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware gang switches to new custom encryptor<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-gang-switches-to-new-custom-encryptor/"> Full Text</a>
@@ -238,7 +238,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked hackers stole $626 million in virtual assets in 2022<a href="https://securityaffairs.co/wordpress/139909/intelligence/north-korea-cryptocurrency-theft.html?&web_view=true"> Full Text</a>
@@ -254,7 +254,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brave launches FrodoPIR, a privacy-focused database query system<a href="https://www.bleepingcomputer.com/news/security/brave-launches-frodopir-a-privacy-focused-database-query-system/"> Full Text</a>
@@ -270,7 +270,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France Seeks to Protect Hospitals After Series of Cyberattacks<a href="https://www.securityweek.com/france-seeks-protect-hospitals-after-series-cyberattacks?&web_view=true"> Full Text</a>
@@ -286,7 +286,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 hackers create auto-attack platform to breach Exchange servers<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-create-auto-attack-platform-to-breach-exchange-servers/"> Full Text</a>
@@ -302,7 +302,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sports betting operator BetMGM hit by data breach<a href="https://www.reuters.com/lifestyle/sports/sports-betting-operator-betmgm-hit-by-data-breach-2022-12-21/?&web_view=true"> Full Text</a>
@@ -318,7 +318,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft gives final warning about Basic Auth deprecation in Exchange Online<a href="https://www.neowin.net/news/microsoft-gives-final-warning-about-basic-auth-deprecation-in-exchange-online/?&web_view=true"> Full Text</a>
@@ -334,7 +334,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XLLing in Excel - threat actors using malicious add-ins<a href="https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/?&web_view=true"> Full Text</a>

@@ -8,6 +8,74 @@ nav_order: 900029
 
 ## Breach
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta revealed that its private GitHub&nbsp;repositories were hacked this month<a href="https://securityaffairs.co/wordpress/139881/data-breach/okta-source-code-stolen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American&nbsp;identity and access management&nbsp;giant Okta revealed that that its private GitHub&nbsp;repositories were hacked this month.
+
+
+
+Okta revealed that its private GitHub&nbsp;repositories were hacked this month, the news was first reported by BleepingComputer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shoemaker Ecco leaks over 60GB of sensitive data for 500+ days<a href="https://securityaffairs.co/wordpress/139885/data-breach/shoemaker-ecco-data-leaks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers reported that Ecco, a global shoe manufacturer and retailer, exposed millions of documents. 
+
+
+
+Original post @ https://cybernews.com/security/ecco-leaks-sensitive-data-for-months/
+
+
+
+Ecco, a global shoe manufacturer and retailer,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta's source code stolen after GitHub repositories hacked<a href="https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a 'confidential' email notification sent by Okta and seen by BleepingComputer, the company states that attackers gained access to its GitHub repositories this month and stole the company's source code.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Antwerp denies negotiating ransomware payment as city disappears from leak site<a href="https://therecord.media/antwerp-denies-negotiating-ransomware-payment-as-city-disappears-from-leak-site/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A listing for the City of Antwerp was removed from the PLAY ransomware group’s leak site this weekend, despite its mayor announcing that the municipality did not pay the gang to unlock its data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

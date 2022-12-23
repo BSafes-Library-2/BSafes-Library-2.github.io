@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 21, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conti Team One Splinter Group Resurfaces as Royal Ransomware with Callback Phishing Attacks<a href="https://www.trendmicro.com/en_us/research/22/l/conti-team-one-splinter-group-resurfaces-as-royal-ransomware-wit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors running the ransomware — who used to be a part of Conti Team One, according to a mind map shared by Vitali Kremez — initially dubbed it Zeon ransomware, until they rebranded it to Royal ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

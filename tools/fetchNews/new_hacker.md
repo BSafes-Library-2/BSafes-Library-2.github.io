@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 hackers create auto-attack platform to breach Exchange servers<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-create-auto-attack-platform-to-breach-exchange-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious FIN7 hacking group uses an auto-attack system that exploits Microsoft Exchange and SQL injection vulnerabilities to breach corporate networks, steal data, and select targets for ransomware attacks based on financial size.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLLing in Excel - threat actors using malicious add-ins<a href="https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos highlights a new vector for malicious code to Microsoft Excel—malicious add-ins, specifically XLL files. Although XLL files were supported since early Excel versions of Excel, malicious actors started using them relatively recently.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

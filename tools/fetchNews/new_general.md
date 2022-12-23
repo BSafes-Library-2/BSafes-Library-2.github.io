@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 50 New CVE Numbering Authorities Announced in 2022<a href="https://www.securityweek.com/over-50-new-cve-numbering-authorities-announced-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most CNAs can assign CVE identifiers to vulnerabilities found in their own products, but some can also assign CVEs to flaws found by their researchers in third-party software that is not in another CNA’s scope.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuckDuckGo now blocks Google sign-in pop-ups on all sites<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DuckDuckGo apps and extensions are now blocking Google Sign-in pop-ups on all its apps and browser extensions, removing what it perceives as an annoyance and a privacy risk for its users.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked hackers stole $626 million in virtual assets in 2022<a href="https://securityaffairs.co/wordpress/139909/intelligence/north-korea-cryptocurrency-theft.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea’s spy agency, the National Intelligence Service, estimated that North Korea-linked threat actors have stolen an estimated 1.5 trillion won ($1.2 billion) in cryptocurrency and other virtual assets in the past five years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

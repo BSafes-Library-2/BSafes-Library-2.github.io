@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leading sports betting firm BetMGM discloses data breach<a href="https://www.bleepingcomputer.com/news/security/leading-sports-betting-firm-betmgm-discloses-data-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading sports betting company BetMGM disclosed a data breach after a threat actor stole personal information belonging to an undisclosed number of customers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lastpass: Hackers stole customer vault data in cloud storage breach<a href="https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass revealed today that attackers stole customer vault data after breaching its cloud storage earlier this year using information stolen during an August 2022 incident.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sports betting operator BetMGM hit by data breach<a href="https://www.reuters.com/lifestyle/sports/sports-betting-operator-betmgm-hit-by-data-breach-2022-12-21/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue affected customer information such as name, contact information, date of birth, hashed Social Security number, account identifiers and information related to transactions with BetMGM, the company said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

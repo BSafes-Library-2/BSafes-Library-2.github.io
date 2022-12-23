@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France Seeks to Protect Hospitals After Series of Cyberattacks<a href="https://www.securityweek.com/france-seeks-protect-hospitals-after-series-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The target is that 100 percent of the most important health facilities have undergone these new exercises by May 2023," the interior, health, and digital services ministers announced in a joint statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
