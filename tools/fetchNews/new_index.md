@@ -34,7 +34,279 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - December 23rd 2022 - Targeting Microsoft Exchange<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-23rd-2022-targeting-microsoft-exchange/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reports this week illustrate how threat actors consider Microsoft Exchange as a prime target for gaining initial access to corporate networks to steal data and deploy ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New STEPPY#KAVACH Attack Campaign Likely Targeting Indian Government<a href="https://www.securonix.com/blog/new-steppykavach-attack-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new malicious campaign from STEPPY#KAVACH observed over the past few weeks appears to share many common TTPs with the SideCopy/APT36 threat actors that were extremely active in 2021 and were previously attributed to Pakistan by some researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok parent company ByteDance revealed the use of TikTok data to track journalists<a href="https://securityaffairs.co/wordpress/139959/intelligence/tiktok-use-data-track-journalists.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ByteDance admitted that its employees accessed TikTok data to track journalists to identify the source of leaks to the media.
+
+
+
+TikTok parent company ByteDance revealed that several employees accessed the TikTok data of two journalists to investigate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit bug in WordPress gift card plugin with 50K installs<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-bug-in-wordpress-gift-card-plugin-with-50k-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively targeting a critical flaw in YITH WooCommerce Gift Cards Premium, a WordPress plugin used on over 50,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Botnet Distributors Abuse Google PPC to Distribute Malware<a href="https://www.trendmicro.com/en_us/research/22/l/icedid-botnet-distributors-abuse-google-ppc-to-distribute-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers say that malicious actors are using malvertising to distribute the IcedID malware via cloned webpages of legitimate organizations and well-known applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BetMGM discloses security breach impacting 1.5 Million customers<a href="https://securityaffairs.co/wordpress/139949/data-breach/betmgm-discloses-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online sports betting company BetMGM suffered a data breach and threat actors offered for sale a database containing the data of 1.5 million customers.
+
+
+
+On December 21, the online sports betting company BetMGM disclosed a data breach while threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Twitter data leak investigated by EU privacy watchdog<a href="https://www.bleepingcomputer.com/news/security/massive-twitter-data-leak-investigated-by-eu-privacy-watchdog/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) has launched an inquiry following last month's news reports of a massive Twitter data leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Whiteboard patches XSS bug<a href="https://portswigger.net/daily-swig/zoom-whiteboard-patches-xss-bug?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom has patched a cross-site scripting (XSS) bug that worked in both the desktop and web versions of its Whiteboard app. The XSS bug in Zoom Whiteboard was discovered by security researcher Eugene Lim (aka ‘spaceraccoon’).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Iranian group hacked Israeli CCTV cameras, defense was aware but didn’t block it<a href="https://securityaffairs.co/wordpress/139934/hacking/iranian-group-hacked-israeli-cctv-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian group hacked dozens of CCTV cameras in Israel in 2021 and maintained access for a long period of time.
+
+
+
+An Iranian group of hackers, known as Moses Staff, had seized control of dozens of Israeli CCTV cameras, the hack was known to the authorities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost CMS vulnerable to critical authentication bypass flaw<a href="https://www.bleepingcomputer.com/news/security/ghost-cms-vulnerable-to-critical-authentication-bypass-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Ghost CMS newsletter subscription system could allow external users to create newsletters or modify existing ones so that they contain malicious JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dealing with cloud security shortfalls<a href="https://www.helpnetsecurity.com/2022/12/22/dealing-with-cloud-security-shortfalls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+72% of IT leaders believe their companies moved to the cloud without properly understanding the skills, maturity curve, and complexities of making it all work securely, according to a recent CloudBolt Software report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass revealed that encrypted password vaults were stolen<a href="https://securityaffairs.co/wordpress/139935/data-breach/lastpass-encrypted-password-vaults-stolen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach suffered by LastPass in August 2022 may have been more severe than previously thought.
+
+
+
+In August password management software firm LastPass disclosed a security breach, threat actors had access to portions of the company development...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Security Teams Shouldn't Snooze on MFA Fatigue<a href="https://www.darkreading.com/endpoint/why-security-teams-shouldn-t-snooze-on-mfa-fatigue?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While security teams may be hasty to pile on every additional security measure in existence to supplement MFA, they must not compromise too heavily on convenience. It's a delicate balance and a difficult one to strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morley Companies data breach $4.3M class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/morley-companies-data-breach-4-3m-class-action-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement class, which has been directly notified of the settlement, is defined as U.S. residents whose data was compromised during the data incident the defendant announced on or about August 1, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fertility Centers of Illinois data breach $450K class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/fertility-centers-of-illinois-data-breach-450k-class-action-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers affected by a data breach in February 2021 filed a class action lawsuit against FCI, arguing that the company should have protected their information through reasonable cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Group May Have Outsourced the Development of 'PolyVice' Ransomware<a href="https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-group-and-the-threat-of-outsourced-development/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say it's likely that the group behind the custom-branded PolyVice ransomware for Vice Society is also selling similar payloads to other groups. It implements a robust encryption scheme, using NTRUEncrypt and ChaCha20-Poly1305 algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leading sports betting firm BetMGM discloses data breach<a href="https://www.bleepingcomputer.com/news/security/leading-sports-betting-firm-betmgm-discloses-data-breach/"> Full Text</a>
@@ -50,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beyond ProxyNotShell - New OWASSRF Exploit Targets MS Exchange<a href="https://cyware.com/news/beyond-proxynotshell-new-owassrf-exploit-targets-ms-exchange-0d4dae20"> Full Text</a>
@@ -66,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware gang is using a custom locker<a href="https://securityaffairs.co/wordpress/139924/cyber-crime/vice-society-ransomware-custom-locker.html"> Full Text</a>
@@ -86,7 +358,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lastpass: Hackers stole customer vault data in cloud storage breach<a href="https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/"> Full Text</a>
@@ -102,7 +374,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 50 New CVE Numbering Authorities Announced in 2022<a href="https://www.securityweek.com/over-50-new-cve-numbering-authorities-announced-2022?&web_view=true"> Full Text</a>
@@ -118,7 +390,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Zerobot variant spreads by exploiting Apache flaws<a href="https://securityaffairs.co/wordpress/139918/malware/zerobot-spreads-apache-flaws.html"> Full Text</a>
@@ -138,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DuckDuckGo now blocks Google sign-in pop-ups on all sites<a href="https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/"> Full Text</a>
@@ -154,7 +426,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stolen certificates in two waves of ransomware and wiper attacks<a href="https://securelist.com/ransomware-and-wiper-signed-with-stolen-certificates/108350/?&web_view=true"> Full Text</a>
@@ -170,7 +442,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked hackers stole $626 million in virtual assets in 2022<a href="https://securityaffairs.co/wordpress/139909/intelligence/north-korea-cryptocurrency-theft.html"> Full Text</a>
@@ -190,7 +462,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Comcast Xfinity accounts hacked in widespread 2FA bypass attacks<a href="https://www.bleepingcomputer.com/news/security/comcast-xfinity-accounts-hacked-in-widespread-2fa-bypass-attacks/"> Full Text</a>
@@ -206,7 +478,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shoemaker Ecco Leaks Over 60GB of Sensitive Data for 500+ Days<a href="https://securityaffairs.co/wordpress/139885/data-breach/shoemaker-ecco-data-leaks.html?&web_view=true"> Full Text</a>
@@ -222,7 +494,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society ransomware gang switches to new custom encryptor<a href="https://www.bleepingcomputer.com/news/security/vice-society-ransomware-gang-switches-to-new-custom-encryptor/"> Full Text</a>
@@ -238,7 +510,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked hackers stole $626 million in virtual assets in 2022<a href="https://securityaffairs.co/wordpress/139909/intelligence/north-korea-cryptocurrency-theft.html?&web_view=true"> Full Text</a>
@@ -254,7 +526,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brave launches FrodoPIR, a privacy-focused database query system<a href="https://www.bleepingcomputer.com/news/security/brave-launches-frodopir-a-privacy-focused-database-query-system/"> Full Text</a>
@@ -270,7 +542,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 France Seeks to Protect Hospitals After Series of Cyberattacks<a href="https://www.securityweek.com/france-seeks-protect-hospitals-after-series-cyberattacks?&web_view=true"> Full Text</a>
@@ -286,7 +558,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 hackers create auto-attack platform to breach Exchange servers<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-create-auto-attack-platform-to-breach-exchange-servers/"> Full Text</a>
@@ -302,7 +574,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sports betting operator BetMGM hit by data breach<a href="https://www.reuters.com/lifestyle/sports/sports-betting-operator-betmgm-hit-by-data-breach-2022-12-21/?&web_view=true"> Full Text</a>
@@ -318,7 +590,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft gives final warning about Basic Auth deprecation in Exchange Online<a href="https://www.neowin.net/news/microsoft-gives-final-warning-about-basic-auth-deprecation-in-exchange-online/?&web_view=true"> Full Text</a>
@@ -334,7 +606,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2022
+December 22, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XLLing in Excel - threat actors using malicious add-ins<a href="https://blog.talosintelligence.com/xlling-in-excel-malicious-add-ins/?&web_view=true"> Full Text</a>
