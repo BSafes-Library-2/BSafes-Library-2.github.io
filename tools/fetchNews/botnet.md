@@ -8,6 +8,24 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Zerobot variant spreads by exploiting Apache flaws<a href="https://securityaffairs.co/wordpress/139918/malware/zerobot-spreads-apache-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft spotted an upgraded variant of the Zerobot botnet that spreads by exploiting Apache vulnerabilities.
+
+
+
+Microsoft Threat Intelligence Center (MSTIC) researchers discovered a new variant of the Zerobot botnet (aka ZeroStresser) that was improved...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

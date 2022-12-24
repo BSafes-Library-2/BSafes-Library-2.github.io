@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dealing with cloud security shortfalls<a href="https://www.helpnetsecurity.com/2022/12/22/dealing-with-cloud-security-shortfalls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+72% of IT leaders believe their companies moved to the cloud without properly understanding the skills, maturity curve, and complexities of making it all work securely, according to a recent CloudBolt Software report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Security Teams Shouldn't Snooze on MFA Fatigue<a href="https://www.darkreading.com/endpoint/why-security-teams-shouldn-t-snooze-on-mfa-fatigue?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While security teams may be hasty to pile on every additional security measure in existence to supplement MFA, they must not compromise too heavily on convenience. It's a delicate balance and a difficult one to strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

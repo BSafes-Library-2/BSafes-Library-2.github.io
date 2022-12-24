@@ -8,6 +8,42 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society ransomware gang is using a custom locker<a href="https://securityaffairs.co/wordpress/139924/cyber-crime/vice-society-ransomware-custom-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware group has adopted new custom ransomware, with a strong encryption scheme, in recent intrusions.
+
+
+
+SentinelOne researchers discovered that the Vice Society ransomware gang has started using a custom ransomware that implements...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked hackers stole $626 million in virtual assets in 2022<a href="https://securityaffairs.co/wordpress/139909/intelligence/north-korea-cryptocurrency-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat actors have stolen an estimated $1.2 billion worth of cryptocurrency and other virtual assets in the past five years.
+
+
+
+South Korea’s spy agency, the National Intelligence Service, estimated that North Korea-linked threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

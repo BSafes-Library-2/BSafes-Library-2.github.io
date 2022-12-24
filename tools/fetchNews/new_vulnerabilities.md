@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers exploit bug in WordPress gift card plugin with 50K installs<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-bug-in-wordpress-gift-card-plugin-with-50k-installs/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are actively targeting a critical flaw in YITH WooCommerce Gift Cards Premium, a WordPress plugin used on over 50,000 websites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Whiteboard patches XSS bug<a href="https://portswigger.net/daily-swig/zoom-whiteboard-patches-xss-bug?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom has patched a cross-site scripting (XSS) bug that worked in both the desktop and web versions of its Whiteboard app. The XSS bug in Zoom Whiteboard was discovered by security researcher Eugene Lim (aka ‘spaceraccoon’).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghost CMS vulnerable to critical authentication bypass flaw<a href="https://www.bleepingcomputer.com/news/security/ghost-cms-vulnerable-to-critical-authentication-bypass-flaw/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Ghost CMS newsletter subscription system could allow external users to create newsletters or modify existing ones so that they contain malicious JavaScript.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

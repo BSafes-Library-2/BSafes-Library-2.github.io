@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stolen certificates in two waves of ransomware and wiper attacks<a href="https://securelist.com/ransomware-and-wiper-signed-with-stolen-certificates/108350/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors used certificates from Nvidia and Kuwait Telecommunications Company to sign their malware; the former was already leaked, but we’re not sure how they got their hands on the latter.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Comcast Xfinity accounts hacked in widespread 2FA bypass attacks<a href="https://www.bleepingcomputer.com/news/security/comcast-xfinity-accounts-hacked-in-widespread-2fa-bypass-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​Comcast Xfinity customers report their accounts being hacked in widespread attacks that bypass two-factor authentication. These compromised accounts are then used to reset passwords for other services, such as the Coinbase and Gemini crypto exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Group May Have Outsourced the Development of 'PolyVice' Ransomware<a href="https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-group-and-the-threat-of-outsourced-development/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers say it's likely that the group behind the custom-branded PolyVice ransomware for Vice Society is also selling similar payloads to other groups. It implements a robust encryption scheme, using NTRUEncrypt and ChaCha20-Poly1305 algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

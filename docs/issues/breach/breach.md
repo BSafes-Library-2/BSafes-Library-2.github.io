@@ -8,6 +8,84 @@ nav_order: 900029
 
 ## Breach
 ---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BetMGM discloses security breach impacting 1.5 Million customers<a href="https://securityaffairs.co/wordpress/139949/data-breach/betmgm-discloses-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online sports betting company BetMGM suffered a data breach and threat actors offered for sale a database containing the data of 1.5 million customers.
+
+
+
+On December 21, the online sports betting company BetMGM disclosed a data breach while threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Twitter data leak investigated by EU privacy watchdog<a href="https://www.bleepingcomputer.com/news/security/massive-twitter-data-leak-investigated-by-eu-privacy-watchdog/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) has launched an inquiry&nbsp;following last month's news reports of a massive Twitter data leak.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass revealed that encrypted password vaults were stolen<a href="https://securityaffairs.co/wordpress/139935/data-breach/lastpass-encrypted-password-vaults-stolen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;data breach suffered by LastPass in August 2022 may have been more severe than previously thought.
+
+
+
+In August password management software firm LastPass disclosed a security breach, threat actors had access to portions of the company development...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morley Companies data breach $4.3M class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/morley-companies-data-breach-4-3m-class-action-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement class, which has been directly notified of the settlement, is defined as U.S. residents whose data was compromised during the data incident the defendant announced on or about August 1, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fertility Centers of Illinois data breach $450K class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/fertility-centers-of-illinois-data-breach-450k-class-action-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Consumers affected by a data breach in February 2021 filed a class action lawsuit against FCI, arguing that the company should have protected their information through reasonable cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

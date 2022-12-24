@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 22, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft gives final warning about Basic Auth deprecation in Exchange Online<a href="https://www.neowin.net/news/microsoft-gives-final-warning-about-basic-auth-deprecation-in-exchange-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations will still be informed seven days before the protocol is disabled for them. Once it is turned off, affected apps will throw an HTTP error 401 for bad username/password. The only way for them to work will be to switch to Modern Auth.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

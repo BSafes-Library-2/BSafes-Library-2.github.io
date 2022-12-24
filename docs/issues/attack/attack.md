@@ -8,6 +8,38 @@ nav_order: 900015
 
 ## Attack
 ---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New STEPPY#KAVACH Attack Campaign Likely Targeting Indian Government<a href="https://www.securonix.com/blog/new-steppykavach-attack-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new malicious campaign from STEPPY#KAVACH observed over the past few weeks appears to share many common TTPs with the SideCopy/APT36 threat actors that were extremely active in 2021 and were previously attributed to Pakistan by some researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Iranian group hacked Israeli CCTV cameras, defense was aware but didn’t block it<a href="https://securityaffairs.co/wordpress/139934/hacking/iranian-group-hacked-israeli-cctv-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian group hacked dozens of CCTV cameras in Israel in 2021 and maintained access for a long period of time.
+
+
+
+An Iranian group of hackers, known as Moses Staff, had seized control of dozens of Israeli CCTV cameras, the hack was known to the authorities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
