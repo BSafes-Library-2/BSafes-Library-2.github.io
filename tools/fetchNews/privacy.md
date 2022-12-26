@@ -8,6 +8,24 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 23, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok parent company ByteDance revealed the use of TikTok data to track journalists<a href="https://securityaffairs.co/wordpress/139959/intelligence/tiktok-use-data-track-journalists.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ByteDance admitted that its employees accessed TikTok data to track journalists to identify the source of leaks to the media.
+
+
+
+TikTok parent company ByteDance revealed that several employees accessed the TikTok data of two journalists to investigate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

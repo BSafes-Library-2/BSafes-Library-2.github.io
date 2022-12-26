@@ -34,6 +34,210 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Adds Custom-branded Payload PolyVice to its Arsenal<a href="https://cyware.com/news/vice-society-adds-custom-branded-payload-polyvice-to-its-arsenal-a335bbe1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware group spun another custom ransomware variant, dubbed PolyVice. The strain deploys a robust encryption scheme that uses NTRUEncrypt and ChaCha20-Poly1305 algorithms. The authors of this new ransomware variant are also likely selling similar payloads to other hacking group ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Linux Kernel flaw affects SMB servers with ksmbd enabled<a href="https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a critical Linux Kernel vulnerability (CVSS score of 10) impacting SMB servers that can lead to remote code execution.
+
+
+
+A critical Linux kernel vulnerability (CVSS score of 10) exposes SMB servers with ksmbd enabled to hack. KSMBD is a Linux...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting WordPress gift card plugin<a href="https://securityaffairs.co/wordpress/140004/hacking/wordpress-gift-card-plugin-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical flaw in the YITH WooCommerce Gift Cards Premium WordPress plugin installed by over 50,000 websites.
+
+
+
+Hackers are actively exploiting a critical vulnerability, tracked as CVE-2022-45359 (CVSS v3: 9.8),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 400 Million Twitter users up for sale<a href="https://securityaffairs.co/wordpress/139993/data-breach/twitter-400-million-users-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is claiming they have obtained data of 400,000,000 Twitter users and is offering it for sale.
+
+
+
+A threat actor claims they have obtained data of 400,000,000 Twitter users and is attempting to sell it.
+
+
+
+The seller claims the database...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 399 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/139988/breaking-news/security-affairs-newsletter-round-399-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+
+
+
+If you want to also receive for free the newsletter with the international press subscribe here.
+
+
+
+Expert...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fined €60 million in France for using advertising cookies without consent￼<a href="https://securityaffairs.co/wordpress/139982/breaking-news/microsoft-fined-e60m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France's privacy watchdog fines €60 million Microsoft for using advertising cookies without explicit customer consent.
+
+
+
+France's privacy watchdog fines €60 million Microsoft's Ireland subsidiary for using advertising cookies without the explicit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New info-stealer malware infects software pirates via fake cracks sites<a href="https://www.bleepingcomputer.com/news/security/new-info-stealer-malware-infects-software-pirates-via-fake-cracks-sites/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information-stealing malware named 'RisePro' is being distributed through fake cracks sites operated by the PrivateLoader pay-per-install (PPI) malware distribution service.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes<a href="https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security vulnerability in the Kyverno admission controller for container images could allow malicious actors to import a raft of nefarious code into cloud production environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found Backdoor credentials in ZyXEL LTE3301 M209<a href="https://securityaffairs.co/wordpress/139974/hacking/backdoor-credentials-zyxel-lte3301-m209.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity researcher RE-Solver discovered Backdoor credentials in ZyXEL LTE3301-M209 LTE indoor routers.
+
+
+
+Security researcher ReSolver announced the discovery of hardcoded credentials (CVE-2022-40602) in ZyXEL LTE3301-M209 LTE indoor routers.
+
+
+
+
+
+
+
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin malware used in attacks against Telecom and Governments<a href="https://securityaffairs.co/wordpress/139964/breaking-news/raspberry-robin-targets-telecom-governments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Raspberry Robin worm attacks aimed at telecommunications and government office systems across Latin America, Australia, and Europe.
+
+
+
+Researchers from Trend Micro have uncovered a Raspberry Robin worm campaign targeting telecommunications and government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 23, 2022 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

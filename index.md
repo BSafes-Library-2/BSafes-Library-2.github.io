@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society Adds Custom-branded Payload PolyVice to its Arsenal<a href="https://cyware.com/news/vice-society-adds-custom-branded-payload-polyvice-to-its-arsenal-a335bbe1"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Linux Kernel flaw affects SMB servers with ksmbd enabled<a href="https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html"> Full Text</a>
@@ -70,7 +70,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of attacks exploiting WordPress gift card plugin<a href="https://securityaffairs.co/wordpress/140004/hacking/wordpress-gift-card-plugin-attacks.html"> Full Text</a>
@@ -90,7 +90,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 400 Million Twitter users up for sale<a href="https://securityaffairs.co/wordpress/139993/data-breach/twitter-400-million-users-leak.html"> Full Text</a>
@@ -114,7 +114,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 399 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/139988/breaking-news/security-affairs-newsletter-round-399-by-pierluigi-paganini.html"> Full Text</a>
@@ -138,7 +138,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fined €60 million in France for using advertising cookies without consent￼<a href="https://securityaffairs.co/wordpress/139982/breaking-news/microsoft-fined-e60m.html"> Full Text</a>
@@ -158,7 +158,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New info-stealer malware infects software pirates via fake cracks sites<a href="https://www.bleepingcomputer.com/news/security/new-info-stealer-malware-infects-software-pirates-via-fake-cracks-sites/"> Full Text</a>
@@ -174,7 +174,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes<a href="https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes?&web_view=true"> Full Text</a>
@@ -190,7 +190,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found Backdoor credentials in ZyXEL LTE3301 M209<a href="https://securityaffairs.co/wordpress/139974/hacking/backdoor-credentials-zyxel-lte3301-m209.html"> Full Text</a>
@@ -218,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin malware used in attacks against Telecom and Governments<a href="https://securityaffairs.co/wordpress/139964/breaking-news/raspberry-robin-targets-telecom-governments.html"> Full Text</a>

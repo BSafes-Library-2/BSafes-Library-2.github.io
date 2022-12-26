@@ -8,6 +8,28 @@ nav_order: 900029
 
 ## Breach
 ---
+December 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 400 Million Twitter users up for sale<a href="https://securityaffairs.co/wordpress/139993/data-breach/twitter-400-million-users-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is claiming they have obtained data of 400,000,000 Twitter users and is offering it for sale.
+
+
+
+A threat actor claims they have obtained data of 400,000,000 Twitter users and is attempting to sell it.
+
+
+
+The seller claims the database...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Adds Custom-branded Payload PolyVice to its Arsenal<a href="https://cyware.com/news/vice-society-adds-custom-branded-payload-polyvice-to-its-arsenal-a335bbe1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware group spun another custom ransomware variant, dubbed PolyVice. The strain deploys a robust encryption scheme that uses NTRUEncrypt and ChaCha20-Poly1305 algorithms. The authors of this new ransomware variant are also likely selling similar payloads to other hacking group ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,82 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Linux Kernel flaw affects SMB servers with ksmbd enabled<a href="https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a critical Linux Kernel vulnerability (CVSS score of 10) impacting SMB servers that can lead to remote code execution.
+
+
+
+A critical Linux kernel vulnerability (CVSS score of 10) exposes SMB servers with ksmbd enabled to hack. KSMBD is a Linux...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 25, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of attacks exploiting WordPress gift card plugin<a href="https://securityaffairs.co/wordpress/140004/hacking/wordpress-gift-card-plugin-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical flaw in the YITH WooCommerce Gift Cards Premium WordPress plugin installed by over 50,000 websites.
+
+
+
+Hackers are actively exploiting a critical vulnerability, tracked as&nbsp;CVE-2022-45359&nbsp;(CVSS v3: 9.8),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes<a href="https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security vulnerability in the Kyverno admission controller for container images could allow malicious actors to import a raft of nefarious code into cloud production environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 24, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found Backdoor credentials in ZyXEL LTE3301 M209<a href="https://securityaffairs.co/wordpress/139974/hacking/backdoor-credentials-zyxel-lte3301-m209.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity researcher RE-Solver discovered Backdoor credentials in ZyXEL LTE3301-M209 LTE indoor routers.
+
+
+
+Security researcher ReSolver announced the discovery of hardcoded credentials (CVE-2022-40602) in ZyXEL LTE3301-M209 LTE indoor routers.
+
+
+
+
+
+
+
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
