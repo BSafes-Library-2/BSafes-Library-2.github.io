@@ -34,7 +34,155 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims to be selling Twitter data of 400 million users<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-be-selling-twitter-data-of-400-million-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor claims to be selling public and private data of 400 million Twitter users scraped in 2021 using a now-fixed API vulnerability. They're asking $200,000 for an exclusive sale.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drain $8M in Assets from Bitkeep Wallets in Latest DeFi Exploit<a href="https://cointelegraph.com/news/hackers-drain-8m-in-assets-from-bitkeep-wallets-in-latest-defi-exploit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One suspected hacker wallet address already has more than $5 million in digital assets. While the amount exploited is still not final and the attackers are still currently transferring funds to multiple wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader implements new evasion techniques<a href="https://securityaffairs.co/wordpress/140028/cyber-crime/guloader-evasion-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers exposed new evasion techniques adopted by an advanced malware downloader called GuLoader.
+
+
+
+CrowdStrike researchers d a detailed multiple evasion techniques implemented by an advanced malware downloader called GuLoader (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cincinnati State Data Breach Possibly Exposed Social Security Numbers, Other Information<a href="https://www.cincinnati.com/story/news/2022/12/24/cincinnati-state-breach-exposed-social-security-numbers-other-info/69754533007/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data included full names, addresses, dates of birth, Social Security numbers, driver’s licenses or state identification numbers, health insurance information, and financial account information, the notice states.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Bypass 2FA, Takeover Xfinity and other Accounts<a href="https://cyware.com/news/attackers-bypass-2fa-takeover-xfinity-and-other-accounts-40fe1752"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of Comcast Xfinity customers reported their accounts being hacked despite two-factor authentication being enabled on their accounts. According to a researcher, hackers attempted credential-stuffing attacks on users’ accounts. Criminals also tried to break into victims’ DropBox, Evernote, a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Operators Abuse Google Ads in Malvertising Campaign<a href="https://cyware.com/news/icedid-operators-abuse-google-ads-in-malvertising-campaign-5ca4cdd3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro noted a new distribution trend for the IcedID botnet via Google pay-per-click (PPC) ads, aka malvertising. The adversaries behind IcedID malware erected fake websites of legitimate organizations and well-known applications to lure online users. Attackers also drop a new loader via an MS ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Labour Attacks Delays to Online Safety Bill as it Highlights Christmas Scams<a href="https://www.theguardian.com/technology/2022/dec/26/labour-attacks-delays-to-online-safety-bill-as-it-highlights-christmas-scams?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill has been hit by repeated delays and amendments. It has since been held up while ministers re-wrote parts of it, given a row among Conservative MPs that it would unfairly stifle freedom of speech online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Linux Kernel Flaw Affects SMB Servers with KSMBD Enabled<a href="https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the kernel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Have Scraped 400 Million Twitter User Records<a href="https://www.bankinfosecurity.com/hacker-claims-to-have-scrapped-400m-twitter-user-records-a-20801?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The posting, apparently first noticed by Israeli cyber intelligence firm Hudson Rock, includes alleged private email addresses for three dozen well-known personalities including New York Democratic Rep.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society Adds Custom-branded Payload PolyVice to its Arsenal<a href="https://cyware.com/news/vice-society-adds-custom-branded-payload-polyvice-to-its-arsenal-a335bbe1"> Full Text</a>
@@ -50,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Linux Kernel flaw affects SMB servers with ksmbd enabled<a href="https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html"> Full Text</a>
@@ -70,7 +218,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of attacks exploiting WordPress gift card plugin<a href="https://securityaffairs.co/wordpress/140004/hacking/wordpress-gift-card-plugin-attacks.html"> Full Text</a>
@@ -90,7 +238,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 400 Million Twitter users up for sale<a href="https://securityaffairs.co/wordpress/139993/data-breach/twitter-400-million-users-leak.html"> Full Text</a>
@@ -114,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 399 by Pierluigi Paganini<a href="https://securityaffairs.co/wordpress/139988/breaking-news/security-affairs-newsletter-round-399-by-pierluigi-paganini.html"> Full Text</a>
@@ -138,7 +286,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2022
+December 25, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fined €60 million in France for using advertising cookies without consent￼<a href="https://securityaffairs.co/wordpress/139982/breaking-news/microsoft-fined-e60m.html"> Full Text</a>
@@ -158,7 +306,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New info-stealer malware infects software pirates via fake cracks sites<a href="https://www.bleepingcomputer.com/news/security/new-info-stealer-malware-infects-software-pirates-via-fake-cracks-sites/"> Full Text</a>
@@ -174,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes<a href="https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes?&web_view=true"> Full Text</a>
@@ -190,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found Backdoor credentials in ZyXEL LTE3301 M209<a href="https://securityaffairs.co/wordpress/139974/hacking/backdoor-credentials-zyxel-lte3301-m209.html"> Full Text</a>
@@ -218,7 +366,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2022
+December 24, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin malware used in attacks against Telecom and Governments<a href="https://securityaffairs.co/wordpress/139964/breaking-news/raspberry-robin-targets-telecom-governments.html"> Full Text</a>
