@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Labour Attacks Delays to Online Safety Bill as it Highlights Christmas Scams<a href="https://www.theguardian.com/technology/2022/dec/26/labour-attacks-delays-to-online-safety-bill-as-it-highlights-christmas-scams?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill has been hit by repeated delays and amendments. It has since been held up while ministers re-wrote parts of it, given a row among Conservative MPs that it would unfairly stifle freedom of speech online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

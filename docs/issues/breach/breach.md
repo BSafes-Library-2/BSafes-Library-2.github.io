@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cincinnati State Data Breach Possibly Exposed Social Security Numbers, Other Information<a href="https://www.cincinnati.com/story/news/2022/12/24/cincinnati-state-breach-exposed-social-security-numbers-other-info/69754533007/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data included full names, addresses, dates of birth, Social Security numbers, driver’s licenses or state identification numbers, health insurance information, and financial account information, the notice states.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Bypass 2FA, Takeover Xfinity and other Accounts<a href="https://cyware.com/news/attackers-bypass-2fa-takeover-xfinity-and-other-accounts-40fe1752"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of Comcast Xfinity customers reported their accounts being hacked despite two-factor authentication being enabled on their accounts. According to a researcher, hackers attempted credential-stuffing attacks on users’ accounts. Criminals also tried to break into victims’ DropBox, Evernote, a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Have Scraped 400 Million Twitter User Records<a href="https://www.bankinfosecurity.com/hacker-claims-to-have-scrapped-400m-twitter-user-records-a-20801?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The posting, apparently first noticed by Israeli cyber intelligence firm Hudson Rock, includes alleged private email addresses for three dozen well-known personalities including New York Democratic Rep.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

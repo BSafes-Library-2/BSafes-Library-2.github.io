@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker claims to be selling Twitter data of 400 million users<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-be-selling-twitter-data-of-400-million-users/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Drain $8M in Assets from Bitkeep Wallets in Latest DeFi Exploit<a href="https://cointelegraph.com/news/hackers-drain-8m-in-assets-from-bitkeep-wallets-in-latest-defi-exploit?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GuLoader implements new evasion techniques<a href="https://securityaffairs.co/wordpress/140028/cyber-crime/guloader-evasion-techniques.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cincinnati State Data Breach Possibly Exposed Social Security Numbers, Other Information<a href="https://www.cincinnati.com/story/news/2022/12/24/cincinnati-state-breach-exposed-social-security-numbers-other-info/69754533007/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Bypass 2FA, Takeover Xfinity and other Accounts<a href="https://cyware.com/news/attackers-bypass-2fa-takeover-xfinity-and-other-accounts-40fe1752"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IcedID Operators Abuse Google Ads in Malvertising Campaign<a href="https://cyware.com/news/icedid-operators-abuse-google-ads-in-malvertising-campaign-5ca4cdd3"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Labour Attacks Delays to Online Safety Bill as it Highlights Christmas Scams<a href="https://www.theguardian.com/technology/2022/dec/26/labour-attacks-delays-to-online-safety-bill-as-it-highlights-christmas-scams?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Linux Kernel Flaw Affects SMB Servers with KSMBD Enabled<a href="https://securityaffairs.co/wordpress/140013/hacking/critical-linux-kernel-vulnerability.html?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 26, 2022
+December 26, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Claims to Have Scraped 400 Million Twitter User Records<a href="https://www.bankinfosecurity.com/hacker-claims-to-have-scrapped-400m-twitter-user-records-a-20801?&web_view=true"> Full Text</a>

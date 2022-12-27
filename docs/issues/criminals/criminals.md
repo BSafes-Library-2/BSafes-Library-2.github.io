@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker claims to be selling Twitter data of 400 million users<a href="https://www.bleepingcomputer.com/news/security/hacker-claims-to-be-selling-twitter-data-of-400-million-users/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor claims to be selling public and private data of 400 million Twitter users scraped in 2021 using a now-fixed API vulnerability. They're asking $200,000 for an exclusive sale.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drain $8M in Assets from Bitkeep Wallets in Latest DeFi Exploit<a href="https://cointelegraph.com/news/hackers-drain-8m-in-assets-from-bitkeep-wallets-in-latest-defi-exploit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One suspected hacker wallet address already has more than $5 million in digital assets. While the amount exploited is still not final and the attackers are still currently transferring funds to multiple wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
