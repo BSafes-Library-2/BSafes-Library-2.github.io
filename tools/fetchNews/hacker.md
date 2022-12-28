@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 26, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Operators Abuse Google Ads in Malvertising Campaign<a href="https://cyware.com/news/icedid-operators-abuse-google-ads-in-malvertising-campaign-5ca4cdd3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro noted a new distribution trend for the IcedID botnet via Google pay-per-click (PPC) ads, aka malvertising. The adversaries behind IcedID malware erected fake websites of legitimate organizations and well-known applications to lure online users. Attackers also drop a new loader via an MS ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

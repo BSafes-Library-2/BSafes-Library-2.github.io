@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $3 million worth of cryptocurrency from BTC.com<a href="https://securityaffairs.com/140076/hacking/btc-com-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BTC.com cryptocurrency platform was the victim of a cyberattack that resulted in the theft of $3 million worth of crypto assets.
+BTC.com is a website that provides services for managing and transferring Bitcoin, it offers a digital wallet for storing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $8 million from users running trojanized BitKeep apps<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-8-million-from-users-running-trojanized-bitkeep-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple BitKeep crypto wallet users reported that their wallets were emptied during Christmas after hackers triggered transactions that didn't require verification.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Steal NFTs via Phishing Websites<a href="https://www.bankinfosecurity.com/north-korean-hackers-steal-nfts-via-phishing-websites-a-20803?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers set up nearly 500 decoy sites, including that of a project associated with the World Cup, and NFT marketplaces OpenSea, X2Y2 and Rarible. They made off with $365,000 by stealing 1,055 NFTs with just one of those phishing addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

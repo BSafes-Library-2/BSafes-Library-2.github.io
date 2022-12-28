@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Uses Phishing Domains to Target NFT Investors<a href="https://cyware.com/news/lazarus-apt-uses-phishing-domains-to-target-nft-investors-e2863fbf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus Group is believed to be behind a massive phishing campaign targeting NFT investors via nearly 500 phishing domains. They use fake bait websites to offer malicious Mints. The attack begins by sending out spam emails laden with links to legitimate-looking phishing pages that look legitimate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

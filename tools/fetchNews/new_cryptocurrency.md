@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BTC.com lost $3 million worth of cryptocurrency in cyberattack<a href="https://www.bleepingcomputer.com/news/security/btccom-lost-3-million-worth-of-cryptocurrency-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BTC.com, one of the world's largest cryptocurrency mining pools, announced it was the victim of a cyberattack that resulted in the theft of approximately $3 million worth of crypto assets belonging to both customers and the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

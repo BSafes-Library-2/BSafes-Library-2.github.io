@@ -34,6 +34,268 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BTC.com lost $3 million worth of cryptocurrency in cyberattack<a href="https://www.bleepingcomputer.com/news/security/btccom-lost-3-million-worth-of-cryptocurrency-in-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BTC.com, one of the world's largest cryptocurrency mining pools, announced it was the victim of a cyberattack that resulted in the theft of approximately $3 million worth of crypto assets belonging to both customers and the company.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Uses Phishing Domains to Target NFT Investors<a href="https://cyware.com/news/lazarus-apt-uses-phishing-domains-to-target-nft-investors-e2863fbf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus Group is believed to be behind a massive phishing campaign targeting NFT investors via nearly 500 phishing domains. They use fake bait websites to offer malicious Mints. The attack begins by sending out spam emails laden with links to legitimate-looking phishing pages that look legitimate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole $3 million worth of cryptocurrency from BTC.com<a href="https://securityaffairs.com/140076/hacking/btc-com-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BTC.com cryptocurrency platform was the victim of a cyberattack that resulted in the theft of $3 million worth of crypto assets.
+BTC.com is a website that provides services for managing and transferring Bitcoin, it offers a digital wallet for storing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers steal $8 million from users running trojanized BitKeep apps<a href="https://www.bleepingcomputer.com/news/security/hackers-steal-8-million-from-users-running-trojanized-bitkeep-apps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple BitKeep crypto wallet users reported that their wallets were emptied during Christmas after hackers triggered transactions that didn't require verification.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Disguised as YouTube Bot Steals Sensitive Data<a href="https://cyware.com/news/malware-disguised-as-youtube-bot-steals-sensitive-data-84f40495"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are distributing a new YouTube bot malware that can artificially boost the rankings of videos on   YouTube   and steal sensitive information from browsers.  Upon execution, the malware performs an AntiVM check to prevent malware detection and analysis by researchers in a virtual envi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook (Meta) to settle Cambridge Analytica data leak for $725M<a href="https://securityaffairs.com/140070/laws-and-regulations/facebook-settle-cambridge-analytica.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook (Meta) has agreed to pay $725 million to settle the class-action lawsuit filed in 2018 over the Cambridge Analytica data leak.
+Facebook (Meta) has agreed to pay $725 million to settle a class-action lawsuit filed in 2018 over the Cambridge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarSpy attack eavesdrops on Android phones via motion sensors<a href="https://www.bleepingcomputer.com/news/security/earspy-attack-eavesdrops-on-android-phones-via-motion-sensors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers has developed an eavesdropping attack for Android devices that can, to various degrees, recognize the caller's gender and identity, and even discern private speech.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoor Credential Found in ZyXEL Router<a href="https://cyware.com/news/backdoor-credential-found-in-zyxel-router-410e447c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher RE-Solver claimed to have found hardcoded credentials (CVE-2022-40602) in ZyXEL LTE3301-M209 LTE indoor routers. The bug he exploited is a Telnet backdoor in D-Link DWR-921 that is also present in the ZyXEL LTE3301-M209.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook (Meta) to settle Cambridge Analytica data leak for $725M<a href="https://securityaffairs.com/140061/laws-and-regulations/facebook-meta-to-settle-cambridge-analytica-data-leak-for-725m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook (Meta) has agreed to pay $725 million to settle the class-action lawsuit filed in 2018 over the Cambridge Analytica data leak.
+Facebook (Meta) has agreed to pay $725 million to settle a class-action lawsuit filed in 2018 over the Cambridge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff Introduces New Methods Bypassing MoTW<a href="https://securelist.com/bluenoroff-methods-bypass-motw/108383/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff group introduced new file types to evade Mark-of-the-Web (MOTW) security measures. It expanded file types and tweaked infection methods and, created numerous fake domains impersonating venture capital companies and banks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uncovering the link between PrivateLoader PPI service and RisePro stealer<a href="https://securityaffairs.com/140045/cyber-crime/privateloader-ppi-risepro-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The pay-per-install (PPI) malware downloader service PrivateLoader is being used to distribute the RisePro info-stealing malware.
+The pay-per-install (PPI) malware downloader service PrivateLoader is being used to distribute the information-stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Steal NFTs via Phishing Websites<a href="https://www.bankinfosecurity.com/north-korean-hackers-steal-nfts-via-phishing-websites-a-20803?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers set up nearly 500 decoy sites, including that of a project associated with the World Cup, and NFT marketplaces OpenSea, X2Y2 and Rarible. They made off with $365,000 by stealing 1,055 NFTs with just one of those phishing addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks impersonate brands using search engine advertisement services<a href="https://securityaffairs.com/140051/cyber-crime/search-engine-advertisement-services-abuse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of cybercriminals using search engine advertisement services to impersonate brands and defraud users
+The FBI is warning of cyber criminals using search engine advertisement services to impersonate brands and direct users to websites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern technology and cyber recovery will intersect in the next generation of attacks<a href="https://www.helpnetsecurity.com/2022/12/27/modern-technology-cyber-recovery-next-generation-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While embarking on a virtual life journey is appealing to many, it has vulnerabilities. As the metaverse continues to gain momentum, phishing attempts, NFT-related scams and malware attacks have already begun.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLL Files Increasingly Getting Abused by Attackers<a href="https://cyware.com/news/xll-files-increasingly-getting-abused-by-attackers-41606bf1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of Microsoft's effort to phase out support for VBA macros in Office docs, cybercriminals have now turned to use XLL files to embed malicious code in docs. FIN7, an infamous cybercrime threat actor, started using XLL files as attachments in email campaigns early this year. Additiona ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader implements new evasion techniques<a href="https://securityaffairs.com/140028/cyber-crime/guloader-evasion-techniques.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers exposed new evasion techniques adopted by an advanced malware downloader called GuLoader.
+CrowdStrike researchers d a detailed multiple evasion techniques implemented by an advanced malware downloader called GuLoader (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 26, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

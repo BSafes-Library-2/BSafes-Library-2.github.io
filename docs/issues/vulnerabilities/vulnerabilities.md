@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoor Credential Found in ZyXEL Router<a href="https://cyware.com/news/backdoor-credential-found-in-zyxel-router-410e447c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher RE-Solver claimed to have found hardcoded credentials (CVE-2022-40602) in ZyXEL LTE3301-M209 LTE indoor routers. The bug he exploited is a Telnet backdoor in D-Link DWR-921 that is also present in the ZyXEL LTE3301-M209.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XLL Files Increasingly Getting Abused by Attackers<a href="https://cyware.com/news/xll-files-increasingly-getting-abused-by-attackers-41606bf1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of Microsoft's effort to phase out support for VBA macros in Office docs, cybercriminals have now turned to use XLL files to embed malicious code in docs. FIN7, an infamous cybercrime threat actor, started using XLL files as attachments in email campaigns early this year.&nbsp;Additiona ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
