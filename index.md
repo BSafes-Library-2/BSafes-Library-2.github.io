@@ -34,6 +34,249 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers abuse Google Ads to spread malware in legit software<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware operators have been increasingly abusing the Google Ads platform to spread malware to unsuspecting users searching for popular software products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE Panel on Cybersecurity Warns Against Cyberattacks During New Year Celebrations<a href="https://english.alarabiya.net/business/technology/2022/12/27/UAE-panel-on-Cybersecurity-warns-against-cyber-attacks-during-New-Year-celebrations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council then pointed out that many countries have witnessed the rapid digital transformation in services and daily transactions, which has increased the risks posed by cyberattacks against various sectors, including electricity, gas, and water.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto wallet BitKeep lost over $9M over a cyber attack<a href="https://securityaffairs.com/140099/cyber-crime/bitkeep-9m-stolen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decentralized multi-chain crypto wallet BitKeep lost over $9 Million worth of digital currencies after a cyber attack.
+BitKeep was the victim of a supply chain attack that resulted in the theft of over $9 Million worth of digital currencies from its customers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal ransomware claims attack on Intrado telecom provider<a href="https://www.bleepingcomputer.com/news/security/royal-ransomware-claims-attack-on-intrado-telecom-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​​​​​​​The Royal Ransomware gang claimed responsibility for a cyber attack against telecommunications company Intrado on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+81% Increase in Large-Volume DDoS Attacks<a href="https://www.imperva.com/blog/81-increase-in-large-volume-ddos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks, although frequent, are generally low volume, with the average DDoS attack reaching only 240,000 RPS. Large-volume attacks make up less than 1% of total DDoS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zurich chief warned that cyber attacks will become uninsurable<a href="https://securityaffairs.com/140090/security/cyber-attacks-become-uninsurable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chief executive of insurance giant Zurich warns that cyber attacks, rather than natural catastrophes, will become uninsurable.
+Mario Greco, chief executive of insurer giant Zurich, has warned that cyber attacks will become soon “uninsurable.”
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Citrix servers vulnerable to patched critical flaws<a href="https://www.bleepingcomputer.com/news/security/thousands-of-citrix-servers-vulnerable-to-patched-critical-flaws/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Citrix ADC and Gateway deployments remain vulnerable to two critical-severity security issues that the vendor fixed in recent months.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 Million Railway Customers’ Data for Sale On the Dark Web<a href="https://economictimes.indiatimes.com/news/new-updates/indian-railway-data-leak-30-million-railway-customers-data-for-sale-on-the-dark-web/articleshow/96569440.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Username, email, verified and verified mobile numbers, gender, city Id, City Name, state Id, and language preferences are among the data. Sample data by actor includes a number of records containing emails and phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack at Louisiana hospital impacts 270,000 patients<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-at-louisiana-hospital-impacts-270-000-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lake Charles Memorial Health System (LCMHS) is sending out notices of a data breach affecting almost 270,000 people who have received care at one of its medical centers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defrost Finance Breaks Silence on ‘Exit Scam’ Accusations, Denies Rug Pull<a href="https://cointelegraph.com/news/defrost-finance-breaks-silence-on-exit-scam-accusations-denies-rug-pull?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Dec. 23, the platform announced it suffered a flash loan attack, leading to the draining of user funds from its v2 protocol. One day later, another incident saw a hacker steal the admin key for a second “much larger” attack on the v1 protocol.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Exchange BTC.com Suffers Massive Cyber Attack<a href="https://heimdalsecurity.com/blog/cryptocurrency-exchange-btc-com-suffers-massive-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the attack, BTC.com lost about $700,000 worth of crypto owned by its clients and $2.3 million in digital assets owned by the company. The company has recovered some of the stolen cryptocurrency despite not disclosing the amount.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Power Utility Customer Data<a href="https://www.bankinfosecurity.com/hackers-steal-power-utility-customer-data-a-20807?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A law firm handling breach notification for Sargent & Lundy estimates the hackers stole the personal data of more than 6,900 individuals. The Black Basta ransomware gang surfaced in April 2022. The group is known for using double-extortion tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm Links Piers Morgan Twitter Hack to Leak of 400m Records<a href="https://www.theguardian.com/technology/2022/dec/28/cybersecurity-firm-links-piers-morgan-twitter-hack-to-leak-of-400-million-records-including-scott-morrisons?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker claimed the data had been “scraped” from Twitter via a “vulnerability” in the site, and “includes emails and phone numbers of celebrities, politicians, companies, normal users, and a lot of OG and special usernames.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported phishing attacks have quintupled<a href="https://www.helpnetsecurity.com/2022/12/28/reported-phishing-attacks-quintupled/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise in Q3 2022 was attributable, in part, to increasing numbers of attacks reported against several specific targeted brands. These target companies and their customers suffered from large numbers of attacks from persistent phishers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target WordPress Gift Card Plugin to Upload Backdoors<a href="https://cyware.com/news/hackers-target-wordpress-gift-card-plugin-to-upload-backdoors-1555009b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the WordPress plugin YITH WooCommerce Gift Cards, which has over 50,000 worldwide installations. The bug, tracked as CVE-2022-45359, is being actively abused by threat actors. An unauthenticated hacker can upload files to vulnerable sites, completely taking over a compro ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 27, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
