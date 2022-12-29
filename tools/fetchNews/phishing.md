@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks impersonate brands using search engine advertisement services<a href="https://securityaffairs.com/140051/cyber-crime/search-engine-advertisement-services-abuse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns of cybercriminals using search engine advertisement services to impersonate brands and defraud users
+The FBI is warning of cyber criminals using search engine advertisement services to impersonate brands and direct users to websites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

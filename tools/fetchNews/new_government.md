@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE Panel on Cybersecurity Warns Against Cyberattacks During New Year Celebrations<a href="https://english.alarabiya.net/business/technology/2022/12/27/UAE-panel-on-Cybersecurity-warns-against-cyber-attacks-during-New-Year-celebrations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council then pointed out that many countries have witnessed the rapid digital transformation in services and daily transactions, which has increased the risks posed by cyberattacks against various sectors, including electricity, gas, and water.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

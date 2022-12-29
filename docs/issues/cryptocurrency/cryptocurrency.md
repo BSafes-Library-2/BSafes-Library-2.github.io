@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Exchange BTC.com Suffers Massive Cyber Attack<a href="https://heimdalsecurity.com/blog/cryptocurrency-exchange-btc-com-suffers-massive-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the attack, BTC.com lost about $700,000 worth of crypto owned by its clients and $2.3 million in digital assets owned by the company. The company has recovered some of the stolen cryptocurrency despite not disclosing the amount.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

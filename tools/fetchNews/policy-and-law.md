@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook (Meta) to settle Cambridge Analytica data leak for $725M<a href="https://securityaffairs.com/140070/laws-and-regulations/facebook-settle-cambridge-analytica.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook (Meta) has agreed to pay $725 million to settle the class-action lawsuit filed in 2018 over the Cambridge Analytica data leak.
+Facebook (Meta) has agreed to pay $725 million to settle a class-action lawsuit filed in 2018 over the&nbsp;Cambridge...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

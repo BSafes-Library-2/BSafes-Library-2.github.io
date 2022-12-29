@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarSpy attack eavesdrops on Android phones via motion sensors<a href="https://www.bleepingcomputer.com/news/security/earspy-attack-eavesdrops-on-android-phones-via-motion-sensors/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers has developed an eavesdropping attack for Android devices that can, to various degrees, recognize the caller's gender and identity, and even discern private speech.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

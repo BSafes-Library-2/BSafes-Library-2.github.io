@@ -8,6 +8,36 @@ nav_order: 900072
 
 ## General
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zurich chief warned that cyber attacks will become uninsurable<a href="https://securityaffairs.com/140090/security/cyber-attacks-become-uninsurable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The chief executive of insurance giant Zurich warns that cyber attacks, rather than natural catastrophes, will become uninsurable.
+Mario Greco, chief executive of insurer giant Zurich, has warned that cyber attacks will become soon “uninsurable.”
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported phishing attacks have quintupled<a href="https://www.helpnetsecurity.com/2022/12/28/reported-phishing-attacks-quintupled/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise in Q3 2022 was attributable, in part, to increasing numbers of attacks reported against several specific targeted brands. These target companies and their customers suffered from large numbers of attacks from persistent phishers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

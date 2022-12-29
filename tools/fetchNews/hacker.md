@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 27, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueNoroff Introduces New Methods Bypassing MoTW<a href="https://securelist.com/bluenoroff-methods-bypass-motw/108383/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlueNoroff group introduced new file types to evade Mark-of-the-Web (MOTW) security measures. It expanded file types and tweaked infection methods and, created numerous fake domains impersonating venture capital companies and banks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

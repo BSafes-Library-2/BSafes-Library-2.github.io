@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+30 Million Railway Customers’ Data for Sale On the Dark Web<a href="https://economictimes.indiatimes.com/news/new-updates/indian-railway-data-leak-30-million-railway-customers-data-for-sale-on-the-dark-web/articleshow/96569440.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Username, email, verified and verified mobile numbers, gender, city Id, City Name, state Id, and language preferences are among the data. Sample data by actor includes a number of records containing emails and phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Power Utility Customer Data<a href="https://www.bankinfosecurity.com/hackers-steal-power-utility-customer-data-a-20807?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A law firm handling breach notification for Sargent &amp; Lundy estimates the hackers stole the personal data of more than 6,900 individuals. The Black Basta ransomware gang surfaced in April 2022. The group is known for using double-extortion tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

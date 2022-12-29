@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers abuse Google Ads to spread malware in legit software<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware operators have been increasingly abusing&nbsp;the Google Ads platform to spread malware to unsuspecting users searching for popular software products.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target WordPress Gift Card Plugin to Upload Backdoors<a href="https://cyware.com/news/hackers-target-wordpress-gift-card-plugin-to-upload-backdoors-1555009b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the WordPress plugin YITH WooCommerce Gift Cards, which has over 50,000 worldwide installations. The bug, tracked as CVE-2022-45359, is being actively abused by threat actors. An unauthenticated hacker can upload files to vulnerable sites, completely taking over a compro ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
