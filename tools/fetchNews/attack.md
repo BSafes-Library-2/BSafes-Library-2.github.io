@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal ransomware claims attack on Intrado telecom provider<a href="https://www.bleepingcomputer.com/news/security/royal-ransomware-claims-attack-on-intrado-telecom-provider/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​​​​​​​The Royal Ransomware gang claimed responsibility for a cyber attack against telecommunications company Intrado on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack at Louisiana hospital impacts 270,000 patients<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-at-louisiana-hospital-impacts-270-000-patients/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lake Charles Memorial Health System (LCMHS) is sending out notices of a data breach affecting almost 270,000&nbsp;people who have received care at one of its medical centers.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defrost Finance Breaks Silence on ‘Exit Scam’ Accusations, Denies Rug Pull<a href="https://cointelegraph.com/news/defrost-finance-breaks-silence-on-exit-scam-accusations-denies-rug-pull?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Dec. 23, the platform announced it suffered a flash loan attack, leading to the draining of user funds from its v2 protocol. One day later, another incident saw a hacker steal the admin key for a second “much larger” attack on the v1 protocol.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

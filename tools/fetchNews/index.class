@@ -34,6 +34,169 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Volume DDoS Attacks Increases by 81% in 2022<a href="https://cyware.com/news/large-volume-ddos-attacks-increases-by-81-in-2022-0a9d8cbd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva’s report on the DDoS threat landscape mentions that the largest DDoS attack in 2022 was 4.5x larger than the biggest attack observed in 2021. The large-volume DDoS attacks per month also saw an 81% jump from the last year. The rise in geopolitical conflict also led to an increase in hacktiv ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Citrix servers still vulnerable to CVE-2022-27510 and CVE-2022-27518<a href="https://securityaffairs.com/140112/hacking/citrix-servers-vulnerable-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of thousands of Citrix Application Delivery Controller (ADC) and Gateway endpoints are still unpatched.
+NCC Group's Fox-IT research team warns of thousands of Citrix ADC and Gateway endpoints remain vulnerable to two critical vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarSpy Attack Eavesdrops Using Motion Sensors<a href="https://cyware.com/news/earspy-attack-eavesdrops-using-motion-sensors-85ac36a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers from five American universities discovered a new attack method called EarSpy that can be used to eavesdrop on Android phones via motion sensors. According to experts, one way to reduce the efficacy of the EarSpy attack is to set the volume lower for the ear speakers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LCMHS hospital suffered a Ransomware attack at Louisiana hospital that impacted 270,000 patients<a href="https://securityaffairs.com/140106/cyber-crime/lcmhs-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lake Charles Memorial Health System (LCMHS) suffered a ransomware attack that impacted 270,000 patients.
+The Lake Charles Memorial Health System (LCMHS) disclosed a data breach that affected almost 270,000 patients at its medical centers.
+The Lake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Govt of India Issues Advisory Against Potential Phishing Attacks<a href="https://www.financialexpress.com/life/technology-govt-of-india-issues-advisory-against-potential-phishing-attacks-in-wake-of-lastpass-data-breach-2930866/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team (CERT-In) issued an advisory in the wake of this data breach. It warned Indian users that their accounts could be compromised due to the phishing attacks that cybercriminals undertake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lake Charles Memorial Hospital Suffered a Ransomware Attack<a href="https://heimdalsecurity.com/blog/louisiana-hospital-suffered-a-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive group laid bare the files that were allegedly stolen after breaking into LCMHS systems. Bills of materials, cards, contracts, medical information, papers, medical records, scans, residents, and other documents are among the files listed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers Signal Inquiries Into U.S. Government’s Use of Foreign Spyware<a href="https://www.nytimes.com/2022/12/28/us/politics/spyware-israel-dea-fbi.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Countries globally have embraced commercial spyware for the new powers of surveillance it gives them. The Israeli firm NSO held a near monopoly in the industry for nearly a decade, selling Pegasus to Mexico, Saudi Arabia, India, and other nations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus’s Subgroup BlueNoroff Adopts New Malware Delivery Method<a href="https://cyware.com/news/lazaruss-subgroup-bluenoroff-adopts-new-malware-delivery-method-b221c53a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated BlueNoroff group was found using a new malware strain to target financial institutions in Japan. The gang has also devised a new tactic to evade Mark-of-the-Web (MotW) security measures. Kaspersky  researchers discovered more than 70 domains used by BlueNoroff. These  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Vulnerability & Patch Roundup December 2022<a href="https://blog.sucuri.net/2022/12/wordpress-vulnerability-patch-roundup-december-2022.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To help educate website owners on emerging threats to their environments, researchers at Sucuri compiled a list of important security updates and vulnerability patches for the WordPress ecosystem this past month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader Uses New Anti-Analysis Techniques to Evade Security Software<a href="https://cyware.com/news/guloader-uses-new-anti-analysis-techniques-to-evade-security-software-bb581395"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GuLoader has been updated with new anti-evasion techniques to dodge traditional security solutions. The new version is also hostile to systems running virtual machines.  The malware scans entire process memory for any virtual machine-related strings to thwart researchers and hostile virtualized env ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

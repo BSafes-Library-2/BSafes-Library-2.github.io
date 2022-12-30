@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Govt of India Issues Advisory Against Potential Phishing Attacks<a href="https://www.financialexpress.com/life/technology-govt-of-india-issues-advisory-against-potential-phishing-attacks-in-wake-of-lastpass-data-breach-2930866/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team (CERT-In) issued an advisory in the wake of this data breach. It warned Indian users that their accounts could be compromised due to the phishing attacks that cybercriminals undertake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers Signal Inquiries Into U.S. Government’s Use of Foreign Spyware<a href="https://www.nytimes.com/2022/12/28/us/politics/spyware-israel-dea-fbi.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Countries globally have embraced commercial spyware for the new powers of surveillance it gives them. The Israeli firm NSO held a near monopoly in the industry for nearly a decade, selling Pegasus to Mexico, Saudi Arabia, India, and other nations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

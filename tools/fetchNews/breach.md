@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto wallet BitKeep lost over $9M over a cyber attack<a href="https://securityaffairs.com/140099/cyber-crime/bitkeep-9m-stolen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decentralized multi-chain crypto wallet BitKeep lost over $9 Million worth of digital currencies after a cyber attack.
+BitKeep was the victim of a supply chain attack that resulted in the theft of over $9 Million worth of digital currencies from its customers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Firm Links Piers Morgan Twitter Hack to Leak of 400m Records<a href="https://www.theguardian.com/technology/2022/dec/28/cybersecurity-firm-links-piers-morgan-twitter-hack-to-leak-of-400-million-records-including-scott-morrisons?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker claimed the data had been “scraped” from Twitter via a “vulnerability” in the site, and “includes emails and phone numbers of celebrities, politicians, companies, normal users, and a lot of OG and special usernames.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

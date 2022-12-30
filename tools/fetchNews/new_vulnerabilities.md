@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Citrix servers still vulnerable to CVE-2022-27510&nbsp;and&nbsp;CVE-2022-27518<a href="https://securityaffairs.com/140112/hacking/citrix-servers-vulnerable-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of thousands of Citrix Application Delivery Controller (ADC) and Gateway endpoints are still unpatched.
+NCC Group's Fox-IT research team warns of thousands of Citrix ADC and Gateway endpoints remain vulnerable to two critical vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Vulnerability &amp; Patch Roundup December 2022<a href="https://blog.sucuri.net/2022/12/wordpress-vulnerability-patch-roundup-december-2022.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To help educate website owners on emerging threats to their environments, researchers at Sucuri compiled a list of important security updates and vulnerability patches for the WordPress ecosystem this past month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarSpy Attack Eavesdrops Using Motion Sensors<a href="https://cyware.com/news/earspy-attack-eavesdrops-using-motion-sensors-85ac36a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers from five American universities discovered a new attack method called EarSpy that can be used to eavesdrop on Android phones via motion sensors.&nbsp;According to experts, one way to reduce the efficacy of the EarSpy attack is to set the volume lower for the ear speakers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LCMHS hospital suffered a Ransomware attack at Louisiana hospital that impacted 270,000 patients<a href="https://securityaffairs.com/140106/cyber-crime/lcmhs-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lake Charles Memorial Health System (LCMHS) suffered a ransomware attack that impacted 270,000&nbsp;patients.
+The Lake Charles Memorial Health System (LCMHS) disclosed a data breach that affected almost 270,000&nbsp;patients at its medical centers.
+The&nbsp;Lake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lake Charles Memorial Hospital Suffered a Ransomware Attack<a href="https://heimdalsecurity.com/blog/louisiana-hospital-suffered-a-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive group laid bare the files that were allegedly stolen after breaking into LCMHS systems. Bills of materials, cards, contracts, medical information, papers, medical records, scans, residents, and other documents are among the files listed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

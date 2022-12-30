@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 28, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+81% Increase in Large-Volume DDoS Attacks<a href="https://www.imperva.com/blog/81-increase-in-large-volume-ddos-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DDoS attacks, although frequent, are generally low volume, with the average DDoS attack reaching only 240,000 RPS. Large-volume attacks make up less than 1% of total DDoS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

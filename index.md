@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large-Volume DDoS Attacks Increases by 81% in 2022<a href="https://cyware.com/news/large-volume-ddos-attacks-increases-by-81-in-2022-0a9d8cbd"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Citrix servers still vulnerable to CVE-2022-27510 and CVE-2022-27518<a href="https://securityaffairs.com/140112/hacking/citrix-servers-vulnerable-online.html"> Full Text</a>
@@ -67,7 +67,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EarSpy Attack Eavesdrops Using Motion Sensors<a href="https://cyware.com/news/earspy-attack-eavesdrops-using-motion-sensors-85ac36a6"> Full Text</a>
@@ -83,7 +83,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LCMHS hospital suffered a Ransomware attack at Louisiana hospital that impacted 270,000 patients<a href="https://securityaffairs.com/140106/cyber-crime/lcmhs-hospital-ransomware-attack.html"> Full Text</a>
@@ -101,7 +101,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Govt of India Issues Advisory Against Potential Phishing Attacks<a href="https://www.financialexpress.com/life/technology-govt-of-india-issues-advisory-against-potential-phishing-attacks-in-wake-of-lastpass-data-breach-2930866/?&web_view=true"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lake Charles Memorial Hospital Suffered a Ransomware Attack<a href="https://heimdalsecurity.com/blog/louisiana-hospital-suffered-a-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -133,7 +133,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers Signal Inquiries Into U.S. Government’s Use of Foreign Spyware<a href="https://www.nytimes.com/2022/12/28/us/politics/spyware-israel-dea-fbi.html?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus’s Subgroup BlueNoroff Adopts New Malware Delivery Method<a href="https://cyware.com/news/lazaruss-subgroup-bluenoroff-adopts-new-malware-delivery-method-b221c53a"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Vulnerability & Patch Roundup December 2022<a href="https://blog.sucuri.net/2022/12/wordpress-vulnerability-patch-roundup-december-2022.html?&web_view=true"> Full Text</a>
@@ -181,7 +181,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GuLoader Uses New Anti-Analysis Techniques to Evade Security Software<a href="https://cyware.com/news/guloader-uses-new-anti-analysis-techniques-to-evade-security-software-bb581395"> Full Text</a>
