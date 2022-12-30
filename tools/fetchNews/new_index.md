@@ -34,7 +34,170 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Volume DDoS Attacks Increases by 81% in 2022<a href="https://cyware.com/news/large-volume-ddos-attacks-increases-by-81-in-2022-0a9d8cbd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva’s report on the DDoS threat landscape mentions that the largest DDoS attack in 2022 was 4.5x larger than the biggest attack observed in 2021. The large-volume DDoS attacks per month also saw an 81% jump from the last year. The rise in geopolitical conflict also led to an increase in hacktiv ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Citrix servers still vulnerable to CVE-2022-27510 and CVE-2022-27518<a href="https://securityaffairs.com/140112/hacking/citrix-servers-vulnerable-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of thousands of Citrix Application Delivery Controller (ADC) and Gateway endpoints are still unpatched.
+NCC Group's Fox-IT research team warns of thousands of Citrix ADC and Gateway endpoints remain vulnerable to two critical vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EarSpy Attack Eavesdrops Using Motion Sensors<a href="https://cyware.com/news/earspy-attack-eavesdrops-using-motion-sensors-85ac36a6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers from five American universities discovered a new attack method called EarSpy that can be used to eavesdrop on Android phones via motion sensors. According to experts, one way to reduce the efficacy of the EarSpy attack is to set the volume lower for the ear speakers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LCMHS hospital suffered a Ransomware attack at Louisiana hospital that impacted 270,000 patients<a href="https://securityaffairs.com/140106/cyber-crime/lcmhs-hospital-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lake Charles Memorial Health System (LCMHS) suffered a ransomware attack that impacted 270,000 patients.
+The Lake Charles Memorial Health System (LCMHS) disclosed a data breach that affected almost 270,000 patients at its medical centers.
+The Lake...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Govt of India Issues Advisory Against Potential Phishing Attacks<a href="https://www.financialexpress.com/life/technology-govt-of-india-issues-advisory-against-potential-phishing-attacks-in-wake-of-lastpass-data-breach-2930866/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team (CERT-In) issued an advisory in the wake of this data breach. It warned Indian users that their accounts could be compromised due to the phishing attacks that cybercriminals undertake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lake Charles Memorial Hospital Suffered a Ransomware Attack<a href="https://heimdalsecurity.com/blog/louisiana-hospital-suffered-a-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hive group laid bare the files that were allegedly stolen after breaking into LCMHS systems. Bills of materials, cards, contracts, medical information, papers, medical records, scans, residents, and other documents are among the files listed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers Signal Inquiries Into U.S. Government’s Use of Foreign Spyware<a href="https://www.nytimes.com/2022/12/28/us/politics/spyware-israel-dea-fbi.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Countries globally have embraced commercial spyware for the new powers of surveillance it gives them. The Israeli firm NSO held a near monopoly in the industry for nearly a decade, selling Pegasus to Mexico, Saudi Arabia, India, and other nations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus’s Subgroup BlueNoroff Adopts New Malware Delivery Method<a href="https://cyware.com/news/lazaruss-subgroup-bluenoroff-adopts-new-malware-delivery-method-b221c53a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated BlueNoroff group was found using a new malware strain to target financial institutions in Japan. The gang has also devised a new tactic to evade Mark-of-the-Web (MotW) security measures. Kaspersky  researchers discovered more than 70 domains used by BlueNoroff. These  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Vulnerability & Patch Roundup December 2022<a href="https://blog.sucuri.net/2022/12/wordpress-vulnerability-patch-roundup-december-2022.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To help educate website owners on emerging threats to their environments, researchers at Sucuri compiled a list of important security updates and vulnerability patches for the WordPress ecosystem this past month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader Uses New Anti-Analysis Techniques to Evade Security Software<a href="https://cyware.com/news/guloader-uses-new-anti-analysis-techniques-to-evade-security-software-bb581395"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GuLoader has been updated with new anti-evasion techniques to dodge traditional security solutions. The new version is also hostile to systems running virtual machines.  The malware scans entire process memory for any virtual machine-related strings to thwart researchers and hostile virtualized env ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers abuse Google Ads to spread malware in legit software<a href="https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/"> Full Text</a>
@@ -50,7 +213,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAE Panel on Cybersecurity Warns Against Cyberattacks During New Year Celebrations<a href="https://english.alarabiya.net/business/technology/2022/12/27/UAE-panel-on-Cybersecurity-warns-against-cyber-attacks-during-New-Year-celebrations?&web_view=true"> Full Text</a>
@@ -66,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto wallet BitKeep lost over $9M over a cyber attack<a href="https://securityaffairs.com/140099/cyber-crime/bitkeep-9m-stolen.html"> Full Text</a>
@@ -83,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal ransomware claims attack on Intrado telecom provider<a href="https://www.bleepingcomputer.com/news/security/royal-ransomware-claims-attack-on-intrado-telecom-provider/"> Full Text</a>
@@ -99,7 +262,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 81% Increase in Large-Volume DDoS Attacks<a href="https://www.imperva.com/blog/81-increase-in-large-volume-ddos-attacks/?&web_view=true"> Full Text</a>
@@ -115,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zurich chief warned that cyber attacks will become uninsurable<a href="https://securityaffairs.com/140090/security/cyber-attacks-become-uninsurable.html"> Full Text</a>
@@ -133,7 +296,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Citrix servers vulnerable to patched critical flaws<a href="https://www.bleepingcomputer.com/news/security/thousands-of-citrix-servers-vulnerable-to-patched-critical-flaws/"> Full Text</a>
@@ -149,7 +312,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 30 Million Railway Customers’ Data for Sale On the Dark Web<a href="https://economictimes.indiatimes.com/news/new-updates/indian-railway-data-leak-30-million-railway-customers-data-for-sale-on-the-dark-web/articleshow/96569440.cms?&web_view=true"> Full Text</a>
@@ -165,7 +328,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack at Louisiana hospital impacts 270,000 patients<a href="https://www.bleepingcomputer.com/news/security/ransomware-attack-at-louisiana-hospital-impacts-270-000-patients/"> Full Text</a>
@@ -181,7 +344,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defrost Finance Breaks Silence on ‘Exit Scam’ Accusations, Denies Rug Pull<a href="https://cointelegraph.com/news/defrost-finance-breaks-silence-on-exit-scam-accusations-denies-rug-pull?&web_view=true"> Full Text</a>
@@ -197,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency Exchange BTC.com Suffers Massive Cyber Attack<a href="https://heimdalsecurity.com/blog/cryptocurrency-exchange-btc-com-suffers-massive-cyber-attack/?&web_view=true"> Full Text</a>
@@ -213,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal Power Utility Customer Data<a href="https://www.bankinfosecurity.com/hackers-steal-power-utility-customer-data-a-20807?&web_view=true"> Full Text</a>
@@ -229,7 +392,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Firm Links Piers Morgan Twitter Hack to Leak of 400m Records<a href="https://www.theguardian.com/technology/2022/dec/28/cybersecurity-firm-links-piers-morgan-twitter-hack-to-leak-of-400-million-records-including-scott-morrisons?&web_view=true"> Full Text</a>
@@ -245,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reported phishing attacks have quintupled<a href="https://www.helpnetsecurity.com/2022/12/28/reported-phishing-attacks-quintupled/?&web_view=true"> Full Text</a>
@@ -261,7 +424,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 28, 2022
+December 28, 2022 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target WordPress Gift Card Plugin to Upload Backdoors<a href="https://cyware.com/news/hackers-target-wordpress-gift-card-plugin-to-upload-backdoors-1555009b"> Full Text</a>
