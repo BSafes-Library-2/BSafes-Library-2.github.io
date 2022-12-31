@@ -7,10 +7,23 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 31, 2022 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TIBCO JasperReports Server Information Disclosure Vulnerability <a href="https://nvd.nist.gov/vuln/detail/CVE-2018-5430"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spring web flows of TIBCO Software Inc.'s TIBCO JasperReports Server, TIBCO JasperReports Server Community Edition, TIBCO JasperReports Server for ActiveMatrix BPM, TIBCO Jaspersoft for AWS with Multi-Tenancy, and TIBCO Jaspersoft Reporting and Analytics for AWS contain a vulnerability which may allow any authenticated user read-only access to the contents of the web application, including key configuration files. Affected releases include TIBCO Software Inc.'s TIBCO JasperReports Server: versions up to and including 6.2.4; 6.3.0; 6.3.2; 6.3.3;6.4.0; 6.4.2, TIBCO JasperReports Server Community Edition: versions up to and including 6.4.2, TIBCO JasperReports Server for ActiveMatrix BPM: versions up to and including 6.4.2, TIBCO Jaspersoft for AWS with Multi-Tenancy: versions up to and including 6.4.2, TIBCO Jaspersoft Reporting and Analytics for AWS: versions up to and including 6.4.2.  
+</details>
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 21, 2022 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Cyber Criminals Impersonating Brands Using Search Engine Advertisement Services to Defraud Users <a href="Cyber Criminals Impersonating Brands Using Search Engine Advertisement Services to Defraud Users"> Full Text</a>
+Cyber Criminals Impersonating Brands Using Search Engine Advertisement Services to Defraud Users <a href="https://www.ic3.gov/Media/Y2022/PSA221221"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>

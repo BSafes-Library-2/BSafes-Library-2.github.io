@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Malware For Sale on Darkweb Forums<a href="https://cyware.com/news/multiple-malware-for-sale-on-darkweb-forums-d7b8c587"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux malware targets WordPress sites by exploiting 30 bugs<a href="https://securityaffairs.com/140153/cyber-crime/linux-malware-wordpress-websites.html"> Full Text</a>
@@ -67,7 +67,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal ransomware Group Claims Attacking Iowa PBS station<a href="https://therecord.media/royal-ransomware-group-claims-it-attacked-iowa-pbs-station/?&web_view=true"> Full Text</a>
@@ -83,7 +83,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NETGEAR fixes a severe bug in its routers. Patch it asap!<a href="https://securityaffairs.com/140144/security/netgear-buffer-overflow-routers.html"> Full Text</a>
@@ -100,7 +100,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Drain Cryptocurrency Worth Millions From Crypto-Wallets<a href="https://cyware.com/news/hackers-drain-cryptocurrency-worth-millions-from-crypto-wallets-8840c058"> Full Text</a>
@@ -116,7 +116,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have hacked the Port of Lisbon<a href="https://securityaffairs.com/140137/cyber-crime/lockbit-group-port-of-lisbon.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads Abused to Spread Malware<a href="https://cyware.com/news/google-ads-abused-to-spread-malware-52447edd"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html"> Full Text</a>
@@ -167,7 +167,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toy Maker Jakks Pacific Reports Cyberattack<a href="https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/?&web_view=true"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Port of Lisbon Website Still Down as LockBit Gang Claims Cyberattack<a href="https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/?&web_view=true"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html?&web_view=true"> Full Text</a>

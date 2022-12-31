@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drain Cryptocurrency Worth Millions From Crypto-Wallets<a href="https://cyware.com/news/hackers-drain-cryptocurrency-worth-millions-from-crypto-wallets-8840c058"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security issues surrounding crypto wallets and the entire blockchain ecosystem have become prevalent.&nbsp;Several crypto platforms including BTC[.]com, 3Commas, and Bitkeep have been added to the long list of crypto-related hacks. Users are recommended to practice caution, refrain from clicking on ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

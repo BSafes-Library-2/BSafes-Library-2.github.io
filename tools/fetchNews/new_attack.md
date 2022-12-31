@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal ransomware Group Claims Attacking Iowa PBS station<a href="https://therecord.media/royal-ransomware-group-claims-it-attacked-iowa-pbs-station/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two days after Iowa PBS became aware of the incident, several local news outlets reported it cut short its annual fall fundraising pledge drive due to a cyberattack. The Royal ransomware group took credit for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have hacked the Port of Lisbon<a href="https://securityaffairs.com/140137/cyber-crime/lockbit-group-port-of-lisbon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website for the Port of Lisbon is still down days after it was the target of a ransomware attack claimed by Lockbit group.
+The Port of Lisbon is the third-largest&nbsp;port&nbsp;in&nbsp;Portugal and one of the main European ports due to its strategic location.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toy Maker Jakks Pacific Reports Cyberattack<a href="https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The firm – which is one of the biggest toy companies in the world thanks to licensing deals with Disney and Nintendo – hired cybersecurity experts to deal with the incident and restore their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

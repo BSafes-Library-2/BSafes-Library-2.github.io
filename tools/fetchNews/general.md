@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 29, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Volume DDoS Attacks Increases by 81% in 2022<a href="https://cyware.com/news/large-volume-ddos-attacks-increases-by-81-in-2022-0a9d8cbd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Imperva’s report on the DDoS threat landscape mentions that the largest DDoS attack in 2022 was 4.5x larger than the biggest attack observed in 2021. The large-volume DDoS attacks per month also saw an 81% jump from the last year. The rise in geopolitical conflict also led to an increase in hacktiv ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
