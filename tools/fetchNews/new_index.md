@@ -34,7 +34,188 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Malware For Sale on Darkweb Forums<a href="https://cyware.com/news/multiple-malware-for-sale-on-darkweb-forums-d7b8c587"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted a new threat group, dubbed PureCoder, selling multiple malware, including miners, information stealers, and crypters, on the dark web. Recently, Italian cyber security agency TG Soft identified that the PureLogs information stealer was used by Alibaba2044 threat actors ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux malware targets WordPress sites by exploiting 30 bugs<a href="https://securityaffairs.com/140153/cyber-crime/linux-malware-wordpress-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux malware has been exploiting 30 vulnerabilities in outdated WordPress plugins and themes to deploy malicious JavaScripts.
+Doctor Web researchers discovered a Linux malware, tracked as Linux.BackDoor.WordPressExploit.1, that compromises...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal ransomware Group Claims Attacking Iowa PBS station<a href="https://therecord.media/royal-ransomware-group-claims-it-attacked-iowa-pbs-station/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two days after Iowa PBS became aware of the incident, several local news outlets reported it cut short its annual fall fundraising pledge drive due to a cyberattack. The Royal ransomware group took credit for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NETGEAR fixes a severe bug in its routers. Patch it asap!<a href="https://securityaffairs.com/140144/security/netgear-buffer-overflow-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear addressed a high-severity bug affecting multiple WiFi router models, including Wireless AC Nighthawk, Wireless AX Nighthawk (WiFi 6), and Wireless AC.
+Netgear fixed a bug affecting multiple WiFi router models, including Wireless AC Nighthawk, Wireless...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Drain Cryptocurrency Worth Millions From Crypto-Wallets<a href="https://cyware.com/news/hackers-drain-cryptocurrency-worth-millions-from-crypto-wallets-8840c058"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security issues surrounding crypto wallets and the entire blockchain ecosystem have become prevalent. Several crypto platforms including BTC[.]com, 3Commas, and Bitkeep have been added to the long list of crypto-related hacks. Users are recommended to practice caution, refrain from clicking on ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang claims to have hacked the Port of Lisbon<a href="https://securityaffairs.com/140137/cyber-crime/lockbit-group-port-of-lisbon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website for the Port of Lisbon is still down days after it was the target of a ransomware attack claimed by Lockbit group.
+The Port of Lisbon is the third-largest port in Portugal and one of the main European ports due to its strategic location.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads Abused to Spread Malware<a href="https://cyware.com/news/google-ads-abused-to-spread-malware-52447edd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Different malware operators are increasingly abusing the Google Ads platform to drop malware, including variants of Raccoon Stealer and the IcedID botnet. Threat actors clone the official websites of popular software to lure users into downloading their malicious versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added TIBCO Software's JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog.
+US CISA added TIBCO Software's JasperReports vulnerabilities, tracked as CVE-2018-5430 (CVSS score: 7.7) and CVE-2018-18809 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toy Maker Jakks Pacific Reports Cyberattack<a href="https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The firm – which is one of the biggest toy companies in the world thanks to licensing deals with Disney and Nintendo – hired cybersecurity experts to deal with the incident and restore their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Port of Lisbon Website Still Down as LockBit Gang Claims Cyberattack<a href="https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Administration of the Port of Lisbon (APL) is working permanently and closely with all the competent authorities, in order to guarantee the security of the systems and respective data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2018-5430 resides in TIBCO JasperReports Server that may allow someone read-only access to the contents of the web application. CVE-2018-18809 in TIBCO JasperReports Library contains a directory-traversal vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2022 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large-Volume DDoS Attacks Increases by 81% in 2022<a href="https://cyware.com/news/large-volume-ddos-attacks-increases-by-81-in-2022-0a9d8cbd"> Full Text</a>
@@ -50,7 +231,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Citrix servers still vulnerable to CVE-2022-27510 and CVE-2022-27518<a href="https://securityaffairs.com/140112/hacking/citrix-servers-vulnerable-online.html"> Full Text</a>
@@ -67,7 +248,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EarSpy Attack Eavesdrops Using Motion Sensors<a href="https://cyware.com/news/earspy-attack-eavesdrops-using-motion-sensors-85ac36a6"> Full Text</a>
@@ -83,7 +264,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LCMHS hospital suffered a Ransomware attack at Louisiana hospital that impacted 270,000 patients<a href="https://securityaffairs.com/140106/cyber-crime/lcmhs-hospital-ransomware-attack.html"> Full Text</a>
@@ -101,7 +282,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Govt of India Issues Advisory Against Potential Phishing Attacks<a href="https://www.financialexpress.com/life/technology-govt-of-india-issues-advisory-against-potential-phishing-attacks-in-wake-of-lastpass-data-breach-2930866/?&web_view=true"> Full Text</a>
@@ -117,7 +298,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lake Charles Memorial Hospital Suffered a Ransomware Attack<a href="https://heimdalsecurity.com/blog/louisiana-hospital-suffered-a-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -133,7 +314,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers Signal Inquiries Into U.S. Government’s Use of Foreign Spyware<a href="https://www.nytimes.com/2022/12/28/us/politics/spyware-israel-dea-fbi.html?&web_view=true"> Full Text</a>
@@ -149,7 +330,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus’s Subgroup BlueNoroff Adopts New Malware Delivery Method<a href="https://cyware.com/news/lazaruss-subgroup-bluenoroff-adopts-new-malware-delivery-method-b221c53a"> Full Text</a>
@@ -165,7 +346,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Vulnerability & Patch Roundup December 2022<a href="https://blog.sucuri.net/2022/12/wordpress-vulnerability-patch-roundup-december-2022.html?&web_view=true"> Full Text</a>
@@ -181,7 +362,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2022
+December 29, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GuLoader Uses New Anti-Analysis Techniques to Evade Security Software<a href="https://cyware.com/news/guloader-uses-new-anti-analysis-techniques-to-evade-security-software-bb581395"> Full Text</a>
