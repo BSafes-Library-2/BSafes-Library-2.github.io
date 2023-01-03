@@ -8,6 +8,63 @@ nav_order: 900015
 
 ## Attack
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barbados: QEH progress report on cyberattack<a href="https://www.nationnews.com/2022/12/31/qeh-progress-report-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The out-patients clinic remains open to the public. However, there may be delays and changes to their visit given the current situation. The cybersecurity incident has prevented the department from issuing appointment dates at this time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Cyberattack at CentraState Prompts Hospital to Divert Ambulances<a href="https://www.app.com/story/news/crime/2022/12/30/cybersecurity-problem-at-nj-hospital-prompts-patient-diversion/69767157007/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spokeswoman Lori Palmer said critical care at the hospital has not been affected and the hospital is still taking some walk-in patients. Additionally, outpatient services were to be suspended at 1 PM Friday and remain that way until further notice.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bristol Community College's Computer Systems Hacked in Ransomware Attack<a href="https://www.thesunchronicle.com/news/local_news/bristol-community-college-admits-it-was-ransom-hacked/article_31cd33a3-f58d-58ef-ab4c-00ebdc4e1afd.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The college, which has a campus in Attleboro, said in a statement posted Friday on its website its computer network was hacked by a “criminal cyberattack” and “this incident involved ransomware encryption.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia cyberattacks aim at destabilizing Poland, security agency warns<a href="https://securityaffairs.com/140216/cyber-warfare-2/pro-russia-cyberattacks-hit-poland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland security agency warns pro-Russian hackers that are continuously targeting the state since the start of the invasion of Ukraine.
+Since the beginning of the invasion of Ukraine, Poland has been a constant target of cyber attacks conducted by pro-Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

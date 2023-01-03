@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barbados: QEH progress report on cyberattack<a href="https://www.nationnews.com/2022/12/31/qeh-progress-report-cyber-attack/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SecurityAffairs Top 10 cybersecurity posts of 2022<a href="https://securityaffairs.com/140237/security/securityaffairs-top-10-cybersecurity-posts-2022.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Possible Cyberattack at CentraState Prompts Hospital to Divert Ambulances<a href="https://www.app.com/story/news/crime/2022/12/30/cybersecurity-problem-at-nj-hospital-prompts-patient-diversion/69767157007/?&web_view=true"> Full Text</a>
@@ -84,7 +84,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyTorch compromised to demonstrate dependency confusion attack on Python environments<a href="https://securityaffairs.com/140228/hacking/pytorch-confusion-attack.html"> Full Text</a>
@@ -101,7 +101,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bristol Community College's Computer Systems Hacked in Ransomware Attack<a href="https://www.thesunchronicle.com/news/local_news/bristol-community-college-admits-it-was-ransom-hacked/article_31cd33a3-f58d-58ef-ab4c-00ebdc4e1afd.html?&web_view=true"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia cyberattacks aim at destabilizing Poland, security agency warns<a href="https://securityaffairs.com/140216/cyber-warfare-2/pro-russia-cyberattacks-hit-poland.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland warns of pro-Kremlin cyberattacks aimed at destabilization<a href="https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destabilization/?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google will pay $29.5M to settle two lawsuits over its location tracking practices<a href="https://securityaffairs.com/140206/laws-and-regulations/google-pays-29-5m-location-tracking.html"> Full Text</a>
@@ -167,7 +167,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers never let a critical vulnerability go to waste<a href="https://www.helpnetsecurity.com/2023/01/02/threat-detection-events/?&web_view=true"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2023
+January 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3Commas API Database Leaked by Anonymous Hacker<a href="https://www.hackread.com/3commas-api-database-leak-anonymous-hacker/?&web_view=true"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined Jan, 2023
+January 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedZei Chinese Scammers Targeting Chinese Students in the U.K.<a href="https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html"> Full Text</a>
@@ -215,7 +215,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined Jan, 2023
+January 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyTorch Machine Learning Framework Compromised with Malicious Dependency<a href="https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html"> Full Text</a>
@@ -231,7 +231,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined Jan, 2023
+January 2, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Security Alert: New Linux Malware Exploiting Over Two Dozen CMS Flaws<a href="https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html"> Full Text</a>
@@ -247,7 +247,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-undefined Jan, 2023
+January 2, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Pay $29.5 Million to Settle Lawsuits Over User Location Tracking<a href="https://thehackernews.com/2023/01/google-to-pay-295-million-to-settle.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 1, 2023
+January 1, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit apologized for the attack on the SickKids pediatric hospital and releases a free decryptor<a href="https://securityaffairs.com/140193/cyber-crime/lockbit-apologized-attack-sickkids.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 1, 2023
+January 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 400 by Pierluigi Paganini<a href="https://securityaffairs.com/140189/uncategorized/security-affairs-newsletter-round-400-by-pierluigi-paganini.html"> Full Text</a>
@@ -298,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 31, 2022
+December 31, 2022 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal health information of 42M Americans leaked between 2016 and 2021<a href="https://securityaffairs.com/140174/hacking/healthcare-phi-42m-americans-leaked.html"> Full Text</a>
@@ -315,7 +315,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 31, 2022
+December 31, 2022 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising campaign MasquerAds abuses Google Ads<a href="https://securityaffairs.com/140127/cyber-crime/malvertising-campaign-google-ads.html"> Full Text</a>

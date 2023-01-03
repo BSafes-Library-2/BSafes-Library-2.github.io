@@ -8,6 +8,64 @@ nav_order: 900029
 
 ## Breach
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyTorch compromised to demonstrate dependency confusion attack on Python environments<a href="https://securityaffairs.com/140228/hacking/pytorch-confusion-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised the PyTorch Machine Learning Framework by adding a malicious dependency.
+The maintainers of the PyTorch package warn of a supply chain attack. Users who have installed PyTorch-nightly on Linux via pip between December 25, 2022...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3Commas API Database Leaked by Anonymous Hacker<a href="https://www.hackread.com/3commas-api-database-leak-anonymous-hacker/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack occurred in early December 2022, during which the hacker gained access to the trading service’s system via the Application Programming Interface (API). How they compromised and accessed the platform’s systems is still a mystery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyTorch Machine Learning Framework Compromised with Malicious Dependency<a href="https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the PyTorch package have warned users who have installed the nightly builds of the library between December 25, 2022, and December 30, 2022, to uninstall and download the latest versions following a&nbsp; dependency confusion attack . "PyTorch-nightly Linux packages installed via pip during that time installed a dependency,&nbsp; torchtriton , which was compromised on the Python Package Index (PyPI) code repository and ran a malicious binary," the PyTorch team&nbsp; said &nbsp;in an alert over the weekend. PyTorch, analogous to Keras and TensorFlow, is an open source Python-based machine learning framework that was originally developed by Meta Platforms. The PyTorch team said that it became aware of the malicious dependency on December 30, 4:40 p.m. GMT. The supply chain attack entailed uploading the malware-laced copy of a legitimate dependency named torchtriton to the Python Package Index (PyPI) code repository. Since package managers like pip check public code registr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal health information of 42M Americans leaked between 2016 and 2021<a href="https://securityaffairs.com/140174/hacking/healthcare-phi-42m-americans-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks have had access to the medical records of 42 million Americans since 2016 as the number of hacks on healthcare organizations doubled.
+Medical records of 42 million Americans are being sold on the dark web since 2016, this information comes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

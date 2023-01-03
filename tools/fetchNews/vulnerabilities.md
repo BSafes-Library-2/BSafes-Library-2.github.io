@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NETGEAR fixes a severe bug in its routers. Patch it asap!<a href="https://securityaffairs.com/140144/security/netgear-buffer-overflow-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netgear addressed a high-severity bug affecting multiple WiFi router models, including Wireless AC Nighthawk,&nbsp;Wireless AX Nighthawk (WiFi 6), and&nbsp;Wireless AC.
+Netgear fixed a bug affecting multiple WiFi router models, including Wireless AC Nighthawk,&nbsp;Wireless...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2018-5430 resides in TIBCO JasperReports Server that may allow someone read-only access to the contents of the web application. CVE-2018-18809 in TIBCO JasperReports Library contains a directory-traversal vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

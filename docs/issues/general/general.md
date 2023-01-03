@@ -8,6 +8,52 @@ nav_order: 900072
 
 ## General
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SecurityAffairs Top 10 cybersecurity posts of 2022<a href="https://securityaffairs.com/140237/security/securityaffairs-top-10-cybersecurity-posts-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These are the most-read cybersecurity articles that have been published by SecurtiyAffairs in 2022.
+1 - Russia-linked actors may be behind an explosion at a liquefied natural gas plant in Texas
+Russian threat actors may be behind the explosion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers never let a critical vulnerability go to waste<a href="https://www.helpnetsecurity.com/2023/01/02/threat-detection-events/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“When it comes to cybersecurity, not all vulnerabilities are created equal, and many of the ones that garner media attention actually turn out to be insignificant,” said Bob Rudis, VP Research &amp; Data Science, GreyNoise Intelligence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 400 by Pierluigi Paganini<a href="https://securityaffairs.com/140189/uncategorized/security-affairs-newsletter-round-400-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+Personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Malware For Sale on Darkweb Forums<a href="https://cyware.com/news/multiple-malware-for-sale-on-darkweb-forums-d7b8c587"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have spotted a new threat group, dubbed PureCoder, selling multiple malware, including miners, information stealers, and crypters, on the dark web.&nbsp;Recently, Italian cyber security agency TG Soft identified that the PureLogs information stealer was used by Alibaba2044 threat actors ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit apologized for the attack on the SickKids pediatric hospital and releases a free decryptor<a href="https://securityaffairs.com/140193/cyber-crime/lockbit-apologized-attack-sickkids.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group formally apologized for the attack on the Hospital for Sick Children (SickKids) and gave to the victim a decryptor for free.
+The LockBit ransomware gang formally apologized for the attack on the Hospital for Sick Children...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

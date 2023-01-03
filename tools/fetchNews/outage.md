@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 30, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Port of Lisbon Website Still Down as LockBit Gang Claims Cyberattack<a href="https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Administration of the Port of Lisbon (APL) is working permanently and closely with all the competent authorities, in order to guarantee the security of the systems and respective data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay $29.5 Million to Settle Lawsuits Over User Location Tracking<a href="https://thehackernews.com/2023/01/google-to-pay-295-million-to-settle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has agreed to pay a total of $29.5 million to settle two different lawsuits brought by Indiana and Washington, D.C., over its "deceptive" location tracking practices. The search and advertising giant is required to pay&nbsp; $9.5 million to D.C. &nbsp;and&nbsp; $20 million to Indiana &nbsp;after the states sued the company for charges that the company tracked users' locations without their express consent. The settlement adds to the&nbsp; $391.5 million &nbsp;Google agreed to pay to 40 states over similar allegations last month. The company is still facing two more location-tracking lawsuits in&nbsp; Texas &nbsp;and&nbsp; Washington . The lawsuits came in response to revelations in 2018 that the internet company continued to track users' whereabouts on Android and iOS through a setting called&nbsp; Web &amp; App Activity &nbsp;despite turning&nbsp; Location History &nbsp;options off. Google was also accused of employing&nbsp; dark patterns , which refer to design choices intended to deceive users into carrying out actions t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
