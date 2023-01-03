@@ -34,7 +34,305 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barbados: QEH progress report on cyberattack<a href="https://www.nationnews.com/2022/12/31/qeh-progress-report-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The out-patients clinic remains open to the public. However, there may be delays and changes to their visit given the current situation. The cybersecurity incident has prevented the department from issuing appointment dates at this time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SecurityAffairs Top 10 cybersecurity posts of 2022<a href="https://securityaffairs.com/140237/security/securityaffairs-top-10-cybersecurity-posts-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These are the most-read cybersecurity articles that have been published by SecurtiyAffairs in 2022.
+1 - Russia-linked actors may be behind an explosion at a liquefied natural gas plant in Texas
+Russian threat actors may be behind the explosion...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Cyberattack at CentraState Prompts Hospital to Divert Ambulances<a href="https://www.app.com/story/news/crime/2022/12/30/cybersecurity-problem-at-nj-hospital-prompts-patient-diversion/69767157007/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spokeswoman Lori Palmer said critical care at the hospital has not been affected and the hospital is still taking some walk-in patients. Additionally, outpatient services were to be suspended at 1 PM Friday and remain that way until further notice.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyTorch compromised to demonstrate dependency confusion attack on Python environments<a href="https://securityaffairs.com/140228/hacking/pytorch-confusion-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors compromised the PyTorch Machine Learning Framework by adding a malicious dependency.
+The maintainers of the PyTorch package warn of a supply chain attack. Users who have installed PyTorch-nightly on Linux via pip between December 25, 2022...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bristol Community College's Computer Systems Hacked in Ransomware Attack<a href="https://www.thesunchronicle.com/news/local_news/bristol-community-college-admits-it-was-ransom-hacked/article_31cd33a3-f58d-58ef-ab4c-00ebdc4e1afd.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The college, which has a campus in Attleboro, said in a statement posted Friday on its website its computer network was hacked by a “criminal cyberattack” and “this incident involved ransomware encryption.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia cyberattacks aim at destabilizing Poland, security agency warns<a href="https://securityaffairs.com/140216/cyber-warfare-2/pro-russia-cyberattacks-hit-poland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland security agency warns pro-Russian hackers that are continuously targeting the state since the start of the invasion of Ukraine.
+Since the beginning of the invasion of Ukraine, Poland has been a constant target of cyber attacks conducted by pro-Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland warns of pro-Kremlin cyberattacks aimed at destabilization<a href="https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destabilization/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattacks on Poland’s government services, private companies, media organizations, and ordinary citizens have intensified over the past year, Poland’s security agency said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will pay $29.5M to settle two lawsuits over its location tracking practices<a href="https://securityaffairs.com/140206/laws-and-regulations/google-pays-29-5m-location-tracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will pay $29.5 million to settle two different lawsuits in the US over its deceptive location tracking practices.
+Google decided to pay $29.5 million to settle two different lawsuits brought by the states of Indiana and Washington, D.C., over...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers never let a critical vulnerability go to waste<a href="https://www.helpnetsecurity.com/2023/01/02/threat-detection-events/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“When it comes to cybersecurity, not all vulnerabilities are created equal, and many of the ones that garner media attention actually turn out to be insignificant,” said Bob Rudis, VP Research & Data Science, GreyNoise Intelligence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3Commas API Database Leaked by Anonymous Hacker<a href="https://www.hackread.com/3commas-api-database-leak-anonymous-hacker/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack occurred in early December 2022, during which the hacker gained access to the trading service’s system via the Application Programming Interface (API). How they compromised and accessed the platform’s systems is still a mystery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined Jan, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedZei Chinese Scammers Targeting Chinese Students in the U.K.<a href="https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese international students in the U.K. have been targeted by persistent Chinese-speaking scammers for over a year as part of an activity dubbed  RedZei  (aka RedThief). "The RedZei fraudsters have chosen their targets carefully, researched them and realized it was a rich victim group that is ripe for exploitation," cybersecurity researcher Will Thomas (@BushidoToken)  said  in a write-up published last week. The most notable aspect about the operation is the steps taken by the threat actors to bypass steps taken by users to prevent scam calls, using a new pay-as-you-go U.K. phone number for each wave so as to render phone number-based blocking ineffective. Thomas, pointing out the meticulous tradecraft employed by the scammers, said the threat actor alternates between SIMs from several mobile carriers such as Three, O2, EE, Tesco Mobile, and Telia. Indications are that the lucrative RedZei campaign may have started as far back as August 2019, with a report from The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined Jan, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyTorch Machine Learning Framework Compromised with Malicious Dependency<a href="https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the PyTorch package have warned users who have installed the nightly builds of the library between December 25, 2022, and December 30, 2022, to uninstall and download the latest versions following a  dependency confusion attack . "PyTorch-nightly Linux packages installed via pip during that time installed a dependency,  torchtriton , which was compromised on the Python Package Index (PyPI) code repository and ran a malicious binary," the PyTorch team  said  in an alert over the weekend. PyTorch, analogous to Keras and TensorFlow, is an open source Python-based machine learning framework that was originally developed by Meta Platforms. The PyTorch team said that it became aware of the malicious dependency on December 30, 4:40 p.m. GMT. The supply chain attack entailed uploading the malware-laced copy of a legitimate dependency named torchtriton to the Python Package Index (PyPI) code repository. Since package managers like pip check public code registr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined Jan, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Security Alert: New Linux Malware Exploiting Over Two Dozen CMS Flaws<a href="https://thehackernews.com/2023/01/wordpress-security-alert-new-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress sites are being targeted by a previously unknown strain of Linux malware that exploits flaws in over two dozen plugins and themes to compromise vulnerable systems. "If sites use outdated versions of such add-ons, lacking crucial fixes, the targeted web pages are injected with malicious JavaScripts," Russian security vendor Doctor Web  said  in a report published last week. "As a result, when users click on any area of an attacked page, they are redirected to other sites." The attacks involve weaponizing a list of known security vulnerabilities in 19 different plugins and themes that are likely installed on a WordPress site, using it to deploy an implant that can target a specific website to further expand the network. It's also capable of injecting JavaScript code retrieved from a remote server in order to redirect the site visitors to an arbitrary website of the attacker's choice. Doctor Web said it identified a second version of the backdoor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+undefined Jan, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Pay $29.5 Million to Settle Lawsuits Over User Location Tracking<a href="https://thehackernews.com/2023/01/google-to-pay-295-million-to-settle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has agreed to pay a total of $29.5 million to settle two different lawsuits brought by Indiana and Washington, D.C., over its "deceptive" location tracking practices. The search and advertising giant is required to pay  $9.5 million to D.C.  and  $20 million to Indiana  after the states sued the company for charges that the company tracked users' locations without their express consent. The settlement adds to the  $391.5 million  Google agreed to pay to 40 states over similar allegations last month. The company is still facing two more location-tracking lawsuits in  Texas  and  Washington . The lawsuits came in response to revelations in 2018 that the internet company continued to track users' whereabouts on Android and iOS through a setting called  Web & App Activity  despite turning  Location History  options off. Google was also accused of employing  dark patterns , which refer to design choices intended to deceive users into carrying out actions t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit apologized for the attack on the SickKids pediatric hospital and releases a free decryptor<a href="https://securityaffairs.com/140193/cyber-crime/lockbit-apologized-attack-sickkids.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group formally apologized for the attack on the Hospital for Sick Children (SickKids) and gave to the victim a decryptor for free.
+The LockBit ransomware gang formally apologized for the attack on the Hospital for Sick Children...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 400 by Pierluigi Paganini<a href="https://securityaffairs.com/140189/uncategorized/security-affairs-newsletter-round-400-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Personal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal health information of 42M Americans leaked between 2016 and 2021<a href="https://securityaffairs.com/140174/hacking/healthcare-phi-42m-americans-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crooks have had access to the medical records of 42 million Americans since 2016 as the number of hacks on healthcare organizations doubled.
+Medical records of 42 million Americans are being sold on the dark web since 2016, this information comes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 31, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising campaign MasquerAds abuses Google Ads<a href="https://securityaffairs.com/140127/cyber-crime/malvertising-campaign-google-ads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new Malvertising Campaign abusing Google Ads that targets users searching for popular software.
+Guardio Labs researchers uncovered a malvertising campaign, tracked as MasquerAds and attributed to a threat actor known as Vermux, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2022 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Malware For Sale on Darkweb Forums<a href="https://cyware.com/news/multiple-malware-for-sale-on-darkweb-forums-d7b8c587"> Full Text</a>
@@ -50,7 +348,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux malware targets WordPress sites by exploiting 30 bugs<a href="https://securityaffairs.com/140153/cyber-crime/linux-malware-wordpress-websites.html"> Full Text</a>
@@ -67,7 +365,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal ransomware Group Claims Attacking Iowa PBS station<a href="https://therecord.media/royal-ransomware-group-claims-it-attacked-iowa-pbs-station/?&web_view=true"> Full Text</a>
@@ -83,7 +381,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NETGEAR fixes a severe bug in its routers. Patch it asap!<a href="https://securityaffairs.com/140144/security/netgear-buffer-overflow-routers.html"> Full Text</a>
@@ -100,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Drain Cryptocurrency Worth Millions From Crypto-Wallets<a href="https://cyware.com/news/hackers-drain-cryptocurrency-worth-millions-from-crypto-wallets-8840c058"> Full Text</a>
@@ -116,7 +414,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit ransomware gang claims to have hacked the Port of Lisbon<a href="https://securityaffairs.com/140137/cyber-crime/lockbit-group-port-of-lisbon.html"> Full Text</a>
@@ -134,7 +432,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads Abused to Spread Malware<a href="https://cyware.com/news/google-ads-abused-to-spread-malware-52447edd"> Full Text</a>
@@ -150,7 +448,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html"> Full Text</a>
@@ -167,7 +465,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Toy Maker Jakks Pacific Reports Cyberattack<a href="https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/?&web_view=true"> Full Text</a>
@@ -183,7 +481,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Port of Lisbon Website Still Down as LockBit Gang Claims Cyberattack<a href="https://therecord.media/port-of-lisbon-website-still-down-as-lockbit-gang-claims-cyberattack/?&web_view=true"> Full Text</a>
@@ -199,7 +497,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2022
+December 30, 2022 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds JasperReports vulnerabilities to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140131/security/known-exploited-vulnerabilities-catalog-jasperreports.html?&web_view=true"> Full Text</a>
