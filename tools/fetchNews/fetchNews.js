@@ -314,7 +314,7 @@ function getTheHackerNews($content, fn) {
 	  var itemLabel = $thisNew.find('.item-label').html();
 	  var dateStr =  itemLabel.split('</i>')[1].split('</span>')[0];
 	  var parts = dateStr.split(' ');
-      thisItem.date = shortMonths[parts[1].toUpperCase()]+ ' ' + parts[0] + ', ' + parts[2] ;
+      thisItem.date = shortMonths[parts[0].toUpperCase()]+ ' ' + parts[1] +  parts[2] ;
       thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
       newItems.push(thisItem);
     }
@@ -469,7 +469,7 @@ const shortMonths = {
 	'SEPT': 'September',
 	'OCT': 'October',
 	'NOV': 'November',
-	'Dec': 'December'
+	'DEC': 'December'
 }
 
 
