@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Copper Mountain Mining Corporation (CMMC) shut down the mill after a ransomware attack<a href="https://securityaffairs.com/140282/cyber-crime/canadian-cmmc-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian Copper Mountain Mining Corporation (CMMC) was&nbsp;hit with a ransomware attack that impacted its operations.
+The Canadian Copper Mountain Mining Corporation (CMMC) announced to have suffered a ransomware attack late on&nbsp;December 27, 2022,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Los Angeles Housing Authority Says Cyberattack Disrupting Systems<a href="https://therecord.media/los-angeles-housing-authority-says-cyberattack-disrupting-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Housing Authority of the City of Los Angeles (HACLA) has confirmed that it is dealing with a cyberattack after the agency appeared on the leak site of the LockBit ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,78 @@ nav_order: 900072
 
 ## General
 ---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Data Quantifies Ransomware Attacks on Healthcare Providers<a href="https://www.lawfareblog.com/new-data-quantifies-ransomware-attacks-healthcare-providers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three recommendations to policymakers interested in supporting a data-driven approach to enhancing cybersecurity in healthcare.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does Volvo Cars suffer a new data breach?<a href="https://securityaffairs.com/140258/hacking/volvo-cars-data-breach-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A post published on a popular hacking forum claims Volvo Cars has suffered a new data breach, alleging stolen data available for sale.
+French cybersecurity Anis Haboubi yesterday first noticed that a threat actor was attempting to sell data allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks hit 105 US local governments in 2022<a href="https://securityaffairs.com/140242/cyber-crime/ransomware-attacks-emsisoft-report-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, ransomware attacks targeted 105 state or municipal governments or agencies in the US, reads a report published by Emsisoft.
+According to the "The State of Ransomware in the US: Report and Statistics 2022" report published by Emsisoft, the number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does Volvo Cars suffer a new data breach?<a href="https://securityaffairs.com/140258/hacking/volvo-cars-data-breach-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Anis Haboubi yesterday first noticed that a threat actor was attempting to sell data allegedly stolen from Volvo Cars on a popular hacking forum. A forum member claimed on December 31, 2022, that it fell victim to a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You Cannot Escape Cybersecurity<a href="https://www.forbes.com/sites/forbestechcouncil/2022/12/30/you-cannot-escape-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many companies don't realize just how intertwined we are with our suppliers nowadays. Most of the software and data we rely upon today are no longer on our devices; they are in someone else's server, data center or cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

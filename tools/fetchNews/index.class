@@ -33,6 +33,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 
 ## News
 {: .fs-6 .label .label-yellow }
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 42 Million Americans on the Dark Web - Revealed Research<a href="https://cyware.com/news/data-of-42-million-americans-on-the-dark-web-revealed-research-0fa2f6fd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Jama Network stumbled across the medical information of approximately 42 million Americans being offered on underground marketplaces, since 2016. The study analyzed trends in ransomware attacks on U.S. healthcare institutions between 2016 and 2021. The number of attacks in that period h ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03,2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement vs. Enrollment-based Security: How to Balance Security and Employee Trust<a href="https://thehackernews.com/2023/01/enforcement-vs-enrollment-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Challenges with an enforcement-based approach An enforcement-based approach to security begins with a security policy backed by security controls, often heavy-handed and designed to prevent employees from engaging in risky behavior or inadvertently expanding the potential attack surface of an organization.  Most organizations exclusively use enforcement-based security controls, usually carried out at the network level with a Cloud Access Security Broker (CASB) or a Security Services Edge (SSE). CASBs secure data between on-premises and cloud architectures, validate authorization rules, and access controls against the company's security policy. Some organizations also use CASBs to block SaaS applications, but like SSEs, CASBs only support  some  applications. The applications these tools  don't  support are often the riskiest because they don't meet common industry and security standards, including SAML for authentication and SCIM for user management. At Cerby, these are called "unm
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Data Quantifies Ransomware Attacks on Healthcare Providers<a href="https://www.lawfareblog.com/new-data-quantifies-ransomware-attacks-healthcare-providers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three recommendations to policymakers interested in supporting a data-driven approach to enhancing cybersecurity in healthcare.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology fixes multiple critical vulnerabilities in its routers<a href="https://securityaffairs.com/140288/security/synology-fixes-critical-flaws-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology fixed several critical flaws in its routers, including flaws likely demonstrated at the Pwn2Own 2022 hacking contest.
+Taiwanese NAS maker Synology published two new critical advisories in December. The first advisory is related to the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Found CatB Ransomware Uses DLL Hijacking to Evade Detection<a href="https://cyware.com/news/newly-found-catb-ransomware-uses-dll-hijacking-to-evade-detection-685dd2c8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified CatB ransomware group has been found implementing several anti-VM and DLL hijacking techniques to evade detection. Before activating anti-evasion techniques, the malware checks for a processor's core, hard drive size, and physical memory of targeted machines. The ransomware is be ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Stolen Bank Information to Trick Victims into Downloading BitRAT Malware<a href="https://thehackernews.com/2023/01/hackers-using-stolen-bank-information.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been observed using sensitive information stolen from a bank as a lure in phishing emails to drop a remote access trojan called  BitRAT . The unknown adversary is believed to have hijacked the IT infrastructure of a Colombian cooperative bank, using the information to craft convincing decoy messages to lure victims into opening suspicious Excel attachments. The discovery comes from cybersecurity firm Qualys, which  found  evidence of a database dump comprising 418,777 records that's said to have been obtained by exploiting SQL injection faults. The leaked details include Cédula numbers (a national identity document issued to Colombian citizens), email addresses, phone numbers, customer names, payment records, salary details, and addresses, among others. There are no signs that the information has been previously shared on any forums in the darknet or clear web, suggesting that the threat actors themselves got access to customer data to mount the phi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Copper Mountain Mining Corporation (CMMC) shut down the mill after a ransomware attack<a href="https://securityaffairs.com/140282/cyber-crime/canadian-cmmc-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian Copper Mountain Mining Corporation (CMMC) was hit with a ransomware attack that impacted its operations.
+The Canadian Copper Mountain Mining Corporation (CMMC) announced to have suffered a ransomware attack late on December 27, 2022,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Los Angeles Housing Authority Says Cyberattack Disrupting Systems<a href="https://therecord.media/los-angeles-housing-authority-says-cyberattack-disrupting-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Housing Authority of the City of Los Angeles (HACLA) has confirmed that it is dealing with a cyberattack after the agency appeared on the leak site of the LockBit ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin Worm Evolves to Attack Financial and Insurance Sectors in Europe<a href="https://thehackernews.com/2023/01/raspberry-robin-worm-evolves-to-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial and insurance sectors in Europe have been targeted by the Raspberry Robin worm, as the malware continues to evolve its post-exploitation capabilities while remaining under the radar. "What is unique about the malware is that it is heavily obfuscated and highly complex to statically disassemble," Security Joes  said  in a new report published Monday. The intrusions, observed against Spanish and Portuguese-speaking organizations, are notable for collecting more victim machine data than previously documented, with the malware now exhibiting sophisticated techniques to resist analysis. Raspberry Robin, also called QNAP worm, is  being used  by several threat actors as a means to gain a foothold into target networks. Spread via infected USB drives and other methods, the framework has been recently put to use in attacks aimed at telecom and government sectors. Microsoft is tracking the operators of Raspberry Robin under the moniker  DEV-0856 . Security Joes' f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BitRAT campaign relies on stolen sensitive bank data as a lure<a href="https://securityaffairs.com/140268/malware/bitrat-bank-data-lures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new malware campaign using sensitive information stolen from a bank as a lure to spread the remote access trojan BitRAT.
+Qualys experts spotted a new malware campaign spreading a remote access trojan called BitRAT using sensitive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in Synology Routers<a href="https://www.securityweek.com/critical-vulnerabilities-patched-synology-routers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based networking and storage solutions provider Synology has informed customers about the availability of patches for several critical vulnerabilities, including flaws likely exploited recently at the Pwn2Own hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does Volvo Cars suffer a new data breach?<a href="https://securityaffairs.com/140258/hacking/volvo-cars-data-breach-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A post published on a popular hacking forum claims Volvo Cars has suffered a new data breach, alleging stolen data available for sale.
+French cybersecurity Anis Haboubi yesterday first noticed that a threat actor was attempting to sell data allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 300 Vulnerabilities Patched in Huawei's HarmonyOS in 2022<a href="https://www.securityweek.com/nearly-300-vulnerabilities-patched-huaweis-harmonyos-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis conducted by SecurityWeek shows that more than 290 vulnerabilities were patched in HarmonyOS in 2022, including nearly 100 security flaws affecting third-party libraries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attacks hit 105 US local governments in 2022<a href="https://securityaffairs.com/140242/cyber-crime/ransomware-attacks-emsisoft-report-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, ransomware attacks targeted 105 state or municipal governments or agencies in the US, reads a report published by Emsisoft.
+According to the "The State of Ransomware in the US: Report and Statistics 2022" report published by Emsisoft, the number...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does Volvo Cars suffer a new data breach?<a href="https://securityaffairs.com/140258/hacking/volvo-cars-data-breach-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researcher Anis Haboubi yesterday first noticed that a threat actor was attempting to sell data allegedly stolen from Volvo Cars on a popular hacking forum. A forum member claimed on December 31, 2022, that it fell victim to a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Celebrated Chrismas Week with Malicious PyTorch Dependency<a href="https://cyware.com/news/hackers-celebrated-chrismas-week-with-malicious-pytorch-dependency-4d95fa08"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyTorch team has identified a malicious dependency within its framework library. The package was the homonym for the torchtriton dependency. Exploiting it, a hacker could successfully trigger dependency confusion attacks, compromising multiple systems. PyTorch admins advised users to uninstall the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You Cannot Escape Cybersecurity<a href="https://www.forbes.com/sites/forbestechcouncil/2022/12/30/you-cannot-escape-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many companies don't realize just how intertwined we are with our suppliers nowadays. Most of the software and data we rely upon today are no longer on our devices; they are in someone else's server, data center or cloud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>

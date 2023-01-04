@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Found CatB Ransomware Uses DLL Hijacking to Evade Detection<a href="https://cyware.com/news/newly-found-catb-ransomware-uses-dll-hijacking-to-evade-detection-685dd2c8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A newly identified CatB ransomware group has been found implementing several anti-VM and DLL hijacking techniques to evade detection. Before activating anti-evasion techniques, the malware checks for a processor's core, hard drive size, and physical memory of targeted machines. The ransomware is be ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 03,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement vs. Enrollment-based Security: How to Balance Security and Employee Trust<a href="https://thehackernews.com/2023/01/enforcement-vs-enrollment-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Challenges with an enforcement-based approach An enforcement-based approach to security begins with a security policy backed by security controls, often heavy-handed and designed to prevent employees from engaging in risky behavior or inadvertently expanding the potential attack surface of an organization.&nbsp; Most organizations exclusively use enforcement-based security controls, usually carried out at the network level with a Cloud Access Security Broker (CASB) or a Security Services Edge (SSE). CASBs secure data between on-premises and cloud architectures, validate authorization rules, and access controls against the company's security policy. Some organizations also use CASBs to block SaaS applications, but like SSEs, CASBs only support&nbsp; some &nbsp;applications. The applications these tools&nbsp; don't &nbsp;support are often the riskiest because they don't meet common industry and security standards, including SAML for authentication and SCIM for user management. At Cerby, these are called "unm
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 Dec 02, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

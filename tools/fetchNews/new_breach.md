@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 42 Million Americans on the Dark Web - Revealed Research<a href="https://cyware.com/news/data-of-42-million-americans-on-the-dark-web-revealed-research-0fa2f6fd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Jama Network stumbled across the medical information of approximately 42 million Americans being offered on underground marketplaces, since 2016. The study analyzed trends in ransomware attacks on U.S. healthcare institutions between 2016 and 2021. The number of attacks in that period h ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

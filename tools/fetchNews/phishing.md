@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedZei Chinese Scammers Targeting Chinese Students in the U.K.<a href="https://thehackernews.com/2023/01/redzei-chinese-scammers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese international students in the U.K. have been targeted by persistent Chinese-speaking scammers for over a year as part of an activity dubbed&nbsp; RedZei &nbsp;(aka RedThief). "The RedZei fraudsters have chosen their targets carefully, researched them and realized it was a rich victim group that is ripe for exploitation," cybersecurity researcher Will Thomas (@BushidoToken)&nbsp; said &nbsp;in a write-up published last week. The most notable aspect about the operation is the steps taken by the threat actors to bypass steps taken by users to prevent scam calls, using a new pay-as-you-go U.K. phone number for each wave so as to render phone number-based blocking ineffective. Thomas, pointing out the meticulous tradecraft employed by the scammers, said the threat actor alternates between SIMs from several mobile carriers such as Three, O2, EE, Tesco Mobile, and Telia. Indications are that the lucrative RedZei campaign may have started as far back as August 2019, with a report from The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 31, 2022 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising campaign MasquerAds abuses Google Ads<a href="https://securityaffairs.com/140127/cyber-crime/malvertising-campaign-google-ads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new Malvertising Campaign abusing Google Ads that targets users searching for popular software.
+Guardio Labs researchers uncovered a malvertising campaign, tracked as MasquerAds and attributed to a threat actor known as Vermux, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

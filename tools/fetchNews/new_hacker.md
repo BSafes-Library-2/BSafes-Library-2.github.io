@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 03,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Stolen Bank Information to Trick Victims into Downloading BitRAT Malware<a href="https://thehackernews.com/2023/01/hackers-using-stolen-bank-information.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been observed using sensitive information stolen from a bank as a lure in phishing emails to drop a remote access trojan called&nbsp; BitRAT . The unknown adversary is believed to have hijacked the IT infrastructure of a Colombian cooperative bank, using the information to craft convincing decoy messages to lure victims into opening suspicious Excel attachments. The discovery comes from cybersecurity firm Qualys, which&nbsp; found &nbsp;evidence of a database dump comprising 418,777 records that's said to have been obtained by exploiting SQL injection faults. The leaked details include Cédula numbers (a national identity document issued to Colombian citizens), email addresses, phone numbers, customer names, payment records, salary details, and addresses, among others. There are no signs that the information has been previously shared on any forums in the darknet or clear web, suggesting that the threat actors themselves got access to customer data to mount the phi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Celebrated Chrismas Week with Malicious PyTorch Dependency<a href="https://cyware.com/news/hackers-celebrated-chrismas-week-with-malicious-pytorch-dependency-4d95fa08"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyTorch team has identified a malicious dependency within its framework library. The package was the homonym for the torchtriton dependency. Exploiting it, a hacker could successfully trigger dependency confusion attacks, compromising multiple systems. PyTorch admins advised users to uninstall the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

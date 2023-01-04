@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will pay $29.5M to settle two lawsuits over its location tracking practices<a href="https://securityaffairs.com/140206/laws-and-regulations/google-pays-29-5m-location-tracking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google will pay $29.5 million to settle two different lawsuits in the US over its deceptive location tracking practices.
+Google decided to pay $29.5 million to settle two different lawsuits brought by the states of Indiana and Washington, D.C., over...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

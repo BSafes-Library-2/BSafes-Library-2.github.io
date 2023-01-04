@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland warns of pro-Kremlin cyberattacks aimed at destabilization<a href="https://therecord.media/poland-warns-of-pro-kremlin-cyberattacks-aimed-at-destabilization/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattacks on Poland’s government services, private companies, media organizations, and ordinary citizens have intensified over the past year, Poland’s security agency said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

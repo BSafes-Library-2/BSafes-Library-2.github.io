@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology fixes multiple critical vulnerabilities in its routers<a href="https://securityaffairs.com/140288/security/synology-fixes-critical-flaws-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology fixed several critical flaws in its routers, including flaws likely demonstrated at the Pwn2Own 2022 hacking contest.
+Taiwanese NAS maker Synology&nbsp;published two new critical advisories in December. The first advisory is related to the most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in Synology Routers<a href="https://www.securityweek.com/critical-vulnerabilities-patched-synology-routers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwan-based networking and storage solutions provider Synology has informed customers about the availability of patches for several critical vulnerabilities, including flaws likely exploited recently at the Pwn2Own hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 300 Vulnerabilities Patched in Huawei's HarmonyOS in 2022<a href="https://www.securityweek.com/nearly-300-vulnerabilities-patched-huaweis-harmonyos-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis conducted by SecurityWeek shows that more than 290 vulnerabilities were patched in HarmonyOS in 2022, including nearly 100 security flaws affecting third-party libraries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
