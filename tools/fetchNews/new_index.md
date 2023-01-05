@@ -34,7 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Command Injection Flaws Found in Fortinet's FortiTester, FortiADC<a href="https://www.securityweek.com/high-severity-command-injection-flaws-found-fortinets-fortitester-fortiadc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity solutions provider Fortinet this week announced patches for several vulnerabilities across its product portfolio and informed customers about a high-severity command injection bug in FortiADC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm Chipsets and Lenovo BIOS Get Security Updates to Fix Multiple Flaws<a href="https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualcomm on Tuesday  released patches  to address multiple security flaws in its chipsets, some of which could be exploited to cause information disclosure and memory corruption. The five vulnerabilities -- tracked from CVE-2022-40516 through CVE-2022-40520 -- also impact Lenovo ThinkPad X13s laptops, prompting the Chinese PC maker to issue BIOS updates to plug the security holes. The list of flaws is as follows - CVE-2022-40516, CVE-2022-40517 & CVE-2022-40520  (CVSS scores: 8.4) - Memory corruption in Core due to  stack-based buffer overflow CVE-2022-40518 & CVE-2022-40519  (CVSS scores: 6.8) - Information disclosure due to  buffer over-read  in Core Stack-based buffer overflow vulnerabilities can result in severe impacts, such as data corruption, system crashes, and arbitrary code execution. Buffer over-reads, on the other hand, can be weaponized to read out-of-bounds memory, leading to the exposure of secret data. Successful exploitation of the aforementioned flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws found in Ferrari, Mercedes, BMW, Porsche, and other carmakers<a href="https://securityaffairs.com/140328/hacking/bmw-mercedes-toyota-other-carmakers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BMW, Mercedes, Toyota, and other popular carmakers use vulnerable APIs that could have allowed attackers to perform malicious activities.
+Cybersecurity researcher Sam Curry and his colleagues discovered many vulnerabilities in the vehicles manufactured...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's First Security Updates for 2023 Patch 60 Vulnerabilities<a href="https://www.securityweek.com/androids-first-security-updates-2023-patch-60-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first part of the security update, which arrives on devices as the 2023-01-01 security patch level, addresses 19 security defects in the Framework and System components.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI's Perspective on Ransomware<a href="https://thehackernews.com/2023/01/the-fbis-perspective-on-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware: contemporary threats, how to prevent them and how the FBI can help In April 2021, Dutch supermarkets faced a food shortage. The cause wasn't a drought or a sudden surge in the demand for avocados. Rather, the reason was a ransomware attack. In the past years, companies, universities, schools, medical facilities and other organizations have been targeted by ransomware threat actors, turning ransomware into the internet's most severe security crisis. The Ransomware Landscape Ransomware has existed for more than 30 years, but it became a lucrative source of income for cyber actors and gangs in the past decade. Since 2015, ransomware gangs have been targeting organizations instead of individuals. Consequently, ransom sums have increased significantly, reaching millions of dollars. Ransomware is effective because it pressures victims in two, complementary ways. First, by threatening victims to destroy their data. Second, by threatening to publicize the attack. The s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Database of the Cricketsocial.com platform left open online<a href="https://securityaffairs.com/140329/data-breach/cricketsocial-com-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews reported that Cricketsocial.com, a social platform for the cricket community, exposed private customer data and admin credentials.
+Cricketsocial.com, is a social platform developed for the cricket community online. CyberNews discovered that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers evolve strategies to outmaneuver security teams<a href="https://www.helpnetsecurity.com/2023/01/04/attackers-evolve-strategies-outmaneuver-security-teams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large corporations (41%) will be the top targeted sector for cyberattacks in 2023, favored over financial institutions (36%), government (14%), healthcare (9%), and education (8%), according to Titaniam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New shc-based Linux Malware Targeting Systems with Cryptocurrency Miner<a href="https://thehackernews.com/2023/01/new-shc-based-linux-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux malware developed using the shell script compiler ( shc ) has been observed deploying a cryptocurrency miner on compromised systems. "It is presumed that after successful authentication through a dictionary attack on inadequately managed Linux SSH servers, various malware were installed on the target system," AhnLab Security Emergency Response Center (ASEC)  said  in a report published today. shc allows shell scripts to be converted directly into binaries, offering protections against unauthorized source code modifications. It's analogous to the  BAT2EXE utility  in Windows that's used to convert any batch file to an executable. In an attack chain detailed by the South Korean cybersecurity firm, a successful compromise of the SSH server leads to the deployment of an shc downloader malware along with a Perl-based DDoS IRC Bot. The shc downloader subsequently proceeds to fetch the XMRig miner software to mine cryptocurrency, with the IRC bot capable o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed multiple command injection bugs in FortiADC and FortiTester<a href="https://securityaffairs.com/140322/security/fortinet-bugs-fortiadc-fortitester.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed multiple vulnerabilities impacting its products and warned of a high-severity command injection flaw in FortiADC.
+Cybersecurity vendor Fortinet addressed several vulnerabilities impacting its products. The compaby also warned customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deezer Admits Third-Party Data Breach That Potentially Exposed Over 220 Million Users’ Information<a href="https://www.musicbusinessworldwide.com/deezer-admits-data-breach-that-potentially-exposed-over-220-million-users-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised information included Deezer users’ dates of birth, email addresses, genders, geographic locations, IP addresses, names, spoken languages, and/or usernames.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers<a href="https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released security updates to address a critical flaw impacting VPN Plus Server that could be exploited to take over affected systems. Tracked as  CVE-2022-43931 , the vulnerability carries a maximum severity rating of 10 on the CVSS scale and has been described as an out-of-bounds write bug in the remote desktop functionality in Synology VPN Plus Server. Successful exploitation of the issue "allows remote attackers to execute arbitrary commands via unspecified vectors," the Taiwanese company  said , adding it was internally discovered by its Product Security Incident Response Team (PSIRT). Users of VPN Plus Server for Synology Router Manager (SRM) 1.2 and VPN Plus Server for SRM 1.3 are advised to update to versions 1.4.3-0534 and 1.4.4-0635, respectively. The network-attached storage appliance maker, in a second advisory, also  warned  of several flaws in SRM that could permit remote attackers to execute arbitrary commands, conduct denial-of-service attack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New shc Linux Malware used to deploy CoinMiner<a href="https://securityaffairs.com/140308/malware/shc-linux-malware-coinminer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new Linux malware developed with the shell script compiler (shc) that was used to deliver a cryptocurrency miner.
+The ASEC analysis team recently discovered that a Linux malware developed with shell script compiler (shc) that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can these researchers help defend satellite systems targeted by hackers?<a href="https://www.cyberscoop.com/space-satellite-cybersecurity-sparta/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new effort is attempting to improve cybersecurity awareness — and preparedness — in a sector that is only beginning to understand the threat it faces from malicious hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US. rail and locomotive company Wabtec hit with Lockbit ransomware<a href="https://securityaffairs.com/140299/cyber-crime/wabtec-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US. rail and locomotive company Wabtec Corporation disclosed a data breach after it was hit with Lockbit ransomware attack.
+Wabtec Corporation is an American company formed by the merger of the Westinghouse Air Brake Company (WABCO)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior Healthcare Firm Pays Breach Settlement to States<a href="https://www.bankinfosecurity.com/senior-healthcare-firm-pays-breach-settlement-to-states-a-20845?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nursing and assisted living care firm that delayed reporting a data breach to authorities paid a $200,000 fine to two state attorneys general and pledged to implement a security incident response plan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New shc Linux Malware Used to Deploy Cryptominer Payload<a href="https://securityaffairs.com/140308/malware/shc-linux-malware-coinminer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The experts believe attackers initially compromised targeted devices through a dictionary attack on poorly protected Linux SSH servers, then they installed multiple malware on the target system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore-Based Cryptocurrency Firm BitKeep Lost Funds in Recent Hacking Incident<a href="https://www.straitstimes.com/singapore/singapore-based-crypto-firm-hit-by-boxing-day-hack-more-than-10-million-lost?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which has not been named in reports, was targeted by skilled cybercriminals who were able to breach the firm’s security systems and gain access to its digital wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Can the White House's New IoT Labels Improve Security?<a href="https://securityintelligence.com/articles/how-white-house-new-iot-labels-improve-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House’s National Security Council (NSC) is working on an ambitious project to improve consumer Internet of Things (IoT) security through industry-standard labeling.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 42 Million Americans on the Dark Web - Revealed Research<a href="https://cyware.com/news/data-of-42-million-americans-on-the-dark-web-revealed-research-0fa2f6fd"> Full Text</a>
@@ -50,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03,2023
+January 03,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcement vs. Enrollment-based Security: How to Balance Security and Employee Trust<a href="https://thehackernews.com/2023/01/enforcement-vs-enrollment-based.html"> Full Text</a>
@@ -66,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Data Quantifies Ransomware Attacks on Healthcare Providers<a href="https://www.lawfareblog.com/new-data-quantifies-ransomware-attacks-healthcare-providers"> Full Text</a>
@@ -82,7 +375,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology fixes multiple critical vulnerabilities in its routers<a href="https://securityaffairs.com/140288/security/synology-fixes-critical-flaws-routers.html"> Full Text</a>
@@ -99,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Found CatB Ransomware Uses DLL Hijacking to Evade Detection<a href="https://cyware.com/news/newly-found-catb-ransomware-uses-dll-hijacking-to-evade-detection-685dd2c8"> Full Text</a>
@@ -115,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03,2023
+January 03,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Stolen Bank Information to Trick Victims into Downloading BitRAT Malware<a href="https://thehackernews.com/2023/01/hackers-using-stolen-bank-information.html"> Full Text</a>
@@ -131,7 +424,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Copper Mountain Mining Corporation (CMMC) shut down the mill after a ransomware attack<a href="https://securityaffairs.com/140282/cyber-crime/canadian-cmmc-ransomware-attack.html"> Full Text</a>
@@ -148,7 +441,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Los Angeles Housing Authority Says Cyberattack Disrupting Systems<a href="https://therecord.media/los-angeles-housing-authority-says-cyberattack-disrupting-systems/?&web_view=true"> Full Text</a>
@@ -164,7 +457,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03,2023
+January 03,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin Worm Evolves to Attack Financial and Insurance Sectors in Europe<a href="https://thehackernews.com/2023/01/raspberry-robin-worm-evolves-to-attack.html"> Full Text</a>
@@ -180,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BitRAT campaign relies on stolen sensitive bank data as a lure<a href="https://securityaffairs.com/140268/malware/bitrat-bank-data-lures.html"> Full Text</a>
@@ -197,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Patched in Synology Routers<a href="https://www.securityweek.com/critical-vulnerabilities-patched-synology-routers?&web_view=true"> Full Text</a>
@@ -213,7 +506,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Does Volvo Cars suffer a new data breach?<a href="https://securityaffairs.com/140258/hacking/volvo-cars-data-breach-2.html"> Full Text</a>
@@ -230,7 +523,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 300 Vulnerabilities Patched in Huawei's HarmonyOS in 2022<a href="https://www.securityweek.com/nearly-300-vulnerabilities-patched-huaweis-harmonyos-2022?&web_view=true"> Full Text</a>
@@ -246,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attacks hit 105 US local governments in 2022<a href="https://securityaffairs.com/140242/cyber-crime/ransomware-attacks-emsisoft-report-2022.html"> Full Text</a>
@@ -263,7 +556,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Does Volvo Cars suffer a new data breach?<a href="https://securityaffairs.com/140258/hacking/volvo-cars-data-breach-2.html?&web_view=true"> Full Text</a>
@@ -279,7 +572,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Celebrated Chrismas Week with Malicious PyTorch Dependency<a href="https://cyware.com/news/hackers-celebrated-chrismas-week-with-malicious-pytorch-dependency-4d95fa08"> Full Text</a>
@@ -295,7 +588,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2023
+January 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 You Cannot Escape Cybersecurity<a href="https://www.forbes.com/sites/forbestechcouncil/2022/12/30/you-cannot-escape-cybersecurity/?&web_view=true"> Full Text</a>
