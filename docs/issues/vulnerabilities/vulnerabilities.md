@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Command Injection Flaws Found in Fortinet's FortiTester, FortiADC<a href="https://www.securityweek.com/high-severity-command-injection-flaws-found-fortinets-fortitester-fortiadc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity solutions provider Fortinet this week announced patches for several vulnerabilities across its product portfolio and informed customers about a high-severity command injection bug in FortiADC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm Chipsets and Lenovo BIOS Get Security Updates to Fix Multiple Flaws<a href="https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qualcomm on Tuesday&nbsp; released patches &nbsp;to address multiple security flaws in its chipsets, some of which could be exploited to cause information disclosure and memory corruption. The five vulnerabilities -- tracked from CVE-2022-40516 through CVE-2022-40520 -- also impact Lenovo ThinkPad X13s laptops, prompting the Chinese PC maker to issue BIOS updates to plug the security holes. The list of flaws is as follows - CVE-2022-40516, CVE-2022-40517 &amp; CVE-2022-40520 &nbsp;(CVSS scores: 8.4) - Memory corruption in Core due to&nbsp; stack-based buffer overflow CVE-2022-40518 &amp; CVE-2022-40519 &nbsp;(CVSS scores: 6.8) - Information disclosure due to&nbsp; buffer over-read &nbsp;in Core Stack-based buffer overflow vulnerabilities can result in severe impacts, such as data corruption, system crashes, and arbitrary code execution. Buffer over-reads, on the other hand, can be weaponized to read out-of-bounds memory, leading to the exposure of secret data. Successful exploitation of the aforementioned flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaws found in Ferrari, Mercedes, BMW, Porsche, and other carmakers<a href="https://securityaffairs.com/140328/hacking/bmw-mercedes-toyota-other-carmakers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BMW, Mercedes, Toyota, and other popular carmakers use vulnerable APIs that could have allowed attackers to perform malicious activities.
+Cybersecurity researcher Sam Curry and his colleagues discovered many vulnerabilities in the vehicles manufactured...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android's First Security Updates for 2023 Patch 60 Vulnerabilities<a href="https://www.securityweek.com/androids-first-security-updates-2023-patch-60-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first part of the security update, which arrives on devices as the 2023-01-01 security patch level, addresses 19 security defects in the Framework and System components.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed multiple command injection bugs in FortiADC and FortiTester<a href="https://securityaffairs.com/140322/security/fortinet-bugs-fortiadc-fortitester.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed multiple vulnerabilities impacting its products and warned of a high-severity command injection flaw in FortiADC.
+Cybersecurity vendor Fortinet addressed several vulnerabilities impacting its products. The compaby also warned customers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 04,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers<a href="https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Synology has released security updates to address a critical flaw impacting VPN Plus Server that could be exploited to take over affected systems. Tracked as&nbsp; CVE-2022-43931 , the vulnerability carries a maximum severity rating of 10 on the CVSS scale and has been described as an out-of-bounds write bug in the remote desktop functionality in Synology VPN Plus Server. Successful exploitation of the issue "allows remote attackers to execute arbitrary commands via unspecified vectors," the Taiwanese company&nbsp; said , adding it was internally discovered by its Product Security Incident Response Team (PSIRT). Users of VPN Plus Server for Synology Router Manager (SRM) 1.2 and VPN Plus Server for SRM 1.3 are advised to update to versions 1.4.3-0534 and 1.4.4-0635, respectively. The network-attached storage appliance maker, in a second advisory, also&nbsp; warned &nbsp;of several flaws in SRM that could permit remote attackers to execute arbitrary commands, conduct denial-of-service attack
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

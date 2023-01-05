@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 235 million Twitter users leaked online<a href="https://securityaffairs.com/140352/data-breach/twitter-data-leak-235m-users.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Command Injection Flaws Found in Fortinet's FortiTester, FortiADC<a href="https://www.securityweek.com/high-severity-command-injection-flaws-found-fortinets-fortitester-fortiadc?&web_view=true"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm Chipsets and Lenovo BIOS Get Security Updates to Fix Multiple Flaws<a href="https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaws found in Ferrari, Mercedes, BMW, Porsche, and other carmakers<a href="https://securityaffairs.com/140328/hacking/bmw-mercedes-toyota-other-carmakers-flaws.html"> Full Text</a>
@@ -100,7 +100,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android's First Security Updates for 2023 Patch 60 Vulnerabilities<a href="https://www.securityweek.com/androids-first-security-updates-2023-patch-60-vulnerabilities?&web_view=true"> Full Text</a>
@@ -116,7 +116,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The FBI's Perspective on Ransomware<a href="https://thehackernews.com/2023/01/the-fbis-perspective-on-ransomware.html"> Full Text</a>
@@ -132,7 +132,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Database of the Cricketsocial.com platform left open online<a href="https://securityaffairs.com/140329/data-breach/cricketsocial-com-data-leak.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers evolve strategies to outmaneuver security teams<a href="https://www.helpnetsecurity.com/2023/01/04/attackers-evolve-strategies-outmaneuver-security-teams/?&web_view=true"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New shc-based Linux Malware Targeting Systems with Cryptocurrency Miner<a href="https://thehackernews.com/2023/01/new-shc-based-linux-malware-targeting.html"> Full Text</a>
@@ -181,7 +181,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet fixed multiple command injection bugs in FortiADC and FortiTester<a href="https://securityaffairs.com/140322/security/fortinet-bugs-fortiadc-fortitester.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deezer Admits Third-Party Data Breach That Potentially Exposed Over 220 Million Users’ Information<a href="https://www.musicbusinessworldwide.com/deezer-admits-data-breach-that-potentially-exposed-over-220-million-users-info/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers<a href="https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New shc Linux Malware used to deploy CoinMiner<a href="https://securityaffairs.com/140308/malware/shc-linux-malware-coinminer.html"> Full Text</a>
@@ -247,7 +247,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can these researchers help defend satellite systems targeted by hackers?<a href="https://www.cyberscoop.com/space-satellite-cybersecurity-sparta/?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US. rail and locomotive company Wabtec hit with Lockbit ransomware<a href="https://securityaffairs.com/140299/cyber-crime/wabtec-lockbit-ransomware.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senior Healthcare Firm Pays Breach Settlement to States<a href="https://www.bankinfosecurity.com/senior-healthcare-firm-pays-breach-settlement-to-states-a-20845?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New shc Linux Malware Used to Deploy Cryptominer Payload<a href="https://securityaffairs.com/140308/malware/shc-linux-malware-coinminer.html?&web_view=true"> Full Text</a>
@@ -312,7 +312,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore-Based Cryptocurrency Firm BitKeep Lost Funds in Recent Hacking Incident<a href="https://www.straitstimes.com/singapore/singapore-based-crypto-firm-hit-by-boxing-day-hack-more-than-10-million-lost?&web_view=true"> Full Text</a>
@@ -328,7 +328,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Can the White House's New IoT Labels Improve Security?<a href="https://securityintelligence.com/articles/how-white-house-new-iot-labels-improve-security/?&web_view=true"> Full Text</a>

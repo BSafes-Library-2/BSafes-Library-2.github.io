@@ -8,6 +8,64 @@ nav_order: 900029
 
 ## Breach
 ---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 235 million Twitter users leaked online<a href="https://securityaffairs.com/140352/data-breach/twitter-data-leak-235m-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A database containing email addresses of 235,000,000 Twitter users has been offered on a popular hacker forum.
+A data leak containing email addresses for 235 million Twitter users has been published on a popular hacker forum. Many experts have immediately...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Database of the Cricketsocial.com platform left open online<a href="https://securityaffairs.com/140329/data-breach/cricketsocial-com-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews reported that Cricketsocial.com, a social platform for the cricket community, exposed private customer data and admin credentials.
+Cricketsocial.com, is a social platform developed for the cricket community online. CyberNews discovered that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deezer Admits Third-Party Data Breach That Potentially Exposed Over 220 Million Users’ Information<a href="https://www.musicbusinessworldwide.com/deezer-admits-data-breach-that-potentially-exposed-over-220-million-users-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised information included Deezer users’ dates of birth, email addresses, genders, geographic locations, IP addresses, names, spoken languages, and/or usernames.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore-Based Cryptocurrency Firm BitKeep Lost Funds in Recent Hacking Incident<a href="https://www.straitstimes.com/singapore/singapore-based-crypto-firm-hit-by-boxing-day-hack-more-than-10-million-lost?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which has not been named in reports, was targeted by skilled cybercriminals who were able to breach the firm’s security systems and gain access to its digital wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

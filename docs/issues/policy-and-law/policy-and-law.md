@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior Healthcare Firm Pays Breach Settlement to States<a href="https://www.bankinfosecurity.com/senior-healthcare-firm-pays-breach-settlement-to-states-a-20845?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nursing and assisted living care firm that delayed reporting a data breach to authorities paid a $200,000 fine to two state attorneys general and pledged to implement a security incident response plan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

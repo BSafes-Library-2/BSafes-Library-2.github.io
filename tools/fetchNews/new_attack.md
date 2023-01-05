@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US. rail and locomotive company Wabtec hit with Lockbit ransomware<a href="https://securityaffairs.com/140299/cyber-crime/wabtec-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US. rail and locomotive company Wabtec Corporation disclosed a data breach after it was hit with Lockbit ransomware attack.
+Wabtec Corporation&nbsp;is an American company formed by the merger of the&nbsp;Westinghouse Air Brake Company&nbsp;(WABCO)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

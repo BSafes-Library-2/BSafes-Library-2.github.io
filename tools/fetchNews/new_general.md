@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers evolve strategies to outmaneuver security teams<a href="https://www.helpnetsecurity.com/2023/01/04/attackers-evolve-strategies-outmaneuver-security-teams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large corporations (41%) will be the top targeted sector for cyberattacks in 2023, favored over financial institutions (36%), government (14%), healthcare (9%), and education (8%), according to Titaniam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can these researchers help defend satellite systems targeted by hackers?<a href="https://www.cyberscoop.com/space-satellite-cybersecurity-sparta/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new effort is attempting to improve cybersecurity awareness — and preparedness — in a sector that is only beginning to understand the threat it faces from malicious hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
