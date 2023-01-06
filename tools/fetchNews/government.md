@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+January 04,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI's Perspective on Ransomware<a href="https://thehackernews.com/2023/01/the-fbis-perspective-on-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware: contemporary threats, how to prevent them and how the FBI can help In April 2021, Dutch supermarkets faced a food shortage. The cause wasn't a drought or a sudden surge in the demand for avocados. Rather, the reason was a ransomware attack. In the past years, companies, universities, schools, medical facilities and other organizations have been targeted by ransomware threat actors, turning ransomware into the internet's most severe security crisis. The Ransomware Landscape Ransomware has existed for more than 30 years, but it became a lucrative source of income for cyber actors and gangs in the past decade. Since 2015, ransomware gangs have been targeting organizations instead of individuals. Consequently, ransom sums have increased significantly, reaching millions of dollars. Ransomware is effective because it pressures victims in two, complementary ways. First, by threatening victims to destroy their data. Second, by threatening to publicize the attack. The s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Can the White House's New IoT Labels Improve Security?<a href="https://securityintelligence.com/articles/how-white-house-new-iot-labels-improve-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House’s National Security Council (NSC) is working on an ambitious project to improve consumer Internet of Things (IoT) security through industry-standard labeling.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

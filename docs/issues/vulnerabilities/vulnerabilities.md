@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho urges fixing a critical SQL Injection flaw in ManageEngine<a href="https://securityaffairs.com/140369/security/zoho-sql-injection-manageengine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho is warning its customers of a critical vulnerability, tracked as CVE-2022-47523, affecting multiple ManageEngine products.
+Zoho is urging its customers to address a critical SQL Injection vulnerability, tracked as CVE-2022-47523, that affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet and Zoho Urge Customers to Patch Enterprise Software Vulnerabilities<a href="https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has warned of a high-severity flaw affecting multiple versions of FortiADC application delivery controller that could lead to the execution of arbitrary code. "An improper neutralization of special elements used in an OS command vulnerability in FortiADC may allow an authenticated attacker with access to the web GUI to execute unauthorized code or commands via specifically crafted HTTP requests," the company&nbsp; said &nbsp;in an advisory. The vulnerability, tracked as CVE-2022-39947 (CVSS score: 8.6) and internally discovered by its product security team, impacts the following versions - FortiADC version 7.0.0 through 7.0.2 FortiADC version 6.2.0 through 6.2.3 FortiADC version 6.1.0 through 6.1.6 FortiADC version 6.0.0 through 6.0.4 FortiADC version 5.4.0 through 5.4.5 Users are recommended to upgrade to FortiADC versions 6.2.4 and 7.0.2 as and when they become available. The&nbsp; January 2023 patches &nbsp;also address a number of command injection vulnerabilities in Fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

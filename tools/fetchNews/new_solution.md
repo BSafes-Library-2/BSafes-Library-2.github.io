@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 05,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigate the LastPass Attack Surface in Your Environment with this Free Tool<a href="https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest breach announced by LastPass is a major cause for concern to security stakeholders. As often occurs, we are at a security limbo – on the one hand, as LastPass has noted, users who followed LastPass best practices would be exposed to practically zero to extremely low risk. However, to say that password best practices are not followed is a wild understatement. The reality is that there are very few organizations in which these practices are truly enforced. This puts security teams in the worst position, where exposure to compromise is almost certain, but pinpointing the users who created this exposure is almost impossible.&nbsp; To assist them throughout this challenging time, Browser Security solution LayerX has launched a free offering of its platform, enabling security teams to gain visibility into all browsers on which the LastPass extension is installed and mitigate the potential impacts of the LastPass breach on their environments by informing vulnerable users and require t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 22, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

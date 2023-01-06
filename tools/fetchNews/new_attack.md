@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 05,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CircleCI Urges Customers to Rotate Secrets Following Security Incident<a href="https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform CircleCI on Wednesday urged its customers to rotate all their secrets following an unspecified security incident. The company said an investigation is currently ongoing, but emphasized that "there are no unauthorized actors active in our systems." Additional details are expected to be shared in the coming days. "Immediately rotate any and all secrets stored in CircleCI," CircleCI's chief technology officer, Rob Zuber,&nbsp; said &nbsp;in a terse advisory. "These may be stored in project environment variables or in contexts." CircleCI is also recommending users to review internal logs for signs of any unauthorized access starting from December 21, 2022, to January 4, 2023, or until when the secrets are rotated. The software development service did not disclose any further specifics about the breach, but said it has also invalidated all&nbsp; Project API tokens &nbsp;and that they need to be replaced. The disclosure comes weeks after the company anno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,50 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 05,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle Hackers Return with Refined Tools and Sophisticated Infection Chain<a href="https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor tracked as&nbsp; Blind Eagle &nbsp;has resurfaced with a refined toolset and an elaborate infection chain as part of its attacks targeting organizations in Colombia and Ecuador. Check Point's&nbsp; latest research &nbsp;offers new insights into the Spanish-speaking group's tactics and techniques, including the use of sophisticated tools and government-themed lures to activate the killchain. Also tracked under the name APT-C-36, Blind Eagle is notable for its narrow geographical focus and launching indiscriminate attacks against South American nations since at least 2018. Blind Eagle's operations have been&nbsp; documented &nbsp;by Trend Micro in September 2021, uncovering a spear-phishing campaign primarily aimed at Colombian entities designed to deliver a commodity malware known as&nbsp; BitRAT , with a lesser focus towards targets in Ecuador, Spain, and Panama. Attacks chains commence with phishing emails containing a booby-trapped link that, when clicked, leads t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How hackers might be exploiting ChatGPT<a href="https://securityaffairs.com/140380/hacking/hackers-exploiting-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular AI chatbot ChatGPT might be used by threat actors to hack easily hack into target networks.
+Original post at https://cybernews.com/security/hackers-exploit-chatgpt/
+Cybernews research team discovered that the AI-based chatbot ChatGPT...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using a New Undetectable SaaS-to-SaaS Phishing Technique<a href="https://cyware.com/news/hackers-using-a-new-undetectable-saas-to-saas-phishing-technique-6c21dfab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Besides email, hackers are now shifting toward other delivery methods such as video conferencing platforms, workforce messaging apps, cloud-based file-sharing platforms, and SMSs. Hackers are actively using multi-stage cloud phishing techniques that combine traditional phishing with second-phase or ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

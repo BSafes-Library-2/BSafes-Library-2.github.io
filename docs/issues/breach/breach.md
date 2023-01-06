@@ -11,6 +11,34 @@ nav_order: 900029
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Burger Chain Five Guys Discloses Data Breach Impacting Job Applicants<a href="https://www.securityweek.com/burger-chain-five-guys-discloses-data-breach-impacting-job-applicants?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five Guys appears to have started informing customers on December 29, when it also notified state authorities about the incident. The exposed information includes names, Social Security numbers, and driver’s license numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack Says Hackers Stole Private Source Code Repositories<a href="https://www.securityweek.com/slack-says-hackers-stole-private-source-code-repositories?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack suffered a security incident over the holidays affecting some of its private GitHub repositories. The incident involves threat actors gaining access to its externally hosted GitHub repositories via a "limited" number of stolen employee tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data of 235 million Twitter users leaked online<a href="https://securityaffairs.com/140352/data-breach/twitter-data-leak-235m-users.html"> Full Text</a>
 </p>
 <details>

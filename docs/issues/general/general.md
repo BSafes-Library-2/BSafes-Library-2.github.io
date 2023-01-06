@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Against U.S. Organizations Rises: Emsisoft Reports<a href="https://cyware.com/news/ransomware-attack-against-us-organizations-rises-emsisoft-reports-f218782f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by Emsisoft revealed that ransomware attacks in 2022 affected 105 counties, 45 school districts, 44 universities, and 24 healthcare providers in the U.S. Overall, the number of incidents and the overall impact was more than that observed in 2021. Organizations are encouraged to implement t ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
