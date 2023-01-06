@@ -37,6 +37,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 January 5, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Shc-based Linux Malware Used to Install XMRig Miner<a href="https://cyware.com/news/shc-based-linux-malware-used-to-install-xmrig-miner-aea48d7e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ASEC analysis team uncovered a new shell script compiler (shc)-based Linux malware dropping XMRig miner on compromised systems. The hackers pulled off the attack through a dictionary attack on mismanaged Linux SSH servers. An attack chain spotted in the campaign included both the shc downloader ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle Hackers Return with Refined Tools and Sophisticated Infection Chain<a href="https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor tracked as  Blind Eagle  has resurfaced with a refined toolset and an elaborate infection chain as part of its attacks targeting organizations in Colombia and Ecuador. Check Point's  latest research  offers new insights into the Spanish-speaking group's tactics and techniques, including the use of sophisticated tools and government-themed lures to activate the killchain. Also tracked under the name APT-C-36, Blind Eagle is notable for its narrow geographical focus and launching indiscriminate attacks against South American nations since at least 2018. Blind Eagle's operations have been  documented  by Trend Micro in September 2021, uncovering a spear-phishing campaign primarily aimed at Colombian entities designed to deliver a commodity malware known as  BitRAT , with a lesser focus towards targets in Ecuador, Spain, and Panama. Attacks chains commence with phishing emails containing a booby-trapped link that, when clicked, leads t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole Slack private source code repositories<a href="https://securityaffairs.com/140390/data-breach/slack-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise collaboration platform Slack disclosed a data breach, hackers stole some of its private source code repositories.
+The enterprise collaboration platform Slack has announced to have suffered a security breach, threat actors have stolen some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flipper Zero Phishing Attacks Eye Infosec Community<a href="https://cyware.com/news/flipper-zero-phishing-attacks-eye-infosec-community-b40c8ac5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign by an actor group has been spotted taking advantage of the increasing interest of the security community in the Flipper Zero tool, a multi-functional portable cybersecurity tool. They are creating fake shops to fool security experts into giving up their personal details and cryp ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluebottle Cybercrime Group Preys on Financial Sector in French-Speaking African Nations<a href="https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime group dubbed Bluebottle has been linked to a set of targeted attacks against the financial sector in Francophone countries located in Africa from at least July 2022 to September 2022. "The group makes extensive use of living-off-the-land, dual use tools, and commodity malware, with no custom malware deployed in this campaign," Symantec, a division of Broadcom Software,  said  in a report shared with The Hacker News. The cybersecurity firm said the activity shares overlaps with a threat cluster tracked by Group-IB under the name  OPERA1ER , which has carried out dozens of attacks aimed at banks, financial services, and telecom companies in Africa, Asia, and Latin America between 2018 and 2022. The attribution stems from similarities in the toolset used, the attack infrastructure, the absence of bespoke malware, and the targeting of French-speaking nations in Africa. Three different unnamed financial institutions in three African nations were breached, although
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How hackers might be exploiting ChatGPT<a href="https://securityaffairs.com/140380/hacking/hackers-exploiting-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular AI chatbot ChatGPT might be used by threat actors to hack easily hack into target networks.
+Original post at https://cybernews.com/security/hackers-exploit-chatgpt/
+Cybernews research team discovered that the AI-based chatbot ChatGPT...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using a New Undetectable SaaS-to-SaaS Phishing Technique<a href="https://cyware.com/news/hackers-using-a-new-undetectable-saas-to-saas-phishing-technique-6c21dfab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Besides email, hackers are now shifting toward other delivery methods such as video conferencing platforms, workforce messaging apps, cloud-based file-sharing platforms, and SMSs. Hackers are actively using multi-stage cloud phishing techniques that combine traditional phishing with second-phase or ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyNote Strikes Again: Android Spyware Targeting Financial Institutions<a href="https://thehackernews.com/2023/01/spynote-strikes-again-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial institutions are being targeted by a new version of Android malware called  SpyNote  at least since October 2022. "The reason behind this increase is that the developer of the spyware, who was previously selling it to other actors, made the source code public," ThreatFabric  said  in a report shared with The Hacker News. "This has helped other actors [in] developing and distributing the spyware, often also targeting banking institutions." Some of the notable institutions that are impersonated by the malware include Deutsche Bank, HSBC U.K., Kotak Mahindra Bank, and Nubank. SpyNote (aka SpyMax) is feature-rich and comes with a plethora of capabilities that allow it to install arbitrary apps; gather SMS messages, calls, videos, and audio recordings; track GPS locations; and even hinder efforts to uninstall the app. It also follows the modus operandi of other  banking   malware  by requesting for permissions to accessibility services to extract two-facto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho urges fixing a critical SQL Injection flaw in ManageEngine<a href="https://securityaffairs.com/140369/security/zoho-sql-injection-manageengine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoho is warning its customers of a critical vulnerability, tracked as CVE-2022-47523, affecting multiple ManageEngine products.
+Zoho is urging its customers to address a critical SQL Injection vulnerability, tracked as CVE-2022-47523, that affects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Against U.S. Organizations Rises: Emsisoft Reports<a href="https://cyware.com/news/ransomware-attack-against-us-organizations-rises-emsisoft-reports-f218782f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research by Emsisoft revealed that ransomware attacks in 2022 affected 105 counties, 45 school districts, 44 universities, and 24 healthcare providers in the U.S. Overall, the number of incidents and the overall impact was more than that observed in 2021. Organizations are encouraged to implement t ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigate the LastPass Attack Surface in Your Environment with this Free Tool<a href="https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest breach announced by LastPass is a major cause for concern to security stakeholders. As often occurs, we are at a security limbo – on the one hand, as LastPass has noted, users who followed LastPass best practices would be exposed to practically zero to extremely low risk. However, to say that password best practices are not followed is a wild understatement. The reality is that there are very few organizations in which these practices are truly enforced. This puts security teams in the worst position, where exposure to compromise is almost certain, but pinpointing the users who created this exposure is almost impossible.  To assist them throughout this challenging time, Browser Security solution LayerX has launched a free offering of its platform, enabling security teams to gain visibility into all browsers on which the LastPass extension is installed and mitigate the potential impacts of the LastPass breach on their environments by informing vulnerable users and require t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Data Protection Commission fined Meta $414 Million<a href="https://securityaffairs.com/140364/social-networks/irish-dpc-fined-meta-414m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) fined Meta Platforms €390 million over data processing operations for the delivery of its services
+The Data Protection Commission (DPC) concluded two inquiries into the data processing operations of Meta...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burger Chain Five Guys Discloses Data Breach Impacting Job Applicants<a href="https://www.securityweek.com/burger-chain-five-guys-discloses-data-breach-impacting-job-applicants?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five Guys appears to have started informing customers on December 29, when it also notified state authorities about the incident. The exposed information includes names, Social Security numbers, and driver’s license numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CircleCI Urges Customers to Rotate Secrets Following Security Incident<a href="https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform CircleCI on Wednesday urged its customers to rotate all their secrets following an unspecified security incident. The company said an investigation is currently ongoing, but emphasized that "there are no unauthorized actors active in our systems." Additional details are expected to be shared in the coming days. "Immediately rotate any and all secrets stored in CircleCI," CircleCI's chief technology officer, Rob Zuber,  said  in a terse advisory. "These may be stored in project environment variables or in contexts." CircleCI is also recommending users to review internal logs for signs of any unauthorized access starting from December 21, 2022, to January 4, 2023, or until when the secrets are rotated. The software development service did not disclose any further specifics about the breach, but said it has also invalidated all  Project API tokens  and that they need to be replaced. The disclosure comes weeks after the company anno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slack Says Hackers Stole Private Source Code Repositories<a href="https://www.securityweek.com/slack-says-hackers-stole-private-source-code-repositories?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Slack suffered a security incident over the holidays affecting some of its private GitHub repositories. The incident involves threat actors gaining access to its externally hosted GitHub repositories via a "limited" number of stolen employee tokens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolving Tactics of Vidar Stealer: From Phishing Emails to Social Media<a href="https://thehackernews.com/2023/01/the-evolving-tactics-of-vidar-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious information-stealer known as  Vidar  is continuing to leverage popular social media services such as TikTok, Telegram, Steam, and Mastodon as an intermediate command-and-control (C2) server. "When a user creates an account on an online platform, a unique account page that can be accessed by anyone is generated," AhnLab Security Emergency Response Center (ASEC) disclosed in a technical analysis  published  late last month. "Threat actors write identifying characters and the C2 address in parts of this page." In other words, the technique relies on actor-controlled throwaway accounts created on social media to retrieve the C2 address. An advantage to this approach is that should the C2 server be taken down or blocked, the adversary can trivially get around the restrictions by setting up a new server and editing the account pages to allow the previously distributed malware to communicate with the server. Vidar, first identified in 2018, is a  commer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Finalizes Cybersecurity Guidance for Ground Segment of Space Operations<a href="https://www.securityweek.com/nist-finalizes-cybersecurity-guidance-ground-segment-space-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST has published the final version of its guidance on applying the Cybersecurity Framework to the ground segment of space operations, specifically satellite command and control.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet and Zoho Urge Customers to Patch Enterprise Software Vulnerabilities<a href="https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has warned of a high-severity flaw affecting multiple versions of FortiADC application delivery controller that could lead to the execution of arbitrary code. "An improper neutralization of special elements used in an OS command vulnerability in FortiADC may allow an authenticated attacker with access to the web GUI to execute unauthorized code or commands via specifically crafted HTTP requests," the company  said  in an advisory. The vulnerability, tracked as CVE-2022-39947 (CVSS score: 8.6) and internally discovered by its product security team, impacts the following versions - FortiADC version 7.0.0 through 7.0.2 FortiADC version 6.2.0 through 6.2.3 FortiADC version 6.1.0 through 6.1.6 FortiADC version 6.0.0 through 6.0.4 FortiADC version 5.4.0 through 5.4.5 Users are recommended to upgrade to FortiADC versions 6.2.4 and 7.0.2 as and when they become available. The  January 2023 patches  also address a number of command injection vulnerabilities in Fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Regulators Fine Facebook $414 Million for Forcing Users to Accept Targeted Ads<a href="https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) has  fined  Meta Platforms €390 million (roughly $414 million) over its handling of user data for serving personalized ads in what could be a major blow to its ad-fueled business model. To that end, the privacy regulator has ordered Meta Ireland to pay two fines – a €210 million ($222.5 million) fine over violations of the E.U. General Data Protection Regulation ( GDPR ) related to Facebook, and a €180 million ($191 million) for similar violations in Instagram. The latest enforcement comes in the wake of concerns that the social media company used its Terms of Service to gain users' forced consent to allow targeted advertising based on their online activity. The complaints were filed on May 25, 2018, the date when GDPR came into effect in the region. It also arrives a month after the European Data Protection Board (EDPB), an independent body that oversees the consistent application of GDPR in the E.U.,  announced  that it had reached
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data of 235 million Twitter users leaked online<a href="https://securityaffairs.com/140352/data-breach/twitter-data-leak-235m-users.html"> Full Text</a>
 </p>
 <details>
@@ -51,7 +360,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Command Injection Flaws Found in Fortinet's FortiTester, FortiADC<a href="https://www.securityweek.com/high-severity-command-injection-flaws-found-fortinets-fortitester-fortiadc?&web_view=true"> Full Text</a>
@@ -67,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm Chipsets and Lenovo BIOS Get Security Updates to Fix Multiple Flaws<a href="https://thehackernews.com/2023/01/qualcomm-chipsets-and-lenovo-bios-get.html"> Full Text</a>
@@ -83,7 +392,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaws found in Ferrari, Mercedes, BMW, Porsche, and other carmakers<a href="https://securityaffairs.com/140328/hacking/bmw-mercedes-toyota-other-carmakers-flaws.html"> Full Text</a>
@@ -100,7 +409,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android's First Security Updates for 2023 Patch 60 Vulnerabilities<a href="https://www.securityweek.com/androids-first-security-updates-2023-patch-60-vulnerabilities?&web_view=true"> Full Text</a>
@@ -116,7 +425,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The FBI's Perspective on Ransomware<a href="https://thehackernews.com/2023/01/the-fbis-perspective-on-ransomware.html"> Full Text</a>
@@ -132,7 +441,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Database of the Cricketsocial.com platform left open online<a href="https://securityaffairs.com/140329/data-breach/cricketsocial-com-data-leak.html"> Full Text</a>
@@ -149,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers evolve strategies to outmaneuver security teams<a href="https://www.helpnetsecurity.com/2023/01/04/attackers-evolve-strategies-outmaneuver-security-teams/?&web_view=true"> Full Text</a>
@@ -165,7 +474,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New shc-based Linux Malware Targeting Systems with Cryptocurrency Miner<a href="https://thehackernews.com/2023/01/new-shc-based-linux-malware-targeting.html"> Full Text</a>
@@ -181,7 +490,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet fixed multiple command injection bugs in FortiADC and FortiTester<a href="https://securityaffairs.com/140322/security/fortinet-bugs-fortiadc-fortitester.html"> Full Text</a>
@@ -198,7 +507,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deezer Admits Third-Party Data Breach That Potentially Exposed Over 220 Million Users’ Information<a href="https://www.musicbusinessworldwide.com/deezer-admits-data-breach-that-potentially-exposed-over-220-million-users-info/?&web_view=true"> Full Text</a>
@@ -214,7 +523,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04,2023
+January 04,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers<a href="https://thehackernews.com/2023/01/synology-releases-patch-for-critical.html"> Full Text</a>
@@ -230,7 +539,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New shc Linux Malware used to deploy CoinMiner<a href="https://securityaffairs.com/140308/malware/shc-linux-malware-coinminer.html"> Full Text</a>
@@ -247,7 +556,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can these researchers help defend satellite systems targeted by hackers?<a href="https://www.cyberscoop.com/space-satellite-cybersecurity-sparta/?&web_view=true"> Full Text</a>
@@ -263,7 +572,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US. rail and locomotive company Wabtec hit with Lockbit ransomware<a href="https://securityaffairs.com/140299/cyber-crime/wabtec-lockbit-ransomware.html"> Full Text</a>
@@ -280,7 +589,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senior Healthcare Firm Pays Breach Settlement to States<a href="https://www.bankinfosecurity.com/senior-healthcare-firm-pays-breach-settlement-to-states-a-20845?&web_view=true"> Full Text</a>
@@ -296,7 +605,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New shc Linux Malware Used to Deploy Cryptominer Payload<a href="https://securityaffairs.com/140308/malware/shc-linux-malware-coinminer.html?&web_view=true"> Full Text</a>
@@ -312,7 +621,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Singapore-Based Cryptocurrency Firm BitKeep Lost Funds in Recent Hacking Incident<a href="https://www.straitstimes.com/singapore/singapore-based-crypto-firm-hit-by-boxing-day-hack-more-than-10-million-lost?&web_view=true"> Full Text</a>
@@ -328,7 +637,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2023
+January 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Can the White House's New IoT Labels Improve Security?<a href="https://securityintelligence.com/articles/how-white-house-new-iot-labels-improve-security/?&web_view=true"> Full Text</a>
