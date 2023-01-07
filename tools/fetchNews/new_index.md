@@ -34,7 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm UEFI Flaws Expose Microsoft, Lenovo, Samsung Devices to Attacks<a href="https://www.securityweek.com/qualcomm-uefi-flaws-expose-microsoft-lenovo-samsung-devices-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Binarly, the Qualcomm vulnerabilities have been confirmed to impact — in addition to Lenovo devices — Arm-based Microsoft Surface and the Windows Dev Kit 2023 (Project Volterra) computers, as well as Samsung products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using CAPTCHA Bypass Tactics in Freejacking Campaign on GitHub<a href="https://thehackernews.com/2023/01/hackers-using-captcha-bypass-tactics-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A South Africa-based threat actor known as Automated Libra has been observed employing CAPTCHA bypass techniques to create GitHub accounts in a programmatic fashion as part of a freejacking campaign dubbed PURPLEURCHIN. The group "primarily targets cloud platforms offering limited-time trials of cloud resources in order to perform their crypto mining operations," Palo Alto Networks Unit 42 researchers William Gamazo and Nathaniel Quist  said . PURPLEURCHIN first came to light in October 2022 when Sysdig  disclosed  that the adversary created as many as 30 GitHub accounts, 2,000 Heroku accounts, and 900 Buddy accounts to scale its operation. Now according to Unit 42, the cloud threat actor group created three to five GitHub accounts every minute at the height of its activity in November 2022, totally setting up over 130,000 bogus accounts across Heroku, Togglebox, and GitHub. More than 22,000 GitHub accounts are estimated to have been created between September and Novemb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Cyber Liability Fight Begins<a href="https://www.lawfareblog.com/cyber-liability-fight-begins"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Third-party liability for cybersecurity failures just got a lot more real.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saint Gheorghe Recovery Hospital in Romania suffered a ransomware attack<a href="https://securityaffairs.com/140446/cyber-crime/saint-gheorghe-recovery-hospital-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Saint Gheorghe Recovery Hospital in Romania suffered a ransomware attack in December that is still impacting medical activity.
+The Saint Gheorghe Recovery Hospital in Botoşani, in northeastern Romania, was hit by a ransomware attack in December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Turla Cyberspies Leveraged Other Hackers' USB-Delivered Malware<a href="https://www.securityweek.com/russian-turla-cyberspies-leveraged-other-hackers-usb-delivered-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active since at least 2006 and linked to the Russian government, the cyberespionage group is also tracked as Snake, Venomous Bear, Krypton, and Waterbug, and has been historically associated with the use of the ComRAT malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Reveals Tactics Used by 4 Ransomware Families Targeting macOS<a href="https://thehackernews.com/2023/01/microsoft-reveals-tactics-used-by-4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shed light on four different ransomware families –  KeRanger , FileCoder, MacRansom, and EvilQuest – that are known to impact Apple macOS systems. "While these malware families are old, they exemplify the range of capabilities and malicious behavior possible on the platform," the tech giant's Security Threat Intelligence team  said  in a Thursday report. The initial vector for these ransomware families involves what the Windows maker calls "user-assisted methods," wherein the victim downloads and installs trojanized applications. Alternatively, it can also arrive as a second-stage payload that's dropped by an already existing malware on the infected host or as part of a supply chain attack. Irrespective of the modus operandi employed, the attacks proceed along similar lines, with the threat actors relying on legitimate operating system features and exploiting vulnerabilities to break into the systems and encrypt files of interest. This i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft details techniques of Mac ransomware<a href="https://securityaffairs.com/140423/cyber-crime/mac-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of different ransomware families (KeRanger, FileCoder, MacRansom, and EvilQuest) targeting Apple macOS systems.
+Microsoft Security Threat Intelligence team warns of four different ransomware families (KeRanger, FileCoder, MacRansom,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of imposter ads in search results<a href="https://www.malwarebytes.com/blog/news/2023/01/fbi-warns-of-imitation-ads-in-paid-search-results?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s no secret that rogue ads have been a particular plague on the Internet for as far back as we can remember. The FBI warning concerns fake ads impersonating the real thing and diverting potential victims off to parts unknown.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Malware Now Attacking macOS Systems with Novel Infection Method<a href="https://thehackernews.com/2023/01/dridex-malware-now-attacking-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of the infamous Dridex banking malware has set its sights on Apple's macOS operating system using a previously undocumented infection method, according to latest research. It has "adopted a new technique to deliver documents embedded with malicious macros to users without having to pretend to be invoices or other business-related files," Trend Micro researcher Armando Nathaniel Pedragoza  said  in a technical report. Dridex , also called Bugat and Cridex, is an information stealer that's known to harvest sensitive data from infected machines and deliver and execute malicious modules. It's attributed to an e-crime group known as Evil Corp (aka Indrik Spider). The malware is also considered to be a successor of  Gameover Zeus , itself a follow-up to another banking trojan called Zeus. Previous Dridex campaigns targeting Windows have  leveraged  macro-enabled Microsoft Excel documents sent via phishing emails to deploy the payload. Trend Micro's a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace: Play Ransomware gang used a previously unknown exploit to access its Hosted Exchange email environment<a href="https://securityaffairs.com/140410/data-breach/rackspace-data-breach-play-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud services provider Rackspace confirmed that the recent data breach was the result of the Play Ransomware gang's attack.
+Cloud services provider Rackspace announced this week that the recent data breach was the result of an attack conducted by the Play ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software provider denied insurance payout after ransomware attack<a href="https://www.malwarebytes.com/blog/news/2023/01/software-provider-denied-insurance-payout-after-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court of Ohio issued a ruling that EMOI Services shouldn't be covered by insurance against a ransomware attack as it didn't cause direct or physical harm to tangible components of software, as it doesn’t have any.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace Confirms Play Ransomware Gang Responsible for Recent Breach<a href="https://thehackernews.com/2023/01/rackspace-confirms-play-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud services provider Rackspace on Thursday confirmed that the ransomware gang known as Play was responsible for last month's breach. The security incident, which took place on December 2, 2022, leveraged a previously unknown security exploit to gain initial access to the Rackspace Hosted Exchange email environment. "This zero-day exploit is associated with  CVE-2022-41080 ," the Texas-based company  said . "Microsoft disclosed CVE-2022-41080 as a privilege escalation vulnerability and did not include notes for being part of a remote code execution chain that was exploitable." Rackspace's forensic investigation found that the threat actor accessed the Personal Storage Table ( .PST ) of 27 customers out of a total of nearly 30,000 customers on the Hosted Exchange email environment. However, the company said there is no evidence the adversary viewed, misused, or distributed the customer's emails or data from those personal storage folders. It furt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender released a free decryptor for the MegaCortex ransomware<a href="https://securityaffairs.com/140397/malware/megacortex-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus firm Bitdefender released a decryptor for the MegaCortex ransomware allowing its victims to restore their data for free.
+Antivirus firm Bitdefender released a decryptor for the MegaCortex ransomware, which can allow victims of the group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleUrchin Campaign Bypasses CAPTCHA and Steals Cloud Platform Resources for Cryptomining<a href="https://unit42.paloaltonetworks.com/purpleurchin-steals-cloud-resources/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automated Libra is a South African-based freejacking group that primarily targets cloud platforms offering limited-time trials of cloud resources in order to perform their cryptomining operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Introduces Proxy Support to Help Users Bypass Internet Censorship<a href="https://thehackernews.com/2023/01/whatsapp-introduces-proxy-support-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular instant messaging service WhatsApp has launched support for proxy servers in the latest version of its Android and iOS apps, letting users circumvent government-imposed censorship and internet shutdowns. "Choosing a proxy enables you to connect to WhatsApp through servers set up by volunteers and organizations around the world dedicated to helping people communicate freely," the Meta-owned company  said . Proxies act as an intermediary between end users and the service provider by routing requests originating from a client to the server and forwarding the response back to the device. Users can  access the option  by navigating to Settings > Storage and Data > Proxy > Use Proxy and entering a trusted proxy server address. WhatsApp, which is used by more than two billion users across the world, has also made available a  reference implementation  that can be used to set up a proxy server to help others connect to the service. The company emphasized that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex Returns With New Variant, Targets MacOS Using New Entry Method<a href="https://www.trendmicro.com/en_us/research/23/a/-dridex-targets-macos-using-new-entry-method.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The variant analyzed by Trend Micro has made its way into the MacOS platform and has adopted a new technique to deliver documents embedded with malicious macros to users without having to pretend to be invoices or other business-related files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shc-based Linux Malware Used to Install XMRig Miner<a href="https://cyware.com/news/shc-based-linux-malware-used-to-install-xmrig-miner-aea48d7e"> Full Text</a>
@@ -50,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blind Eagle Hackers Return with Refined Tools and Sophisticated Infection Chain<a href="https://thehackernews.com/2023/01/blind-eagle-hackers-return-with-refined.html"> Full Text</a>
@@ -66,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors stole Slack private source code repositories<a href="https://securityaffairs.com/140390/data-breach/slack-security-breach.html"> Full Text</a>
@@ -83,7 +343,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flipper Zero Phishing Attacks Eye Infosec Community<a href="https://cyware.com/news/flipper-zero-phishing-attacks-eye-infosec-community-b40c8ac5"> Full Text</a>
@@ -99,7 +359,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluebottle Cybercrime Group Preys on Financial Sector in French-Speaking African Nations<a href="https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html"> Full Text</a>
@@ -115,7 +375,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How hackers might be exploiting ChatGPT<a href="https://securityaffairs.com/140380/hacking/hackers-exploiting-chatgpt.html"> Full Text</a>
@@ -133,7 +393,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using a New Undetectable SaaS-to-SaaS Phishing Technique<a href="https://cyware.com/news/hackers-using-a-new-undetectable-saas-to-saas-phishing-technique-6c21dfab"> Full Text</a>
@@ -149,7 +409,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpyNote Strikes Again: Android Spyware Targeting Financial Institutions<a href="https://thehackernews.com/2023/01/spynote-strikes-again-android-spyware.html"> Full Text</a>
@@ -165,7 +425,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho urges fixing a critical SQL Injection flaw in ManageEngine<a href="https://securityaffairs.com/140369/security/zoho-sql-injection-manageengine.html"> Full Text</a>
@@ -182,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Against U.S. Organizations Rises: Emsisoft Reports<a href="https://cyware.com/news/ransomware-attack-against-us-organizations-rises-emsisoft-reports-f218782f"> Full Text</a>
@@ -198,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mitigate the LastPass Attack Surface in Your Environment with this Free Tool<a href="https://thehackernews.com/2023/01/mitigate-lastpass-attack-surface-in.html"> Full Text</a>
@@ -214,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish Data Protection Commission fined Meta $414 Million<a href="https://securityaffairs.com/140364/social-networks/irish-dpc-fined-meta-414m.html"> Full Text</a>
@@ -231,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Burger Chain Five Guys Discloses Data Breach Impacting Job Applicants<a href="https://www.securityweek.com/burger-chain-five-guys-discloses-data-breach-impacting-job-applicants?&web_view=true"> Full Text</a>
@@ -247,7 +507,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CircleCI Urges Customers to Rotate Secrets Following Security Incident<a href="https://thehackernews.com/2023/01/circleci-urges-customers-to-rotate.html"> Full Text</a>
@@ -263,7 +523,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slack Says Hackers Stole Private Source Code Repositories<a href="https://www.securityweek.com/slack-says-hackers-stole-private-source-code-repositories?&web_view=true"> Full Text</a>
@@ -279,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Evolving Tactics of Vidar Stealer: From Phishing Emails to Social Media<a href="https://thehackernews.com/2023/01/the-evolving-tactics-of-vidar-stealer.html"> Full Text</a>
@@ -295,7 +555,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2023
+January 5, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Finalizes Cybersecurity Guidance for Ground Segment of Space Operations<a href="https://www.securityweek.com/nist-finalizes-cybersecurity-guidance-ground-segment-space-operations?&web_view=true"> Full Text</a>
@@ -311,7 +571,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet and Zoho Urge Customers to Patch Enterprise Software Vulnerabilities<a href="https://thehackernews.com/2023/01/fortinet-and-zoho-urge-customers-to.html"> Full Text</a>
@@ -327,7 +587,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05,2023
+January 05,2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Irish Regulators Fine Facebook $414 Million for Forcing Users to Accept Targeted Ads<a href="https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"> Full Text</a>
