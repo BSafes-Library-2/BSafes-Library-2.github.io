@@ -8,6 +8,35 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Data Protection Commission fined Meta $414 Million<a href="https://securityaffairs.com/140364/social-networks/irish-dpc-fined-meta-414m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) fined&nbsp;Meta Platforms €390 million over data processing operations for the delivery of its services
+The Data Protection Commission (DPC) concluded two inquiries into the data processing operations of Meta...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Irish Regulators Fine Facebook $414 Million for Forcing Users to Accept Targeted Ads<a href="https://thehackernews.com/2023/01/irish-regulators-fine-facebook-414.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) has&nbsp; fined &nbsp;Meta Platforms €390 million (roughly $414 million) over its handling of user data for serving personalized ads in what could be a major blow to its ad-fueled business model. To that end, the privacy regulator has ordered Meta Ireland to pay two fines – a €210 million ($222.5 million) fine over violations of the E.U. General Data Protection Regulation ( GDPR ) related to Facebook, and a €180 million ($191 million) for similar violations in Instagram. The latest enforcement comes in the wake of concerns that the social media company used its Terms of Service to gain users' forced consent to allow targeted advertising based on their online activity. The complaints were filed on May 25, 2018, the date when GDPR came into effect in the region. It also arrives a month after the European Data Protection Board (EDPB), an independent body that oversees the consistent application of GDPR in the E.U.,&nbsp; announced &nbsp;that it had reached
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

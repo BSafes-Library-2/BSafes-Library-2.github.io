@@ -8,6 +8,50 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 06,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Reveals Tactics Used by 4 Ransomware Families Targeting macOS<a href="https://thehackernews.com/2023/01/microsoft-reveals-tactics-used-by-4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shed light on four different ransomware families –&nbsp; KeRanger , FileCoder, MacRansom, and EvilQuest – that are known to impact Apple macOS systems. "While these malware families are old, they exemplify the range of capabilities and malicious behavior possible on the platform," the tech giant's Security Threat Intelligence team&nbsp; said &nbsp;in a Thursday report. The initial vector for these ransomware families involves what the Windows maker calls "user-assisted methods," wherein the victim downloads and installs trojanized applications. Alternatively, it can also arrive as a second-stage payload that's dropped by an already existing malware on the infected host or as part of a supply chain attack. Irrespective of the modus operandi employed, the attacks proceed along similar lines, with the threat actors relying on legitimate operating system features and exploiting vulnerabilities to break into the systems and encrypt files of interest. This i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft details techniques of Mac ransomware<a href="https://securityaffairs.com/140423/cyber-crime/mac-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of different ransomware families (KeRanger, FileCoder, MacRansom, and EvilQuest) targeting Apple macOS systems.
+Microsoft Security Threat Intelligence team warns of four different ransomware families (KeRanger, FileCoder, MacRansom,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender released a free decryptor for the MegaCortex ransomware<a href="https://securityaffairs.com/140397/malware/megacortex-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus firm Bitdefender released a decryptor for the MegaCortex ransomware allowing its victims to restore their data for free.
+Antivirus firm Bitdefender released a decryptor for the MegaCortex ransomware, which can allow victims of the group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

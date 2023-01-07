@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 06,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Introduces Proxy Support to Help Users Bypass Internet Censorship<a href="https://thehackernews.com/2023/01/whatsapp-introduces-proxy-support-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular instant messaging service WhatsApp has launched support for proxy servers in the latest version of its Android and iOS apps, letting users circumvent government-imposed censorship and internet shutdowns. "Choosing a proxy enables you to connect to WhatsApp through servers set up by volunteers and organizations around the world dedicated to helping people communicate freely," the Meta-owned company&nbsp; said . Proxies act as an intermediary between end users and the service provider by routing requests originating from a client to the server and forwarding the response back to the device. Users can&nbsp; access the option &nbsp;by navigating to Settings &gt; Storage and Data &gt; Proxy &gt; Use Proxy and entering a trusted proxy server address. WhatsApp, which is used by more than two billion users across the world, has also made available a&nbsp; reference implementation &nbsp;that can be used to set up a proxy server to help others connect to the service. The company emphasized that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of imposter ads in search results<a href="https://www.malwarebytes.com/blog/news/2023/01/fbi-warns-of-imitation-ads-in-paid-search-results?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s no secret that rogue ads have been a particular plague on the Internet for as far back as we can remember. The FBI warning concerns fake ads impersonating the real thing and diverting potential victims off to parts unknown.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

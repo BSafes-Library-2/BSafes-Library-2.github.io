@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors stole Slack private source code repositories<a href="https://securityaffairs.com/140390/data-breach/slack-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise collaboration platform Slack disclosed a data breach, hackers stole some of its private source code repositories.
+The enterprise collaboration platform Slack has announced to have suffered a security breach, threat actors have stolen some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluebottle Cybercrime Group Preys on Financial Sector in French-Speaking African Nations<a href="https://thehackernews.com/2023/01/bluebottle-cybercrime-group-preys-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime group dubbed Bluebottle has been linked to a set of targeted attacks against the financial sector in Francophone countries located in Africa from at least July 2022 to September 2022. "The group makes extensive use of living-off-the-land, dual use tools, and commodity malware, with no custom malware deployed in this campaign," Symantec, a division of Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News. The cybersecurity firm said the activity shares overlaps with a threat cluster tracked by Group-IB under the name&nbsp; OPERA1ER , which has carried out dozens of attacks aimed at banks, financial services, and telecom companies in Africa, Asia, and Latin America between 2018 and 2022. The attribution stems from similarities in the toolset used, the attack infrastructure, the absence of bespoke malware, and the targeting of French-speaking nations in Africa. Three different unnamed financial institutions in three African nations were breached, although
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

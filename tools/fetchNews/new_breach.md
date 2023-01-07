@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 06,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace Confirms Play Ransomware Gang Responsible for Recent Breach<a href="https://thehackernews.com/2023/01/rackspace-confirms-play-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud services provider Rackspace on Thursday confirmed that the ransomware gang known as Play was responsible for last month's breach. The security incident, which took place on December 2, 2022, leveraged a previously unknown security exploit to gain initial access to the Rackspace Hosted Exchange email environment. "This zero-day exploit is associated with&nbsp; CVE-2022-41080 ," the Texas-based company&nbsp; said . "Microsoft disclosed CVE-2022-41080 as a privilege escalation vulnerability and did not include notes for being part of a remote code execution chain that was exploitable." Rackspace's forensic investigation found that the threat actor accessed the Personal Storage Table ( .PST ) of 27 customers out of a total of nearly 30,000 customers on the Hosted Exchange email environment. However, the company said there is no evidence the adversary viewed, misused, or distributed the customer's emails or data from those personal storage folders. It furt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
