@@ -34,6 +34,253 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Turla Hackers Hijack Decade-Old Malware Infrastructure to Deploy New Backdoors<a href="https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian cyberespionage group known as Turla has been observed piggybacking on attack infrastructure used by a decade-old malware to deliver its own reconnaissance and backdoor tools to targets in Ukraine. Google-owned Mandiant, which is tracking the operation under the uncategorized cluster moniker  UNC4210 , said the hijacked servers correspond to a variant of a commodity malware called  ANDROMEDA  (aka Gamarue) that was uploaded to VirusTotal in 2013. "UNC4210 re-registered at least three expired ANDROMEDA command-and-control (C2) domains and began profiling victims to selectively deploy KOPILUWAK and QUIETCANARY in September 2022," Mandiant researchers  said  in an analysis published last week. Turla, also known by the names Iron Hunter, Krypton, Uroburos, Venomous Bear, and Waterbug, is an elite nation-state outfit that primarily targets government, diplomatic, and military organizations using a large set of custom malware. Since the onset of Russia's  milit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian and Belarusian men charged with spying for Russian GRU<a href="https://securityaffairs.com/140507/intelligence/poland-charged-russian-gru-spies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish authorities charged Russian and Belarusian individuals with spying for the Russian military intelligence service (GRU).
+Polish authorities charged Russian and Belarusian individuals, who were arrested in April, with spying for the Russian military...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dridex targets MacOS users with a new delivery technique<a href="https://securityaffairs.com/140488/malware/dridex-banking-malware-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new variant of the Dridex banking malware that is targeting systems using the macOS operating system.
+Trend Micro experts discovered a new variant of the Dridex banking malware that targets the MacOS platform and that used a new technique...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 401 by Pierluigi Paganini<a href="https://securityaffairs.com/140484/breaking-news/security-affairs-newsletter-round-401-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Chick-fil-A...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reuters: Russian hackers targeted U.S. nuclear scientists<a href="https://www.reuters.com/world/europe/russian-hackers-targeted-us-nuclear-scientists-2023-01-06/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacking team known as Cold River targeted three nuclear research laboratories in the United States this past summer, according to internet records reviewed by Reuters and five cyber security experts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vidar Stealer Operators Exploit SM Platforms to Evade Detection<a href="https://cyware.com/news/vidar-stealer-operators-exploit-sm-platforms-to-evade-detection-01e3ac94"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information-stealer Vidar is once again found exploiting social media services such as TikTok, Telegram, Steam, and Mastodon as an intermediate command-and-control (C2) server. One advantage of this tactic is that such traffic is really difficult to identify and block using trivial security solutio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas County EMS Agency Says Ransomware Breach Hit 612,000<a href="https://www.bankinfosecurity.com/texas-county-ems-agency-says-ransomware-breach-hit-612000-a-20876?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A municipal ambulance services provider that serves 15 cities in a Texas county has reported to federal regulators a ransomware attack potentially affecting 612,000 individuals, equivalent to nearly 30% of the county's 2.1 million population.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Genuine Windows Tool to Deliver Pupy RAT<a href="https://cyware.com/news/attackers-abuse-genuine-windows-tool-to-deliver-pupy-rat-26f6400e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearthed an interesting technique used by threat actors wherein they use WerFault.exe, the Windows Error Reporting tool, to execute Pupy RAT on the victims’ machine. The use of ISO files and abuse of genuine Windows tools to deliver Pupy RAT indicates that the operators of this ca ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chick-fil-A launched an investigation into “suspicious activity”<a href="https://securityaffairs.com/140476/hacking/chick-fil-a-investigates-suspicious-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fast food restaurant chain Chick-fil-A informed its customers of having launched an investigation into "suspicious activity."
+Chick-fil-A is an American fast food restaurant chain, it is the country's largest which specializes in chicken...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Engineer Charged With 'Office Space-Inspired' Fraud<a href="https://www.bankinfosecurity.com/blogs/software-engineer-charged-office-space-inspired-fraud-p-3346?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More signs truth may be stranger than fiction: Seattle police have charged a software programmer with engineering a fraud scheme inspired by the online heist in the 1999 black comedy film "Office Space."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID malware campaign targets Zoom users<a href="https://securityaffairs.com/140465/malware/icedid-targets-zoom-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber researchers warn of a modified Zoom app that was used by threat actors in a phishing campaign to deliver the IcedID Malware.
+Cyble researchers recently uncovered a phishing campaign targeting users of the popular video conferencing and online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can You Trust Your VSCode Extensions?<a href="https://blog.aquasec.com/can-you-trust-your-vscode-extensions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aqua Nautilus researchers have recently discovered that attackers can easily impersonate popular Visual Studio Code extensions and trick unknowing developers into downloading them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware gang leaked 550 GB stolen from Consulate Health Care<a href="https://securityaffairs.com/140452/cyber-crime/consulate-health-care-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang just leaked 550 GB of data stolen from the Consulate Health Care, including customer and employee PII data.
+Consulate Health Care is a leading provider of senior healthcare services, specializing in post-acute care. The Hive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit drops for remote code execution bug in Control Web Panel<a href="https://portswigger.net/daily-swig/exploit-drops-for-remote-code-execution-bug-in-control-web-panel?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Proof of Concept (PoC) was posted to GitHub and YouTube yesterday (January 5) by Numan Türle, security engineer at Turkish infosec outfit Gais Security. The flaw has now been designated as CVE-2022-44877 with a CVSS severity rating still pending.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Warns About the Rise in Russian Cyberattacks<a href="https://cyware.com/news/poland-warns-about-the-rise-in-russian-cyberattacks-9588eddf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Polish government warned against a rise in cyberattacks linked to Russian threat groups. According to the government, the state-sponsored hacking group GhostWriter, active since at least 2017, is among the top attacker groups targeting the country. The threat group targets official email accoun ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
