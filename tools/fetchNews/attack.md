@@ -8,6 +8,78 @@ nav_order: 900015
 
 ## Attack
 ---
+January 06,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using CAPTCHA Bypass Tactics in Freejacking Campaign on GitHub<a href="https://thehackernews.com/2023/01/hackers-using-captcha-bypass-tactics-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A South Africa-based threat actor known as Automated Libra has been observed employing CAPTCHA bypass techniques to create GitHub accounts in a programmatic fashion as part of a freejacking campaign dubbed PURPLEURCHIN. The group "primarily targets cloud platforms offering limited-time trials of cloud resources in order to perform their crypto mining operations," Palo Alto Networks Unit 42 researchers William Gamazo and Nathaniel Quist&nbsp; said . PURPLEURCHIN first came to light in October 2022 when Sysdig&nbsp; disclosed &nbsp;that the adversary created as many as 30 GitHub accounts, 2,000 Heroku accounts, and 900 Buddy accounts to scale its operation. Now according to Unit 42, the cloud threat actor group created three to five GitHub accounts every minute at the height of its activity in November 2022, totally setting up over 130,000 bogus accounts across Heroku, Togglebox, and GitHub. More than 22,000 GitHub accounts are estimated to have been created between September and Novemb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saint Gheorghe Recovery Hospital in Romania suffered a ransomware attack<a href="https://securityaffairs.com/140446/cyber-crime/saint-gheorghe-recovery-hospital-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Saint Gheorghe Recovery Hospital in Romania suffered a ransomware attack in December that is still impacting medical activity.
+The Saint Gheorghe Recovery Hospital in Botoşani, in northeastern Romania, was hit by a ransomware attack in December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace: Play Ransomware gang used a previously unknown exploit to access its Hosted Exchange email environment<a href="https://securityaffairs.com/140410/data-breach/rackspace-data-breach-play-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud services provider Rackspace confirmed that the recent data breach was the result of the Play Ransomware gang's attack.
+Cloud services provider Rackspace announced this week that the recent data breach was the result of an attack conducted by the Play&nbsp;ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software provider denied insurance payout after ransomware attack<a href="https://www.malwarebytes.com/blog/news/2023/01/software-provider-denied-insurance-payout-after-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Supreme Court of Ohio issued a ruling that EMOI Services shouldn't be covered by insurance against a ransomware attack as it didn't cause direct or physical harm to tangible components of software, as it doesn’t have any.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PurpleUrchin Campaign Bypasses CAPTCHA and Steals Cloud Platform Resources for Cryptomining<a href="https://unit42.paloaltonetworks.com/purpleurchin-steals-cloud-resources/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automated Libra is a South African-based freejacking group that primarily targets cloud platforms offering limited-time trials of cloud resources in order to perform their cryptomining operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

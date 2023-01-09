@@ -8,6 +8,35 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian and Belarusian men charged with spying for Russian GRU<a href="https://securityaffairs.com/140507/intelligence/poland-charged-russian-gru-spies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish authorities charged Russian and Belarusian individuals with spying for the Russian military intelligence service (GRU).
+Polish authorities charged Russian and Belarusian individuals, who were arrested in April, with spying for the Russian military...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Engineer Charged With 'Office Space-Inspired' Fraud<a href="https://www.bankinfosecurity.com/blogs/software-engineer-charged-office-space-inspired-fraud-p-3346?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More signs truth may be stranger than fiction: Seattle police have charged a software programmer with engineering a fraud scheme inspired by the online heist in the 1999 black comedy film "Office Space."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

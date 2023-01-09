@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit drops for remote code execution bug in Control Web Panel<a href="https://portswigger.net/daily-swig/exploit-drops-for-remote-code-execution-bug-in-control-web-panel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Proof of Concept (PoC) was posted to GitHub and YouTube yesterday (January 5) by Numan Türle, security engineer at Turkish infosec outfit Gais Security. The flaw has now been designated as CVE-2022-44877 with a CVSS severity rating still pending.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

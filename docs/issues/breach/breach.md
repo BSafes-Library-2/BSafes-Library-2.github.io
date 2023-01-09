@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware gang leaked 550 GB stolen from Consulate Health Care<a href="https://securityaffairs.com/140452/cyber-crime/consulate-health-care-hive-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang just leaked 550 GB of data stolen from the Consulate Health Care, including customer and employee PII data.
+Consulate Health Care&nbsp;is a leading provider of senior healthcare services, specializing in post-acute care. The Hive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

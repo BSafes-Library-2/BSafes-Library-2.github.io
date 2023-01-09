@@ -8,6 +8,50 @@ nav_order: 900072
 
 ## General
 ---
+January 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 401 by Pierluigi Paganini<a href="https://securityaffairs.com/140484/breaking-news/security-affairs-newsletter-round-401-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+Chick-fil-A...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Texas County EMS Agency Says Ransomware Breach Hit 612,000<a href="https://www.bankinfosecurity.com/texas-county-ems-agency-says-ransomware-breach-hit-612000-a-20876?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A municipal ambulance services provider that serves 15 cities in a Texas county has reported to federal regulators a ransomware attack potentially affecting 612,000 individuals, equivalent to nearly 30% of the county's 2.1 million population.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Warns About the Rise in Russian Cyberattacks<a href="https://cyware.com/news/poland-warns-about-the-rise-in-russian-cyberattacks-9588eddf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Polish government warned against a rise in cyberattacks linked to Russian threat groups. According to the government, the state-sponsored hacking group GhostWriter, active since at least 2017, is among the top attacker groups targeting the country. The threat group targets official email accoun ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

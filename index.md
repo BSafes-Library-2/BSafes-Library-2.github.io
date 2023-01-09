@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08,2023
+January 08,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Turla Hackers Hijack Decade-Old Malware Infrastructure to Deploy New Backdoors<a href="https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2023
+January 8, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian and Belarusian men charged with spying for Russian GRU<a href="https://securityaffairs.com/140507/intelligence/poland-charged-russian-gru-spies.html"> Full Text</a>
@@ -67,7 +67,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2023
+January 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dridex targets MacOS users with a new delivery technique<a href="https://securityaffairs.com/140488/malware/dridex-banking-malware-macos.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2023
+January 8, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 401 by Pierluigi Paganini<a href="https://securityaffairs.com/140484/breaking-news/security-affairs-newsletter-round-401-by-pierluigi-paganini.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reuters: Russian hackers targeted U.S. nuclear scientists<a href="https://www.reuters.com/world/europe/russian-hackers-targeted-us-nuclear-scientists-2023-01-06/?&web_view=true"> Full Text</a>
@@ -118,7 +118,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vidar Stealer Operators Exploit SM Platforms to Evade Detection<a href="https://cyware.com/news/vidar-stealer-operators-exploit-sm-platforms-to-evade-detection-01e3ac94"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Texas County EMS Agency Says Ransomware Breach Hit 612,000<a href="https://www.bankinfosecurity.com/texas-county-ems-agency-says-ransomware-breach-hit-612000-a-20876?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Abuse Genuine Windows Tool to Deliver Pupy RAT<a href="https://cyware.com/news/attackers-abuse-genuine-windows-tool-to-deliver-pupy-rat-26f6400e"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chick-fil-A launched an investigation into “suspicious activity”<a href="https://securityaffairs.com/140476/hacking/chick-fil-a-investigates-suspicious-activity.html"> Full Text</a>
@@ -183,7 +183,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Engineer Charged With 'Office Space-Inspired' Fraud<a href="https://www.bankinfosecurity.com/blogs/software-engineer-charged-office-space-inspired-fraud-p-3346?&web_view=true"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IcedID malware campaign targets Zoom users<a href="https://securityaffairs.com/140465/malware/icedid-targets-zoom-users.html"> Full Text</a>
@@ -216,7 +216,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can You Trust Your VSCode Extensions?<a href="https://blog.aquasec.com/can-you-trust-your-vscode-extensions?&web_view=true"> Full Text</a>
@@ -232,7 +232,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware gang leaked 550 GB stolen from Consulate Health Care<a href="https://securityaffairs.com/140452/cyber-crime/consulate-health-care-hive-ransomware.html"> Full Text</a>
@@ -249,7 +249,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit drops for remote code execution bug in Control Web Panel<a href="https://portswigger.net/daily-swig/exploit-drops-for-remote-code-execution-bug-in-control-web-panel?&web_view=true"> Full Text</a>
@@ -265,7 +265,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 7, 2023
+January 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland Warns About the Rise in Russian Cyberattacks<a href="https://cyware.com/news/poland-warns-about-the-rise-in-russian-cyberattacks-9588eddf"> Full Text</a>

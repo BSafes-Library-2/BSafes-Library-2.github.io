@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm UEFI Flaws Expose Microsoft, Lenovo, Samsung Devices to Attacks<a href="https://www.securityweek.com/qualcomm-uefi-flaws-expose-microsoft-lenovo-samsung-devices-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Binarly, the Qualcomm vulnerabilities have been confirmed to impact — in addition to Lenovo devices — Arm-based Microsoft Surface and the Windows Dev Kit 2023 (Project Volterra) computers, as well as Samsung products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

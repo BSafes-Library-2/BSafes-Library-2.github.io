@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 08,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Turla Hackers Hijack Decade-Old Malware Infrastructure to Deploy New Backdoors<a href="https://thehackernews.com/2023/01/russian-turla-hackers-hijack-decade-old.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian cyberespionage group known as Turla has been observed piggybacking on attack infrastructure used by a decade-old malware to deliver its own reconnaissance and backdoor tools to targets in Ukraine. Google-owned Mandiant, which is tracking the operation under the uncategorized cluster moniker&nbsp; UNC4210 , said the hijacked servers correspond to a variant of a commodity malware called&nbsp; ANDROMEDA &nbsp;(aka Gamarue) that was uploaded to VirusTotal in 2013. "UNC4210 re-registered at least three expired ANDROMEDA command-and-control (C2) domains and began profiling victims to selectively deploy KOPILUWAK and QUIETCANARY in September 2022," Mandiant researchers&nbsp; said &nbsp;in an analysis published last week. Turla, also known by the names Iron Hunter, Krypton, Uroburos, Venomous Bear, and Waterbug, is an elite nation-state outfit that primarily targets government, diplomatic, and military organizations using a large set of custom malware. Since the onset of Russia's&nbsp; milit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reuters: Russian hackers targeted U.S. nuclear scientists<a href="https://www.reuters.com/world/europe/russian-hackers-targeted-us-nuclear-scientists-2023-01-06/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacking team known as Cold River targeted three nuclear research laboratories in the United States this past summer, according to internet records reviewed by Reuters and five cyber security experts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Turla Cyberspies Leveraged Other Hackers' USB-Delivered Malware<a href="https://www.securityweek.com/russian-turla-cyberspies-leveraged-other-hackers-usb-delivered-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active since at least 2006 and linked to the Russian government, the cyberespionage group is also tracked as Snake, Venomous Bear, Krypton, and Waterbug, and has been historically associated with the use of the ComRAT malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
