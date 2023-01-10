@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Gang Leaked 550 GB Stolen From Consulate Health Care<a href="https://securityaffairs.com/140452/cyber-crime/consulate-health-care-hive-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hive ransomware gang this week added the company to its Tor leak site, threatening to publish the stolen data. The gang states that the attack took place on December 3rd, 2022 and the attack was disclosed on January 6, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

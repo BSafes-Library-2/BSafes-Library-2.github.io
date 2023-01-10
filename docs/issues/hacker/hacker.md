@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated Libra Group Adopts New Tricks For Long Running Campaign<a href="https://cyware.com/news/automated-libra-group-adopts-new-tricks-for-long-running-campaign-a65d0f8b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automated Libra, a South African threat actor, has improved its technique that includes leveraging cloud platform resources for cryptocurrency mining. The group has been evolving its capabilities with CAPTCHA bypass and Play and Run techniques to abuse free cloud resources. Users are suggested to a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 09,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Abuse Visual Studio Marketplace to Target Developers with Malicious Extensions<a href="https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack vector targeting the Visual Studio Code extensions marketplace could be leveraged to upload rogue extensions masquerading as their legitimate counterparts with the goal of mounting supply chain attacks. The technique "could act as an entry point for an attack on many organizations," Aqua security researcher Ilay Goldman&nbsp; said &nbsp;in a report published last week. VS Code extensions, curated via a&nbsp; marketplace &nbsp;made available by Microsoft, allow developers to add programming languages, debuggers, and tools to the VS Code source-code editor to augment their workflows.&nbsp; "All extensions run with the privileges of the user that has opened the VS Code without any sandbox," Goldman said, explaining the potential risks of using VS Code extensions. "This means that the extension can install any program on your computer including ransomwares, wipers, and more." To that end, Aqua found that not only is it possible for a threat actor to impersonate a po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Genuine Windows Tool to Deliver Pupy RAT<a href="https://cyware.com/news/attackers-abuse-genuine-windows-tool-to-deliver-pupy-rat-26f6400e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers unearthed an interesting technique used by threat actors wherein they use WerFault.exe, the Windows Error Reporting tool, to execute Pupy RAT on the victims’ machine.&nbsp;The use of ISO files and abuse of genuine Windows tools to deliver Pupy RAT indicates that the operators of this ca ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chick-fil-A launched an investigation into “suspicious activity”<a href="https://securityaffairs.com/140476/hacking/chick-fil-a-investigates-suspicious-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fast food restaurant chain&nbsp;Chick-fil-A informed its customers of having launched an investigation into "suspicious activity."
+Chick-fil-A is an American fast food restaurant chain, it is the country's largest which specializes in chicken...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

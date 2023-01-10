@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing campaign targets government institution in Moldova<a href="https://securityaffairs.com/140516/intelligence/phishing-against-gov-institutions-moldova.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The government institutions of Moldova have been hit by a wave of phishing attacks since the country offered support to Ukraine.
+The government institutions of Moldova have been hit by a wave of phishing attacks, threat actors sent more than 1,330...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Termination Notices Leads to Phishing<a href="https://www.avanan.com/blog/facebook-termination-notices-leads-to-phishing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this phishing attack campaign, hackers purporting to be from Facebook are sending fake copyright infringement notices in the hopes of luring users to give their credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

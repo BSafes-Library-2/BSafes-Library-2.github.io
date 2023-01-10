@@ -8,6 +8,21 @@ nav_order: 900195
 
 ## Solution
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+inSicurezzaDigitale launches the Dashboard Ransomware Monitor<a href="https://securityaffairs.com/140544/malware/dashboard-ransomware-monitor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity blog inSicurezzaDigitale has launched the Italian Dashboard Ransomware Monitor to analyze the principal RaaSs' activities.
+Here it comes, inSicurezzaDigitale announced the Dashboard Ransomware Monitor, it is the second project after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

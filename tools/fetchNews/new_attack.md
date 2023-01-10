@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 09,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Cryptojacking Hits Kubernetes Clusters via Misconfigured PostgreSQL<a href="https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; Kinsing &nbsp;cryptojacking operation have been spotted exploiting misconfigured and exposed PostgreSQL servers to obtain initial access to Kubernetes environments. A second initial access vector technique entails the use of vulnerable images, Sunders Bruskin, security researcher at Microsoft Defender for Cloud,&nbsp; said &nbsp;in a report last week. Kinsing has a&nbsp; storied history &nbsp;of targeting&nbsp; containerized environments , often leveraging misconfigured open Docker daemon API ports as well as abusing newly disclosed exploits to drop cryptocurrency mining software. The threat actor, in the past, has also been discovered&nbsp; employing a rootkit &nbsp;to hide its presence, in addition to terminating and uninstalling competing resource-intensive services and processes. Now according to Microsoft, misconfigurations in&nbsp; PostgreSQL servers &nbsp;have been co-opted by the Kinsing actor to gain an initial foothold, with the company observing a "large amount of clusters" infe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

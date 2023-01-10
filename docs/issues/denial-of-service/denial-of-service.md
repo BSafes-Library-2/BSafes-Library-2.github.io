@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serbian Government Reports ‘Massive DDoS Attack’ Amid Heightened Tensions in Balkans<a href="https://therecord.media/serbian-government-reports-massive-ddos-attack-amid-heightened-tensions-in-balkans/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Serbian government announced on Saturday that the website and IT infrastructure of its Ministry of Internal Affairs had been hit by several “massive” distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

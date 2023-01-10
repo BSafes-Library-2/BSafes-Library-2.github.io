@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 09,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Study Uncovers Text-to-SQL Model Vulnerabilities Allowing Data Theft and DoS Attacks<a href="https://thehackernews.com/2023/01/new-study-uncovers-text-to-sql-model.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has demonstrated novel attacks that leverage Text-to-SQL models to produce malicious code that could enable adversaries to glean sensitive information and stage denial-of-service (DoS) attacks. "To better interact with users, a wide range of database applications employ AI techniques that can translate human questions into SQL queries (namely&nbsp; Text-to-SQL ),"&nbsp; Xutan Peng , a researcher at the University of Sheffield, told The Hacker News. "We found that by asking some specially designed questions, crackers can fool Text-to-SQL models to produce malicious code. As such code is automatically executed on the database, the consequence can be pretty severe (e.g., data breaches and DoS attacks)." The&nbsp; findings , which were validated against two commercial solutions&nbsp; BAIDU-UNIT &nbsp;and&nbsp; AI2sql , mark the first empirical instance where natural language processing (NLP) models have been exploited as an attack vector in the wild. The black box attacks a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 09,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Vehicles at Risk: API Vulnerabilities Uncovered in 16 Major Car Brands<a href="https://thehackernews.com/2023/01/millions-of-vehicles-at-risk-api.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple bugs affecting millions of vehicles from 16 different manufacturers could be abused to unlock, start, and track cars, plus impact the privacy of car owners. The&nbsp; security vulnerabilities &nbsp;were found in the automotive APIs powering Acura, BMW, Ferrari, Ford, Genesis, Honda, Hyundai, Infiniti, Jaguar, Kia, Land Rover, Mercedes-Benz, Nissan, Porsche, Rolls Royce, Toyota as well as in software from Reviver, SiriusXM, and Spireon. The flaws run a wide gamut, ranging from those that give access to internal company systems and user information to weaknesses that would allow an attacker to remotely send commands to achieve code execution. The research builds on earlier findings from late last year, when Yuga Labs researcher Sam Curry et al&nbsp; detailed &nbsp;security flaws in a connected vehicle service provided by SiriusXM that could potentially put cars at risk of remote attacks. The most serious of the issues, which concern Spireon's telematics solution, could have been exploited
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm Snapdragon flaws impact Lenovo, Microsoft, Lenovo, and Samsung devices<a href="https://securityaffairs.com/140528/security/qualcomm-snapdragon-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of software vulnerabilities affected Qualcomm firmware and impacted the devices of Microsoft, Lenovo, and Samsung.
+Qualcomm January 2023 security bulletin addressed 22 software vulnerabilities in its Snapdragon suite. Some of the flaws were reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Notifies Hitachi Energy Customers of High-Severity Vulnerabilities<a href="https://www.securityweek.com/cisa-notifies-hitachi-energy-customers-high-severity-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) published advisories last week to inform organizations using Hitachi Energy products about several recently addressed critical and high-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
