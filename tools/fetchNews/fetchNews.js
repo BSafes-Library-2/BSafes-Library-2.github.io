@@ -307,16 +307,20 @@ function getTheHackerNews($content, fn) {
 /* Check each new item, append a new item to new_index.md if the item doesn't exist in the dictionrary. */
 
     for (var i = 0; i < $newsList.length; i++) {
+			let parts;
       var thisItem = {};
       var $thisNew = $newsList.eq(i);
       thisItem.title = $.trim($thisNew.find('.home-title').text());
       thisItem.url = $thisNew.find('.story-link').attr('href');
-	  var itemLabel = $thisNew.find('.item-label').html();
-	  var dateStr =  itemLabel.split('</i>')[1].split('</span>')[0];
-	  var parts = dateStr.split(' ');
-      thisItem.date = shortMonths[parts[0].toUpperCase()]+ ' ' + parts[1] +  parts[2] ;
-      thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
-      newItems.push(thisItem);
+	  	var itemLabel = $thisNew.find('.item-label').html();
+			parts = itemLabel.split('</i>');
+			if(parts.length > 1) {
+	  		var dateStr =  itemLabel.split('</i>')[1].split('</span>')[0];
+	  		parts = dateStr.split(' ');
+      	thisItem.date = shortMonths[parts[0].toUpperCase()]+ ' ' + parts[1] +  parts[2] ;
+      	thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
+      	newItems.push(thisItem);
+			}
     }
   }
 	fn(null, newItems);
