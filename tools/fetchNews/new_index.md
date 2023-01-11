@@ -34,7 +34,252 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution-like bug variant discovered in Python<a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Abdulraheem Khaled has discovered a coding scheme that can allow attackers to perform prototype pollution-like attacks on Python programs. He calls it ‘class pollution’ in a blog post documenting his findings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity Hackers Distribute Trojanized Telegram App to Target Android Users<a href="https://thehackernews.com/2023/01/strongpity-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) group known as  StrongPity  has targeted Android users with a trojanized version of the Telegram app through a fake website that impersonates a video chat service called Shagle . "A copycat website, mimicking the Shagle service, is used to distribute StrongPity's mobile backdoor app," ESET malware researcher Lukáš Štefanko  said  in a technical report. "The app is a modified version of the open source Telegram app, repackaged with StrongPity backdoor code." StrongPity , also known by the names APT-C-41 and Promethium, is a cyberespionage group active since at least 2012, with a majority of its operations focused on Syria and Turkey. The existence of the group was first publicly reported by Kaspersky in October 2016. The threat actor's  campaigns  have since expanded to encompass more targets across Africa, Asia, Europe, and North America, with the intrusions leveraging watering hole attacks and phishing messages to ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gentlemen’s Rules for Reading Each Other’s Mail: The New OECD Principles on Government Access to Personal Data Held by Private Sector Entities<a href="https://www.lawfareblog.com/gentlemens-rules-reading-each-others-mail-new-oecd-principles-government-access-personal-data-held"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, major world democracies have gone public with a set of common protections that they apply when accessing individuals’ personal data for intelligence or law enforcement purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT spreads backdoored Android Telegram app via fake Shagle site<a href="https://securityaffairs.com/140613/apt/strongpity-backdoored-android-telegram-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The StrongPity APT group targeted Android users with a trojanized version of the Telegram app served through a website impersonating a video chat service called Shagle.
+ESET researchers reported that StrongPity APT group targeted Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Company That Supports Semiconductor Manufacturing Hit by Cyber Incident<a href="https://therecord.media/british-company-that-helps-make-semiconductors-hit-by-cyber-incident/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No explanation of the attack’s impact on its business operations has yet been disclosed, nor has the nature of the attack. The company stated it is “taking steps to ensure that its businesses can continue to trade with its customers and suppliers.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert Analysis Reveals Cryptographic Weaknesses in Threema Messaging App<a href="https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A comprehensive analysis of the cryptographic protocols used in the Swiss encrypted messaging application Threema has revealed a number of loopholes that could be exploited to break authentication protections and even recover users' private keys. The seven attacks span three different threat models,  according  to ETH Zurich researchers Kenneth G. Paterson, Matteo Scarlata, and Kien Tuong Truong, who reported the issues to Threema on October 3, 2022. The weaknesses have since been addressed as part of  updates  released by the company on November 29, 2022. Threema is an encrypted messaging app that's used by more than 11 million users as of October 2022. "Security and privacy are deeply ingrained in Threema's DNA," the company  claims  on its website. Officially used by the Swiss Government and the Swiss Army, it's also advertised as a secure alternative alongside other services such as Signal, Meta-owned WhatsApp, and Telegram. While Threema has been sub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Rooms was affected by four “high” severity vulnerabilities<a href="https://securityaffairs.com/140607/security/zoom-rooms-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom addressed four "high" severity vulnerabilities impacting its popular videoconferencing software Zoom Rooms.
+Zoom addressed four "high" severity vulnerabilities impacting its videoconferencing platform Zoom Rooms.
+Below are the details for the bugs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How DNSChanger Changed Cybersecurity<a href="https://securityintelligence.com/articles/dnschanger-and-global-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In November 2011, the FBI-led Operation Ghost Click raided malicious servers run by the Rove Digital cyber group. This was only after it had used the DNSChanger Trojan to infect over four million computers and generate $14 million in illicit profits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Users Warned of Malware Attack Targeting Sensitive Information<a href="https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been observed targeting Italy with phishing emails designed to deploy an information stealer on compromised Windows systems. "The info-stealer malware steals sensitive information like system info, crypto wallet and browser histories, cookies, and credentials of crypto wallets from victim machines," Uptycs security researcher Karthickkumar Kathiresan  said  in a report. Details of the campaign were first  disclosed  by Milan-based IT services firm SI.net last month. The multi-stage infection sequence commences with an invoice-themed phishing email containing a link that, when clicked, downloads a password-protected ZIP archive file, which harbors two files: A shortcut (.LNK) file and a batch (.BAT) file. Irrespective of which file is launched, the attack chain remains the same, as opening the shortcut file fetches the same batch script designed to install the information stealer payload from a GitHub repository. This is achieved by leveraging
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution bug discovered in the popular JsonWebToken library<a href="https://securityaffairs.com/140596/hacking/jsonwebtoken-library-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source jsonwebtoken (JWT) library is affected by a high-severity security flaw that could lead to remote code execution.
+The open-source JsonWebToken (JWT) library is affected by a high-severity security flaw, tracked as CVE-2022-23529 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers leak Russian data in hopes someone will make sense of it<a href="https://therecord.media/pro-ukraine-hackers-leak-russian-data-in-hopes-someone-will-make-sense-of-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American investigative reporter Emma Best, a founder of the whistleblower site Distributed Denial of Secrets (DDoSecrets), told The Record in July that hackers had leaked over 12 million Russian documents to the organization since February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Security Flaw Found in "jsonwebtoken" Library Used by 22,000+ Projects<a href="https://thehackernews.com/2023/01/critical-security-flaw-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the open source jsonwebtoken (JWT) library that, if successfully exploited, could lead to remote code execution on a target server. "By exploiting this  vulnerability , attackers could achieve remote code execution (RCE) on a server verifying a maliciously crafted JSON web token (JWT) request," Palo Alto Networks Unit 42 researcher Artur Oleyarsh  said  in a Monday report. Tracked as  CVE-2022-23529  (CVSS score: 7.6), the issue impacts all versions of the library, including and below 8.5.1, and has been addressed in  version 9.0.0  shipped on December 21, 2022. The flaw was reported by the cybersecurity company on July 13, 2022. jsonwebtoken, which is  developed and maintained  by Okta's Auth0, is a JavaScript module that allows users to decode, verify, and generate JSON web tokens as a means of securely transmitting information between two parties for authorization and authentication. It has over  10 million weekl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing malware targets Kubernetes environments via misconfigured PostgreSQL<a href="https://securityaffairs.com/140581/hacking/kinsing-malware-kubernetes-environments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kinsing cryptojacking operators are exploiting misconfigured and exposed PostgreSQL servers to access Kubernetes environments.
+Researchers at Microsoft Defender for Cloud observed threat actors behind the Kinsing cryptojacking operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco Bay Area Rapid Transit Investigating Vice Society Ransomware Attack<a href="https://therecord.media/san-francisco-bart-investigating-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the attack did not cause any damage and no riders were put at risk, city officials raised alarms in a report because the attackers could have reached critical systems and may have left backdoors inside.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook to pay $725 Million Settlement For Security Breach<a href="https://securereading.com/facebook-to-pay-725-million-settlement-for-security-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms has agreed to pay $725 million to settle a long-running lawsuit that allowed third parties, including Cambridge Analytica, to access users’ personal information without their consent for political advertising.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tactics of Four Ransomware Targeting macOS<a href="https://cyware.com/news/tactics-of-four-ransomware-targeting-macos-084cf468"> Full Text</a>
@@ -50,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kinsing Cryptojacking Hits Kubernetes Clusters via Misconfigured PostgreSQL<a href="https://thehackernews.com/2023/01/kinsing-cryptojacking-hits-kubernetes.html"> Full Text</a>
@@ -66,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One Small Legislative Step for Cybersecurity<a href="https://www.lawfareblog.com/one-small-legislative-step-cybersecurity"> Full Text</a>
@@ -82,7 +327,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Airline company Air France-KLM discloses security breach<a href="https://securityaffairs.com/140572/data-breach/air-france-klm-security-breach.html"> Full Text</a>
@@ -99,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automated Libra Group Adopts New Tricks For Long Running Campaign<a href="https://cyware.com/news/automated-libra-group-adopts-new-tricks-for-long-running-campaign-a65d0f8b"> Full Text</a>
@@ -115,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Study Uncovers Text-to-SQL Model Vulnerabilities Allowing Data Theft and DoS Attacks<a href="https://thehackernews.com/2023/01/new-study-uncovers-text-to-sql-model.html"> Full Text</a>
@@ -131,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing campaign targets government institution in Moldova<a href="https://securityaffairs.com/140516/intelligence/phishing-against-gov-institutions-moldova.html"> Full Text</a>
@@ -148,7 +393,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Termination Notices Leads to Phishing<a href="https://www.avanan.com/blog/facebook-termination-notices-leads-to-phishing?&web_view=true"> Full Text</a>
@@ -164,7 +409,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Do User Permissions Matter for SaaS Security?<a href="https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html"> Full Text</a>
@@ -180,7 +425,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Cold River APT targeted US nuclear research laboratories<a href="https://securityaffairs.com/140555/hacking/cold-river-apt-targets-nuclear-research.html"> Full Text</a>
@@ -197,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serbian Government Reports ‘Massive DDoS Attack’ Amid Heightened Tensions in Balkans<a href="https://therecord.media/serbian-government-reports-massive-ddos-attack-amid-heightened-tensions-in-balkans/?&web_view=true"> Full Text</a>
@@ -213,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Vehicles at Risk: API Vulnerabilities Uncovered in 16 Major Car Brands<a href="https://thehackernews.com/2023/01/millions-of-vehicles-at-risk-api.html"> Full Text</a>
@@ -229,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resecurity Released a Status Report on Drug Trafficking in the Dark Web (2022-2023)<a href="https://securityaffairs.com/140538/cyber-crime/drug-trafficking-dark-web.html"> Full Text</a>
@@ -246,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese researchers' claimed quantum encryption crack looks unlikely<a href="https://www.theregister.com/2023/01/07/chinese_researchers_claimed_quantum_encryption/?&web_view=true"> Full Text</a>
@@ -262,7 +507,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Packages Using Cloudflare Tunnels to Sneak Through Firewalls<a href="https://thehackernews.com/2023/01/malicious-pypi-packages-using.html"> Full Text</a>
@@ -278,7 +523,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm Snapdragon flaws impact Lenovo, Microsoft, Lenovo, and Samsung devices<a href="https://securityaffairs.com/140528/security/qualcomm-snapdragon-flaws.html"> Full Text</a>
@@ -295,7 +540,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Notifies Hitachi Energy Customers of High-Severity Vulnerabilities<a href="https://www.securityweek.com/cisa-notifies-hitachi-energy-customers-high-severity-vulnerabilities?&web_view=true"> Full Text</a>
@@ -311,7 +556,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top SaaS Cybersecurity Threats in 2023: Are You Ready?<a href="https://thehackernews.com/2023/01/top-saas-cybersecurity-threats-in-2023.html"> Full Text</a>
@@ -327,7 +572,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 inSicurezzaDigitale launches the Dashboard Ransomware Monitor<a href="https://securityaffairs.com/140544/malware/dashboard-ransomware-monitor.html"> Full Text</a>
@@ -344,7 +589,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2023
+January 9, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Gang Leaked 550 GB Stolen From Consulate Health Care<a href="https://securityaffairs.com/140452/cyber-crime/consulate-health-care-hive-ransomware.html?&web_view=true"> Full Text</a>
@@ -360,7 +605,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09,2023
+January 09,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Abuse Visual Studio Marketplace to Target Developers with Malicious Extensions<a href="https://thehackernews.com/2023/01/hackers-distributing-malicious-visual.html"> Full Text</a>
@@ -371,390 +616,6 @@ A new attack vector targeting the Visual Studio Code extensions marketplace coul
 </details>
 <div style="text-align: right" markdown="1">
 The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-The Benefits and Risks of Extending Weapons Deliveries to the Cyber Domain<a href="https://www.lawfareblog.com/benefits-and-risks-extending-weapons-deliveries-cyber-domain"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-While NATO members continue to supply weapons to Ukraine, they should consider the benefits and risks associated with extending these deliveries to include cyber weapons.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Private-Sector Cyber Defense in Armed Conflict<a href="https://www.lawfareblog.com/private-sector-cyber-defense-armed-conflict"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The private sector is playing an integral role in Ukrainian cyber defense in the armed conflict between Russia and Ukraine.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Defense Department Releases Zero Trust Strategy<a href="https://www.lawfareblog.com/defense-department-releases-zero-trust-strategy"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-On Nov. 22, the U.S. Department of Defense released their Zero Trust Strategy, a new approach to countering cyberattacks. The new framework employs a “‘never trust, always verify’” mindset, deviating from the Defense Department’s previously used perimeter defense model. The strategy is prompted by the “rapid growth” of offensive cyber threats and aims to fully implement the department-wide model by fiscal year 2027.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Keeping Up With Ransomware<a href="https://www.lawfareblog.com/keeping-ransomware"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The recent meeting of the International Counter Ransomware Initiative brought together representatives from over 30 countries and the private sector. It’s a good step in responding to different aspects of the ransomware threat, but the initiative seems to struggle to prevent future attacks.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 16, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cyber Norms in the Context of Armed Conflict<a href="https://www.lawfareblog.com/cyber-norms-context-armed-conflict"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-United Nations norms related to nation-state cyberspace operations clearly apply during peacetime, but recent events in Ukraine and Russia raise challenges regarding those norms’ applicability in armed conflict.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 10, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-The Securing Open Source Software Act Is Good, but Whatever Happened to Legal Liability?<a href="https://www.lawfareblog.com/securing-open-source-software-act-good-whatever-happened-legal-liability"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The recent introduction of the Securing Open Source Software Act, and its subsequent momentum, has stoked a debate about the true reason for the open source security problem and the merits of different solutions.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Quantifying Cyber Conflict: Introducing the European Repository on Cyber Incidents<a href="https://www.lawfareblog.com/quantifying-cyber-conflict-introducing-european-repository-cyber-incidents"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Statistical data on cyber conflict is lacking. A new dataset by a European research initiative called EuRepoC tries to solve this problem by launching a dashboard to visualize more than 1,400 cyber incidents.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-What Impact, if Any, Does Killnet Have?<a href="https://www.lawfareblog.com/what-impact-if-any-does-killnet-have"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Killnet, the pro-Russian hacktivist collective, launched an ineffective DDoS attack on U.S. government websites earlier this month, leaving many to wonder what the purpose of such groups is and what impact they actually have, especially amid the war in Ukraine.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-The Emerging Cyber Threat to the American Rail Industry<a href="https://www.lawfareblog.com/emerging-cyber-threat-american-rail-industry"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Adding trains to the Internet of Things opens the door to a new threat: cyberattacks.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Following the Supreme Court’s abortion ruling in Dobbs this past June, cross-border data requests between states for abortion-related investigations may start to resemble cross-border requests between countries and trigger new conflicts of law.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-‘Cyclops Blink’ Shows Why the SEC’s Proposed Cybersecurity Disclosure Rule Could Undermine the Nation’s Cybersecurity<a href="https://www.lawfareblog.com/cyclops-blink-shows-why-secs-proposed-cybersecurity-disclosure-rule-could-undermine-nations"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Well-timed public notification is a critical component of proper incident response. But mandating premature disclosure is irresponsible and would imperil public-private coordination focused on protecting the nation.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cybercriminals Are Selling Access to Chinese Surveillance Cameras<a href="https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.
-</details>
-<div style="text-align: right" markdown="1">
-Threatpost
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Twitter Whistleblower Complaint: The TL;DR Version<a href="https://threatpost.com/twitter-whistleblower-tldr-version/180472/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk. 
-</details>
-<div style="text-align: right" markdown="1">
-Threatpost
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Firewall Bug Under Active Attack Triggers CISA Warning<a href="https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP. 
-</details>
-<div style="text-align: right" markdown="1">
-Threatpost
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Fake Reservation Links Prey on Weary Travelers<a href="https://threatpost.com/reservation-links-prey-on-travelers/180462/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels. 
-</details>
-<div style="text-align: right" markdown="1">
-Threatpost
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 19, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-iPhone Users Urged to Update to Patch 2 Zero-Days<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
-</details>
-<div style="text-align: right" markdown="1">
-Threatpost
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 14, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Cyber Operations and Maschmeyer’s “Subversion Trilemma”<a href="https://www.lawfareblog.com/cyber-operations-and-maschmeyers-subversion-trilemma"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Subversive cyber operations are argued to have “limited utility in practice” because of the inherent trade-offs of the trilemma/quadrilemma. However, this assessment ignores several key factors.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Infiltrate, Exploit, Manipulate: Why the Subversive Nature of Cyber Conflict Explains Both Its Strategic Promise and Its Limitations<a href="https://www.lawfareblog.com/infiltrate-exploit-manipulate-why-subversive-nature-cyber-conflict-explains-both-its-strategic"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Cyber operations are not novel, nor is their impact revolutionary. They are instruments of subversion that promise great gains in theory but are constrained in practice by a crippling operational trilemma that limits strategic value.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Hack Global, Buy Local: The Inefficiencies of the Zero-Day Exploit Market<a href="https://www.lawfareblog.com/hack-global-buy-local-inefficiencies-zero-day-exploit-market"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Why the market for zero-day exploits is less efficient and more local than you might think.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 2, 2022
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Has the Time for an EU-U.S. Agreement on E-Evidence Come and Gone?<a href="https://www.lawfareblog.com/has-time-eu-us-agreement-e-evidence-come-and-gone"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A legislative deadlock in Brussels risks the future of U.S.-EU negotiations.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Towards OECD Principles for Government Access to Data<a href="https://www.lawfareblog.com/towards-oecd-principles-government-access-data"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Nascent OECD work to identify principles on government access to data for law enforcement and national security purposes can have important normative significance but also faces political hurdles.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-On Aug. 25, the U.K. Department for Digital, Culture, Media & Sport (DCMS) released important details about its post-Brexit strategy for cross-border flows of personal data. What's in the release?
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-EU Privacy Law and U.S. Surveillance: Solving the Problem of Transatlantic Data Transfers<a href="https://www.lawfareblog.com/eu-privacy-law-and-us-surveillance-solving-problem-transatlantic-data-transfers"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Most current approaches to resolving the EU-U.S. conflict fall short. It’s time for a hybrid approach.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2021
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-How Europe’s Intelligence Services Aim to Avoid the EU’s Highest Court—and What It Means for the United States<a href="https://www.lawfareblog.com/how-europes-intelligence-services-aim-avoid-eus-highest-court-and-what-it-means-united-states"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The United States now finds itself forced to consider changes to its foreign surveillance law and practices in order to reestablish a stable basis for transatlantic transfers of personal data.
-</details>
-<div style="text-align: right" markdown="1">
-Lawfare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
