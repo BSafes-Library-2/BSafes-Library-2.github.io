@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT spreads backdoored Android Telegram app via fake Shagle site<a href="https://securityaffairs.com/140613/apt/strongpity-backdoored-android-telegram-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The StrongPity&nbsp;APT group targeted Android users with a trojanized version of the Telegram app served through a website impersonating a video chat service called&nbsp;Shagle.
+ESET researchers reported that StrongPity&nbsp;APT group targeted Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

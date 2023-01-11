@@ -34,6 +34,251 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution-like bug variant discovered in Python<a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Abdulraheem Khaled has discovered a coding scheme that can allow attackers to perform prototype pollution-like attacks on Python programs. He calls it ‘class pollution’ in a blog post documenting his findings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity Hackers Distribute Trojanized Telegram App to Target Android Users<a href="https://thehackernews.com/2023/01/strongpity-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) group known as  StrongPity  has targeted Android users with a trojanized version of the Telegram app through a fake website that impersonates a video chat service called Shagle . "A copycat website, mimicking the Shagle service, is used to distribute StrongPity's mobile backdoor app," ESET malware researcher Lukáš Štefanko  said  in a technical report. "The app is a modified version of the open source Telegram app, repackaged with StrongPity backdoor code." StrongPity , also known by the names APT-C-41 and Promethium, is a cyberespionage group active since at least 2012, with a majority of its operations focused on Syria and Turkey. The existence of the group was first publicly reported by Kaspersky in October 2016. The threat actor's  campaigns  have since expanded to encompass more targets across Africa, Asia, Europe, and North America, with the intrusions leveraging watering hole attacks and phishing messages to ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gentlemen’s Rules for Reading Each Other’s Mail: The New OECD Principles on Government Access to Personal Data Held by Private Sector Entities<a href="https://www.lawfareblog.com/gentlemens-rules-reading-each-others-mail-new-oecd-principles-government-access-personal-data-held"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, major world democracies have gone public with a set of common protections that they apply when accessing individuals’ personal data for intelligence or law enforcement purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT spreads backdoored Android Telegram app via fake Shagle site<a href="https://securityaffairs.com/140613/apt/strongpity-backdoored-android-telegram-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The StrongPity APT group targeted Android users with a trojanized version of the Telegram app served through a website impersonating a video chat service called Shagle.
+ESET researchers reported that StrongPity APT group targeted Android...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Company That Supports Semiconductor Manufacturing Hit by Cyber Incident<a href="https://therecord.media/british-company-that-helps-make-semiconductors-hit-by-cyber-incident/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No explanation of the attack’s impact on its business operations has yet been disclosed, nor has the nature of the attack. The company stated it is “taking steps to ensure that its businesses can continue to trade with its customers and suppliers.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert Analysis Reveals Cryptographic Weaknesses in Threema Messaging App<a href="https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A comprehensive analysis of the cryptographic protocols used in the Swiss encrypted messaging application Threema has revealed a number of loopholes that could be exploited to break authentication protections and even recover users' private keys. The seven attacks span three different threat models,  according  to ETH Zurich researchers Kenneth G. Paterson, Matteo Scarlata, and Kien Tuong Truong, who reported the issues to Threema on October 3, 2022. The weaknesses have since been addressed as part of  updates  released by the company on November 29, 2022. Threema is an encrypted messaging app that's used by more than 11 million users as of October 2022. "Security and privacy are deeply ingrained in Threema's DNA," the company  claims  on its website. Officially used by the Swiss Government and the Swiss Army, it's also advertised as a secure alternative alongside other services such as Signal, Meta-owned WhatsApp, and Telegram. While Threema has been sub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Rooms was affected by four “high” severity vulnerabilities<a href="https://securityaffairs.com/140607/security/zoom-rooms-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom addressed four "high" severity vulnerabilities impacting its popular videoconferencing software Zoom Rooms.
+Zoom addressed four "high" severity vulnerabilities impacting its videoconferencing platform Zoom Rooms.
+Below are the details for the bugs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How DNSChanger Changed Cybersecurity<a href="https://securityintelligence.com/articles/dnschanger-and-global-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In November 2011, the FBI-led Operation Ghost Click raided malicious servers run by the Rove Digital cyber group. This was only after it had used the DNSChanger Trojan to infect over four million computers and generate $14 million in illicit profits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Users Warned of Malware Attack Targeting Sensitive Information<a href="https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been observed targeting Italy with phishing emails designed to deploy an information stealer on compromised Windows systems. "The info-stealer malware steals sensitive information like system info, crypto wallet and browser histories, cookies, and credentials of crypto wallets from victim machines," Uptycs security researcher Karthickkumar Kathiresan  said  in a report. Details of the campaign were first  disclosed  by Milan-based IT services firm SI.net last month. The multi-stage infection sequence commences with an invoice-themed phishing email containing a link that, when clicked, downloads a password-protected ZIP archive file, which harbors two files: A shortcut (.LNK) file and a batch (.BAT) file. Irrespective of which file is launched, the attack chain remains the same, as opening the shortcut file fetches the same batch script designed to install the information stealer payload from a GitHub repository. This is achieved by leveraging
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution bug discovered in the popular JsonWebToken library<a href="https://securityaffairs.com/140596/hacking/jsonwebtoken-library-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source jsonwebtoken (JWT) library is affected by a high-severity security flaw that could lead to remote code execution.
+The open-source JsonWebToken (JWT) library is affected by a high-severity security flaw, tracked as CVE-2022-23529 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers leak Russian data in hopes someone will make sense of it<a href="https://therecord.media/pro-ukraine-hackers-leak-russian-data-in-hopes-someone-will-make-sense-of-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American investigative reporter Emma Best, a founder of the whistleblower site Distributed Denial of Secrets (DDoSecrets), told The Record in July that hackers had leaked over 12 million Russian documents to the organization since February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Security Flaw Found in "jsonwebtoken" Library Used by 22,000+ Projects<a href="https://thehackernews.com/2023/01/critical-security-flaw-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the open source jsonwebtoken (JWT) library that, if successfully exploited, could lead to remote code execution on a target server. "By exploiting this  vulnerability , attackers could achieve remote code execution (RCE) on a server verifying a maliciously crafted JSON web token (JWT) request," Palo Alto Networks Unit 42 researcher Artur Oleyarsh  said  in a Monday report. Tracked as  CVE-2022-23529  (CVSS score: 7.6), the issue impacts all versions of the library, including and below 8.5.1, and has been addressed in  version 9.0.0  shipped on December 21, 2022. The flaw was reported by the cybersecurity company on July 13, 2022. jsonwebtoken, which is  developed and maintained  by Okta's Auth0, is a JavaScript module that allows users to decode, verify, and generate JSON web tokens as a means of securely transmitting information between two parties for authorization and authentication. It has over  10 million weekl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing malware targets Kubernetes environments via misconfigured PostgreSQL<a href="https://securityaffairs.com/140581/hacking/kinsing-malware-kubernetes-environments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kinsing cryptojacking operators are exploiting misconfigured and exposed PostgreSQL servers to access Kubernetes environments.
+Researchers at Microsoft Defender for Cloud observed threat actors behind the Kinsing cryptojacking operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco Bay Area Rapid Transit Investigating Vice Society Ransomware Attack<a href="https://therecord.media/san-francisco-bart-investigating-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the attack did not cause any damage and no riders were put at risk, city officials raised alarms in a report because the attackers could have reached critical systems and may have left backdoors inside.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook to pay $725 Million Settlement For Security Breach<a href="https://securereading.com/facebook-to-pay-725-million-settlement-for-security-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms has agreed to pay $725 million to settle a long-running lawsuit that allowed third parties, including Cambridge Analytica, to access users’ personal information without their consent for political advertising.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 9, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

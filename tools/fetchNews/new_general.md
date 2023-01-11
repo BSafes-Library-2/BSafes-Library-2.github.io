@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gentlemen’s Rules for Reading Each Other’s Mail: The New OECD Principles on Government Access to Personal Data Held by Private Sector Entities<a href="https://www.lawfareblog.com/gentlemens-rules-reading-each-others-mail-new-oecd-principles-government-access-personal-data-held"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, major world democracies have gone public with a set of common protections that they apply when accessing individuals’ personal data for intelligence or law enforcement purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

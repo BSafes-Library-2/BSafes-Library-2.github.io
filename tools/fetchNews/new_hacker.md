@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 10,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity Hackers Distribute Trojanized Telegram App to Target Android Users<a href="https://thehackernews.com/2023/01/strongpity-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) group known as&nbsp; StrongPity &nbsp;has targeted Android users with a trojanized version of the Telegram app through a fake website that impersonates a video chat service called Shagle . "A copycat website, mimicking the Shagle service, is used to distribute StrongPity's mobile backdoor app," ESET malware researcher Lukáš Štefanko&nbsp; said &nbsp;in a technical report. "The app is a modified version of the open source Telegram app, repackaged with StrongPity backdoor code." StrongPity , also known by the names APT-C-41 and Promethium, is a cyberespionage group active since at least 2012, with a majority of its operations focused on Syria and Turkey. The existence of the group was first publicly reported by Kaspersky in October 2016. The threat actor's&nbsp; campaigns &nbsp;have since expanded to encompass more targets across Africa, Asia, Europe, and North America, with the intrusions leveraging watering hole attacks and phishing messages to ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

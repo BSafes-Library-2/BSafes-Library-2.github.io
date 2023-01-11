@@ -8,6 +8,79 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prototype pollution-like bug variant discovered in Python<a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Abdulraheem Khaled has discovered a coding scheme that can allow attackers to perform prototype pollution-like attacks on Python programs. He calls it ‘class pollution’ in a blog post documenting his findings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert Analysis Reveals Cryptographic Weaknesses in Threema Messaging App<a href="https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A comprehensive analysis of the cryptographic protocols used in the Swiss encrypted messaging application Threema has revealed a number of loopholes that could be exploited to break authentication protections and even recover users' private keys. The seven attacks span three different threat models,&nbsp; according &nbsp;to ETH Zurich researchers Kenneth G. Paterson, Matteo Scarlata, and Kien Tuong Truong, who reported the issues to Threema on October 3, 2022. The weaknesses have since been addressed as part of&nbsp; updates &nbsp;released by the company on November 29, 2022. Threema is an encrypted messaging app that's used by more than 11 million users as of October 2022. "Security and privacy are deeply ingrained in Threema's DNA," the company&nbsp; claims &nbsp;on its website. Officially used by the Swiss Government and the Swiss Army, it's also advertised as a secure alternative alongside other services such as Signal, Meta-owned WhatsApp, and Telegram. While Threema has been sub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom Rooms was affected by four “high” severity vulnerabilities<a href="https://securityaffairs.com/140607/security/zoom-rooms-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom addressed four "high" severity vulnerabilities impacting its popular videoconferencing software Zoom Rooms.
+Zoom addressed four "high" severity vulnerabilities impacting its videoconferencing platform Zoom Rooms.
+Below are the details for the bugs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote code execution bug discovered in the popular JsonWebToken library<a href="https://securityaffairs.com/140596/hacking/jsonwebtoken-library-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source jsonwebtoken (JWT) library is affected by a high-severity security flaw that could lead to remote code execution.
+The open-source JsonWebToken (JWT) library is affected by a high-severity security flaw, tracked as&nbsp;CVE-2022-23529&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Security Flaw Found in "jsonwebtoken" Library Used by 22,000+ Projects<a href="https://thehackernews.com/2023/01/critical-security-flaw-found-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the open source jsonwebtoken (JWT) library that, if successfully exploited, could lead to remote code execution on a target server. "By exploiting this&nbsp; vulnerability , attackers could achieve remote code execution (RCE) on a server verifying a maliciously crafted JSON web token (JWT) request," Palo Alto Networks Unit 42 researcher Artur Oleyarsh&nbsp; said &nbsp;in a Monday report. Tracked as&nbsp; CVE-2022-23529 &nbsp;(CVSS score: 7.6), the issue impacts all versions of the library, including and below 8.5.1, and has been addressed in&nbsp; version 9.0.0 &nbsp;shipped on December 21, 2022. The flaw was reported by the cybersecurity company on July 13, 2022. jsonwebtoken, which is&nbsp; developed and maintained &nbsp;by Okta's Auth0, is a JavaScript module that allows users to decode, verify, and generate JSON web tokens as a means of securely transmitting information between two parties for authorization and authentication. It has over&nbsp; 10 million weekl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

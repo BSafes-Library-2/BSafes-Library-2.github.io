@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers leak Russian data in hopes someone will make sense of it<a href="https://therecord.media/pro-ukraine-hackers-leak-russian-data-in-hopes-someone-will-make-sense-of-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American investigative reporter Emma Best, a founder of the whistleblower site Distributed Denial of Secrets (DDoSecrets), told The Record in July that hackers had leaked over 12 million Russian documents to the organization since February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

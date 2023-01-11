@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Company That Supports Semiconductor Manufacturing Hit by Cyber Incident<a href="https://therecord.media/british-company-that-helps-make-semiconductors-hit-by-cyber-incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No explanation of the attack’s impact on its business operations has yet been disclosed, nor has the nature of the attack. The company stated it is “taking steps to ensure that its businesses can continue to trade with its customers and suppliers.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Users Warned of Malware Attack Targeting Sensitive Information<a href="https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been observed targeting Italy with phishing emails designed to deploy an information stealer on compromised Windows systems. "The info-stealer malware steals sensitive information like system info, crypto wallet and browser histories, cookies, and credentials of crypto wallets from victim machines," Uptycs security researcher Karthickkumar Kathiresan&nbsp; said &nbsp;in a report. Details of the campaign were first&nbsp; disclosed &nbsp;by Milan-based IT services firm SI.net last month. The multi-stage infection sequence commences with an invoice-themed phishing email containing a link that, when clicked, downloads a password-protected ZIP archive file, which harbors two files: A shortcut (.LNK) file and a batch (.BAT) file. Irrespective of which file is launched, the attack chain remains the same, as opening the shortcut file fetches the same batch script designed to install the information stealer payload from a GitHub repository. This is achieved by leveraging
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco Bay Area Rapid Transit Investigating Vice Society Ransomware Attack<a href="https://therecord.media/san-francisco-bart-investigating-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the attack did not cause any damage and no riders were put at risk, city officials raised alarms in a report because the attackers could have reached critical systems and may have left backdoors inside.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

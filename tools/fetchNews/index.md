@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prototype pollution-like bug variant discovered in Python<a href="https://portswigger.net/daily-swig/prototype-pollution-like-bug-variant-discovered-in-python?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10,2023
+January 10,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StrongPity Hackers Distribute Trojanized Telegram App to Target Android Users<a href="https://thehackernews.com/2023/01/strongpity-hackers-distribute.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gentlemen’s Rules for Reading Each Other’s Mail: The New OECD Principles on Government Access to Personal Data Held by Private Sector Entities<a href="https://www.lawfareblog.com/gentlemens-rules-reading-each-others-mail-new-oecd-principles-government-access-personal-data-held"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StrongPity APT spreads backdoored Android Telegram app via fake Shagle site<a href="https://securityaffairs.com/140613/apt/strongpity-backdoored-android-telegram-app.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Company That Supports Semiconductor Manufacturing Hit by Cyber Incident<a href="https://therecord.media/british-company-that-helps-make-semiconductors-hit-by-cyber-incident/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10,2023
+January 10,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert Analysis Reveals Cryptographic Weaknesses in Threema Messaging App<a href="https://thehackernews.com/2023/01/expert-analysis-reveals-cryptographic.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom Rooms was affected by four “high” severity vulnerabilities<a href="https://securityaffairs.com/140607/security/zoom-rooms-vulnerabilities.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How DNSChanger Changed Cybersecurity<a href="https://securityintelligence.com/articles/dnschanger-and-global-cybersecurity/?&web_view=true"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10,2023
+January 10,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian Users Warned of Malware Attack Targeting Sensitive Information<a href="https://thehackernews.com/2023/01/italian-users-warned-of-malware-attack.html"> Full Text</a>
@@ -181,7 +181,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote code execution bug discovered in the popular JsonWebToken library<a href="https://securityaffairs.com/140596/hacking/jsonwebtoken-library-rce.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Ukraine hackers leak Russian data in hopes someone will make sense of it<a href="https://therecord.media/pro-ukraine-hackers-leak-russian-data-in-hopes-someone-will-make-sense-of-it/?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10,2023
+January 10,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe Security Flaw Found in "jsonwebtoken" Library Used by 22,000+ Projects<a href="https://thehackernews.com/2023/01/critical-security-flaw-found-in.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kinsing malware targets Kubernetes environments via misconfigured PostgreSQL<a href="https://securityaffairs.com/140581/hacking/kinsing-malware-kubernetes-environments.html"> Full Text</a>
@@ -247,7 +247,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Francisco Bay Area Rapid Transit Investigating Vice Society Ransomware Attack<a href="https://therecord.media/san-francisco-bart-investigating-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2023
+January 10, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook to pay $725 Million Settlement For Security Breach<a href="https://securereading.com/facebook-to-pay-725-million-settlement-for-security-breach/?&web_view=true"> Full Text</a>

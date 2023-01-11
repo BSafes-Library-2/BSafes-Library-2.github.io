@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 09,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Do User Permissions Matter for SaaS Security?<a href="https://thehackernews.com/2023/01/why-do-user-permissions-matter-for-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this year, threat actors infiltrated&nbsp; Mailchimp , the popular SaaS email marketing platform. They viewed over 300 Mailchimp customer accounts and exported audience data from 102 of them. The breach was preceded by a successful phishing attempt and led to malicious attacks against Mailchimp's customers' end users. Three months later, Mailchimp was hit with&nbsp; another attack . Once again, an employee's account was breached following a successful phishing attempt. While the identity of the Mailchimp accounts that had been compromised wasn't released, it's easy to see how user permission settings could have played a role in the attack. Once threat detectors breached the system, they had the access needed to utilize an internal tool that enabled them to find the data they were looking for. The attack ended when security teams were able to terminate user access, although data which had already been downloaded remained in the threat actor's hands. Introducing user permissions, throu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resecurity Released a Status Report on Drug Trafficking in the Dark Web (2022-2023)<a href="https://securityaffairs.com/140538/cyber-crime/drug-trafficking-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Resecurity published report on drug trafficking marketplaces currently operating in the Dark Web
+Resecurity, a Los Angeles-based cybersecurity and risk management provider has released an eye-opening report on drug trafficking marketplaces...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 09,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top SaaS Cybersecurity Threats in 2023: Are You Ready?<a href="https://thehackernews.com/2023/01/top-saas-cybersecurity-threats-in-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals will be as busy as ever this year. Stay safe and protect your systems and data by focusing on these 4 key areas to secure your environment and ensure success in 2023, and make sure your business is only in the headlines when you WANT it to be.&nbsp; 1 — Web application weaknesses Web applications are at the core of what SaaS companies do and how they operate, and they can store some of your most sensitive information such as valuable customer data.&nbsp; SaaS applications are often multi-tenanted, so your applications need to be secure against attacks where one customer could access the data of another customer, such as logic flaws, injection flaws, or access control weaknesses. These are easy to exploit by hackers, and easy mistakes to make when writing code.&nbsp; Security testing with an automated vulnerability scanner in combination with regular pentesting can help you design and build secure web applications by integrating with your existing environment, catching vulnerabilit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

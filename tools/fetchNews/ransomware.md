@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tactics of Four Ransomware Targeting macOS<a href="https://cyware.com/news/tactics-of-four-ransomware-targeting-macos-084cf468"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has laid bare four ransomware families, namely KeRanger, FileCoder, MacRansom, and EvilQuest, that are targeting macOS systems worldwide. The initial vector for all these malware is a user-assisted method, where the victim downloads and installs trojanized apps.&nbsp;The attackers rely on ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

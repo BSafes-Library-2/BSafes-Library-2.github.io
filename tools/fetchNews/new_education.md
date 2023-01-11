@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How DNSChanger Changed Cybersecurity<a href="https://securityintelligence.com/articles/dnschanger-and-global-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In November 2011, the FBI-led Operation Ghost Click raided malicious servers run by the Rove Digital cyber group. This was only after it had used the DNSChanger Trojan to infect over four million computers and generate $14 million in illicit profits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

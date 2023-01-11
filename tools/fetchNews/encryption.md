@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese researchers' claimed quantum encryption crack looks unlikely<a href="https://www.theregister.com/2023/01/07/chinese_researchers_claimed_quantum_encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Briefly this week, it appeared that quantum computers might finally be ready to break 2048-bit RSA encryption, but that moment has passed. An academic paper was released by two dozen authors affiliated with seven research institutions in China.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

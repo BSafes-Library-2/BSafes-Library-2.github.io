@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Cold River APT targeted US nuclear research laboratories<a href="https://securityaffairs.com/140555/hacking/cold-river-apt-targets-nuclear-research.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Cold River APT targeted three nuclear research laboratories in the United States in 2022 summer, Reuters reported.
+Reuters reported that the Russia-linked APT group Cold River (aka Calisto) targeted three nuclear research laboratories...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
