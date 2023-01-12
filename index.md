@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange bugs top list of exploited vulnerabilities affecting financial sector<a href="https://therecord.media/microsoft-exchange-bugs-top-list-of-exploited-vulnerabilities-affecting-financial-sector/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11,2023
+January 11,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Analysis Reveals Raspberry Robin Can be Repurposed by Other Threat Actors<a href="https://thehackernews.com/2023/01/new-analysis-reveals-raspberry-robin.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Mail is suffering service disruption due to a ‘cyber incident’<a href="https://securityaffairs.com/140667/hacking/royal-mail-suffered-cyber-incident.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Info-Stealer Malware Campaign Targets Italian Users<a href="https://cyware.com/news/new-info-stealer-malware-campaign-targets-italian-users-010e2d29"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11,2023
+January 11,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Healthcare Sector Targeted in Latest Gootkit Malware Attacks<a href="https://thehackernews.com/2023/01/australian-healthcare-sector-targeted.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Loader campaign targets Australian Healthcare Industry<a href="https://securityaffairs.com/140655/malware/gootkit-loader-targets-australia.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware tracker: the latest figures [January 2023]<a href="https://therecord.media/ransomware-tracker-the-latest-figures/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11,2023
+January 11,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unlock Your Potential: Get 9 Online Cyber Security Courses for Just $49.99<a href="https://thehackernews.com/2023/01/unlock-your-potential-get-9-online.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA adds MS Exchange bug CVE-2022-41080 to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140647/security/cisa-known-exploited-vulnerabilities-catalog-cve-2022-41080.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StrongPity APT Uses Trojanized Telegram App to Backdoor its Victims<a href="https://cyware.com/news/strongpity-apt-uses-trojanized-telegram-app-to-backdoor-its-victims-a213f815"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11,2023
+January 11,2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Pink APT Group Targets Governments and Military in APAC Region<a href="https://thehackernews.com/2023/01/dark-pink-apt-group-targets-governments.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for January 2023 fixed actively exploited zero-day<a href="https://securityaffairs.com/140633/security/microsoft-patch-tuesday-for-january-2023.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Completes its Attack After Five Months<a href="https://cyware.com/news/lorenz-ransomware-completes-its-attack-after-five-months-3a6fd672"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11,2023
+January 11,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit<a href="https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2023
+January 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Leak Impacts Information of 10,000 French Social Security Beneficiaries<a href="https://www.csoonline.com/article/3685233/data-leak-exposes-information-of-10-000-french-social-security-beneficiaries.html?&web_view=true"> Full Text</a>

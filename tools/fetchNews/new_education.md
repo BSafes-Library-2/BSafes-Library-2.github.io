@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 11,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unlock Your Potential: Get 9 Online Cyber Security Courses for Just $49.99<a href="https://thehackernews.com/2023/01/unlock-your-potential-get-9-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you looking to take your career in the information security industry to the next level? Look no further than the 2023 Certified Technology Professional Bundle ! This unparalleled offer grants you lifetime access to nine comprehensive courses in information security, hacking, and cybersecurity at a remarkable price of just $49.99. Yes, you heard me right. Instead of paying the full price of $1,791.00, you can now get access to all of these exceptional courses for a fraction of the original price. These courses cover everything from fundamental cybersecurity concepts to advanced hacking and vulnerability assessment methods, and are taught by industry experts with years of experience. But why should you invest in this package? First, with the increasing reliance on technology and the Internet, information security has become an important issue for individuals and businesses. The bundle provides in-depth knowledge and skills to protect against cyber threats. As a result, you will
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

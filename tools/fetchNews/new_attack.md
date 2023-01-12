@@ -8,6 +8,64 @@ nav_order: 900015
 
 ## Attack
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Info-Stealer Malware Campaign Targets Italian Users<a href="https://cyware.com/news/new-info-stealer-malware-campaign-targets-italian-users-010e2d29"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-stage infection sequence begins with a phishing email containing a link that downloads a password-protected ZIP archive file with two files: a shortcut (.LNK) file and a batch (.BAT) file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Healthcare Sector Targeted in Latest Gootkit Malware Attacks<a href="https://thehackernews.com/2023/01/australian-healthcare-sector-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wave of Gootkit malware loader attacks has targeted the Australian healthcare sector by leveraging legitimate tools like VLC Media Player. Gootkit , also called Gootloader, is&nbsp; known &nbsp;to&nbsp; employ &nbsp;search engine optimization (SEO) poisoning tactics (aka spamdexing) for initial access. It typically works by compromising and abusing legitimate infrastructure and seeding those sites with common keywords. Like other malware of its kind, Gootkit is capable of stealing data from the browser, performing adversary-in-the-browser (AitB) attacks, keylogging, taking screenshots, and other malicious actions. Trend Micro's&nbsp; new findings &nbsp;reveal that the keywords "hospital," "health," "medical," and "enterprise agreement" have been paired with various city names in Australia,&nbsp;marking the malware's expansion beyond accounting and law firms. The starting point of the cyber assault is to direct users searching for the same keywords to an infected Wo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Loader campaign targets Australian Healthcare Industry<a href="https://securityaffairs.com/140655/malware/gootkit-loader-targets-australia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting organizations in the Australian healthcare sector with the Gootkit malware loader.
+Trend Micro researchers warn that Gootkit Loader is actively targeting the Australian healthcare industry.
+The experts analyzed a series...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Completes its Attack After Five Months<a href="https://cyware.com/news/lorenz-ransomware-completes-its-attack-after-five-months-3a6fd672"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+S-RM researchers identified a Lorenz ransomware attack that was completed months after the attackers gained initial access. They exploited CVE-2022-29499, a vulnerability in Mitel telephony infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

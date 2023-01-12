@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT Uses Trojanized Telegram App to Backdoor its Victims<a href="https://cyware.com/news/strongpity-apt-uses-trojanized-telegram-app-to-backdoor-its-victims-a213f815"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to   ESET researchers  , attackers use a fake Shagle website that tricks victims into downloading the malicious APK file. In reality, the app is a trojanized version of the standard Telegram app for Android.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Pink APT Group Targets Governments and Military in APAC Region<a href="https://thehackernews.com/2023/01/dark-pink-apt-group-targets-governments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and military organizations in the Asia-Pacific region are being targeted by a previously unknown advanced persistent threat (APT) actor, per the latest research conducted by Albert Priego of Group-IB Singapore-headquartered Group-IB, in a&nbsp; report &nbsp;shared with The Hacker News, said it's tracking the ongoing campaign under the name&nbsp; Dark Pink &nbsp;and attributed seven successful attacks to the adversarial collective between June and December 2022. The bulk of the attacks have singled out military bodies, government ministries and agencies, and religious and non-profit organizations in Cambodia, Indonesia, Malaysia, Philippines, Vietnam, and Bosnia and Herzegovina, with one unsuccessful intrusion reported against an unnamed European state development body based in Vietnam. The threat actor is estimated to have commenced its operations way back in mid-2021, although the attacks ramped up only a year later using a never-before-seen custom toolkit designed to plunder valuable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,251 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange bugs top list of exploited vulnerabilities affecting financial sector<a href="https://therecord.media/microsoft-exchange-bugs-top-list-of-exploited-vulnerabilities-affecting-financial-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at LookingGlass examined public internet-facing assets from over 7 million IP addresses belonging to the sector in November 2022 – finding that a seven-year-old RCE vulnerability affecting Microsoft Windows topped the list.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Analysis Reveals Raspberry Robin Can be Repurposed by Other Threat Actors<a href="https://thehackernews.com/2023/01/new-analysis-reveals-raspberry-robin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of Raspberry Robin's attack infrastructure has  revealed  that it's possible for other threat actors to repurpose the infections for their own malicious activities, making it an even more potent threat. Raspberry Robin (aka QNAP worm), attributed to a threat actor dubbed DEV-0856, is malware that has  increasingly   come under the radar  for being used in attacks aimed at finance, government, insurance, and telecom entities. Given its use multiple threat actors to drop a wide range of payloads such as SocGholish , Bumblebee ,  TrueBot ,  IcedID , and  LockBit  ransomware, it's suspected to be a pay-per-install (PPI) botnet capable of serving next-stage payloads. Raspberry Robin, notably, employs infected USB drives as a propagation mechanism and leverages breached QNAP network-attached storage (NAS) devices as first-level command-and-control (C2). Cybersecurity firm SEKOIA said it was able to identify at least eight virtual private servers (VPSs) hosted
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail is suffering service disruption due to a ‘cyber incident’<a href="https://securityaffairs.com/140667/hacking/royal-mail-suffered-cyber-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Mail, Britain’s postal service, announced it has suffered a “cyber incident” that caused a "severe service disruption.”
+Royal Mail, the British multinational postal service and courier company, announced this week that a “cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Info-Stealer Malware Campaign Targets Italian Users<a href="https://cyware.com/news/new-info-stealer-malware-campaign-targets-italian-users-010e2d29"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-stage infection sequence begins with a phishing email containing a link that downloads a password-protected ZIP archive file with two files: a shortcut (.LNK) file and a batch (.BAT) file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11,2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Healthcare Sector Targeted in Latest Gootkit Malware Attacks<a href="https://thehackernews.com/2023/01/australian-healthcare-sector-targeted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A wave of Gootkit malware loader attacks has targeted the Australian healthcare sector by leveraging legitimate tools like VLC Media Player. Gootkit , also called Gootloader, is  known  to  employ  search engine optimization (SEO) poisoning tactics (aka spamdexing) for initial access. It typically works by compromising and abusing legitimate infrastructure and seeding those sites with common keywords. Like other malware of its kind, Gootkit is capable of stealing data from the browser, performing adversary-in-the-browser (AitB) attacks, keylogging, taking screenshots, and other malicious actions. Trend Micro's  new findings  reveal that the keywords "hospital," "health," "medical," and "enterprise agreement" have been paired with various city names in Australia, marking the malware's expansion beyond accounting and law firms. The starting point of the cyber assault is to direct users searching for the same keywords to an infected Wo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Loader campaign targets Australian Healthcare Industry<a href="https://securityaffairs.com/140655/malware/gootkit-loader-targets-australia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting organizations in the Australian healthcare sector with the Gootkit malware loader.
+Trend Micro researchers warn that Gootkit Loader is actively targeting the Australian healthcare industry.
+The experts analyzed a series...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware tracker: the latest figures [January 2023]<a href="https://therecord.media/ransomware-tracker-the-latest-figures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of victims posted on ransomware extortion sites rose more than 20% in December to 241 organizations — the highest monthly count since April, according to data collected by Recorded Future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11,2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unlock Your Potential: Get 9 Online Cyber Security Courses for Just $49.99<a href="https://thehackernews.com/2023/01/unlock-your-potential-get-9-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you looking to take your career in the information security industry to the next level? Look no further than the 2023 Certified Technology Professional Bundle ! This unparalleled offer grants you lifetime access to nine comprehensive courses in information security, hacking, and cybersecurity at a remarkable price of just $49.99. Yes, you heard me right. Instead of paying the full price of $1,791.00, you can now get access to all of these exceptional courses for a fraction of the original price. These courses cover everything from fundamental cybersecurity concepts to advanced hacking and vulnerability assessment methods, and are taught by industry experts with years of experience. But why should you invest in this package? First, with the increasing reliance on technology and the Internet, information security has become an important issue for individuals and businesses. The bundle provides in-depth knowledge and skills to protect against cyber threats. As a result, you will
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA adds MS Exchange bug CVE-2022-41080 to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140647/security/cisa-known-exploited-vulnerabilities-catalog-cve-2022-41080.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added Microsoft Exchange elevation of privileges bug CVE-2022-41080 to its Known Exploited Vulnerabilities Catalog.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added two new vulnerabilities to its Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StrongPity APT Uses Trojanized Telegram App to Backdoor its Victims<a href="https://cyware.com/news/strongpity-apt-uses-trojanized-telegram-app-to-backdoor-its-victims-a213f815"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to   ESET researchers  , attackers use a fake Shagle website that tricks victims into downloading the malicious APK file. In reality, the app is a trojanized version of the standard Telegram app for Android.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11,2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Pink APT Group Targets Governments and Military in APAC Region<a href="https://thehackernews.com/2023/01/dark-pink-apt-group-targets-governments.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and military organizations in the Asia-Pacific region are being targeted by a previously unknown advanced persistent threat (APT) actor, per the latest research conducted by Albert Priego of Group-IB Singapore-headquartered Group-IB, in a  report  shared with The Hacker News, said it's tracking the ongoing campaign under the name  Dark Pink  and attributed seven successful attacks to the adversarial collective between June and December 2022. The bulk of the attacks have singled out military bodies, government ministries and agencies, and religious and non-profit organizations in Cambodia, Indonesia, Malaysia, Philippines, Vietnam, and Bosnia and Herzegovina, with one unsuccessful intrusion reported against an unnamed European state development body based in Vietnam. The threat actor is estimated to have commenced its operations way back in mid-2021, although the attacks ramped up only a year later using a never-before-seen custom toolkit designed to plunder valuable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for January 2023 fixed actively exploited zero-day<a href="https://securityaffairs.com/140633/security/microsoft-patch-tuesday-for-january-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for January 2023 fixed 97 flaws and an actively exploited zero-day.
+Microsoft Patch Tuesday security updates for January 2023 addressed a total of 98 vulnerabilities in Microsoft Windows and Windows Components;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Completes its Attack After Five Months<a href="https://cyware.com/news/lorenz-ransomware-completes-its-attack-after-five-months-3a6fd672"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+S-RM researchers identified a Lorenz ransomware attack that was completed months after the attackers gained initial access. They exploited CVE-2022-29499, a vulnerability in Mitel telephony infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit<a href="https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first Patch Tuesday fixes shipped by Microsoft for 2023 have addressed a total of  98 security flaws , including one bug that the company said is being actively exploited in the wild. 11 of the 98 issues are rated Critical and 87 are rated Important in severity, with one of the vulnerabilities also listed as publicly known at the time of release. Separately, the Windows maker is expected to release updates for its Chromium-based Edge browser.  The vulnerability that's under attack relates to  CVE-2023-21674  (CVSS score: 8.8), a privilege escalation flaw in Windows Advanced Local Procedure Call ( ALPC ) that could be exploited by an attacker to gain SYSTEM permissions. "This vulnerability could lead to a browser sandbox escape," Microsoft noted in an advisory, crediting Avast researchers Jan Vojtěšek, Milánek, and Przemek Gmerek for reporting the bug. While details of the vulnerability are still under wraps, a successful exploit requires an attacker to have alrea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak Impacts Information of 10,000 French Social Security Beneficiaries<a href="https://www.csoonline.com/article/3685233/data-leak-exposes-information-of-10-000-french-social-security-beneficiaries.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 10,000 beneficiaries of a local branch of the French social security agency CAF, or Family Allowance Fund, saw their data exposed for about 18 months, after a file containing personal information was sent to a service provider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

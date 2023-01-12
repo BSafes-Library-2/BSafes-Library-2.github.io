@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware tracker: the latest figures [January 2023]<a href="https://therecord.media/ransomware-tracker-the-latest-figures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of victims posted on ransomware extortion sites rose more than 20% in December to 241 organizations — the highest monthly count since April, according to data collected by Recorded Future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

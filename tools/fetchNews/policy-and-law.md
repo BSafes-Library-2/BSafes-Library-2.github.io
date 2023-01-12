@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook to pay $725 Million Settlement For Security Breach<a href="https://securereading.com/facebook-to-pay-725-million-settlement-for-security-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms has agreed to pay $725 million to settle a long-running lawsuit that allowed third parties, including Cambridge Analytica, to access users’ personal information without their consent for political advertising.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
