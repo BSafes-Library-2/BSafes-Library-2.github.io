@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health3PT Council unites healthcare CISOs to solve third-party cyber risk<a href="https://www.helpnetsecurity.com/2023/01/11/health3pt-council/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid heightened threats to healthcare systems, more than 20 leading healthcare organizations have come together to identify effective, efficient, and new innovative approaches to reduce cyber risk across the industry’s third-party ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Where it Hurts: Effective Vulnerability Management in 2023<a href="https://thehackernews.com/2023/01/patch-where-it-hurts-effective.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently published&nbsp; Security Navigator &nbsp;report data shows that businesses are still taking 215 days to patch a reported vulnerability. Even for critical vulnerabilities, it generally takes more than 6 months to patch. Good vulnerability management is not about being fast enough in patching all potential breaches. It's about focusing on the real risk using vulnerability prioritization to correct the most significant flaws and reduce the company's attack surface the most. Company data and threat intelligence need to be correlated and automated. This is essential to enable internal teams focus their remediation efforts. Suitable technologies can take the shape of a global Vulnerability Intelligence Platform. Such a platform can help to prioritize vulnerabilities using a risk score and let companies focus on their real organizational risk.&nbsp; Getting Started Three facts to have in mind before establishing an effective vulnerability management program:&nbsp; 1. The number of discov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

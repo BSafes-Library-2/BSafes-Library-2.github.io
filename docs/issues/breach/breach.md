@@ -8,6 +8,92 @@ nav_order: 900029
 
 ## Breach
 ---
+January 12,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Malware Strikes Again: Active Directory Domain Compromised in Under 24 Hours<a href="https://thehackernews.com/2023/01/icedid-malware-strikes-again-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent IcedID malware attack enabled the threat actor to compromise the Active Directory domain of an unnamed target less than 24 hours after gaining initial access. "Throughout the attack, the attacker followed a routine of recon commands, credential theft, lateral movement by abusing Windows protocols, and executing Cobalt Strike on the newly compromised host," Cybereason researchers&nbsp; said &nbsp;in a report published this week. IcedID , also known by the name BokBot, started its life as a banking trojan in 2017 before evolving into a&nbsp; dropper for other malware , joining the likes of&nbsp; Emotet ,&nbsp; TrickBot ,&nbsp; Qakbot ,&nbsp; Bumblebee , and&nbsp; Raspberry Robin . Attacks involving the delivery of IcedID have&nbsp; leveraged a variety of methods , especially in the wake of&nbsp; Microsoft's decision to block macros &nbsp;from Office files downloaded from the web. The intrusion detailed by Cybereason is no different in that the infection chain begins with an ISO image file contained within a ZIP a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of SugarCRM servers infected with critical in-the-wild exploit<a href="https://arstechnica.com/information-technology/2023/01/hundreds-of-sugarcrm-servers-infected-with-critical-in-the-wild-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past two weeks, hackers have been exploiting a critical vulnerability in the SugarCRM software to infect users with malware that gives them full control of their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter: 200M dataset was not obtained through the exploitation of flaws in its systems<a href="https://securityaffairs.com/140683/data-breach/twitter-investigation-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter said that its investigation revealed that users' data offered for sale online was not obtained from its systems.
+Twitter provided an update on its investigation launched after data of 200 Million users were offered for sale online. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Denies Hacking Claims, Assures Leaked User Data Not from its System<a href="https://thehackernews.com/2023/01/twitter-denies-hacking-claims-assures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Wednesday said that its investigation found "no evidence" that users' data sold online was obtained by exploiting any security vulnerabilities in its systems. "Based on information and intel analyzed to investigate the issue, there is no evidence that the data being sold online was obtained by exploiting a vulnerability of Twitter systems," the company&nbsp; said &nbsp;in a statement. "The data is likely a collection of data already publicly available online through different sources." The disclosure comes in the wake of&nbsp; multiple &nbsp; reports &nbsp;that Twitter data belonging to millions of users – 5.4 million in November 2022, 400 million in December 2022, and 200 million last week – have been made available for sale on online criminal forums. The social media giant further said the breach "could not be correlated with the previously reported incident, nor with any new incident," adding no passwords were exposed. The two datasets published in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social marketplace Trustanduse exposes nearly half a million users<a href="https://securityaffairs.com/140678/data-breach/trustanduse-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security loopholes on social marketplace website trustanduse.com exposed data of around 439,000 users including many businesses for at least six months.
+Disclosing personal data on platforms providing digital services is always risky. The Cybernews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Marketplace Trustanduse Exposes Nearly Half a Million Users<a href="https://securityaffairs.com/140678/data-breach/trustanduse-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The discovered database included sensitive data such as usernames, full personal names, Facebook IDs, phone numbers, and passwords hashed with the BCrypt algorithm, which is considered safe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

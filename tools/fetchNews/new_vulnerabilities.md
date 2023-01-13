@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug in Cisco EoL Small Business Routers will receive no patch<a href="https://securityaffairs.com/140712/security/critical-bug-cisco-eol-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a critical flaw in small business RV016, RV042, RV042G, and RV082 routers, which have reached end of life (EoL).
+Cisco is warning of a critical vulnerability, tracked as&nbsp;CVE-2023-20025&nbsp;(CVSS score of 9.0), that impacts small business...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asus router access, information disclosure, denial of service vulnerabilities discovered<a href="https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered three vulnerabilities in Asus router software. The Asus RT-AX82U router is one of the newer Wi-Fi 6 (802.11ax)-enabled routers that also support mesh networking with other Asus routers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100 Siemens PLC Models Found Vulnerable to Firmware Takeover<a href="https://thehackernews.com/2023/01/over-100-siemens-plc-models-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed multiple architectural vulnerabilities in Siemens SIMATIC and SIPLUS S7-1500 programmable logic controllers (PLCs) that could be exploited by a malicious actor to stealthily install firmware on affected devices and take control of them. Discovered by Red Balloon Security , the issues are tracked as&nbsp; CVE-2022-38773 &nbsp;(CVSS score: 4.6), with the low severity stemming from the prerequisite that exploitation requires physical tampering of the device. The flaws "could allow attackers to bypass all protected boot features, resulting in persistent arbitrary modification of operating code and data," the company&nbsp; said . More than 100 models are susceptible. Put differently, the weaknesses are the result of a lack of asymmetric signature verifications for firmware at bootup, effectively permitting the attacker to load tainted bootloader and firmware while undermining integrity protections. A more severe consequence of loading such modified firmw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors actively exploit Control Web Panel RCE following PoC release<a href="https://securityaffairs.com/140698/hacking/web-panel-rce-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a recently patched critical remote code execution (RCE) vulnerability in Control Web Panel (CWP).
+Threat actors are actively exploiting a recently patched critical vulnerability, tracked as CVE-2022-44877&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Chromium Browser Security Flaw Putting Confidential Data at Risk<a href="https://thehackernews.com/2023/01/experts-detail-chromium-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched vulnerability in Google Chrome and Chromium-based browsers that, if successfully exploited, could have made it possible to siphon files containing confidential data. "The issue arose from the way the browser interacted with&nbsp; symlinks &nbsp;when processing files and directories," Imperva researcher Ron Masas&nbsp; said . "Specifically, the browser did not properly check if the symlink was pointing to a location that was not intended to be accessible, which allowed for the theft of sensitive files." Google characterized the medium-severity issue (CVE-2022-3656) as a case of insufficient data validation in File System,&nbsp; releasing &nbsp; fixes &nbsp;for it in versions 107 and 108 released in October and November 2022. Dubbed SymStealer, the vulnerability, at its core, relates to a type of weakness known as symbolic link (aka symlink) following, which&nbsp; occurs &nbsp;when an attacker abuses the feature to bypass the file system restrictions of a progra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Hackers Actively Exploiting Critical "Control Web Panel" RCE Vulnerability<a href="https://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are actively attempting to exploit a recently patched critical vulnerability in Control Web Panel (CWP) that enables elevated privileges and unauthenticated remote code execution (RCE) on susceptible servers. Tracked as&nbsp; CVE-2022-44877 &nbsp;(CVSS score: 9.8), the bug impacts all versions of the software before 0.9.8.1147 and was&nbsp; patched &nbsp;by its maintainers on October 25, 2022. Control Web Panel, formerly known as CentOS Web Panel, is a popular server administration tool for enterprise-based Linux systems. "login/index.php in CWP (aka Control Web Panel or CentOS Web Panel) 7 before 0.9.8.1147 allows remote attackers to execute arbitrary OS commands via shell metacharacters in the login parameter," according to&nbsp; NIST . Gais Security researcher Numan Turle has been credited with discovering and reporting the flaw to the Control Web Panel developers. Exploitation of the flaw is said to have commenced on January 6, 2023, following the&nbsp; availability &nbsp;of a proof
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange bugs top list of exploited vulnerabilities affecting financial sector<a href="https://therecord.media/microsoft-exchange-bugs-top-list-of-exploited-vulnerabilities-affecting-financial-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at LookingGlass examined public internet-facing assets from over 7 million IP addresses belonging to the sector in November 2022 – finding that a seven-year-old RCE vulnerability affecting Microsoft Windows topped the list.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for January 2023 fixed actively exploited zero-day<a href="https://securityaffairs.com/140633/security/microsoft-patch-tuesday-for-january-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for January 2023 fixed 97 flaws and an actively exploited zero-day.
+Microsoft Patch Tuesday security updates for January 2023 addressed a total of 98 vulnerabilities in Microsoft Windows and Windows Components;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit<a href="https://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first Patch Tuesday fixes shipped by Microsoft for 2023 have addressed a total of&nbsp; 98 security flaws , including one bug that the company said is being actively exploited in the wild. 11 of the 98 issues are rated Critical and 87 are rated Important in severity, with one of the vulnerabilities also listed as publicly known at the time of release. Separately, the Windows maker is expected to release updates for its Chromium-based Edge browser.&nbsp; The vulnerability that's under attack relates to&nbsp; CVE-2023-21674 &nbsp;(CVSS score: 8.8), a privilege escalation flaw in Windows Advanced Local Procedure Call ( ALPC ) that could be exploited by an attacker to gain SYSTEM permissions. "This vulnerability could lead to a browser sandbox escape," Microsoft noted in an advisory, crediting Avast researchers Jan Vojtěšek, Milánek, and Przemek Gmerek for reporting the bug. While details of the vulnerability are still under wraps, a successful exploit requires an attacker to have alrea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

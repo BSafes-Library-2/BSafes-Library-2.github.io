@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail is suffering service disruption due to a ‘cyber incident’<a href="https://securityaffairs.com/140667/hacking/royal-mail-suffered-cyber-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Mail, Britain’s postal service, announced it has suffered a “cyber incident” that caused a "severe service disruption.”
+Royal Mail, the British multinational&nbsp;postal service&nbsp;and&nbsp;courier&nbsp;company, announced this week that a “cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

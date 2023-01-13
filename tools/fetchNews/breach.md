@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak Impacts Information of 10,000 French Social Security Beneficiaries<a href="https://www.csoonline.com/article/3685233/data-leak-exposes-information-of-10-000-french-social-security-beneficiaries.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 10,000 beneficiaries of a local branch of the French social security agency CAF, or Family Allowance Fund, saw their data exposed for about 18 months, after a file containing personal information was sent to a service provider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

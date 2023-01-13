@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+January 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA adds MS Exchange bug CVE-2022-41080 to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140647/security/cisa-known-exploited-vulnerabilities-catalog-cve-2022-41080.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added Microsoft Exchange elevation of privileges bug CVE-2022-41080 to its&nbsp;Known Exploited Vulnerabilities Catalog.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added two new vulnerabilities to its&nbsp;Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

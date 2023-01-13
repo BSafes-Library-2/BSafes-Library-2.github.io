@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail Overseas Post Badly Disrupted After Cybersecurity Incident<a href="https://www.theguardian.com/business/2023/jan/11/royal-mail-services-suffer-severe-disruption-after-cyber-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Mail has asked customers to stop sending parcels and letters to overseas destinations after a cyber incident caused “severe service disruption” to international exports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

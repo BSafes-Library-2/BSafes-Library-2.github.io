@@ -34,6 +34,284 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit accuses Apple of tracking iPhone users who opted out<a href="https://www.theregister.com/2023/01/10/apple_wiretap_lawsuit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple "unlawfully records and uses consumers' personal information and activity," claims a new lawsuit accusing the company of tracking iPhone users' device data even when they've asked for tracking to be switched off.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12,2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Malware Strikes Again: Active Directory Domain Compromised in Under 24 Hours<a href="https://thehackernews.com/2023/01/icedid-malware-strikes-again-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent IcedID malware attack enabled the threat actor to compromise the Active Directory domain of an unnamed target less than 24 hours after gaining initial access. "Throughout the attack, the attacker followed a routine of recon commands, credential theft, lateral movement by abusing Windows protocols, and executing Cobalt Strike on the newly compromised host," Cybereason researchers  said  in a report published this week. IcedID , also known by the name BokBot, started its life as a banking trojan in 2017 before evolving into a  dropper for other malware , joining the likes of  Emotet ,  TrickBot ,  Qakbot ,  Bumblebee , and  Raspberry Robin . Attacks involving the delivery of IcedID have  leveraged a variety of methods , especially in the wake of  Microsoft's decision to block macros  from Office files downloaded from the web. The intrusion detailed by Cybereason is no different in that the infection chain begins with an ISO image file contained within a ZIP a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical bug in Cisco EoL Small Business Routers will receive no patch<a href="https://securityaffairs.com/140712/security/critical-bug-cisco-eol-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a critical flaw in small business RV016, RV042, RV042G, and RV082 routers, which have reached end of life (EoL).
+Cisco is warning of a critical vulnerability, tracked as CVE-2023-20025 (CVSS score of 9.0), that impacts small business...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asus router access, information disclosure, denial of service vulnerabilities discovered<a href="https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered three vulnerabilities in Asus router software. The Asus RT-AX82U router is one of the newer Wi-Fi 6 (802.11ax)-enabled routers that also support mesh networking with other Asus routers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100 Siemens PLC Models Found Vulnerable to Firmware Takeover<a href="https://thehackernews.com/2023/01/over-100-siemens-plc-models-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed multiple architectural vulnerabilities in Siemens SIMATIC and SIPLUS S7-1500 programmable logic controllers (PLCs) that could be exploited by a malicious actor to stealthily install firmware on affected devices and take control of them. Discovered by Red Balloon Security , the issues are tracked as  CVE-2022-38773  (CVSS score: 4.6), with the low severity stemming from the prerequisite that exploitation requires physical tampering of the device. The flaws "could allow attackers to bypass all protected boot features, resulting in persistent arbitrary modification of operating code and data," the company  said . More than 100 models are susceptible. Put differently, the weaknesses are the result of a lack of asymmetric signature verifications for firmware at bootup, effectively permitting the attacker to load tainted bootloader and firmware while undermining integrity protections. A more severe consequence of loading such modified firmw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors actively exploit Control Web Panel RCE following PoC release<a href="https://securityaffairs.com/140698/hacking/web-panel-rce-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a recently patched critical remote code execution (RCE) vulnerability in Control Web Panel (CWP).
+Threat actors are actively exploiting a recently patched critical vulnerability, tracked as CVE-2022-44877 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of SugarCRM servers infected with critical in-the-wild exploit<a href="https://arstechnica.com/information-technology/2023/01/hundreds-of-sugarcrm-servers-infected-with-critical-in-the-wild-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past two weeks, hackers have been exploiting a critical vulnerability in the SugarCRM software to infect users with malware that gives them full control of their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Chromium Browser Security Flaw Putting Confidential Data at Risk<a href="https://thehackernews.com/2023/01/experts-detail-chromium-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched vulnerability in Google Chrome and Chromium-based browsers that, if successfully exploited, could have made it possible to siphon files containing confidential data. "The issue arose from the way the browser interacted with  symlinks  when processing files and directories," Imperva researcher Ron Masas  said . "Specifically, the browser did not properly check if the symlink was pointing to a location that was not intended to be accessible, which allowed for the theft of sensitive files." Google characterized the medium-severity issue (CVE-2022-3656) as a case of insufficient data validation in File System,  releasing   fixes  for it in versions 107 and 108 released in October and November 2022. Dubbed SymStealer, the vulnerability, at its core, relates to a type of weakness known as symbolic link (aka symlink) following, which  occurs  when an attacker abuses the feature to bypass the file system restrictions of a progra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors claim access to Telegram servers through insiders<a href="https://securityaffairs.com/140691/deep-web/telegram-access-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that a threat actor claims to provide access to internal servers at Telegram for $20,000.
+SafetyDetectives reported that a member of a dark web marketplace is claiming to provide access to internal servers at Telegram for $20,000.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health3PT Council unites healthcare CISOs to solve third-party cyber risk<a href="https://www.helpnetsecurity.com/2023/01/11/health3pt-council/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid heightened threats to healthcare systems, more than 20 leading healthcare organizations have come together to identify effective, efficient, and new innovative approaches to reduce cyber risk across the industry’s third-party ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12,2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Where it Hurts: Effective Vulnerability Management in 2023<a href="https://thehackernews.com/2023/01/patch-where-it-hurts-effective.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently published  Security Navigator  report data shows that businesses are still taking 215 days to patch a reported vulnerability. Even for critical vulnerabilities, it generally takes more than 6 months to patch. Good vulnerability management is not about being fast enough in patching all potential breaches. It's about focusing on the real risk using vulnerability prioritization to correct the most significant flaws and reduce the company's attack surface the most. Company data and threat intelligence need to be correlated and automated. This is essential to enable internal teams focus their remediation efforts. Suitable technologies can take the shape of a global Vulnerability Intelligence Platform. Such a platform can help to prioritize vulnerabilities using a risk score and let companies focus on their real organizational risk.  Getting Started Three facts to have in mind before establishing an effective vulnerability management program:  1. The number of discov
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter: 200M dataset was not obtained through the exploitation of flaws in its systems<a href="https://securityaffairs.com/140683/data-breach/twitter-investigation-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter said that its investigation revealed that users' data offered for sale online was not obtained from its systems.
+Twitter provided an update on its investigation launched after data of 200 Million users were offered for sale online. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail Overseas Post Badly Disrupted After Cybersecurity Incident<a href="https://www.theguardian.com/business/2023/jan/11/royal-mail-services-suffer-severe-disruption-after-cyber-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Mail has asked customers to stop sending parcels and letters to overseas destinations after a cyber incident caused “severe service disruption” to international exports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12,2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Denies Hacking Claims, Assures Leaked User Data Not from its System<a href="https://thehackernews.com/2023/01/twitter-denies-hacking-claims-assures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter on Wednesday said that its investigation found "no evidence" that users' data sold online was obtained by exploiting any security vulnerabilities in its systems. "Based on information and intel analyzed to investigate the issue, there is no evidence that the data being sold online was obtained by exploiting a vulnerability of Twitter systems," the company  said  in a statement. "The data is likely a collection of data already publicly available online through different sources." The disclosure comes in the wake of  multiple   reports  that Twitter data belonging to millions of users – 5.4 million in November 2022, 400 million in December 2022, and 200 million last week – have been made available for sale on online criminal forums. The social media giant further said the breach "could not be correlated with the previously reported incident, nor with any new incident," adding no passwords were exposed. The two datasets published in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social marketplace Trustanduse exposes nearly half a million users<a href="https://securityaffairs.com/140678/data-breach/trustanduse-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security loopholes on social marketplace website trustanduse.com exposed data of around 439,000 users including many businesses for at least six months.
+Disclosing personal data on platforms providing digital services is always risky. The Cybernews...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Marketplace Trustanduse Exposes Nearly Half a Million Users<a href="https://securityaffairs.com/140678/data-breach/trustanduse-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The discovered database included sensitive data such as usernames, full personal names, Facebook IDs, phone numbers, and passwords hashed with the BCrypt algorithm, which is considered safe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Hackers Actively Exploiting Critical "Control Web Panel" RCE Vulnerability<a href="https://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are actively attempting to exploit a recently patched critical vulnerability in Control Web Panel (CWP) that enables elevated privileges and unauthenticated remote code execution (RCE) on susceptible servers. Tracked as  CVE-2022-44877  (CVSS score: 9.8), the bug impacts all versions of the software before 0.9.8.1147 and was  patched  by its maintainers on October 25, 2022. Control Web Panel, formerly known as CentOS Web Panel, is a popular server administration tool for enterprise-based Linux systems. "login/index.php in CWP (aka Control Web Panel or CentOS Web Panel) 7 before 0.9.8.1147 allows remote attackers to execute arbitrary OS commands via shell metacharacters in the login parameter," according to  NIST . Gais Security researcher Numan Turle has been credited with discovering and reporting the flaw to the Control Web Panel developers. Exploitation of the flaw is said to have commenced on January 6, 2023, following the  availability  of a proof
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

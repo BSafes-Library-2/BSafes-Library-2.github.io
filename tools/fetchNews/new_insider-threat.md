@@ -8,6 +8,22 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+January 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors claim access to Telegram servers through insiders<a href="https://securityaffairs.com/140691/deep-web/telegram-access-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that a threat actor claims to provide access to internal servers at Telegram for $20,000.
+SafetyDetectives reported that a member of a dark web marketplace is claiming to provide access to internal servers at Telegram for $20,000.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
