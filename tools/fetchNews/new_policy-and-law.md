@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 14,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws<a href="https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular short-form video hosting service TikTok has been fined €5 million (about $5.4 million) by the French data protection watchdog for breaking cookie consent rules, making it the latest platform to face similar penalties after&nbsp; Amazon, Google, Meta , and&nbsp; Microsoft &nbsp;since 2020. "Users of 'tiktok[.]com' could not refuse cookies as easily as accepting them and they were not informed in a sufficiently precise way of the objectives of the different cookies," the Commission nationale de l'informatique et des libertés (CNIL)&nbsp; said &nbsp;in a statement. The regulator said it conducted several audits between May 2020 and June 2022, finding that the ByteDance-owned company did not offer a straightforward option to refuse all cookies as opposed to just one click for accepting them. The option to "refuse all" cookies was introduced by TikTok in February 2022. "Making the opt-out mechanism more complex is in fact discouraging users from refusing cookies and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

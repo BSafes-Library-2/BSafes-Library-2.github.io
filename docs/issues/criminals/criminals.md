@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 13,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Polyglot Files in Malware Distribution to Fly Under the Radar<a href="https://thehackernews.com/2023/01/cybercriminals-using-polyglot-files-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access trojans such as StrRAT and Ratty are being distributed as a combination of polyglot and malicious Java archive ( JAR ) files, once again highlighting how threat actors are continuously finding new ways to fly under the radar. "Attackers now use the polyglot technique to confuse security solutions that don't properly validate the JAR file format," Deep Instinct security researcher Simon Kenin&nbsp; said &nbsp;in a report. Polyglot files &nbsp;are files that combine syntax from two or more different formats in a manner such that each format can be parsed without raising any error. One such 2022 campaign spotted by the cybersecurity firm is the use of JAR and MSI formats – i.e., a file that's valid both as a JAR and an MSI installer – to deploy the StrRAT payload. This also means that the file can be executed by both Windows and Java Runtime Environment (JRE) based on how it's interpreted. Another instance involves the use of CAB and JAR polyglots to deliver bot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

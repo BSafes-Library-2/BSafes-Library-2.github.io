@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Jobs of the Future: Sleuth, Bodyguard, 'Immunity' Developer<a href="https://www.darkreading.com/operations/cyber-jobs-of-the-future-sleuth-bodyguard-immunity-developer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Positions in outer space cybersecurity, AI mentoring, and digital footprint consulting may sound unusual at first glance, but the rapid development of technology could make them a reality in just a few years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get Unified Cloud and Endpoint Security: Only $1 for 1,000 Assets for all of 2023!<a href="https://thehackernews.com/2023/01/get-unified-cloud-and-endpoint-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the new year begins, it's more important than ever to protect your business from the constantly evolving cyber threats that could compromise your valuable assets.&nbsp; But who wants to pay an arm and a leg for top-tier security? With this Uptycs introductory offer, you do not have to. Kickstart the new year by securing your business with Uptycs. Starting now, for just $1, you can get comprehensive agentless and runtime cloud security coverage for all of 2023, covering up to 1,000 eligible assets. That's right, for just $1 —&nbsp; Learn more about the 'Uptycs Secret Dollar Menu.' But that's not all. This offer also includes: Professionally managed onboarding and unlimited customer support to ensure seamless setup and ongoing assistance Advanced security features such as Unified CNAPP (Cloud-Native Application Protection Platform) and XDR (eXtended Detection and Response) that provide state-of-the-art threat protection Automated CI/CD image and registry scans to e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

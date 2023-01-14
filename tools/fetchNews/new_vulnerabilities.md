@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Cacti Installations Unpatched Against Exploited Vulnerability<a href="https://www.securityweek.com/most-cacti-installations-unpatched-against-exploited-vulnerability?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In December 2022, the tool’s maintainers announced patches for CVE-2022-46169, a critical-severity command injection flaw that could allow unauthenticated attackers to execute code on the server running Cacti, if a specific data source was used.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Warning for Unpatched Vulnerabilities in EoL Business Routers<a href="https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has warned of two security vulnerabilities affecting end-of-life (EoL) Small Business RV016, RV042, RV042G, and RV082 routers that it said will not be fixed, even as it acknowledged the public availability of proof-of-concept (PoC) exploit. The&nbsp; issues &nbsp;are rooted in the router's web-based management interface, enabling a remote adversary to sidestep authentication or execute malicious commands on the underlying operating system. The most severe of the two is CVE-2023-20025 (CVSS score: 9.0), which is the result of improper validation of user input within incoming HTTP packets. A threat actor could exploit it remotely by sending a specially crafted HTTP request to vulnerable routers' web-based management interface to bypass authentication and obtain elevated permissions. The lack of adequate validation is also the reason behind the second flaw tracked as CVE-2023-20026 (CVSS score: 6.5), permitting an attacker with valid admin credentials to achieve root-level privi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

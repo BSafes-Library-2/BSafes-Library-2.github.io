@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit ransomware operation behind the Royal Mail cyberattack<a href="https://securityaffairs.com/140735/malware/lockbit-ransomware-royal-mail-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on Royal Mail, Britain’s postal service, is a ransomware attack that was linked to the LockBit ransomware operation.
+Royal Mail, the British multinational&nbsp;postal service&nbsp;and&nbsp;courier&nbsp;company, this week announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target govt networks exploiting Fortinet SSL-VPN CVE-2022-42475 bug<a href="https://securityaffairs.com/140721/hacking/fortinet-ssl-vpn-cve-2022-42475-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently patched Fortinet FortiOS SSL-VPN zero-day exploited in attacks against government organizations and government-related targets.
+Fortinet researchers reported how threat actors exploited the recently patched FortiOS SSL-VPN vulnerability (CVE-2022-42475)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FortiOS Flaw Exploited as Zero-Day in Attacks on Government and Organizations<a href="https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in FortiOS SSL-VPN that Fortinet addressed last month was exploited by unknown actors in attacks targeting the government and other large organizations. "The complexity of the exploit suggests an advanced actor and that it is highly targeted at governmental or government-related targets," Fortinet researchers&nbsp; said &nbsp;in a post-mortem analysis published this week. The attacks entailed the exploitation of&nbsp; CVE-2022-42475 , a heap-based buffer overflow flaw that could enable an unauthenticated remote attacker to execute arbitrary code via specifically crafted requests. The infection chain analyzed by the company shows that the end goal was to deploy a generic Linux implant modified for FortiOS that's equipped to compromise Fortinet's intrusion prevention system ( IPS ) software and establish connections with a remote server to download additional malware and execute commands. Fortinet said it was unable to recover the payloads used in the su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

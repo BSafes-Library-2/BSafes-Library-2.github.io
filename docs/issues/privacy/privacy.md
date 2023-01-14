@@ -8,6 +8,34 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 13,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Tainted VPNs Being Used to Spread EyeSpy Surveillanceware<a href="https://thehackernews.com/2023/01/beware-tainted-vpns-being-used-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tainted VPN installers are being used to deliver a piece of surveillanceware dubbed&nbsp; EyeSpy &nbsp;as part of a malware campaign that started in May 2022. It uses "components of SecondEye – a legitimate monitoring application – to spy on users of 20Speed VPN, an Iranian-based VPN service, via trojanized installers," Bitdefender&nbsp; said &nbsp;in an analysis. A majority of the infections are said to originate in Iran, with smaller detections in Germany and the U.S., the Romanian cybersecurity firm added. SecondEye, according to&nbsp; snapshots &nbsp;captured via the Internet Archive, claims to be a commercial monitoring software that can work as a "parental control system or as an online watchdog." As of November 2021, it's offered for sale anywhere between $99 to $200. It comes with a wide range of features that allows it to take screenshots, record microphone, log keystrokes, gather files and saved passwords from web browsers, and remotely control the machines to run arbitrary c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Long data privacy notices on social media sites<a href="https://www.theregister.com/2023/01/13/long_data_privacy_meta/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lengthy privacy notices included in a social media platform's terms of service can do little to help it comply with transparency requirements under European law, according to recently revealed case documents in which Meta was fined $414 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

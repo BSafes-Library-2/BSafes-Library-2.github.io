@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York state adds $35 million to 2023 cybersecurity budget as attacks soar<a href="https://therecord.media/new-york-state-adds-35-million-to-2023-cybersecurity-budget-as-attacks-soar/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Governor Kathy Hochul is adding an additional $35 million in funding to the state’s $61.9 million cybersecurity budget for this year, while also creating a new team focusing on protecting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
