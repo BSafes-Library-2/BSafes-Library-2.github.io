@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group NoName057(16) targets Ukraine and NATO countries<a href="https://securityaffairs.com/140760/hacktivism/pro-russian-group-noname05716.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pro-Russian group named NoName057(16) is targeting organizations in Ukraine and NATO countries with DDoS attacks.
+A Pro-Russian cybercrime group named NoName057(16) (aka 05716nnm or Nnm05716) is behind a wave of DDoS attacks against organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

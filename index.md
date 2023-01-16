@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2023
+January 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CircleCI says hackers stole encryption keys and customers' secrets<a href="https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/?guccounter=1&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2023
+January 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1.7 TB of data stolen from digital intelligence firm Cellebrite leaked online<a href="https://securityaffairs.com/140838/data-breach/cellebrite-software-leaked-online.html"> Full Text</a>
@@ -67,7 +67,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2023
+January 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker stole credit cards from the website of Canada’s largest alcohol retailer LCBO<a href="https://securityaffairs.com/140823/data-breach/lcbo-magecart-attack.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2023
+January 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 402 by Pierluigi Paganini<a href="https://securityaffairs.com/140815/breaking-news/security-affairs-newsletter-round-402-by-pierluigi-paganini.html"> Full Text</a>
@@ -102,7 +102,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14,2023
+January 14,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Attack on CircleCI Engineer's Laptop Leads to Recent Security Incident<a href="https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14,2023
+January 14,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cacti Servers Under Attack as Majority Fail to Patch Critical Vulnerability<a href="https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2023
+January 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most internet-exposed Cacti servers exposed to hacking<a href="https://securityaffairs.com/140797/hacking/cacti-servers-cve-2022-46169-flaw.html"> Full Text</a>
@@ -151,10 +151,10 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2023
+January 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-French CNIL fined Tiktok $5.4 Million for violating cookie laws<a href="https://securityaffairs.com/140786/digital-id/cnil-fined-tiktok.html"> Full Text</a>
+French CNIL fined Tiktok $5.4 Million for violating cookie laws<a href="https://secur-- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>-- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>ityaffairs.com/140786/digital-id/cnil-fined-tiktok.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>

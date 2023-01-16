@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+January 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NortonLifeLock: threat actors breached Norton Password Manager accounts<a href="https://securityaffairs.com/140772/data-breach/norton-password-manager-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gen Digital, formerly Symantec Corporation and NortonLifeLock, warns that hackers breached Norton Password Manager accounts.
+Gen Digital, formerly Symantec Corporation and NortonLifeLock, informed its customers that threat actors have breached Norton...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

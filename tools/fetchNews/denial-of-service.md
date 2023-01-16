@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Group DDoS-ing Governments, Critical Infrastructure in Ukraine, NATO Countries<a href="https://www.securityweek.com/pro-russian-group-ddos-ing-governments-critical-infrastructure-ukraine-nato-countries?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pro-Russian cybercrime group named NoName057(16) is actively launching distributed denial-of-service (DDoS) attacks against organizations in Ukraine and NATO countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

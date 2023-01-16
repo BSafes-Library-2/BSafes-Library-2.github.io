@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+January 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CircleCI says hackers stole encryption keys and customers' secrets<a href="https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/?guccounter=1&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CircleCi, a software company whose products are popular with developers and software engineers, confirmed that some customers’ data was stolen in a data breach last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.7 TB of data stolen from digital intelligence firm Cellebrite leaked online<a href="https://securityaffairs.com/140838/data-breach/cellebrite-software-leaked-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1.7 TB of data stolen from Cellebrite, a digital intelligence company that provides tools for law enforcement, were leaked online.
+The Israeli mobile forensics firm&nbsp;Cellebrite&nbsp;is one of the leading companies in the world in the field of digital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
