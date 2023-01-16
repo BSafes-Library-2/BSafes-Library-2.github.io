@@ -34,7 +34,141 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CircleCI says hackers stole encryption keys and customers' secrets<a href="https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/?guccounter=1&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CircleCi, a software company whose products are popular with developers and software engineers, confirmed that some customers’ data was stolen in a data breach last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.7 TB of data stolen from digital intelligence firm Cellebrite leaked online<a href="https://securityaffairs.com/140838/data-breach/cellebrite-software-leaked-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1.7 TB of data stolen from Cellebrite, a digital intelligence company that provides tools for law enforcement, were leaked online.
+The Israeli mobile forensics firm Cellebrite is one of the leading companies in the world in the field of digital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker stole credit cards from the website of Canada’s largest alcohol retailer LCBO<a href="https://securityaffairs.com/140823/data-breach/lcbo-magecart-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian Liquor Control Board of Ontario (LCBO), the largest beverage alcohol retailer in the country, disclosed Magecart attack.
+Canadian Liquor Control Board of Ontario (LCBO), the largest beverage alcohol retailer in the country, disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 402 by Pierluigi Paganini<a href="https://securityaffairs.com/140815/breaking-news/security-affairs-newsletter-round-402-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Most...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Attack on CircleCI Engineer's Laptop Leads to Recent Security Incident<a href="https://thehackernews.com/2023/01/malware-attack-on-circleci-engineers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DevOps platform CircleCI on Friday disclosed that unidentified threat actors compromised an employee's laptop and leveraged malware to steal their two-factor authentication-backed credentials to breach the company's systems and data last month. The CI/CD service CircleCI said the "sophisticated attack" took place on December 16, 2022, and that the malware went undetected by its antivirus software. "The malware was able to execute session cookie theft, enabling them to impersonate the targeted employee in a remote location and then escalate access to a subset of our production systems," Rob Zuber, CircleCI's chief technology officer,  said  in an incident report. Further analysis of the security lapse revealed that the unauthorized third-party pilfered data from a subset of its databases by abusing the elevated permissions granted to the targeted employee. This included customer environment variables, tokens, and keys. The threat actor is believed t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cacti Servers Under Attack as Majority Fail to Patch Critical Vulnerability<a href="https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of internet-exposed Cacti servers have not been patched against a recently patched critical security vulnerability that has come under active exploitation in the wild. That's according to attack surface management platform Censys, which  found  only 26 out of a total of 6,427 servers to be running a  patched version  of Cacti (1.2.23 and 1.3.0). The  issue  in question relates to  CVE-2022-46169  (CVSS score: 9.8), a combination of authentication bypass and command injection that enables an unauthenticated user to execute arbitrary code on an affected version of the open-source, web-based monitoring solution. Details about the flaw, which impacts versions 1.2.22 and below, were first revealed by SonarSource. The flaw was reported to the project maintainers on December 2, 2022. "A hostname-based authorization check is not implemented safely for most installations of Cacti," SonarSource researcher Stefan Schiller  noted  earlier this month, adding "uns
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most internet-exposed Cacti servers exposed to hacking<a href="https://securityaffairs.com/140797/hacking/cacti-servers-cve-2022-46169-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most internet-exposed Cacti servers are vulnerable to the critical vulnerability CVE-2022-46169 which is actively exploited in the wild.
+Cacti is an open-source platform that provides a robust and extensible operational monitoring and fault management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French CNIL fined Tiktok $5.4 Million for violating cookie laws<a href="https://securityaffairs.com/140786/digital-id/cnil-fined-tiktok.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French data protection watchdog fined short-form video hosting service TikTok €5 million for breaking cookie consent rules.
+The Commission nationale de l'informatique et des libertés (CNIL) has fined short-form video hosting service TikTok €5...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 14, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian Group DDoS-ing Governments, Critical Infrastructure in Ukraine, NATO Countries<a href="https://www.securityweek.com/pro-russian-group-ddos-ing-governments-critical-infrastructure-ukraine-nato-countries?&web_view=true"> Full Text</a>
@@ -50,7 +184,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14,2023
+January 14,2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws<a href="https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html"> Full Text</a>
@@ -66,7 +200,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14, 2023
+January 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Cacti Installations Unpatched Against Exploited Vulnerability<a href="https://www.securityweek.com/most-cacti-installations-unpatched-against-exploited-vulnerability?&web_view=true"> Full Text</a>
@@ -82,7 +216,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 14,2023
+January 14,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Issues Warning for Unpatched Vulnerabilities in EoL Business Routers<a href="https://thehackernews.com/2023/01/cisco-issues-warning-for-unpatched.html"> Full Text</a>
@@ -98,7 +232,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NortonLifeLock: threat actors breached Norton Password Manager accounts<a href="https://securityaffairs.com/140772/data-breach/norton-password-manager-security-breach.html"> Full Text</a>
@@ -115,7 +249,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia group NoName057(16) targets Ukraine and NATO countries<a href="https://securityaffairs.com/140760/hacktivism/pro-russian-group-noname05716.html"> Full Text</a>
@@ -132,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Jobs of the Future: Sleuth, Bodyguard, 'Immunity' Developer<a href="https://www.darkreading.com/operations/cyber-jobs-of-the-future-sleuth-bodyguard-immunity-developer?&web_view=true"> Full Text</a>
@@ -148,7 +282,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13,2023
+January 13,2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Tainted VPNs Being Used to Spread EyeSpy Surveillanceware<a href="https://thehackernews.com/2023/01/beware-tainted-vpns-being-used-to.html"> Full Text</a>
@@ -164,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit ransomware operation behind the Royal Mail cyberattack<a href="https://securityaffairs.com/140735/malware/lockbit-ransomware-royal-mail-attack.html"> Full Text</a>
@@ -181,7 +315,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York state adds $35 million to 2023 cybersecurity budget as attacks soar<a href="https://therecord.media/new-york-state-adds-35-million-to-2023-cybersecurity-budget-as-attacks-soar/?&web_view=true"> Full Text</a>
@@ -197,7 +331,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13,2023
+January 13,2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using Polyglot Files in Malware Distribution to Fly Under the Radar<a href="https://thehackernews.com/2023/01/cybercriminals-using-polyglot-files-in.html"> Full Text</a>
@@ -213,7 +347,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target govt networks exploiting Fortinet SSL-VPN CVE-2022-42475 bug<a href="https://securityaffairs.com/140721/hacking/fortinet-ssl-vpn-cve-2022-42475-attacks.html"> Full Text</a>
@@ -230,7 +364,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13, 2023
+January 13, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Long data privacy notices on social media sites<a href="https://www.theregister.com/2023/01/13/long_data_privacy_meta/?&web_view=true"> Full Text</a>
@@ -246,7 +380,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13,2023
+January 13,2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Get Unified Cloud and Endpoint Security: Only $1 for 1,000 Assets for all of 2023!<a href="https://thehackernews.com/2023/01/get-unified-cloud-and-endpoint-security.html"> Full Text</a>
@@ -262,7 +396,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 13,2023
+January 13,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FortiOS Flaw Exploited as Zero-Day in Attacks on Government and Organizations<a href="https://thehackernews.com/2023/01/fortios-flaw-exploited-as-zero-day-in.html"> Full Text</a>
