@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EyeSpy Spyware Targets Iranian VPN Users<a href="https://cyware.com/news/eyespy-spyware-targets-iranian-vpn-users-0d8a598d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender security analysts stumbled across a malware threat campaign dropping EyeSpy spyware. It is originally considered to be a part of a monitoring application called SecondEye. The campaign appears to have begun in May last year from Iran, with infections detected across Germany and the U.S. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raccoon and Vidar Stealers Spreading via Massive Network of Fake Cracked Software<a href="https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "large and resilient infrastructure" comprising over 250 domains is being used to distribute information-stealing malware such as  Raccoon  and  Vidar  since early 2020. The infection chain "uses about a hundred of fake cracked software catalogue websites that redirect to several links before downloading the payload hosted on file share platforms, such as GitHub," cybersecurity firm SEKOIA  said  in an analysis published earlier this month. The French cybersecurity company assessed the domains to be operated by a threat actor running a traffic direction system ( TDS ), which allows other cybercriminals to rent the service to distribute their malware. The attacks target users searching for cracked versions of software and games on search engines like Google, surfacing fraudulent websites on top by leveraging a technique called search engine optimization (SEO) poisoning to lure victims into downloading and executing the malicious payloads. The poisoned result
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast researchers released a free BianLian ransomware decryptor for some variants of the malware<a href="https://securityaffairs.com/140892/malware/free-bianlian-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus firm Avast released a free decryptor for the BianLian ransomware family that allows victims to recover locked files.
+Security firm Avast has released a free decryptor for the BianLian ransomware to allow victims of the malware to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Imaging Firm Faces 2 Class Actions in 2022 Breach<a href="https://www.bankinfosecurity.com/medical-imaging-firm-faces-2-class-actions-in-2022-breach-a-20930?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shields Health Care Group, a prominent Massachusetts-based medical imaging services provider, is facing proposed class action lawsuits in federal and state court stemming from a 2022 breach that affected 2 million individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16,2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Secure User Authentication Method – Planning is More Important than Ever<a href="https://thehackernews.com/2023/01/a-secure-user-authentication-method.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When considering authentication providers, many organizations consider the ease of configuration, ubiquity of usage, and technical stability. Organizations cannot always be judged on those metrics alone. There is an increasing need to evaluate company ownership, policies and the stability, or instability, that it brings. How Leadership Change Affects Stability In recent months, a salient example is that of Twitter. The Twitter platform has been around since 2006 and is used by millions worldwide. With many users and a seemingly robust authentication system, organizations used Twitter as a primary or secondary authentication service. Inconsistent leadership and policies mean the stability of a platform is subject to change, which is especially true with Twitter as of late. The ownership change to Elon Musk precipitated widespread changes to staffing and policies. Due to those changes,  a large portion of staff was let go , but this included many individuals responsible for the techn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a backdoor that borrows code from CIA’s Hive malware<a href="https://securityaffairs.com/140878/malware/cia-hive-malware-detected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Netlab 360 observed unidentified threat actors using a new backdoor based on the US CIA's Project Hive malware suite.
+Researchers from Qihoo Netlab 360 reported that unidentified threat actors using a new backdoor based on the US CIA's Project Hive...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Address Poisoning Scam Hits MetaMask Users<a href="https://cyware.com/news/address-poisoning-scam-hits-metamask-users-ce84fc95"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MetaMask, the cryptocurrency wallet provider, disclosed a new scam baiting its users into sending funds to scammers’ wallet addresses. The address poisoning technique used by scammers relies on similarity to the original recipients’ addresses. Creating an address that closely matches a target addre ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16,2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns for Flaws Affecting Industrial Control Systems from Major Manufacturers<a href="https://thehackernews.com/2023/01/cisa-warns-for-flaws-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released several Industrial Control Systems (ICS)  advisories  warning of critical security flaws affecting products from Sewio, InHand Networks, Sauter Controls, and Siemens. The most severe of the flaws relate to Sewio's RTLS Studio, which could be exploited by an attacker to "obtain unauthorized access to the server, alter information, create a denial-of-service condition, gain escalated privileges, and execute arbitrary code,"  according to CISA . This includes CVE-2022-45444 (CVSS score: 10.0), a case of hard-coded passwords for select users in the application's database that potentially grant remote adversaries unrestricted access. Also notable are two command injection flaws (CVE-2022-47911 and CVE-2022-43483, CVSS scores: 9.1) and an out-of-bounds write vulnerability (CVE-2022-41989, CVSS score: 9.1) that could result in denial-of-service condition or code execution. The vulnerabilities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T95 Android TV Box sold on Amazon hides sophisticated malware<a href="https://securityaffairs.com/140866/security/t95-android-tv-box-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert discovered that the T95 Android TV box, available for sale on Amazon and AliExpress, came with sophisticated pre-installed malware.
+Security researcher, Daniel Milisic, discovered that the T95 Android TV box he purchased on Amazon was infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SailPoint acquires SecZetta to help companies validate non-employee identities<a href="https://www.helpnetsecurity.com/2023/01/14/sailpoint-seczetta/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With SecZetta, SailPoint will be able to expand its capabilities to help companies gain better visibility into all types of identities, across both employee and non-employee identities all from a single, market-leading identity security platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Backdoor Created Using Leaked CIA's Hive Malware Discovered in the Wild<a href="https://thehackernews.com/2023/01/new-backdoor-created-using-leaked-cias.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unidentified threat actors have deployed a new backdoor that borrows its features from the U.S. Central Intelligence Agency (CIA)'s  Hive  multi-platform  malware suite , the source code of which was  released  by WikiLeaks in November 2017. "This is the first time we caught a variant of the CIA Hive attack kit in the wild, and we named it  xdr33  based on its embedded Bot-side certificate CN=xdr33," Qihoo Netlab 360's Alex Turing and Hui Wang  said  in a technical write-up published last week. xdr33 is said to be propagated by exploiting an unspecified N-day security vulnerability in F5 appliances. It communicates with a command-and-control (C2) server using SSL with forged Kaspersky certificates. The intent of the backdoor, per the Chinese cybersecurity firm, is to harvest sensitive information and act as a launchpad for subsequent intrusions. It improves upon Hive by adding new C2 instructions and functionalities, among other implementation changes. The  ELF
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol arrested cryptocurrency scammers that stole millions from victims<a href="https://securityaffairs.com/140854/cyber-crime/europol-arrested-cryptocurrency-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international police operation led by Europol led to the arrest of cryptocurrency scammers targeting users all over the world.
+An international law enforcement operation conducted by authorities from Bulgaria, Cyprus, Germany and Serbia, supported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Exploits Microsoft SSRF Vulnerability<a href="https://cyware.com/news/cuba-ransomware-exploits-microsoft-ssrf-vulnerability-24d76045"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos reported that the Cuba ransomware group used malicious hardware devices certified by Microsoft’s Windows Hardware Developer Program in an attack that abuses OWASSRF vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Undercover with the Leader of Lockbit<a href="https://therecord.media/ransomware-diaries-undercover-with-the-leader-of-lockbit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBitSupp’s focus on professionalizing the group is part of the reason why Lockbit has found such success in the cybercriminal world – the group accounted for 44 percent of the total ransomware attacks launched last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers disrupt 24 Hours of Le Mans Virtual esports event<a href="https://www.bitdefender.com/blog/hotforsecurity/hackers-disrupt-24-hours-of-le-mans-virtual-esports-event/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five-round championship, which culminates in a live 24-hour finale, is ending on a sour note after server problems saw Verstappen - who was leading the race by over a minute - thrown out of the game and disconnected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack the Pentagon 3.0 Bug Bounty Program to Focus on Facility Control Systems<a href="https://www.securityweek.com/hack-pentagon-30-bug-bounty-program-focus-facility-control-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Defense (DoD) is getting ready to launch the third installment of its ‘Hack the Pentagon’ bug bounty program, which will focus on the Facility Related Controls System (FRCS) network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 14,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cacti Servers Under Attack as Majority Fail to Patch Critical Vulnerability<a href="https://thehackernews.com/2023/01/cacti-servers-under-attack-as-majority.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of internet-exposed Cacti servers have not been patched against a recently patched critical security vulnerability that has come under active exploitation in the wild. That's according to attack surface management platform Censys, which&nbsp; found &nbsp;only 26 out of a total of 6,427 servers to be running a&nbsp; patched version &nbsp;of Cacti (1.2.23 and 1.3.0). The&nbsp; issue &nbsp;in question relates to&nbsp; CVE-2022-46169 &nbsp;(CVSS score: 9.8), a combination of authentication bypass and command injection that enables an unauthenticated user to execute arbitrary code on an affected version of the open-source, web-based monitoring solution. Details about the flaw, which impacts versions 1.2.22 and below, were first revealed by SonarSource. The flaw was reported to the project maintainers on December 2, 2022. "A hostname-based authorization check is not implemented safely for most installations of Cacti," SonarSource researcher Stefan Schiller&nbsp; noted &nbsp;earlier this month, adding "uns
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most internet-exposed Cacti servers exposed to hacking<a href="https://securityaffairs.com/140797/hacking/cacti-servers-cve-2022-46169-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most internet-exposed Cacti servers are vulnerable to the critical vulnerability CVE-2022-46169 which is actively exploited in the wild.
+Cacti is an open-source platform that provides a robust and extensible operational monitoring and fault management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

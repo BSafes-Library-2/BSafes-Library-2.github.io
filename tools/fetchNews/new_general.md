@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack the Pentagon 3.0 Bug Bounty Program to Focus on Facility Control Systems<a href="https://www.securityweek.com/hack-pentagon-30-bug-bounty-program-focus-facility-control-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Defense (DoD) is getting ready to launch the third installment of its ‘Hack the Pentagon’ bug bounty program, which will focus on the Facility Related Controls System (FRCS) network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

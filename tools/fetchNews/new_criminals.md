@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol arrested cryptocurrency scammers that stole millions from victims<a href="https://securityaffairs.com/140854/cyber-crime/europol-arrested-cryptocurrency-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international police operation led by Europol led to the arrest of cryptocurrency scammers targeting users all over the world.
+An international law enforcement operation conducted by authorities from Bulgaria, Cyprus, Germany and Serbia, supported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Undercover with the Leader of Lockbit<a href="https://therecord.media/ransomware-diaries-undercover-with-the-leader-of-lockbit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBitSupp’s focus on professionalizing the group is part of the reason why Lockbit has found such success in the cybercriminal world – the group accounted for 44 percent of the total ransomware attacks launched last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker stole credit cards from the website of Canada’s largest alcohol retailer LCBO<a href="https://securityaffairs.com/140823/data-breach/lcbo-magecart-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian Liquor Control Board of Ontario (LCBO), the largest beverage alcohol retailer in the country, disclosed Magecart attack.
+Canadian Liquor Control Board of Ontario (LCBO), the largest beverage alcohol retailer in the country, disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

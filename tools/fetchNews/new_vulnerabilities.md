@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T95 Android TV Box sold on Amazon hides sophisticated malware<a href="https://securityaffairs.com/140866/security/t95-android-tv-box-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Expert discovered that the T95 Android TV box, available for sale on Amazon and AliExpress, came with sophisticated pre-installed malware.
+Security researcher, Daniel Milisic, discovered that the T95 Android TV box he purchased on Amazon was infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

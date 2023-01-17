@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 16,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Secure User Authentication Method – Planning is More Important than Ever<a href="https://thehackernews.com/2023/01/a-secure-user-authentication-method.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When considering authentication providers, many organizations consider the ease of configuration, ubiquity of usage, and technical stability. Organizations cannot always be judged on those metrics alone. There is an increasing need to evaluate company ownership, policies and the stability, or instability, that it brings. How Leadership Change Affects Stability In recent months, a salient example is that of Twitter. The Twitter platform has been around since 2006 and is used by millions worldwide. With many users and a seemingly robust authentication system, organizations used Twitter as a primary or secondary authentication service. Inconsistent leadership and policies mean the stability of a platform is subject to change, which is especially true with Twitter as of late. The ownership change to Elon Musk precipitated widespread changes to staffing and policies. Due to those changes,&nbsp; a large portion of staff was let go , but this included many individuals responsible for the techn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

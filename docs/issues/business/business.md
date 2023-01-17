@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SailPoint acquires SecZetta to help companies validate non-employee identities<a href="https://www.helpnetsecurity.com/2023/01/14/sailpoint-seczetta/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With SecZetta, SailPoint will be able to expand its capabilities to help companies gain better visibility into all types of identities, across both employee and non-employee identities all from a single, market-leading identity security platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -10,6 +10,18 @@ nav_order: 150
 January 12, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Twelve Industrial Control Systems Advisories <a href="https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/cisa-releases-twelve-industrial-control-systems-advisories"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released twelve Industrial Control Systems (ICS) advisories on January 12, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Full Text</a>
 </p>
 <details>

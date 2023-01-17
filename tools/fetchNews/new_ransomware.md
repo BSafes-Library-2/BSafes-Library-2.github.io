@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast researchers released a free BianLian ransomware decryptor for some variants of the malware<a href="https://securityaffairs.com/140892/malware/free-bianlian-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus firm Avast released a free decryptor for the BianLian ransomware family that allows victims to recover locked&nbsp;files.
+Security firm Avast has released a free decryptor for the BianLian ransomware to allow victims of the malware to recover...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Exploits Microsoft SSRF Vulnerability<a href="https://cyware.com/news/cuba-ransomware-exploits-microsoft-ssrf-vulnerability-24d76045"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos reported that the Cuba ransomware group used malicious hardware devices certified by Microsoft’s Windows Hardware Developer Program in an attack that abuses OWASSRF vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
