@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 16,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns for Flaws Affecting Industrial Control Systems from Major Manufacturers<a href="https://thehackernews.com/2023/01/cisa-warns-for-flaws-affecting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released several Industrial Control Systems (ICS)&nbsp; advisories &nbsp;warning of critical security flaws affecting products from Sewio, InHand Networks, Sauter Controls, and Siemens. The most severe of the flaws relate to Sewio's RTLS Studio, which could be exploited by an attacker to "obtain unauthorized access to the server, alter information, create a denial-of-service condition, gain escalated privileges, and execute arbitrary code,"&nbsp; according to CISA . This includes CVE-2022-45444 (CVSS score: 10.0), a case of hard-coded passwords for select users in the application's database that potentially grant remote adversaries unrestricted access. Also notable are two command injection flaws (CVE-2022-47911 and CVE-2022-43483, CVSS scores: 9.1) and an out-of-bounds write vulnerability (CVE-2022-41989, CVSS score: 9.1) that could result in denial-of-service condition or code execution. The vulnerabilities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

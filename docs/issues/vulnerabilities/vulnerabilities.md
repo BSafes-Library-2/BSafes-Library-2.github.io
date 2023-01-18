@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 17,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access<a href="https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four different Microsoft Azure services have been found vulnerable to server-side request forgery ( SSRF ) attacks that could be exploited to gain unauthorized access to cloud resources. The security issues, which were discovered by Orca between October 8, 2022 and December 2, 2022 in Azure API Management, Azure Functions, Azure Machine Learning, and Azure Digital Twins, have since been addressed by Microsoft. "The discovered Azure SSRF vulnerabilities allowed an attacker to scan local ports, find new services, endpoints, and sensitive files - providing valuable information on possibly vulnerable servers and services to exploit for initial entry and the location of sensitive information to target," Orca researcher By Lidor Ben Shitrit&nbsp; said &nbsp;in a report shared with The Hacker News. Two of the vulnerabilities affecting Azure Functions and Azure Digital Twins could be abused without requiring any authentication, enabling a threat actor to seize control of a server without
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to abuse GitHub Codespaces to deliver malicious content<a href="https://securityaffairs.com/140932/hacking/github-codespaces-attack-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated how to abuse a feature in GitHub Codespaces to deliver malware to victim systems.
+Trend Micro researchers reported that it is possible to abuse a legitimate feature in the development environment GitHub Codespaces to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch your Zoho ManageEngine instance immediately! PoC Exploit for CVE-2022-47966 will be released soon<a href="https://securityaffairs.com/140920/hacking/zoho-manageengine-flaw-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A PoC exploit code for the unauthenticated remote code execution vulnerability CVE-2022-47966 in Zoho ManageEngine will be released soon.
+The CVE-2022-47966 flaw is an unauthenticated remote code execution vulnerability that impacts multiple Zoho...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

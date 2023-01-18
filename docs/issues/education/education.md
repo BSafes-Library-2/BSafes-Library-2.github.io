@@ -8,6 +8,35 @@ nav_order: 900053
 
 ## Education
 ---
+January 17,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Places to Supercharge Your SOC with Automation<a href="https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that the job of SOC teams continues to become increasingly difficult. Increased volume and sophistication of attacks are plaguing under-resourced teams with false positives and analyst burnout. However, like many other industries, cybersecurity is now beginning to lean on and benefit from advancements in automation to not only maintain the status quo, but to attain better security outcomes. Automation across multiple phases of the SOC workflow The need for automation is clear, and it is apparent that it is becoming table stakes for the industry. Of all cyber resilient organizations, IBM estimates that&nbsp; 62% &nbsp;have deployed automation, AI and machine learning tools and processes.&nbsp; Up until now, much of these advancements in automation have been focused on response, with SOAR and incident response tools playing an instrumental role in tackling the most urgent phase of the SOC workflow.&nbsp; Centering the focus only on response, however, means we're treating the sym
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing Asset Risks During Healthcare M&amp;As<a href="https://securityaffairs.com/140907/security/asset-risks-healthcare-mas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How healthcare delivery organizations (HDOs) can manage the IT asset risks during a healthcare M&amp;A process.
+Mergers and Acquisitions (M&amp;A), you’ve probably heard the term before. An M&amp;A is often associated with the “business world”;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

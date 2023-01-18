@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Address Poisoning Scam Hits MetaMask Users<a href="https://cyware.com/news/address-poisoning-scam-hits-metamask-users-ce84fc95"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MetaMask, the cryptocurrency wallet provider, disclosed a new scam baiting its users into sending funds to scammers’ wallet addresses. The address poisoning technique used by scammers relies on similarity to the original recipients’ addresses. Creating an address that closely matches a target addre ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

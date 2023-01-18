@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhadamanthys Stealer Spreads via Spam Emails and Google Ads<a href="https://cyware.com/news/rhadamanthys-stealer-spreads-via-spam-emails-and-google-ads-badb99e9"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17,2023
+January 17,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access<a href="https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1,000 ships impacted by a ransomware attack on maritime software supplier DNV<a href="https://securityaffairs.com/140941/cyber-crime/ransomware-attack-maritime-firm-dnv.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Network of Hundreds of Fake Websites Distributing Raccoon and Vidar Stealers<a href="https://cyware.com/news/massive-network-of-hundreds-of-fake-websites-distributing-raccoon-and-vidar-stealers-589983ef"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17,2023
+January 17,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Abuse Legitimate GitHub Codespaces Feature to Deliver Malware<a href="https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to abuse GitHub Codespaces to deliver malicious content<a href="https://securityaffairs.com/140932/hacking/github-codespaces-attack-technique.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads Malware Wipes NFT Influencer’s Crypto Wallet<a href="https://www.hackread.com/google-ads-malware-nft-crypto-wallet/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17,2023
+January 17,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 4 Places to Supercharge Your SOC with Automation<a href="https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch your Zoho ManageEngine instance immediately! PoC Exploit for CVE-2022-47966 will be released soon<a href="https://securityaffairs.com/140920/hacking/zoho-manageengine-flaw-poc-exploit.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This banking virus is 'December 2022’s Most Wanted Malware'<a href="https://ciso.economictimes.indiatimes.com/news/this-banking-virus-is-december-2022s-most-wanted-malware/97050079?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17,2023
+January 17,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoho ManageEngine PoC Exploit to be Released Soon - Patch Before It's Too Late!<a href="https://thehackernews.com/2023/01/zoho-manageengine-poc-exploit-to-be.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet observed three rogue PyPI packages spreading malware<a href="https://securityaffairs.com/140912/malware/3-pypi-packages-spreading-malware.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Danish Consumers Targeted by Smishing Attack Wave<a href="https://heimdalsecurity.com/blog/danish-danskespil-dk-smishing/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17,2023
+January 17,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover 3 PyPI Packages Spreading Malware to Developer Systems<a href="https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Managing Asset Risks During Healthcare M&As<a href="https://securityaffairs.com/140907/security/asset-risks-healthcare-mas.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacked evidence and stolen data swamp English courts<a href="https://www.thebureauinvestigates.com/stories/2023-01-15/hacked-evidence-and-stolen-data-swamp-english-courts?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2023
+January 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use fear of mobilization to target Russians with phishing attacks<a href="https://therecord.media/hackers-use-fear-of-mobilization-to-target-russians-with-phishing-attacks/?&web_view=true"> Full Text</a>

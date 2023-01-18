@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use fear of mobilization to target Russians with phishing attacks<a href="https://therecord.media/hackers-use-fear-of-mobilization-to-target-russians-with-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a phishing campaign described by the Russian cybersecurity channel In2security on Telegram and confirmed by researchers from Kaspersky Lab, attackers used a phishing website and Telegram bot to collect personal data from Russian users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

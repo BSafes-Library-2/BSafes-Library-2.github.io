@@ -8,6 +8,35 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked evidence and stolen data swamp English courts<a href="https://www.thebureauinvestigates.com/stories/2023-01-15/hacked-evidence-and-stolen-data-swamp-english-courts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A multimillion-pound high court case between an authoritarian Gulf emirate and an Iranian-American businessman has revealed how hacked evidence is being used by leading law firms to advance their clients’ claims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French CNIL fined Tiktok $5.4 Million for violating cookie laws<a href="https://secur<br><br>ityaffairs.com/140786/digital-id/cnil-fined-tiktok.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French data protection watchdog fined short-form video hosting service TikTok&nbsp;€5 million for breaking cookie consent rules.
+The Commission nationale de l'informatique et des libertés (CNIL)&nbsp;has fined short-form video hosting service TikTok&nbsp;€5...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
