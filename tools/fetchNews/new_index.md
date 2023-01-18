@@ -34,7 +34,285 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhadamanthys Stealer Spreads via Spam Emails and Google Ads<a href="https://cyware.com/news/rhadamanthys-stealer-spreads-via-spam-emails-and-google-ads-badb99e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using phishing websites to mimic popular software, and raking it better via Google Ads, to trick users into downloading Rhadamanthys Stealer. The stealer spreads using spam emails, including an attachment to drop the malicious payload. The stealer targets several applications, in ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure Services Flaws Could've Exposed Cloud Resources to Unauthorized Access<a href="https://thehackernews.com/2023/01/microsoft-azure-services-flaws-couldve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four different Microsoft Azure services have been found vulnerable to server-side request forgery ( SSRF ) attacks that could be exploited to gain unauthorized access to cloud resources. The security issues, which were discovered by Orca between October 8, 2022 and December 2, 2022 in Azure API Management, Azure Functions, Azure Machine Learning, and Azure Digital Twins, have since been addressed by Microsoft. "The discovered Azure SSRF vulnerabilities allowed an attacker to scan local ports, find new services, endpoints, and sensitive files - providing valuable information on possibly vulnerable servers and services to exploit for initial entry and the location of sensitive information to target," Orca researcher By Lidor Ben Shitrit  said  in a report shared with The Hacker News. Two of the vulnerabilities affecting Azure Functions and Azure Digital Twins could be abused without requiring any authentication, enabling a threat actor to seize control of a server without
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,000 ships impacted by a ransomware attack on maritime software supplier DNV<a href="https://securityaffairs.com/140941/cyber-crime/ransomware-attack-maritime-firm-dnv.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack against the maritime software supplier DNV impacted approximately 1,000 vessels.
+About 1,000 vessels have been impacted by a ransomware attack against DNV, one of the major maritime software suppliers. 
+DNV GL provides solutions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Network of Hundreds of Fake Websites Distributing Raccoon and Vidar Stealers<a href="https://cyware.com/news/massive-network-of-hundreds-of-fake-websites-distributing-raccoon-and-vidar-stealers-589983ef"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers have been using a large and resilient infrastructure to distribute two prominent info-stealers—Raccoon and Vidar—possibly since early 2020, revealed security experts. Experts found that the intrusion sets are implementing defense evasion techniques to increase the chances of successfully  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Abuse Legitimate GitHub Codespaces Feature to Deliver Malware<a href="https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has found that it is possible for threat actors to abuse a legitimate feature in GitHub Codespaces to deliver malware to victim systems. GitHub Codespaces  is a cloud-based configurable development environment that allows users to debug, maintain, and commit changes to a given codebase from a web browser or via an integration in Visual Studio Code. It also comes with a port forwarding feature that makes it possible to access a web application that's running on a particular port within the codespace directly from the browser on a local machine for testing and debugging purposes. "You can also forward a port manually, label forwarded ports, share forwarded ports with members of your organization, share forwarded ports publicly, and add forwarded ports to the codespace configuration," GitHub  explains  in its documentation. It's  important  to note here that any forwarded port that's made public will also permit any party with knowledge of the URL
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to abuse GitHub Codespaces to deliver malicious content<a href="https://securityaffairs.com/140932/hacking/github-codespaces-attack-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers demonstrated how to abuse a feature in GitHub Codespaces to deliver malware to victim systems.
+Trend Micro researchers reported that it is possible to abuse a legitimate feature in the development environment GitHub Codespaces to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads Malware Wipes NFT Influencer’s Crypto Wallet<a href="https://www.hackread.com/google-ads-malware-nft-crypto-wallet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An NFT influencer with the Twitter handle @NFT_GOD claims to have lost thousands of dollars worth of non-fungible tokens (NFTs) and crypto in a Google Ads-delivered malware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+4 Places to Supercharge Your SOC with Automation<a href="https://thehackernews.com/2023/01/4-places-to-supercharge-your-soc-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that the job of SOC teams continues to become increasingly difficult. Increased volume and sophistication of attacks are plaguing under-resourced teams with false positives and analyst burnout. However, like many other industries, cybersecurity is now beginning to lean on and benefit from advancements in automation to not only maintain the status quo, but to attain better security outcomes. Automation across multiple phases of the SOC workflow The need for automation is clear, and it is apparent that it is becoming table stakes for the industry. Of all cyber resilient organizations, IBM estimates that  62%  have deployed automation, AI and machine learning tools and processes.  Up until now, much of these advancements in automation have been focused on response, with SOAR and incident response tools playing an instrumental role in tackling the most urgent phase of the SOC workflow.  Centering the focus only on response, however, means we're treating the sym
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch your Zoho ManageEngine instance immediately! PoC Exploit for CVE-2022-47966 will be released soon<a href="https://securityaffairs.com/140920/hacking/zoho-manageengine-flaw-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A PoC exploit code for the unauthenticated remote code execution vulnerability CVE-2022-47966 in Zoho ManageEngine will be released soon.
+The CVE-2022-47966 flaw is an unauthenticated remote code execution vulnerability that impacts multiple Zoho...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This banking virus is 'December 2022’s Most Wanted Malware'<a href="https://ciso.economictimes.indiatimes.com/news/this-banking-virus-is-december-2022s-most-wanted-malware/97050079?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Check Point's Global Threat Index for December 2022 report, Qbot was the most prevalent malware last month impacting 7% of organizations worldwide, followed by Emotet with a global impact of 4% and XMRig with a global impact of 3%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoho ManageEngine PoC Exploit to be Released Soon - Patch Before It's Too Late!<a href="https://thehackernews.com/2023/01/zoho-manageengine-poc-exploit-to-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Zoho ManageEngine are being urged to patch their instances against a critical security vulnerability ahead of the release of a proof-of-concept ( PoC ) exploit code. The issue in question is  CVE-2022-47966 , an unauthenticated remote code execution vulnerability affecting several products due to the use of an outdated third-party dependency, Apache Santuario. "This vulnerability allows an unauthenticated adversary to execute arbitrary code," Zoho  warned  in an advisory issued late last year, noting that it affects all ManageEngine setups that have the SAML single sign-on (SSO) feature enabled, or had it enabled in the past. Horizon3.ai has now released Indicators of Compromise (IOCs) associated with the flaw, stating that it was able to successfully reproduce the exploit against ManageEngine ServiceDesk Plus and ManageEngine Endpoint Central products. "The vulnerability is easy to exploit and a good candidate for attackers to 'spray and pray' acr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet observed three rogue PyPI packages spreading malware<a href="https://securityaffairs.com/140912/malware/3-pypi-packages-spreading-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered three malicious packages that have been uploaded to the Python Package Index (PyPI) repository by Lolip0p group.
+FortiGuard Labs researchers discovered three malicious PyPI packages (called ‘colorslib’, ‘httpslib’,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Danish Consumers Targeted by Smishing Attack Wave<a href="https://heimdalsecurity.com/blog/danish-danskespil-dk-smishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contacted by an anonymous reader, Heimdal was made aware that numerous Danish smartphone owners have been flooded by cryptic messages from a user that goes by the moniker of “Dansk-game.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover 3 PyPI Packages Spreading Malware to Developer Systems<a href="https://thehackernews.com/2023/01/researchers-uncover-3-pypi-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor by the name  Lolip0p  has uploaded three rogue packages to the Python Package Index (PyPI) repository that are designed to drop malware on compromised developer systems. The packages – named  colorslib  (versions 4.6.11 and 4.6.12),  httpslib  (versions 4.6.9 and 4.6.11), and  libhttps  (version 4.6.12) – by the author between January 7, 2023, and January 12, 2023. They have since been yanked from PyPI but not before they were cumulatively downloaded over 550 times. The modules come with identical setup scripts that are designed to invoke PowerShell and run a malicious binary (" Oxzy.exe ") hosted on Dropbox, Fortinet  disclosed  in a report published last week. The executable, once launched, triggers the retrieval of a next-stage, also a binary named  update.exe , that runs in the Windows temporary folder ("%USER%\AppData\Local\Temp\"). update.exe is flagged by antivirus vendors on VirusTotal as an information stealer that's also capable of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing Asset Risks During Healthcare M&As<a href="https://securityaffairs.com/140907/security/asset-risks-healthcare-mas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How healthcare delivery organizations (HDOs) can manage the IT asset risks during a healthcare M&A process.
+Mergers and Acquisitions (M&A), you’ve probably heard the term before. An M&A is often associated with the “business world”;...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacked evidence and stolen data swamp English courts<a href="https://www.thebureauinvestigates.com/stories/2023-01-15/hacked-evidence-and-stolen-data-swamp-english-courts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A multimillion-pound high court case between an authoritarian Gulf emirate and an Iranian-American businessman has revealed how hacked evidence is being used by leading law firms to advance their clients’ claims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use fear of mobilization to target Russians with phishing attacks<a href="https://therecord.media/hackers-use-fear-of-mobilization-to-target-russians-with-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a phishing campaign described by the Russian cybersecurity channel In2security on Telegram and confirmed by researchers from Kaspersky Lab, attackers used a phishing website and Telegram bot to collect personal data from Russian users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EyeSpy Spyware Targets Iranian VPN Users<a href="https://cyware.com/news/eyespy-spyware-targets-iranian-vpn-users-0d8a598d"> Full Text</a>
@@ -50,7 +328,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16,2023
+January 16,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raccoon and Vidar Stealers Spreading via Massive Network of Fake Cracked Software<a href="https://thehackernews.com/2023/01/raccoon-and-vidar-stealers-spreading.html"> Full Text</a>
@@ -66,7 +344,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast researchers released a free BianLian ransomware decryptor for some variants of the malware<a href="https://securityaffairs.com/140892/malware/free-bianlian-ransomware-decryptor.html"> Full Text</a>
@@ -83,7 +361,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Imaging Firm Faces 2 Class Actions in 2022 Breach<a href="https://www.bankinfosecurity.com/medical-imaging-firm-faces-2-class-actions-in-2022-breach-a-20930?&web_view=true"> Full Text</a>
@@ -99,7 +377,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16,2023
+January 16,2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Secure User Authentication Method – Planning is More Important than Ever<a href="https://thehackernews.com/2023/01/a-secure-user-authentication-method.html"> Full Text</a>
@@ -115,7 +393,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a backdoor that borrows code from CIA’s Hive malware<a href="https://securityaffairs.com/140878/malware/cia-hive-malware-detected.html"> Full Text</a>
@@ -132,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Address Poisoning Scam Hits MetaMask Users<a href="https://cyware.com/news/address-poisoning-scam-hits-metamask-users-ce84fc95"> Full Text</a>
@@ -148,7 +426,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16,2023
+January 16,2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns for Flaws Affecting Industrial Control Systems from Major Manufacturers<a href="https://thehackernews.com/2023/01/cisa-warns-for-flaws-affecting.html"> Full Text</a>
@@ -164,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T95 Android TV Box sold on Amazon hides sophisticated malware<a href="https://securityaffairs.com/140866/security/t95-android-tv-box-malware.html"> Full Text</a>
@@ -181,7 +459,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SailPoint acquires SecZetta to help companies validate non-employee identities<a href="https://www.helpnetsecurity.com/2023/01/14/sailpoint-seczetta/?&web_view=true"> Full Text</a>
@@ -197,7 +475,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16,2023
+January 16,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Backdoor Created Using Leaked CIA's Hive Malware Discovered in the Wild<a href="https://thehackernews.com/2023/01/new-backdoor-created-using-leaked-cias.html"> Full Text</a>
@@ -213,7 +491,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Europol arrested cryptocurrency scammers that stole millions from victims<a href="https://securityaffairs.com/140854/cyber-crime/europol-arrested-cryptocurrency-scammers.html"> Full Text</a>
@@ -230,7 +508,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware Exploits Microsoft SSRF Vulnerability<a href="https://cyware.com/news/cuba-ransomware-exploits-microsoft-ssrf-vulnerability-24d76045"> Full Text</a>
@@ -246,7 +524,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Undercover with the Leader of Lockbit<a href="https://therecord.media/ransomware-diaries-undercover-with-the-leader-of-lockbit/?&web_view=true"> Full Text</a>
@@ -262,7 +540,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers disrupt 24 Hours of Le Mans Virtual esports event<a href="https://www.bitdefender.com/blog/hotforsecurity/hackers-disrupt-24-hours-of-le-mans-virtual-esports-event/?&web_view=true"> Full Text</a>
@@ -278,7 +556,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2023
+January 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hack the Pentagon 3.0 Bug Bounty Program to Focus on Facility Control Systems<a href="https://www.securityweek.com/hack-pentagon-30-bug-bounty-program-focus-facility-control-systems?&web_view=true"> Full Text</a>
