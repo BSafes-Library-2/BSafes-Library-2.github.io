@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 18,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Flaws in Siemens, GE Digital, and Contec Industrial Control Systems<a href="https://thehackernews.com/2023/01/cisa-warns-of-flaws-in-siemens-ge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; published &nbsp;four Industrial Control Systems (ICS) advisories, calling out several security flaws affecting products from Siemens, GE Digital, and Contec. The most critical of the issues have been identified in Siemens SINEC INS that could lead to remote code execution via a path traversal flaw ( CVE-2022-45092 , CVSS score: 9.9) and command injection ( CVE-2022-2068 , CVSS score: 9.8). Also patched by Siemens is an authentication bypass vulnerability in llhttp parser ( CVE-2022-35256 , CVSS score: 9.8) as well as an out-of-bounds write bug in the OpenSSL library ( CVE-2022-2274 , CVSS score: 9.8) that could be exploited to trigger remote code execution. The German automation company, in December 2022,&nbsp; released &nbsp;Service Pack 2 Update 1 software to mitigate the flaws. Separately, a critical flaw has also been revealed in GE Digital's Proficy Historian solution that could result in code execution regardless of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

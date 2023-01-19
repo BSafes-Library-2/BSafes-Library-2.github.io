@@ -8,6 +8,50 @@ nav_order: 900029
 
 ## Breach
 ---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTX says $415 million of crypto was hacked<a href="https://www.cnbc.com/2023/01/17/ftx-says-415-million-of-crypto-was-hacked.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bankrupt crypto firm FTX said on Tuesday that $415 million worth of crypto was hacked from the exchange’s accounts, representing a sizable portion of the identified assets the company is trying to recover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Myrocket HR platform’s data leak turns into privacy nightmare for employees<a href="https://securityaffairs.com/140957/data-breach/myrocket-hr-platforms-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HR management platform myrocket.co has exposed the personal information of hundreds of thousands of employees and millions of job candidates.
+Original post at CyberNews
+On December 12, 2022, the Cybernews research team discovered a publicly accessible...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak at Myrocket HR Platform Turns Into Privacy Nightmare for 200K Employees, 9M Job Candidates<a href="https://securityaffairs.com/140957/data-breach/myrocket-hr-platforms-data-leak.html/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found about 435,000 payslips, 300 tax filings, 3,800 insurance payment documents, and 21,000 salary sheets belonging to various companies using the HR platform’s services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

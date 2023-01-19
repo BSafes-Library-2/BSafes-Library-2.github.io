@@ -34,6 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTX says $415 million of crypto was hacked<a href="https://www.cnbc.com/2023/01/17/ftx-says-415-million-of-crypto-was-hacked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bankrupt crypto firm FTX said on Tuesday that $415 million worth of crypto was hacked from the exchange’s accounts, representing a sizable portion of the identified assets the company is trying to recover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Bogle Campaign Unleashes NjRAT Trojan on Middle East and North Africa<a href="https://thehackernews.com/2023/01/earth-bogle-campaign-unleashes-njrat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing campaign dubbed  Earth Bogle  is leveraging geopolitical-themed lures to deliver the NjRAT remote access trojan to victims across the Middle East and North Africa. "The threat actor uses public cloud storage services such as files[.]fm and failiem[.]lv to host malware, while compromised web servers distribute NjRAT," Trend Micro  said  in a report published Wednesday. Phishing emails, typically tailored to the victim's interests, are loaded with malicious attachments to activate the infection routine. This takes the form of a Microsoft Cabinet (CAB) archive file containing a Visual Basic Script dropper to deploy the next-stage payload. Alternatively, it's suspected that the files are distributed via social media platforms such as Facebook and Discord, in some cases even creating bogus accounts to serve ads on pages impersonating legitimate news outlets. The CAB files, hosted on cloud storage services, also masquerade as sensitive voice calls to entice
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Putting the Tech into Cybersecurity Policy: A Workshop for Social Science and Legal Scholars<a href="https://www.lawfareblog.com/putting-tech-cybersecurity-policy-workshop-social-science-and-legal-scholars"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+June 19-22, 2023
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Lingering Power of Cyber Brandishing<a href="https://www.lawfareblog.com/lingering-power-cyber-brandishing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though many are quick to oversimplify cyber brandishing as counterproductive, the power of cyber brandishing is much more nuanced and useful.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two critical flaws discovered in Git source code version control system<a href="https://securityaffairs.com/140977/security/git-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the Git source code version control system urge to update the software to fix two critical vulnerabilities.
+The maintainers of the Git source code version control system announced to have fixed a couple of critical vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WAGO fixes config export flaw threatening data leak from industrial devices<a href="https://portswigger.net/daily-swig/wago-fixes-config-export-flaw-threatening-data-leak-from-industrial-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-3738, the vulnerability is described as a PHP error in the WAGO web admin interface file download.php, as some lines are commented on using a multi-line comment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18,2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Government Entities Under Attack by New Wave of BackdoorDiplomacy Attacks<a href="https://thehackernews.com/2023/01/iranian-government-entities-under.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  BackdoorDiplomacy  has been linked to a new wave of attacks targeting Iranian government entities between July and late December 2022. Palo Alto Networks Unit 42, which is tracking the activity under its  constellation-themed  moniker  Playful Taurus , said it observed the government domains attempting to connect to malware infrastructure previously identified as associated with the adversary. Also known by the names APT15, KeChang, NICKEL, and Vixen Panda, the Chinese APT group has a history of cyber espionage campaigns aimed at government and diplomatic entities across North America, South America, Africa, and the Middle East at least since 2010. Slovak cybersecurity firm ESET, in June 2021,  unpacked  the intrusions mounted by hacking crew against diplomatic entities and telecommunication companies in Africa and the Middle East using a custom implant known as Turian. Then in December 2021, Microsoft  announced  the seizure of 42 domains operated by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A couple of bugs can be chained to hack Netcomm routers<a href="https://securityaffairs.com/140967/iot/netcomm-tp-link-routers-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A couple of critical vulnerabilities have been discovered in Netcomm rourers, experts warn of their potential exploitation in the wild.
+The vulnerabilities discovered in the Netcomm routers are a a stack based buffer overflow and an authentication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProArch Acquires Data Protection Firm Trum & Associates<a href="https://finance.yahoo.com/news/proarch-acquires-data-protection-firm-140000363.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition expands ProArch’s cybersecurity and governance, risk, and compliance (GRC) practices to secure enterprise data to prevent data breaches and establish a culture that values safeguarding corporate data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18,2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How MSSPs and vCISOs can extend their services into compliance readiness without increasing cost<a href="https://thehackernews.com/2023/01/guide-how-mssps-and-vcisos-can-extend.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compliance services are emerging as one of the hottest areas of cybersecurity.  While compliance used to be mainly the province of large enterprises, times have changed, and it is now a day-to-day concern for a growing number of small and medium businesses.  Even when these organizations are not regulated, SMEs often aim to follow compliance and/or security frameworks either for their own risk mitigation or in order to comply with the standards required by their customers. The driver is often their customers' supply chain concerns and requirements. As large businesses adopt cybersecurity and compliance frameworks and agree to certain standards, they impose similar demands on their suppliers. This is a major opportunity for providers of virtual CISO (vCISO) services assuming they can broaden their offerings to encompass compliance. MSSPs, MSPs, consultanies and other vCISO service providers perform a vital role in building a comprehensive cybersecurity program for their SME customer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Myrocket HR platform’s data leak turns into privacy nightmare for employees<a href="https://securityaffairs.com/140957/data-breach/myrocket-hr-platforms-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HR management platform myrocket.co has exposed the personal information of hundreds of thousands of employees and millions of job candidates.
+Original post at CyberNews
+On December 12, 2022, the Cybernews research team discovered a publicly accessible...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abuse of GitHub Codespaces may Turn it into Malware Distribution Center<a href="https://cyware.com/news/abuse-of-github-codespaces-may-turn-it-into-malware-distribution-center-916fd341"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research revealed that a feature in GitHub Codespaces could be exploited by threat actors to deliver malware of their choice to a compromised device. Experts at Trend Micro demonstrated a scenario where they could serve malicious content at a rapid rate by exposing ports to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Vulnerabilities Discovered in Netcomm and TP-Link Routers<a href="https://thehackernews.com/2023/01/critical-security-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities have been disclosed in Netcomm and TP-Link routers, some of which could be weaponized to achieve remote code execution. The flaws, tracked as  CVE-2022-4873  and  CVE-2022-4874 , concern a case of stack-based buffer overflow and authentication bypass and impact Netcomm router models NF20MESH, NF20, and NL1902 running firmware versions earlier than R6B035 . "The two vulnerabilities, when chained together, permit a remote, unauthenticated attacker to execute arbitrary code," the CERT Coordination Center (CERT/CC)  said  in an advisory published Tuesday. "The attacker can first gain unauthorized access to affected devices, and then use those entry points to gain access to other networks or compromise the availability, integrity, or confidentiality of data being transmitted from the internal network." Security researcher  Brendan Scarvell  has been credited with discovering and reporting the issues in October 2022. In a related developme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found SSRF flaws in four different Microsoft Azure services<a href="https://securityaffairs.com/140947/hacking/microsoft-azure-services-ssrf-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSRF vulnerabilities in four Microsoft Azure services could be exploited to gain unauthorized access to cloud resources.
+Researchers at the security firm Orca discovered that four different Microsoft Azure services were vulnerable to server-side request...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle's First Security Update for 2023 Includes 327 New Patches<a href="https://www.securityweek.com/oracles-first-security-update-2023-includes-327-new-patches?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the 327 new patches, more than 70 fixes address critical-severity vulnerabilities. Over 200 of the patches resolve security defects that can be exploited remotely without authentication. Some of the resolved bugs impact multiple products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Git Users Urged to Update Software to Prevent Remote Code Execution Attacks<a href="https://thehackernews.com/2023/01/git-users-urged-to-update-software-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the  Git  source code version control system have released updates to remediate two critical vulnerabilities that could be exploited by a malicious actor to achieve remote code execution. The flaws, tracked as  CVE-2022-23521  and  CVE-2022-41903 , impacts the following versions of Git: v2.30.6, v2.31.5, v2.32.4, v2.33.5, v2.34.5, v2.35.5, v2.36.3, v2.37.4, v2.38.2, and v2.39.0. Patched versions include v2.30.7, v2.31.6, v2.32.5, v2.33.6, v2.34.6, v2.35.6, v2.36.4, v2.37.5, v2.38.3, and v2.39.1. X41 D-Sec security researchers Markus Vervier and Eric Sesterhenn as well as GitLab's Joern Schneeweisz have been credited with reporting the bugs. "The most severe issue discovered allows an attacker to trigger a heap-based memory corruption during clone or pull operations, which might result in code execution," the German cybersecurity company  said  of CVE-2022-23521. CVE-2022-41903, also a critical vulnerability, is triggered during an archive operatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hypori Secures $10.5M in Series B Funding<a href="https://www.finsmes.com/2023/01/hypori-secures-10-5m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, part of a total fundraising round with commitments to invest up to $18M, was led by Hale Capital Partners with participation from GreatPoint Ventures, and GEN David Petraeus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18,2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Flaws in Siemens, GE Digital, and Contec Industrial Control Systems<a href="https://thehackernews.com/2023/01/cisa-warns-of-flaws-in-siemens-ge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  published  four Industrial Control Systems (ICS) advisories, calling out several security flaws affecting products from Siemens, GE Digital, and Contec. The most critical of the issues have been identified in Siemens SINEC INS that could lead to remote code execution via a path traversal flaw ( CVE-2022-45092 , CVSS score: 9.9) and command injection ( CVE-2022-2068 , CVSS score: 9.8). Also patched by Siemens is an authentication bypass vulnerability in llhttp parser ( CVE-2022-35256 , CVSS score: 9.8) as well as an out-of-bounds write bug in the OpenSSL library ( CVE-2022-2274 , CVSS score: 9.8) that could be exploited to trigger remote code execution. The German automation company, in December 2022,  released  Service Pack 2 Update 1 software to mitigate the flaws. Separately, a critical flaw has also been revealed in GE Digital's Proficy Historian solution that could result in code execution regardless of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak at Myrocket HR Platform Turns Into Privacy Nightmare for 200K Employees, 9M Job Candidates<a href="https://securityaffairs.com/140957/data-breach/myrocket-hr-platforms-data-leak.html/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found about 435,000 payslips, 300 tax filings, 3,800 insurance payment documents, and 21,000 salary sheets belonging to various companies using the HR platform’s services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firm Blackpanda closes $15M Series A to deepen its Asia presence<a href="https://e27.co/cybersecurity-firm-blackpanda-closes-us15m-series-a-to-deepen-its-asia-presence-20230118/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A round for the Singapore-based cybersecurity firm, which specializes in incident response and digital forensics, was led by Primavera Venture Partners and Gaw Capital Partners, with participation from San Francisco-based WI Harper.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

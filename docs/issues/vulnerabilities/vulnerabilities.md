@@ -8,6 +8,107 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two critical flaws discovered in Git&nbsp;source code version control system<a href="https://securityaffairs.com/140977/security/git-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the&nbsp;Git&nbsp;source code version control system urge to update the software to fix two critical vulnerabilities.
+The maintainers of the&nbsp;Git&nbsp;source code version control system announced to have fixed a couple of critical vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WAGO fixes config export flaw threatening data leak from industrial devices<a href="https://portswigger.net/daily-swig/wago-fixes-config-export-flaw-threatening-data-leak-from-industrial-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2022-3738, the vulnerability is described as a PHP error in the WAGO web admin interface file download.php, as some lines are commented on using a multi-line comment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A couple of bugs can be chained to hack Netcomm routers<a href="https://securityaffairs.com/140967/iot/netcomm-tp-link-routers-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A couple of critical vulnerabilities have been discovered in Netcomm rourers, experts warn of their potential exploitation in the wild.
+The vulnerabilities discovered in the Netcomm routers are a a stack based buffer overflow and an authentication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Vulnerabilities Discovered in Netcomm and TP-Link Routers<a href="https://thehackernews.com/2023/01/critical-security-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities have been disclosed in Netcomm and TP-Link routers, some of which could be weaponized to achieve remote code execution. The flaws, tracked as&nbsp; CVE-2022-4873 &nbsp;and&nbsp; CVE-2022-4874 , concern a case of stack-based buffer overflow and authentication bypass and impact Netcomm router models NF20MESH, NF20, and NL1902 running firmware versions earlier than R6B035 . "The two vulnerabilities, when chained together, permit a remote, unauthenticated attacker to execute arbitrary code," the CERT Coordination Center (CERT/CC)&nbsp; said &nbsp;in an advisory published Tuesday. "The attacker can first gain unauthorized access to affected devices, and then use those entry points to gain access to other networks or compromise the availability, integrity, or confidentiality of data being transmitted from the internal network." Security researcher&nbsp; Brendan Scarvell &nbsp;has been credited with discovering and reporting the issues in October 2022. In a related developme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found SSRF flaws in four different Microsoft Azure services<a href="https://securityaffairs.com/140947/hacking/microsoft-azure-services-ssrf-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSRF vulnerabilities in four Microsoft Azure services could be exploited to gain unauthorized access to cloud resources.
+Researchers at the security firm Orca discovered that four different Microsoft Azure services were vulnerable to server-side request...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle's First Security Update for 2023 Includes 327 New Patches<a href="https://www.securityweek.com/oracles-first-security-update-2023-includes-327-new-patches?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the 327 new patches, more than 70 fixes address critical-severity vulnerabilities. Over 200 of the patches resolve security defects that can be exploited remotely without authentication. Some of the resolved bugs impact multiple products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Git Users Urged to Update Software to Prevent Remote Code Execution Attacks<a href="https://thehackernews.com/2023/01/git-users-urged-to-update-software-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the&nbsp; Git &nbsp;source code version control system have released updates to remediate two critical vulnerabilities that could be exploited by a malicious actor to achieve remote code execution. The flaws, tracked as&nbsp; CVE-2022-23521 &nbsp;and&nbsp; CVE-2022-41903 , impacts the following versions of Git: v2.30.6, v2.31.5, v2.32.4, v2.33.5, v2.34.5, v2.35.5, v2.36.3, v2.37.4, v2.38.2, and v2.39.0. Patched versions include v2.30.7, v2.31.6, v2.32.5, v2.33.6, v2.34.6, v2.35.6, v2.36.4, v2.37.5, v2.38.3, and v2.39.1. X41 D-Sec security researchers Markus Vervier and Eric Sesterhenn as well as GitLab's Joern Schneeweisz have been credited with reporting the bugs. "The most severe issue discovered allows an attacker to trigger a heap-based memory corruption during clone or pull operations, which might result in code execution," the German cybersecurity company&nbsp; said &nbsp;of CVE-2022-23521. CVE-2022-41903, also a critical vulnerability, is triggered during an archive operatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

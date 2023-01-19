@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTX says $415 million of crypto was hacked<a href="https://www.cnbc.com/2023/01/17/ftx-says-415-million-of-crypto-was-hacked.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18,2023
+January 18,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Bogle Campaign Unleashes NjRAT Trojan on Middle East and North Africa<a href="https://thehackernews.com/2023/01/earth-bogle-campaign-unleashes-njrat.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Putting the Tech into Cybersecurity Policy: A Workshop for Social Science and Legal Scholars<a href="https://www.lawfareblog.com/putting-tech-cybersecurity-policy-workshop-social-science-and-legal-scholars"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Lingering Power of Cyber Brandishing<a href="https://www.lawfareblog.com/lingering-power-cyber-brandishing"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two critical flaws discovered in Git source code version control system<a href="https://securityaffairs.com/140977/security/git-critical-flaws.html"> Full Text</a>
@@ -115,7 +115,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WAGO fixes config export flaw threatening data leak from industrial devices<a href="https://portswigger.net/daily-swig/wago-fixes-config-export-flaw-threatening-data-leak-from-industrial-devices?&web_view=true"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18,2023
+January 18,2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Government Entities Under Attack by New Wave of BackdoorDiplomacy Attacks<a href="https://thehackernews.com/2023/01/iranian-government-entities-under.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A couple of bugs can be chained to hack Netcomm routers<a href="https://securityaffairs.com/140967/iot/netcomm-tp-link-routers-critical-flaws.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProArch Acquires Data Protection Firm Trum & Associates<a href="https://finance.yahoo.com/news/proarch-acquires-data-protection-firm-140000363.html?&web_view=true"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18,2023
+January 18,2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guide: How MSSPs and vCISOs can extend their services into compliance readiness without increasing cost<a href="https://thehackernews.com/2023/01/guide-how-mssps-and-vcisos-can-extend.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Myrocket HR platform’s data leak turns into privacy nightmare for employees<a href="https://securityaffairs.com/140957/data-breach/myrocket-hr-platforms-data-leak.html"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abuse of GitHub Codespaces may Turn it into Malware Distribution Center<a href="https://cyware.com/news/abuse-of-github-codespaces-may-turn-it-into-malware-distribution-center-916fd341"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18,2023
+January 18,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Vulnerabilities Discovered in Netcomm and TP-Link Routers<a href="https://thehackernews.com/2023/01/critical-security-vulnerabilities.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found SSRF flaws in four different Microsoft Azure services<a href="https://securityaffairs.com/140947/hacking/microsoft-azure-services-ssrf-flaws.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oracle's First Security Update for 2023 Includes 327 New Patches<a href="https://www.securityweek.com/oracles-first-security-update-2023-includes-327-new-patches?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18,2023
+January 18,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Git Users Urged to Update Software to Prevent Remote Code Execution Attacks<a href="https://thehackernews.com/2023/01/git-users-urged-to-update-software-to.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hypori Secures $10.5M in Series B Funding<a href="https://www.finsmes.com/2023/01/hypori-secures-10-5m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18,2023
+January 18,2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Flaws in Siemens, GE Digital, and Contec Industrial Control Systems<a href="https://thehackernews.com/2023/01/cisa-warns-of-flaws-in-siemens-ge.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Leak at Myrocket HR Platform Turns Into Privacy Nightmare for 200K Employees, 9M Job Candidates<a href="https://securityaffairs.com/140957/data-breach/myrocket-hr-platforms-data-leak.html/?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2023
+January 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity firm Blackpanda closes $15M Series A to deepen its Asia presence<a href="https://e27.co/cybersecurity-firm-blackpanda-closes-us15m-series-a-to-deepen-its-asia-presence-20230118/?&web_view=true"> Full Text</a>

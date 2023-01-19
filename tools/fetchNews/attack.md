@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1,000 ships impacted by a ransomware attack on maritime software supplier DNV<a href="https://securityaffairs.com/140941/cyber-crime/ransomware-attack-maritime-firm-dnv.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack against the maritime software supplier DNV impacted approximately 1,000 vessels.
+About 1,000 vessels have been impacted by a ransomware attack against DNV, one of the major maritime software suppliers.&nbsp;
+DNV GL provides solutions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Danish Consumers Targeted by Smishing Attack Wave<a href="https://heimdalsecurity.com/blog/danish-danskespil-dk-smishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contacted by an anonymous reader, Heimdal was made aware that numerous Danish smartphone owners have been flooded by cryptic messages from a user that goes by the moniker of “Dansk-game.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

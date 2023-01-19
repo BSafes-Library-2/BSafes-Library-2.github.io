@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 17,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Abuse Legitimate GitHub Codespaces Feature to Deliver Malware<a href="https://thehackernews.com/2023/01/hackers-can-abuse-legitimate-github.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has found that it is possible for threat actors to abuse a legitimate feature in GitHub Codespaces to deliver malware to victim systems. GitHub Codespaces &nbsp;is a cloud-based configurable development environment that allows users to debug, maintain, and commit changes to a given codebase from a web browser or via an integration in Visual Studio Code. It also comes with a port forwarding feature that makes it possible to access a web application that's running on a particular port within the codespace directly from the browser on a local machine for testing and debugging purposes. "You can also forward a port manually, label forwarded ports, share forwarded ports with members of your organization, share forwarded ports publicly, and add forwarded ports to the codespace configuration," GitHub&nbsp; explains &nbsp;in its documentation. It's&nbsp; important &nbsp;to note here that any forwarded port that's made public will also permit any party with knowledge of the URL
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

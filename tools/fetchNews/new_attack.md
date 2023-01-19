@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 18,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Government Entities Under Attack by New Wave of BackdoorDiplomacy Attacks<a href="https://thehackernews.com/2023/01/iranian-government-entities-under.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; BackdoorDiplomacy &nbsp;has been linked to a new wave of attacks targeting Iranian government entities between July and late December 2022. Palo Alto Networks Unit 42, which is tracking the activity under its&nbsp; constellation-themed &nbsp;moniker&nbsp; Playful Taurus , said it observed the government domains attempting to connect to malware infrastructure previously identified as associated with the adversary. Also known by the names APT15, KeChang, NICKEL, and Vixen Panda, the Chinese APT group has a history of cyber espionage campaigns aimed at government and diplomatic entities across North America, South America, Africa, and the Middle East at least since 2010. Slovak cybersecurity firm ESET, in June 2021,&nbsp; unpacked &nbsp;the intrusions mounted by hacking crew against diplomatic entities and telecommunication companies in Africa and the Middle East using a custom implant known as Turian. Then in December 2021, Microsoft&nbsp; announced &nbsp;the seizure of 42 domains operated by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
