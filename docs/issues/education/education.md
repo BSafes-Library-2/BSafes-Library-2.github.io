@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 19,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Types of Risk Assessment Methodologies + How to Choose<a href="https://thehackernews.com/2023/01/6-types-of-risk-assessment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organization's sensitive information is under constant threat. Identifying those security risks is critical to protecting that information. But some risks are bigger than others. Some mitigation options are more expensive than others. How do you make the right decision? Adopting a formal&nbsp; risk assessment &nbsp;process gives you the information you need to set priorities. There are many ways to perform a risk assessment, each with its own benefits and drawbacks. We will help you find which of these six risk assessment methodologies works best for your organization. What is Risk Assessment? Risk assessment is the way organizations decide what to do in the face of today's complex security landscape. Threats and vulnerabilities are everywhere. They could come from an external actor or a careless user. They may even be built into the network infrastructure. Decision-makers need to understand the urgency of the organization's risks as well as how much mitigation efforts will cost. Risk as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

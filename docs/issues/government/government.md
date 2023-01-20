@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+January 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA adds Centos Web Panel RCE CVE-2022-44877 to its&nbsp;Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140989/security/centos-web-panel-rce-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added the vulnerability CVE-2022-44877 in CentOS Control Web Panel utility to its Known Exploited Vulnerabilities Catalog.
+The US CISA added the Centos Web Panel 7 unauthenticated remote code execution flaw (CVE-2022-44877) to its&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

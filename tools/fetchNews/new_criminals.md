@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 19,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitzlato Crypto Exchange Founder Arrested for Aiding Cybercriminals<a href="https://thehackernews.com/2023/01/bitzlato-crypto-exchange-founder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Wednesday announced the arrest of Anatoly Legkodymov (aka Gandalf and Tolik), the cofounder of Hong Kong-registered cryptocurrency exchange Bitzlato, for allegedly&nbsp;processing $700 million in illicit funds. The 40-year-old Russian national, who was arrested in Miami, was charged in a U.S. federal court with "conducting a money transmitting business that transported and transmitted illicit funds and that failed to meet U.S. regulatory safeguards, including anti-money laundering requirements," the DoJ&nbsp; said . According to court documents, Bitzlato is said to have advertised itself as a virtual currency exchange with minimal identification requirements for its users, breaking the rules requiring the vetting of customers. This lack of know your customer (KYC) enforcement led to the service becoming a "haven for criminal proceeds" and facilitating transactions worth more than $700 million on the Hydra darknet marketplace prior
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

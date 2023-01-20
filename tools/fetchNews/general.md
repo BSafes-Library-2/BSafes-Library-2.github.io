@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Putting the Tech into Cybersecurity Policy: A Workshop for Social Science and Legal Scholars<a href="https://www.lawfareblog.com/putting-tech-cybersecurity-policy-workshop-social-science-and-legal-scholars"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+June 19-22, 2023
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Lingering Power of Cyber Brandishing<a href="https://www.lawfareblog.com/lingering-power-cyber-brandishing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though many are quick to oversimplify cyber brandishing as counterproductive, the power of cyber brandishing is much more nuanced and useful.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How MSSPs and vCISOs can extend their services into compliance readiness without increasing cost<a href="https://thehackernews.com/2023/01/guide-how-mssps-and-vcisos-can-extend.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compliance services are emerging as one of the hottest areas of cybersecurity.&nbsp; While compliance used to be mainly the province of large enterprises, times have changed, and it is now a day-to-day concern for a growing number of small and medium businesses.&nbsp; Even when these organizations are not regulated, SMEs often aim to follow compliance and/or security frameworks either for their own risk mitigation or in order to comply with the standards required by their customers. The driver is often their customers' supply chain concerns and requirements. As large businesses adopt cybersecurity and compliance frameworks and agree to certain standards, they impose similar demands on their suppliers. This is a major opportunity for providers of virtual CISO (vCISO) services assuming they can broaden their offerings to encompass compliance. MSSPs, MSPs, consultanies and other vCISO service providers perform a vital role in building a comprehensive cybersecurity program for their SME customer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

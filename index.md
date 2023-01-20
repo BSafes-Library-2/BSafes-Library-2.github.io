@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BackdoorDiplomacy APT Uses Turian Backdoor to Targets Iranian Government<a href="https://cyware.com/news/backdoordiplomacy-apt-uses-turian-backdoor-to-targets-iranian-government-09f1da2a"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19,2023
+January 19,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Microsoft Azure Vulnerability Uncovered — EmojiDeploy for RCE Attacks<a href="https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Federal Cyber Insurance Backstop Is Premature<a href="https://www.lawfareblog.com/federal-cyber-insurance-backstop-premature"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC exploit for critical Zoho ManageEngine RCE flaw<a href="https://securityaffairs.com/141018/hacking/zoho-manageengine-rce-poc.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis implements new DNS changer in its malicious mobile app in 2022<a href="https://securelist.com/roaming-mantis-dns-changer-in-malicious-mobile-app/108464/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19,2023
+January 19,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Users Beware: New Hook Malware with RAT Capabilities Emerges<a href="https://thehackernews.com/2023/01/android-users-beware-new-hook-malware.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Microsoft Azure RCE flaw impacted multiple services<a href="https://securityaffairs.com/141007/hacking/microsoft-azure-emojideploy-rce.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Slapped With 5.5 Million Euro Fine for EU Data Breach<a href="https://www.securityweek.com/meta-slapped-55-million-euro-fine-eu-data-breach?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19,2023
+January 19,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Research Delves into the World of Malicious LNK Files and Hackers Behind Them<a href="https://thehackernews.com/2023/01/new-research-delves-into-world-of.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mailchimp discloses a new security breach, the second one in 6 months<a href="https://securityaffairs.com/140997/data-breach/mailchimp-security-breach.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Batloader Abused Legitimate Tools in Q4 2022<a href="https://cyware.com/news/batloader-abused-legitimate-tools-in-q4-2022-20f7014c"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19,2023
+January 19,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 6 Types of Risk Assessment Methodologies + How to Choose<a href="https://thehackernews.com/2023/01/6-types-of-risk-assessment.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA adds Centos Web Panel RCE CVE-2022-44877 to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140989/security/centos-web-panel-rce-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -247,7 +247,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2023
+January 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CSRF Vulnerability in Kudu SCM Allowed Code Execution in Azure Services<a href="https://www.securityweek.com/csrf-vulnerability-kudu-scm-allowed-code-execution-azure-services?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19,2023
+January 19,2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitzlato Crypto Exchange Founder Arrested for Aiding Cybercriminals<a href="https://thehackernews.com/2023/01/bitzlato-crypto-exchange-founder.html"> Full Text</a>
@@ -279,7 +279,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19,2023
+January 19,2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mailchimp Suffers Another Security Breach Compromising Some Customers' Information<a href="https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html"> Full Text</a>

@@ -54,6 +54,17 @@ The Spring web flows of TIBCO Software Inc.'s TIBCO JasperReports Server, TIBCO 
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2023 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Control Web Panel or CentOS Web Panel CVE-2022-44877 Detail <a href="https://nvd.nist.gov/vuln/detail/CVE-2022-44877"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+login/index.php in CWP (aka Control Web Panel or CentOS Web Panel) 7 before 0.9.8.1147 allows remote attackers to execute arbitrary OS commands via shell metacharacters in the login parameter.
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 21, 2022 - FBI

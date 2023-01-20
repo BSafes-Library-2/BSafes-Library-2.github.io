@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+January 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mailchimp discloses a new security breach, the second one in 6 months<a href="https://securityaffairs.com/140997/data-breach/mailchimp-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular email marketing and newsletter platform Mailchimp was hacked and the data of dozens of customers were exposed.&nbsp;
+The popular email marketing and newsletter platform Mailchimp was hacked twice in the past six months.
+The news of a new security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mailchimp Suffers Another Security Breach Compromising Some Customers' Information<a href="https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular email marketing and newsletter service Mailchimp has disclosed yet another security breach that enabled threat actors to access an internal support and account admin tool to obtain information about 133 customers. "The unauthorized actor conducted a social engineering attack on Mailchimp employees and contractors, and obtained access to select Mailchimp accounts using employee credentials compromised in that attack," the Intuit-owned company&nbsp; said &nbsp;in a disclosure. The development was&nbsp; first reported &nbsp;by TechCrunch. Mailchimp said it identified the lapse on January 11, 2023, and noted that there is no evidence the unauthorized party breached Intuit systems or other customer information beyond the 133 accounts. It further said the primary contacts for all those affected accounts were notified within 24 hours, and that it has since assisted those users in regaining access to their accounts. The Atlanta-based company, however, did not reveal the duration for which
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

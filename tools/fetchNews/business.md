@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProArch Acquires Data Protection Firm Trum &amp; Associates<a href="https://finance.yahoo.com/news/proarch-acquires-data-protection-firm-140000363.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition expands ProArch’s cybersecurity and governance, risk, and compliance (GRC) practices to secure enterprise data to prevent data breaches and establish a culture that values safeguarding corporate data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hypori Secures $10.5M&nbsp;in Series B Funding<a href="https://www.finsmes.com/2023/01/hypori-secures-10-5m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, part of a total fundraising round with commitments to invest up to $18M, was led by Hale Capital Partners with participation from GreatPoint Ventures, and GEN David Petraeus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firm Blackpanda closes $15M Series A to deepen its Asia presence<a href="https://e27.co/cybersecurity-firm-blackpanda-closes-us15m-series-a-to-deepen-its-asia-presence-20230118/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A round for the Singapore-based cybersecurity firm, which specializes in incident response and digital forensics, was led by Primavera Venture Partners and Gaw Capital Partners, with participation from San Francisco-based WI Harper.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
