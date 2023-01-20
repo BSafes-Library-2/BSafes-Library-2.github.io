@@ -34,6 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy APT Uses Turian Backdoor to Targets Iranian Government<a href="https://cyware.com/news/backdoordiplomacy-apt-uses-turian-backdoor-to-targets-iranian-government-09f1da2a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BackdoorDiplomacy is continuously evolving its TTPs during cyberespionage campaigns. Unit 42 spotted the new campaign by the group that targeted Iranian government entities between July and December 2022. Historically, it has targeted government and diplomatic entities in the Middle East and A ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Azure Vulnerability Uncovered — EmojiDeploy for RCE Attacks<a href="https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new critical remote code execution (RCE) flaw discovered impacting multiple services related to Microsoft Azure could be exploited by a malicious actor to completely take control of a targeted application. "The vulnerability is achieved through  CSRF  (cross-site request forgery) on the ubiquitous SCM service Kudu," Ermetic researcher Liv Matan  said  in a report shared with The Hacker News. "By abusing the vulnerability, attackers can deploy malicious ZIP files containing a payload to the victim's Azure application." The Israeli cloud infrastructure security firm, which dubbed the shortcoming  EmojiDeploy , said it could further enable the theft of sensitive data and lateral movement to other Azure services. Microsoft has since fixed the vulnerability as of December 6, 2022, following responsible disclosure on October 26, 2022, in addition to awarding a bug bounty of $30,000. The Windows maker  describes  Kudu as the "engine behind a number of feat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Federal Cyber Insurance Backstop Is Premature<a href="https://www.lawfareblog.com/federal-cyber-insurance-backstop-premature"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber backstop is unnecessary because firms conduct online activity regardless of whether insurance is available. Worryingly, a backstop could undermine insurers in incentivizing improved cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for critical Zoho ManageEngine RCE flaw<a href="https://securityaffairs.com/141018/hacking/zoho-manageengine-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers released Proof-of-concept exploit code for remote code execution flaw CVE-2022-47966 impacting multiple Zoho ManageEngine products.
+The CVE-2022-47966 flaw is an unauthenticated remote code execution vulnerability that impacts multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis implements new DNS changer in its malicious mobile app in 2022<a href="https://securelist.com/roaming-mantis-dns-changer-in-malicious-mobile-app/108464/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roaming Mantis (aka Shaoye) is well-known campaign that uses malicious APK files to control infected Android devices and steal device information; it also uses phishing pages to steal user credentials, with a strong financial motivation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Users Beware: New Hook Malware with RAT Capabilities Emerges<a href="https://thehackernews.com/2023/01/android-users-beware-new-hook-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the  BlackRock  and  ERMAC  Android banking trojans has unleashed yet another malware for rent called  Hook  that introduces new capabilities to access files stored in the devices and create a remote interactive session. ThreatFabric, in a  report  shared with The Hacker News, characterized Hook as a novel ERMAC fork that's advertised for sale for $7,000 per month while featuring "all the capabilities of its predecessor." "In addition, it also adds to its arsenal Remote Access Tooling (RAT) capabilities, joining the ranks of families such as  Octo  and  Hydra , which are capable performing a full Device Take Over (DTO), and complete a full fraud chain, from PII exfiltration to transaction, with all the intermediate steps, without the need of additional channels," the Dutch cybersecurity firm said. A majority of the financial apps targeted by the malware are located in the U.S., Spain, Australia, Poland, Canada, Turkey, the U.K., Fran
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Microsoft Azure RCE flaw impacted multiple services<a href="https://securityaffairs.com/141007/hacking/microsoft-azure-emojideploy-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a new critical remote code execution (RCE) flaw impacting multiple services related to Microsoft Azure.
+Researchers from Ermetic found a remote code execution flaw, dubbed EmojiDeploy, that impacts Microsoft Azure services and other...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Slapped With 5.5 Million Euro Fine for EU Data Breach<a href="https://www.securityweek.com/meta-slapped-55-million-euro-fine-eu-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media giant Meta has been fined an additional 5.5 million euros ($5.9 million) for violating EU data protection regulations with its instant messaging platform WhatsApp, Ireland's regulator announced Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Delves into the World of Malicious LNK Files and Hackers Behind Them<a href="https://thehackernews.com/2023/01/new-research-delves-into-world-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly leveraging malicious LNK files as an initial access method to download and execute payloads such as Bumblebee, IcedID, and Qakbot. A recent study by cybersecurity experts has shown that it is possible to identify relationships between different threat actors by analyzing the metadata of malicious LNK files, uncovering information such as the specific tools and techniques used by different groups of cybercriminals, as well as potential links between seemingly unrelated attacks. "With the increasing usage of LNK files in attack chains, it's logical that threat actors have started developing and using tools to create such files," Cisco Talos researcher Guilherme Venere said in a report shared with The Hacker News. This comprises tools like  NativeOne 's  mLNK Builder  and  Quantum Builder , which allow subscribers to generate rogue shortcut files and evade security solutions. Some of the major malware families that have used LNK file
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mailchimp discloses a new security breach, the second one in 6 months<a href="https://securityaffairs.com/140997/data-breach/mailchimp-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular email marketing and newsletter platform Mailchimp was hacked and the data of dozens of customers were exposed. 
+The popular email marketing and newsletter platform Mailchimp was hacked twice in the past six months.
+The news of a new security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Batloader Abused Legitimate Tools in Q4 2022<a href="https://cyware.com/news/batloader-abused-legitimate-tools-in-q4-2022-20f7014c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro laid bare details of Batloader malware in a report that has anti-sandboxing capabilities and can fingerprint hosts for legitimacy. The modular malware abuses legitimate tools such as NirCmd.exe and Nsudo.exe to escalate privileges. First observed in the last quarter of 2022, it was foun ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Types of Risk Assessment Methodologies + How to Choose<a href="https://thehackernews.com/2023/01/6-types-of-risk-assessment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An organization's sensitive information is under constant threat. Identifying those security risks is critical to protecting that information. But some risks are bigger than others. Some mitigation options are more expensive than others. How do you make the right decision? Adopting a formal  risk assessment  process gives you the information you need to set priorities. There are many ways to perform a risk assessment, each with its own benefits and drawbacks. We will help you find which of these six risk assessment methodologies works best for your organization. What is Risk Assessment? Risk assessment is the way organizations decide what to do in the face of today's complex security landscape. Threats and vulnerabilities are everywhere. They could come from an external actor or a careless user. They may even be built into the network infrastructure. Decision-makers need to understand the urgency of the organization's risks as well as how much mitigation efforts will cost. Risk as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA adds Centos Web Panel RCE CVE-2022-44877 to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/140989/security/centos-web-panel-rce-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added the vulnerability CVE-2022-44877 in CentOS Control Web Panel utility to its Known Exploited Vulnerabilities Catalog.
+The US CISA added the Centos Web Panel 7 unauthenticated remote code execution flaw (CVE-2022-44877) to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSRF Vulnerability in Kudu SCM Allowed Code Execution in Azure Services<a href="https://www.securityweek.com/csrf-vulnerability-kudu-scm-allowed-code-execution-azure-services?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A web-based Git repository manager, Kudu is the engine behind several Azure App Service features, supporting the deployment and management of code in Azure. The service is used by Functions, App Service, Logic Apps, and other Azure services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitzlato Crypto Exchange Founder Arrested for Aiding Cybercriminals<a href="https://thehackernews.com/2023/01/bitzlato-crypto-exchange-founder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Wednesday announced the arrest of Anatoly Legkodymov (aka Gandalf and Tolik), the cofounder of Hong Kong-registered cryptocurrency exchange Bitzlato, for allegedly processing $700 million in illicit funds. The 40-year-old Russian national, who was arrested in Miami, was charged in a U.S. federal court with "conducting a money transmitting business that transported and transmitted illicit funds and that failed to meet U.S. regulatory safeguards, including anti-money laundering requirements," the DoJ  said . According to court documents, Bitzlato is said to have advertised itself as a virtual currency exchange with minimal identification requirements for its users, breaking the rules requiring the vetting of customers. This lack of know your customer (KYC) enforcement led to the service becoming a "haven for criminal proceeds" and facilitating transactions worth more than $700 million on the Hydra darknet marketplace prior
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mailchimp Suffers Another Security Breach Compromising Some Customers' Information<a href="https://thehackernews.com/2023/01/mailchimp-suffers-another-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular email marketing and newsletter service Mailchimp has disclosed yet another security breach that enabled threat actors to access an internal support and account admin tool to obtain information about 133 customers. "The unauthorized actor conducted a social engineering attack on Mailchimp employees and contractors, and obtained access to select Mailchimp accounts using employee credentials compromised in that attack," the Intuit-owned company  said  in a disclosure. The development was  first reported  by TechCrunch. Mailchimp said it identified the lapse on January 11, 2023, and noted that there is no evidence the unauthorized party breached Intuit systems or other customer information beyond the 133 accounts. It further said the primary contacts for all those affected accounts were notified within 24 hours, and that it has since assisted those users in regaining access to their accounts. The Atlanta-based company, however, did not reveal the duration for which
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
