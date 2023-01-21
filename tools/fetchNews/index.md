@@ -34,6 +34,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Manufacturing Sector in the Bull's-eye<a href="https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than three-quarters of manufacturing organizations harbor unpatched high-severity vulnerabilities in their systems. New telemetry from SecurityScorecard shows a year-over-year increase in high-severity vulnerabilities in those organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Crafted Custom Malware for Fortinet Zero-Day<a href="https://www.darkreading.com/threat-intelligence/china-based-attacker-crafted-custom-malware-for-fortinet-zero-day?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers analyzing data associated with a recently disclosed zero-day vulnerability in Fortinet's FortiOS SSL-VPN technology have identified a sophisticated new backdoor specifically designed to run on Fortinet's FortiGate firewalls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis Spreading Mobile Malware That Hijacks Wi-Fi Routers' DNS Settings<a href="https://thehackernews.com/2023/01/roaming-mantis-spreading-mobile-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the Roaming Mantis attack campaign have been observed delivering an updated variant of their patent mobile malware known as Wroba to infiltrate Wi-Fi routers and undertake Domain Name System ( DNS ) hijacking. Kaspersky, which carried out an  analysis  of the malicious artifact, said the feature is designed to target specific Wi-Fi routers located in South Korea. Roaming Mantis, also known as Shaoye, is a long-running financially motivated operation that singles out Android smartphone users with malware capable of stealing bank account credentials as well as harvesting other kinds of sensitive information. Although primarily  targeting the Asian region  since 2018, the hacking crew was detected  expanding  its  victim range  to include France and Germany for the first time in early 2022 by camouflaging the malware as the Google Chrome web browser application. The attacks leverage smishing messages as the initial intrusion vector of choice to deliver
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile suffered a new data breach, 37 million accounts have been compromised<a href="https://securityaffairs.com/141086/data-breach/t-mobile-data-breach-5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad news for T-Mobile, the company disclosed a new data breach that resulted in the theft of data belonging to 37 customer accounts.
+T-Mobile suffered a new data breach, threat actor stole the personal information of 37 million current postpaid and prepaid...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20,2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Group Launches Cyberattacks Against Ukraine Using Telegram<a href="https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored cyber espionage group known as Gamaredon has continued its digital onslaught against Ukraine, with recent attacks leveraging the popular messaging app Telegram to strike military and law enforcement sectors in the country. "The Gamaredon group's network infrastructure relies on multi-stage Telegram accounts for victim profiling and confirmation of geographic location, and then finally leads the victim to the next stage server for the final payload," the BlackBerry Research and Intelligence Team  said  in a report shared with The Hacker News. "This kind of technique to infect target systems is new." Gamaredon , also known by names such as Actinium, Armageddon, Iron Tilden, Primitive Bear, Shuckworm, Trident Ursa, and Winterflounder, is known for its assaults aimed at Ukrainian entities since at least 2013. Last month, Palo Alto Networks Unit 42  disclosed  the threat actor's unsuccessful attempts to break into an unnamed petrol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal notifies 34942 users of data breach over credential stuffing attack<a href="https://securityaffairs.com/141072/data-breach/paypal-data-breach-credential-stuffing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PayPal is sending out data breach notifications to thousands of users because their accounts were compromised through credential stuffing attacks.
+PayPal announced that 34942 customers' accounts have been compromised between December 6 and December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Playing Whack-a-Mole with New CrySIS/Dharma Variants<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-playing-whack-a-mole-with-new-crysis-dharma-variants?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CrySIS/Dharma ransomware family has been around for several years – dating back to at least 2016. At least one version of the ransomware had its source code leaked, allowing anyone to purchase and repurpose it for their own ends.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20,2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Hit with €5.5 Million Fine for Violating Data Protection Laws<a href="https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) on Thursday imposed fresh fines of €5.5 million against Meta's WhatsApp for violating data protection laws when processing users' personal information. At the heart of the ruling is an update to the messaging platform's Terms of Service that was imposed in the days leading to the enforcement of the General Data Protection Regulation ( GDPR ) in May 2018, requiring that users agree to the revised terms in order to continue using the service or risk losing access. The complaint, filed by privacy non-profit NOYB, alleged that WhatsApp breached the regulation by compelling its users to "consent to the processing of their personal data for service improvement and security" by "making the accessibility of its services conditional on users accepting the updated Terms of Service." "WhatsApp Ireland is not entitled to rely on the contract legal basis for the delivery of service improvement and security," th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers used recently patched FortiOS SSL-VPN flaw as a zero-day in October<a href="https://securityaffairs.com/141052/hacking/fortios-ssl-vpn-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Chinese threat actor was observed exploiting the recently patched CVE-2022-42475 vulnerability in FortiOS SSL-VPN.
+Researchers from Mandiant reported that suspected Chinese threat actors exploited the recently patched CVE-2022-42475 vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in OpenText Enterprise Content Management System<a href="https://www.securityweek.com/critical-vulnerabilities-patched-opentext-enterprise-content-management-system?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities described as having a critical and high impact, including ones allowing unauthenticated remote code execution, have been found and patched in OpenText’s enterprise content management (ECM) product.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited Recent Fortinet Flaw as 0-Day to Drop Malware<a href="https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected China-nexus threat actor exploited a recently patched vulnerability in Fortinet FortiOS SSL-VPN as a zero-day in attacks targeting a European government entity and a managed service provider (MSP) located in Africa. Telemetry evidence gathered by Google-owned Mandiant indicates that the exploitation occurred as early as October 2022, at least nearly two months before fixes were released. "This incident continues China's pattern of exploiting internet facing devices, specifically those used for managed security purposes (e.g., firewalls, IPS\IDS appliances etc.)," Mandiant researchers  said  in a technical report. The attacks entailed the use of a sophisticated backdoor dubbed  BOLDMOVE , a Linux variant of which is specifically designed to run on Fortinet's FortiGate firewalls. The intrusion vector in question relates to the exploitation of  CVE-2022-42475 , a heap-based buffer overflow vulnerability in FortiOS SSL-VPN that could result in unauthenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes SQL Injection flaw in Unified CM<a href="https://securityaffairs.com/141039/security/cisco-unified-communications-manager-cve-2023-20010.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity flaw (CVE-2023-20010) was found in Cisco Unified Communications Manager and Unified Communications Manager Session Management Edition.
+Cisco fixed a high-severity SQL injection flaw, tracked as CVE-2023-20010 (CVSS score of 8.1), in Unified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers claim XSS vulnerability in Ghost CMS<a href="https://blog.talosintelligence.com/vulnerability-spotlight-xss-vulnerability-in-ghost-cms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities can be triggered when a higher-level user simply previews or visits any post by the malicious user, as these social links seem to be included in all of a user's posts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS CIO Mathias says tree-based AI models helping to combat Medicare fraud<a href="https://www.fedscoop.com/hhs-cio-mathias-says-tree-based-ai-models-helping-to-combat-medicare-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS has launched a pilot program to tackle Medicare fraud using tree-based artificial intelligence models and deep learning approaches, HHS Chief Information Officer Karl Mathias said Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 19, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

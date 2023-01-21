@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 19,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Microsoft Azure Vulnerability Uncovered — EmojiDeploy for RCE Attacks<a href="https://thehackernews.com/2023/01/new-microsoft-azure-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new critical remote code execution (RCE) flaw discovered impacting multiple services related to Microsoft Azure could be exploited by a malicious actor to completely take control of a targeted application. "The vulnerability is achieved through&nbsp; CSRF &nbsp;(cross-site request forgery) on the ubiquitous SCM service Kudu," Ermetic researcher Liv Matan&nbsp; said &nbsp;in a report shared with The Hacker News. "By abusing the vulnerability, attackers can deploy malicious ZIP files containing a payload to the victim's Azure application." The Israeli cloud infrastructure security firm, which dubbed the shortcoming&nbsp; EmojiDeploy , said it could further enable the theft of sensitive data and lateral movement to other Azure services. Microsoft has since fixed the vulnerability as of December 6, 2022, following responsible disclosure on October 26, 2022, in addition to awarding a bug bounty of $30,000. The Windows maker&nbsp; describes &nbsp;Kudu as the "engine behind a number of feat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for critical Zoho ManageEngine RCE flaw<a href="https://securityaffairs.com/141018/hacking/zoho-manageengine-rce-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers released Proof-of-concept exploit code for remote code execution flaw CVE-2022-47966 impacting multiple Zoho ManageEngine products.
+The CVE-2022-47966 flaw is an unauthenticated remote code execution vulnerability that impacts multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSRF Vulnerability in Kudu SCM Allowed Code Execution in Azure Services<a href="https://www.securityweek.com/csrf-vulnerability-kudu-scm-allowed-code-execution-azure-services?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A web-based Git repository manager, Kudu is the engine behind several Azure App Service features, supporting the deployment and management of code in Azure. The service is used by Functions, App Service, Logic Apps, and other Azure services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

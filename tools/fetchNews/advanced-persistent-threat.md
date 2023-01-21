@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BackdoorDiplomacy APT Uses Turian Backdoor to Targets Iranian Government<a href="https://cyware.com/news/backdoordiplomacy-apt-uses-turian-backdoor-to-targets-iranian-government-09f1da2a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BackdoorDiplomacy is continuously evolving its TTPs during cyberespionage campaigns.&nbsp;Unit 42 spotted the new campaign by the group that targeted Iranian government entities between July and December 2022. Historically, it has targeted government and diplomatic entities in the Middle East and A ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

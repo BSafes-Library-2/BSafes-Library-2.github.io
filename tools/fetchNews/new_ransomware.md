@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Playing Whack-a-Mole with New CrySIS/Dharma Variants<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-playing-whack-a-mole-with-new-crysis-dharma-variants?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CrySIS/Dharma ransomware family has been around for several years – dating back to at least 2016. At least one version of the ransomware had its source code leaked, allowing anyone to purchase and repurpose it for their own ends.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

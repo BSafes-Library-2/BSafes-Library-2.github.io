@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 19,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Delves into the World of Malicious LNK Files and Hackers Behind Them<a href="https://thehackernews.com/2023/01/new-research-delves-into-world-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly leveraging malicious LNK files as an initial access method to download and execute payloads such as Bumblebee, IcedID, and Qakbot. A recent study by cybersecurity experts has shown that it is possible to identify relationships between different threat actors by analyzing the metadata of malicious LNK files, uncovering information such as the specific tools and techniques used by different groups of cybercriminals, as well as potential links between seemingly unrelated attacks. "With the increasing usage of LNK files in attack chains, it's logical that threat actors have started developing and using tools to create such files," Cisco Talos researcher Guilherme Venere said in a report shared with The Hacker News. This comprises tools like&nbsp; NativeOne 's&nbsp; mLNK Builder &nbsp;and&nbsp; Quantum Builder , which allow subscribers to generate rogue shortcut files and evade security solutions. Some of the major malware families that have used LNK file
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

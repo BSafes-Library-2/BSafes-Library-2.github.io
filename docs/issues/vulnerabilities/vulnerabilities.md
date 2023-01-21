@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Manufacturing Sector in the Bull's-eye<a href="https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than three-quarters of manufacturing organizations harbor unpatched high-severity vulnerabilities in their systems. New telemetry from SecurityScorecard shows a year-over-year increase in high-severity vulnerabilities in those organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in OpenText Enterprise Content Management System<a href="https://www.securityweek.com/critical-vulnerabilities-patched-opentext-enterprise-content-management-system?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities described as having a critical and high impact, including ones allowing unauthenticated remote code execution, have been found and patched in OpenText’s enterprise content management (ECM) product.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited Recent Fortinet Flaw as 0-Day to Drop Malware<a href="https://thehackernews.com/2023/01/new-chinese-malware-spotted-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected China-nexus threat actor exploited a recently patched vulnerability in Fortinet FortiOS SSL-VPN as a zero-day in attacks targeting a European government entity and a managed service provider (MSP) located in Africa. Telemetry evidence gathered by Google-owned Mandiant indicates that the exploitation occurred as early as October 2022, at least nearly two months before fixes were released. "This incident continues China's pattern of exploiting internet facing devices, specifically those used for managed security purposes (e.g., firewalls, IPS\IDS appliances etc.)," Mandiant researchers&nbsp; said &nbsp;in a technical report. The attacks entailed the use of a sophisticated backdoor dubbed&nbsp; BOLDMOVE , a Linux variant of which is specifically designed to run on Fortinet's FortiGate firewalls. The intrusion vector in question relates to the exploitation of&nbsp; CVE-2022-42475 , a heap-based buffer overflow vulnerability in FortiOS SSL-VPN that could result in unauthenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes SQL Injection flaw in Unified CM<a href="https://securityaffairs.com/141039/security/cisco-unified-communications-manager-cve-2023-20010.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity flaw (CVE-2023-20010) was found in Cisco Unified Communications Manager and Unified Communications Manager Session Management Edition.
+Cisco fixed a high-severity SQL injection flaw, tracked as CVE-2023-20010 (CVSS score of 8.1), in Unified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers claim XSS vulnerability in Ghost CMS<a href="https://blog.talosintelligence.com/vulnerability-spotlight-xss-vulnerability-in-ghost-cms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities can be triggered when a higher-level user simply previews or visits any post by the malicious user, as these social links seem to be included in all of a user's posts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

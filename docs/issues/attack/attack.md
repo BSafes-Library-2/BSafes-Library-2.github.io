@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 20,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon Group Launches Cyberattacks Against Ukraine Using Telegram<a href="https://thehackernews.com/2023/01/gamaredon-group-launches-cyberattacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian state-sponsored cyber espionage group known as Gamaredon has continued its digital onslaught against Ukraine, with recent attacks leveraging the popular messaging app Telegram to strike military and law enforcement sectors in the country. "The Gamaredon group's network infrastructure relies on multi-stage Telegram accounts for victim profiling and confirmation of geographic location, and then finally leads the victim to the next stage server for the final payload," the BlackBerry Research and Intelligence Team&nbsp; said &nbsp;in a report shared with The Hacker News. "This kind of technique to infect target systems is new." Gamaredon , also known by names such as Actinium, Armageddon, Iron Tilden, Primitive Bear, Shuckworm, Trident Ursa, and Winterflounder, is known for its assaults aimed at Ukrainian entities since at least 2013. Last month, Palo Alto Networks Unit 42&nbsp; disclosed &nbsp;the threat actor's unsuccessful attempts to break into an unnamed petrol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
