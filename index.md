@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2023
+January 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert found critical flaws in OpenText Enterprise Content Management System<a href="https://securityaffairs.com/141157/security/opentext-critical-flaws.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2023
+January 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Roaming Mantis uses new DNS changer in its Wroba mobile malware<a href="https://securityaffairs.com/141137/malware/roaming-mantis-wroba-malware.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 22, 2023
+January 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 403 by Pierluigi Paganini<a href="https://securityaffairs.com/141132/breaking-news/security-affairs-newsletter-round-403-by-pierluigi-paganini.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2023
+January 21, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Irish DPC fined WhatsApp €5.5M for violating GDPR<a href="https://securityaffairs.com/141115/social-networks/dpc-fined-whatsapp-e5-5m.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 21, 2023
+January 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Around 19,500 end-of-life Cisco routers are exposed to hack<a href="https://securityaffairs.com/141102/hacking/eof-cisco-routers-exposed-rce.html"> Full Text</a>

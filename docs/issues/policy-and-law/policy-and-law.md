@@ -8,6 +8,36 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Irish DPC fined WhatsApp €5.5M for violating GDPR<a href="https://securityaffairs.com/141115/social-networks/dpc-fined-whatsapp-e5-5m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) fined Meta's WhatsApp €5.5 million for violating data protection laws.
+The popular messaging app WhatsApp has been fined €5.5m by the Irish Data Protection Commission (DPC) for violating the General Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French CNIL fined Tiktok $5.4 Million for violating cookie laws<a href="https://secur<br><br>ityaffairs.com/140786/digital-id/cnil-fined-tiktok.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French data protection watchdog fined short-form video hosting service TikTok&nbsp;€5 million for breaking cookie consent rules.
+The Commission nationale de l'informatique et des libertés (CNIL)&nbsp;has fined short-form video hosting service TikTok&nbsp;€5...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

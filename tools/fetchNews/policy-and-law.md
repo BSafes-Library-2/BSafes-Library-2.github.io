@@ -8,6 +8,35 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 20,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Hit with €5.5 Million Fine for Violating Data Protection Laws<a href="https://thehackernews.com/2023/01/whatsapp-hit-with-55-million-fine-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) on Thursday imposed fresh fines of €5.5 million against Meta's WhatsApp for violating data protection laws when processing users' personal information. At the heart of the ruling is an update to the messaging platform's Terms of Service that was imposed in the days leading to the enforcement of the General Data Protection Regulation ( GDPR ) in May 2018, requiring that users agree to the revised terms in order to continue using the service or risk losing access. The complaint, filed by privacy non-profit NOYB, alleged that WhatsApp breached the regulation by compelling its users to "consent to the processing of their personal data for service improvement and security" by "making the accessibility of its services conditional on users accepting the updated Terms of Service." "WhatsApp Ireland is not entitled to rely on the contract legal basis for the delivery of service improvement and security," th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French CNIL fined Tiktok $5.4 Million for violating cookie laws<a href="https://secur<br><br>ityaffairs.com/140786/digital-id/cnil-fined-tiktok.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French data protection watchdog fined short-form video hosting service TikTok&nbsp;€5 million for breaking cookie consent rules.
+The Commission nationale de l'informatique et des libertés (CNIL)&nbsp;has fined short-form video hosting service TikTok&nbsp;€5...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

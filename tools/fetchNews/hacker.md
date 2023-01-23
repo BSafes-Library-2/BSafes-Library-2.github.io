@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers used recently patched FortiOS SSL-VPN flaw as a zero-day in October<a href="https://securityaffairs.com/141052/hacking/fortios-ssl-vpn-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Chinese threat actor was observed exploiting the recently patched CVE-2022-42475 vulnerability in FortiOS SSL-VPN.
+Researchers from Mandiant reported that suspected Chinese threat actors exploited the recently patched CVE-2022-42475 vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

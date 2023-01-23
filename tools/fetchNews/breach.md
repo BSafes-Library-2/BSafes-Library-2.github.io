@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile suffered a new data breach, 37 million accounts have been compromised<a href="https://securityaffairs.com/141086/data-breach/t-mobile-data-breach-5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad news for T-Mobile, the company disclosed a new data breach that resulted in the theft of data belonging to 37 customer accounts.
+T-Mobile suffered a new data breach, threat actor stole the personal information of 37 million&nbsp;current postpaid and prepaid...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PayPal notifies 34942 users of data breach over credential stuffing attack<a href="https://securityaffairs.com/141072/data-breach/paypal-data-breach-credential-stuffing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PayPal is sending out data breach notifications to thousands of users because their accounts were compromised through credential stuffing attacks.
+PayPal announced that 34942 customers' accounts have been compromised between December 6 and December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
