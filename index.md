@@ -34,6 +34,92 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found critical flaws in OpenText Enterprise Content Management System<a href="https://securityaffairs.com/141157/security/opentext-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenText enterprise content management (ECM) system is affected by multiple vulnerabilities, including a critical RCE.
+Armin Stock (Atos), researcher at cybersecurity firm Sec Consult, discovered multiple vulnerabilities in the OpenText enterprise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roaming Mantis uses new DNS changer in its Wroba mobile malware<a href="https://securityaffairs.com/141137/malware/roaming-mantis-wroba-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roaming Mantis threat actors were observed using a new variant of their mobile malware Wroba to hijack DNS settings of Wi-Fi routers.
+Researchers from Kaspersky observed Roaming Mantis threat actors using an updated variant of their mobile malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 403 by Pierluigi Paganini<a href="https://securityaffairs.com/141132/breaking-news/security-affairs-newsletter-round-403-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Irish DPC fined WhatsApp €5.5M for violating GDPR<a href="https://securityaffairs.com/141115/social-networks/dpc-fined-whatsapp-e5-5m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) fined Meta's WhatsApp €5.5 million for violating data protection laws.
+The popular messaging app WhatsApp has been fined €5.5m by the Irish Data Protection Commission (DPC) for violating the General Data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 19,500 end-of-life Cisco routers are exposed to hack<a href="https://securityaffairs.com/141102/hacking/eof-cisco-routers-exposed-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of about 19,500 end-of-life Cisco VPN routers on the Internet that are exposed to the recently disclosed RCE exploit chain.
+Cisco recently warned of a critical vulnerability, tracked as CVE-2023-20025 (CVSS score of 9.0),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
