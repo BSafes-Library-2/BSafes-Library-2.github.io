@@ -34,6 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Companies Impacted by Recent Mailchimp Breach Start Notifying Customers<a href="https://www.securityweek.com/companies-impacted-recent-mailchimp-breach-start-notifying-customers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies affected by the recent Mailchimp data breach have started notifying affected customers. The list includes WooCommerce, FanDuel, Yuga Labs, and the Solana Foundation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy Store App Found Vulnerable to Sneaky App Installs and Fraud<a href="https://thehackernews.com/2023/01/samsung-galaxy-store-app-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two security flaws have been disclosed in Samsung's Galaxy Store app for Android that could be exploited by a local attacker to stealthily install arbitrary apps or direct prospective victims to fraudulent landing pages on the web. The issues, tracked as  CVE-2023-21433 and CVE-2023-21434 , were  discovered  by NCC Group and notified to the South Korean chaebol in November and December 2022. Samsung  classified  the bugs as moderate risk and released fixes in version 4.5.49.8 shipped earlier this month. Samsung Galaxy Store, previously known as Samsung Apps and Galaxy Apps, is a dedicated app store used for Android devices manufactured by Samsung. It was launched in September 2009. The first of the two vulnerabilities is CVE-2023-21433, which could enable an already installed rogue Android app on a Samsung device to install any application available on the Galaxy Store. Samsung described it as a case of improper access control that it said has been patched with proper permiss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backported patches for CVE-2022-42856 zero-day on older iPhones, iPads<a href="https://securityaffairs.com/141221/security/apple-backported-patches-cve-2022-42856.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has backported the security updates for the zero-day vulnerability CVE-2022-42856 to older iPhones and iPads.
+On December 2022, Apple released security updates to address a new zero-day vulnerability, tracked as CVE-2022-42856, that is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PLAY Ransomware Group Claims Attack on Britain's Arnold Clark<a href="https://therecord.media/play-ransomware-group-claims-attack-on-arnold-clark-one-of-britains-largest-car-dealerships/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sensitive personal data allegedly stolen from Arnold Clark, one of the United Kingdom’s largest car dealerships, has been posted online by the PLAY ransomware group on its extortion site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Security Posture Management (SSPM) as a Layer in Your Identity Fabric<a href="https://thehackernews.com/2023/01/saas-security-posture-management-sspm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move to SaaS and other cloud tools has put an emphasis on Identity & Access Management (IAM). After all, user identity is one of the only barriers standing between sensitive corporate data and any unauthorized access.  The tools used to define IAM make up its identity fabric. The stronger the fabric, the more resistant identities are to pressure from threat actors. However, those pressures are only increasing. Decentralized IT, evolving threats, and zero-trust tools are pushing many IAM tools to their limits.  To maintain their effectiveness, IAM are shifting to operating as an agile, interconnected identity fabric rather than just siloed IAM tools. The demands of today's IT operating environment are forcing IAM to support decentralized IT environments while still providing centralized management and governance for its users. Interestingly, many of the identity fabric principles they define are currently found in leading SSPM tools. It's important to note that identity fabr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws in Samsung Galaxy Store can allow to install Apps and execute JS code<a href="https://securityaffairs.com/141213/mobile-2/samsung-galaxy-store-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found two flaws in Samsung Galaxy Store that could be exploited to install applications or achieve code execution on the devices.
+Researchers from cybersecurity firm NCC Group published technical details on two vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Apps Masquerade as Government Agencies to Distribute Gigabud RAT<a href="https://cyware.com/news/malicious-apps-masquerade-as-government-agencies-to-distribute-gigabud-rat-c65f2bb4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware, named Gigabud, was found impersonating government agencies, financial institutions, and other organizations from Thailand, Peru, and the Philippines to harvest user banking credentials. Gigabud leverages a server-side verification process to ensure that the mobile number ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Turn to Sliver as Open Source Alternative to Popular C2 Frameworks<a href="https://thehackernews.com/2023/01/threat-actors-turn-to-sliver-as-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The legitimate command-and-control (C2) framework known as Sliver is  gaining   more traction  from threat actors as it emerges as an open source alternative to  Cobalt Strike  and Metasploit. The findings come from Cybereason, which  detailed  its inner workings in an exhaustive analysis last week. Sliver, developed by cybersecurity company BishopFox, is a Golang-based cross-platform post-exploitation framework that's designed to be used by security professionals in their red team operations. Its myriad features for adversary simulation – including dynamic code generation, in-memory payload execution, and process injection – have also made it an appealing tool for threat actors looking to gain elevated access to the target system upon gaining an initial foothold. In other words, the software is used as a second-stage to conduct next steps of the attack chain after already compromising a machine using one of the initial intrusion vectors such as spear-phishing or exploitatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies impacted by Mailchimp data breach warn their customers<a href="https://securityaffairs.com/141203/data-breach/companies-impacted-by-mailchimp-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent Mailchimp data breach has impacted multiple organizations, some of them are already notifying their customers.
+The popular email marketing and newsletter platform Mailchimp recently disclosed a news data breach, the incident exposed the data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Group Targeting Vulnerable Cloud Providers, Apps<a href="https://www.bankinfosecurity.com/chinese-group-targeting-vulnerable-cloud-providers-applications-a-20992?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers say a Chinese for-profit threat group tracked as 8220 Gang is targeting cloud providers and poorly secured applications with a custom-built crypto miner and IRC bot.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Ad Fraud Scheme Targeted Over 11 Million Devices with 1,700 Spoofed Apps<a href="https://thehackernews.com/2023/01/massive-ad-fraud-scheme-targeted-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have shut down an "expansive" ad fraud scheme that spoofed more than 1,700 applications from 120 publishers and impacted roughly 11 million devices.  "VASTFLUX was a malvertising attack that injected malicious JavaScript code into digital ad creatives, allowing the fraudsters to stack numerous invisible video ad players behind one another and register ad views," fraud prevention firm HUMAN  said . The operation gets its name from the use of a DNS evasion technique called  Fast Flux  and  VAST , a Digital Video Ad Serving Template that's employed to serve ads to video players. The sophisticated operation particularly exploited the restricted in-app environments that run ads on iOS to place bids for displaying ad banners. Should the auction be won, the hijacked ad slot is leveraged to inject rogue JavaScript that establishes contact with a remote server to retrieve the list of apps to be targeted. This includes the  bundle IDs  that belong to leg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Ad fraud scheme VASTFLUX targeted over 11 million devices<a href="https://securityaffairs.com/141188/malware/vastflux-fraud-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers dismantled a sophisticated ad fraud scheme, dubbed VASTFLUX, that targeted more than 11 million devices.
+HUMAN’s Satori Threat Intelligence and Research Team dismantled a sophisticated ad fraud operation dubbed VASTFLUX.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Counter Ransomware Task Force kicks off<a href="https://therecord.media/international-counter-ransomware-task-force-kicks-off/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international counter-ransomware task force first announced at a White House event in November officially commenced operations on Monday, according to the Australian government which is the inaugural chair of the group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video game firm Riot Games hacked, now it faces problems to release content<a href="https://securityaffairs.com/141171/cyber-crime/riot-games-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game developer and publisher Riot Games announced that it will delay the release of game patches after a security incident.
+Riot Games is an American video game developer, publisher and esports tournament organizer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exterro acquires Zapproved to address critical business challenges<a href="https://www.helpnetsecurity.com/2023/01/22/exterro-zapproved/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exterro’s acquisition of Zapproved is the latest step in furthering Exterro’s vision to empower customers to proactively and defensibly manage their legal governance, risk, and compliance obligations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CrySIS/Dharma Ransomware Variants Budding like Mushrooms<a href="https://cyware.com/news/new-crysisdharma-ransomware-variants-budding-like-mushrooms-c7fc5e9c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the leak of the source code of the CrySIS/Dharma ransomware family, cybercriminals worldwide continue to spin variants of it and deliver them via phishing attacks masked as genuine software. To gain access to the victim’s machine, CrySIS/Dharma operators abuse exposed RDP servers and also ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email is our greatest productivity tool. That's why phishing is so dangerous to everyone<a href="https://www.zdnet.com/article/like-it-or-not-email-is-still-our-greatest-tool-and-the-source-of-some-of-our-biggest-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals know that our time is tight and we're not going to have a chance to carefully analyze every message which reaches our inbox –  one of the reasons why phishing is still so successful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Discovered U.S. No Fly List on Unsecured Airline Server<a href="https://www.rollingstone.com/politics/politics-news/no-fly-list-leaked-unsecured-airline-server-1234665941/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A copy of the No Fly List from 2019 has leaked, uncovered by a Swiss cybersecurity researcher and hacktivist who claims to have discovered it on an unsecured internet server belonging to an airline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
