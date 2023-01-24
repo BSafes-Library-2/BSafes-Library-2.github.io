@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 23,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Turn to Sliver as Open Source Alternative to Popular C2 Frameworks<a href="https://thehackernews.com/2023/01/threat-actors-turn-to-sliver-as-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The legitimate command-and-control (C2) framework known as Sliver is&nbsp; gaining &nbsp; more traction &nbsp;from threat actors as it emerges as an open source alternative to&nbsp; Cobalt Strike &nbsp;and Metasploit. The findings come from Cybereason, which&nbsp; detailed &nbsp;its inner workings in an exhaustive analysis last week. Sliver, developed by cybersecurity company BishopFox, is a Golang-based cross-platform post-exploitation framework that's designed to be used by security professionals in their red team operations. Its myriad features for adversary simulation – including dynamic code generation, in-memory payload execution, and process injection – have also made it an appealing tool for threat actors looking to gain elevated access to the target system upon gaining an initial foothold. In other words, the software is used as a second-stage to conduct next steps of the attack chain after already compromising a machine using one of the initial intrusion vectors such as spear-phishing or exploitatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Group Targeting Vulnerable Cloud Providers, Apps<a href="https://www.bankinfosecurity.com/chinese-group-targeting-vulnerable-cloud-providers-applications-a-20992?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers say a Chinese for-profit threat group tracked as 8220 Gang is targeting cloud providers and poorly secured applications with a custom-built crypto miner and IRC bot.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email is our greatest productivity tool. That's why phishing is so dangerous to everyone<a href="https://www.zdnet.com/article/like-it-or-not-email-is-still-our-greatest-tool-and-the-source-of-some-of-our-biggest-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals know that our time is tight and we're not going to have a chance to carefully analyze every message which reaches our inbox –  one of the reasons why phishing is still so successful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

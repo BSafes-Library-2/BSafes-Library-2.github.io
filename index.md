@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Companies Impacted by Recent Mailchimp Breach Start Notifying Customers<a href="https://www.securityweek.com/companies-impacted-recent-mailchimp-breach-start-notifying-customers?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23,2023
+January 23,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung Galaxy Store App Found Vulnerable to Sneaky App Installs and Fraud<a href="https://thehackernews.com/2023/01/samsung-galaxy-store-app-found.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple backported patches for CVE-2022-42856 zero-day on older iPhones, iPads<a href="https://securityaffairs.com/141221/security/apple-backported-patches-cve-2022-42856.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PLAY Ransomware Group Claims Attack on Britain's Arnold Clark<a href="https://therecord.media/play-ransomware-group-claims-attack-on-arnold-clark-one-of-britains-largest-car-dealerships/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23,2023
+January 23,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaaS Security Posture Management (SSPM) as a Layer in Your Identity Fabric<a href="https://thehackernews.com/2023/01/saas-security-posture-management-sspm.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two flaws in Samsung Galaxy Store can allow to install Apps and execute JS code<a href="https://securityaffairs.com/141213/mobile-2/samsung-galaxy-store-flaws.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Apps Masquerade as Government Agencies to Distribute Gigabud RAT<a href="https://cyware.com/news/malicious-apps-masquerade-as-government-agencies-to-distribute-gigabud-rat-c65f2bb4"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23,2023
+January 23,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Turn to Sliver as Open Source Alternative to Popular C2 Frameworks<a href="https://thehackernews.com/2023/01/threat-actors-turn-to-sliver-as-open.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Companies impacted by Mailchimp data breach warn their customers<a href="https://securityaffairs.com/141203/data-breach/companies-impacted-by-mailchimp-breach.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Group Targeting Vulnerable Cloud Providers, Apps<a href="https://www.bankinfosecurity.com/chinese-group-targeting-vulnerable-cloud-providers-applications-a-20992?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23,2023
+January 23,2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Ad Fraud Scheme Targeted Over 11 Million Devices with 1,700 Spoofed Apps<a href="https://thehackernews.com/2023/01/massive-ad-fraud-scheme-targeted-over.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Ad fraud scheme VASTFLUX targeted over 11 million devices<a href="https://securityaffairs.com/141188/malware/vastflux-fraud-scheme.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International Counter Ransomware Task Force kicks off<a href="https://therecord.media/international-counter-ransomware-task-force-kicks-off/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Video game firm Riot Games hacked, now it faces problems to release content<a href="https://securityaffairs.com/141171/cyber-crime/riot-games-hacked.html"> Full Text</a>
@@ -264,7 +264,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exterro acquires Zapproved to address critical business challenges<a href="https://www.helpnetsecurity.com/2023/01/22/exterro-zapproved/?&web_view=true"> Full Text</a>
@@ -280,7 +280,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CrySIS/Dharma Ransomware Variants Budding like Mushrooms<a href="https://cyware.com/news/new-crysisdharma-ransomware-variants-budding-like-mushrooms-c7fc5e9c"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Email is our greatest productivity tool. That's why phishing is so dangerous to everyone<a href="https://www.zdnet.com/article/like-it-or-not-email-is-still-our-greatest-tool-and-the-source-of-some-of-our-biggest-threats/?&web_view=true"> Full Text</a>
@@ -312,7 +312,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2023
+January 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivist Discovered U.S. No Fly List on Unsecured Airline Server<a href="https://www.rollingstone.com/politics/politics-news/no-fly-list-leaked-unsecured-airline-server-1234665941/?&web_view=true"> Full Text</a>

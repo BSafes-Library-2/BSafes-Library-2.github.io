@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 23,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Security Posture Management (SSPM) as a Layer in Your Identity Fabric<a href="https://thehackernews.com/2023/01/saas-security-posture-management-sspm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move to SaaS and other cloud tools has put an emphasis on Identity &amp; Access Management (IAM). After all, user identity is one of the only barriers standing between sensitive corporate data and any unauthorized access.&nbsp; The tools used to define IAM make up its identity fabric. The stronger the fabric, the more resistant identities are to pressure from threat actors. However, those pressures are only increasing. Decentralized IT, evolving threats, and zero-trust tools are pushing many IAM tools to their limits.&nbsp; To maintain their effectiveness, IAM are shifting to operating as an agile, interconnected identity fabric rather than just siloed IAM tools. The demands of today's IT operating environment are forcing IAM to support decentralized IT environments while still providing centralized management and governance for its users. Interestingly, many of the identity fabric principles they define are currently found in leading SSPM tools. It's important to note that identity fabr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

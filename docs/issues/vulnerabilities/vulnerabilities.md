@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 23,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Galaxy Store App Found Vulnerable to Sneaky App Installs and Fraud<a href="https://thehackernews.com/2023/01/samsung-galaxy-store-app-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two security flaws have been disclosed in Samsung's Galaxy Store app for Android that could be exploited by a local attacker to stealthily install arbitrary apps or direct prospective victims to fraudulent landing pages on the web. The issues, tracked as&nbsp; CVE-2023-21433 and CVE-2023-21434 , were&nbsp; discovered &nbsp;by NCC Group and notified to the South Korean chaebol in November and December 2022. Samsung&nbsp; classified &nbsp;the bugs as moderate risk and released fixes in version 4.5.49.8 shipped earlier this month. Samsung Galaxy Store, previously known as Samsung Apps and Galaxy Apps, is a dedicated app store used for Android devices manufactured by Samsung. It was launched in September 2009. The first of the two vulnerabilities is CVE-2023-21433, which could enable an already installed rogue Android app on a Samsung device to install any application available on the Galaxy Store. Samsung described it as a case of improper access control that it said has been patched with proper permiss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple backported patches for CVE-2022-42856 zero-day on older iPhones, iPads<a href="https://securityaffairs.com/141221/security/apple-backported-patches-cve-2022-42856.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has backported the security updates for the zero-day vulnerability CVE-2022-42856 to older iPhones and iPads.
+On December 2022, Apple released security updates to address a new zero-day vulnerability, tracked as CVE-2022-42856, that is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws in Samsung Galaxy Store can allow to install Apps and execute JS code<a href="https://securityaffairs.com/141213/mobile-2/samsung-galaxy-store-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found two flaws in Samsung Galaxy Store that could be exploited to install applications or achieve code execution on the devices.
+Researchers from cybersecurity firm NCC Group published technical details on two vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

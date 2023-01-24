@@ -8,6 +8,36 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 23,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Ad Fraud Scheme Targeted Over 11 Million Devices with 1,700 Spoofed Apps<a href="https://thehackernews.com/2023/01/massive-ad-fraud-scheme-targeted-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have shut down an "expansive" ad fraud scheme that spoofed more than 1,700 applications from 120 publishers and impacted roughly 11 million devices.&nbsp; "VASTFLUX was a malvertising attack that injected malicious JavaScript code into digital ad creatives, allowing the fraudsters to stack numerous invisible video ad players behind one another and register ad views," fraud prevention firm HUMAN&nbsp; said . The operation gets its name from the use of a DNS evasion technique called&nbsp; Fast Flux &nbsp;and&nbsp; VAST , a Digital Video Ad Serving Template that's employed to serve ads to video players. The sophisticated operation particularly exploited the restricted in-app environments that run ads on iOS to place bids for displaying ad banners. Should the auction be won, the hijacked ad slot is leveraged to inject rogue JavaScript that establishes contact with a remote server to retrieve the list of apps to be targeted. This includes the&nbsp; bundle IDs &nbsp;that belong to leg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Ad fraud scheme VASTFLUX targeted over 11 million devices<a href="https://securityaffairs.com/141188/malware/vastflux-fraud-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers dismantled a sophisticated ad fraud scheme, dubbed&nbsp;VASTFLUX, that targeted more than 11 million devices.
+HUMAN’s&nbsp;Satori Threat Intelligence and Research Team&nbsp;dismantled a sophisticated ad fraud operation dubbed&nbsp;VASTFLUX.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

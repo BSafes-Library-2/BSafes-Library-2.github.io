@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PLAY Ransomware Group Claims Attack on Britain's Arnold Clark<a href="https://therecord.media/play-ransomware-group-claims-attack-on-arnold-clark-one-of-britains-largest-car-dealerships/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sensitive personal data allegedly stolen from Arnold Clark, one of the United Kingdom’s largest car dealerships, has been posted online by the PLAY ransomware group on its extortion site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

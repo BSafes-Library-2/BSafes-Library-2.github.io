@@ -8,6 +8,36 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert found critical flaws in OpenText Enterprise Content Management System<a href="https://securityaffairs.com/141157/security/opentext-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenText enterprise content management (ECM) system is affected by multiple vulnerabilities, including a critical RCE.
+Armin Stock (Atos), researcher at cybersecurity firm Sec Consult, discovered multiple vulnerabilities in the OpenText enterprise...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 19,500 end-of-life Cisco routers are exposed to hack<a href="https://securityaffairs.com/141102/hacking/eof-cisco-routers-exposed-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of about 19,500 end-of-life Cisco VPN routers on the Internet that are exposed to the recently disclosed RCE exploit chain.
+Cisco recently warned of a critical vulnerability, tracked as&nbsp;CVE-2023-20025&nbsp;(CVSS score of 9.0),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
