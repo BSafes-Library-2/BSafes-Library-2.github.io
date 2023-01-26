@@ -8,6 +8,93 @@ nav_order: 900029
 
 ## Breach
 ---
+January 25,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 4,500 WordPress Sites Hacked to Redirect Visitors to Sketchy Ad Pages<a href="https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive campaign has infected over 4,500 WordPress websites as part of a long-running operation that's been believed to be active since at least 2017. According to GoDaddy-owned Sucuri, the infections involve the injection of obfuscated JavaScript hosted on a malicious domain named "track[.]violetlovelines[.]com" that's designed to redirect visitors to unwanted sites. The latest&nbsp; operation &nbsp;is said to have been active since December 26, 2022, according to&nbsp; data &nbsp;from urlscan.io. A prior wave seen in&nbsp; early December 2022 &nbsp;impacted more than 3,600 sites, while another set of attacks recorded in&nbsp; September 2022 &nbsp;ensnared more than 7,000 sites. The rogue code is inserted in the WordPress index.php file, with Sucuri noting that it has removed such changes from more than 33,000 files on the compromised sites in the past 60 days. "In recent months, this malware campaign has gradually switched from the notorious fake CAPTCHA push notification scam pages to black
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zacks Investment Research data breach impacted hundreds of thousands of customers<a href="https://securityaffairs.com/141343/data-breach/zacks-investment-research-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zacks Investment Research (Zacks) disclosed a data breach, the security may have exposed the data of 820K customers.
+Zacks Investment Research (Zacks) disclosed a data breach, the security incident may have affected the personal information of its 820,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Parent Company GoTo Suffers Data Breach, Customers' Backups Compromised<a href="https://thehackernews.com/2023/01/lastpass-parent-company-goto-suffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass-owner GoTo (formerly LogMeIn) on Tuesday disclosed that unidentified threat actors were able to steal encrypted backups of some customers' data along with an encryption key for some of those backups in a November 2022 incident. The breach, which targeted a third-party cloud storage service, impacted Central, Pro, join.me, Hamachi, and RemotelyAnywhere products, the company said. "The affected information, which varies by product, may include account usernames, salted and hashed passwords, a portion of multi-factor Authentication (MFA) settings, as well as some product settings and licensing information," GoTo's Paddy Srinivasan&nbsp; said . Additionally, MFA settings pertaining to a subset of its Rescue and GoToMyPC customers were impacted, although there is no evidence that the encrypted databases associated with the two services were exfiltrated. The company did not disclose how many users were impacted, but said it's directly contacting the victims to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French rugby club Stade Français leaks source code<a href="https://securityaffairs.com/141318/data-breach/french-rugby-club-stade-francais-leaks-source-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prestigious club Stade Français potentially endangered its fans for over a year after leaking its website’s source code.
+Stade Français is a professional rugby union club based in Paris. Founded in 1883 and competing in France’s premier rugby...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuoLingo Investigating Dark Web Post Offering Data From 2.6 Million Accounts<a href="https://therecord.media/duolingo-investigating-dark-web-post-offering-data-from-2-6-million-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spokesperson for the company said they are aware of the post, which was created on Tuesday morning and offers emails, phone numbers, courses taken, and other information on how customers use the platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTo revealed that threat actors stole customers’ backups and encryption key for some of them<a href="https://securityaffairs.com/141278/data-breach/goto-customers-backup-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoTo is notifying customers that its development environment was breached in November 2022, attackers stole customers' backups and encryption key.
+GoTo, formerly&nbsp;LogMeIn Inc,&nbsp;is a flexible-work provider of&nbsp;software as a service&nbsp;(SaaS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

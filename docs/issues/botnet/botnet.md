@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ticketmaster Blames Bots in Taylor Swift 'Eras' Tour Debacle<a href="https://www.darkreading.com/attacks-breaches/ticketmaster-blames-bots-taylor-swift-eras-tour-debacle?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Ticketmaster testified in Senate Judiciary Committee hearings that it's not the company's monopoly on the live music market that caused the Swifty sales collapse — it was instead a cyberattack, executives said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

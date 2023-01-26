@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exterro acquires Zapproved to address critical business challenges<a href="https://www.helpnetsecurity.com/2023/01/22/exterro-zapproved/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exterro’s acquisition of Zapproved is the latest step in furthering Exterro’s vision to empower customers to proactively and defensibly manage their legal governance, risk, and compliance obligations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

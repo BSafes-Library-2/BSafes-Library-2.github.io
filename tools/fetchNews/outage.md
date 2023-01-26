@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video game firm Riot Games hacked, now it faces problems to release content<a href="https://securityaffairs.com/141171/cyber-crime/riot-games-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Video game developer and publisher Riot Games announced that it will delay the release of game patches after a security incident.
+Riot Games&nbsp;is an American&nbsp;video game developer,&nbsp;publisher&nbsp;and&nbsp;esports&nbsp;tournament organizer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

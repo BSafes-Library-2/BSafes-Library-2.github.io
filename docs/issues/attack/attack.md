@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Attack Campaign Uses Hacked WordPress Sites as Platform for Black Hat Ad Network<a href="https://blog.sucuri.net/2023/01/massive-campaign-uses-hacked-wordpress-sites-as-platform-for-black-hat-ad-network.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PublicWWW results show over 4,500 websites impacted by this malware at the time of writing, while urlscan.io shows evidence of the campaign operating since December 26, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

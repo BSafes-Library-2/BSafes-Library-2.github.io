@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujitsu: Quantum computers no threat to encryption just yet<a href="https://www.theregister.com/2023/01/24/fujitsu_quantum_encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fujitsu said it ran trials using its 39-qubit quantum simulator hardware to assess how difficult it would be for quantum computers to crack data encrypted with the RSA cipher, using a Shor's algorithm approach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

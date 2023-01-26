@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 109 update addresses six security vulnerabilities<a href="https://securityaffairs.com/141335/security/google-chrome-six-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed six security vulnerabilities in its web browser Chrome, none of them actively exploited in the wild.
+Google released Chrome version 109.0.5414.119 for Mac and Linux and&nbsp;109.0.5414.119/.120 for&nbsp;Windows to address a total of six vulnerabilities....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realtek SDK Vulnerability Attacks Highlight IoT Supply Chain Threats<a href="https://unit42.paloaltonetworks.com/realtek-sdk-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of December 2022, Unit 42 researchers observed 134 million exploit attempts in total leveraging this vulnerability, and about 97% of these attacks occurred after the start of August 2022. At the time of writing, the attack is still ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patches for Critical vRealize Log Insight Software Vulnerabilities<a href="https://thehackernews.com/2023/01/vmware-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday released software to remediate four security vulnerabilities affecting&nbsp; vRealize Log Insight &nbsp;(aka Aria Operations for Logs) that could expose users to remote code execution attacks. Two of the flaws are critical, carrying a severity rating of 9.8 out of a maximum of 10, the virtualization services provider noted in its first security bulletin for 2023. Tracked as CVE-2022-31706 and CVE-2022-31704, the directory traversal and broken access control issues could be exploited by a threat actor to achieve remote code execution irrespective of the difference in the attack pathway. "An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution," the company&nbsp; said &nbsp;of the two shortcomings. A third vulnerability relates to a deserialization flaw (CVE-2022-31710, CVSS score: 7.5) that could be weaponized by an unauthenticated attacker to trigger a denial-of-service (DoS) conditi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical code execution bugs in vRealize Log Insight<a href="https://securityaffairs.com/141298/security/vmware-vrealize-log-insight-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in VMware vRealize Log Insight appliance can allow an unauthenticated attacker to take full control of a target system.
+VMware addressed multiple vulnerabilities, tracked as CVE-2022-31706, CVE-2022-31704, CVE-2022-31710,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Navigator Research: Some Vulnerabilities Date Back to the Last Millennium<a href="https://thehackernews.com/2023/01/security-navigator-research-some.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability analysis results in&nbsp; Orange Cyberdefenses' Security Navigator &nbsp;show that some vulnerabilities first discovered in 1999 are still found in networks today. This is concerning. Age of VOC findings Our Vulnerability Scans are performed on a recurring basis, which provides us the opportunity to examine the difference between when a scan was performed on an Asset, and when a given finding on that Asset was reported. We can call that the finding 'Age'. If the findings first reported are not addressed, they will occur in more scans over time with increasing Age, and so we can track how the Age of reported findings changes over time. As the chart below clearly illustrates, the majority of real findings in our dataset, across all Severity levels, are between 75 and 225 days old. There is a second 'peak' at around 300 days, which we suspect has more to do with the age of the data in the dataset and can therefore be ignored. Finally, there is a fascinating 
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

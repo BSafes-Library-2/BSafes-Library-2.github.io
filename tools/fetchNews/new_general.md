@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+January 25,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Definitive Browser Security Checklist<a href="https://thehackernews.com/2023/01/the-definitive-browser-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security stakeholders have come to realize that the prominent role the browser has in the modern corporate environment requires a re-evaluation of how it is managed and protected. While not long-ago web-borne risks were still addressed by a patchwork of endpoint, network, and cloud solutions, it is now clear that the partial protection these solutions provided is no longer sufficient. Therefore, more and more security teams are now turning to the emerging category of purpose-built&nbsp; Browser Security Platform &nbsp;as the answer to the browser's security challenges. However, as this security solution category is still relatively new, there is not yet an established set of browser security best practices, nor common evaluation criteria. LayerX, the User-First Browser Security Platform, is addressing security teams' need with the downable&nbsp; Browser Security Checklist ,&nbsp; that guides its readers through the essentials of choosing the best solution and provides them with an actionable che
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advancing Medical Technology Requires More Medical Device Regulation<a href="https://www.hackread.com/medical-device-regulation-technology/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical device regulation is an important part of the healthcare industry as it also helps protect patients by ensuring that any device used for diagnosis, treatment or prevention of a medical condition meets certain standards of safety and quality.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why CISOs Make Great Board Members<a href="https://www.securityweek.com/why-cisos-make-great-board-members/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses that invest in cybersecurity as a competitive advantage are transforming their business models. Every company is or will become a technology company, and those doing it faster are winning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

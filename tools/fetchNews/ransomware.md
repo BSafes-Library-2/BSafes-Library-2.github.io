@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CrySIS/Dharma Ransomware Variants Budding like Mushrooms<a href="https://cyware.com/news/new-crysisdharma-ransomware-variants-budding-like-mushrooms-c7fc5e9c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the leak of the source code of the CrySIS/Dharma ransomware family, cybercriminals worldwide continue to spin variants of it and deliver them via phishing attacks masked as genuine software. To gain access to the victim’s machine, CrySIS/Dharma operators abuse exposed RDP servers and also ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

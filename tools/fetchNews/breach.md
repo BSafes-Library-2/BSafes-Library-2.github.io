@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Companies Impacted by Recent Mailchimp Breach Start Notifying Customers<a href="https://www.securityweek.com/companies-impacted-recent-mailchimp-breach-start-notifying-customers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies affected by the recent Mailchimp data breach have started notifying affected customers. The list includes WooCommerce, FanDuel, Yuga Labs, and the Solana Foundation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies impacted by Mailchimp data breach warn their customers<a href="https://securityaffairs.com/141203/data-breach/companies-impacted-by-mailchimp-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent Mailchimp data breach has impacted multiple organizations, some of them are already notifying their customers.
+The popular email marketing and newsletter platform Mailchimp recently disclosed a news data breach, the incident exposed the data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Discovered U.S. No Fly List on Unsecured Airline Server<a href="https://www.rollingstone.com/politics/politics-news/no-fly-list-leaked-unsecured-airline-server-1234665941/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A copy of the No Fly List from 2019 has leaked, uncovered by a Swiss cybersecurity researcher and hacktivist who claims to have discovered it on an unsecured internet server belonging to an airline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
