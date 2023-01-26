@@ -34,6 +34,482 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EGERIE raises $32.7 million to help quantify the financial impact of shabby cyber security<a href="https://tech.eu/2023/01/23/egerie-raises-eur30-million-to-help-quantify-the-financial-impact-of-shabby-cyber-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The capital will be used to help Egerie further develop its automated data recovery technology while at the same time opening the doors to an insurer-specific reporting functionality as the company ramps up pan-European expansion plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 4,500 WordPress Sites Hacked to Redirect Visitors to Sketchy Ad Pages<a href="https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive campaign has infected over 4,500 WordPress websites as part of a long-running operation that's been believed to be active since at least 2017. According to GoDaddy-owned Sucuri, the infections involve the injection of obfuscated JavaScript hosted on a malicious domain named "track[.]violetlovelines[.]com" that's designed to redirect visitors to unwanted sites. The latest  operation  is said to have been active since December 26, 2022, according to  data  from urlscan.io. A prior wave seen in  early December 2022  impacted more than 3,600 sites, while another set of attacks recorded in  September 2022  ensnared more than 7,000 sites. The rogue code is inserted in the WordPress index.php file, with Sucuri noting that it has removed such changes from more than 33,000 files on the compromised sites in the past 60 days. "In recent months, this malware campaign has gradually switched from the notorious fake CAPTCHA push notification scam pages to black
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zacks Investment Research data breach impacted hundreds of thousands of customers<a href="https://securityaffairs.com/141343/data-breach/zacks-investment-research-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zacks Investment Research (Zacks) disclosed a data breach, the security may have exposed the data of 820K customers.
+Zacks Investment Research (Zacks) disclosed a data breach, the security incident may have affected the personal information of its 820,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian man given two-year jail sentence for $69K phishing scams<a href="https://www.zdnet.com/article/australian-man-given-two-year-jail-sentence-for-69k-phishing-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sydney Local Court found the man guilty of obtaining and supplying data with intent to commit a computer offense. It dished out a jail term of 32 months to a man who stole more than AU$100,000 ($69,751) in an SMS phishing scam impacting 450 victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Definitive Browser Security Checklist<a href="https://thehackernews.com/2023/01/the-definitive-browser-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security stakeholders have come to realize that the prominent role the browser has in the modern corporate environment requires a re-evaluation of how it is managed and protected. While not long-ago web-borne risks were still addressed by a patchwork of endpoint, network, and cloud solutions, it is now clear that the partial protection these solutions provided is no longer sufficient. Therefore, more and more security teams are now turning to the emerging category of purpose-built  Browser Security Platform  as the answer to the browser's security challenges. However, as this security solution category is still relatively new, there is not yet an established set of browser security best practices, nor common evaluation criteria. LayerX, the User-First Browser Security Platform, is addressing security teams' need with the downable  Browser Security Checklist ,  that guides its readers through the essentials of choosing the best solution and provides them with an actionable che
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 109 update addresses six security vulnerabilities<a href="https://securityaffairs.com/141335/security/google-chrome-six-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google addressed six security vulnerabilities in its web browser Chrome, none of them actively exploited in the wild.
+Google released Chrome version 109.0.5414.119 for Mac and Linux and 109.0.5414.119/.120 for Windows to address a total of six vulnerabilities....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advancing Medical Technology Requires More Medical Device Regulation<a href="https://www.hackread.com/medical-device-regulation-technology/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical device regulation is an important part of the healthcare industry as it also helps protect patients by ensuring that any device used for diagnosis, treatment or prevention of a medical condition meets certain standards of safety and quality.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Turn to Credential Harvesting in Latest Wave of Cyberattacks<a href="https://thehackernews.com/2023/01/north-korean-hackers-turn-to-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean nation-state group notorious for crypto heists has been attributed to a new wave of malicious email attacks as part of a "sprawling" credential harvesting activity targeting a number of industry verticals, marking a significant shift in its strategy. The state-aligned threat actor is being tracked by Proofpoint under the name  TA444 , and by the larger cybersecurity community as APT38,  BlueNoroff , Copernicium, and Stardust Chollima. TA444 is "utilizing a wider variety of delivery methods and payloads alongside blockchain-related lures, fake job opportunities at prestigious firms, and salary adjustments to ensnare victims," the enterprise security firm  said  in a report shared with The Hacker News. The advanced persistent threat is something of an aberration among state-sponsored groups in that its operations are financially motivated and geared towards generating illicit revenue for the Hermit Kingdom. To that end, the attacks employ  phishin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked TA444 group turns to credential harvesting activity<a href="https://securityaffairs.com/141325/apt/ta444-turns-credential-harvesting-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked TA444 group is behind a credential harvesting campaign targeting a number of industry verticals.
+Proofpoint researchers reported that North Korea-linked TA444 APT group (aka APT38, BlueNoroff, Copernicium, and Stardust Chollima)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realtek SDK Vulnerability Attacks Highlight IoT Supply Chain Threats<a href="https://unit42.paloaltonetworks.com/realtek-sdk-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of December 2022, Unit 42 researchers observed 134 million exploit attempts in total leveraging this vulnerability, and about 97% of these attacks occurred after the start of August 2022. At the time of writing, the attack is still ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Parent Company GoTo Suffers Data Breach, Customers' Backups Compromised<a href="https://thehackernews.com/2023/01/lastpass-parent-company-goto-suffers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass-owner GoTo (formerly LogMeIn) on Tuesday disclosed that unidentified threat actors were able to steal encrypted backups of some customers' data along with an encryption key for some of those backups in a November 2022 incident. The breach, which targeted a third-party cloud storage service, impacted Central, Pro, join.me, Hamachi, and RemotelyAnywhere products, the company said. "The affected information, which varies by product, may include account usernames, salted and hashed passwords, a portion of multi-factor Authentication (MFA) settings, as well as some product settings and licensing information," GoTo's Paddy Srinivasan  said . Additionally, MFA settings pertaining to a subset of its Rescue and GoToMyPC customers were impacted, although there is no evidence that the encrypted databases associated with the two services were exfiltrated. The company did not disclose how many users were impacted, but said it's directly contacting the victims to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French rugby club Stade Français leaks source code<a href="https://securityaffairs.com/141318/data-breach/french-rugby-club-stade-francais-leaks-source-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prestigious club Stade Français potentially endangered its fans for over a year after leaking its website’s source code.
+Stade Français is a professional rugby union club based in Paris. Founded in 1883 and competing in France’s premier rugby...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why CISOs Make Great Board Members<a href="https://www.securityweek.com/why-cisos-make-great-board-members/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses that invest in cybersecurity as a competitive advantage are transforming their business models. Every company is or will become a technology company, and those doing it faster are winning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Patches for Critical vRealize Log Insight Software Vulnerabilities<a href="https://thehackernews.com/2023/01/vmware-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday released software to remediate four security vulnerabilities affecting  vRealize Log Insight  (aka Aria Operations for Logs) that could expose users to remote code execution attacks. Two of the flaws are critical, carrying a severity rating of 9.8 out of a maximum of 10, the virtualization services provider noted in its first security bulletin for 2023. Tracked as CVE-2022-31706 and CVE-2022-31704, the directory traversal and broken access control issues could be exploited by a threat actor to achieve remote code execution irrespective of the difference in the attack pathway. "An unauthenticated, malicious actor can inject files into the operating system of an impacted appliance which can result in remote code execution," the company  said  of the two shortcomings. A third vulnerability relates to a deserialization flaw (CVE-2022-31710, CVSS score: 7.5) that could be weaponized by an unauthenticated attacker to trigger a denial-of-service (DoS) conditi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonSpark threat actor avoids detection using Golang source code Interpretation<a href="https://securityaffairs.com/141307/apt/dragonspark-targets-east-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese threat actor tracked as DragonSpark targets organizations in East Asia with a Golang malware to evade detection.
+SentinelOne researchers spotted a Chinese-speaking actor, tracked as DragonSpark, that is targeting organizations in East Asia.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Attack Campaign Uses Hacked WordPress Sites as Platform for Black Hat Ad Network<a href="https://blog.sucuri.net/2023/01/massive-campaign-uses-hacked-wordpress-sites-as-platform-for-black-hat-ad-network.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PublicWWW results show over 4,500 websites impacted by this malware at the time of writing, while urlscan.io shows evidence of the campaign operating since December 26, 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fujitsu: Quantum computers no threat to encryption just yet<a href="https://www.theregister.com/2023/01/24/fujitsu_quantum_encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fujitsu said it ran trials using its 39-qubit quantum simulator hardware to assess how difficult it would be for quantum computers to crack data encrypted with the RSA cipher, using a Shor's algorithm approach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DuoLingo Investigating Dark Web Post Offering Data From 2.6 Million Accounts<a href="https://therecord.media/duolingo-investigating-dark-web-post-offering-data-from-2-6-million-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spokesperson for the company said they are aware of the post, which was created on Tuesday morning and offers emails, phone numbers, courses taken, and other information on how customers use the platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ticketmaster Blames Bots in Taylor Swift 'Eras' Tour Debacle<a href="https://www.darkreading.com/attacks-breaches/ticketmaster-blames-bots-taylor-swift-eras-tour-debacle?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, Ticketmaster testified in Senate Judiciary Committee hearings that it's not the company's monopoly on the live music market that caused the Swifty sales collapse — it was instead a cyberattack, executives said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan hit by nationwide power outage, is it the result of a cyber attack?<a href="https://securityaffairs.com/141288/hacking/pakistan-nationwide-power-outage.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, a nationwide blackout in Pakistan left millions of people in the darkness, and the authorities are investigating if it was caused by a cyberattack. The power outage impacted all the major cities in Pakistan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Utilize Golang Malware in DragonSpark Attacks to Evade Detection<a href="https://thehackernews.com/2023/01/chinese-hackers-utilize-golang-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in East Asia are being targeted by a likely Chinese-speaking actor dubbed DragonSpark while employing uncommon tactics to go past security layers. "The attacks are characterized by the use of the little known open source SparkRAT and malware that attempts to evade detection through Golang source code interpretation," SentinelOne  said  in an analysis published today. A striking aspect of the intrusions is the consistent use of SparkRAT to conduct a variety of activities, including stealing information, obtaining control of an infected host, or running additional PowerShell instructions. The threat actor's end goals remain unknown as yet, although espionage or cybercrime is likely to be the motive. DragonSpark's ties to China stem from the use of the  China Chopper  web shell to deploy malware – a widely used attack pathway among Chinese threat actors. Furthermore, not only do the open source tools used in the cyber assaults originate from develope
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of critical code execution bugs in vRealize Log Insight<a href="https://securityaffairs.com/141298/security/vmware-vrealize-log-insight-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in VMware vRealize Log Insight appliance can allow an unauthenticated attacker to take full control of a target system.
+VMware addressed multiple vulnerabilities, tracked as CVE-2022-31706, CVE-2022-31704, CVE-2022-31710,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft<a href="https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Monday confirmed that North Korean threat actors were responsible for the theft of $100 million in cryptocurrency assets from  Harmony Horizon Bridge  in June 2022. The law enforcement agency attributed the hack to the  Lazarus Group  and APT38 (aka BlueNoroff, Copernicium, and Stardust Chollima), the latter of which is a North Korean state-sponsored threat group that specializes in financial cyber operations. The FBI further stated the Harmony intrusion leveraged an attack campaign dubbed  TraderTraitor  that was disclosed by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) in April 2022. The modus operandi entailed utilizing social engineering tricks to deceive employees of cryptocurrency companies into downloading rogue applications as part of a seemingly benign recruitment effort. "On Friday, January 13, 2023, North Korean cyber actors used RAILGUN, a privacy protocol, to launder over $60 million worth of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan hit by nationwide power outage, is it the result of a cyber attack?<a href="https://securityaffairs.com/141288/hacking/pakistan-nationwide-power-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pakistan suffered a nationwide blackout, local authorities are investigating the cause and suspect it was the result of a cyberattack.
+On Monday, a nationwide blackout in Pakistan left millions of people in the darkness, and the authorities are investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Navigator Research: Some Vulnerabilities Date Back to the Last Millennium<a href="https://thehackernews.com/2023/01/security-navigator-research-some.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerability analysis results in  Orange Cyberdefenses' Security Navigator  show that some vulnerabilities first discovered in 1999 are still found in networks today. This is concerning. Age of VOC findings Our Vulnerability Scans are performed on a recurring basis, which provides us the opportunity to examine the difference between when a scan was performed on an Asset, and when a given finding on that Asset was reported. We can call that the finding 'Age'. If the findings first reported are not addressed, they will occur in more scans over time with increasing Age, and so we can track how the Age of reported findings changes over time. As the chart below clearly illustrates, the majority of real findings in our dataset, across all Severity levels, are between 75 and 225 days old. There is a second 'peak' at around 300 days, which we suspect has more to do with the age of the data in the dataset and can therefore be ignored. Finally, there is a fascinating 
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTo revealed that threat actors stole customers’ backups and encryption key for some of them<a href="https://securityaffairs.com/141278/data-breach/goto-customers-backup-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoTo is notifying customers that its development environment was breached in November 2022, attackers stole customers' backups and encryption key.
+GoTo, formerly LogMeIn Inc, is a flexible-work provider of software as a service (SaaS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Malware Makes a Comeback with New Evasion Techniques<a href="https://thehackernews.com/2023/01/emotet-malware-makes-comeback-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Emotet malware operation has continued to refine its tactics in an effort to fly under the radar, while also acting as a conduit for other dangerous malware such as Bumblebee and IcedID. Emotet, which officially  reemerged  in late 2021 following a coordinated takedown of its infrastructure by authorities earlier that year, has continued to be a persistent threat that's distributed via phishing emails. Attributed to a cybercrime group tracked as  TA542  (aka Gold Crestwood or Mummy Spider), the virus has  evolved  from a banking trojan to a malware distributor since its first appearance in 2014. The malware-as-a-service (MaaS) is also modular, capable of deploying an array of proprietary and freeware components that can exfiltrate sensitive information from compromised machines and carry out other post-exploitation activities. Two latest additions to Emotet's module arsenal comprise an  SMB spreader  that's designed to facilitate lateral movement using a list of h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirms that North Korea-linked Lazarus APT is behind Harmony Horizon Bridge $100 million cyber heist<a href="https://securityaffairs.com/141266/apt/harmony-horizon-bridge-lazarus-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI attributes the $100 million cyber heist against Harmony Horizon Bridge to North Korea-linked Lazarus APT.
+The U.S. Federal Bureau of Investigation (FBI) this week confirmed that in June 2022 the North Korea-linked Lazarus APT group and APT38...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Platforms expands features for EE2E on Messenger App<a href="https://securityaffairs.com/141257/social-networks/meta-platforms-ee2e-messanger.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta Platforms announced the implementation of more features into its end-to-end encrypted Messanger App.
+Meta Platforms started gradually expanding testing default end-to-end encryption for Messenger.
+The company announced that over the next few months,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
