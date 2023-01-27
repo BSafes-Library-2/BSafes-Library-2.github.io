@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EGERIE raises $32.7 million to help quantify the financial impact of shabby cyber security<a href="https://tech.eu/2023/01/23/egerie-raises-eur30-million-to-help-quantify-the-financial-impact-of-shabby-cyber-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The capital will be used to help Egerie further develop its automated data recovery technology while at the same time opening the doors to an insurer-specific reporting functionality as the company ramps up pan-European expansion plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

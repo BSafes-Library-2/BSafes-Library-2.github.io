@@ -30,6 +30,12 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
+. https://securityaffairs.com/141393/apt/ncsc-warns-seaborgium-ta453-attacks.html
+. https://www.nextgov.com/cybersecurity/2023/01/cisa-releases-guide-help-safeguard-k-12-schools-cyber-threats/382149/?&web_view=true
+. https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-marks-identity-theft-awareness-week-2023-january-30-february-3?&web_view=true
+. https://therecord.media/british-cyber-agency-issues-warning-over-russian-and-iranian-espionage-campaigns/?&web_view=true
+. https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html
+. https://www.politico.eu/article/netherlands-dutch-government-work-tiktok-data-protection/?&web_view=true
 . https://www.hhs.gov/sites/default/files/royal-ransomware-analyst-note.pdf 
 . https://s3.documentcloud.org/documents/23321540/dod-ztstrategy.pdf
 . https://media.defense.gov/2022/Oct/31/2003105368/-1/-1/0/SECURING_THE_SOFTWARE_SUPPLY_CHAIN_SUPPLIERS.PDF

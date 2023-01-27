@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 26,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Connection b/w Moses Staff and Emerging Abraham's Ax Hacktivists Group<a href="https://thehackernews.com/2023/01/researchers-uncover-connection-bw-moses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has linked the operations of a politically motivated hacktivist group known as Moses Staff to another nascent threat actor named&nbsp; Abraham's Ax &nbsp;that emerged in November 2022. This is based on "several commonalities across the iconography, videography, and leak sites used by the groups, suggesting they are likely operated by the same entity," Secureworks Counter Threat Unit (CTU)&nbsp; said &nbsp;in a report shared with The Hacker News. Moses Staff, tracked by the cybersecurity firm under the moniker&nbsp; Cobalt Sapling , made its&nbsp; first appearance &nbsp;on the threat landscape in September 2021 with the goal of primarily targeting Israeli organizations. The geopolitical group is believed to be&nbsp; sponsored &nbsp;by the Iranian government and has since been linked to a string of espionage and sabotage attacks that make use of tools like&nbsp; StrifeWater RAT &nbsp;and open source utilities such as&nbsp; DiskCryptor &nbsp;to harvest sensitive information and lock victim data on infected hosts. The cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

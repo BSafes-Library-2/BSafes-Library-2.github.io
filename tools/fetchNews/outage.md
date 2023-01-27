@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan hit by nationwide power outage, is it the result of a cyber attack?<a href="https://securityaffairs.com/141288/hacking/pakistan-nationwide-power-outage.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, a nationwide blackout in Pakistan left millions of people in the darkness, and the authorities are investigating if it was caused by a cyberattack. The power outage impacted all the major cities in Pakistan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan hit by nationwide power outage, is it the result of a cyber attack?<a href="https://securityaffairs.com/141288/hacking/pakistan-nationwide-power-outage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pakistan suffered a nationwide blackout, local authorities are investigating the cause and suspect it was the result of a cyberattack.
+On Monday, a nationwide blackout in Pakistan left millions of people in the darkness, and the authorities are investigating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

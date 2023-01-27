@@ -8,6 +8,36 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked TA444 group turns to credential harvesting activity<a href="https://securityaffairs.com/141325/apt/ta444-turns-credential-harvesting-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked TA444 group is behind a credential harvesting campaign targeting a number of industry verticals.
+Proofpoint researchers reported that North Korea-linked TA444 APT group (aka APT38,&nbsp;BlueNoroff, Copernicium, and Stardust Chollima)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirms that North Korea-linked Lazarus APT is behind Harmony Horizon Bridge $100 million cyber heist<a href="https://securityaffairs.com/141266/apt/harmony-horizon-bridge-lazarus-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI attributes the $100 million cyber heist against Harmony Horizon Bridge&nbsp;to North Korea-linked Lazarus APT.
+The U.S. Federal Bureau of Investigation (FBI) this week confirmed that in June 2022 the North Korea-linked Lazarus APT group and APT38...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

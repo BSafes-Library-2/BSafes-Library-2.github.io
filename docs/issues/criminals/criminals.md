@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 26,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Infrastructure Seized in Joint International Law Enforcement Effort<a href="https://thehackernews.com/2023/01/hive-ransomware-infrastructure-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a case of hacking the hackers, the darknet infrastructure associated with the Hive ransomware-as-a-service (RaaS) operation has been seized as part of a coordinated law enforcement effort involving 13 countries. "Law enforcement identified the decryption keys and shared them with many of the victims, helping them regain access to their data without paying the cybercriminals," Europol&nbsp; said &nbsp;in a statement. The U.S. Department of Justice (DoJ)&nbsp; said &nbsp;the Federal Bureau of Investigation (FBI) covertly infiltrated the Hive database servers in July 2022 and captured 336 decryption keys that were then handed over to companies compromised by the gang, effectively saving $130 million in ransom payments. The FBI also distributed more than 1,000 additional decryption keys to previous Hive victims, the DoJ noted, stating the agency gained access to two dedicated servers and one virtual private server at a hosting provider in California that were leased using three em
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police arrest man who 'stole private info belonging to tens of millions'<a href="https://www.theregister.com/2023/01/26/crook_stole_tens_of_millions_private_data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 25-year-old now faces charges of violating data privacy and computer trespassing laws, and laundering cryptocurrency valued at around $491,000, according to media reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Tor leak site apparently seized by law enforcement<a href="https://securityaffairs.com/141374/cyber-crime/hive-ransomware-leak-site-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak site of the Hive ransomware gang was seized due to an international operation conducted by law enforcement in ten countries.
+The Tor leak site used by Hive ransomware operators has been seized as part of an international operation conducted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

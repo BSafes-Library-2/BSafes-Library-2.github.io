@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 24,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft<a href="https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Monday confirmed that North Korean threat actors were responsible for the theft of $100 million in cryptocurrency assets from&nbsp; Harmony Horizon Bridge &nbsp;in June 2022. The law enforcement agency attributed the hack to the&nbsp; Lazarus Group &nbsp;and APT38 (aka BlueNoroff, Copernicium, and Stardust Chollima), the latter of which&nbsp;is a North Korean state-sponsored threat group that specializes in financial cyber operations. The FBI further stated the Harmony intrusion leveraged an attack campaign dubbed&nbsp; TraderTraitor &nbsp;that was disclosed by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) in April 2022. The modus operandi entailed utilizing social engineering tricks to deceive employees of cryptocurrency companies into downloading rogue applications as part of a seemingly benign recruitment effort. "On Friday, January 13, 2023, North Korean cyber actors used RAILGUN, a privacy protocol, to launder over $60 million worth of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

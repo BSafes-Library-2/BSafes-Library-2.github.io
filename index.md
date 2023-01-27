@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multicloud Security Challenges Will Persist in 2023<a href="https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Infrastructure Seized in Joint International Law Enforcement Effort<a href="https://thehackernews.com/2023/01/hive-ransomware-infrastructure-seized.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK NCSC warns of spear-phishing attacks from Russia-linked and Iran-linked groups<a href="https://securityaffairs.com/141393/apt/ncsc-warns-seaborgium-ta453-attacks.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch police arrest man who 'stole private info belonging to tens of millions'<a href="https://www.theregister.com/2023/01/26/crook_stole_tens_of_millions_private_data/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Takes Down 50,000 Instances of Pro-Chinese DRAGONBRIDGE Influence Operation<a href="https://thehackernews.com/2023/01/google-takes-down-50000-instances-of.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An unfaithful employee leaked Yandex source code repositories<a href="https://securityaffairs.com/141382/data-breach/yandex-code-repositories-leaked.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GSA seeks nominations for new FedRAMP cloud advisory committee<a href="https://fedscoop.com/gsa-seeks-nominations-for-new-fedramp-cloud-advisory-committee/?&web_view=true"> Full Text</a>
@@ -148,14 +148,14 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Release PoC Exploit for Windows CryptoAPI Bug Discovered by NSA<a href="https://thehackernews.com/2023/01/researchers-release-poc-exploit-for.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Proof-of-concept (Poc) code has been released for a now-patched high-severity security flaw in the Windows CryptoAPI that the U.S. National Security Agency (NSA) and the U.K. National Cyber Security Centre (NCSC) reported to Microsoft last year. Tracked as  CVE-2022-34689  (CVSS score: 7.5), the spoofing vulnerability was addressed by the tech giant as part of Patch Tuesday updates released in August 2022, but was only publicly disclosed two months later on October 11, 2022. "An attacker could manipulate an existing public  x.509 certificate  to spoof their identity and perform actions such as authentication or code signing as the targeted certificate," Microsoft  said  in an advisory released at the time. The  Windows CryptoAPI  offers an interface for developers to add cryptographic services such as encryption/decryption of data and authentication using digital certificates to their applications. Web security company Akamai, which  released  the PoC,  said  CVE-2022-
+Proof-of-concept (Poc) code signing as the targeted certificate," Microsoft  said  in an advisory released at the time. The  Windows CryptoAPI  offers an interface for developers to add cryptographic services such as encryption/decryption of data and authentication using digital certificates to their applications. Web security company Akamai, which  released  the PoC,  said  CVE-2022-
 </details>
 <div style="text-align: right" markdown="1">
 The Hacker News
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive Ransomware Tor leak site apparently seized by law enforcement<a href="https://securityaffairs.com/141374/cyber-crime/hive-ransomware-leak-site-seized.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reported Data Breaches in US Reach Near-Record Highs<a href="https://www.bankinfosecurity.com/reported-data-breaches-in-us-reach-near-record-highs-a-21018?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Connection b/w Moses Staff and Emerging Abraham's Ax Hacktivists Group<a href="https://thehackernews.com/2023/01/researchers-uncover-connection-bw-moses.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a surge of attacks exploiting a Realtek Jungle SDK RCE (CVE-2021-35394)<a href="https://securityaffairs.com/141359/hacking/realtek-sdk-flaw-cve-2021-35394-botnets.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Guide to Help Safeguard K-12 Schools from Cyber Threats<a href="https://www.nextgov.com/cybersecurity/2023/01/cisa-releases-guide-help-safeguard-k-12-schools-cyber-threats/382149/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Once-Yearly Pen Testing Enough for Your Organization?<a href="https://thehackernews.com/2023/01/is-once-yearly-pen-testing-enough-for.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Marks Identity Theft Awareness Week for 2023 on January 30-February 3<a href="https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-marks-identity-theft-awareness-week-2023-january-30-february-3?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PY#RATION: New Python-based RAT Uses WebSocket for C2 and Data Exfiltration<a href="https://thehackernews.com/2023/01/pyration-new-python-based-rat-utilizes.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Cyber Agency Issues Warning Over Russian and Iranian Espionage Campaigns<a href="https://therecord.media/british-cyber-agency-issues-warning-over-russian-and-iranian-espionage-campaigns/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26,2023
+January 26,2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Federal Agencies Fall Victim to Cyber Attack Utilizing Legitimate RMM Software<a href="https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html"> Full Text</a>
@@ -326,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2023
+January 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avoid TikTok for government work, Dutch officials told<a href="https://www.politico.eu/article/netherlands-dutch-government-work-tiktok-data-protection/?&web_view=true"> Full Text</a>

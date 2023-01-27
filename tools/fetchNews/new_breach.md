@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 26,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Federal Agencies Fall Victim to Cyber Attack Utilizing Legitimate RMM Software<a href="https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least two federal agencies in the U.S. fell victim to a "widespread cyber campaign" that involved the use of legitimate remote monitoring and management (RMM) software to perpetuate a phishing scam. "Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software – ScreenConnect (now ConnectWise Control) and AnyDesk – which the actors used in a refund scam to steal money from victim bank accounts," U.S. cybersecurity authorities&nbsp; said . The joint advisory comes from the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Multi-State Information Sharing and Analysis Center (MS-ISAC). The attacks, which took place in mid-June and mid-September 2022, have financial motivations, although threat actors could weaponize the unauthorized access for conducting a wide range of activities, including selling that access to other hacking crews. Usage of remote software by criminal grou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

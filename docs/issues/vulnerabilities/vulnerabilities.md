@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 26,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Release PoC Exploit for Windows CryptoAPI Bug Discovered by NSA<a href="https://thehackernews.com/2023/01/researchers-release-poc-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept (Poc) code signing as the targeted certificate," Microsoft&nbsp; said &nbsp;in an advisory released at the time. The&nbsp; Windows CryptoAPI &nbsp;offers an interface for developers to add cryptographic services such as encryption/decryption of data and authentication using digital certificates to their applications. Web security company Akamai, which&nbsp; released &nbsp;the PoC,&nbsp; said &nbsp;CVE-2022-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a surge of attacks exploiting a Realtek Jungle SDK RCE (CVE-2021-35394)<a href="https://securityaffairs.com/141359/hacking/realtek-sdk-flaw-cve-2021-35394-botnets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a spike in the attacks that between August and October 2022 attempted to exploit a Realtek Jungle SDK RCE (CVE-2021-35394).
+Palo Alto Networks researchers reported that between August and October 2022 the number of attacks that attempted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

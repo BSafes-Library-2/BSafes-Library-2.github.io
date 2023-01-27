@@ -8,6 +8,50 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 25,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Turn to Credential Harvesting in Latest Wave of Cyberattacks<a href="https://thehackernews.com/2023/01/north-korean-hackers-turn-to-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean nation-state group notorious for crypto heists has been attributed to a new wave of malicious email attacks as part of a "sprawling" credential harvesting activity targeting a number of industry verticals, marking a significant shift in its strategy. The state-aligned threat actor is being tracked by Proofpoint under the name&nbsp; TA444 , and by the larger cybersecurity community as APT38,&nbsp; BlueNoroff , Copernicium, and Stardust Chollima. TA444 is "utilizing a wider variety of delivery methods and payloads alongside blockchain-related lures, fake job opportunities at prestigious firms, and salary adjustments to ensnare victims," the enterprise security firm&nbsp; said &nbsp;in a report shared with The Hacker News. The advanced persistent threat is something of an aberration among state-sponsored groups in that its operations are financially motivated and geared towards generating illicit revenue for the Hermit Kingdom. To that end, the attacks employ&nbsp; phishin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DragonSpark threat actor avoids detection using Golang source code Interpretation<a href="https://securityaffairs.com/141307/apt/dragonspark-targets-east-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese threat actor tracked as DragonSpark targets organizations in East Asia with a Golang malware to evade detection.
+SentinelOne&nbsp;researchers spotted a Chinese-speaking actor, tracked as DragonSpark, that is targeting organizations in East Asia.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 24,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Utilize Golang Malware in DragonSpark Attacks to Evade Detection<a href="https://thehackernews.com/2023/01/chinese-hackers-utilize-golang-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in East Asia are being targeted by a likely Chinese-speaking actor dubbed DragonSpark while employing uncommon tactics to go past security layers. "The attacks are characterized by the use of the little known open source SparkRAT and malware that attempts to evade detection through Golang source code interpretation," SentinelOne&nbsp; said &nbsp;in an analysis published today. A striking aspect of the intrusions is the consistent use of SparkRAT to conduct a variety of activities, including stealing information, obtaining control of an infected host, or running additional PowerShell instructions. The threat actor's end goals remain unknown as yet, although espionage or cybercrime is likely to be the motive. DragonSpark's ties to China stem from the use of the&nbsp; China Chopper &nbsp;web shell to deploy malware – a widely used attack pathway among Chinese threat actors. Furthermore, not only do the open source tools used in the cyber assaults originate from develope
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

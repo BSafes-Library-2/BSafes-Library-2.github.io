@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 26,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Once-Yearly Pen Testing Enough for Your Organization?<a href="https://thehackernews.com/2023/01/is-once-yearly-pen-testing-enough-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any organization that handles sensitive data must be diligent in its security efforts, which include regular pen testing. Even a small data breach can result in significant damage to an organization's reputation and bottom line. There are two main reasons why regular pen testing is necessary for secure web application development: Security: &nbsp;Web applications are constantly evolving, and new vulnerabilities are being discovered all the time. Pen testing helps identify vulnerabilities that could be exploited by hackers and allows you to fix them before they can do any damage. Compliance:&nbsp; Depending on your industry and the type of data you handle, you may be required to comply with certain security standards (e.g., PCI DSS, NIST, HIPAA). Regular pen testing can help you verify that your web applications meet these standards and avoid penalties for non-compliance. How Often Should You Pentest? Many organizations, big and small,&nbsp; have once a year pen testing cycle . But what
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

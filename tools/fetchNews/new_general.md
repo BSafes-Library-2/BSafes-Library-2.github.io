@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multicloud Security Challenges Will Persist in 2023<a href="https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multicloud offers numerous benefits, from avoiding vendor lock-in to reliability, agility, and cost-efficiency. At the same time, however, it brings additional layers of complexity, particularly regarding security management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported Data Breaches in US Reach Near-Record Highs<a href="https://www.bankinfosecurity.com/reported-data-breaches-in-us-reach-near-record-highs-a-21018?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, U.S. organizations issued 1,802 data breach notifications, reporting the exposure of records or personal information affecting more than 400 million individuals, the Identity Theft Resource Center reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

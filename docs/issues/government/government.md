@@ -8,6 +8,91 @@ nav_order: 900075
 
 ## Government
 ---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NCSC warns of spear-phishing attacks from Russia-linked and Iran-linked groups<a href="https://securityaffairs.com/141393/apt/ncsc-warns-seaborgium-ta453-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K.&nbsp;National Cyber Security Centre (NCSC) warns of a surge in the number of attacks from Russian and Iranian nation-state actors.
+The U.K.&nbsp;National Cyber Security Centre (NCSC) is warning of targeted phishing attacks conducted by threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GSA seeks nominations for new FedRAMP cloud advisory committee<a href="https://fedscoop.com/gsa-seeks-nominations-for-new-fedramp-cloud-advisory-committee/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The General Services Administration announced Tuesday that it is accepting advisory board member nominations for the FedRAMP cybersecurity authorization program, marking the first step in implementing recent legislation that reformed the program.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Guide to Help Safeguard K-12 Schools from Cyber Threats<a href="https://www.nextgov.com/cybersecurity/2023/01/cisa-releases-guide-help-safeguard-k-12-schools-cyber-threats/382149/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA released a report outlining a variety of steps that K-12 schools and districts should take to enhance their cybersecurity practices, amid an increase in ransomware attacks and other digital threats targeting education institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Marks Identity Theft Awareness Week for 2023 on January 30-February 3<a href="https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-marks-identity-theft-awareness-week-2023-january-30-february-3?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission will mark its annual Identity Theft Awareness Week with a series of free events January 30-February 3 focused on how identity theft affects people of every community and ways to reduce your risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Cyber Agency Issues Warning Over Russian and Iranian Espionage Campaigns<a href="https://therecord.media/british-cyber-agency-issues-warning-over-russian-and-iranian-espionage-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K NCSC warned that instead of sending surprise phishing emails, the Russia-based SEABORGIUM and Iran-based APT42 (or Charming Kitten) are contacting their targets in a benign fashion and attempting to build a rapport and a sense of trust.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid TikTok for government work, Dutch officials told<a href="https://www.politico.eu/article/netherlands-dutch-government-work-tiktok-data-protection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public authorities in the Netherlands are being told to steer clear of TikTok amid growing concerns across the EU and U.S. that the Chinese-owned video-sharing platform poses privacy risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

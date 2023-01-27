@@ -7,6 +7,54 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023 - NCSC, UK
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK cyber experts warn of targeted phishing attacks from actors based in Russia and Iran <a href="https://www.ncsc.gov.uk/news/uk-cyber-experts-warn-of-targeted-phishing-attacks-from-actors-based-in-russia-and-iran"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK has today (Thursday) warned of the threat from targeted spear-phishing campaigns against organisations and individuals carried out by cyber actors based in Russia and Iran.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting Against Malicious Use of Remote Monitoring and Management Software <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-025a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Multi-State Information Sharing and Analysis Center (MS-ISAC) (hereafter referred to as the “authoring organizations”) are releasing this joint Cybersecurity Advisory (CSA) to warn network defenders about malicious use of legitimate remote monitoring and management (RMM) software. In October 2022, CISA identified a widespread cyber campaign involving the malicious use of legitimate RMM software. Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software—ScreenConnect (now ConnectWise Control) and AnyDesk—which the actors used in a refund scam to steal money from victim bank accounts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA RELEASES REPORT FOR K-12 SCHOOLS TO HELP ADDRESS EVOLVING CYBERSECURITY THREATS  <a href="https://www.cisa.gov/news/2023/01/24/cisa-releases-report-k-12-schools-help-address-evolving-cybersecurity-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) released its report and toolkit for K-12 institutions to help them better protect against cybersecurity threats. The report, “Partnering to Safeguard K-12 Organizations from Cybersecurity Threats,” provides recommendations and resources to help K-12 schools and school districts address systemic cybersecurity risk. It also provides insight into the current threat landscape specific to the K-12 community and offers simple steps school leaders can take to strengthen their cybersecurity efforts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2023 - FTC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Marks Identity Theft Awareness Week for 2023 on January 30-February 3  <a href="https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-marks-identity-theft-awareness-week-2023-january-30-february-3?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission will mark its annual Identity Theft Awareness Week with a series of free events January 30-February 3 focused on how identity theft affects people of every community and ways to reduce your risk.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 17, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -15,6 +63,20 @@ CISA Releases Four Industrial Control Systems Advisories <a href="https://www.ci
 <details>
   <summary>Abstract</summary>
 CISA released four Industrial Control Systems (ICS) advisories on January 17, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2023 - White Houes
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remarks by President Biden and Prime Minister Rutte of the Netherlands Before Bilateral Meeting <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/01/17/remarks-by-president-biden-and-prime-minister-rutte-of-the-netherlands-before-bilateral-meeting/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PRESIDENT BIDEN:  Well, Mr. Prime Minister, it’s great to see you again.  We’ve been in many, many meetings together, but it’s good to have you here in the Oval Office.
+ 
+And you’re welcome despite — despite the World Cup match.
 </details>
 </div>
 
