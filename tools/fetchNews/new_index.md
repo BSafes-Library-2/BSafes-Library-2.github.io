@@ -34,7 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multicloud Security Challenges Will Persist in 2023<a href="https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multicloud offers numerous benefits, from avoiding vendor lock-in to reliability, agility, and cost-efficiency. At the same time, however, it brings additional layers of complexity, particularly regarding security management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Infrastructure Seized in Joint International Law Enforcement Effort<a href="https://thehackernews.com/2023/01/hive-ransomware-infrastructure-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a case of hacking the hackers, the darknet infrastructure associated with the Hive ransomware-as-a-service (RaaS) operation has been seized as part of a coordinated law enforcement effort involving 13 countries. "Law enforcement identified the decryption keys and shared them with many of the victims, helping them regain access to their data without paying the cybercriminals," Europol  said  in a statement. The U.S. Department of Justice (DoJ)  said  the Federal Bureau of Investigation (FBI) covertly infiltrated the Hive database servers in July 2022 and captured 336 decryption keys that were then handed over to companies compromised by the gang, effectively saving $130 million in ransom payments. The FBI also distributed more than 1,000 additional decryption keys to previous Hive victims, the DoJ noted, stating the agency gained access to two dedicated servers and one virtual private server at a hosting provider in California that were leased using three em
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK NCSC warns of spear-phishing attacks from Russia-linked and Iran-linked groups<a href="https://securityaffairs.com/141393/apt/ncsc-warns-seaborgium-ta453-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Cyber Security Centre (NCSC) warns of a surge in the number of attacks from Russian and Iranian nation-state actors.
+The U.K. National Cyber Security Centre (NCSC) is warning of targeted phishing attacks conducted by threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch police arrest man who 'stole private info belonging to tens of millions'<a href="https://www.theregister.com/2023/01/26/crook_stole_tens_of_millions_private_data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 25-year-old now faces charges of violating data privacy and computer trespassing laws, and laundering cryptocurrency valued at around $491,000, according to media reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Takes Down 50,000 Instances of Pro-Chinese DRAGONBRIDGE Influence Operation<a href="https://thehackernews.com/2023/01/google-takes-down-50000-instances-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday disclosed it took steps to dismantle over 50,000 instances of activity orchestrated by a pro-Chinese influence operation known as DRAGONBRIDGE in 2022. "Most DRAGONBRIDGE activity is low quality content without a political message, populated across many channels and blogs," the company's Threat Analysis Group (TAG)  said  in a  report  shared with The Hacker News. "However, a small fraction of DRAGONBRIDGE accounts also post about current events with messaging that pushes pro-China talking points." DRAGONBRIDGE  was first exposed by Google-owned Mandiant in July 2022, calling out its unsuccessful efforts in targeting rare earth mining companies in Australia, Canada, and the U.S. with the goal of triggering environmental protests against the firms. Also known by the name Spamouflage Dragon, the spammy influence network is known to have a presence across multiple platforms, including YouTube, Blogger, Facebook, and Twitter, primarily dissem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An unfaithful employee leaked Yandex source code repositories<a href="https://securityaffairs.com/141382/data-breach/yandex-code-repositories-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A source code repository allegedly stolen by a former employee of the Russian tech giant Yandex has been leaked online.
+A Yandex source code repository allegedly stolen by a former employee of the Russian IT giant has been leaked on a popular cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GSA seeks nominations for new FedRAMP cloud advisory committee<a href="https://fedscoop.com/gsa-seeks-nominations-for-new-fedramp-cloud-advisory-committee/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The General Services Administration announced Tuesday that it is accepting advisory board member nominations for the FedRAMP cybersecurity authorization program, marking the first step in implementing recent legislation that reformed the program.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Release PoC Exploit for Windows CryptoAPI Bug Discovered by NSA<a href="https://thehackernews.com/2023/01/researchers-release-poc-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept (Poc) code has been released for a now-patched high-severity security flaw in the Windows CryptoAPI that the U.S. National Security Agency (NSA) and the U.K. National Cyber Security Centre (NCSC) reported to Microsoft last year. Tracked as  CVE-2022-34689  (CVSS score: 7.5), the spoofing vulnerability was addressed by the tech giant as part of Patch Tuesday updates released in August 2022, but was only publicly disclosed two months later on October 11, 2022. "An attacker could manipulate an existing public  x.509 certificate  to spoof their identity and perform actions such as authentication or code signing as the targeted certificate," Microsoft  said  in an advisory released at the time. The  Windows CryptoAPI  offers an interface for developers to add cryptographic services such as encryption/decryption of data and authentication using digital certificates to their applications. Web security company Akamai, which  released  the PoC,  said  CVE-2022-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive Ransomware Tor leak site apparently seized by law enforcement<a href="https://securityaffairs.com/141374/cyber-crime/hive-ransomware-leak-site-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak site of the Hive ransomware gang was seized due to an international operation conducted by law enforcement in ten countries.
+The Tor leak site used by Hive ransomware operators has been seized as part of an international operation conducted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reported Data Breaches in US Reach Near-Record Highs<a href="https://www.bankinfosecurity.com/reported-data-breaches-in-us-reach-near-record-highs-a-21018?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, U.S. organizations issued 1,802 data breach notifications, reporting the exposure of records or personal information affecting more than 400 million individuals, the Identity Theft Resource Center reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Connection b/w Moses Staff and Emerging Abraham's Ax Hacktivists Group<a href="https://thehackernews.com/2023/01/researchers-uncover-connection-bw-moses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has linked the operations of a politically motivated hacktivist group known as Moses Staff to another nascent threat actor named  Abraham's Ax  that emerged in November 2022. This is based on "several commonalities across the iconography, videography, and leak sites used by the groups, suggesting they are likely operated by the same entity," Secureworks Counter Threat Unit (CTU)  said  in a report shared with The Hacker News. Moses Staff, tracked by the cybersecurity firm under the moniker  Cobalt Sapling , made its  first appearance  on the threat landscape in September 2021 with the goal of primarily targeting Israeli organizations. The geopolitical group is believed to be  sponsored  by the Iranian government and has since been linked to a string of espionage and sabotage attacks that make use of tools like  StrifeWater RAT  and open source utilities such as  DiskCryptor  to harvest sensitive information and lock victim data on infected hosts. The cr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a surge of attacks exploiting a Realtek Jungle SDK RCE (CVE-2021-35394)<a href="https://securityaffairs.com/141359/hacking/realtek-sdk-flaw-cve-2021-35394-botnets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a spike in the attacks that between August and October 2022 attempted to exploit a Realtek Jungle SDK RCE (CVE-2021-35394).
+Palo Alto Networks researchers reported that between August and October 2022 the number of attacks that attempted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Guide to Help Safeguard K-12 Schools from Cyber Threats<a href="https://www.nextgov.com/cybersecurity/2023/01/cisa-releases-guide-help-safeguard-k-12-schools-cyber-threats/382149/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA released a report outlining a variety of steps that K-12 schools and districts should take to enhance their cybersecurity practices, amid an increase in ransomware attacks and other digital threats targeting education institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Once-Yearly Pen Testing Enough for Your Organization?<a href="https://thehackernews.com/2023/01/is-once-yearly-pen-testing-enough-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any organization that handles sensitive data must be diligent in its security efforts, which include regular pen testing. Even a small data breach can result in significant damage to an organization's reputation and bottom line. There are two main reasons why regular pen testing is necessary for secure web application development: Security:  Web applications are constantly evolving, and new vulnerabilities are being discovered all the time. Pen testing helps identify vulnerabilities that could be exploited by hackers and allows you to fix them before they can do any damage. Compliance:  Depending on your industry and the type of data you handle, you may be required to comply with certain security standards (e.g., PCI DSS, NIST, HIPAA). Regular pen testing can help you verify that your web applications meet these standards and avoid penalties for non-compliance. How Often Should You Pentest? Many organizations, big and small,  have once a year pen testing cycle . But what
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Marks Identity Theft Awareness Week for 2023 on January 30-February 3<a href="https://www.ftc.gov/news-events/news/press-releases/2023/01/ftc-marks-identity-theft-awareness-week-2023-january-30-february-3?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission will mark its annual Identity Theft Awareness Week with a series of free events January 30-February 3 focused on how identity theft affects people of every community and ways to reduce your risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PY#RATION: New Python-based RAT Uses WebSocket for C2 and Data Exfiltration<a href="https://thehackernews.com/2023/01/pyration-new-python-based-rat-utilizes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a new attack campaign that leverages a Python-based remote access trojan (RAT) to gain control over compromised systems since at least August 2022. "This malware is unique in its utilization of  WebSockets  to avoid detection and for both command-and-control (C2) communication and exfiltration," Securonix  said  in a report shared with The Hacker News. The malware, dubbed PY#RATION by the cybersecurity firm, comes with a host of capabilities that allows the threat actor to harvest sensitive information. Later versions of the backdoor also sport anti-evasion techniques, suggesting that it's being actively developed and maintained. The attack commences with a phishing email containing a ZIP archive, which, in turn, harbors two shortcut (.LNK) files that masquerade as front and back side images of a seemingly legitimate U.K. driver's license. Opening each of the .LNK files retrieves two text files from a remote server that a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Cyber Agency Issues Warning Over Russian and Iranian Espionage Campaigns<a href="https://therecord.media/british-cyber-agency-issues-warning-over-russian-and-iranian-espionage-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K NCSC warned that instead of sending surprise phishing emails, the Russia-based SEABORGIUM and Iran-based APT42 (or Charming Kitten) are contacting their targets in a benign fashion and attempting to build a rapport and a sense of trust.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Federal Agencies Fall Victim to Cyber Attack Utilizing Legitimate RMM Software<a href="https://thehackernews.com/2023/01/us-federal-agencies-fall-victim-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least two federal agencies in the U.S. fell victim to a "widespread cyber campaign" that involved the use of legitimate remote monitoring and management (RMM) software to perpetuate a phishing scam. "Specifically, cyber criminal actors sent phishing emails that led to the download of legitimate RMM software – ScreenConnect (now ConnectWise Control) and AnyDesk – which the actors used in a refund scam to steal money from victim bank accounts," U.S. cybersecurity authorities  said . The joint advisory comes from the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and Multi-State Information Sharing and Analysis Center (MS-ISAC). The attacks, which took place in mid-June and mid-September 2022, have financial motivations, although threat actors could weaponize the unauthorized access for conducting a wide range of activities, including selling that access to other hacking crews. Usage of remote software by criminal grou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid TikTok for government work, Dutch officials told<a href="https://www.politico.eu/article/netherlands-dutch-government-work-tiktok-data-protection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public authorities in the Netherlands are being told to steer clear of TikTok amid growing concerns across the EU and U.S. that the Chinese-owned video-sharing platform poses privacy risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EGERIE raises $32.7 million to help quantify the financial impact of shabby cyber security<a href="https://tech.eu/2023/01/23/egerie-raises-eur30-million-to-help-quantify-the-financial-impact-of-shabby-cyber-security/?&web_view=true"> Full Text</a>
@@ -50,7 +358,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25,2023
+January 25,2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 4,500 WordPress Sites Hacked to Redirect Visitors to Sketchy Ad Pages<a href="https://thehackernews.com/2023/01/over-4500-wordpress-sites-hacked-to.html"> Full Text</a>
@@ -66,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zacks Investment Research data breach impacted hundreds of thousands of customers<a href="https://securityaffairs.com/141343/data-breach/zacks-investment-research-data-breach.html"> Full Text</a>
@@ -83,7 +391,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian man given two-year jail sentence for $69K phishing scams<a href="https://www.zdnet.com/article/australian-man-given-two-year-jail-sentence-for-69k-phishing-scams/?&web_view=true"> Full Text</a>
@@ -99,7 +407,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25,2023
+January 25,2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Definitive Browser Security Checklist<a href="https://thehackernews.com/2023/01/the-definitive-browser-security.html"> Full Text</a>
@@ -115,7 +423,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome 109 update addresses six security vulnerabilities<a href="https://securityaffairs.com/141335/security/google-chrome-six-flaws.html"> Full Text</a>
@@ -132,7 +440,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advancing Medical Technology Requires More Medical Device Regulation<a href="https://www.hackread.com/medical-device-regulation-technology/?&web_view=true"> Full Text</a>
@@ -148,7 +456,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25,2023
+January 25,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Turn to Credential Harvesting in Latest Wave of Cyberattacks<a href="https://thehackernews.com/2023/01/north-korean-hackers-turn-to-credential.html"> Full Text</a>
@@ -164,7 +472,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked TA444 group turns to credential harvesting activity<a href="https://securityaffairs.com/141325/apt/ta444-turns-credential-harvesting-activity.html"> Full Text</a>
@@ -181,7 +489,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Realtek SDK Vulnerability Attacks Highlight IoT Supply Chain Threats<a href="https://unit42.paloaltonetworks.com/realtek-sdk-vulnerability/?&web_view=true"> Full Text</a>
@@ -197,7 +505,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25,2023
+January 25,2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass Parent Company GoTo Suffers Data Breach, Customers' Backups Compromised<a href="https://thehackernews.com/2023/01/lastpass-parent-company-goto-suffers.html"> Full Text</a>
@@ -213,7 +521,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French rugby club Stade Français leaks source code<a href="https://securityaffairs.com/141318/data-breach/french-rugby-club-stade-francais-leaks-source-code.html"> Full Text</a>
@@ -230,7 +538,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why CISOs Make Great Board Members<a href="https://www.securityweek.com/why-cisos-make-great-board-members/?&web_view=true"> Full Text</a>
@@ -246,7 +554,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25,2023
+January 25,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Patches for Critical vRealize Log Insight Software Vulnerabilities<a href="https://thehackernews.com/2023/01/vmware-releases-patches-for-critical.html"> Full Text</a>
@@ -262,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DragonSpark threat actor avoids detection using Golang source code Interpretation<a href="https://securityaffairs.com/141307/apt/dragonspark-targets-east-asia.html"> Full Text</a>
@@ -280,7 +588,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Attack Campaign Uses Hacked WordPress Sites as Platform for Black Hat Ad Network<a href="https://blog.sucuri.net/2023/01/massive-campaign-uses-hacked-wordpress-sites-as-platform-for-black-hat-ad-network.html?&web_view=true"> Full Text</a>
@@ -296,7 +604,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fujitsu: Quantum computers no threat to encryption just yet<a href="https://www.theregister.com/2023/01/24/fujitsu_quantum_encryption/?&web_view=true"> Full Text</a>
@@ -312,7 +620,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DuoLingo Investigating Dark Web Post Offering Data From 2.6 Million Accounts<a href="https://therecord.media/duolingo-investigating-dark-web-post-offering-data-from-2-6-million-accounts/?&web_view=true"> Full Text</a>
@@ -328,7 +636,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ticketmaster Blames Bots in Taylor Swift 'Eras' Tour Debacle<a href="https://www.darkreading.com/attacks-breaches/ticketmaster-blames-bots-taylor-swift-eras-tour-debacle?&web_view=true"> Full Text</a>
@@ -344,7 +652,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2023
+January 25, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistan hit by nationwide power outage, is it the result of a cyber attack?<a href="https://securityaffairs.com/141288/hacking/pakistan-nationwide-power-outage.html?&web_view=true"> Full Text</a>
@@ -360,7 +668,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24,2023
+January 24,2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Utilize Golang Malware in DragonSpark Attacks to Evade Detection<a href="https://thehackernews.com/2023/01/chinese-hackers-utilize-golang-malware.html"> Full Text</a>
@@ -376,7 +684,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2023
+January 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware warns of critical code execution bugs in vRealize Log Insight<a href="https://securityaffairs.com/141298/security/vmware-vrealize-log-insight-rce.html"> Full Text</a>
@@ -393,7 +701,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24,2023
+January 24,2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft<a href="https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html"> Full Text</a>
@@ -409,7 +717,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2023
+January 24, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistan hit by nationwide power outage, is it the result of a cyber attack?<a href="https://securityaffairs.com/141288/hacking/pakistan-nationwide-power-outage.html"> Full Text</a>
@@ -426,7 +734,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24,2023
+January 24,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Navigator Research: Some Vulnerabilities Date Back to the Last Millennium<a href="https://thehackernews.com/2023/01/security-navigator-research-some.html"> Full Text</a>
@@ -442,7 +750,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2023
+January 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTo revealed that threat actors stole customers’ backups and encryption key for some of them<a href="https://securityaffairs.com/141278/data-breach/goto-customers-backup-exposed.html"> Full Text</a>
@@ -459,7 +767,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24,2023
+January 24,2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Malware Makes a Comeback with New Evasion Techniques<a href="https://thehackernews.com/2023/01/emotet-malware-makes-comeback-with-new.html"> Full Text</a>
@@ -475,7 +783,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2023
+January 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI confirms that North Korea-linked Lazarus APT is behind Harmony Horizon Bridge $100 million cyber heist<a href="https://securityaffairs.com/141266/apt/harmony-horizon-bridge-lazarus-apt.html"> Full Text</a>
@@ -492,7 +800,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2023
+January 24, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Platforms expands features for EE2E on Messenger App<a href="https://securityaffairs.com/141257/social-networks/meta-platforms-ee2e-messanger.html"> Full Text</a>
