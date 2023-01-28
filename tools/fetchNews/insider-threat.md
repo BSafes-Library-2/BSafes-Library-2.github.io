@@ -8,6 +8,21 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+January 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An unfaithful employee leaked Yandex source code repositories<a href="https://securityaffairs.com/141382/data-breach/yandex-code-repositories-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A source code repository allegedly stolen by a former employee of the Russian tech giant Yandex has been leaked online.
+A Yandex&nbsp;source code repository allegedly stolen by a former employee of the Russian IT giant has been leaked on a popular cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

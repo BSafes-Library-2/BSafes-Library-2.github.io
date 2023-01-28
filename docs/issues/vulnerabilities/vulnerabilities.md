@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 28,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Urges Customers to Secure On-Premises Exchange Servers<a href="https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging customers to keep their Exchange servers updated as well as take steps to bolster the environment, such as enabling&nbsp; Windows Extended Protection &nbsp;and configuring&nbsp; certificate-based signing &nbsp;of PowerShell serialization payloads. "Attackers looking to exploit unpatched Exchange servers are not going to go away," the tech giant's Exchange Team&nbsp; said &nbsp;in a post. "There are too many aspects of unpatched on-premises Exchange environments that are valuable to bad actors looking to exfiltrate data or commit other malicious acts." Microsoft also emphasized mitigations issued by the company are only a stopgap solution and that they can "become insufficient to protect against all variations of an attack," necessitating that users install necessary security updates to secure the servers. Exchange Server has been proven to be a lucrative attack vector in recent years, what with a number of security flaws in the software weaponized as zero-d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC Releases Security Patches for New BIND DNS Software Vulnerabilities<a href="https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) has released patches to address multiple security vulnerabilities in the Berkeley Internet Name Domain (BIND) 9 Domain Name System (DNS) software suite that could lead to a denial-of-service (DoS) condition. "A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in an advisory released Friday. The open source software is used by major financial firms, national and international carriers, internet service providers (ISPs), retailers, manufacturers, educational institutions, and government entities, according to its&nbsp; website . All four flaws reside in&nbsp; named , a&nbsp; BIND9 service &nbsp;that functions as an authoritative nameserver for a fixed set of DNS zones or as a recursive resolver for clients on a local network. The list of the bugs, which are rated 7.5 on the CVSS scoring system, is as follows -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch management is crucial to protect Exchange servers, Microsoft warns<a href="https://securityaffairs.com/141451/security/microsoft-exchange-servers-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns customers to patch their Exchange servers because attackers always look to exploit unpatched installs.
+Microsoft published a post to urge its customers to protect their Exchange servers because threat actors actively attempt to exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2023-23560 flaw exposes 100 Lexmark printer models to hack<a href="https://securityaffairs.com/141428/hacking/lexmark-cve-2023-23560-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lexmark released a security firmware update to fix a remote code execution flaw, tracked as CVE-2023-23560, that impacts more than 100 printer models.
+Lexmark has released a security firmware update to address a remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

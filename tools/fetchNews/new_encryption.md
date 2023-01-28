@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese researchers: RSA is breakable. Others: Do not panic!<a href="https://www.helpnetsecurity.com/2023/01/25/chinese-researchers-rsa-is-breakable-do-not-panic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The basic claim of the paper, published last Christmas by 24 Chinese researchers, is that they have found an algorithm that enables 2,048-bit RSA keys to be broken even with the relatively low-power quantum computers available today.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

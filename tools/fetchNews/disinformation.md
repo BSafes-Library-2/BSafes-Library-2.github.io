@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+January 26,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Takes Down 50,000 Instances of Pro-Chinese DRAGONBRIDGE Influence Operation<a href="https://thehackernews.com/2023/01/google-takes-down-50000-instances-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday disclosed it took steps to dismantle over 50,000 instances of activity orchestrated by a pro-Chinese influence operation known as DRAGONBRIDGE in 2022. "Most DRAGONBRIDGE activity is low quality content without a political message, populated across many channels and blogs," the company's Threat Analysis Group (TAG)&nbsp; said &nbsp;in a&nbsp; report &nbsp;shared with The Hacker News. "However, a small fraction of DRAGONBRIDGE accounts also post about current events with messaging that pushes pro-China talking points." DRAGONBRIDGE &nbsp;was first exposed by Google-owned Mandiant in July 2022, calling out its unsuccessful efforts in targeting rare earth mining companies in Australia, Canada, and the U.S. with the goal of triggering environmental protests against the firms. Also known by the name Spamouflage Dragon, the spammy influence network is known to have a presence across multiple platforms, including YouTube, Blogger, Facebook, and Twitter, primarily dissem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

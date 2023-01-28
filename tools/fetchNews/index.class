@@ -34,6 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Urges Customers to Secure On-Premises Exchange Servers<a href="https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is urging customers to keep their Exchange servers updated as well as take steps to bolster the environment, such as enabling  Windows Extended Protection  and configuring  certificate-based signing  of PowerShell serialization payloads. "Attackers looking to exploit unpatched Exchange servers are not going to go away," the tech giant's Exchange Team  said  in a post. "There are too many aspects of unpatched on-premises Exchange environments that are valuable to bad actors looking to exfiltrate data or commit other malicious acts." Microsoft also emphasized mitigations issued by the company are only a stopgap solution and that they can "become insufficient to protect against all variations of an attack," necessitating that users install necessary security updates to secure the servers. Exchange Server has been proven to be a lucrative attack vector in recent years, what with a number of security flaws in the software weaponized as zero-d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28,2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eliminating SaaS Shadow IT is Now Available via a Self-Service Product, Free of Charge<a href="https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of software as a service (SaaS) is experiencing rapid growth and shows no signs of slowing down. Its decentralized and easy-to-use nature is beneficial for increasing employee productivity, but it also poses many security and IT challenges. Keeping track of all the SaaS applications that have been granted access to an organization's data is a difficult task. Understanding the risks that SaaS applications pose is just as important, but it can be challenging to secure what cannot be seen. Many organizations have implemented access management solutions, but these are limited in visibility to only pre-approved applications. The average medium-sized organization has hundreds, and sometimes thousands, of SaaS applications that have been adopted by employees who needed a quick and easy solution or found a free version, completely bypassing IT and security. This leads to a significant risk as many of these applications do not have the necessary security and/or compliance standard
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC Releases Security Patches for New BIND DNS Software Vulnerabilities<a href="https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) has released patches to address multiple security vulnerabilities in the Berkeley Internet Name Domain (BIND) 9 Domain Name System (DNS) software suite that could lead to a denial-of-service (DoS) condition. "A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in an advisory released Friday. The open source software is used by major financial firms, national and international carriers, internet service providers (ISPs), retailers, manufacturers, educational institutions, and government entities, according to its  website . All four flaws reside in  named , a  BIND9 service  that functions as an authoritative nameserver for a fixed set of DNS zones or as a recursive resolver for clients on a local network. The list of the bugs, which are rated 7.5 on the CVSS scoring system, is as follows -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28,2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Hit with New Golang-based 'SwiftSlicer' Wiper Malware in Latest Cyber Attack<a href="https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine has come under a fresh cyber onslaught from Russia that involved the deployment of a previously undocumented Golang-based data wiper dubbed  SwiftSlicer . ESET attributed the attack to Sandworm, a nation-state group linked to Military Unit 74455 of the Main Intelligence Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). "Once executed it deletes shadow copies, recursively overwrites files located in %CSIDL_SYSTEM%\drivers, %CSIDL_SYSTEM_DRIVE%\Windows\NTDS and other non-system drives and then reboots computer," ESET  disclosed  in a series of tweets. The overwrites are achieved by using randomly generated byte sequences to fill 4,096 byte-length blocks. The intrusion was discovered on January 25, 2023, the Slovak cybersecurity company added. Sandworm, also tracked under the monikers BlackEnergy, Electrum, Iridium, Iron Viking, TeleBots, and Voodoo Bear, has a history of staging  disruptive and destructive cyber campaigns  target
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aurora Infostealer Malware Deploys Shapeshifting Tactics<a href="https://heimdalsecurity.com/blog/aurora-stealer-malware-shapeshifting-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble researchers determined that, in order to target a variety of well-known applications, the attackers are actively changing and customizing their phishing websites. Aurora targets data from web browsers and crypto wallets, among others.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Thwarts ‘Hive’ Ransomware Scheme<a href="https://www.lawfareblog.com/justice-department-thwarts-hive-ransomware-scheme"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department announces a successful campaign countering ransomware attacks by the Hive cybercriminal network.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch management is crucial to protect Exchange servers, Microsoft warns<a href="https://securityaffairs.com/141451/security/microsoft-exchange-servers-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns customers to patch their Exchange servers because attackers always look to exploit unpatched installs.
+Microsoft published a post to urge its customers to protect their Exchange servers because threat actors actively attempt to exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Database Injection Attacks Compromise WordPress Sites<a href="https://cyware.com/news/new-wave-of-database-injection-attacks-compromise-wordpress-sites-86652900"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest wave has been active since December 26, 2022, and over 5,600 websites are impacted by it so far. It has switched from fake CAPTCHA push notification scams to black hat ad networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker accused of having stolen personal data of all Austrians and more<a href="https://securityaffairs.com/141439/cyber-crime/hacker-stole-personal-data-austrians.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Dutch hacker who was arrested at the end of last year claims to have stolen the personal data of almost all Austrians. 
+At the end of November 2022, the Amsterdam police arrested a 25-year-old man from Almere who is suspected of having stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python-based PY#RATION RAT Stealthily Harvests Sensitive Information<a href="https://cyware.com/news/python-based-pyration-rat-stealthily-harvests-sensitive-information-c8374823"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PY#RATION can transfer files from the infected host machine to its C2 servers or vice versa. It uses WebSockets to avoid detection and for C2 communication and exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2023-23560 flaw exposes 100 Lexmark printer models to hack<a href="https://securityaffairs.com/141428/hacking/lexmark-cve-2023-23560-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lexmark released a security firmware update to fix a remote code execution flaw, tracked as CVE-2023-23560, that impacts more than 100 printer models.
+Lexmark has released a security firmware update to address a remote code execution vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese researchers: RSA is breakable. Others: Do not panic!<a href="https://www.helpnetsecurity.com/2023/01/25/chinese-researchers-rsa-is-breakable-do-not-panic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The basic claim of the paper, published last Christmas by 24 Chinese researchers, is that they have found an algorithm that enables 2,048-bit RSA keys to be broken even with the relatively low-power quantum computers available today.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware gang stole secret military data from an industrial explosives manufacturer<a href="https://securityaffairs.com/141409/data-breach/blackcat-ransomware-solar-industries-india.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat Ransomware group claims to have hacked SOLAR INDUSTRIES INDIA and to have stolen 2TB of "secret military data."
+The BlackCat Ransomware gang added SOLAR INDUSTRIES INDIA to the list of victims published on its Tor leak site. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three business application security risks businesses need to prepare for in 2023<a href="https://www.helpnetsecurity.com/2023/01/27/business-application-security-risks-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ERP attacks increase this year, more organizations must ensure their security strategy takes these applications into account to keep their sensitive data and files. It's crucial to understand what risks are threatening their ERP applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27,2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover the Identity of Mastermind Behind Golden Chickens Malware Service<a href="https://thehackernews.com/2023/01/experts-uncover-identity-of-mastermind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered the real-world identity of the threat actor behind  Golden Chickens  malware-as-a-service, who goes by the online persona "badbullzvenom." eSentire's Threat Response Unit (TRU), in an exhaustive report published following a 16-month-long investigation,  said  it "found multiple mentions of the badbullzvenom account being shared between two people." The second threat actor, known as Frapstar, is said to identify themselves as "Chuck from Montreal," enabling the cybersecurity firm to piece together the criminal actor's digital footprint. This includes his real name, pictures, home address, the names of his parents, siblings, and friends, along with his social media accounts and his interests. He is also said to be the sole proprietor of a small business that's run from his own home. Golden Chickens, also known as  Venom Spider , is a malware-as-a-service (MaaS) provider that's linked to a variet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New PlugX Malware Variant Spreading via Removable USB Devices<a href="https://thehackernews.com/2023/01/researchers-discover-new-plugx-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a PlugX sample that employs sneaky methods to infect attached removable USB media devices in order to propagate the malware to additional systems. "This PlugX variant is wormable and infects USB devices in such a way that it conceals itself from the Windows operating file system," Palo Alto Networks Unit 42 researchers Mike Harbison and Jen Miller-Osborn  said . "A user would not know their USB device is infected or possibly used to exfiltrate data out of their networks." The cybersecurity company said it uncovered the artifact during an incident response effort following a Black Basta ransomware attack against an unnamed victim. Among other tools discovered in the compromised environment include the  Gootkit  malware loader and the  Brute Ratel C4  red team framework. The use of Brute Ratel by the Black Basta group was previously  highlighted  by Trend Micro in October 2022, with the software delivered as a second-stage
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27,2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Lifehacks While Analyzing Orcus RAT in a Malware Sandbox<a href="https://thehackernews.com/2023/01/3-lifehacks-while-analyzing-orcus-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orcus  is a Remote Access Trojan with some distinctive characteristics. The RAT allows attackers to create plugins and offers a robust core feature set that makes it quite a dangerous malicious program in its class. RAT is quite a stable type that always makes it to the top. ANY.RUN's top malware types in 2022 That's why you'll definitely come across this type in your practice, and the Orcus family specifically. To simplify your analysis, we have collected 3 lifehacks you should take advantage of. Here we go. What is Orcus RAT?  Definition . Orcus RAT is a type of malicious software program that enables remote access and control of computers and networks. It is a type of Remote Access Trojan (RAT) that has been used by attackers to gain access to and control computers and networks. Capabilities . Once downloaded onto a computer or network, it begins to execute its malicious code, allowing the attacker to gain access and control. It is capable of stealing data, conductin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27,2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Cyber Agency Warns of Russian and Iranian Hackers Targeting Key Industries<a href="https://thehackernews.com/2023/01/british-cyber-agency-warns-of-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Cyber Security Centre (NCSC) on Thursday warned of spear-phishing attacks mounted by Russian and Iranian state-sponsored actors for information-gathering operations. "The attacks are not aimed at the general public but targets in specified sectors, including academia, defense, government organizations, NGOs, think tanks, as well as politicians, journalists and activists," the NCSC  said . The agency attributed the intrusions to  SEABORGIUM  (aka Callisto, COLDRIVER, and TA446) and  APT42  (aka ITG18, TA453, and Yellow Garuda). The similarities in the modus operandi aside, there is no evidence the two groups are collaborating with each other. The activity is typical of spear-phishing campaigns, where the threat actors send messages tailored to the targets, while also taking enough time to research their interests and identify their social and professional circles. The initial contact is designed to appear innocuous in an attempt to gain their trust and c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
