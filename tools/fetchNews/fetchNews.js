@@ -317,7 +317,7 @@ function getTheHackerNews($content, fn) {
 			if(parts.length > 1) {
 	  		var dateStr =  itemLabel.split('</i>')[1].split('</span>')[0];
 	  		parts = dateStr.split(' ');
-      	thisItem.date = shortMonths[parts[0].toUpperCase()]+ ' ' + parts[1] +  parts[2] ;
+      	thisItem.date = shortMonths[parts[0].toUpperCase()]+ ' ' + parts[1] + ' ' +  parts[2] ;
       	thisItem.abstract = $.trim($thisNew.find('.home-desc').text());
       	newItems.push(thisItem);
 			}
