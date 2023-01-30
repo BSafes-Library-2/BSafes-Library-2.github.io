@@ -569,8 +569,9 @@ function readOriginalFile() {
 function readLastDate() {
 	console.log("readLastDate: ");
 	var parts = secodBlock.split('<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">\n');
-	var subParts = parts[1].split(' ');
-	var lastPart = subParts[2].trim();
+	var subParts = parts[1].split(',');
+	var lastPart = subParts[1].trim();
+	subParts = subParts[0].split(' ');
 	var dateString = subParts[0] + ' ' + subParts[1] + ' ' + lastPart.substring(0, 4);
 	console.log(dateString);
 	var thisDate = new Date(dateString);
