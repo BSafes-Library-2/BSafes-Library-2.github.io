@@ -8,6 +8,37 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged member of ShinyHunters group extradited to the US, could face 116 years in jail<a href="https://securityaffairs.com/141489/cyber-crime/shinyhunters-member-extradited-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged member of the ShinyHunters cybercrime gang has been extradited from Morocco to the United States.
+Sebastien Raoult, a French national who is suspected of being a member of ShinyHunters cybercrime gang known as "Seyzo Kaizen," has been extradited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycat Criminals mimicking Lockbit gang in northern Europe<a href="https://securityaffairs.com/141491/cyber-crime/crooks-mimicking-lockbit-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent reports of Lockbit locker-based attacks against North European SMBs indicate that local crooks started using Lockbit locker variants.
+Executive Summary
+During the past months, the Lockbit gang reached very high popularity in the underground...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

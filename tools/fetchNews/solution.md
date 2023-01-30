@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 28,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eliminating SaaS Shadow IT is Now Available via a Self-Service Product, Free of Charge<a href="https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of software as a service (SaaS) is experiencing rapid growth and shows no signs of slowing down. Its decentralized and easy-to-use nature is beneficial for increasing employee productivity, but it also poses many security and IT challenges. Keeping track of all the SaaS applications that have been granted access to an organization's data is a difficult task. Understanding the risks that SaaS applications pose is just as important, but it can be challenging to secure what cannot be seen. Many organizations have implemented access management solutions, but these are limited in visibility to only pre-approved applications. The average medium-sized organization has hundreds, and sometimes thousands, of SaaS applications that have been adopted by employees who needed a quick and easy solution or found a free version, completely bypassing IT and security. This leads to a significant risk as many of these applications do not have the necessary security and/or compliance standard
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

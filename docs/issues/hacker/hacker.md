@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group Killnet targets Germany due to its support to Ukraine<a href="https://securityaffairs.com/141513/hacktivism/killnet-targets-germany.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia group Killnet launched last week DDoS attacks against the websites of German airports,&nbsp;administration bodies, and banks.
+The Pro-Russia group Killnet is behind the DDoS attacks that last week hit the websites of German airports,&nbsp;administration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

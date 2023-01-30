@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three business application security risks businesses need to prepare for in 2023<a href="https://www.helpnetsecurity.com/2023/01/27/business-application-security-risks-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ERP attacks increase this year, more organizations must ensure their security strategy takes these applications into account to keep their sensitive data and files. It's crucial to understand what risks are threatening their ERP applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

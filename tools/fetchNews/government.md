@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 27,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Cyber Agency Warns of Russian and Iranian Hackers Targeting Key Industries<a href="https://thehackernews.com/2023/01/british-cyber-agency-warns-of-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Cyber Security Centre (NCSC) on Thursday warned of spear-phishing attacks mounted by Russian and Iranian state-sponsored actors for information-gathering operations. "The attacks are not aimed at the general public but targets in specified sectors, including academia, defense, government organizations, NGOs, think tanks, as well as politicians, journalists and activists," the NCSC&nbsp; said . The agency attributed the intrusions to&nbsp; SEABORGIUM &nbsp;(aka Callisto, COLDRIVER, and TA446) and&nbsp; APT42 &nbsp;(aka ITG18, TA453, and Yellow Garuda). The similarities in the modus operandi aside, there is no evidence the two groups are collaborating with each other. The activity is typical of spear-phishing campaigns, where the threat actors send messages tailored to the targets, while also taking enough time to research their interests and identify their social and professional circles. The initial contact is designed to appear innocuous in an attempt to gain their trust and c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

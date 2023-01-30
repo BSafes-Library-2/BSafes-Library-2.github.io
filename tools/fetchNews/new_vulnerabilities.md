@@ -8,6 +8,22 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC fixed high-severity flaws in DNS software suite BIND<a href="https://securityaffairs.com/141465/security/isc-fixed-bind-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest BIND updates patch multiple remotely exploitable vulnerabilities that could lead to denial-of-service (DoS).
+BIND is a suite of software for interacting with the Domain Name System (DNS) maintained by the&nbsp;Internet Systems Consortium&nbsp;(ISC).
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

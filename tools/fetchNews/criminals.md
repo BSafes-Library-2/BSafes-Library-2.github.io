@@ -8,6 +8,64 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Thwarts ‘Hive’ Ransomware Scheme<a href="https://www.lawfareblog.com/justice-department-thwarts-hive-ransomware-scheme"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Justice Department announces a successful campaign countering ransomware attacks by the Hive cybercriminal network.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker accused of having stolen personal data of all Austrians and more<a href="https://securityaffairs.com/141439/cyber-crime/hacker-stole-personal-data-austrians.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Dutch hacker who was arrested at the end of last year claims to have stolen the personal data of almost all Austrians.&nbsp;
+At the end of November 2022, the Amsterdam police arrested a 25-year-old man from Almere who is suspected of having stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware gang stole secret military data from an industrial explosives manufacturer<a href="https://securityaffairs.com/141409/data-breach/blackcat-ransomware-solar-industries-india.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat Ransomware group claims to have hacked SOLAR INDUSTRIES INDIA and to have stolen 2TB of "secret military data."
+The BlackCat Ransomware gang added SOLAR INDUSTRIES INDIA to the list of victims published on its Tor leak site. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 27,2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover the Identity of Mastermind Behind Golden Chickens Malware Service<a href="https://thehackernews.com/2023/01/experts-uncover-identity-of-mastermind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered the real-world identity of the threat actor behind&nbsp; Golden Chickens&nbsp; malware-as-a-service, who goes by the online persona "badbullzvenom." eSentire's Threat Response Unit (TRU), in an exhaustive report published following a 16-month-long investigation,&nbsp; said &nbsp;it "found multiple mentions of the badbullzvenom account being shared between two people." The second threat actor, known as Frapstar, is said to identify themselves as "Chuck from Montreal," enabling the cybersecurity firm to piece together the criminal actor's digital footprint. This includes his real name, pictures, home address, the names of his parents, siblings, and friends, along with his social media accounts and his interests. He is also said to be the sole proprietor of a small business that's run from his own home. Golden Chickens, also known as&nbsp; Venom Spider , is a malware-as-a-service (MaaS) provider that's linked to a variet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

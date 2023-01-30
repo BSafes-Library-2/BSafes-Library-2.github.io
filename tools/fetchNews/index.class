@@ -34,7 +34,145 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+January 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Malware Continues to Evolve with New Components and Obfuscations<a href="https://thehackernews.com/2023/01/gootkit-malware-continues-to-evolve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors associated with the Gootkit malware have made "notable changes" to their toolset, adding new components and obfuscations to their infection chains. Google-owned Mandiant is  monitoring  the activity cluster under the moniker  UNC2565 , noting that the usage of the malware is "exclusive to this group." Gootkit , also called Gootloader, is spread through compromised websites that victims are tricked into visiting when searching for business-related documents like agreements and contracts via a technique called search engine optimization (SEO) poisoning. The purported documents take the form of ZIP archives that harbor the JavaScript malware, which, when launched, paves the way for additional payloads such as  Cobalt Strike Beacon , FONELAUNCH, and SNOWCONE. FONELAUNCH is a .NET-based loader designed to load an encoded payload into memory, and SNOWCONE is a downloader that's tasked with retrieving next-stage payloads, typically  IcedID , via
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged member of ShinyHunters group extradited to the US, could face 116 years in jail<a href="https://securityaffairs.com/141489/cyber-crime/shinyhunters-member-extradited-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged member of the ShinyHunters cybercrime gang has been extradited from Morocco to the United States.
+Sebastien Raoult, a French national who is suspected of being a member of ShinyHunters cybercrime gang known as "Seyzo Kaizen," has been extradited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group Killnet targets Germany due to its support to Ukraine<a href="https://securityaffairs.com/141513/hacktivism/killnet-targets-germany.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia group Killnet launched last week DDoS attacks against the websites of German airports, administration bodies, and banks.
+The Pro-Russia group Killnet is behind the DDoS attacks that last week hit the websites of German airports, administration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 404 by Pierluigi Paganini<a href="https://securityaffairs.com/141509/breaking-news/security-affairs-newsletter-round-404-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Copycat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out! Experts plans to release VMware vRealize Log RCE exploit next week<a href="https://securityaffairs.com/141495/hacking/poc-exploit-vmware-vrealize-log-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3's Attack Team made the headlines again announcing the releasse of a PoC exploit code for remote code execution in VMware vRealize Log.
+Researchers from the Horizon3's Attack Team announced the release of PoC exploit code for remote code execution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycat Criminals mimicking Lockbit gang in northern Europe<a href="https://securityaffairs.com/141491/cyber-crime/crooks-mimicking-lockbit-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent reports of Lockbit locker-based attacks against North European SMBs indicate that local crooks started using Lockbit locker variants.
+Executive Summary
+During the past months, the Lockbit gang reached very high popularity in the underground...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm APT targets Ukraine with new SwiftSlicer wiper<a href="https://securityaffairs.com/141473/apt/sandworm-targets-ukraine-swiftslicer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Sandworm APT group is behind a new Golang-based wiper, tracked as SwiftSlicer, that hit Ukraine, ESET reports.
+Researchers from ESET discovered a new Golang-based wiper, dubbed SwiftSlicer, that was used in attacks aimed at Ukraine....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC fixed high-severity flaws in DNS software suite BIND<a href="https://securityaffairs.com/141465/security/isc-fixed-bind-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest BIND updates patch multiple remotely exploitable vulnerabilities that could lead to denial-of-service (DoS).
+BIND is a suite of software for interacting with the Domain Name System (DNS) maintained by the Internet Systems Consortium (ISC).
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Urges Customers to Secure On-Premises Exchange Servers<a href="https://thehackernews.com/2023/01/microsoft-urges-customers-to-secure-on.html"> Full Text</a>
@@ -50,7 +188,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28,2023 -- [Solution](/docs/issues/solution/solution/)<br>
+January 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eliminating SaaS Shadow IT is Now Available via a Self-Service Product, Free of Charge<a href="https://thehackernews.com/2023/01/eliminating-saas-shadow-it-is-now.html"> Full Text</a>
@@ -66,7 +204,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+January 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ISC Releases Security Patches for New BIND DNS Software Vulnerabilities<a href="https://thehackernews.com/2023/01/isc-releases-security-patches-for-new.html"> Full Text</a>
@@ -82,7 +220,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 28,2023 -- [Attack](/docs/issues/attack/attack/)<br>
+January 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Hit with New Golang-based 'SwiftSlicer' Wiper Malware in Latest Cyber Attack<a href="https://thehackernews.com/2023/01/ukraine-hit-with-new-golang-based.html"> Full Text</a>
