@@ -572,7 +572,7 @@ function readLastDate() {
 	var subParts = parts[1].split(',');
 	var lastPart = subParts[1].trim();
 	subParts = subParts[0].split(' ');
-	var dateString = subParts[0] + ' ' + subParts[1] + ' ' + lastPart.substring(0, 4);
+	var dateString = subParts[0].trim() + ' ' + subParts[1].trim() + ' ' + lastPart.substring(0, 4);
 	console.log(dateString);
 	var thisDate = new Date(dateString);
 	console.log(thisDate.toLocaleTimeString());
