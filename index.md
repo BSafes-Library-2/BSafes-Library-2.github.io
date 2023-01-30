@@ -34,6 +34,560 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29,2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Malware Continues to Evolve with New Components and Obfuscations<a href="https://thehackernews.com/2023/01/gootkit-malware-continues-to-evolve.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors associated with the Gootkit malware have made "notable changes" to their toolset, adding new components and obfuscations to their infection chains. Google-owned Mandiant is  monitoring  the activity cluster under the moniker  UNC2565 , noting that the usage of the malware is "exclusive to this group." Gootkit , also called Gootloader, is spread through compromised websites that victims are tricked into visiting when searching for business-related documents like agreements and contracts via a technique called search engine optimization (SEO) poisoning. The purported documents take the form of ZIP archives that harbor the JavaScript malware, which, when launched, paves the way for additional payloads such as  Cobalt Strike Beacon , FONELAUNCH, and SNOWCONE. FONELAUNCH is a .NET-based loader designed to load an encoded payload into memory, and SNOWCONE is a downloader that's tasked with retrieving next-stage payloads, typically  IcedID , via
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged member of ShinyHunters group extradited to the US, could face 116 years in jail<a href="https://securityaffairs.com/141489/cyber-crime/shinyhunters-member-extradited-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged member of the ShinyHunters cybercrime gang has been extradited from Morocco to the United States.
+Sebastien Raoult, a French national who is suspected of being a member of ShinyHunters cybercrime gang known as "Seyzo Kaizen," has been extradited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group Killnet targets Germany due to its support to Ukraine<a href="https://securityaffairs.com/141513/hacktivism/killnet-targets-germany.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia group Killnet launched last week DDoS attacks against the websites of German airports, administration bodies, and banks.
+The Pro-Russia group Killnet is behind the DDoS attacks that last week hit the websites of German airports, administration...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 404 by Pierluigi Paganini<a href="https://securityaffairs.com/141509/breaking-news/security-affairs-newsletter-round-404-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Copycat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watch out! Experts plans to release VMware vRealize Log RCE exploit next week<a href="https://securityaffairs.com/141495/hacking/poc-exploit-vmware-vrealize-log-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3's Attack Team made the headlines again announcing the releasse of a PoC exploit code for remote code execution in VMware vRealize Log.
+Researchers from the Horizon3's Attack Team announced the release of PoC exploit code for remote code execution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycat Criminals mimicking Lockbit gang in northern Europe<a href="https://securityaffairs.com/141491/cyber-crime/crooks-mimicking-lockbit-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent reports of Lockbit locker-based attacks against North European SMBs indicate that local crooks started using Lockbit locker variants.
+Executive Summary
+During the past months, the Lockbit gang reached very high popularity in the underground...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm APT targets Ukraine with new SwiftSlicer wiper<a href="https://securityaffairs.com/141473/apt/sandworm-targets-ukraine-swiftslicer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Sandworm APT group is behind a new Golang-based wiper, tracked as SwiftSlicer, that hit Ukraine, ESET reports.
+Researchers from ESET discovered a new Golang-based wiper, dubbed SwiftSlicer, that was used in attacks aimed at Ukraine....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISC fixed high-severity flaws in DNS software suite BIND<a href="https://securityaffairs.com/141465/security/isc-fixed-bind-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest BIND updates patch multiple remotely exploitable vulnerabilities that could lead to denial-of-service (DoS).
+BIND is a suite of software for interacting with the Domain Name System (DNS) maintained by the Internet Systems Consortium (ISC).
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Benefits and Risks of Extending Weapons Deliveries to the Cyber Domain<a href="https://www.lawfareblog.com/benefits-and-risks-extending-weapons-deliveries-cyber-domain"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While NATO members continue to supply weapons to Ukraine, they should consider the benefits and risks associated with extending these deliveries to include cyber weapons.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Private-Sector Cyber Defense in Armed Conflict<a href="https://www.lawfareblog.com/private-sector-cyber-defense-armed-conflict"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The private sector is playing an integral role in Ukrainian cyber defense in the armed conflict between Russia and Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 29, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense Department Releases Zero Trust Strategy<a href="https://www.lawfareblog.com/defense-department-releases-zero-trust-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Nov. 22, the U.S. Department of Defense released their Zero Trust Strategy, a new approach to countering cyberattacks. The new framework employs a “‘never trust, always verify’” mindset, deviating from the Defense Department’s previously used perimeter defense model. The strategy is prompted by the “rapid growth” of offensive cyber threats and aims to fully implement the department-wide model by fiscal year 2027.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Keeping Up With Ransomware<a href="https://www.lawfareblog.com/keeping-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent meeting of the International Counter Ransomware Initiative brought together representatives from over 30 countries and the private sector. It’s a good step in responding to different aspects of the ransomware threat, but the initiative seems to struggle to prevent future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Norms in the Context of Armed Conflict<a href="https://www.lawfareblog.com/cyber-norms-context-armed-conflict"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+United Nations norms related to nation-state cyberspace operations clearly apply during peacetime, but recent events in Ukraine and Russia raise challenges regarding those norms’ applicability in armed conflict.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Securing Open Source Software Act Is Good, but Whatever Happened to Legal Liability?<a href="https://www.lawfareblog.com/securing-open-source-software-act-good-whatever-happened-legal-liability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent introduction of the Securing Open Source Software Act, and its subsequent momentum, has stoked a debate about the true reason for the open source security problem and the merits of different solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Americas: Cross-Border Data Requests Post-Dobbs<a href="https://www.lawfareblog.com/two-americas-cross-border-data-requests-post-dobbs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the Supreme Court’s abortion ruling in Dobbs this past June, cross-border data requests between states for abortion-related investigations may start to resemble cross-border requests between countries and trigger new conflicts of law.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Cyclops Blink’ Shows Why the SEC’s Proposed Cybersecurity Disclosure Rule Could Undermine the Nation’s Cybersecurity<a href="https://www.lawfareblog.com/cyclops-blink-shows-why-secs-proposed-cybersecurity-disclosure-rule-could-undermine-nations"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Well-timed public notification is a critical component of proper incident response. But mandating premature disclosure is irresponsible and would imperil public-private coordination focused on protecting the nation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Are Selling Access to Chinese Surveillance Cameras<a href="https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Whistleblower Complaint: The TL;DR Version<a href="https://threatpost.com/twitter-whistleblower-tldr-version/180472/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a national security risk. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firewall Bug Under Active Attack Triggers CISA Warning<a href="https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Reservation Links Prey on Weary Travelers<a href="https://threatpost.com/reservation-links-prey-on-travelers/180462/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels. 
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhone Users Urged to Update to Patch 2 Zero-Days<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.
+</details>
+<div style="text-align: right" markdown="1">
+Threatpost
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Operations and Maschmeyer’s “Subversion Trilemma”<a href="https://www.lawfareblog.com/cyber-operations-and-maschmeyers-subversion-trilemma"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subversive cyber operations are argued to have “limited utility in practice” because of the inherent trade-offs of the trilemma/quadrilemma. However, this assessment ignores several key factors.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infiltrate, Exploit, Manipulate: Why the Subversive Nature of Cyber Conflict Explains Both Its Strategic Promise and Its Limitations<a href="https://www.lawfareblog.com/infiltrate-exploit-manipulate-why-subversive-nature-cyber-conflict-explains-both-its-strategic"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber operations are not novel, nor is their impact revolutionary. They are instruments of subversion that promise great gains in theory but are constrained in practice by a crippling operational trilemma that limits strategic value.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack Global, Buy Local: The Inefficiencies of the Zero-Day Exploit Market<a href="https://www.lawfareblog.com/hack-global-buy-local-inefficiencies-zero-day-exploit-market"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why the market for zero-day exploits is less efficient and more local than you might think.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Has the Time for an EU-U.S. Agreement on E-Evidence Come and Gone?<a href="https://www.lawfareblog.com/has-time-eu-us-agreement-e-evidence-come-and-gone"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legislative deadlock in Brussels risks the future of U.S.-EU negotiations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Effects of Digital Transnational Repression and the Responsibility of Host States<a href="https://www.lawfareblog.com/effects-digital-transnational-repression-and-responsibility-host-states"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital transnational repression has a chilling effect on exiled and diaspora activists and dissidents who find themselves repressed by authoritarian states, even in places where they assumed they had a relative degree of safety and freedom.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Emergence of Physically Mediated Cyberattacks?<a href="https://www.lawfareblog.com/emergence-physically-mediated-cyberattacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Physical violence against personnel in lawless environments as an element of cyberattack is another dimension of cyber conflict, and its importance has been neglected for way too long.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2022
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Shield 2.0 —Third Time’s the Charm?<a href="https://www.lawfareblog.com/privacy-shield-20%E2%80%86%E2%80%94third-times-charm"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What commitments has the United States made in the recent Trans-Atlantic Data Privacy Framework? And will those reforms be enough to pass muster when this next agreement goes before the Court of Justice for the European Union?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Towards OECD Principles for Government Access to Data<a href="https://www.lawfareblog.com/towards-oecd-principles-government-access-data"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nascent OECD work to identify principles on government access to data for law enforcement and national security purposes can have important normative significance but also faces political hurdles.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K.’s Post-Brexit Strategy on Cross-Border Data Flows<a href="https://www.lawfareblog.com/uks-post-brexit-strategy-cross-border-data-flows"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Aug. 25, the U.K. Department for Digital, Culture, Media & Sport (DCMS) released important details about its post-Brexit strategy for cross-border flows of personal data. What's in the release?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a Norwegian Government Report Shows the Limits of CFIUS Data Reviews<a href="https://www.lawfareblog.com/how-norwegian-government-report-shows-limits-cfius-data-reviews"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CFIUS forced a Chinese firm to sell Grindr in 2019. Yet the application is sharing data widely today, including to a company in China.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Brokers and National Security<a href="https://www.lawfareblog.com/data-brokers-and-national-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Policymakers have paid scant consideration to the national security implications of unfettered, largely unregulated data brokering. That may be changing.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Multilateral Surveillance Accord: Setting the Table<a href="https://www.lawfareblog.com/multilateral-surveillance-accord-setting-table"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stakeholders are increasingly advocating for a multilateral accord on government surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2021
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Privacy Law and U.S. Surveillance: Solving the Problem of Transatlantic Data Transfers<a href="https://www.lawfareblog.com/eu-privacy-law-and-us-surveillance-solving-problem-transatlantic-data-transfers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most current approaches to resolving the EU-U.S. conflict fall short. It’s time for a hybrid approach.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 28,2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
