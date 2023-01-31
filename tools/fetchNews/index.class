@@ -34,6 +34,251 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK-Based JD Sports Details Data Breach Affecting 10 Million Customers<a href="https://www.bankinfosecurity.com/jd-sports-details-data-breach-affecting-10-million-customers-a-21045?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company says the breach stems from a system containing customer data "relating to some online orders placed between November 2018 and October 2020" and that customers are at risk from scammers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Titan Stealer: A New Golang-Based Information Stealer Malware Emerges<a href="https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based information stealer malware dubbed  Titan Stealer  is being advertised by threat actors through their Telegram channel. "The stealer is capable of stealing a variety of information from infected Windows machines, including credential data from browsers and crypto wallets, FTP client details, screenshots, system information, and grabbed files," Uptycs security researchers Karthickkumar Kathiresan and Shilpesh Trivedi  said  in a recent report. Details of the malware were  first documented  by cybersecurity researcher Will Thomas (@BushidoToken) in November 2022 by querying the IoT search engine Shodan. Titan is offered as a builder, enabling customers to customize the malware binary to include specific functionalities and the kind of information to be exfiltrated from a victim's machine. The malware, upon execution, employs a technique known as  process hollowing  to inject the malicious payload into the memory of a legitimate process known as AppLa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP addresses a critical flaw impacting its NAS devices<a href="https://securityaffairs.com/141588/iot/qnap-addresses-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP is warning customers to install QTS and QuTS firmware updates to address a critical flaw impacting its NAS devices.
+QNAP released QTS and QuTS firmware updates to address a critical vulnerability, tracked as CVE-2022-27596...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated security CyberTech Hadrian receives ABN AMRO backing<a href="https://fintech.global/2023/01/27/automated-security-cybertech-hadrian-receives-abn-amro-backing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the investment, ABN AMRO will integrate Hadrian technology into its platform. The company stated it has formed tens of thousands of digital endpoints as it has grown its digital infrastructure over the years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realtek Vulnerability Under Attack: Over 134 Million Attempts to Hack IoT Devices<a href="https://thehackernews.com/2023/01/realtek-vulnerability-under-attack-134.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are warning about a spike in exploitation attempts weaponizing a critical remote code execution flaw in Realtek Jungle SDK since the start of August 2022. According to Palo Alto Networks Unit 42, the ongoing campaign is said to have recorded 134 million exploit attempts as of December 2022, with 97% of the attacks occurring in the past four months. Close to 50% of the attacks originated from the U.S. (48.3%), followed by Vietnam (17.8%), Russia (14.6%), The Netherlands (7.4%), France (6.4%), Germany (2.3%0, and Luxembourg (1.6%). What's more, 95% of the attacks leveraging the security shortcoming that emanated from Russia singled out organizations in Australia. "Many of the attacks we observed tried to deliver malware to infect vulnerable IoT devices," Unit 42 researchers  said  in a report, adding "threat groups are using this vulnerability to carry out large-scale attacks on smart devices around the world." The vulnerability in question is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JD Sports discloses a data breach impacting 10 million customers<a href="https://securityaffairs.com/141580/data-breach/jd-sports-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports fashion retail JD Sports discloses a data breach that explosed data of about 10M customers who placed orders between 2018 and 2020.
+UK sports fashion chain JD Sports disclosed a data breach that exposed customer data from orders placed between...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Copycat Criminals Mimicking Lockbit Ransomware Gang in Northern Europe<a href="https://securityaffairs.com/141491/cyber-crime/crooks-mimicking-lockbit-gang.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite not being the true LockBit Locker group, these micro criminals were still able to cause significant damage by encrypting a large number of internal files at SMBs in Belgium.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher received a $27,000 bounty for 2FA bypass bug in Facebook and Instagram<a href="https://securityaffairs.com/141571/social-networks/facebook-instagram-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher disclosed technical details of a two-factor authentication bypass vulnerability affecting Instagram and Facebook.
+The researcher Gtm Manoz received a $27,000 bug bounty for having reported a two-factor authentication bypass vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Awards $27,000 Bounty for 2FA Bypass Vulnerability<a href="https://www.securityweek.com/meta-awards-27000-bounty-for-2fa-bypass-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Gtm Manoz from Nepal discovered in September 2022 that a system designed by Meta for confirming a phone number and email address did not have any rate-limiting protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm APT group hit Ukrainian news agency with five data wipers<a href="https://securityaffairs.com/141561/cyber-warfare-2/sandworm-apt-uses-5-wipers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian (CERT-UA) discovered five different wipers deployed on the network of the country's national news agency, Ukrinform.
+On January 17, 2023, the Telegram channel "CyberArmyofRussia_Reborn" reported the compromise of the systems at the Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Malware Evolves with New Components and Obfuscations<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gootkit runs on an access-a-as-a-service model used by different groups to drop additional malicious payloads on compromised systems. It has been known to use fileless techniques to deliver threats such as SunCrypt, REvil, Kronos, and Cobalt Strike.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2565 threat actors continue to improve the GOOTLOADER malware<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the GOOTLOADER malware continues to improve their code by adding new components and implementing new obfuscation techniques.
+Mandiant researchers reported that the UNC2565 group behind the GOOTLOADER malware (aka Gootkit)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside TikTok’s proposal to address US national security concerns<a href="https://cyberscoop.com/tiktok-national-security-cfius/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Under the terms of the proposal, TikTok would divulge core segments of its technology to Oracle and a set of third-party auditors who would verify that it is not promoting content in line with Beijing’s wishes or sharing U.S. user data with China.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insider attacks becoming more frequent, more difficult to detect<a href="https://www.helpnetsecurity.com/2023/01/30/detect-insider-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Gurucul report found that organizations have never felt more vulnerable with three-quarters of respondents saying they feel moderately to extremely vulnerable to insider threats – an increase of 8% over the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Godfather Banking Trojan Expands Application Targeting to Affect More Europe-Based Victims<a href="https://securityboulevard.com/2023/01/the-godfather-banking-trojan-expands-application-targeting-to-affect-more-europe-based-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most notable features of Godfather malware are bypassing 2FA by capturing SMS texts or notifications and executing itself as an Android service by abusing Accessibility Services to keep persistent and privileged access on infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP addresses a critical flaw impacting its NAS devices<a href="https://securityaffairs.com/141588/iot/qnap-addresses-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP is warning customers to install QTS and QuTS&nbsp;firmware updates to address a critical flaw impacting its NAS devices.
+QNAP released QTS and QuTS&nbsp;firmware updates to address a critical vulnerability, tracked as CVE-2022-27596...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realtek Vulnerability Under Attack: Over 134 Million Attempts to Hack IoT Devices<a href="https://thehackernews.com/2023/01/realtek-vulnerability-under-attack-134.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers are warning about a spike in exploitation attempts weaponizing a critical remote code execution flaw in Realtek Jungle SDK since the start of August 2022. According to Palo Alto Networks Unit 42, the ongoing campaign is said to have recorded 134 million exploit attempts as of December 2022, with 97% of the attacks occurring in the past four months. Close to 50% of the attacks originated from the U.S. (48.3%), followed by Vietnam (17.8%), Russia (14.6%), The Netherlands (7.4%), France (6.4%), Germany (2.3%0, and Luxembourg (1.6%). What's more, 95% of the attacks leveraging the security shortcoming that emanated from Russia singled out organizations in Australia. "Many of the attacks we observed tried to deliver malware to infect vulnerable IoT devices," Unit 42 researchers&nbsp; said &nbsp;in a report, adding "threat groups are using this vulnerability to carry out large-scale attacks on smart devices around the world." The vulnerability in question is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher received a $27,000 bounty for 2FA bypass bug in Facebook and Instagram<a href="https://securityaffairs.com/141571/social-networks/facebook-instagram-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher disclosed technical details of a two-factor authentication bypass vulnerability affecting Instagram and Facebook.
+The researcher Gtm Manoz received a $27,000 bug bounty for having reported a two-factor authentication bypass vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Awards $27,000 Bounty for 2FA Bypass Vulnerability<a href="https://www.securityweek.com/meta-awards-27000-bounty-for-2fa-bypass-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Gtm Manoz from Nepal discovered in September 2022 that a system designed by Meta for confirming a phone number and email address did not have any rate-limiting protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

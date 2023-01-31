@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm APT targets Ukraine with new SwiftSlicer wiper<a href="https://securityaffairs.com/141473/apt/sandworm-targets-ukraine-swiftslicer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked Sandworm APT group is behind a new Golang-based wiper, tracked as SwiftSlicer, that hit Ukraine, ESET reports.
+Researchers from ESET discovered a new Golang-based wiper, dubbed SwiftSlicer, that was used in attacks aimed at Ukraine....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

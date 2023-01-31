@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK-Based JD Sports Details Data Breach Affecting 10 Million Customers<a href="https://www.bankinfosecurity.com/jd-sports-details-data-breach-affecting-10-million-customers-a-21045?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Titan Stealer: A New Golang-Based Information Stealer Malware Emerges<a href="https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP addresses a critical flaw impacting its NAS devices<a href="https://securityaffairs.com/141588/iot/qnap-addresses-critical-flaw.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automated security CyberTech Hadrian receives ABN AMRO backing<a href="https://fintech.global/2023/01/27/automated-security-cybertech-hadrian-receives-abn-amro-backing/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Realtek Vulnerability Under Attack: Over 134 Million Attempts to Hack IoT Devices<a href="https://thehackernews.com/2023/01/realtek-vulnerability-under-attack-134.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JD Sports discloses a data breach impacting 10 million customers<a href="https://securityaffairs.com/141580/data-breach/jd-sports-data-breach.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Copycat Criminals Mimicking Lockbit Ransomware Gang in Northern Europe<a href="https://securityaffairs.com/141491/cyber-crime/crooks-mimicking-lockbit-gang.html?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher received a $27,000 bounty for 2FA bypass bug in Facebook and Instagram<a href="https://securityaffairs.com/141571/social-networks/facebook-instagram-bug.html"> Full Text</a>
@@ -165,7 +165,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Awards $27,000 Bounty for 2FA Bypass Vulnerability<a href="https://www.securityweek.com/meta-awards-27000-bounty-for-2fa-bypass-vulnerability/?&web_view=true"> Full Text</a>
@@ -181,7 +181,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandworm APT group hit Ukrainian news agency with five data wipers<a href="https://securityaffairs.com/141561/cyber-warfare-2/sandworm-apt-uses-5-wipers.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Malware Evolves with New Components and Obfuscations<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC2565 threat actors continue to improve the GOOTLOADER malware<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside TikTok’s proposal to address US national security concerns<a href="https://cyberscoop.com/tiktok-national-security-cfius/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insider attacks becoming more frequent, more difficult to detect<a href="https://www.helpnetsecurity.com/2023/01/30/detect-insider-attacks/?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Godfather Banking Trojan Expands Application Targeting to Affect More Europe-Based Victims<a href="https://securityboulevard.com/2023/01/the-godfather-banking-trojan-expands-application-targeting-to-affect-more-europe-based-victims/?&web_view=true"> Full Text</a>

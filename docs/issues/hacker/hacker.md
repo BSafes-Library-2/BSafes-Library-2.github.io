@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC2565 threat actors continue to improve the GOOTLOADER malware<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the GOOTLOADER malware continues to improve their code by adding new components and implementing new obfuscation techniques.
+Mandiant researchers reported that the UNC2565 group behind the GOOTLOADER malware (aka Gootkit)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
