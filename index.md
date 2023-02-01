@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Additional Supply Chain Vulnerabilities Uncovered in AMI MegaRAC BMC Software<a href="https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two more supply chain security flaws have been disclosed in AMI MegaRAC Baseboard Management Controller (BMC) software, nearly two months after  three security vulnerabilities  were brought to light in the same product. Firmware security firm Eclypsium  said  the two shortcomings were held back until now to provide AMI additional time to engineer appropriate mitigations. The issues, collectively tracked as  BMC&C , could act as springboard for cyber attacks, enabling threat actors to obtain remote code execution and unauthorized device access with superuser permissions. The two new flaws in question are as follows - CVE-2022-26872  (CVSS score: 8.3) - ​​Password reset interception via API CVE-2022-40258  (CVSS score: 5.3) - Weak password hashes for Redfish and API Specifically, MegaRAC has been found to use the MD5 hashing algorithm with a global salt for older devices, or  SHA-512 with per user salts  on newer appliances, potentially allowing a threat actor to crack the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 31, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
