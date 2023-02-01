@@ -34,7 +34,284 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guardz Emerges From Stealth Mode With $10 Million in Funding<a href="https://www.securityweek.com/guardz-emerges-from-stealth-mode-with-10-million-in-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Guardz today emerged from stealth mode with $10 million raised in a seed funding round led by Hanaco Ventures, with additional investment from iAngels, Cyverse Capital, and GKFF Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You Don't Know Where Your Secrets Are<a href="https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Do you know where your secrets are? If not, I can tell you: you are not alone. Hundreds of CISOs, CSOs, and security leaders, whether from small or large companies, don't know either. No matter the organization's size, the certifications, tools, people, and processes: secrets are not visible in 99% of cases. It might sound ridiculous at first: keeping secrets is an obvious first thought when thinking about security in the development lifecycle. Whether in the cloud or on-premise, you know that your secrets are safely stored behind hard gates that few people can access. It is not just a matter of common sense since it's also an essential compliance requirement for security audits and certifications. Developers working in your organization are well-aware that secrets should be handled with special care. They have put in place specific tools and procedures to correctly create, communicate, and rotate human or machine credentials. Still, do you know where your secrets are?
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Army of Ukraine gained access to a 1.5GB archive from Gazprom<a href="https://securityaffairs.com/141640/hacktivism/it-army-of-ukraine-hacked-gazprom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT Army of Ukraine claims to have breached the infrastructure of the Russian energy giant Gazprom and had access to a 1.5 GB archive.
+The collective IT Army of Ukraine announced it has gained access to a 1.5 GB archive belonging to the Russian energy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GOOTLOADER Variant Evolves Further with New Obfuscation Tricks<a href="https://cyware.com/news/new-gootloader-variant-evolves-further-with-new-obfuscation-tricks-ba91eb8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UNC2565 hacker group appears to have restructured its GOOTLOADER (or Gootkit) malware by adding new components and implementing new obfuscation techniques. Gootkit is used by adversaries to drop additional malicious payloads, such as SunCrypt, REvil (Sodinokibi) ransomware, Kronos trojan, and C ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Reveals NikoWiper Malware That Targeted Ukraine Energy Sector<a href="https://thehackernews.com/2023/01/new-report-reveals-nikowiper-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-affiliated Sandworm used yet another wiper malware strain dubbed  NikoWiper  as part of an attack that took place in October 2022 targeting an energy sector company in Ukraine. "The NikoWiper is based on  SDelete , a command line utility from Microsoft that is used for securely deleting files," cybersecurity company ESET  revealed  in its latest APT Activity Report shared with The Hacker News. The Slovak cybersecurity firm said the attacks coincided with  missile strikes  orchestrated by the Russian armed forces aimed at the Ukrainian energy infrastructure, suggesting overlaps in objectives. The disclosure comes merely days after ESET attributed Sandworm to a Golang-based data wiper known as  SwiftSlicer  that was deployed against an unnamed Ukrainian entity on January 25, 2023. The advanced persistent threat (APT) group linked to Russia's foreign military intelligence agency GRU has also been implicated in a partially successful attack targeting national
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released VMware vRealize Log RCE exploit for CVE-2022-31706<a href="https://securityaffairs.com/141628/hacking/vmware-vrealize-log-rce-poc-resealed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horizon3 security researchers released proof-of-concept (PoC) code for VMware vRealize Log Insight RCE vulnerability CVE-2022-31706.
+Last week, researchers from Horizon3’s Attack Team announced the release of PoC exploit code for remote code execution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saviynt Raises $205M; Founder Rejoins as CEO<a href="https://www.securityweek.com/saviynt-raises-205m-founder-rejoins-as-ceo/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding brings the total raised by the California company to $375 million and provides a growth-mode runway for Saviynt to establish a foothold in a very competitive marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Packer Used by Several Malware to Evade Detection for 6 Years<a href="https://thehackernews.com/2023/01/researchers-uncover-packer-that-helped.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A shellcode-based  packer  dubbed  TrickGate  has been successfully operating without attracting notice for over six years, while enabling threat actors to deploy a wide range of malware such as TrickBot, Emotet, AZORult, Agent Tesla, FormBook, Cerber, Maze, and REvil over the years. "TrickGate managed to stay under the radar for years because it is transformative – it undergoes changes periodically," Check Point Research's Arie Olshtein  said , calling it a "master of disguises." Offered as a service to other threat actors since at least late 2016, TrickGate helps conceal payloads behind a layer of wrapper code in an attempt to get past security solutions installed on a host. Packers can also function as crypters by encrypting the malware as an obfuscation mechanism. "Packers have different features that allow them to circumvent detection mechanisms by appearing as benign files, being difficult to reverse engineer, or incorporating sandbox evasion tec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub to revoke stolen code signing certificates for GitHub Desktop and Atom<a href="https://securityaffairs.com/141617/data-breach/github-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub confirmed that threat actors exfiltrated encrypted code signing certificates for some versions of GitHub Desktop for Mac and Atom apps.
+GitHub this week disclosed a security breach, threat actors exfiltrated encrypted code signing certificates...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charter Communications says vendor breach exposed some customer data<a href="https://therecord.media/telecom-giant-charter-communications-says-third-party-vendor-had-security-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunications company Charter Communications said one of its third-party vendors suffered from a security breach after data from the company showed up on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Fixes Critical Vulnerability in NAS Devices with Latest Security Updates<a href="https://thehackernews.com/2023/01/qnap-fixes-critical-vulnerability-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP has released updates to remediate a critical security flaw affecting its network-attached storage (NAS) devices that could lead to arbitrary code injection. Tracked as  CVE-2022-27596 , the vulnerability is rated 9.8 out of a maximum of 10 on the CVSS scoring scale. It affects QTS 5.0.1 and QuTS hero h5.0.1. "If exploited, this vulnerability allows remote attackers to inject malicious code," QNAP  said  in an advisory released Monday. The exact technical specifics surrounding the flaw are unclear, but the NIST National Vulnerability Database (NVD) has categorized it as an SQL injection vulnerability. This means an attacker could send specially crafted SQL queries such that they could be weaponized to bypass security controls and access or alter valuable information. "Just as it may be possible to read sensitive information, it is also possible to make changes or even delete this information with a SQL injection attack," according to  MI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestine hackers threaten Israeli chemical companies<a href="https://securityaffairs.com/141609/cyber-warfare-2/cyber-attacks-israeli-chemical-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Israeli chemical companies operating in the occupied territories, security experts warn.
+Threat actors have launched a massive hacking campaign aimed at Israeli chemical companies operating in the occupied territories....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS, AHA Warn of Surge in Russian DDoS Attacks on US Healthcare Sector Entities<a href="https://www.bankinfosecurity.com/hhs-aha-warn-surge-in-russian-ddos-attacks-on-hospitals-a-21050?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. government and industry authorities are warning the healthcare sector of a surge in distributed denial-of-service attacks in recent days against hospitals and other medical entities instigated by Russian nuisance hacking group KillNet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Breach: Hackers Stole Code-Signing Certificates for GitHub Desktop and Atom<a href="https://thehackernews.com/2023/01/github-breach-hackers-stole-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Monday disclosed that unknown threat actors managed to exfiltrate encrypted code signing certificates pertaining to some versions of GitHub Desktop for Mac and Atom apps. As a result, the company is  taking the step  of revoking the exposed certificates out of abundance of caution. The following versions of GitHub Desktop for Mac have been invalidated: 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6, 3.0.7, 3.0.8, 3.1.0, 3.1.1, and 3.1.2. Versions 1.63.0 and 1.63.1 of 1.63.0 of Atom are also expected to stop working as of February 2, 2023, requiring that users downgrade to a  previous version  (1.60.0) of the source code editor. Atom was officially discontinued in December 2022. GitHub Desktop for Windows is not affected. The Microsoft-owned subsidiary said it detected unauthorized access to a set of repositories, including those from deprecated GitHub-owned organizations, used in the planning and development of GitHub Desktop and Atom on December 7, 2022. The repositories are said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group Killnet targets US healthcare with DDoS attacks<a href="https://securityaffairs.com/141598/hacktivism/killnet-ddos-us-healthcare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pro-Russia group Killnet is launching a series of DDoS attacks against the websites of US healthcare organizations and hospitals.
+The Pro-Russia group Killnet launched a series of DDoS attacks against US healthcare organizations and hospitals....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Targeted via New Waves of Data Wipers, Including SwiftSlicer<a href="https://cyware.com/news/ukraine-targeted-via-new-waves-of-data-wipers-including-swiftslicer-6b1c62a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lot has happened on the cyber front in Ukraine and Russia ever since the war began. Joining the bandwagon, on the behalf of Russian Sandworm APT, is a pack of five wiper malware, including the new Golang-based SwiftSlicer. The new wiper has been added to the VirusTotal database recently (sub ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Denial-of-Service Vulnerability Patched in Open5GS GTP Library<a href="https://www.synopsys.com/blogs/software-security/cyrc-advisory-open5gs-gtp-library/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to insufficient length validation in the Open5GS GTP library when parsing extension headers in GPRS tunneling protocol (GPTv1-U) messages, a protocol payload with any extension header length set to zero causes an infinite loop.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK-Based JD Sports Details Data Breach Affecting 10 Million Customers<a href="https://www.bankinfosecurity.com/jd-sports-details-data-breach-affecting-10-million-customers-a-21045?&web_view=true"> Full Text</a>
@@ -50,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Titan Stealer: A New Golang-Based Information Stealer Malware Emerges<a href="https://thehackernews.com/2023/01/titan-stealer-new-golang-based.html"> Full Text</a>
@@ -66,7 +343,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP addresses a critical flaw impacting its NAS devices<a href="https://securityaffairs.com/141588/iot/qnap-addresses-critical-flaw.html"> Full Text</a>
@@ -83,7 +360,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automated security CyberTech Hadrian receives ABN AMRO backing<a href="https://fintech.global/2023/01/27/automated-security-cybertech-hadrian-receives-abn-amro-backing/?&web_view=true"> Full Text</a>
@@ -99,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Realtek Vulnerability Under Attack: Over 134 Million Attempts to Hack IoT Devices<a href="https://thehackernews.com/2023/01/realtek-vulnerability-under-attack-134.html"> Full Text</a>
@@ -115,7 +392,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JD Sports discloses a data breach impacting 10 million customers<a href="https://securityaffairs.com/141580/data-breach/jd-sports-data-breach.html"> Full Text</a>
@@ -132,7 +409,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Copycat Criminals Mimicking Lockbit Ransomware Gang in Northern Europe<a href="https://securityaffairs.com/141491/cyber-crime/crooks-mimicking-lockbit-gang.html?&web_view=true"> Full Text</a>
@@ -148,7 +425,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher received a $27,000 bounty for 2FA bypass bug in Facebook and Instagram<a href="https://securityaffairs.com/141571/social-networks/facebook-instagram-bug.html"> Full Text</a>
@@ -165,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Awards $27,000 Bounty for 2FA Bypass Vulnerability<a href="https://www.securityweek.com/meta-awards-27000-bounty-for-2fa-bypass-vulnerability/?&web_view=true"> Full Text</a>
@@ -181,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandworm APT group hit Ukrainian news agency with five data wipers<a href="https://securityaffairs.com/141561/cyber-warfare-2/sandworm-apt-uses-5-wipers.html"> Full Text</a>
@@ -198,7 +475,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Malware Evolves with New Components and Obfuscations<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html?&web_view=true"> Full Text</a>
@@ -214,7 +491,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC2565 threat actors continue to improve the GOOTLOADER malware<a href="https://securityaffairs.com/141539/malware/gootloader-malware-evolution.html"> Full Text</a>
@@ -231,7 +508,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside TikTok’s proposal to address US national security concerns<a href="https://cyberscoop.com/tiktok-national-security-cfius/?&web_view=true"> Full Text</a>
@@ -247,7 +524,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insider attacks becoming more frequent, more difficult to detect<a href="https://www.helpnetsecurity.com/2023/01/30/detect-insider-attacks/?&web_view=true"> Full Text</a>
@@ -263,7 +540,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2023
+January 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Godfather Banking Trojan Expands Application Targeting to Affect More Europe-Based Victims<a href="https://securityboulevard.com/2023/01/the-godfather-banking-trojan-expands-application-targeting-to-affect-more-europe-based-victims/?&web_view=true"> Full Text</a>
