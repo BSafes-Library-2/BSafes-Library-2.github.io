@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS, AHA Warn of Surge in Russian DDoS Attacks on US Healthcare Sector Entities<a href="https://www.bankinfosecurity.com/hhs-aha-warn-surge-in-russian-ddos-attacks-on-hospitals-a-21050?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. government and industry authorities are warning the healthcare sector of a surge in distributed denial-of-service attacks in recent days against hospitals and other medical entities instigated by Russian nuisance hacking group KillNet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

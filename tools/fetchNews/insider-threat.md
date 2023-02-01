@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insider attacks becoming more frequent, more difficult to detect<a href="https://www.helpnetsecurity.com/2023/01/30/detect-insider-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Gurucul report found that organizations have never felt more vulnerable with three-quarters of respondents saying they feel moderately to extremely vulnerable to insider threats – an increase of 8% over the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

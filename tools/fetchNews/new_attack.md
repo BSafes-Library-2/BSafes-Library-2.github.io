@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Targeted via New Waves of Data Wipers, Including SwiftSlicer<a href="https://cyware.com/news/ukraine-targeted-via-new-waves-of-data-wipers-including-swiftslicer-6b1c62a1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A lot has happened on the cyber front in Ukraine and Russia ever since the war began. Joining the bandwagon, on the behalf of Russian Sandworm APT, is a pack of five wiper malware, including the new Golang-based SwiftSlicer.&nbsp;The new wiper has been added to the VirusTotal database recently (sub ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

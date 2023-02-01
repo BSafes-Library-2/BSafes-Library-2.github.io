@@ -8,6 +8,64 @@ nav_order: 900029
 
 ## Breach
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT Army of Ukraine gained access to a 1.5GB archive from Gazprom<a href="https://securityaffairs.com/141640/hacktivism/it-army-of-ukraine-hacked-gazprom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT Army of Ukraine claims to have breached the infrastructure of the Russian energy giant Gazprom and had access to a 1.5 GB archive.
+The collective IT Army of Ukraine announced it has gained access to a 1.5 GB archive belonging to the Russian energy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub to revoke stolen code signing certificates for GitHub Desktop and Atom<a href="https://securityaffairs.com/141617/data-breach/github-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub confirmed that threat actors exfiltrated encrypted code signing certificates for some versions of GitHub Desktop for Mac and Atom apps.
+GitHub this week disclosed a security breach, threat actors exfiltrated encrypted code signing certificates...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charter Communications says vendor breach exposed some customer data<a href="https://therecord.media/telecom-giant-charter-communications-says-third-party-vendor-had-security-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunications company Charter Communications said one of its third-party vendors suffered from a security breach after data from the company showed up on a hacking forum.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Breach: Hackers Stole Code-Signing Certificates for GitHub Desktop and Atom<a href="https://thehackernews.com/2023/01/github-breach-hackers-stole-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub on Monday disclosed that unknown threat actors managed to exfiltrate encrypted code signing certificates pertaining to some versions of GitHub Desktop for Mac and Atom apps. As a result, the company is&nbsp; taking the step &nbsp;of revoking the exposed certificates out of abundance of caution. The following versions of GitHub Desktop for Mac have been invalidated: 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6, 3.0.7, 3.0.8, 3.1.0, 3.1.1, and 3.1.2. Versions 1.63.0 and 1.63.1 of 1.63.0 of Atom are also expected to stop working as of February 2, 2023, requiring that users downgrade to a&nbsp; previous version &nbsp;(1.60.0) of the source code editor. Atom was officially discontinued in December 2022. GitHub Desktop for Windows is not affected. The Microsoft-owned subsidiary said it detected unauthorized access to a set of repositories, including those from deprecated GitHub-owned organizations, used in the planning and development of GitHub Desktop and Atom on December 7, 2022. The repositories are said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

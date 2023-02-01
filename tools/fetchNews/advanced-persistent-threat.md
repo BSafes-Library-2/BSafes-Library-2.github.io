@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm APT group hit Ukrainian news agency with five data wipers<a href="https://securityaffairs.com/141561/cyber-warfare-2/sandworm-apt-uses-5-wipers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian (CERT-UA) discovered five different wipers deployed on the network of the country's national news agency, Ukrinform.
+On January 17, 2023, the Telegram channel "CyberArmyofRussia_Reborn" reported the compromise of the systems at the Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

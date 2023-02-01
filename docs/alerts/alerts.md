@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2023 - AHA  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HC3 TLP Clear Analyst Note: Pro-Russian Hacktivist Group Threat to HPH Sector January 30, 2023 <a href="https://www.aha.org/cybersecurity-government-intelligence-reports/2023-01-30-hc3-tlp-clear-analyst-note-pro-russian-hacktivist-group-threat-hph"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacktivist group ‘KillNet’—has targeted the U.S. healthcare industry in the past and is actively targeting the health and public health sector. The group is known to launch DDoS attacks and operates multiple public channels aimed at recruitment and garnering attention from these attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 26, 2023 - NCSC, UK
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

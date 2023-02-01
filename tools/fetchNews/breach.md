@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK-Based JD Sports Details Data Breach Affecting 10 Million Customers<a href="https://www.bankinfosecurity.com/jd-sports-details-data-breach-affecting-10-million-customers-a-21045?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company says the breach stems from a system containing customer data "relating to some online orders placed between November 2018 and October 2020" and that customers are at risk from scammers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JD Sports discloses a data breach impacting 10 million customers<a href="https://securityaffairs.com/141580/data-breach/jd-sports-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sports fashion retail JD Sports discloses a data breach that explosed data of about 10M customers who placed orders between 2018 and 2020.
+UK sports fashion chain JD Sports disclosed a data breach that exposed customer data from orders placed between...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

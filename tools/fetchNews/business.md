@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automated security CyberTech Hadrian receives ABN AMRO backing<a href="https://fintech.global/2023/01/27/automated-security-cybertech-hadrian-receives-abn-amro-backing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the investment, ABN AMRO will integrate Hadrian technology into its platform. The company stated it has formed tens of thousands of digital endpoints as it has grown its digital infrastructure over the years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
