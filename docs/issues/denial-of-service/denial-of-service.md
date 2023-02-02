@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian DDoS attacks raise alarm in Denmark, U.S.<a href="https://therecord.media/ddos-denmark-us-russia-killnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since Russia began its invasion of Ukraine 11 months ago, hacking groups like Killnet and NoName057 have targeted an array of government institutions, businesses, and organizations across Europe and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

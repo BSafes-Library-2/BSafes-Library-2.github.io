@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestine hackers threaten Israeli chemical companies<a href="https://securityaffairs.com/141609/cyber-warfare-2/cyber-attacks-israeli-chemical-companies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Israeli chemical companies operating in the occupied territories, security experts warn.
+Threat actors have launched a massive hacking campaign aimed at Israeli chemical companies operating in the occupied territories....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

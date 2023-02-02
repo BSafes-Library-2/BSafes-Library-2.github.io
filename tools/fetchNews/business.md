@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guardz Emerges From Stealth Mode With $10 Million in Funding<a href="https://www.securityweek.com/guardz-emerges-from-stealth-mode-with-10-million-in-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Guardz today emerged from stealth mode with $10 million raised in a seed funding round led by Hanaco Ventures, with additional investment from iAngels, Cyverse Capital, and GKFF Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saviynt Raises $205M; Founder Rejoins as CEO<a href="https://www.securityweek.com/saviynt-raises-205m-founder-rejoins-as-ceo/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest funding brings the total raised by the California company to $375 million and provides a growth-mode runway for Saviynt to establish a foothold in a very competitive marketplace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

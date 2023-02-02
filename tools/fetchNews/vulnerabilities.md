@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Additional Supply Chain Vulnerabilities Uncovered in AMI MegaRAC BMC Software<a href="https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two more supply chain security flaws have been disclosed in AMI MegaRAC Baseboard Management Controller (BMC) software, nearly two months after&nbsp; three security vulnerabilities &nbsp;were brought to light in the same product. Firmware security firm Eclypsium&nbsp; said &nbsp;the two shortcomings were held back until now to provide AMI additional time to engineer appropriate mitigations. The issues, collectively tracked as&nbsp; BMC&amp;C , could act as springboard for cyber attacks, enabling threat actors to obtain remote code execution and unauthorized device access with superuser permissions. The two new flaws in question are as follows - CVE-2022-26872 &nbsp;(CVSS score: 8.3) - ​​Password reset interception via API CVE-2022-40258 &nbsp;(CVSS score: 5.3) - Weak password hashes for Redfish and API Specifically, MegaRAC has been found to use the MD5 hashing algorithm with a global salt for older devices, or&nbsp; SHA-512 with per user salts &nbsp;on newer appliances, potentially allowing a threat actor to crack the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Fixes Critical Vulnerability in NAS Devices with Latest Security Updates<a href="https://thehackernews.com/2023/01/qnap-fixes-critical-vulnerability-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company QNAP has released updates to remediate a critical security flaw affecting its network-attached storage (NAS) devices that could lead to arbitrary code injection. Tracked as&nbsp; CVE-2022-27596 , the vulnerability is rated 9.8 out of a maximum of 10 on the CVSS scoring scale. It affects QTS 5.0.1 and QuTS hero h5.0.1. "If exploited, this vulnerability allows remote attackers to inject malicious code," QNAP&nbsp; said &nbsp;in an advisory released Monday. The exact technical specifics surrounding the flaw are unclear, but the NIST National Vulnerability Database (NVD) has categorized it as an SQL injection vulnerability. This means an attacker could send specially crafted SQL queries such that they could be weaponized to bypass security controls and access or alter valuable information. "Just as it may be possible to read sensitive information, it is also possible to make changes or even delete this information with a SQL injection attack," according to&nbsp; MI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

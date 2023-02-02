@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+You Don't Know Where Your Secrets Are<a href="https://thehackernews.com/2023/01/you-dont-know-where-your-secrets-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Do you know where your secrets are? If not, I can tell you: you are not alone. Hundreds of CISOs, CSOs, and security leaders, whether from small or large companies, don't know either. No matter the organization's size, the certifications, tools, people, and processes: secrets are not visible in 99% of cases. It might sound ridiculous at first: keeping secrets is an obvious first thought when thinking about security in the development lifecycle. Whether in the cloud or on-premise, you know that your secrets are safely stored behind hard gates that few people can access. It is not just a matter of common sense since it's also an essential compliance requirement for security audits and certifications. Developers working in your organization are well-aware that secrets should be handled with special care. They have put in place specific tools and procedures to correctly create, communicate, and rotate human or machine credentials. Still, do you know where your secrets are?
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

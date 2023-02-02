@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group Killnet targets US healthcare with DDoS attacks<a href="https://securityaffairs.com/141598/hacktivism/killnet-ddos-us-healthcare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pro-Russia group Killnet is launching a series of DDoS attacks against the websites of US healthcare organizations and hospitals.
+The Pro-Russia group&nbsp;Killnet&nbsp;launched a series of DDoS attacks against US healthcare organizations and hospitals....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

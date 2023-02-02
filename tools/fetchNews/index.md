@@ -34,7 +34,316 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware has Released Upgraded Locker<a href="https://securityaffairs.com/141668/cyber-crime/nevada-ransomware-upgraded-locker.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The actors behind this new project have an affiliate platform first introduced on the RAMP underground community, which is known for initial access brokers (IABs) and other cybercriminal actors and ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Bugs in Popular ImageMagick Image Processing Utility<a href="https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of two security flaws in the open source  ImageMagick software  that could potentially lead to a denial-of-service (DoS) and information disclosure. The two issues, which were identified by Latin American cybersecurity firm Metabase Q in version 7.1.0-49, were  addressed  in ImageMagick  version 7.1.0-52 , released in November 2022. A brief description of the flaws is as follows - CVE-2022-44267  - A DoS vulnerability that arises when parsing a PNG image with a filename that's a single dash ("-") CVE-2022-44268  - An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image That said, an attacker must be able to upload a malicious image to a website using ImageMagick so as to weaponize the flaws remotely. The specially crafted image, for its part, can be created by inserting a  text chunk  that specifies some metadata of the attacker's choice (e.g.,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Killnet group hit Dutch and European hospitals<a href="https://securityaffairs.com/141695/cyber-warfare-2/killnet-hit-dutch-european-hospitals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch National Cyber Security Centre (NCSC) confirmed that Pro-Russia group Killnet hit websites of national and European hospitals.
+The Dutch National Cyber Security Centre (NCSC) reported that the websites of several hospital in the Netherlands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: POC exploit released for VMware vRealize Log Insight vulnerabilities<a href="https://www.techtarget.com/searchsecurity/news/365529992/Horizon3ai-releases-POC-exploit-for-VMware-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Updates for the vulnerabilities are available for VMware vRealize Log Insight in the form of version 8.10.2. VMware also published workarounds as an alternative for affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of 'Ice Breaker' Cyberattacks Targeting Gaming and Gambling Industry<a href="https://thehackernews.com/2023/02/experts-warn-of-ice-breaker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign has targeted the gaming and gambling sectors since at least September 2022, just months prior to the  ICE London 2023  gaming industry trade fair event that's scheduled next week. Israeli cybersecurity company Security Joes is tracking the activity cluster under the name  Ice Breaker , stating the intrusions employ clever social engineering tactics to deploy a JavaScript backdoor. The attack sequence proceeds as follows: The threat actor poses as a customer while initiating a conversation with a support agent of a gaming website and urges the individual on the other end to open a screenshot image hosted on Dropbox. Security Joes said that the threat actor is "well-aware of the fact that the customer service is human-operated." Clicking the malicious link sent in the chat leads to the retrieval of an LNK payload or, alternatively, a VBScript file as a backup option, the former of which is configured to download and run an MSI package containin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Prilex PoS Malware evolves to target NFC-enabled credit cards<a href="https://securityaffairs.com/141686/malware/prilex-pos-malware-nfc-enabled-credit-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authors of the Prolex PoS malware improved their malicious code to target contactless credit card transactions.
+The threat actors behind the sophisticated point-of-sale (PoS) malware Prilex have have improved its capabilities to block contactless...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LockBit Green Ransomware Variant Borrows Code From Conti Ransomware<a href="https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit ransomware operators have implemented a new version of their malware, dubbed LockBit Green, which was apparently designed to include cloud-based services among its targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SH1MMER Exploit for Chromebook Unenrolls Managed ChromeOS Devices<a href="https://thehackernews.com/2023/02/new-sh1mmer-exploit-for-chromebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new exploit has been devised to "unenroll" enterprise- or school-managed Chromebooks from administrative control. Enrolling ChromeOS devices makes it possible to enforce device policies as set by the organization via the  Google Admin console , including the features that are available to users. "Each enrolled device complies with the policies you set until you wipe or deprovision it," Google  states  in its documentation. That's where the  exploit  – dubbed Shady Hacking 1nstrument Makes Machine Enrollment Retreat aka  SH1MMER  – comes in, allowing users to bypass these admin restrictions. The method is also a reference to shim, a Return Merchandise Authorization (RMA) disk image used by service center technicians to reinstall the operating system and run diagnosis and repair programs. The Google-signed  shim image  is a "combination of existing Chrome OS  factory bundle  components" – namely a release image, a toolkit, and the firmware, amon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LockBit Green ransomware variant borrows code from Conti ransomware<a href="https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit ransomware operators have released a new version of their malware, LockBit Green, that also targets cloud-based services.
+Lockbit ransomware operators have implemented a new version of their malware, dubbed LockBit Green, which was designed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian DDoS attacks raise alarm in Denmark, U.S.<a href="https://therecord.media/ddos-denmark-us-russia-killnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since Russia began its invasion of Ukraine 11 months ago, hacking groups like Killnet and NoName057 have targeted an array of government institutions, businesses, and organizations across Europe and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auditing Kubernetes with Open Source SIEM and XDR<a href="https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Container technology has gained traction among businesses due to the increased efficiency it provides. In this regard, organizations widely use Kubernetes for deploying, scaling, and managing containerized applications. Organizations should audit Kubernetes to ensure compliance with regulations, find anomalies, and identify security risks. The Wazuh open source platform plays a critical role in monitoring Kubernetes and other components of an organization's infrastructure. What is Kubernetes? Kubernetes is an open source container management solution that automates the deployment and scaling of containers and also manages the life cycle of containers. It organizes containers into logical units for simple management and discovery. Kubernetes extends how we scale containerized applications so that we may use a truly persistent infrastructure. You can build cloud-native applications based on microservices with Kubernetes. Enthusiasts view Kubernetes as the cornerstone of application m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware Has Released Upgraded Locker<a href="https://securityaffairs.com/141668/cyber-crime/nevada-ransomware-upgraded-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Resecurity have identified a new version of Nevada Ransomware which recently emerged on the Dark Web right before the start of 2023.
+Resecurity, California-based cybersecurity company protecting Fortune 500 globally, has identified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Forces the Closure of Four Public Schools in Nantucket<a href="https://edition.cnn.com/2023/01/31/politics/ransomware-attack-schools-nantucket/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack forced the closure Tuesday of four public schools serving 1,700 students on the island of Nantucket, Massachusetts, the school district’s superintendent said in an email to parents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prilex PoS Malware Evolves to Block Contactless Payments to Steal from NFC Cards<a href="https://thehackernews.com/2023/02/prilex-pos-malware-evolves-to-block.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian threat actors behind an advanced and modular point-of-sale (PoS) malware known as  Prilex  have reared their head once again with new updates that allow it to block contactless payment transactions. Russian cybersecurity firm Kaspersky  said  it detected three versions of Prilex (06.03.8080, 06.03.8072, and 06.03.8070) that are capable of targeting NFC-enabled credit cards, taking its criminal scheme a notch higher. Having evolved out of ATM-focused malware into PoS malware over the years since going operational in 2014, the threat actor steadily incorporated new features that are designed to facilitate credit card fraud, including a technique called  GHOST transactions . While contactless payments have taken off in a big way, in part due to the COVID-19 pandemic, the underlying motive behind the new functionality is to disable the feature so as to force the user to insert the card into the PIN pad. To that end, the latest version of Prilex, which Kaspersky discover
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickGate, a packer used by malware to evade detection since 2016<a href="https://securityaffairs.com/141650/malware/trickgate-packer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrickGate is a shellcode-based packer offered as a service to malware authors to avoid detection, CheckPoint researchers reported.
+TrickGate is a shellcode-based packer offered as a service, which is used at least since July 2016, to hide malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LockBit takes credit for November ransomware attack on Sacramento PBS station<a href="https://therecord.media/lockbit-takes-credit-kvie-pbs-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PBS station KVIE announced the attack on November 23, noting that some of its internal systems were affected on October 31. It immediately took systems offline, notified law enforcement, and hired experts to investigate the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Planet Ice Suffers Hack Resulting in Theft of 240,000 Customers' Accounts Details<a href="https://www.bitdefender.com/blog/hotforsecurity/planet-ice-hacked-240-000-skating-fans-details-stolen/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data from 240,488 customer accounts is now in the hands of hackers, including dates of birth, names, and genders of children having parties, email addresses, IP addresses, passwords, phone numbers, physical addresses, and purchases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality check: Is ChatGPT really the next big cybersecurity threat?<a href="https://cyberscoop.com/chatgpt-malware-openai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When OpenAI released ChatGPT in November, programmers were astounded to discover that the artificial intelligence-powered chatbot could not only mimic a huge variety of human speech but could also write code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft’s Verified Publisher Status Abused in Email Theft Campaign<a href="https://www.securityweek.com/microsofts-verified-publisher-status-abused-in-email-theft-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign mainly targeted Microsoft customers in Ireland and the UK. The tech giant has taken steps to disrupt the operation and it has published an article on how users can protect against these threats, which the company calls consent phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abused Microsoft's "Verified Publisher" OAuth Apps to Hack Corporate Email Accounts<a href="https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html"> Full Text</a>

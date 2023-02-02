@@ -11,6 +11,48 @@ nav_order: 900220
 February 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Bugs in Popular ImageMagick Image Processing Utility<a href="https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of two security flaws in the open source&nbsp; ImageMagick software &nbsp;that could potentially lead to a denial-of-service (DoS) and information disclosure. The two issues, which were identified by Latin American cybersecurity firm Metabase Q in version 7.1.0-49, were&nbsp; addressed &nbsp;in ImageMagick&nbsp; version 7.1.0-52 , released in November 2022. A brief description of the flaws is as follows - CVE-2022-44267 &nbsp;- A DoS vulnerability that arises when parsing a PNG image with a filename that's a single dash ("-") CVE-2022-44268 &nbsp;- An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image That said, an attacker must be able to upload a malicious image to a website using ImageMagick so as to weaponize the flaws remotely. The specially crafted image, for its part, can be created by inserting a&nbsp; text chunk &nbsp;that specifies some metadata of the attacker's choice (e.g.,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: POC exploit released for VMware vRealize Log Insight vulnerabilities<a href="https://www.techtarget.com/searchsecurity/news/365529992/Horizon3ai-releases-POC-exploit-for-VMware-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Updates for the vulnerabilities are available for VMware vRealize Log Insight in the form of version 8.10.2. VMware also published workarounds as an alternative for affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft’s Verified Publisher Status Abused in Email Theft Campaign<a href="https://www.securityweek.com/microsofts-verified-publisher-status-abused-in-email-theft-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign mainly targeted Microsoft customers in Ireland and the UK. The tech giant has taken steps to disrupt the operation and it has published an article on how users can protect against these threats, which the company calls consent phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Additional Supply Chain Vulnerabilities Uncovered in AMI MegaRAC BMC Software<a href="https://thehackernews.com/2023/02/additional-supply-chain-vulnerabilities.html"> Full Text</a>
 </p>
 <details>

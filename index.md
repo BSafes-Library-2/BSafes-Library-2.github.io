@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nevada Ransomware has Released Upgraded Locker<a href="https://securityaffairs.com/141668/cyber-crime/nevada-ransomware-upgraded-locker.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Bugs in Popular ImageMagick Image Processing Utility<a href="https://thehackernews.com/2023/02/researchers-uncover-new-bugs-in-popular.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia Killnet group hit Dutch and European hospitals<a href="https://securityaffairs.com/141695/cyber-warfare-2/killnet-hit-dutch-european-hospitals.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: POC exploit released for VMware vRealize Log Insight vulnerabilities<a href="https://www.techtarget.com/searchsecurity/news/365529992/Horizon3ai-releases-POC-exploit-for-VMware-vulnerabilities?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of 'Ice Breaker' Cyberattacks Targeting Gaming and Gambling Industry<a href="https://thehackernews.com/2023/02/experts-warn-of-ice-breaker.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Prilex PoS Malware evolves to target NFC-enabled credit cards<a href="https://securityaffairs.com/141686/malware/prilex-pos-malware-nfc-enabled-credit-cards.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LockBit Green Ransomware Variant Borrows Code From Conti Ransomware<a href="https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SH1MMER Exploit for Chromebook Unenrolls Managed ChromeOS Devices<a href="https://thehackernews.com/2023/02/new-sh1mmer-exploit-for-chromebook.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LockBit Green ransomware variant borrows code from Conti ransomware<a href="https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian DDoS attacks raise alarm in Denmark, U.S.<a href="https://therecord.media/ddos-denmark-us-russia-killnet/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 01, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Auditing Kubernetes with Open Source SIEM and XDR<a href="https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nevada Ransomware Has Released Upgraded Locker<a href="https://securityaffairs.com/141668/cyber-crime/nevada-ransomware-upgraded-locker.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack Forces the Closure of Four Public Schools in Nantucket<a href="https://edition.cnn.com/2023/01/31/politics/ransomware-attack-schools-nantucket/index.html?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prilex PoS Malware Evolves to Block Contactless Payments to Steal from NFC Cards<a href="https://thehackernews.com/2023/02/prilex-pos-malware-evolves-to-block.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickGate, a packer used by malware to evade detection since 2016<a href="https://securityaffairs.com/141650/malware/trickgate-packer.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: LockBit takes credit for November ransomware attack on Sacramento PBS station<a href="https://therecord.media/lockbit-takes-credit-kvie-pbs-ransomware/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Planet Ice Suffers Hack Resulting in Theft of 240,000 Customers' Accounts Details<a href="https://www.bitdefender.com/blog/hotforsecurity/planet-ice-hacked-240-000-skating-fans-details-stolen/?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reality check: Is ChatGPT really the next big cybersecurity threat?<a href="https://cyberscoop.com/chatgpt-malware-openai/?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2023
+February 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft’s Verified Publisher Status Abused in Email Theft Campaign<a href="https://www.securityweek.com/microsofts-verified-publisher-status-abused-in-email-theft-campaign/?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2023
+February 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abused Microsoft's "Verified Publisher" OAuth Apps to Hack Corporate Email Accounts<a href="https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html"> Full Text</a>
