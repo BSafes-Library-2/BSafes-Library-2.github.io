@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit Unpatched Zimbra Devices in 'No Pineapple' Campaign<a href="https://thehackernews.com/2023/02/north-korean-hackers-exploit-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new intelligence gathering campaign linked to the prolific North Korean state-sponsored Lazarus Group leveraged known security flaws in unpatched Zimbra devices to compromise victim systems. That's according to Finnish cybersecurity company WithSecure (formerly F-Secure), which codenamed the incident No Pineapple in reference to an error message that's used in one of the backdoors. Targets of the malicious operation included a healthcare research organization in India, the chemical engineering department of a leading research university, as well as a manufacturer of technology used in the energy, research, defense, and healthcare sectors, suggesting an attempt to breach the supply chain. Roughly 100GB of data is estimated to have been exported by the hacking crew following the compromise of an unnamed customer, with the digital break-in likely taking place in the third quarter of 2022. "The threat actor gained access to the network by exploiting a vulnerable Zimbra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

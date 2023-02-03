@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Budgets Are Going Up. So Why Aren't Breaches Going Down?<a href="https://thehackernews.com/2023/02/cybersecurity-budgets-are-going-up-so.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past few years, cybersecurity has become a major concern for businesses around the globe. With the total cost of cybercrime in 2023 forecasted to reach $8 Trillion – with a T, not a B – it's no wonder that cybersecurity is top of mind for leaders across all industries and regions. However, despite growing attention and budgets for cybersecurity in recent years, attacks have only become more common and more severe. While threat actors are becoming increasingly sophisticated and organized, this is just one piece to the puzzle in determining why cybercrime continues to rise and&nbsp;what organizations can do to stay secure. 🔓 &nbsp;Unlock the future of cybersecurity: Get ahead of the game with 2023 Cyber Security Trends Forecast ! Discover the major trends of 2022 and learn how to protect your business from emerging threats in the coming year.&nbsp; ⚡&nbsp; Get your insider's guide to cybersecurity now! An abundance of cyber spending, a shortage of cyber security It's easy to assume that t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50% of organizations have indirect relationships with 200+ breached fourth-party vendors<a href="https://www.helpnetsecurity.com/2023/02/02/relationships-breached-fourth-party-vendors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 98 percent of organizations have vendor relationships with at least one third-party that has experienced a breach in the last two years, according to SecurityScorecard and The Cyentia Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

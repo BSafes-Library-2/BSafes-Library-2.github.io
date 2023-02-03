@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Auditing Kubernetes with Open Source SIEM and XDR<a href="https://thehackernews.com/2023/02/auditing-kubernetes-with-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Container technology has gained traction among businesses due to the increased efficiency it provides. In this regard, organizations widely use Kubernetes for deploying, scaling, and managing containerized applications. Organizations should audit Kubernetes to ensure compliance with regulations, find anomalies, and identify security risks. The Wazuh open source platform plays a critical role in monitoring Kubernetes and other components of an organization's infrastructure. What is Kubernetes? Kubernetes is an open source container management solution that automates the deployment and scaling of containers and also manages the life cycle of containers. It organizes containers into logical units for simple management and discovery. Kubernetes extends how we scale containerized applications so that we may use a truly persistent infrastructure. You can build cloud-native applications based on microservices with Kubernetes. Enthusiasts view Kubernetes as the cornerstone of application m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

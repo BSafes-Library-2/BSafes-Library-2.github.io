@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality check: Is ChatGPT really the next big cybersecurity threat?<a href="https://cyberscoop.com/chatgpt-malware-openai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When OpenAI released ChatGPT in November, programmers were astounded to discover that the artificial intelligence-powered chatbot could not only mimic a huge variety of human speech but could also write code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

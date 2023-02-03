@@ -8,6 +8,36 @@ nav_order: 900053
 
 ## Education
 ---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API management (APIM): What It Is and Where It’s Going<a href="https://securityaffairs.com/141738/security/api-management-apim.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analyzing the concept of API management (APIM), its benefits, and what it will look like as the API landscape continues to evolve.
+There are two fundamental truths in the API landscape.
+First: APIs have become a strategic tool for companies to expand...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mapping Threat Intelligence to the NIST Compliance Framework Part 2<a href="https://www.securityweek.com/mapping-threat-intelligence-to-the-nist-compliance-framework-part-2/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As CTI teams prioritize the intelligence requirements of their business stakeholders, it is beneficial to provide context by mapping the impact of cybersecurity threat intelligence programs to the following NIST core functions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

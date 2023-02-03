@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat: Stealthy HeadCrab Malware Compromised Over 1,200 Redis Servers<a href="https://thehackernews.com/2023/02/new-threat-stealthy-headcrab-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least 1,200 Redis database servers worldwide have been corralled into a botnet using an "elusive and severe threat" dubbed HeadCrab since early September 2021. "This advanced threat actor utilizes a state-of-the-art, custom-made malware that is undetectable by agentless and traditional anti-virus solutions to compromise a large number of Redis servers," Aqua security researcher Asaf Eitani&nbsp; said &nbsp;in a Wednesday report. A significant concentration of infections has been recorded in China, Malaysia, India, Germany, the U.K., and the U.S. to date. The origins of the threat actor are presently unknown. The findings come two months after the cloud security firm shed light on a Go-based malware codenamed&nbsp; Redigo &nbsp;that has been found compromising Redis servers. The attack is designed to target Redis servers that are exposed to the internet, followed by issuing a&nbsp; SLAVEOF command &nbsp;from another Redis server that's already under the adversary's control. In
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

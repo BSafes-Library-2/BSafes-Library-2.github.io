@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Derivatives Markets Impacted by LockBit Ransomware Attack on Financial Software Company<a href="https://therecord.media/global-markets-impacted-by-ransomware-attack-on-financial-software-company/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack is “impacting the trading and clearing of exchange-traded derivatives by ION customers across global markets,” according to the Futures Industry Association (FIA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'No Pineapple' Cyber Espionage Campaign Reveals North Korean Toolkit<a href="https://www.bankinfosecurity.com/no-pineapple-hacking-campaign-reveals-north-korean-toolkit-a-21078?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat intelligence firm spotted North Korean hackers engaged in technological espionage in a campaign that betrayed recurring elements of the Pyongyang hacking toolkit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

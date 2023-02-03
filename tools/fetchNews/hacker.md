@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abused Microsoft's "Verified Publisher" OAuth Apps to Hack Corporate Email Accounts<a href="https://thehackernews.com/2023/02/hackers-abused-microsofts-verified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday said it took steps to disable fake Microsoft Partner Network (MPN) accounts that were used for creating malicious&nbsp; OAuth &nbsp;applications as part of a malicious campaign designed to breach organizations' cloud environments and steal email. "The applications created by these fraudulent actors were then used in a consent phishing campaign, which tricked users into granting permissions to the fraudulent apps," the tech giant&nbsp; said . "This phishing campaign targeted a subset of customers primarily based in the U.K. and Ireland." Consent phishing is a&nbsp; social engineering attack &nbsp;wherein users are tricked into granting permissions to malicious cloud applications, which can then be weaponized to gain access to legitimate cloud services and sensitive user data. The Windows maker said it became aware of the campaign on December 15, 2022. It has since alerted affected customers via email, with the company noting that the threat actors abused the cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT34 Malware Targets The Middle East<a href="https://www.trendmicro.com/en_us/research/23/b/new-apt34-malware-targets-the-middle-east.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro analyzed a cyberespionage campaign targeting organizations in the Middle East in December 2022 using a new backdoor. It abuses compromised email accounts to send stolen data to external mail accounts controlled by attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

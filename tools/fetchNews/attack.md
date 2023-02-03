@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Killnet group hit Dutch and European hospitals<a href="https://securityaffairs.com/141695/cyber-warfare-2/killnet-hit-dutch-european-hospitals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch National Cyber Security Centre (NCSC) confirmed that Pro-Russia group Killnet hit websites of national and European hospitals.
+The Dutch National Cyber Security Centre (NCSC) reported that the websites of several hospital in the Netherlands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of 'Ice Breaker' Cyberattacks Targeting Gaming and Gambling Industry<a href="https://thehackernews.com/2023/02/experts-warn-of-ice-breaker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new attack campaign has targeted the gaming and gambling sectors since at least September 2022, just months prior to the&nbsp; ICE London 2023 &nbsp;gaming industry trade fair event that's scheduled next week. Israeli cybersecurity company Security Joes is tracking the activity cluster under the name&nbsp; Ice Breaker , stating the intrusions employ clever social engineering tactics to deploy a JavaScript backdoor. The attack sequence proceeds as follows: The threat actor poses as a customer while initiating a conversation with a support agent of a gaming website and urges the individual on the other end to open a screenshot image hosted on Dropbox. Security Joes said that the threat actor is "well-aware of the fact that the customer service is human-operated." Clicking the malicious link sent in the chat leads to the retrieval of an LNK payload or, alternatively, a VBScript file as a backup option, the former of which is configured to download and run an MSI package containin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LockBit takes credit for November ransomware attack on Sacramento PBS station<a href="https://therecord.media/lockbit-takes-credit-kvie-pbs-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PBS station KVIE announced the attack on November 23, noting that some of its internal systems were affected on October 31. It immediately took systems offline, notified law enforcement, and hired experts to investigate the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Forces the Closure of Four Public Schools in Nantucket<a href="https://edition.cnn.com/2023/01/31/politics/ransomware-attack-schools-nantucket/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack forced the closure Tuesday of four public schools serving 1,700 students on the island of Nantucket, Massachusetts, the school district’s superintendent said in an email to parents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

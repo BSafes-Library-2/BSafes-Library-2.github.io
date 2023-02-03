@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Planet Ice Suffers Hack Resulting in Theft of 240,000 Customers' Accounts Details<a href="https://www.bitdefender.com/blog/hotforsecurity/planet-ice-hacked-240-000-skating-fans-details-stolen/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data from 240,488 customer accounts is now in the hands of hackers, including dates of birth, names, and genders of children having parties, email addresses, IP addresses, passwords, phone numbers, physical addresses, and purchases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

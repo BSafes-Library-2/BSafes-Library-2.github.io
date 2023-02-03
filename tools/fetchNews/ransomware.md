@@ -8,6 +8,64 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware has Released Upgraded Locker<a href="https://securityaffairs.com/141668/cyber-crime/nevada-ransomware-upgraded-locker.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The actors behind this new project have an affiliate platform first introduced on the RAMP underground community, which is known for initial access brokers (IABs) and other cybercriminal actors and ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LockBit Green Ransomware Variant Borrows Code From Conti Ransomware<a href="https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit ransomware operators have implemented a new version of their malware, dubbed LockBit Green, which was apparently designed to include cloud-based services among its targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LockBit Green ransomware variant borrows code from Conti ransomware<a href="https://securityaffairs.com/141666/cyber-crime/lockbit-green-ransomware-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit ransomware operators have released a new version of their malware, LockBit Green, that also targets cloud-based services.
+Lockbit ransomware operators have implemented a new version of their malware, dubbed LockBit Green, which was designed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware Has Released Upgraded Locker<a href="https://securityaffairs.com/141668/cyber-crime/nevada-ransomware-upgraded-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Resecurity have identified a new version of Nevada Ransomware which recently emerged on the Dark Web right before the start of 2023.
+Resecurity, California-based cybersecurity company protecting Fortune 500 globally, has identified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
