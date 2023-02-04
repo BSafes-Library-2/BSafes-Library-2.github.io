@@ -34,7 +34,317 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware: Another Feather in the RaaS Ecosystem<a href="https://cyware.com/news/nevada-ransomware-another-feather-in-the-raas-ecosystem-607017bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called Nevada Ransomware has emerged on underground forums. The actors behind this variant, as experts with Resecurity confirmed, have an affiliate platform first introduced in the RAMP underground community. The group recently distributed an updated locker—written in Rust—  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Your EV Charging Station Safe? New Security Vulnerabilities Uncovered<a href="https://thehackernews.com/2023/02/is-your-ev-charging-station-safe-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new security weaknesses discovered in several electric vehicle (EV) charging systems could be exploited to remotely shut down charging stations and even expose them to data and energy theft. The findings, which come from Israel-based SaiFlow, once again demonstrate the  potential risks  facing the EV charging infrastructure. The issues have been identified in version 1.6J of the Open Charge Point Protocol ( OCPP ) standard that uses WebSockets for communication between EV charging stations and the Charging Station Management System (CSMS) providers. The current version of OCPP is 2.0.1. "The OCPP standard doesn't define how a CSMS should accept new connections from a charge point when there is already an active connection," SaiFlow researchers Lionel Richard Saposnik and Doron Porat  said . "The lack of a clear guideline for multiple active connections can be exploited by attackers to disrupt and hijack the connection between the charge point and the CSMS.&q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation attempts for Oracle E-Business Suite flaw observed after PoC release<a href="https://securityaffairs.com/141782/hacking/oracle-e-business-suite-flaw-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors started exploiting a critical Oracle E-Business Suite flaw, tracked as CVE-2022-21587, shortly after a PoC was published.
+Shadowserver researchers warn that threat actors have started attempting to exploit critical Oracle E-Business...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere MFT Users Warned of Zero-Day Exploit<a href="https://www.securityweek.com/goanywhere-mft-users-warned-of-zero-day-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of the GoAnywhere secure managed file transfer (MFT) software have been warned about a zero-day exploit that malicious actors can target directly from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post-Macro World Sees Rise in Microsoft OneNote Documents Delivering Malware<a href="https://thehackernews.com/2023/02/post-macro-world-sees-rise-in-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a continuing sign that threat actors are adapting well to a  post-macro world , it has emerged that the use of Microsoft OneNote documents to deliver malware via phishing attacks is on the rise. Some of the notable malware families that are being distributed using this method include AsyncRAT,  RedLine Stealer , Agent Tesla,  DOUBLEBACK , Quasar RAT, XWorm,  Qakbot ,  BATLOADER , and  FormBook . Enterprise firm Proofpoint said it detected over 50 campaigns leveraging OneNote attachments in the month of January 2023 alone. In some instances, the email phishing lures contain a OneNote file, which, in turn, embeds an HTA file that invokes a PowerShell script to retrieve a malicious binary from a remote server. Other scenarios entail the execution of a rogue VBScript that's embedded within the OneNote document and concealed behind an image that appears as a seemingly harmless button. The VBScript, for its part, is designed to drop a PowerShell script to run DOUBLEBACK. "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Workstation update fixes an arbitrary file deletion bug<a href="https://securityaffairs.com/141773/security/vmware-workstation-arbitrary-file-deletion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a high-severity privilege escalation vulnerability, tracked as CVE-2023-20854, in VMware Workstation.
+VMware fixed a high-severity privilege escalation flaw, tracked as CVE-2023-20854, that impacts Workstation.
+An attacker can exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IceBreaker Backdoor Targets Gaming/Gambling Companies<a href="https://cyware.com/news/icebreaker-backdoor-targets-gaminggambling-companies-f9f5ce75"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online gaming and gambling firms are once again under attack by a never-before-seen backdoor known as IceBreaker. According to security analysts at SecurityJoes, the malware’s compromise method relies on tricking customer service agents into opening malicious screenshots that the threat actor sent  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian OilRig Hackers Using New Backdoor to Exfiltrate Data from Govt. Organizations<a href="https://thehackernews.com/2023/02/iranian-oilrig-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state hacking group known as  OilRig  has continued to target government organizations in the Middle East as part of a cyber espionage campaign that leverages a new backdoor to exfiltrate data. "The campaign abuses legitimate but compromised email accounts to send stolen data to external mail accounts controlled by the attackers," Trend Micro researchers Mohamed Fahmy, Sherif Magdy, and Mahmoud Zohdy  said . While the technique in itself is not unheard of, the development marks the first time OilRig has adopted it in its playbook, indicating the continued evolution of its methods to bypass security protections. The advanced persistent threat (APT) group, also referred to as APT34, Cobalt Gypsy, Europium, and Helix Kitten, has been  documented  for its targeted phishing attacks in the Middle East since at least 2014. Linked to Iran's Ministry of Intelligence and Security (MOIS), the group is known to use a diverse toolset in its operations, with re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixed critical authentication vulnerability in Jira Software<a href="https://securityaffairs.com/141766/security/atlassian-critical-vulnerability-jira-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian fixed a critical flaw in Jira Service Management Server and Data Center that can allow an attacker to impersonate another user and gain access to a Jira Service Management instance.
+Atlassian has released security updates to address a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto hacks stole record $3.8 billion in 2022, led by North Korea groups - report<a href="https://www.reuters.com/technology/crypto-hacks-stole-record-38-billion-2022-led-by-north-korea-groups-report-2023-02-01/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year was the worst on record for cryptocurrency heists, with hackers stealing as much as $3.8 billion, led by attackers linked to North Korea who netted more than ever before, a U.S.-based blockchain analytics firm said in a report on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pivot: How MSPs Can Turn a Challenge Into a Once-in-a-Decade Opportunity<a href="https://thehackernews.com/2023/02/the-pivot-how-msps-can-turn-challenge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is quickly becoming one of the most significant growth drivers for Managed Service Providers (MSPs). That's the main insight from a  recent study  from Lumu: in North America, more than 80% of MSPs cite cybersecurity as a primary growth driver of their business. Service providers have a huge opportunity to expand their business and win new customers by developing their cybersecurity offerings. This hardly comes as a surprise since the demand for cybersecurity is in full swing among SMBs and larger enterprises. According to  Gartner , "by 2025, 60% of organizations will use cybersecurity risk as a primary determinant in conducting third-party transactions and business engagements." This means that the perception around security is transforming: from liability, it's becoming a powerful business driver. Of course, cybersecurity continues to evolve at a very rapid pace, with threats emerging every day and the stakes getting higher. This alone can fuel the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT targets Ukrainian authorities with new malware<a href="https://securityaffairs.com/141752/malware/apt-gamaredon-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actor Gamaredon employed new spyware in cyber attacks aimed at public authorities and critical information infrastructure in Ukraine.
+The State Cyber Protection Centre (SCPC) of Ukraine warns of a new wave of targeted attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Konami Code Backdoor Concealed in Image File of Fake WordPress Plugins<a href="https://blog.sucuri.net/2023/02/konami-code-backdoor-concealed-in-image.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware was first detected back in 2019 within a compromised Drupal environment. However, over the last few months, it appears to have surged in popularity among attackers. It tends to be uploaded into WordPress environments as a fake plugin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian's Jira Software Found Vulnerable to Critical Authentication Vulnerability<a href="https://thehackernews.com/2023/02/atlassians-jira-software-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released fixes to resolve a critical security flaw in Jira Service Management Server and Data Center that could be abused by an attacker to pass off as another user and gain unauthorized access to susceptible instances. The  vulnerability  is tracked as  CVE-2023-22501  (CVSS score: 9.4) and has been described as a case of broken authentication with low attack complexity. "An authentication vulnerability was discovered in Jira Service Management Server and Data Center which allows an attacker to impersonate another user and gain access to a Jira Service Management instance under certain circumstances," Atlassian  said . "With write access to a User Directory and outgoing email enabled on a Jira Service Management instance, an attacker could gain access to signup tokens sent to users with accounts that have never been logged into." The tokens, Atlassian noted, can be obtained in either of the two scenarios - If the attacker is included on Jira i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed command injection bug in IOx Application Hosting Environment<a href="https://securityaffairs.com/141743/security/cisco-bug-iox-application-hosting-environment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a high-severity flaw in the IOx application hosting environment that can be exploited in command injection attacks.
+Cisco has released security updates to address a command injection vulnerability, tracked as CVE-2023-20076, in the Cisco...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeadCrab Botnet Targets 1,200 Redis Servers in a New Elusive Campaign<a href="https://cyware.com/news/headcrab-botnet-targets-1200-redis-servers-in-a-new-elusive-campaign-ee2d3601"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aqua Security researchers found a new malware, dubbed HeadCrab, that has infected over a thousand Redis servers since September 2021. Researchers found approximately 1,200 actively infected servers that it has been abusing to mine Monero cryptocurrency. HeadCrab uses state-of-the-art infrastructure ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New High-Severity Vulnerabilities Discovered in Cisco IOx and F5 BIG-IP Products<a href="https://thehackernews.com/2023/02/new-high-severity-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has warned of a high-severity flaw impacting BIG-IP appliances that could lead to denial-of-service (DoS) or arbitrary code execution. The issue is rooted in the iControl Simple Object Access Protocol ( SOAP ) interface and affects the following versions of BIG-IP - 13.1.5 14.1.4.6 - 14.1.5 15.1.5.1 - 15.1.8 16.1.2.2 - 16.1.3, and 17.0.0 "A format string vulnerability exists in iControl SOAP that allows an authenticated attacker to crash the iControl SOAP CGI process or, potentially execute arbitrary code," the company  said  in an advisory. "In appliance mode BIG-IP, a successful exploit of this vulnerability can allow the attacker to cross a security boundary." Tracked as CVE-2023-22374 (CVSS score: 7.5/8.5), security researcher Ron Bowes of Rapid7 has been credited with discovering and reporting the flaw on December 6, 2022. Given that the iCOntrol SOAP interface runs as root, a successful exploit could permit a threat actor to remotely trigger co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Data breach at Vice Media involved SSNs, financial info<a href="https://therecord.media/data-breach-at-vice-media-involved-ssns-financial-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach involving Vice Media leaked the sensitive information and financial data of more than 1,700 individuals, according to filings with Maine’s Attorney General.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alert: Oracle E-Business Suite and SugarCRM Vulnerabilities Under Attack<a href="https://thehackernews.com/2023/02/cisa-alert-oracle-e-business-suite-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on February 2  added  two security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation. The first of the two vulnerabilities is  CVE-2022-21587  (CVSS score: 9.8), a critical issue impacting versions 12.2.3 to 12.2.11 of the Oracle Web Applications Desktop Integrator product. "Oracle E-Business Suite contains an unspecified vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Web Applications Desktop Integrator," CISA  said . The issue was addressed by Oracle as part of its Critical Patch Update released in October 2022. Not much is known about the nature of the attacks exploiting the vulnerability, but the development follows the publication of a proof-of-concept (PoC) by cybersecurity firm Viettel on January 16, 2023. The second security flaw to be added to the KEV catalog is  CVE-2023-22952  (CVSS score:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EV Charging Management System Vulnerabilities Allow Disruption, Energy Theft<a href="https://www.securityweek.com/ev-charging-management-system-vulnerabilities-allow-disruption-energy-theft/?&web_view=true"> Full Text</a>
@@ -50,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2023
+February 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Russian-Backed Gamaredon's Spyware Variants Targeting Ukrainian Authorities<a href="https://thehackernews.com/2023/02/new-russian-backed-gamaredons-spyware.html"> Full Text</a>
@@ -66,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API management (APIM): What It Is and Where It’s Going<a href="https://securityaffairs.com/141738/security/api-management-apim.html"> Full Text</a>
@@ -84,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New APT34 Malware Targets The Middle East<a href="https://www.trendmicro.com/en_us/research/23/b/new-apt34-malware-targets-the-middle-east.html?&web_view=true"> Full Text</a>
@@ -100,7 +410,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2023
+February 02, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Budgets Are Going Up. So Why Aren't Breaches Going Down?<a href="https://thehackernews.com/2023/02/cybersecurity-budgets-are-going-up-so.html"> Full Text</a>
@@ -116,7 +426,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A High-severity bug in F5 BIG-IP can lead to code execution and DoS<a href="https://securityaffairs.com/141728/security/f5-big-ip-bug.html"> Full Text</a>
@@ -133,7 +443,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50% of organizations have indirect relationships with 200+ breached fourth-party vendors<a href="https://www.helpnetsecurity.com/2023/02/02/relationships-breached-fourth-party-vendors/?&web_view=true"> Full Text</a>
@@ -149,7 +459,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2023
+February 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Exploit Unpatched Zimbra Devices in 'No Pineapple' Campaign<a href="https://thehackernews.com/2023/02/north-korean-hackers-exploit-unpatched.html"> Full Text</a>
@@ -165,7 +475,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of two flaws in popular open-source software ImageMagick<a href="https://securityaffairs.com/141717/hacking/imagemagick-flaws.html"> Full Text</a>
@@ -182,7 +492,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Cisco industrial appliances is a potential nightmare (CVE-2023-20076)<a href="https://www.helpnetsecurity.com/2023/02/01/cve-2023-20076/?&web_view=true"> Full Text</a>
@@ -198,7 +508,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2023
+February 02, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat: Stealthy HeadCrab Malware Compromised Over 1,200 Redis Servers<a href="https://thehackernews.com/2023/02/new-threat-stealthy-headcrab-malware.html"> Full Text</a>
@@ -214,7 +524,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 30k Internet-Exposed QNAP NAS hosts impacted by CVE-2022-27596 flaw<a href="https://securityaffairs.com/141705/hacking/qnap-nas-vulnerable-cve-2022-27596.html"> Full Text</a>
@@ -231,7 +541,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Derivatives Markets Impacted by LockBit Ransomware Attack on Financial Software Company<a href="https://therecord.media/global-markets-impacted-by-ransomware-attack-on-financial-software-company/?&web_view=true"> Full Text</a>
@@ -247,7 +557,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'No Pineapple' Cyber Espionage Campaign Reveals North Korean Toolkit<a href="https://www.bankinfosecurity.com/no-pineapple-hacking-campaign-reveals-north-korean-toolkit-a-21078?&web_view=true"> Full Text</a>
@@ -263,7 +573,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2023
+February 2, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mapping Threat Intelligence to the NIST Compliance Framework Part 2<a href="https://www.securityweek.com/mapping-threat-intelligence-to-the-nist-compliance-framework-part-2/?&web_view=true"> Full Text</a>
