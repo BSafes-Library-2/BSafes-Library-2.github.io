@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Pivot: How MSPs Can Turn a Challenge Into a Once-in-a-Decade Opportunity<a href="https://thehackernews.com/2023/02/the-pivot-how-msps-can-turn-challenge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is quickly becoming one of the most significant growth drivers for Managed Service Providers (MSPs). That's the main insight from a&nbsp; recent study &nbsp;from Lumu: in North America, more than 80% of MSPs cite cybersecurity as a primary growth driver of their business. Service providers have a huge opportunity to expand their business and win new customers by developing their cybersecurity offerings. This hardly comes as a surprise since the demand for cybersecurity is in full swing among SMBs and larger enterprises. According to&nbsp; Gartner , "by 2025, 60% of organizations will use cybersecurity risk as a primary determinant in conducting third-party transactions and business engagements." This means that the perception around security is transforming: from liability, it's becoming a powerful business driver. Of course, cybersecurity continues to evolve at a very rapid pace, with threats emerging every day and the stakes getting higher. This alone can fuel the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

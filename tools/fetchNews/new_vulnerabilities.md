@@ -8,6 +8,123 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Your EV Charging Station Safe? New Security Vulnerabilities Uncovered<a href="https://thehackernews.com/2023/02/is-your-ev-charging-station-safe-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two new security weaknesses discovered in several electric vehicle (EV) charging systems could be exploited to remotely shut down charging stations and even expose them to data and energy theft. The findings, which come from Israel-based SaiFlow, once again demonstrate the&nbsp; potential risks &nbsp;facing the EV charging infrastructure. The issues have been identified in version 1.6J of the Open Charge Point Protocol ( OCPP ) standard that uses WebSockets for communication between EV charging stations and the Charging Station Management System (CSMS) providers. The current version of OCPP is 2.0.1. "The OCPP standard doesn't define how a CSMS should accept new connections from a charge point when there is already an active connection," SaiFlow researchers Lionel Richard Saposnik and Doron Porat&nbsp; said . "The lack of a clear guideline for multiple active connections can be exploited by attackers to disrupt and hijack the connection between the charge point and the CSMS.&amp;q
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation attempts for Oracle E-Business Suite flaw observed after PoC release<a href="https://securityaffairs.com/141782/hacking/oracle-e-business-suite-flaw-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors started exploiting a critical Oracle E-Business Suite flaw, tracked as CVE-2022-21587, shortly after a PoC was published.
+Shadowserver researchers warn that threat actors have started attempting to exploit critical Oracle E-Business...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere MFT Users Warned of Zero-Day Exploit<a href="https://www.securityweek.com/goanywhere-mft-users-warned-of-zero-day-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of the GoAnywhere secure managed file transfer (MFT) software have been warned about a zero-day exploit that malicious actors can target directly from the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Workstation update fixes an arbitrary file deletion bug<a href="https://securityaffairs.com/141773/security/vmware-workstation-arbitrary-file-deletion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed a high-severity privilege escalation vulnerability, tracked as CVE-2023-20854, in VMware Workstation.
+VMware fixed a high-severity privilege escalation flaw, tracked as CVE-2023-20854, that impacts Workstation.
+An attacker can exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian fixed critical authentication vulnerability in Jira Software<a href="https://securityaffairs.com/141766/security/atlassian-critical-vulnerability-jira-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian fixed a critical flaw in Jira Service Management Server and Data Center that can allow an attacker to impersonate another user and gain access to a Jira Service Management instance.
+Atlassian has released security updates to address a critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian's Jira Software Found Vulnerable to Critical Authentication Vulnerability<a href="https://thehackernews.com/2023/02/atlassians-jira-software-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released fixes to resolve a critical security flaw in Jira Service Management Server and Data Center that could be abused by an attacker to pass off as another user and gain unauthorized access to susceptible instances. The&nbsp; vulnerability &nbsp;is tracked as&nbsp; CVE-2023-22501 &nbsp;(CVSS score: 9.4) and has been described as a case of broken authentication with low attack complexity. "An authentication vulnerability was discovered in Jira Service Management Server and Data Center which allows an attacker to impersonate another user and gain access to a Jira Service Management instance under certain circumstances," Atlassian&nbsp; said . "With write access to a User Directory and outgoing email enabled on a Jira Service Management instance, an attacker could gain access to signup tokens sent to users with accounts that have never been logged into." The tokens, Atlassian noted, can be obtained in either of the two scenarios - If the attacker is included on Jira i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed command injection bug in IOx Application Hosting Environment<a href="https://securityaffairs.com/141743/security/cisco-bug-iox-application-hosting-environment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a high-severity flaw in the IOx application hosting environment that can be exploited in command injection attacks.
+Cisco has released security updates to address a command injection vulnerability, tracked as CVE-2023-20076, in the Cisco...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New High-Severity Vulnerabilities Discovered in Cisco IOx and F5 BIG-IP Products<a href="https://thehackernews.com/2023/02/new-high-severity-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has warned of a high-severity flaw impacting BIG-IP appliances that could lead to denial-of-service (DoS) or arbitrary code execution. The issue is rooted in the iControl Simple Object Access Protocol ( SOAP ) interface and affects the following versions of BIG-IP - 13.1.5 14.1.4.6 - 14.1.5 15.1.5.1 - 15.1.8 16.1.2.2 - 16.1.3, and 17.0.0 "A format string vulnerability exists in iControl SOAP that allows an authenticated attacker to crash the iControl SOAP CGI process or, potentially execute arbitrary code," the company&nbsp; said &nbsp;in an advisory. "In appliance mode BIG-IP, a successful exploit of this vulnerability can allow the attacker to cross a security boundary." Tracked as CVE-2023-22374 (CVSS score: 7.5/8.5), security researcher Ron Bowes of Rapid7 has been credited with discovering and reporting the flaw on December 6, 2022. Given that the iCOntrol SOAP interface runs as root, a successful exploit could permit a threat actor to remotely trigger co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

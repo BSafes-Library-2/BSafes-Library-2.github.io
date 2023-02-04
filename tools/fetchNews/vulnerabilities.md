@@ -8,6 +8,79 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EV Charging Management System Vulnerabilities Allow Disruption, Energy Theft<a href="https://www.securityweek.com/ev-charging-management-system-vulnerabilities-allow-disruption-energy-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that many electric vehicle (EV) charging management systems are affected by vulnerabilities that could allow hackers to cause disruption, steal energy, or obtain driver information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A High-severity bug in F5 BIG-IP can lead to code execution and DoS<a href="https://securityaffairs.com/141728/security/f5-big-ip-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a high-severity vulnerability that affects F5 BIG-IP that can lead to arbitrary code execution or DoS condition.
+A high-severity vulnerability in F5 BIG-IP, tracked as CVE-2023-22374, can be exploited to cause a DoS condition and potentially...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of two flaws in popular open-source software ImageMagick<a href="https://securityaffairs.com/141717/hacking/imagemagick-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts disclosed details of two security flaws in the open-source software&nbsp;ImageMagick&nbsp;that could potentially lead to information disclosure or trigger a DoS condition.
+Researchers at Metabase Q discovered a couple of security vulnerabilities in the open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Cisco industrial appliances is a potential nightmare (CVE-2023-20076)<a href="https://www.helpnetsecurity.com/2023/02/01/cve-2023-20076/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2023-20076 was discovered by the researchers in a Cisco ISR 4431 router – more specifically, in the Cisco IOx application hosting environment, which allows admins to deploy application containers or virtual machines directly on Cisco devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 30k Internet-Exposed QNAP NAS hosts impacted by CVE-2022-27596 flaw<a href="https://securityaffairs.com/141705/hacking/qnap-nas-vulnerable-cve-2022-27596.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys found 30,000 internet-facing QNAP appliances potentially impacted by a recently disclosed critical code injection flaw.
+On January 30, Taiwanese vendor QNAP released QTS and QuTS&nbsp;firmware updates to address a critical vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

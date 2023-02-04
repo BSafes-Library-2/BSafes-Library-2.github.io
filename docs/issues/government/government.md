@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alert: Oracle E-Business Suite and SugarCRM Vulnerabilities Under Attack<a href="https://thehackernews.com/2023/02/cisa-alert-oracle-e-business-suite-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on February 2&nbsp; added &nbsp;two security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, citing evidence of active exploitation. The first of the two vulnerabilities is&nbsp; CVE-2022-21587 &nbsp;(CVSS score: 9.8), a critical issue impacting versions 12.2.3 to 12.2.11 of the Oracle Web Applications Desktop Integrator product. "Oracle E-Business Suite contains an unspecified vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Web Applications Desktop Integrator," CISA&nbsp; said . The issue was addressed by Oracle as part of its Critical Patch Update released in October 2022. Not much is known about the nature of the attacks exploiting the vulnerability, but the development follows the publication of a proof-of-concept (PoC) by cybersecurity firm Viettel on January 16, 2023. The second security flaw to be added to the KEV catalog is&nbsp; CVE-2023-22952 &nbsp;(CVSS score:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

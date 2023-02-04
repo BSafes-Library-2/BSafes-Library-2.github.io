@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware: Another Feather in the RaaS Ecosystem<a href="https://cyware.com/news/nevada-ransomware-another-feather-in-the-raas-ecosystem-607017bb"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called Nevada Ransomware has emerged on underground forums. The actors behind this variant, as experts with Resecurity confirmed, have an affiliate platform first introduced in the RAMP underground community. The group recently distributed an updated locker—written in Rust—  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

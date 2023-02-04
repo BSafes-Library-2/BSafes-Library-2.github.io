@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeadCrab Botnet Targets 1,200 Redis Servers in a New Elusive Campaign<a href="https://cyware.com/news/headcrab-botnet-targets-1200-redis-servers-in-a-new-elusive-campaign-ee2d3601"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aqua Security researchers found a new malware, dubbed HeadCrab, that has infected over a thousand Redis servers since September 2021. Researchers found approximately 1,200 actively infected servers that it has been abusing to mine Monero cryptocurrency. HeadCrab uses state-of-the-art infrastructure ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

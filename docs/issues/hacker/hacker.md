@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian OilRig Hackers Using New Backdoor to Exfiltrate Data from Govt. Organizations<a href="https://thehackernews.com/2023/02/iranian-oilrig-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state hacking group known as&nbsp; OilRig &nbsp;has continued to target government organizations in the Middle East as part of a cyber espionage campaign that leverages a new backdoor to exfiltrate data. "The campaign abuses legitimate but compromised email accounts to send stolen data to external mail accounts controlled by the attackers," Trend Micro researchers Mohamed Fahmy, Sherif Magdy, and Mahmoud Zohdy&nbsp; said . While the technique in itself is not unheard of, the development marks the first time OilRig has adopted it in its playbook, indicating the continued evolution of its methods to bypass security protections. The advanced persistent threat (APT) group, also referred to as APT34, Cobalt Gypsy, Europium, and Helix Kitten, has been&nbsp; documented &nbsp;for its targeted phishing attacks in the Middle East since at least 2014. Linked to Iran's Ministry of Intelligence and Security (MOIS), the group is known to use a diverse toolset in its operations, with re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Gamaredon APT targets Ukrainian authorities with new malware<a href="https://securityaffairs.com/141752/malware/apt-gamaredon-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actor Gamaredon&nbsp;employed new spyware in cyber attacks aimed at public authorities and critical information infrastructure in Ukraine.
+The State Cyber Protection Centre (SCPC) of Ukraine warns of a new wave of targeted attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
