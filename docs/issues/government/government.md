@@ -8,6 +8,37 @@ nav_order: 900075
 
 ## Government
 ---
+February 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Oracle, SugarCRM bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/141838/security/oracle-sugarcrm-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited vulnerabilities in SugarCRM and Oracle products to its Known Exploited Vulnerabilities Catalog.
+The Cybersecurity and Infrastructure Security Agency (CISA) added Oracle and SugarCRM flaws, respectively tracked as CVE-2022-21587...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-FR warns of a new wave of ransomware attacks targeting VMware ESXi servers<a href="https://securityaffairs.com/141804/cyber-crime/vmware-esxi-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of ransomware attacks is targeting VMware ESXi servers to deliver ransomware, CERT of France warns.
+The French Computer Emergency Response Team (CERT-FR) warns that threat actors are targeting VMware ESXi servers to deploy ransomware.
+CERT-FR...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Ransomware Attacks Exploiting VMware Bug to Target ESXi Servers<a href="https://thehackernews.com/2023/02/new-wave-of-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware ESXi hypervisors are the target of a new wave of attacks designed to deploy ransomware on compromised systems. "These attack campaigns appear to exploit CVE-2021-21974, for which a patch has been available since February 23, 2021," the Computer Emergency Response Team (CERT) of France&nbsp; said &nbsp;in an advisory on Friday. VMware, in its own alert released at the time, described the issue as an&nbsp; OpenSLP &nbsp;heap-overflow vulnerability that could lead to the execution of arbitrary code. "A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution," the virtualization services provider&nbsp; noted . French cloud services provider OVHcloud&nbsp; said &nbsp;the attacks are being detected globally with a specific focus on Europe. It's being suspected that the intrusions are related to a new Rust-based ransomware strain called Nevada that emerged
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,158 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft attributes Charlie Hebdo data leak to Iran-linked NEPTUNIUM APT<a href="https://securityaffairs.com/141855/apt/charlie-hebdo-data-leak-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributes a recent cyber attack against the satirical French magazine Charlie Hebdo to an Iran-linked NEPTUNIUM APT group. 
+Microsoft’s Digital Threat Analysis Center (DTAC) attributes a recent cyberattacks against the satirical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 405 by Pierluigi Paganini<a href="https://securityaffairs.com/141850/breaking-news/security-affairs-newsletter-round-405-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+CISA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PixPirate: New Android Banking Trojan Targeting Brazilian Financial Institutions<a href="https://thehackernews.com/2023/02/pixpirate-new-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android banking trojan has set its eyes on Brazilian financial institutions to commit fraud by leveraging the PIX payments platform. Italian cybersecurity company Cleafy, which discovered the malware between the end of 2022 and the beginning of 2023, is tracking it under the name PixPirate. "PixPirate belongs to the newest generation of Android banking trojan, as it can perform ATS ( Automatic Transfer System ), enabling attackers to automate the insertion of a malicious money transfer over the Instant Payment platform Pix, adopted by multiple Brazilian banks," researchers Francesco Iubatti and Alessandro Strino  said . It is also the latest addition in a long list of Android banking malware to abuse the operating system's accessibility services API to carry out its nefarious functions, including disabling Google Play Protect, intercepting SMS messages, preventing uninstallation, and serving rogue ads via push notifications. Besides stealing passwords entered
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Ransomware Attacks Exploiting VMware Bug to Target ESXi Servers<a href="https://thehackernews.com/2023/02/new-wave-of-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware ESXi hypervisors are the target of a new wave of attacks designed to deploy ransomware on compromised systems. "These attack campaigns appear to exploit CVE-2021-21974, for which a patch has been available since February 23, 2021," the Computer Emergency Response Team (CERT) of France  said  in an advisory on Friday. VMware, in its own alert released at the time, described the issue as an  OpenSLP  heap-overflow vulnerability that could lead to the execution of arbitrary code. "A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution," the virtualization services provider  noted . French cloud services provider OVHcloud  said  the attacks are being detected globally with a specific focus on Europe. It's being suspected that the intrusions are related to a new Rust-based ransomware strain called Nevada that emerged
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Hackers Actively Exploiting Zero-Day in Fortra's GoAnywhere MFT<a href="https://thehackernews.com/2023/02/warning-hackers-actively-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability affecting Fortra's GoAnywhere MFT managed file transfer application is being actively exploited in the wild. Details of the flaw were first  publicly shared  by security reporter Brian Krebs on Mastodon. No public advisory has been published by Fortra. The vulnerability is a case of remote code injection that requires access to the administrative console of the application, making it imperative that the systems are not exposed to the public internet. According to security researcher Kevin Beaumont, there are over 1,000 on-premise instances that are publicly accessible over the internet, a majority of which are located in the U.S. "The Fortra advisory Krebs quoted advises GoAnywhere MFT customers to review all administrative users and monitor for unrecognized usernames, especially those created by system," Rapid7 researcher Caitlin Condon  said . "The logical deduction is that Fortra is likely seeing follow-on attacker behavior that inc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Oracle, SugarCRM bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/141838/security/oracle-sugarcrm-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited vulnerabilities in SugarCRM and Oracle products to its Known Exploited Vulnerabilities Catalog.
+The Cybersecurity and Infrastructure Security Agency (CISA) added Oracle and SugarCRM flaws, respectively tracked as CVE-2022-21587...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere MFT zero-day flaw actively exploited<a href="https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a zero-day vulnerability affecting Fortra's GoAnywhere MFT managed file transfer application.
+Experts warn that threat actors are actively exploiting a zero-day vulnerability in Fortra's GoAnywhere MFT managed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-FR warns of a new wave of ransomware attacks targeting VMware ESXi servers<a href="https://securityaffairs.com/141804/cyber-crime/vmware-esxi-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of ransomware attacks is targeting VMware ESXi servers to deliver ransomware, CERT of France warns.
+The French Computer Emergency Response Team (CERT-FR) warns that threat actors are targeting VMware ESXi servers to deploy ransomware.
+CERT-FR...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tallahassee Memorial HealthCare, Florida, has taken IT systems offline after cyberattack<a href="https://securityaffairs.com/141792/hacking/tallahassee-memorial-healthcare-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tallahassee Memorial HealthCare (TMH) hospital in Florida was forced to take offline its systems after a cyberattack.
+The Tallahassee Memorial HealthCare (TMH) hospital has taken its IT systems offline and suspended non-emergency procedures after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 3, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

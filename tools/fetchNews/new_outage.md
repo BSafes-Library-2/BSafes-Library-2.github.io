@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+February 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tallahassee Memorial HealthCare, Florida, has taken IT systems offline after cyberattack<a href="https://securityaffairs.com/141792/hacking/tallahassee-memorial-healthcare-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tallahassee Memorial HealthCare (TMH) hospital in Florida was forced to take offline its systems after a cyberattack.
+The Tallahassee Memorial HealthCare (TMH) hospital has taken its IT systems offline and suspended non-emergency procedures after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

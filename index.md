@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2023
+February 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft attributes Charlie Hebdo data leak to Iran-linked NEPTUNIUM APT<a href="https://securityaffairs.com/141855/apt/charlie-hebdo-data-leak-iran.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2023
+February 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 405 by Pierluigi Paganini<a href="https://securityaffairs.com/141850/breaking-news/security-affairs-newsletter-round-405-by-pierluigi-paganini.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 04, 2023
+February 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PixPirate: New Android Banking Trojan Targeting Brazilian Financial Institutions<a href="https://thehackernews.com/2023/02/pixpirate-new-android-banking-trojan.html"> Full Text</a>
@@ -85,7 +85,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 04, 2023
+February 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wave of Ransomware Attacks Exploiting VMware Bug to Target ESXi Servers<a href="https://thehackernews.com/2023/02/new-wave-of-ransomware-attacks.html"> Full Text</a>
@@ -101,7 +101,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 04, 2023
+February 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Hackers Actively Exploiting Zero-Day in Fortra's GoAnywhere MFT<a href="https://thehackernews.com/2023/02/warning-hackers-actively-exploiting.html"> Full Text</a>
@@ -117,7 +117,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2023
+February 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Oracle, SugarCRM bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/141838/security/oracle-sugarcrm-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2023
+February 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoAnywhere MFT zero-day flaw actively exploited<a href="https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html"> Full Text</a>
@@ -151,7 +151,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2023
+February 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-FR warns of a new wave of ransomware attacks targeting VMware ESXi servers<a href="https://securityaffairs.com/141804/cyber-crime/vmware-esxi-ransomware.html"> Full Text</a>
@@ -169,7 +169,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 4, 2023
+February 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tallahassee Memorial HealthCare, Florida, has taken IT systems offline after cyberattack<a href="https://securityaffairs.com/141792/hacking/tallahassee-memorial-healthcare-cyberattack.html"> Full Text</a>

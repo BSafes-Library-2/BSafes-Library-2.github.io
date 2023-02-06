@@ -7,6 +7,20 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2023 - CERT-FR
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campaign to exploit a vulnerability affecting VMware ESXi <a href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On February 3, 2023, CERT-FR became aware of attack campaigns targeting VMware ESXi hypervisors with the aim of deploying ransomware on them.
+
+In the current state of investigations , these attack campaigns seem to exploit the CVE-2021-21974 vulnerability, for which a patch has been available since February 23, 2021. This vulnerability affects the Service Location Protocol ( SLP ) service and allows a attacker to remotely exploit arbitrary code.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 2, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

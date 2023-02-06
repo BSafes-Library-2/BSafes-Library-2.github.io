@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Data breach at Vice Media involved SSNs, financial info<a href="https://therecord.media/data-breach-at-vice-media-involved-ssns-financial-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach involving Vice Media leaked the sensitive information and financial data of more than 1,700 individuals, according to filings with Maine’s Attorney General.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
