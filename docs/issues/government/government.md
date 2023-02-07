@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian National Cybersecurity Agency (ACN) warns of massive ransomware campaign targeting VMware ESXi servers<a href="https://securityaffairs.com/141865/cyber-crime/acn-ransomware-campaign-targets-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian National Cybersecurity Agency (ACN) warns of an ongoing massive ransomware campaign targeting VMware ESXi servers.
+The Italian National Cybersecurity Agency (ACN) warns of an ongoing massive ransomware campaign targeting VMware ESXi servers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

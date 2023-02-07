@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSH Releases Patch for New Pre-Auth Double Free Vulnerability<a href="https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of OpenSSH have released OpenSSH 9.2 to address a number of security bugs, including a memory safety vulnerability in the OpenSSH server (sshd). Tracked as&nbsp; CVE-2023-25136 , the shortcoming has been classified as a pre-authentication double free vulnerability that was introduced in version 9.1. "This is not believed to be exploitable, and it occurs in the unprivileged pre-auth process that is subject to chroot(2) and is further sandboxed on most major platforms," OpenSSH disclosed in its&nbsp; release notes &nbsp;on February 2, 2023. Credited with&nbsp; reporting &nbsp;the flaw to OpenSSH in July 2022 is security researcher Mantas Mikulenas. OpenSSH is the open source implementation of the secure shell ( SSH ) protocol that offers a suite of services for encrypted communications over an unsecured network in a client-server architecture. "The exposure occurs in the chunk of memory freed twice, the 'options.kex_algorithms,'" Qualys researcher Saeed Abbasi s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

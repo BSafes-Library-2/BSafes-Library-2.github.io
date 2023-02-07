@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS in the Real World: Who's Responsible to Secure this Data?<a href="https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When SaaS applications started growing in popularity, it was unclear who was responsible for securing the data. Today, most security and IT teams understand the shared responsibility model, in which the SaaS vendor is responsible for securing the application, while the organization is responsible for securing their data.&nbsp; What's far murkier, however, is where the data responsibility lies on the organization's side. For large organizations, this is a particularly challenging question. They store terabytes of customer data, employee data, financial data, strategic data, and other sensitive data records online.&nbsp; SaaS data breaches and SaaS ransomware attacks can lead to the loss or public exposure of that data. Depending on the industry, some businesses could face stiff regulatory penalties for data breaches on top of the negative PR and loss of faith these breaches bring with them.&nbsp; Finding the right security model is the first step before deploying any type of SSPM or other SaaS sec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

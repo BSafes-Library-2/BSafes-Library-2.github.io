@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian Nation-State Group Sanctioned by U.S. Behind Charlie Hebdo Hack<a href="https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian nation-state group sanctioned by the U.S. government has been attributed to the hack of the French satirical magazine Charlie Hebdo in early January 2023. Microsoft, which disclosed details of the incident, is tracking the activity cluster under its chemical element-themed moniker&nbsp; NEPTUNIUM , which is an Iran-based company known as Emennet Pasargad. In January 2022, the U.S. Federal Bureau of Investigation (FBI)&nbsp; tied &nbsp;the state-backed cyber unit to a sophisticated influence campaign carried out to&nbsp; interfere &nbsp;with the 2020 presidential elections. Two Iranian nationals have been accused for their role in the disinformation and threat campaign. Microsoft's disclosure comes after a "hacktivist" group named Holy Souls (now identified as NEPTUNIUM) claimed to be in possession of the personal information of more than 200,000 Charlie Hebdo customers, including their full names, telephone numbers, and home and email addresses. The breach, which allowed NEPTUNIU
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland’s Most-Wanted Hacker Nabbed in France<a href="https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late October 2022, Julius “Zeekill” Kivimäki was charged (and “arrested in absentia,” according to the Finns) with attempting to extort money from the Vastaamo Psychotherapy Center.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

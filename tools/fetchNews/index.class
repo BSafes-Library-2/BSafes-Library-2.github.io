@@ -34,6 +34,281 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Say Cyberattack Caused Suicide Helpline’s Outage<a href="https://www.securityweek.com/feds-say-cyberattack-caused-suicide-helplines-outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“On Dec. 1, the voice calling functionality of the 988 Lifeline was rendered unavailable as a result of a cybersecurity incident,” Danielle Bennett, a spokeswoman for the Substance Abuse and Mental Health Services Administration, said in an email.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader Malware Using Malicious NSIS Executables to Target E-Commerce Industry<a href="https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce industries in South Korea and the U.S. are at the receiving end of an ongoing GuLoader malware campaign, cybersecurity firm Trellix disclosed late last month. The malspam activity is notable for transitioning away from malware-laced Microsoft Word documents to NSIS executable files for loading the malware. Other countries targeted as part of the campaign include Germany, Saudi Arabia, Taiwan and Japan. NSIS , short for Nullsoft Scriptable Install System, is a script-driven open source system used to develop installers for the Windows operating system. While attack chains in 2021 leveraged a ZIP archive containing a macro-laced Word document to drop an executable file tasked with loading GuLoader, the new phishing wave employs NSIS files embedded within ZIP or ISO images to activate the infection. "Embedding malicious executable files in archives and images can help threat actors evade detection," Trellix researcher Nico Paulo Yturriaga  said . Over the cou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy, France and Singapore Warn of a Spike in ESXI Ransomware<a href="https://securityaffairs.com/141889/cyber-crime/experts-warn-esxi-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESXi ransomware targeted thousands of VMware servers in a global-scale campaign, security experts and international CERTs warn.
+Thousands of computer servers have been targeted by a global ransomware hacking attack targeting VMware (VMW.N) ESXi servers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 110,000 more users affected in LG Uplus' data breach<a href="https://en.yna.co.kr/view/AEN20230203008600325?section=news&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On January 10, the nation's third-largest wireless carrier disclosed that the personal data of 180,000 customers, including their names, birth dates, and phone numbers, had been breached.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Iranian Nation-State Group Sanctioned by U.S. Behind Charlie Hebdo Hack<a href="https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian nation-state group sanctioned by the U.S. government has been attributed to the hack of the French satirical magazine Charlie Hebdo in early January 2023. Microsoft, which disclosed details of the incident, is tracking the activity cluster under its chemical element-themed moniker  NEPTUNIUM , which is an Iran-based company known as Emennet Pasargad. In January 2022, the U.S. Federal Bureau of Investigation (FBI)  tied  the state-backed cyber unit to a sophisticated influence campaign carried out to  interfere  with the 2020 presidential elections. Two Iranian nationals have been accused for their role in the disinformation and threat campaign. Microsoft's disclosure comes after a "hacktivist" group named Holy Souls (now identified as NEPTUNIUM) claimed to be in possession of the personal information of more than 200,000 Charlie Hebdo customers, including their full names, telephone numbers, and home and email addresses. The breach, which allowed NEPTUNIU
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware adds support for encrypting Linux, VMware ESXi systems<a href="https://securityaffairs.com/141876/cyber-crime/royal-ransomware-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Ransomware operators added support for encrypting Linux devices and target VMware ESXi virtual machines.
+The Royal Ransomware gang is the latest extortion group in order of time to add support for encrypting Linux devices and target VMware ESXi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland’s Most-Wanted Hacker Nabbed in France<a href="https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late October 2022, Julius “Zeekill” Kivimäki was charged (and “arrested in absentia,” according to the Finns) with attempting to extort money from the Vastaamo Psychotherapy Center.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS in the Real World: Who's Responsible to Secure this Data?<a href="https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When SaaS applications started growing in popularity, it was unclear who was responsible for securing the data. Today, most security and IT teams understand the shared responsibility model, in which the SaaS vendor is responsible for securing the application, while the organization is responsible for securing their data.  What's far murkier, however, is where the data responsibility lies on the organization's side. For large organizations, this is a particularly challenging question. They store terabytes of customer data, employee data, financial data, strategic data, and other sensitive data records online.  SaaS data breaches and SaaS ransomware attacks can lead to the loss or public exposure of that data. Depending on the industry, some businesses could face stiff regulatory penalties for data breaches on top of the negative PR and loss of faith these breaches bring with them.  Finding the right security model is the first step before deploying any type of SSPM or other SaaS sec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian National Cybersecurity Agency (ACN) warns of massive ransomware campaign targeting VMware ESXi servers<a href="https://securityaffairs.com/141865/cyber-crime/acn-ransomware-campaign-targets-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian National Cybersecurity Agency (ACN) warns of an ongoing massive ransomware campaign targeting VMware ESXi servers.
+The Italian National Cybersecurity Agency (ACN) warns of an ongoing massive ransomware campaign targeting VMware ESXi servers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mortgage Financial Technologies Company 8Twelve Exposed 717,814 Records Online<a href="https://www.websiteplanet.com/news/8twelve-leak-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Jeremiah Fowler together with the Website Planet research team discovered an open and non-password-protected database that contained 717,814 records and the PII of thousands of Canadian citizens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSH Releases Patch for New Pre-Auth Double Free Vulnerability<a href="https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of OpenSSH have released OpenSSH 9.2 to address a number of security bugs, including a memory safety vulnerability in the OpenSSH server (sshd). Tracked as  CVE-2023-25136 , the shortcoming has been classified as a pre-authentication double free vulnerability that was introduced in version 9.1. "This is not believed to be exploitable, and it occurs in the unprivileged pre-auth process that is subject to chroot(2) and is further sandboxed on most major platforms," OpenSSH disclosed in its  release notes  on February 2, 2023. Credited with  reporting  the flaw to OpenSSH in July 2022 is security researcher Mantas Mikulenas. OpenSSH is the open source implementation of the secure shell ( SSH ) protocol that offers a suite of services for encrypted communications over an unsecured network in a client-server architecture. "The exposure occurs in the chunk of memory freed twice, the 'options.kex_algorithms,'" Qualys researcher Saeed Abbasi s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVEs expected to rise in 2023, as organizations still struggle to patch<a href="https://www.cybersecuritydive.com/news/cves-rise-2023-struggle-to-patch/641955/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase is likely because researchers are investing more to uncover vulnerabilities and organizations are also conducting more audits to find flaws in their software inventory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FormBook Malware Spreads via Malvertising Using MalVirt Loader to Evade Detection<a href="https://thehackernews.com/2023/02/formbook-malware-spreads-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing malvertising campaign is being used to distribute virtualized .NET loaders that are designed to deploy the FormBook information-stealing malware. "The loaders, dubbed MalVirt, use obfuscated virtualization for anti-analysis and evasion along with the Windows Process Explorer driver for terminating processes," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel  said  in a technical write-up. The shift to Google malvertising is the latest example of how crimeware actors are  devising alternate delivery routes  to distribute malware ever since Microsoft announced plans to block the execution of macros in Office by default from files downloaded from the internet. Malvertising entails placing rogue search engine advertisements in hopes of tricking users searching for popular software like Blender into downloading the trojanized software. The MalVirt loaders, which are implemented in .NET, use the legitimate  KoiVM  virtualizing protector for .NET applicati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Switzerland’s Largest University With ‘Professional’ Cyberattack<a href="https://www.swissinfo.ch/eng/sci-tech/hackers-target-zurich-university-with--professional--cyberattack/48256306?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The university said on Friday that it is battling to keep the hackers out of critical zones by isolating parts of its IT system. This defense has compromised access to its systems but prevented cyberattackers from encrypting or extracting data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inability to prevent bad things from happening seen as the worst part of a security job<a href="https://www.helpnetsecurity.com/2023/02/03/security-teams-confidence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+83% of organizations experienced more than one data breach in 2022. However, 97% of respondents feel confident that they are well-equipped with the tools and processes needed to prevent and identify intrusions or breaches, according to Exabeam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Truck Brokerage Company FR8 Exposed 140GB of Data Due to Misconfigured Server<a href="https://www.hackread.com/india-truck-brokerage-company-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the IT security researcher Anurag Sen working with Italian cyber security firm FlashStart, the organization has exposed more than 140 gigabytes of data, which is available to the public without any password or security authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MalVirt Loader Distributes Formbook and XLoader with Unusual Levels of Obfuscation<a href="https://cyware.com/news/malvirt-loader-distributes-formbook-and-xloader-with-unusual-levels-of-obfuscation-47cd6df9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals were found distributing virtualized .NET malware loaders, dubbed MalVirt, in a Google Ads-based malvertising campaign to install the Formbook stealer and XLoader. The hackers used KoiVM virtualization technology to obfuscate their implementation and execution in their campaigns. The  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

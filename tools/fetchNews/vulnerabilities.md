@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Hackers Actively Exploiting Zero-Day in Fortra's GoAnywhere MFT<a href="https://thehackernews.com/2023/02/warning-hackers-actively-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability affecting Fortra's GoAnywhere MFT managed file transfer application is being actively exploited in the wild. Details of the flaw were first&nbsp; publicly shared &nbsp;by security reporter Brian Krebs on Mastodon. No public advisory has been published by Fortra. The vulnerability is a case of remote code injection that requires access to the administrative console of the application, making it imperative that the systems are not exposed to the public internet. According to security researcher&nbsp;Kevin Beaumont, there are over 1,000 on-premise instances that are publicly accessible over the internet, a majority of which are located in the U.S. "The Fortra advisory Krebs quoted advises GoAnywhere MFT customers to review all administrative users and monitor for unrecognized usernames, especially those created by system," Rapid7 researcher Caitlin Condon&nbsp; said . "The logical deduction is that Fortra is likely seeing follow-on attacker behavior that inc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere MFT zero-day flaw actively exploited<a href="https://securityaffairs.com/141826/hacking/goanywhere-mft-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a zero-day vulnerability affecting Fortra's GoAnywhere MFT managed file transfer application.
+Experts warn that threat actors are actively exploiting a zero-day vulnerability in Fortra's GoAnywhere MFT managed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

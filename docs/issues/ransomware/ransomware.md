@@ -8,6 +8,36 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy, France and Singapore Warn of a Spike in ESXI Ransomware<a href="https://securityaffairs.com/141889/cyber-crime/experts-warn-esxi-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESXi ransomware targeted thousands of VMware servers in a global-scale campaign, security experts and international CERTs warn.
+Thousands of computer servers have been targeted by a global ransomware hacking attack targeting VMware (VMW.N) ESXi servers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware adds support for encrypting Linux, VMware ESXi systems<a href="https://securityaffairs.com/141876/cyber-crime/royal-ransomware-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Royal Ransomware operators added support for encrypting Linux devices and target VMware ESXi virtual machines.
+The Royal Ransomware gang is the latest extortion group in order of time to add support for encrypting Linux devices and target VMware ESXi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

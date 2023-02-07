@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 110,000 more users affected in LG Uplus' data breach<a href="https://en.yna.co.kr/view/AEN20230203008600325?section=news&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On January 10, the nation's third-largest wireless carrier disclosed that the personal data of 180,000 customers, including their names, birth dates, and phone numbers, had been breached.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mortgage Financial Technologies Company 8Twelve Exposed 717,814 Records Online<a href="https://www.websiteplanet.com/news/8twelve-leak-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher Jeremiah Fowler together with the Website Planet research team discovered an open and non-password-protected database that contained 717,814 records and the PII of thousands of Canadian citizens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Truck Brokerage Company FR8 Exposed 140GB of Data Due to Misconfigured Server<a href="https://www.hackread.com/india-truck-brokerage-company-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the IT security researcher Anurag Sen working with Italian cyber security firm FlashStart, the organization has exposed more than 140 gigabytes of data, which is available to the public without any password or security authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVEs expected to rise in 2023, as organizations still struggle to patch<a href="https://www.cybersecuritydive.com/news/cves-rise-2023-struggle-to-patch/641955/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase is likely because researchers are investing more to uncover vulnerabilities and organizations are also conducting more audits to find flaws in their software inventory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inability to prevent bad things from happening seen as the worst part of a security job<a href="https://www.helpnetsecurity.com/2023/02/03/security-teams-confidence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+83% of organizations experienced more than one data breach in 2022. However, 97% of respondents feel confident that they are well-equipped with the tools and processes needed to prevent and identify intrusions or breaches, according to Exabeam.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

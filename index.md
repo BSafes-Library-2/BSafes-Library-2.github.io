@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Say Cyberattack Caused Suicide Helpline’s Outage<a href="https://www.securityweek.com/feds-say-cyberattack-caused-suicide-helplines-outage/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GuLoader Malware Using Malicious NSIS Executables to Target E-Commerce Industry<a href="https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy, France and Singapore Warn of a Spike in ESXI Ransomware<a href="https://securityaffairs.com/141889/cyber-crime/experts-warn-esxi-ransomware-attacks.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 110,000 more users affected in LG Uplus' data breach<a href="https://en.yna.co.kr/view/AEN20230203008600325?section=news&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iranian Nation-State Group Sanctioned by U.S. Behind Charlie Hebdo Hack<a href="https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Ransomware adds support for encrypting Linux, VMware ESXi systems<a href="https://securityaffairs.com/141876/cyber-crime/royal-ransomware-vmware-esxi.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finland’s Most-Wanted Hacker Nabbed in France<a href="https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaaS in the Real World: Who's Responsible to Secure this Data?<a href="https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian National Cybersecurity Agency (ACN) warns of massive ransomware campaign targeting VMware ESXi servers<a href="https://securityaffairs.com/141865/cyber-crime/acn-ransomware-campaign-targets-vmware-esxi.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mortgage Financial Technologies Company 8Twelve Exposed 717,814 Records Online<a href="https://www.websiteplanet.com/news/8twelve-leak-report/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSH Releases Patch for New Pre-Auth Double Free Vulnerability<a href="https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVEs expected to rise in 2023, as organizations still struggle to patch<a href="https://www.cybersecuritydive.com/news/cves-rise-2023-struggle-to-patch/641955/?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FormBook Malware Spreads via Malvertising Using MalVirt Loader to Evade Detection<a href="https://thehackernews.com/2023/02/formbook-malware-spreads-via.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Switzerland’s Largest University With ‘Professional’ Cyberattack<a href="https://www.swissinfo.ch/eng/sci-tech/hackers-target-zurich-university-with--professional--cyberattack/48256306?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inability to prevent bad things from happening seen as the worst part of a security job<a href="https://www.helpnetsecurity.com/2023/02/03/security-teams-confidence/?&web_view=true"> Full Text</a>
@@ -277,7 +277,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Truck Brokerage Company FR8 Exposed 140GB of Data Due to Misconfigured Server<a href="https://www.hackread.com/india-truck-brokerage-company-data-leak/?&web_view=true"> Full Text</a>
@@ -293,7 +293,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MalVirt Loader Distributes Formbook and XLoader with Unusual Levels of Obfuscation<a href="https://cyware.com/news/malvirt-loader-distributes-formbook-and-xloader-with-unusual-levels-of-obfuscation-47cd6df9"> Full Text</a>
