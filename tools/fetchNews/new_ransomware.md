@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux variant of Clop Ransomware uses a flawed encryption algorithm<a href="https://securityaffairs.com/141932/cyber-crime/clop-ransomware-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux variant of the Clop ransomware has been observed in the wild, the good news is that its encryption algorithm is flawed.
+SentinelLabs researchers have observed the first Linux variant of the Clop ransomware. The researchers noticed that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Variant of Clop Ransomware Spotted, But Uses Faulty Encryption Algorithm<a href="https://thehackernews.com/2023/02/linux-variant-of-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first-ever Linux variant of the Clop ransomware has been detected in the wild, but with a faulty encryption algorithm that has made it possible to reverse engineer the process. "The ELF executable contains a flawed encryption algorithm making it possible to decrypt locked files without paying the ransom," SentinelOne researcher Antonis Terefos&nbsp; said &nbsp;in a report shared with The Hacker News. The cybersecurity firm, which has made available a decryptor , said it observed the ELF version on December 26, 2022, while also noting its similarities to the Windows flavor when it comes using the same encryption method. The detected sample is said to be part of a larger attack targeting educational institutions in Colombia, including La Salle University, around the same time. The university was added to the criminal group's leak site in early January 2023, per&nbsp; FalconFeedsio . Known to have been active since 2019, the Clop (stylized as Cl0p) ransomware operation&nbsp; suffered
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

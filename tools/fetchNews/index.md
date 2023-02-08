@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Steel Industry Supplier Vesuvius Suffers Cyber Incident<a href="https://therecord.media/vesuvius-plc-cyber-incident-steel-industry-supplier/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encrypted Messaging App Exclu Used by Criminal Groups Cracked by Joint Law Enforcement<a href="https://thehackernews.com/2023/02/encrypted-messaging-app-exclu-used-by.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux variant of Clop Ransomware uses a flawed encryption algorithm<a href="https://securityaffairs.com/141932/cyber-crime/clop-ransomware-linux-variant.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Gives 19,000 Students A Day Off School at Berkeley County Schools<a href="https://dailycaller.com/2023/02/06/hackers-19000-students-day-off-west-virginia/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Vulnerabilities in Sunlogin to Deploy Sliver C2 Framework<a href="https://thehackernews.com/2023/02/hackers-exploit-vulnerabilities-in.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware has no evidence of zero-day exploitation in ESXiArgs ransomware attacks<a href="https://securityaffairs.com/141920/hacking/vmware-zero-day-esxiargs-ransomware.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp HealthCare Notifies Nearly 63,000 Patients of Data Breach<a href="https://www.sandiegouniontribune.com/news/health/story/2023-02-06/sharp-notified-x-patients-of-data-breach?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tackling the New Cyber Insurance Requirements: Can Your Organization Comply?<a href="https://thehackernews.com/2023/02/tackling-new-cyber-insurance.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSH addressed a new pre-auth double free vulnerability<a href="https://securityaffairs.com/141907/hacking/openssh-pre-auth-double-free-bug.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AveMaria Info-stealer Changes its Strategy to Infect More Users<a href="https://cyware.com/news/avemaria-info-stealer-changes-its-strategy-to-infect-more-users-82bea7e4"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Variant of Clop Ransomware Spotted, But Uses Faulty Encryption Algorithm<a href="https://thehackernews.com/2023/02/linux-variant-of-clop-ransomware.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous leaked 128GB of data stolen from Russian ISP Convex revealing FSB’s warrantless surveillance<a href="https://securityaffairs.com/141888/hacktivism/anonymous-fsb-surveillance.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massachusetts-Based MKS Instruments Falls Victim to Ransomware Attack<a href="https://www.csoonline.com/article/3687098/mks-instruments-falls-victim-to-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Finds No Evidence of 0-Day in Ongoing ESXiArgs Ransomware Spree<a href="https://thehackernews.com/2023/02/vmware-finds-no-evidence-of-0-day-flaw.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive takedown puts ‘small dent’ in ransomware problem<a href="https://www.cybersecuritydive.com/news/hive-takedown-small-dent-ransomware/642066/?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Banking Trojan TgToxic Targets Android Users in Southeast Asia<a href="https://cyware.com/news/banking-trojan-tgtoxic-targets-android-users-in-southeast-asia-da851b43"> Full Text</a>

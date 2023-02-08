@@ -8,6 +8,36 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Vulnerabilities in Sunlogin to Deploy Sliver C2 Framework<a href="https://thehackernews.com/2023/02/hackers-exploit-vulnerabilities-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging known flaws in Sunlogin software to deploy the Sliver command-and-control (C2) framework for carrying out post-exploitation activities. The findings come from AhnLab Security Emergency response Center (ASEC), which found that security vulnerabilities in Sunlogin, a remote desktop program developed in China, are being abused to deploy a wide range of payloads. "Not only did threat actors use the Sliver backdoor, but they also used the&nbsp; BYOVD &nbsp;(Bring Your Own Vulnerable Driver) malware to incapacitate security products and install reverse shells," the researchers&nbsp; said . Attack chains commence with the exploitation of two remote code execution bugs in Sunlogin versions prior to v11.0.0.33 (CNVD-2022-03672 and CNVD-2022-10270), followed by delivering Sliver or other malware such as&nbsp; Gh0st RAT &nbsp;and XMRig crypto coin miner. In one instance, the threat actor is said to have weaponized the Sunlogin flaws to install a PowerShell script that, in turn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSH addressed a new pre-auth double free vulnerability<a href="https://securityaffairs.com/141907/hacking/openssh-pre-auth-double-free-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of OpenSSH address multiple security issues, including a memory safety bug in the OpenSSH server (sshd).
+The maintainers of OpenSSH have addressed a number of security vulnerabilities with the release of version 9.2.
+One of the issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

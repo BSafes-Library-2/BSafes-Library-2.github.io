@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted Messaging App Exclu Used by Criminal Groups Cracked by Joint Law Enforcement<a href="https://thehackernews.com/2023/02/encrypted-messaging-app-exclu-used-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint law enforcement operation conducted by Germany, the Netherlands, and Poland has cracked yet another encrypted messaging application named&nbsp; Exclu &nbsp;used by organized crime groups. Eurojust, in a press statement,&nbsp; said &nbsp;the February 3 exercise resulted in the arrests of 45 individuals across Belgium and the Netherlands, some of whom include users as well as the administrators and owners of the service, Authorities also launched raids in 79 locations, leading to the seizure of €5.5 million in cash, 300,000 ecstasy tablets, 20 firearms, and 200 phones. Two drug laboratories have further been shut down. Investigation into Exlcu is said to have commenced in Germany as far back as June 2020. The application, prior to its takedown, had an estimated 3,000 users, of which 750 are Dutch speakers. The Politie, in an announcement of its own, noted that it was able to gain covert access to the service, permitting the agency to read messages sent by its users for the past five months. &amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

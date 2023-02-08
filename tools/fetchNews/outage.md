@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Say Cyberattack Caused Suicide Helpline’s Outage<a href="https://www.securityweek.com/feds-say-cyberattack-caused-suicide-helplines-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“On Dec. 1, the voice calling functionality of the 988 Lifeline was rendered unavailable as a result of a cybersecurity incident,” Danielle Bennett, a spokeswoman for the Substance Abuse and Mental Health Services Administration, said in an email.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

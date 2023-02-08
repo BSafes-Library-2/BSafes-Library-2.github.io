@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling the New Cyber Insurance Requirements: Can Your Organization Comply?<a href="https://thehackernews.com/2023/02/tackling-new-cyber-insurance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With cyberattacks around the world escalating rapidly, insurance companies are ramping up the requirements to qualify for a cyber insurance policy.&nbsp; Ransomware attacks were up 80% last year , prompting underwriters to put in place a number of new provisions designed to prevent ransomware and stem the record number of claims. Among these are a mandate to enforce multi-factor authentication (MFA) across all admin access in a network environment as well as protect all privileged accounts, specifically machine-to-machine connections known as service accounts.&nbsp; But identifying MFA and privileged account protection gaps within an environment can be extremely challenging for organizations, as there is no utility among the most commonly used security and identity products that can actually provide this visibility. In this article, we'll explore these identity protection challenges and suggest steps organizations can take to overcome them, including signing up for a&nbsp; free identity risk a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive takedown puts ‘small dent’ in ransomware problem<a href="https://www.cybersecuritydive.com/news/hive-takedown-small-dent-ransomware/642066/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The takedown did not result in criminal arrests of any individuals involved or affiliated with Hive, and the predominant assumption is that the Hive members will regroup or splinter to join other ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,63 @@ nav_order: 900015
 
 ## Attack
 ---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Steel Industry Supplier Vesuvius Suffers Cyber Incident<a href="https://therecord.media/vesuvius-plc-cyber-incident-steel-industry-supplier/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British manufacturer confirmed that the incident “involved unauthorized access to our systems,” although it did not provide further details on what the access was or what kind of cyber actor may have been responsible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware has no evidence of zero-day exploitation in ESXiArgs ransomware attacks<a href="https://securityaffairs.com/141920/hacking/vmware-zero-day-esxiargs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware said there is no evidence that threat actors are exploiting a zero-day flaw in its software as part of an&nbsp;ongoing ESXiArgs ransomware campaign.
+VMware said that it found no evidence that the threat actors behind the ongoing ESXiArgs ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts-Based MKS Instruments Falls Victim to Ransomware Attack<a href="https://www.csoonline.com/article/3687098/mks-instruments-falls-victim-to-ransomware-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it has notified law enforcement authorities while it investigates and assesses the impact of the incident by engaging “appropriate incident response professionals.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Finds No Evidence of 0-Day in Ongoing ESXiArgs Ransomware Spree<a href="https://thehackernews.com/2023/02/vmware-finds-no-evidence-of-0-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Monday said it found no evidence that threat actors are leveraging an unknown security flaw, i.e., a zero-day, in its software as part of an&nbsp; ongoing ransomware attack spree &nbsp;worldwide. "Most reports state that End of General Support (EoGS) and/or significantly out-of-date products are being targeted with known vulnerabilities which were previously addressed and disclosed in VMware Security Advisories (VMSAs)," the virtualization services provider&nbsp; said . The company is further recommending users to upgrade to the latest available supported releases of vSphere components to mitigate known issues and&nbsp; disable the OpenSLP service &nbsp;in ESXi. "In 2021, ESXi 7.0 U2c and ESXi 8.0 GA began shipping with the service disabled by default," VMware added. The announcement comes as unpatched and unsecured VMware ESXi servers around the world have been targeted in a&nbsp; large-scale &nbsp; ransomware campaign &nbsp;dubbed ESXiArgs by likely exploiting a two-year-old bug VMware p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

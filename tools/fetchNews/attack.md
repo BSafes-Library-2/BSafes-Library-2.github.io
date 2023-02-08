@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Switzerland’s Largest University With ‘Professional’ Cyberattack<a href="https://www.swissinfo.ch/eng/sci-tech/hackers-target-zurich-university-with--professional--cyberattack/48256306?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The university said on Friday that it is battling to keep the hackers out of critical zones by isolating parts of its IT system. This defense has compromised access to its systems but prevented cyberattackers from encrypting or extracting data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

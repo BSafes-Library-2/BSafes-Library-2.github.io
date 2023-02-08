@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp HealthCare Notifies Nearly 63,000 Patients of Data Breach<a href="https://www.sandiegouniontribune.com/news/health/story/2023-02-06/sharp-notified-x-patients-of-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sharp HealthCare, San Diego’s largest health provider, announced Monday that it has begun notifying 62,777 of its patients that some of their personal information was compromised during an attack on the computers that run its website, sharp.com.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous leaked 128GB of data stolen from Russian ISP Convex revealing FSB’s warrantless surveillance<a href="https://securityaffairs.com/141888/hacktivism/anonymous-fsb-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous has leaked 128 GB of data allegedly stolen from the Russian Internet Service Provider Convex.
+The collective Anonymous released last week 128 gigabytes of documents that were allegedly stolen from the Russian Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
