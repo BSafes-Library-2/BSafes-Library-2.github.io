@@ -34,7 +34,268 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Steel Industry Supplier Vesuvius Suffers Cyber Incident<a href="https://therecord.media/vesuvius-plc-cyber-incident-steel-industry-supplier/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British manufacturer confirmed that the incident “involved unauthorized access to our systems,” although it did not provide further details on what the access was or what kind of cyber actor may have been responsible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encrypted Messaging App Exclu Used by Criminal Groups Cracked by Joint Law Enforcement<a href="https://thehackernews.com/2023/02/encrypted-messaging-app-exclu-used-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint law enforcement operation conducted by Germany, the Netherlands, and Poland has cracked yet another encrypted messaging application named  Exclu  used by organized crime groups. Eurojust, in a press statement,  said  the February 3 exercise resulted in the arrests of 45 individuals across Belgium and the Netherlands, some of whom include users as well as the administrators and owners of the service, Authorities also launched raids in 79 locations, leading to the seizure of €5.5 million in cash, 300,000 ecstasy tablets, 20 firearms, and 200 phones. Two drug laboratories have further been shut down. Investigation into Exlcu is said to have commenced in Germany as far back as June 2020. The application, prior to its takedown, had an estimated 3,000 users, of which 750 are Dutch speakers. The Politie, in an announcement of its own, noted that it was able to gain covert access to the service, permitting the agency to read messages sent by its users for the past five months. &
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux variant of Clop Ransomware uses a flawed encryption algorithm<a href="https://securityaffairs.com/141932/cyber-crime/clop-ransomware-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux variant of the Clop ransomware has been observed in the wild, the good news is that its encryption algorithm is flawed.
+SentinelLabs researchers have observed the first Linux variant of the Clop ransomware. The researchers noticed that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Gives 19,000 Students A Day Off School at Berkeley County Schools<a href="https://dailycaller.com/2023/02/06/hackers-19000-students-day-off-west-virginia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Berkeley County Schools suffered a network outage which affected IT operations across the school system, WV Metro News reported. Personal data on the students may have been harvested in the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Vulnerabilities in Sunlogin to Deploy Sliver C2 Framework<a href="https://thehackernews.com/2023/02/hackers-exploit-vulnerabilities-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging known flaws in Sunlogin software to deploy the Sliver command-and-control (C2) framework for carrying out post-exploitation activities. The findings come from AhnLab Security Emergency response Center (ASEC), which found that security vulnerabilities in Sunlogin, a remote desktop program developed in China, are being abused to deploy a wide range of payloads. "Not only did threat actors use the Sliver backdoor, but they also used the  BYOVD  (Bring Your Own Vulnerable Driver) malware to incapacitate security products and install reverse shells," the researchers  said . Attack chains commence with the exploitation of two remote code execution bugs in Sunlogin versions prior to v11.0.0.33 (CNVD-2022-03672 and CNVD-2022-10270), followed by delivering Sliver or other malware such as  Gh0st RAT  and XMRig crypto coin miner. In one instance, the threat actor is said to have weaponized the Sunlogin flaws to install a PowerShell script that, in turn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware has no evidence of zero-day exploitation in ESXiArgs ransomware attacks<a href="https://securityaffairs.com/141920/hacking/vmware-zero-day-esxiargs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware said there is no evidence that threat actors are exploiting a zero-day flaw in its software as part of an ongoing ESXiArgs ransomware campaign.
+VMware said that it found no evidence that the threat actors behind the ongoing ESXiArgs ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp HealthCare Notifies Nearly 63,000 Patients of Data Breach<a href="https://www.sandiegouniontribune.com/news/health/story/2023-02-06/sharp-notified-x-patients-of-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sharp HealthCare, San Diego’s largest health provider, announced Monday that it has begun notifying 62,777 of its patients that some of their personal information was compromised during an attack on the computers that run its website, sharp.com.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling the New Cyber Insurance Requirements: Can Your Organization Comply?<a href="https://thehackernews.com/2023/02/tackling-new-cyber-insurance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With cyberattacks around the world escalating rapidly, insurance companies are ramping up the requirements to qualify for a cyber insurance policy.  Ransomware attacks were up 80% last year , prompting underwriters to put in place a number of new provisions designed to prevent ransomware and stem the record number of claims. Among these are a mandate to enforce multi-factor authentication (MFA) across all admin access in a network environment as well as protect all privileged accounts, specifically machine-to-machine connections known as service accounts.  But identifying MFA and privileged account protection gaps within an environment can be extremely challenging for organizations, as there is no utility among the most commonly used security and identity products that can actually provide this visibility. In this article, we'll explore these identity protection challenges and suggest steps organizations can take to overcome them, including signing up for a  free identity risk a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSH addressed a new pre-auth double free vulnerability<a href="https://securityaffairs.com/141907/hacking/openssh-pre-auth-double-free-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of OpenSSH address multiple security issues, including a memory safety bug in the OpenSSH server (sshd).
+The maintainers of OpenSSH have addressed a number of security vulnerabilities with the release of version 9.2.
+One of the issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AveMaria Info-stealer Changes its Strategy to Infect More Users<a href="https://cyware.com/news/avemaria-info-stealer-changes-its-strategy-to-infect-more-users-82bea7e4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler’s ThreatLabz disclosed details about a new infostealer AveMaria RAT that targets sensitive data with added capabilities of remote camera control and privilege escalation. Over the past six months, the operators behind the info-stealer have been making significant additions to the execution  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Variant of Clop Ransomware Spotted, But Uses Faulty Encryption Algorithm<a href="https://thehackernews.com/2023/02/linux-variant-of-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first-ever Linux variant of the Clop ransomware has been detected in the wild, but with a faulty encryption algorithm that has made it possible to reverse engineer the process. "The ELF executable contains a flawed encryption algorithm making it possible to decrypt locked files without paying the ransom," SentinelOne researcher Antonis Terefos  said  in a report shared with The Hacker News. The cybersecurity firm, which has made available a decryptor , said it observed the ELF version on December 26, 2022, while also noting its similarities to the Windows flavor when it comes using the same encryption method. The detected sample is said to be part of a larger attack targeting educational institutions in Colombia, including La Salle University, around the same time. The university was added to the criminal group's leak site in early January 2023, per  FalconFeedsio . Known to have been active since 2019, the Clop (stylized as Cl0p) ransomware operation  suffered
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous leaked 128GB of data stolen from Russian ISP Convex revealing FSB’s warrantless surveillance<a href="https://securityaffairs.com/141888/hacktivism/anonymous-fsb-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular collective Anonymous has leaked 128 GB of data allegedly stolen from the Russian Internet Service Provider Convex.
+The collective Anonymous released last week 128 gigabytes of documents that were allegedly stolen from the Russian Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massachusetts-Based MKS Instruments Falls Victim to Ransomware Attack<a href="https://www.csoonline.com/article/3687098/mks-instruments-falls-victim-to-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said it has notified law enforcement authorities while it investigates and assesses the impact of the incident by engaging “appropriate incident response professionals.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Finds No Evidence of 0-Day in Ongoing ESXiArgs Ransomware Spree<a href="https://thehackernews.com/2023/02/vmware-finds-no-evidence-of-0-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Monday said it found no evidence that threat actors are leveraging an unknown security flaw, i.e., a zero-day, in its software as part of an  ongoing ransomware attack spree  worldwide. "Most reports state that End of General Support (EoGS) and/or significantly out-of-date products are being targeted with known vulnerabilities which were previously addressed and disclosed in VMware Security Advisories (VMSAs)," the virtualization services provider  said . The company is further recommending users to upgrade to the latest available supported releases of vSphere components to mitigate known issues and  disable the OpenSLP service  in ESXi. "In 2021, ESXi 7.0 U2c and ESXi 8.0 GA began shipping with the service disabled by default," VMware added. The announcement comes as unpatched and unsecured VMware ESXi servers around the world have been targeted in a  large-scale   ransomware campaign  dubbed ESXiArgs by likely exploiting a two-year-old bug VMware p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive takedown puts ‘small dent’ in ransomware problem<a href="https://www.cybersecuritydive.com/news/hive-takedown-small-dent-ransomware/642066/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The takedown did not result in criminal arrests of any individuals involved or affiliated with Hive, and the predominant assumption is that the Hive members will regroup or splinter to join other ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Trojan TgToxic Targets Android Users in Southeast Asia<a href="https://cyware.com/news/banking-trojan-tgtoxic-targets-android-users-in-southeast-asia-da851b43"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro experts took the wraps off of an ongoing campaign that has been targeting Android users in Southeast Asia since July 2022. It involves embedding a trojan they named TgToxic for harvesting user data from multiple fake finance and banking apps, including cryptocurrency wallets. The sample ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Say Cyberattack Caused Suicide Helpline’s Outage<a href="https://www.securityweek.com/feds-say-cyberattack-caused-suicide-helplines-outage/?&web_view=true"> Full Text</a>
@@ -50,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GuLoader Malware Using Malicious NSIS Executables to Target E-Commerce Industry<a href="https://thehackernews.com/2023/02/guloader-malware-using-malicious-nsis.html"> Full Text</a>
@@ -66,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy, France and Singapore Warn of a Spike in ESXI Ransomware<a href="https://securityaffairs.com/141889/cyber-crime/experts-warn-esxi-ransomware-attacks.html"> Full Text</a>
@@ -83,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 110,000 more users affected in LG Uplus' data breach<a href="https://en.yna.co.kr/view/AEN20230203008600325?section=news&web_view=true"> Full Text</a>
@@ -99,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Iranian Nation-State Group Sanctioned by U.S. Behind Charlie Hebdo Hack<a href="https://thehackernews.com/2023/02/microsoft-iranian-nation-state-group.html"> Full Text</a>
@@ -115,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Ransomware adds support for encrypting Linux, VMware ESXi systems<a href="https://securityaffairs.com/141876/cyber-crime/royal-ransomware-vmware-esxi.html"> Full Text</a>
@@ -132,7 +393,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finland’s Most-Wanted Hacker Nabbed in France<a href="https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/?&web_view=true"> Full Text</a>
@@ -148,7 +409,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaaS in the Real World: Who's Responsible to Secure this Data?<a href="https://thehackernews.com/2023/02/saas-in-real-world-whos-responsible-to.html"> Full Text</a>
@@ -164,7 +425,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian National Cybersecurity Agency (ACN) warns of massive ransomware campaign targeting VMware ESXi servers<a href="https://securityaffairs.com/141865/cyber-crime/acn-ransomware-campaign-targets-vmware-esxi.html"> Full Text</a>
@@ -181,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mortgage Financial Technologies Company 8Twelve Exposed 717,814 Records Online<a href="https://www.websiteplanet.com/news/8twelve-leak-report/?&web_view=true"> Full Text</a>
@@ -197,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSH Releases Patch for New Pre-Auth Double Free Vulnerability<a href="https://thehackernews.com/2023/02/openssh-releases-patch-for-new-pre-auth.html"> Full Text</a>
@@ -213,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVEs expected to rise in 2023, as organizations still struggle to patch<a href="https://www.cybersecuritydive.com/news/cves-rise-2023-struggle-to-patch/641955/?&web_view=true"> Full Text</a>
@@ -229,7 +490,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2023
+February 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FormBook Malware Spreads via Malvertising Using MalVirt Loader to Evade Detection<a href="https://thehackernews.com/2023/02/formbook-malware-spreads-via.html"> Full Text</a>
@@ -245,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Switzerland’s Largest University With ‘Professional’ Cyberattack<a href="https://www.swissinfo.ch/eng/sci-tech/hackers-target-zurich-university-with--professional--cyberattack/48256306?&web_view=true"> Full Text</a>
@@ -261,7 +522,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inability to prevent bad things from happening seen as the worst part of a security job<a href="https://www.helpnetsecurity.com/2023/02/03/security-teams-confidence/?&web_view=true"> Full Text</a>
@@ -277,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Truck Brokerage Company FR8 Exposed 140GB of Data Due to Misconfigured Server<a href="https://www.hackread.com/india-truck-brokerage-company-data-leak/?&web_view=true"> Full Text</a>
@@ -293,7 +554,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2023
+February 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MalVirt Loader Distributes Formbook and XLoader with Unusual Levels of Obfuscation<a href="https://cyware.com/news/malvirt-loader-distributes-formbook-and-xloader-with-unusual-levels-of-obfuscation-47cd6df9"> Full Text</a>
