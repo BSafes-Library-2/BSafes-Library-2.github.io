@@ -34,7 +34,350 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland's Munster Technological University Forced to Cancel All Classes Due to Cyberattack<a href="https://therecord.media/all-classes-canceled-at-irish-university-as-it-announces-significant-it-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Munster Technological University (MTU) in Ireland announced on Monday that its campuses in Cork would be closed following a “significant IT breach and telephone outage.” A number of learning tools, including Canvas, are reportedly affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Standardizes Ascon Cryptographic Algorithm for IoT and Other Lightweight Devices<a href="https://thehackernews.com/2023/02/nist-standardizes-ascon-cryptographic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Institute of Standards and Technology (NIST) has announced that a family of authenticated encryption and hashing algorithms known as Ascon will be standardized for  lightweight cryptography  applications. "The chosen algorithms are designed to protect information created and transmitted by the Internet of Things (IoT), including its myriad tiny sensors and actuators," NIST  said . "They are also designed for other miniature technologies such as implanted medical devices, stress detectors inside roads and bridges, and keyless entry fobs for vehicles." Put differently, the idea is to adopt security protections via lightweight cryptography in devices that have a "limited amount of electronic resources." Ascon is  credited  to a team of cryptographers from the Graz University of Technology, Infineon Technologies, Lamarr Security Research, and Radboud University. The suite comprises authenticated ciphers ASCON-128, ASCON-128a, and a vari
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian e-commerce giant Elevel exposed buyers’ delivery addresses<a href="https://securityaffairs.com/142000/data-breach/elevel-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A leading electrical engineering company in Russia, Elevel, has exposed its customers' personally identifiable information (PII,) including full names and addresses.
+Original post at https://cybernews.com/privacy/russian-e-commerce-giant-data-leak/
+Founded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere MFT Zero-Day Exploited in the Wild; Patch and Exploit Out<a href="https://cyware.com/news/goanywhere-mft-zero-day-exploited-in-the-wild-patch-and-exploit-out-26f202d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher from Code White issued a POC exploit code against vulnerable GoAnywhere MFT servers. The exploitation of the bug allows an attacker to perform unauthenticated RCE on compromised systems. The administrative console of the application is needed for this exploit's attack vector.  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Security Flaws Disclosed in Multiple Document Management Systems<a href="https://thehackernews.com/2023/02/unpatched-security-flaws-disclosed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple unpatched security flaws have been disclosed in open source and freemium Document Management System (DMS) offerings from four vendors LogicalDOC, Mayan, ONLYOFFICE, and OpenKM. Cybersecurity firm Rapid7 said the eight vulnerabilities offer a mechanism through which "an attacker can convince a human operator to save a malicious document on the platform and, once the document is indexed and triggered by the user, giving the attacker multiple paths to control the organization." The list of eight cross-site scripting ( XSS ) flaws, discovered by Rapid7 researcher Matthew Kienow, is as follows - CVE-2022-47412  - ONLYOFFICE Workspace Search Stored XSS CVE-2022-47413 and CVE-2022-47414  - OpenKM Document and Application XSS CVE-2022-47415, CVE-2022-47416, CVE-2022-47417, and CVE-2022-47418  - LogicalDOC Multiple Stored XSS CVE-2022-47419  - Mayan EDMS Tag Stored XSS Stored XSS, also known as persistent XSS, occurs when a malicious script is injected directly into
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher compromised the Toyota Supplier Management Network<a href="https://securityaffairs.com/141990/hacking/utoyota-supplier-management-network-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infrastructure of Toyota was compromised again, this time its global supplier management network was hacked by a researcher.
+The security researcher Eaton Zveare has exploited a vulnerability in Toyota’s Global Supplier Preparation Information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot Mechanizes Distribution of Malicious OneNote Documents<a href="https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qakbot began using OneNote .one documents (also called “Notebooks” by Microsoft) in their attacks on January 31. On Tuesday, Sophos researchers observed two parallel spam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sydney Man Sentenced for Blackmailing Optus Customers After Data Breach<a href="https://thehackernews.com/2023/02/sydney-man-sentenced-for-blackmailing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Sydney man has been  sentenced  to an 18-month Community Correction Order ( CCO ) and 100 hours of community service for attempting to take advantage of the Optus data breach last year to blackmail its customers. The unnamed individual, 19 when  arrested in October 2022  and now 20, used the leaked records stolen from the security lapse to orchestrate an SMS-based extortion scheme. The suspect contacted dozens of victims to threaten that their personal information would be sold to other hackers and "used for fraudulent activity" unless an AU$ 2,000 payment is made to a bank account under their control. The scammer is said to have sent the SMS messages to 92 individuals whose information was part of a  larger cache of 10,200 records  that was briefly published in a criminal forum in September 2022, The Australian Federal Police (AFP), which launched Operation Guardian following the breach, said there is no evidence that any of the affected customers transferred the dem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian national pleads guilty to money laundering linked to Ryuk Ransomware operation<a href="https://securityaffairs.com/141980/cyber-crime/russian-national-pleads-guilty-money-laundering-ryuk-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national pleaded guilty in the U.S. to money laundering charges linked to the Ryuk ransomware operation.
+On February 7, 2023, Russian national Denis Mihaqlovic Dubnikov (30) pleaded guilty in the U.S. to one count of conspiracy to commit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hong Kong police and Interpol uncover servers used by global phishing syndicate<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3209140/hong-kong-police-and-interpol-uncover-servers-and-apps-used-global-phishing-syndicate/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bogus apps impersonated banks, media players, and others to steal data from victims’ smartphones. Registered subscribers for servers were individuals in mainland China, the Philippines, and Cambodia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Using Graphiron Malware to Steal Data from Ukraine<a href="https://thehackernews.com/2023/02/russian-hackers-using-graphiron-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked threat actor has been observed deploying a new information-stealing malware in cyber attacks targeting Ukraine. Dubbed Graphiron by Broadcom-owned Symantec, the malware is the handiwork of an espionage group known as  Nodaria , which is tracked by the Computer Emergency Response Team of Ukraine (CERT-UA) as UAC-0056. "The malware is written in Go and is designed to harvest a wide range of information from the infected computer, including system information, credentials, screenshots, and files," the Symantec Threat Hunter Team  said  in a report shared with The Hacker News. Nodaria was  first spotlighted  by CERT-UA in January 2022, calling attention to the adversary's use of  SaintBot and OutSteel malware  in spear-phishing attacks targeting government entities. The group, which is said to be active since at least April 2021, has since  repeatedly   deployed  custom backdoors such as  GraphSteel and GrimPlant  in various campaigns since Russia's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Graphiron info-stealer used in attacks against Ukraine<a href="https://securityaffairs.com/141968/apt/graphiron-infostealer-targets-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked threat actor has been observed deploying a new information stealer dubbed Graphiron in attacks against Ukraine.
+Researchers from Broadcom Symantec spotted a Russia-linked ATP group, tracked as Nodaria (aka UAC-0056), deploying new info-stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Drainer Scam Lures Unwitting Users into Giving Away their Funds<a href="https://cyware.com/news/crypto-drainer-scam-lures-unwitting-users-into-giving-away-their-funds-9f1695ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are providing pre-made, counterfeit cryptocurrency webpages that are being used as phishing baits under a malicious campaign dubbed Crypto Drainer to steal assets from wallets. These phishing pages purport to mint non-fungible tokens (NFTs) and use third-party services and application ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Think Like a Hacker and Stay Ahead of Threats<a href="https://thehackernews.com/2023/02/how-to-think-like-hacker-and-stay-ahead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To succeed as a cybersecurity analyst, you need to understand the traits, values, and thought processes of hackers, along with the tools they use to launch their attacks.  During a  webinar called The Hacker Mindset,  a Red Team Researcher shared how you can use some of these tools for your own detection and prevention of breaches. He also demonstrated how an attack takes place using the  Follina exploit  as an example. So, what does "the hacker mindset" mean?  The hacker mindset can be characterized by three core values: a strong sense of curiosity, an adversarial attitude, and persistence.  3 core values of a hacker's mindset  1  —  "Curiosity might have killed the cat, but it had nine lives." Curiosity drives hackers to explore and understand systems, networks, and software in order to identify vulnerabilities. Not only are they constantly seeking new knowledge and skills to improve their abilities and stay ahead of security measures, they're cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine CERT-UA warns of phishing attacks employing Remcos software<a href="https://securityaffairs.com/141959/cyber-warfare-2/cert-ua-remcos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of a new wave of attacks against state authorities to deploy the Remcos software.
+The Computer Emergency Response Team of Ukraine (CERT-UA) is warning of a phishing campaign aimed at state...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Build38 Raises $14M in Series A Funding<a href="https://www.finsmes.com/2023/02/build38-raises-e13m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Tikehau Capital’s European Cybersecurity Growth Fund, with participation from existing investors eCAPITAL Entrepreneurial Partners and Caixa Capital Risc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Pleads Guilty to Money Laundering Linked to Ryuk Ransomware<a href="https://thehackernews.com/2023/02/russian-hacker-pleads-guilty-to-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national on February 7, 2023, pleaded guilty in the U.S. to money laundering charges and for attempting to conceal the source of funds obtained in connection with Ryuk ransomware attacks. Denis Mihaqlovic Dubnikov, 30, was  arrested  in Amsterdam in November 2021 before he was extradited from the Netherlands in August 2022. He is awaiting sentencing on April 11, 2023. "Between at least August 2018 and August 2021, Dubnikov and his co-conspirators laundered the proceeds of Ryuk ransomware attacks on individuals and organizations throughout the United States and abroad," the Department of Justice (DoJ)  said . Dubnikov and his accomplices are said to have engaged in various criminal schemes designed to obscure the trail of the ill-gotten proceeds. According to DoJ, a chunk of the 250 Bitcoin ransom paid by a U.S. company in July 2019 after a Ryuk attack was sent to Dubnikov in exchange for about $400,000. The crypto was subsequently converted to Tether and trans
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA releases a script to recover servers infected with ESXiArgs ransomware<a href="https://securityaffairs.com/141948/malware/uc-cisa-script-esxiargs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) released a script to recover VMware ESXi servers infected with ESXiArgs ransomware.
+Good news for the victims of the recent wave of ESXiArgs ransomware attacks, the U.S. Cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoor in Dingo Cryptocurrency Allows Creator to Steal (Nearly) Everything<a href="https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the documents describing the Dingo Token claimed that the scheme charged 10% per transaction, Check Point researchers found 47 transactions where the total fee per transaction had been increased to 99%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Alerts Ukrainian State Authorities of Remcos Software-Fueled Cyber Attacks<a href="https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has  issued  an alert warning of cyber attacks against state authorities in the country that deploy a legitimate remote access software named Remcos. The mass phishing campaign has been attributed to a threat actor it tracks as  UAC-0050 , with the agency describing the activity as likely motivated by espionage given the toolset employed. The bogus emails that kick-start the infection sequence claim to be from Ukrainian telecom company Ukrtelecom and come bearing a decoy RAR archive. Of the two files present in the file, one is a password-protected RAR archive that's over 600MB and the other is a text file containing the password to open the RAR file. Embedded within the second RAR archive is an executable that leads to the installation of the Remcos remote access software, granting the attacker full access to commandeer compromised computers. Remcos , short for remote control and surveillance software, is offered by B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Target VMware ESXi Servers Worldwide<a href="https://cyware.com/news/ransomware-attacks-target-vmware-esxi-servers-worldwide-ba8fcd3a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threats surrounding VMware ESXi servers have multiplied. At least two ransomware variants, including Royal Ransomware and ESXiArgs, were found launching attacks on the servers. The latter exploits an old VMware flaw, identified as CVE-2021-21974. With this, they has joined the likes of Black B ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Steel Industry Supplier Vesuvius Suffers Cyber Incident<a href="https://therecord.media/vesuvius-plc-cyber-incident-steel-industry-supplier/?&web_view=true"> Full Text</a>
@@ -50,7 +393,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encrypted Messaging App Exclu Used by Criminal Groups Cracked by Joint Law Enforcement<a href="https://thehackernews.com/2023/02/encrypted-messaging-app-exclu-used-by.html"> Full Text</a>
@@ -66,7 +409,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux variant of Clop Ransomware uses a flawed encryption algorithm<a href="https://securityaffairs.com/141932/cyber-crime/clop-ransomware-linux-variant.html"> Full Text</a>
@@ -83,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Gives 19,000 Students A Day Off School at Berkeley County Schools<a href="https://dailycaller.com/2023/02/06/hackers-19000-students-day-off-west-virginia/?&web_view=true"> Full Text</a>
@@ -99,7 +442,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Vulnerabilities in Sunlogin to Deploy Sliver C2 Framework<a href="https://thehackernews.com/2023/02/hackers-exploit-vulnerabilities-in.html"> Full Text</a>
@@ -115,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware has no evidence of zero-day exploitation in ESXiArgs ransomware attacks<a href="https://securityaffairs.com/141920/hacking/vmware-zero-day-esxiargs-ransomware.html"> Full Text</a>
@@ -132,7 +475,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp HealthCare Notifies Nearly 63,000 Patients of Data Breach<a href="https://www.sandiegouniontribune.com/news/health/story/2023-02-06/sharp-notified-x-patients-of-data-breach?&web_view=true"> Full Text</a>
@@ -148,7 +491,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tackling the New Cyber Insurance Requirements: Can Your Organization Comply?<a href="https://thehackernews.com/2023/02/tackling-new-cyber-insurance.html"> Full Text</a>
@@ -164,7 +507,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSH addressed a new pre-auth double free vulnerability<a href="https://securityaffairs.com/141907/hacking/openssh-pre-auth-double-free-bug.html"> Full Text</a>
@@ -182,7 +525,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AveMaria Info-stealer Changes its Strategy to Infect More Users<a href="https://cyware.com/news/avemaria-info-stealer-changes-its-strategy-to-infect-more-users-82bea7e4"> Full Text</a>
@@ -198,7 +541,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Variant of Clop Ransomware Spotted, But Uses Faulty Encryption Algorithm<a href="https://thehackernews.com/2023/02/linux-variant-of-clop-ransomware.html"> Full Text</a>
@@ -214,7 +557,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous leaked 128GB of data stolen from Russian ISP Convex revealing FSB’s warrantless surveillance<a href="https://securityaffairs.com/141888/hacktivism/anonymous-fsb-surveillance.html"> Full Text</a>
@@ -231,7 +574,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massachusetts-Based MKS Instruments Falls Victim to Ransomware Attack<a href="https://www.csoonline.com/article/3687098/mks-instruments-falls-victim-to-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -247,7 +590,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 07, 2023
+February 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Finds No Evidence of 0-Day in Ongoing ESXiArgs Ransomware Spree<a href="https://thehackernews.com/2023/02/vmware-finds-no-evidence-of-0-day-flaw.html"> Full Text</a>
@@ -263,7 +606,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive takedown puts ‘small dent’ in ransomware problem<a href="https://www.cybersecuritydive.com/news/hive-takedown-small-dent-ransomware/642066/?&web_view=true"> Full Text</a>
@@ -279,7 +622,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 7, 2023
+February 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Banking Trojan TgToxic Targets Android Users in Southeast Asia<a href="https://cyware.com/news/banking-trojan-tgtoxic-targets-android-users-in-southeast-asia-da851b43"> Full Text</a>
