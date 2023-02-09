@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Gives 19,000 Students A Day Off School at Berkeley County Schools<a href="https://dailycaller.com/2023/02/06/hackers-19000-students-day-off-west-virginia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Berkeley County Schools suffered a network outage which affected IT operations across the school system, WV Metro News reported. Personal data on the students may have been harvested in the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

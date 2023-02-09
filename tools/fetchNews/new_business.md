@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Build38 Raises $14M in Series A Funding<a href="https://www.finsmes.com/2023/02/build38-raises-e13m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Tikehau Capital’s European Cybersecurity Growth Fund, with participation from existing investors eCAPITAL Entrepreneurial Partners and Caixa Capital Risc.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

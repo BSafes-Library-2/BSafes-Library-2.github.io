@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ireland's Munster Technological University Forced to Cancel All Classes Due to Cyberattack<a href="https://therecord.media/all-classes-canceled-at-irish-university-as-it-announces-significant-it-breach/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Standardizes Ascon Cryptographic Algorithm for IoT and Other Lightweight Devices<a href="https://thehackernews.com/2023/02/nist-standardizes-ascon-cryptographic.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian e-commerce giant Elevel exposed buyers’ delivery addresses<a href="https://securityaffairs.com/142000/data-breach/elevel-data-leak.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoAnywhere MFT Zero-Day Exploited in the Wild; Patch and Exploit Out<a href="https://cyware.com/news/goanywhere-mft-zero-day-exploited-in-the-wild-patch-and-exploit-out-26f202d1"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Security Flaws Disclosed in Multiple Document Management Systems<a href="https://thehackernews.com/2023/02/unpatched-security-flaws-disclosed-in.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher compromised the Toyota Supplier Management Network<a href="https://securityaffairs.com/141990/hacking/utoyota-supplier-management-network-bug.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qakbot Mechanizes Distribution of Malicious OneNote Documents<a href="https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sydney Man Sentenced for Blackmailing Optus Customers After Data Breach<a href="https://thehackernews.com/2023/02/sydney-man-sentenced-for-blackmailing.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian national pleads guilty to money laundering linked to Ryuk Ransomware operation<a href="https://securityaffairs.com/141980/cyber-crime/russian-national-pleads-guilty-money-laundering-ryuk-ransomware.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hong Kong police and Interpol uncover servers used by global phishing syndicate<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3209140/hong-kong-police-and-interpol-uncover-servers-and-apps-used-global-phishing-syndicate/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Using Graphiron Malware to Steal Data from Ukraine<a href="https://thehackernews.com/2023/02/russian-hackers-using-graphiron-malware.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Graphiron info-stealer used in attacks against Ukraine<a href="https://securityaffairs.com/141968/apt/graphiron-infostealer-targets-ukraine.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Drainer Scam Lures Unwitting Users into Giving Away their Funds<a href="https://cyware.com/news/crypto-drainer-scam-lures-unwitting-users-into-giving-away-their-funds-9f1695ff"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Think Like a Hacker and Stay Ahead of Threats<a href="https://thehackernews.com/2023/02/how-to-think-like-hacker-and-stay-ahead.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine CERT-UA warns of phishing attacks employing Remcos software<a href="https://securityaffairs.com/141959/cyber-warfare-2/cert-ua-remcos-attacks.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Build38 Raises $14M in Series A Funding<a href="https://www.finsmes.com/2023/02/build38-raises-e13m-in-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hacker Pleads Guilty to Money Laundering Linked to Ryuk Ransomware<a href="https://thehackernews.com/2023/02/russian-hacker-pleads-guilty-to-money.html"> Full Text</a>
@@ -312,7 +312,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA releases a script to recover servers infected with ESXiArgs ransomware<a href="https://securityaffairs.com/141948/malware/uc-cisa-script-esxiargs-ransomware.html"> Full Text</a>
@@ -329,7 +329,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Backdoor in Dingo Cryptocurrency Allows Creator to Steal (Nearly) Everything<a href="https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything?&web_view=true"> Full Text</a>
@@ -345,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 08, 2023
+February 08, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA Alerts Ukrainian State Authorities of Remcos Software-Fueled Cyber Attacks<a href="https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html"> Full Text</a>
@@ -361,7 +361,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2023
+February 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Target VMware ESXi Servers Worldwide<a href="https://cyware.com/news/ransomware-attacks-target-vmware-esxi-servers-worldwide-ba8fcd3a"> Full Text</a>

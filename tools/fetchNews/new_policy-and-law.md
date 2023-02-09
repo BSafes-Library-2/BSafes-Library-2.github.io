@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sydney Man Sentenced for Blackmailing Optus Customers After Data Breach<a href="https://thehackernews.com/2023/02/sydney-man-sentenced-for-blackmailing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Sydney man has been&nbsp; sentenced &nbsp;to an 18-month Community Correction Order ( CCO ) and 100 hours of community service for attempting to take advantage of the Optus data breach last year to blackmail its customers. The unnamed individual, 19 when&nbsp; arrested in October 2022 &nbsp;and now 20, used the leaked records stolen from the security lapse to orchestrate an SMS-based extortion scheme. The suspect contacted dozens of victims to threaten that their personal information would be sold to other hackers and "used for fraudulent activity" unless an AU$ 2,000 payment is made to a bank account under their control. The scammer is said to have sent the SMS messages to 92 individuals whose information was part of a&nbsp; larger cache of 10,200 records &nbsp;that was briefly published in a criminal forum in September 2022, The Australian Federal Police (AFP), which launched Operation Guardian following the breach, said there is no evidence that any of the affected customers transferred the dem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland's Munster Technological University Forced to Cancel All Classes Due to Cyberattack<a href="https://therecord.media/all-classes-canceled-at-irish-university-as-it-announces-significant-it-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Munster Technological University (MTU) in Ireland announced on Monday that its campuses in Cork would be closed following a “significant IT breach and telephone outage.” A number of learning tools, including Canvas, are reportedly affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

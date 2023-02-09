@@ -8,6 +8,37 @@ nav_order: 900029
 
 ## Breach
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian e-commerce giant Elevel exposed buyers’ delivery addresses<a href="https://securityaffairs.com/142000/data-breach/elevel-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A leading electrical engineering company in Russia, Elevel, has exposed its customers' personally identifiable information (PII,) including full names and addresses.
+Original post at https://cybernews.com/privacy/russian-e-commerce-giant-data-leak/
+Founded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher compromised the Toyota Supplier Management Network<a href="https://securityaffairs.com/141990/hacking/utoyota-supplier-management-network-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infrastructure of Toyota was compromised again, this time its global supplier management network was hacked by a researcher.
+The security researcher Eaton Zveare has exploited a vulnerability in Toyota’s Global Supplier Preparation Information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

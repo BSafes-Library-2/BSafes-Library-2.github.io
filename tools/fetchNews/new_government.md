@@ -8,6 +8,50 @@ nav_order: 900075
 
 ## Government
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine CERT-UA warns of phishing attacks employing Remcos software<a href="https://securityaffairs.com/141959/cyber-warfare-2/cert-ua-remcos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of a new wave of attacks against state authorities to deploy the Remcos software.
+The Computer Emergency Response Team of Ukraine (CERT-UA) is warning of a phishing campaign aimed at state...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA releases a script to recover servers infected with ESXiArgs ransomware<a href="https://securityaffairs.com/141948/malware/uc-cisa-script-esxiargs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) released a script to recover VMware ESXi servers infected with ESXiArgs ransomware.
+Good news for the victims of the recent wave of ESXiArgs ransomware attacks, the U.S. Cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Alerts Ukrainian State Authorities of Remcos Software-Fueled Cyber Attacks<a href="https://thehackernews.com/2023/02/cert-ua-alerts-ukrainian-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has&nbsp; issued &nbsp;an alert warning of cyber attacks against state authorities in the country that deploy a legitimate remote access software named Remcos. The mass phishing campaign has been attributed to a threat actor it tracks as&nbsp; UAC-0050 , with the agency describing the activity as likely motivated by espionage given the toolset employed. The bogus emails that kick-start the infection sequence claim to be from Ukrainian telecom company Ukrtelecom and come bearing a decoy RAR archive. Of the two files present in the file, one is a password-protected RAR archive that's over 600MB and the other is a text file containing the password to open the RAR file. Embedded within the second RAR archive is an executable that leads to the installation of the Remcos remote access software, granting the attacker full access to commandeer compromised computers. Remcos , short for remote control and surveillance software, is offered by B
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot Mechanizes Distribution of Malicious OneNote Documents<a href="https://news.sophos.com/en-us/2023/02/06/qakbot-onenote-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Qakbot began using OneNote .one documents (also called “Notebooks” by Microsoft) in their attacks on January 31. On Tuesday, Sophos researchers observed two parallel spam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

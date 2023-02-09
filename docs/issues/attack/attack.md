@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Using Graphiron Malware to Steal Data from Ukraine<a href="https://thehackernews.com/2023/02/russian-hackers-using-graphiron-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked threat actor has been observed deploying a new information-stealing malware in cyber attacks targeting Ukraine. Dubbed Graphiron by Broadcom-owned Symantec, the malware is the handiwork of an espionage group known as&nbsp; Nodaria , which is tracked by the Computer Emergency Response Team of Ukraine (CERT-UA) as UAC-0056. "The malware is written in Go and is designed to harvest a wide range of information from the infected computer, including system information, credentials, screenshots, and files," the Symantec Threat Hunter Team&nbsp; said &nbsp;in a report shared with The Hacker News. Nodaria was&nbsp; first spotlighted &nbsp;by CERT-UA in January 2022, calling attention to the adversary's use of&nbsp; SaintBot and OutSteel malware &nbsp;in spear-phishing attacks targeting government entities. The group, which is said to be active since at least April 2021, has since&nbsp; repeatedly &nbsp; deployed &nbsp;custom backdoors such as&nbsp; GraphSteel and GrimPlant &nbsp;in various campaigns since Russia's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Target VMware ESXi Servers Worldwide<a href="https://cyware.com/news/ransomware-attacks-target-vmware-esxi-servers-worldwide-ba8fcd3a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threats surrounding VMware ESXi servers have multiplied. At least two ransomware variants, including Royal Ransomware and ESXiArgs, were found launching attacks on the servers. The latter exploits an old VMware flaw, identified as CVE-2021-21974.&nbsp;With this, they has joined the likes of Black B ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

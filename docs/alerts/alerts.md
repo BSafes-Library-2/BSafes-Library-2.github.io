@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXiArgs-Recover <a href="https://github.com/cisagov/ESXiArgs-Recover"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESXiArgs-Recover is a tool to allow organizations to attempt recovery of virtual machines affected by the ESXiArgs ransomware attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 3, 2023 - CERT-FR
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

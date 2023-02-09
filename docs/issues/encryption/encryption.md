@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Standardizes Ascon Cryptographic Algorithm for IoT and Other Lightweight Devices<a href="https://thehackernews.com/2023/02/nist-standardizes-ascon-cryptographic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Institute of Standards and Technology (NIST) has announced that a family of authenticated encryption and hashing algorithms known as Ascon will be standardized for&nbsp; lightweight cryptography &nbsp;applications. "The chosen algorithms are designed to protect information created and transmitted by the Internet of Things (IoT), including its myriad tiny sensors and actuators," NIST&nbsp; said . "They are also designed for other miniature technologies such as implanted medical devices, stress detectors inside roads and bridges, and keyless entry fobs for vehicles." Put differently, the idea is to adopt security protections via lightweight cryptography in devices that have a "limited amount of electronic resources." Ascon is&nbsp; credited &nbsp;to a team of cryptographers from the Graz University of Technology, Infineon Technologies, Lamarr Security Research, and Radboud University. The suite comprises authenticated ciphers ASCON-128, ASCON-128a, and a vari
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere MFT Zero-Day Exploited in the Wild; Patch and Exploit Out<a href="https://cyware.com/news/goanywhere-mft-zero-day-exploited-in-the-wild-patch-and-exploit-out-26f202d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher from Code White issued a POC exploit code against vulnerable GoAnywhere MFT servers. The exploitation of the bug allows an attacker to perform unauthenticated RCE on compromised systems. The administrative console of the application is needed for this exploit's attack vector.  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Security Flaws Disclosed in Multiple Document Management Systems<a href="https://thehackernews.com/2023/02/unpatched-security-flaws-disclosed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple unpatched security flaws have been disclosed in open source and freemium Document Management System (DMS) offerings from four vendors LogicalDOC, Mayan, ONLYOFFICE, and OpenKM. Cybersecurity firm Rapid7 said the eight vulnerabilities offer a mechanism through which "an attacker can convince a human operator to save a malicious document on the platform and, once the document is indexed and triggered by the user, giving the attacker multiple paths to control the organization." The list of eight cross-site scripting ( XSS ) flaws, discovered by Rapid7 researcher Matthew Kienow, is as follows - CVE-2022-47412 &nbsp;- ONLYOFFICE Workspace Search Stored XSS CVE-2022-47413 and CVE-2022-47414 &nbsp;- OpenKM Document and Application XSS CVE-2022-47415, CVE-2022-47416, CVE-2022-47417, and CVE-2022-47418 &nbsp;- LogicalDOC Multiple Stored XSS CVE-2022-47419 &nbsp;- Mayan EDMS Tag Stored XSS Stored XSS, also known as persistent XSS, occurs when a malicious script is injected directly into
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
