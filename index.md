@@ -34,6 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enigma Stealer Targets Cryptocurrency Industry with Fake Jobs<a href="https://www.trendmicro.com/en_us/research/23/b/enigma-stealer-targets-cryptocurrency-industry-with-fake-jobs.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initial stage of Enigma, Interview conditions.word.exe, is a downloader written in C++. Its primary objective is to download, deobfuscate, decompress, and launch the secondary stage payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Infrastructure at Risk from New Vulnerabilities Found in Wireless IIoT Devices<a href="https://thehackernews.com/2023/02/critical-infrastructure-at-risk-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 38 security vulnerabilities has been uncovered in wireless industrial internet of things (IIoT) devices from four different vendors that could pose a significant attack surface for threat actors looking to exploit operational technology (OT) environments. "Threat actors can exploit vulnerabilities in Wireless IIoT devices to gain initial access to internal OT networks," Israeli industrial cybersecurity company Otorio  said . "They can use these vulnerabilities to bypass security layers and infiltrate target networks, putting critical infrastructure at risk or interrupting manufacturing." The flaws, in a nutshell, offer a remote entry point for attack, enabling unauthenticated adversaries to gain a foothold and subsequently use it as leverage to spread to other hosts, thereby causing significant damage. Some of the identified shortcomings could be chained to give an external actor direct access to thousands of internal OT networks over the internet, secu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+United States and United Kingdom Issue Joint Sanctions on Members of Russian Cybercrime Gang<a href="https://www.lawfareblog.com/united-states-and-united-kingdom-issue-joint-sanctions-members-russian-cybercrime-gang"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and United Kingdom have issued joint sanctions against members of Trickbot, the first sanctions of their kind from U.K. authorities.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and UK sanctioned seven Russian members of Trickbot gang<a href="https://securityaffairs.com/142041/cyber-crime/us-uk-sanctioned-7-russian-trickbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US and the UK have sanctioned seven Russian individuals for their involvement in the TrickBot operations.
+The US and the UK authorities have sanctioned seven Russian individuals for their involvement in the TrickBot operations.
+The US Treasury...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Botnet Goes Through a Major Transformation<a href="https://cyware.com/news/medusa-botnet-goes-through-a-major-transformation-c4f5a237"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Cyble uncovered a new Medusa DDoS botnet version based on the leaked Mirai source code. With this, it has appropriated Mirai's DDoS attack choices and Linux targeting capabilities. It comes with a ransomware module and Telnet brute-forcer. Additionally, a dedicated portal now adverti ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+THN Webinar – Learn How to Comply with New Cyber Insurance Identity Security Requirements<a href="https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hacker News is thrilled to announce the launch of our new educational webinar series , in collaboration with the leading cybersecurity companies in the industry! Get ready to dive into the world of enterprise-level security with expert guests who will share their vast knowledge and provide you with valuable insights and information on various security topics. Whether you're a seasoned professional or just starting out in the cybersecurity industry, these webinars are a must-attend. So, mark your calendars and sign up today ! Have you ever stopped to think about the potential consequences of a cyberattack on your organization? It's getting more intense and destructive every day, and organizations are feeling the heat. That's why more and more businesses are turning to  cyber insurance  to find some much-needed peace of mind. Imagine, in the unfortunate event of a successful security breach or ransomware attack, the right policy can help minimize liability and contai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace and Instability: Reconceptualizing Instability<a href="https://www.lawfareblog.com/cyberspace-and-instability-reconceptualizing-instability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new volume edited by Bobby Chesney and co-authors reconceptualizes instability in relation to cyberspace.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new variant of ESXiArgs ransomware makes recovery much harder<a href="https://securityaffairs.com/142035/malware/esxiargs-ransomware-new-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of new ESXiArgs ransomware attacks using an upgraded version that makes it harder to recover VMware ESXi virtual machines.
+Experts spotted a new variant of ESXiArgs ransomware targeting VMware ESXi servers, authors have improved the encryption...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QakNote Campaign Leverages OneNote to Infect Victims with QBot<a href="https://cyware.com/news/qaknote-campaign-leverages-onenote-to-infect-victims-with-qbot-496d4d8b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale QakNote campaign is ongoing that drops QBot banking trojan on systems via malicious Microsoft OneNote attachments. The phishing emails contain OneNote files that have an embedded HTML application (HTA file) that retrieves the QBot malware payload. The adoption signals “a much more aut ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsPenguin Threat Actor Emerges with Malicious Campaign Targeting Pakistani Entities<a href="https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor dubbed  NewsPenguin  has been linked to a phishing campaign targeting Pakistani entities by leveraging the upcoming international maritime expo as a lure. "The attacker sent out targeted phishing emails with a weaponized document attached that purports to be an exhibitor manual for PIMEC-23," the BlackBerry Research and Intelligence Team said . PIMEC , short for Pakistan International Maritime Expo and Conference, is an  initiative  of the Pakistan Navy and is organized by the Ministry of Maritime Affairs with an aim to "jump start development in the maritime sector." It's scheduled to be held from February 10-12, 2023. The Canadian cybersecurity company said the attacks are designed to target marine-related entities and the event's visitors by tricking the message recipients into opening the seemingly harmless Microsoft Word document. Once the document is launched, a method called  remote template injection  is employ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter restricted in Turkey after the earthquake amid disinformation fear<a href="https://securityaffairs.com/142022/social-networks/twitter-restricted-turkey-earthquake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global internet monitor NetBlocks reported that Twitter has been restricted in Turkey in the aftermath of the earthquake.
+Global internet monitor NetBlocks reported that network data confirm that Twitter has been restricted in Turkey in the aftermath...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quasar RAT Propagated via Private Home Trading System<a href="https://cyware.com/news/quasar-rat-propagated-via-private-home-trading-system-67312362"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A private Home Trading System is used to spread the Quasar RAT virus, according to ASEC. In other cases, phoney investment firms that passed for real ones persuaded customers to install a fake HTS so they could steal their money. Quasar RAT comes with remote command execution and uploading and down ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Hackers Pot of Gold: Your MSP's Data<a href="https://thehackernews.com/2023/02/a-hackers-pot-of-gold-your-msps-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A single ransomware attack on a New Zealand managed service provider (MSP) disrupted several of its clients' business operations overnight, most belonging to the healthcare sector. According to the country's privacy commissioner, " a cyber security incident involving a ransomware attack " in late November upended the daily operations of New Zealand's health ministry when it prevented the staff from accessing thousands of medical records. The Ministry of Justice, six health regulatory authorities, a health insurer, and a handful of other businesses also number among those affected by second-hand damage from the attack. There are ways to  recover from a ransomware attack , but the damage often extends into that attacked organization's customers and vendors.  The targeted MSP in this incident is Mercury IT, a business based in Australia. Te Whatu Ora, the New Zealand health ministry, was unable to access at least 14,000 medical records because of the outage at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts published a list of proxy IPs used by the pro-Russia group Killnet<a href="https://securityaffairs.com/142006/hacktivism/killnet-proxy-ips-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SecurityScorecard’s researchers released a list of proxy IPs used by the pro-Russia group Killnet to neutralize its attacks.
+SecurityScorecard’s researchers published a list of proxy IPs used by the pro-Russia group Killnet with the intent to interfere...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider Shifts Focus from BPOs and Telecos to IT and Gaming Companies<a href="https://cyware.com/news/scattered-spider-shifts-focus-from-bpos-and-telecos-to-it-and-gaming-companies-06a4c97f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CrowdStrike report revealed that the Scattered Spider threat actors are still actively targeting video game and tech companies, after attacking 130 organizations in 2022. There are fake domains impersonating video game makers Roblox and Zynga; IT giants Intuit, Salesforce, Comcast, and Grubhub; a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gootkit Malware Adopts New Tactics to Attack Healthcare and Finance Firms<a href="https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Gootkit malware is prominently going after healthcare and finance organizations in the U.S., U.K., and Australia, according to new findings from Cybereason. The cybersecurity firm said it investigated a Gootkit incident in December 2022 that adopted a new method of deployment, with the actors abusing the foothold to deliver  Cobalt Strike  and  SystemBC  for post-exploitation. "The threat actor displayed fast-moving behaviors, quickly heading to control the network it infected, and getting elevated privileges in less than 4 hours," Cybereason  said  in an analysis published February 8, 2023. Gootkit, also called Gootloader, is exclusively attributed to a threat actor tracked by Mandiant as UNC2565. Starting its life in 2014 as a banking trojan, the malware has since morphed into a loader capable of delivering next-stage payloads. The shift in tactics was  first uncovered  by Sophos in March 2021. Gootloader takes the form of heavily-obfuscated JavaScript files that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsPenguin, a Previously Unknown Threat Actor, Targets Pakistan with Advanced Espionage Tool<a href="https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian cybersecurity company said the attacks are designed to target marine-related entities and the event's visitors by tricking the message recipients into opening the seemingly harmless Microsoft Word document.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Fixes Multiple New Security Flaws with Latest Update<a href="https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project has released fixes to address several security flaws, including a high-severity bug in the open source encryption toolkit that could potentially expose users to malicious attacks. Tracked as  CVE-2023-0286 , the issue relates to a case of type confusion that may permit an adversary to "read memory contents or enact a denial-of-service," the maintainers said in an advisory. The vulnerability is rooted in the way the  popular cryptographic library  handles X.509 certificates, and is likely to impact only those applications that have a custom implementation for retrieving a certificate revocation list ( CRL ) over a network. "In most cases, the attack requires the attacker to provide both the certificate chain and CRL, neither of which need to have a valid signature," OpenSSL  said . "If the attacker only controls one of these inputs, the other input must already contain an X.400 address as a CRL distribution point, which is uncommon."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AmerisourceBergen Healthcare Company Has Been Breached<a href="https://heimdalsecurity.com/blog/amerisourcebergen-healthcare-company-has-been-breached/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz gang chose to get inside organizations’ networks by leveraging critical flaws in Mitel telephony systems. After the initial access, the threat actor remains silent for months and then exfiltrates and encrypts files using a backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Media Alert: Valentine's Day in New Mexico Means Love - and Scams<a href="https://www.fbi.gov/contact-us/field-offices/albuquerque/news/fbi-media-alert-valentines-day-in-new-mexico-means-love---and-scams-?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romance scam perpetrators are usually men targeting older women who are divorced, widowed, elderly, or disabled—but scammers do not discriminate. To facilitate the investment and demonstrate the ROI, victims are directed to fake websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 8, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
