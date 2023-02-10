@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Think Like a Hacker and Stay Ahead of Threats<a href="https://thehackernews.com/2023/02/how-to-think-like-hacker-and-stay-ahead.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To succeed as a cybersecurity analyst, you need to understand the traits, values, and thought processes of hackers, along with the tools they use to launch their attacks.&nbsp; During a&nbsp; webinar called The Hacker Mindset, &nbsp;a Red Team Researcher shared how you can use some of these tools for your own detection and prevention of breaches. He also demonstrated how an attack takes place using the&nbsp; Follina exploit &nbsp;as an example. So, what does "the hacker mindset" mean?&nbsp; The hacker mindset can be characterized by three core values: a strong sense of curiosity, an adversarial attitude, and persistence.&nbsp; 3 core values of a hacker's mindset&nbsp; 1&nbsp; —&nbsp; "Curiosity might have killed the cat, but it had nine lives." Curiosity drives hackers to explore and understand systems, networks, and software in order to identify vulnerabilities. Not only are they constantly seeking new knowledge and skills to improve their abilities and stay ahead of security measures, they're cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

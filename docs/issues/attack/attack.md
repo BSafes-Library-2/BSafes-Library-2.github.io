@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QakNote Campaign Leverages OneNote to Infect Victims with QBot<a href="https://cyware.com/news/qaknote-campaign-leverages-onenote-to-infect-victims-with-qbot-496d4d8b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale QakNote campaign is ongoing that drops QBot banking trojan on systems via malicious Microsoft OneNote attachments. The phishing emails contain OneNote files that have an embedded HTML application (HTA file) that retrieves the QBot malware payload. The adoption signals “a much more aut ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

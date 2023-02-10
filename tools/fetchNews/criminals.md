@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian national pleads guilty to money laundering linked to Ryuk Ransomware operation<a href="https://securityaffairs.com/141980/cyber-crime/russian-national-pleads-guilty-money-laundering-ryuk-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national pleaded guilty in the U.S. to money laundering charges linked to the Ryuk ransomware operation.
+On February 7, 2023, Russian national Denis Mihaqlovic Dubnikov (30) pleaded guilty in the U.S. to one count of conspiracy to commit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hong Kong police and Interpol uncover servers used by global phishing syndicate<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3209140/hong-kong-police-and-interpol-uncover-servers-and-apps-used-global-phishing-syndicate/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bogus apps impersonated banks, media players, and others to steal data from victims’ smartphones. Registered subscribers for servers were individuals in mainland China, the Philippines, and Cambodia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Pleads Guilty to Money Laundering Linked to Ryuk Ransomware<a href="https://thehackernews.com/2023/02/russian-hacker-pleads-guilty-to-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national on February 7, 2023, pleaded guilty in the U.S. to money laundering charges and for attempting to conceal the source of funds obtained in connection with Ryuk ransomware attacks. Denis Mihaqlovic Dubnikov, 30, was&nbsp; arrested &nbsp;in Amsterdam in November 2021 before he was extradited from the Netherlands in August 2022. He is awaiting sentencing on April 11, 2023. "Between at least August 2018 and August 2021, Dubnikov and his co-conspirators laundered the proceeds of Ryuk ransomware attacks on individuals and organizations throughout the United States and abroad," the Department of Justice (DoJ)&nbsp; said . Dubnikov and his accomplices are said to have engaged in various criminal schemes designed to obscure the trail of the ill-gotten proceeds. According to DoJ, a chunk of the 250 Bitcoin ransom paid by a U.S. company in July 2019 after a Ryuk attack was sent to Dubnikov in exchange for about $400,000. The crypto was subsequently converted to Tether and trans
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

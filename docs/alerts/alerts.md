@@ -7,7 +7,7 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023 - CISA 
+February 9, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESXiArgs-Recover <a href="https://github.com/cisagov/ESXiArgs-Recover"> Full Text</a>
@@ -15,6 +15,20 @@ ESXiArgs-Recover <a href="https://github.com/cisagov/ESXiArgs-Recover"> Full Tex
 <details>
   <summary>Abstract</summary>
 ESXiArgs-Recover is a tool to allow organizations to attempt recovery of virtual machines affected by the ESXiArgs ransomware attacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2023 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Media Alert: Valentine's Day in New Mexico Means Love - and Scams <a href="https://www.fbi.gov/contact-us/field-offices/albuquerque/news/fbi-media-alert-valentines-day-in-new-mexico-means-love---and-scams-?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Valentine’s Day means love is in the air, and criminals are online.
+
+The FBI is warning New Mexicans to beware of romance scams which tend to proliferate this time of the year as many people log on to find that special someone.
 </details>
 </div>
 

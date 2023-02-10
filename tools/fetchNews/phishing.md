@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Drainer Scam Lures Unwitting Users into Giving Away their Funds<a href="https://cyware.com/news/crypto-drainer-scam-lures-unwitting-users-into-giving-away-their-funds-9f1695ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are providing pre-made, counterfeit cryptocurrency webpages that are being used as phishing baits under a malicious campaign dubbed Crypto Drainer to steal assets from wallets. These phishing pages purport to mint non-fungible tokens (NFTs) and use third-party services and application ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

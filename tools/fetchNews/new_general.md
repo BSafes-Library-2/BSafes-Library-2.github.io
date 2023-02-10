@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Hackers Pot of Gold: Your MSP's Data<a href="https://thehackernews.com/2023/02/a-hackers-pot-of-gold-your-msps-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A single ransomware attack on a New Zealand managed service provider (MSP) disrupted several of its clients' business operations overnight, most belonging to the healthcare sector. According to the country's privacy commissioner, " a cyber security incident involving a ransomware attack " in late November upended the daily operations of New Zealand's health ministry when it prevented the staff from accessing thousands of medical records. The Ministry of Justice, six health regulatory authorities, a health insurer, and a handful of other businesses also number among those affected by second-hand damage from the attack. There are ways to&nbsp; recover from a ransomware attack , but the damage often extends into that attacked organization's customers and vendors.&nbsp; The targeted MSP in this incident is Mercury IT, a business based in Australia. Te Whatu Ora, the New Zealand health ministry, was unable to access at least 14,000 medical records because of the outage at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

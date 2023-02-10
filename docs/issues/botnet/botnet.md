@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Botnet Goes Through a Major Transformation<a href="https://cyware.com/news/medusa-botnet-goes-through-a-major-transformation-c4f5a237"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Cyble uncovered a new Medusa DDoS botnet version based on the leaked Mirai source code. With this, it has appropriated Mirai's DDoS attack choices and Linux targeting capabilities. It comes with a ransomware module and Telnet brute-forcer. Additionally, a dedicated portal now adverti ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+THN Webinar – Learn How to Comply with New Cyber Insurance Identity Security Requirements<a href="https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hacker News is thrilled to announce the launch of our new educational webinar series , in collaboration with the leading cybersecurity companies in the industry! Get ready to dive into the world of enterprise-level security with expert guests who will share their vast knowledge and provide you with valuable insights and information on various security topics. Whether you're a seasoned professional or just starting out in the cybersecurity industry, these webinars are a must-attend. So, mark your calendars and sign up today ! Have you ever stopped to think about the potential consequences of a cyberattack on your organization? It's getting more intense and destructive every day, and organizations are feeling the heat. That's why more and more businesses are turning to&nbsp; cyber insurance &nbsp;to find some much-needed peace of mind. Imagine, in the unfortunate event of a successful security breach or ransomware attack, the right policy can help minimize liability and contai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberspace and Instability: Reconceptualizing Instability<a href="https://www.lawfareblog.com/cyberspace-and-instability-reconceptualizing-instability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new volume edited by Bobby Chesney and co-authors reconceptualizes instability in relation to cyberspace.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

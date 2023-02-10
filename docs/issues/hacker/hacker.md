@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsPenguin Threat Actor Emerges with Malicious Campaign Targeting Pakistani Entities<a href="https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor dubbed&nbsp; NewsPenguin &nbsp;has been linked to a phishing campaign targeting Pakistani entities by leveraging the upcoming international maritime expo as a lure. "The attacker sent out targeted phishing emails with a weaponized document attached that purports to be an exhibitor manual for PIMEC-23," the BlackBerry Research and Intelligence Team said . PIMEC , short for Pakistan International Maritime Expo and Conference, is an&nbsp; initiative &nbsp;of the Pakistan Navy and is organized by the Ministry of Maritime Affairs with an aim to "jump start development in the maritime sector." It's scheduled to be held from February 10-12, 2023. The Canadian cybersecurity company said the attacks are designed to target marine-related entities and the event's visitors by tricking the message recipients into opening the seemingly harmless Microsoft Word document. Once the document is launched, a method called&nbsp; remote template injection &nbsp;is employ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider Shifts Focus from BPOs and Telecos to IT and Gaming Companies<a href="https://cyware.com/news/scattered-spider-shifts-focus-from-bpos-and-telecos-to-it-and-gaming-companies-06a4c97f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CrowdStrike report revealed that the Scattered Spider threat actors are still actively targeting video game and tech companies, after attacking 130 organizations in 2022. There are fake domains impersonating video game makers Roblox and Zynga; IT giants Intuit, Salesforce, Comcast, and Grubhub; a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsPenguin, a Previously Unknown Threat Actor, Targets Pakistan with Advanced Espionage Tool<a href="https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian cybersecurity company said the attacks are designed to target marine-related entities and the event's visitors by tricking the message recipients into opening the seemingly harmless Microsoft Word document.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

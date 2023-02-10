@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enigma Stealer Targets Cryptocurrency Industry with Fake Jobs<a href="https://www.trendmicro.com/en_us/research/23/b/enigma-stealer-targets-cryptocurrency-industry-with-fake-jobs.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Infrastructure at Risk from New Vulnerabilities Found in Wireless IIoT Devices<a href="https://thehackernews.com/2023/02/critical-infrastructure-at-risk-from.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 United States and United Kingdom Issue Joint Sanctions on Members of Russian Cybercrime Gang<a href="https://www.lawfareblog.com/united-states-and-united-kingdom-issue-joint-sanctions-members-russian-cybercrime-gang"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US and UK sanctioned seven Russian members of Trickbot gang<a href="https://securityaffairs.com/142041/cyber-crime/us-uk-sanctioned-7-russian-trickbot.html"> Full Text</a>
@@ -100,7 +100,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa Botnet Goes Through a Major Transformation<a href="https://cyware.com/news/medusa-botnet-goes-through-a-major-transformation-c4f5a237"> Full Text</a>
@@ -116,7 +116,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 THN Webinar – Learn How to Comply with New Cyber Insurance Identity Security Requirements<a href="https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html"> Full Text</a>
@@ -132,7 +132,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberspace and Instability: Reconceptualizing Instability<a href="https://www.lawfareblog.com/cyberspace-and-instability-reconceptualizing-instability"> Full Text</a>
@@ -148,7 +148,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new variant of ESXiArgs ransomware makes recovery much harder<a href="https://securityaffairs.com/142035/malware/esxiargs-ransomware-new-variant.html"> Full Text</a>
@@ -165,7 +165,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakNote Campaign Leverages OneNote to Infect Victims with QBot<a href="https://cyware.com/news/qaknote-campaign-leverages-onenote-to-infect-victims-with-qbot-496d4d8b"> Full Text</a>
@@ -181,7 +181,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsPenguin Threat Actor Emerges with Malicious Campaign Targeting Pakistani Entities<a href="https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html"> Full Text</a>
@@ -197,7 +197,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter restricted in Turkey after the earthquake amid disinformation fear<a href="https://securityaffairs.com/142022/social-networks/twitter-restricted-turkey-earthquake.html"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quasar RAT Propagated via Private Home Trading System<a href="https://cyware.com/news/quasar-rat-propagated-via-private-home-trading-system-67312362"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Hackers Pot of Gold: Your MSP's Data<a href="https://thehackernews.com/2023/02/a-hackers-pot-of-gold-your-msps-data.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts published a list of proxy IPs used by the pro-Russia group Killnet<a href="https://securityaffairs.com/142006/hacktivism/killnet-proxy-ips-addresses.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scattered Spider Shifts Focus from BPOs and Telecos to IT and Gaming Companies<a href="https://cyware.com/news/scattered-spider-shifts-focus-from-bpos-and-telecos-to-it-and-gaming-companies-06a4c97f"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Malware Adopts New Tactics to Attack Healthcare and Finance Firms<a href="https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsPenguin, a Previously Unknown Threat Actor, Targets Pakistan with Advanced Espionage Tool<a href="https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Fixes Multiple New Security Flaws with Latest Update<a href="https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AmerisourceBergen Healthcare Company Has Been Breached<a href="https://heimdalsecurity.com/blog/amerisourcebergen-healthcare-company-has-been-breached/?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Media Alert: Valentine's Day in New Mexico Means Love - and Scams<a href="https://www.fbi.gov/contact-us/field-offices/albuquerque/news/fbi-media-alert-valentines-day-in-new-mexico-means-love---and-scams-?&web_view=true"> Full Text</a>

@@ -8,6 +8,37 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and UK sanctioned seven Russian members of Trickbot gang<a href="https://securityaffairs.com/142041/cyber-crime/us-uk-sanctioned-7-russian-trickbot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US and the UK have sanctioned seven Russian individuals for their involvement in the TrickBot operations.
+The US and the UK authorities have sanctioned seven Russian individuals for their involvement in the TrickBot operations.
+The US Treasury...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts published a list of proxy IPs used by the pro-Russia group Killnet<a href="https://securityaffairs.com/142006/hacktivism/killnet-proxy-ips-addresses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SecurityScorecard’s researchers released a list of proxy IPs used by the pro-Russia group Killnet to neutralize its attacks.
+SecurityScorecard’s researchers published a list of proxy IPs used by the pro-Russia group Killnet with the intent to interfere...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

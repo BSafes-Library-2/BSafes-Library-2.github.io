@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoor in Dingo Cryptocurrency Allows Creator to Steal (Nearly) Everything<a href="https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the documents describing the Dingo Token claimed that the scheme charged 10% per transaction, Check Point researchers found 47 transactions where the total fee per transaction had been increased to 99%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

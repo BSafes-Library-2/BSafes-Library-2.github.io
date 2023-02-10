@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new variant of ESXiArgs ransomware makes recovery much harder<a href="https://securityaffairs.com/142035/malware/esxiargs-ransomware-new-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of new&nbsp;ESXiArgs ransomware attacks using an upgraded version that makes it harder to recover VMware ESXi virtual machines.
+Experts spotted a new variant of&nbsp;ESXiArgs ransomware targeting VMware ESXi servers, authors have improved the encryption...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
