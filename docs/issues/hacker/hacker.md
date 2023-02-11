@@ -8,6 +8,49 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MagicWeb Mystery Highlights Nobelium Attacker's Sophistication<a href="https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has tracked down a sophisticated authentication bypass for Active Directory Federated Services (AD FS), pioneered by the Russia-linked Nobelium threat actor group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Healthcare with Ransomware to Fund its Operations<a href="https://thehackernews.com/2023/02/north-korean-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-backed hackers from North Korea are conducting ransomware attacks against healthcare and critical infrastructure facilities to fund illicit activities, U.S. and South Korean cybersecurity and intelligence agencies warned in a joint advisory. The attacks, which demand cryptocurrency ransoms in exchange for recovering access to encrypted files, are designed to support North Korea's national-level priorities and objectives. This includes "cyber operations targeting the United States and South Korea governments — specific targets include Department of Defense Information Networks and Defense Industrial Base member networks," the authorities&nbsp; said . Threat actors with North Korea have been&nbsp; linked &nbsp;to&nbsp; espionage ,&nbsp; financial theft , and cryptojacking operations for years, including the infamous&nbsp; WannaCry ransomware attacks &nbsp;of 2017 that infected hundreds of thousands of machines located in over 150 countries. Since then, North Korean nation-state crews have dabbled
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TA886 group targets companies with custom Screenshotter malware<a href="https://securityaffairs.com/142077/cyber-crime/ta886-group-screenshotter-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TA886 hacking group targets organizations in the United States and Germany with new spyware tracked as Screenshotter.
+A recently discovered threat actor, tracked as TA886 by security firm Proofpoint, is targeting organizations in the United States...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

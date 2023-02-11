@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Disinformation
 ---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter restricted in Turkey after the earthquake amid disinformation fear<a href="https://securityaffairs.com/142022/social-networks/twitter-restricted-turkey-earthquake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global internet monitor NetBlocks reported that Twitter has been restricted in Turkey in the aftermath of the earthquake.
+Global internet monitor NetBlocks reported that network data confirm that Twitter has been restricted in Turkey in the aftermath...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

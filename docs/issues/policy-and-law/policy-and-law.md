@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. and U.S. Sanction 7 Russians for TrickBot, Ryuk, and Conti Ransomware Attacks<a href="https://thehackernews.com/2023/02/uk-and-us-sanction-7-russians-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a first-of-its-kind coordinated action, the U.K. and U.S. governments on Thursday levied sanctions against seven Russian nationals for their affiliation to the TrickBot, Ryuk, and Conti cybercrime operation. The individuals&nbsp; designated &nbsp;under sanctions are Vitaly Kovalev (aka Alex Konor, Bentley, or Bergen), Maksim Mikhailov (aka Baget), Valentin Karyagin (aka Globus), Mikhail Iskritskiy (aka Tropa), Dmitry Pleshevskiy (aka Iseldor), Ivan Vakhromeyev (aka Mushroom), and Valery Sedletski (aka Strix). "Current members of the TrickBot group are associated with Russian Intelligence Services," the U.S. Treasury Department&nbsp; noted . "The TrickBot group's preparations in 2020 aligned them to Russian state objectives and targeting previously conducted by Russian Intelligence Services." TrickBot, which is attributed to a threat actor named ITG23, Gold Blackburn, and Wizard Spider, emerged in 2016 as a derivative of the Dyre banking trojan and evolved into a&nbsp; highly
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

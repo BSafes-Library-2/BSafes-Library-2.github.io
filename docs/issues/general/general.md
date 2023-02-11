@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast Threat Labs releases Q4 2022 Threat Report<a href="https://blog.avast.com/avast-q4-2022-threat-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top countries affected by tech support scams are the United States, Brazil, Japan, Canada, and France. These scams typically start with a pop-up window claiming a malware infection and urging the person to call a helpline for resolution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

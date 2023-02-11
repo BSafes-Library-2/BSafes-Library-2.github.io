@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AmerisourceBergen Healthcare Company Has Been Breached<a href="https://heimdalsecurity.com/blog/amerisourcebergen-healthcare-company-has-been-breached/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz gang chose to get inside organizations’ networks by leveraging critical flaws in Mitel telephony systems. After the initial access, the threat actor remains silent for months and then exfiltrates and encrypts files using a backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

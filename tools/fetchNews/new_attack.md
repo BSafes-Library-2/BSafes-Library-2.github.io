@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hit the City of Oakland<a href="https://securityaffairs.com/142110/cyber-crime/city-of-oakland-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the City of Oakland this week, forcing it to take all systems offline in response to the incident.
+The City of Oakland disclosed a ransomware attack, the security breach began on Wednesday night. In an abundance of caution,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

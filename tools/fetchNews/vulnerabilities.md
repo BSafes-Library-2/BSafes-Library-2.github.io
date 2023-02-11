@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Infrastructure at Risk from New Vulnerabilities Found in Wireless IIoT Devices<a href="https://thehackernews.com/2023/02/critical-infrastructure-at-risk-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 38 security vulnerabilities has been uncovered in wireless industrial internet of things (IIoT) devices from four different vendors that could pose a significant attack surface for threat actors looking to exploit operational technology (OT) environments. "Threat actors can exploit vulnerabilities in Wireless IIoT devices to gain initial access to internal OT networks," Israeli industrial cybersecurity company Otorio&nbsp; said . "They can use these vulnerabilities to bypass security layers and infiltrate target networks, putting critical infrastructure at risk or interrupting manufacturing." The flaws, in a nutshell, offer a remote entry point for attack, enabling unauthenticated adversaries to gain a foothold and subsequently use it as leverage to spread to other hosts, thereby causing significant damage. Some of the identified shortcomings could be chained to give an external actor direct access to thousands of internal OT networks over the internet, secu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenSSL Fixes Multiple New Security Flaws with Latest Update<a href="https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OpenSSL Project has released fixes to address several security flaws, including a high-severity bug in the open source encryption toolkit that could potentially expose users to malicious attacks. Tracked as&nbsp; CVE-2023-0286 , the issue relates to a case of type confusion that may permit an adversary to "read memory contents or enact a denial-of-service," the maintainers said in an advisory. The vulnerability is rooted in the way the&nbsp; popular cryptographic library &nbsp;handles X.509 certificates, and is likely to impact only those applications that have a custom implementation for retrieving a certificate revocation list ( CRL ) over a network. "In most cases, the attack requires the attacker to provide both the certificate chain and CRL, neither of which need to have a valid signature," OpenSSL&nbsp; said . "If the attacker only controls one of these inputs, the other input must already contain an X.400 address as a CRL distribution point, which is uncommon."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
