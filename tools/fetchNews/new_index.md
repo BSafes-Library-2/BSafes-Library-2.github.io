@@ -34,7 +34,268 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six Common Ways That Malware Strains Get Their Names<a href="https://securityintelligence.com/articles/six-ways-malware-strains-get-names/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a cybercriminal doesn’t name their strain themselves, a cybersecurity researcher creates the name. The primary researcher of the strain will usually come up with the name, and they sometimes assign one that seems random but usually is not.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware crooks steal 3m+ patients' sensitive info<a href="https://www.theregister.com/2023/02/11/ransomware_regal_medical_group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several California medical groups have sent security breach notification letters to more than three million patients alerting them that crooks may have stolen a ton of their sensitive health and personal information during a ransomware infection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MagicWeb Mystery Highlights Nobelium Attacker's Sophistication<a href="https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has tracked down a sophisticated authentication bypass for Active Directory Federated Services (AD FS), pioneered by the Russia-linked Nobelium threat actor group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages<a href="https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four different rogue packages in the Python Package Index ( PyPI ) have been found to carry out a number of malicious actions, including dropping malware, deleting the netstat utility, and manipulating the SSH authorized_keys file. The packages in question are  aptx ,  bingchilling2 ,  httops , and  tkint3rs , all of which were collectively downloaded about 450 times before they were taken down. While aptx is an attempt to impersonate Qualcomm's  highly popular audio codec  of the same name, httops and tkint3rs are typosquats of https and tkinter, respectively. "Most of these packages had well thought out names, to purposely confuse people," Security researcher and journalist Ax Sharma  said . An analysis of the malicious code injected in the setup script reveals the presence of an obfuscated  Meterpreter payload  that's disguised as " pip ," a legitimate package installer for Python, and can be leveraged to gain shell access to the infected host. Also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack hit the City of Oakland<a href="https://securityaffairs.com/142110/cyber-crime/city-of-oakland-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack hit the City of Oakland this week, forcing it to take all systems offline in response to the incident.
+The City of Oakland disclosed a ransomware attack, the security breach began on Wednesday night. In an abundance of caution,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Healthcare with Ransomware to Fund its Operations<a href="https://thehackernews.com/2023/02/north-korean-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-backed hackers from North Korea are conducting ransomware attacks against healthcare and critical infrastructure facilities to fund illicit activities, U.S. and South Korean cybersecurity and intelligence agencies warned in a joint advisory. The attacks, which demand cryptocurrency ransoms in exchange for recovering access to encrypted files, are designed to support North Korea's national-level priorities and objectives. This includes "cyber operations targeting the United States and South Korea governments — specific targets include Department of Defense Information Networks and Defense Industrial Base member networks," the authorities  said . Threat actors with North Korea have been  linked  to  espionage ,  financial theft , and cryptojacking operations for years, including the infamous  WannaCry ransomware attacks  of 2017 that infected hundreds of thousands of machines located in over 150 countries. Since then, North Korean nation-state crews have dabbled
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPRK fund malicious cyber activities with ransomware attacks on critical Infrastructure<a href="https://securityaffairs.com/142090/breaking-news/north-korea-hackers-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT groups conduct ransomware attacks against healthcare and critical infrastructure facilities to fund its activities.
+Ransomware attacks on critical infrastructure conducted by North Korea-linked hacker groups are used by the government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Overlooked Cybersecurity Breaches<a href="https://thehackernews.com/2023/02/3-overlooked-cybersecurity-breaches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Here are three of the worst breaches, attacker tactics and techniques of 2022, and the security controls that can provide effective, enterprise security protection for them. #1: 2 RaaS Attacks in 13 Months Ransomware as a service is a type of attack in which the ransomware software and infrastructure are leased out to the attackers. These ransomware services can be purchased on the dark web from other threat actors and ransomware gangs. Common purchasing plans include buying the entire tool, using the existing infrastructure while paying per infection, or letting other attackers perform the service while sharing revenue with them. In this attack, the threat actor consists of one of the most prevalent ransomware groups, specializing in access via third parties, while the targeted company is a medium-sized retailer with dozens of sites in the United States. The threat actors used ransomware as a service to breach the victim's network. They were able to exploit third-party creden
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TA886 group targets companies with custom Screenshotter malware<a href="https://securityaffairs.com/142077/cyber-crime/ta886-group-screenshotter-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TA886 hacking group targets organizations in the United States and Germany with new spyware tracked as Screenshotter.
+A recently discovered threat actor, tracked as TA886 by security firm Proofpoint, is targeting organizations in the United States...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+February 2023 Patch Tuesday forecast: A Valentine’s date<a href="https://www.helpnetsecurity.com/2023/02/10/february-2023-patch-tuesday-forecast/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For many, CVSS from FIRST has been the driving force in that process. One of the major objectives behind the calculation of the actual CVSS number is to ensure standardization so all CVEs are scored consistently and can be accurately compared.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. and U.S. Sanction 7 Russians for TrickBot, Ryuk, and Conti Ransomware Attacks<a href="https://thehackernews.com/2023/02/uk-and-us-sanction-7-russians-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a first-of-its-kind coordinated action, the U.K. and U.S. governments on Thursday levied sanctions against seven Russian nationals for their affiliation to the TrickBot, Ryuk, and Conti cybercrime operation. The individuals  designated  under sanctions are Vitaly Kovalev (aka Alex Konor, Bentley, or Bergen), Maksim Mikhailov (aka Baget), Valentin Karyagin (aka Globus), Mikhail Iskritskiy (aka Tropa), Dmitry Pleshevskiy (aka Iseldor), Ivan Vakhromeyev (aka Mushroom), and Valery Sedletski (aka Strix). "Current members of the TrickBot group are associated with Russian Intelligence Services," the U.S. Treasury Department  noted . "The TrickBot group's preparations in 2020 aligned them to Russian state objectives and targeting previously conducted by Russian Intelligence Services." TrickBot, which is attributed to a threat actor named ITG23, Gold Blackburn, and Wizard Spider, emerged in 2016 as a derivative of the Dyre banking trojan and evolved into a  highly
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit discloses security breach that exposed source code and internal docs<a href="https://securityaffairs.com/142071/data-breach/reddit-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social news aggregation platform Reddit suffered a security breach, attackers gained unauthorized access to internal documents, code, and some business systems.
+Reddit announced it was hit by a sophisticated and highly-targeted attack that took place...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple says watchdog tweaks would make iOS an Android 'clone'<a href="https://www.theregister.co.uk/2023/02/09/apple_says_cma_tweaks_would/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple said in its response that it was "particularly concerned by some of the remedy options that the CMA is now considering in relation to cloud gaming, which appear to fall outside the underlying basis for the market investigation."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit Suffers Security Breach Exposing Internal Documents and Source Code<a href="https://thehackernews.com/2023/02/reddit-suffers-security-breach-exposing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular social news aggregation platform Reddit has disclosed that it was the victim of a security incident that enabled unidentified threat actors to gain unauthorized access to internal documents, code, and some unspecified business systems. The company blamed it on a "sophisticated and highly-targeted phishing attack" that took place on February 5, 2023, aimed at its employees. The attack entailed sending out "plausible-sounding prompts" that redirected to a website masquerading as Reddit's intranet portal in an attempt to steal credentials and two-factor authentication (2FA) tokens. A single employee's credentials is said to have been phished in this manner, enabling the threat actor to access Reddit's internal systems. The affected employee self-reported the hack, it further added. The company, however, stressed that there is no evidence to suggest that its production systems were breached or that users' non-public data had been compromise
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android mobile devices from top vendors in China have pre-installed malware<a href="https://securityaffairs.com/141989/malware/android-mobile-devices-china-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that the top-of-the-line Android mobile devices sold in China are shipped with malware.
+China is currently the country with the largest number of Android mobile devices, but a recent study conducted by researchers from the University...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast Threat Labs releases Q4 2022 Threat Report<a href="https://blog.avast.com/avast-q4-2022-threat-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top countries affected by tech support scams are the United States, Brazil, Japan, Canada, and France. These scams typically start with a pop-up window claiming a malware infection and urging the person to call a helpline for resolution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enigma Stealer Targets Cryptocurrency Industry with Fake Jobs<a href="https://www.trendmicro.com/en_us/research/23/b/enigma-stealer-targets-cryptocurrency-industry-with-fake-jobs.html?&web_view=true"> Full Text</a>
@@ -50,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Infrastructure at Risk from New Vulnerabilities Found in Wireless IIoT Devices<a href="https://thehackernews.com/2023/02/critical-infrastructure-at-risk-from.html"> Full Text</a>
@@ -66,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 United States and United Kingdom Issue Joint Sanctions on Members of Russian Cybercrime Gang<a href="https://www.lawfareblog.com/united-states-and-united-kingdom-issue-joint-sanctions-members-russian-cybercrime-gang"> Full Text</a>
@@ -82,7 +343,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US and UK sanctioned seven Russian members of Trickbot gang<a href="https://securityaffairs.com/142041/cyber-crime/us-uk-sanctioned-7-russian-trickbot.html"> Full Text</a>
@@ -100,7 +361,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa Botnet Goes Through a Major Transformation<a href="https://cyware.com/news/medusa-botnet-goes-through-a-major-transformation-c4f5a237"> Full Text</a>
@@ -116,7 +377,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 THN Webinar – Learn How to Comply with New Cyber Insurance Identity Security Requirements<a href="https://thehackernews.com/2023/02/thn-webinar-learn-how-to-comply-with.html"> Full Text</a>
@@ -132,7 +393,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberspace and Instability: Reconceptualizing Instability<a href="https://www.lawfareblog.com/cyberspace-and-instability-reconceptualizing-instability"> Full Text</a>
@@ -148,7 +409,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new variant of ESXiArgs ransomware makes recovery much harder<a href="https://securityaffairs.com/142035/malware/esxiargs-ransomware-new-variant.html"> Full Text</a>
@@ -165,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakNote Campaign Leverages OneNote to Infect Victims with QBot<a href="https://cyware.com/news/qaknote-campaign-leverages-onenote-to-infect-victims-with-qbot-496d4d8b"> Full Text</a>
@@ -181,7 +442,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsPenguin Threat Actor Emerges with Malicious Campaign Targeting Pakistani Entities<a href="https://thehackernews.com/2023/02/newspenguin-threat-actor-emerges-with.html"> Full Text</a>
@@ -197,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter restricted in Turkey after the earthquake amid disinformation fear<a href="https://securityaffairs.com/142022/social-networks/twitter-restricted-turkey-earthquake.html"> Full Text</a>
@@ -214,7 +475,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quasar RAT Propagated via Private Home Trading System<a href="https://cyware.com/news/quasar-rat-propagated-via-private-home-trading-system-67312362"> Full Text</a>
@@ -230,7 +491,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Hackers Pot of Gold: Your MSP's Data<a href="https://thehackernews.com/2023/02/a-hackers-pot-of-gold-your-msps-data.html"> Full Text</a>
@@ -246,7 +507,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts published a list of proxy IPs used by the pro-Russia group Killnet<a href="https://securityaffairs.com/142006/hacktivism/killnet-proxy-ips-addresses.html"> Full Text</a>
@@ -263,7 +524,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scattered Spider Shifts Focus from BPOs and Telecos to IT and Gaming Companies<a href="https://cyware.com/news/scattered-spider-shifts-focus-from-bpos-and-telecos-to-it-and-gaming-companies-06a4c97f"> Full Text</a>
@@ -279,7 +540,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gootkit Malware Adopts New Tactics to Attack Healthcare and Finance Firms<a href="https://thehackernews.com/2023/02/gootkit-malware-adopts-new-tactics-to.html"> Full Text</a>
@@ -295,7 +556,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsPenguin, a Previously Unknown Threat Actor, Targets Pakistan with Advanced Espionage Tool<a href="https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool?&web_view=true"> Full Text</a>
@@ -311,7 +572,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2023
+February 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenSSL Fixes Multiple New Security Flaws with Latest Update<a href="https://thehackernews.com/2023/02/openssl-fixes-multiple-new-security.html"> Full Text</a>
@@ -327,7 +588,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AmerisourceBergen Healthcare Company Has Been Breached<a href="https://heimdalsecurity.com/blog/amerisourcebergen-healthcare-company-has-been-breached/?&web_view=true"> Full Text</a>
@@ -343,7 +604,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2023
+February 9, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Media Alert: Valentine's Day in New Mexico Means Love - and Scams<a href="https://www.fbi.gov/contact-us/field-offices/albuquerque/news/fbi-media-alert-valentines-day-in-new-mexico-means-love---and-scams-?&web_view=true"> Full Text</a>
