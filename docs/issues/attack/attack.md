@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+February 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Israel Institute of Technology Technion suffered a ransomware attack<a href="https://securityaffairs.com/142160/hacking/israeli-technion-suffered-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;Technion – Israel Institute of Technology was breached on Sunday by a new anti-Israel threat actor calling itself&nbsp;DarkBit.
+Technion – Israel Institute of Technology is Israel's top technology research university and a leading center for cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware claims the hack of 130 orgs using GoAnywhere MFT flaw<a href="https://securityaffairs.com/142130/cyber-crime/clop-ransomware-goanywhere-mft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware group claims to have breached over 130 organizations exploiting the GoAnywhere MFT zero-day.
+The Clop ransomware group claims to have stolen sensitive data from over 130 organizations by exploiting a zero-day vulnerability (CVE-2023-0669)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

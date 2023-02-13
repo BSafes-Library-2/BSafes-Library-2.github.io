@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Nodaria APT Adds Advanced Information Stealing Functionality<a href="https://cyware.com/news/russian-nodaria-apt-adds-advanced-information-stealing-functionality-63d5fbe6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Broadcom Symantec took the wraps off of an information-stealing malware known as Graphiron. Russia-affiliated ATP group Nodaria is using it in operations against Ukraine. Written in the Go programming language, the malware enables operators to gather a variety of data from the infe ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

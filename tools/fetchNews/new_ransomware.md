@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ESXiArgs Ransomware Variant Emerges After CISA Releases Decryptor Tool<a href="https://thehackernews.com/2023/02/new-esxiargs-ransomware-variant-emerges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the U.S. Cybersecurity and Infrastructure Security Agency (CISA) released a decryptor for affected victims to recover from&nbsp; ESXiArgs ransomware attacks , the threat actors have bounced back with an updated version that encrypts more data. The emergence of the new variant was reported by a system administrator on an online forum, where another participant stated that files larger than 128MB will have 50% of their data encrypted, making the recovery process more challenging. Another notable change is the removal of the Bitcoin address from the ransom note, with the attackers now urging victims to contact them on Tox to obtain the wallet information. The threat actors "realized that researchers were tracking their payments, and they may have even known before they released the ransomware that the encryption process in the original variant was relatively easy to circumvent," Censys&nbsp; said &nbsp;in a write-up. "In other words: they are watching." Statistics shared
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Goes Linux Ways, With Flaws and Frowns<a href="https://cyware.com/news/cl0p-goes-linux-ways-with-flaws-and-frowns-f5f665c7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs claimed to have observed the first Linux variant of Cl0p ransomware. The ELF variant of the ransomware uses the same encryption method and similar process logic as it does for Windows. Given that some Windows-only capabilities are missing from this new Linux version, it appears to stil ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

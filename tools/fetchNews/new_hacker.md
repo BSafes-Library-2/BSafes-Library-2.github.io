@@ -11,6 +11,34 @@ nav_order: 900080
 February 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Enigma, Vector, and TgToxic: The New Threats to Cryptocurrency Users<a href="https://thehackernews.com/2023/02/enigma-vector-and-tgtoxic-new-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected Russian threat actors have been targeting Eastern European users in the crypto industry with fake job opportunities as bait to install information-stealing malware on compromised hosts. The attackers "use several highly obfuscated and under-development custom loaders in order to infect those involved in the cryptocurrency industry with Enigma stealer," Trend Micro researchers Aliakbar Zahravi and Peter Girnus&nbsp; said &nbsp;in a report this week. Enigma is said to be an altered version of Stealerium, an open source C#-based malware that acts as a stealer, clipper, and keylogger. The intricate infection journey starts with a rogue RAR archive file that's distributed via phishing or social media platforms. It contains two documents, one of which is a .TXT file that includes a set of sample interview questions related to cryptocurrency. The second file is a Microsoft Word document that, while serving as a decoy, is tasked with launching the first-stage Enigma loader,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Rights Defenders Infiltrate Alleged Mercenary Hacking Group<a href="https://techcrunch.com/2023/02/10/digital-rights-defenders-infiltrate-alleged-mercenary-hacking-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EFF has been tracking Dark Caracal since 2015. In 2020, Quintin and EFF’s director of cybersecurity Eva Galperin published a report about a hacking campaign focused on Lebanese targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 MagicWeb Mystery Highlights Nobelium Attacker's Sophistication<a href="https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

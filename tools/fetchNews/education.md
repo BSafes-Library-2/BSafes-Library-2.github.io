@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six Common Ways That Malware Strains Get Their Names<a href="https://securityintelligence.com/articles/six-ways-malware-strains-get-names/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a cybercriminal doesn’t name their strain themselves, a cybersecurity researcher creates the name. The primary researcher of the strain will usually come up with the name, and they sometimes assign one that seems random but usually is not.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Overlooked Cybersecurity Breaches<a href="https://thehackernews.com/2023/02/3-overlooked-cybersecurity-breaches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Here are three of the worst breaches, attacker tactics and techniques of 2022, and the security controls that can provide effective, enterprise security protection for them. #1: 2 RaaS Attacks in 13 Months Ransomware as a service is a type of attack in which the ransomware software and infrastructure are leased out to the attackers. These ransomware services can be purchased on the dark web from other threat actors and ransomware gangs. Common purchasing plans include buying the entire tool, using the existing infrastructure while paying per infection, or letting other attackers perform the service while sharing revenue with them. In this attack, the threat actor consists of one of the most prevalent ransomware groups, specializing in access via third parties, while the targeted company is a medium-sized retailer with dozens of sites in the United States. The threat actors used ransomware as a service to breach the victim's network. They were able to exploit third-party creden
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

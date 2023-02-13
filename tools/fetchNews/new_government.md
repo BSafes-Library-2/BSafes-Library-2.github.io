@@ -8,6 +8,79 @@ nav_order: 900075
 
 ## Government
 ---
+February 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Defense Department will replace surveillance cameras from Chinese firms Hikvision and Dahua<a href="https://securityaffairs.com/142147/intelligence/australia-remove-chinese-surveillance-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia’s Defense Department announced that they will remove surveillance cameras made by Chinese firms linked to the government of Beijing.
+Australia’s Defense Department is going to replace surveillance cameras made by Chinese firms Hikvision...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Government evaluates the immunity to hackers acting in the interests of Russia<a href="https://securityaffairs.com/142139/cyber-warfare-2/russian-government-crooks-immunity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian Government proposed to give a sort of immunity to the hackers that operate in the interests of Moscow.
+Russian media reported that Alexander Khinshtein, the head of the Duma committee on information policy, announced that the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remcos RAT Used to Spy on Ukrainian Government - Says CERT-UA<a href="https://cyware.com/news/remcos-rat-used-to-spy-on-ukrainian-government-says-cert-ua-7c5feba4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alert from the CERT-UA revealed that threat actors conducted a phishing campaign against Ukrainian government agencies to deploy the Remcos RAT on their computers. The email contained a file reminding recipients to pay for services availed from Ukrtelecom. This latest Remcos version leverages th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws<a href="https://thehackernews.com/2023/02/cisa-warns-of-active-attacks-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday&nbsp; added &nbsp;three flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active abuse in the wild. Included among the three is&nbsp; CVE-2022-24990 , a bug affecting TerraMaster network-attached storage (TNAS) devices that could lead to unauthenticated remote code execution with the highest privileges. Details about the flaw were&nbsp; disclosed &nbsp;by Ethiopian cyber security research firm Octagon Networks in March 2022. The vulnerability, according to a&nbsp; joint advisory &nbsp;released by U.S. and South Korean government authorities, is said to have been weaponized by North Korean nation-state hackers to strike healthcare and critical infrastructure entities with ransomware. The second shortcoming to be added to KEV catalog is&nbsp; CVE-2015-2291 , an unspecified flaw in the Intel ethernet diagnostics driver for Windows (IQVW32.sys and IQVW64.sys) that could throw an affected device into a denial-of-service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Fortra MFT, TerraMaster NAS, Intel driver Flaws, to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142115/hacking/mft-terramaster-intel-driver-flaws-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in Fortra MFT, Intel driver, and TerraMaster NAS to its Known Exploited Vulnerabilities Catalog.
+US CISA added actively exploited flaws in Fortra MFT, Intel driver, and TerraMaster NAS, respectively tracked as CVE-2023-0669,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

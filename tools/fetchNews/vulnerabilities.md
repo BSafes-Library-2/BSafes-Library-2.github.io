@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+February 2023 Patch Tuesday forecast: A Valentine’s date<a href="https://www.helpnetsecurity.com/2023/02/10/february-2023-patch-tuesday-forecast/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For many, CVSS from FIRST has been the driving force in that process. One of the major objectives behind the calculation of the actual CVSS number is to ensure standardization so all CVEs are scored consistently and can be accurately compared.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple says watchdog tweaks would make iOS an Android 'clone'<a href="https://www.theregister.co.uk/2023/02/09/apple_says_cma_tweaks_would/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple said in its response that it was "particularly concerned by some of the remedy options that the CMA is now considering in relation to cloud gaming, which appear to fall outside the underlying basis for the market investigation."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

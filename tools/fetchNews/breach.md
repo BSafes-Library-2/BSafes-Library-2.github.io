@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware crooks steal 3m+ patients' sensitive info<a href="https://www.theregister.com/2023/02/11/ransomware_regal_medical_group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several California medical groups have sent security breach notification letters to more than three million patients alerting them that crooks may have stolen a ton of their sensitive health and personal information during a ransomware infection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit discloses security breach that exposed source code and internal docs<a href="https://securityaffairs.com/142071/data-breach/reddit-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social news aggregation platform Reddit suffered a security breach, attackers gained unauthorized access to internal documents, code, and some business systems.
+Reddit announced it was hit by a sophisticated and highly-targeted attack that took place...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit Suffers Security Breach Exposing Internal Documents and Source Code<a href="https://thehackernews.com/2023/02/reddit-suffers-security-breach-exposing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular social news aggregation platform Reddit has disclosed that it was the victim of a security incident that enabled unidentified threat actors to gain unauthorized access to internal documents, code, and some unspecified business systems. The company blamed it on a "sophisticated and highly-targeted phishing attack" that took place on February 5, 2023, aimed at its employees. The attack entailed sending out "plausible-sounding prompts" that redirected to a website masquerading as Reddit's intranet portal in an attempt to steal credentials and two-factor authentication (2FA) tokens. A single employee's credentials is said to have been phished in this manner, enabling the threat actor to access Reddit's internal systems. The affected employee self-reported the hack, it further added. The company, however, stressed that there is no evidence to suggest that its production systems were breached or that users' non-public data had been compromise
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

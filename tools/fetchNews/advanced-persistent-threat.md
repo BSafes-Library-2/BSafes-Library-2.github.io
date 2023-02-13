@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DPRK fund malicious cyber activities with ransomware attacks on critical Infrastructure<a href="https://securityaffairs.com/142090/breaking-news/north-korea-hackers-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT groups conduct ransomware attacks against healthcare and critical infrastructure facilities to fund its activities.
+Ransomware attacks on critical infrastructure conducted by North Korea-linked hacker groups are used by the government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
