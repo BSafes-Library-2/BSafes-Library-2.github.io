@@ -34,7 +34,238 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Nodaria APT Adds Advanced Information Stealing Functionality<a href="https://cyware.com/news/russian-nodaria-apt-adds-advanced-information-stealing-functionality-63d5fbe6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Broadcom Symantec took the wraps off of an information-stealing malware known as Graphiron. Russia-affiliated ATP group Nodaria is using it in operations against Ukraine. Written in the Go programming language, the malware enables operators to gather a variety of data from the infe ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Israel Institute of Technology Technion suffered a ransomware attack<a href="https://securityaffairs.com/142160/hacking/israeli-technion-suffered-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Technion – Israel Institute of Technology was breached on Sunday by a new anti-Israel threat actor calling itself DarkBit.
+Technion – Israel Institute of Technology is Israel's top technology research university and a leading center for cyber...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Defense Department will replace surveillance cameras from Chinese firms Hikvision and Dahua<a href="https://securityaffairs.com/142147/intelligence/australia-remove-chinese-surveillance-cameras.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia’s Defense Department announced that they will remove surveillance cameras made by Chinese firms linked to the government of Beijing.
+Australia’s Defense Department is going to replace surveillance cameras made by Chinese firms Hikvision...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Government evaluates the immunity to hackers acting in the interests of Russia<a href="https://securityaffairs.com/142139/cyber-warfare-2/russian-government-crooks-immunity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian Government proposed to give a sort of immunity to the hackers that operate in the interests of Moscow.
+Russian media reported that Alexander Khinshtein, the head of the Duma committee on information policy, announced that the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 406 by Pierluigi Paganini<a href="https://securityaffairs.com/142136/breaking-news/security-affairs-newsletter-round-406-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Clop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ESXiArgs Ransomware Variant Emerges After CISA Releases Decryptor Tool<a href="https://thehackernews.com/2023/02/new-esxiargs-ransomware-variant-emerges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the U.S. Cybersecurity and Infrastructure Security Agency (CISA) released a decryptor for affected victims to recover from  ESXiArgs ransomware attacks , the threat actors have bounced back with an updated version that encrypts more data. The emergence of the new variant was reported by a system administrator on an online forum, where another participant stated that files larger than 128MB will have 50% of their data encrypted, making the recovery process more challenging. Another notable change is the removal of the Bitcoin address from the ransom note, with the attackers now urging victims to contact them on Tox to obtain the wallet information. The threat actors "realized that researchers were tracking their payments, and they may have even known before they released the ransomware that the encryption process in the original variant was relatively easy to circumvent," Censys  said  in a write-up. "In other words: they are watching." Statistics shared
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dota 2 Under Attack: Threat Actors Exploit a Chrome Flaw to Infect Gamers<a href="https://cyware.com/news/dota-2-under-attack-threat-actors-exploit-a-chrome-flaw-to-infect-gamers-97ef88c2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts at Avast Threat Labs uncovered four malicious Dota 2 game mods that cyber adversaries are using to backdoor players' systems. The game mods were named Overdog no annoying heroes (id 2776998052), Custom Hero Brawl (id 2780728794), and Overthrow RTZ Edition X10 XP (id 2780559339). Th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enigma, Vector, and TgToxic: The New Threats to Cryptocurrency Users<a href="https://thehackernews.com/2023/02/enigma-vector-and-tgtoxic-new-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected Russian threat actors have been targeting Eastern European users in the crypto industry with fake job opportunities as bait to install information-stealing malware on compromised hosts. The attackers "use several highly obfuscated and under-development custom loaders in order to infect those involved in the cryptocurrency industry with Enigma stealer," Trend Micro researchers Aliakbar Zahravi and Peter Girnus  said  in a report this week. Enigma is said to be an altered version of Stealerium, an open source C#-based malware that acts as a stealer, clipper, and keylogger. The intricate infection journey starts with a rogue RAR archive file that's distributed via phishing or social media platforms. It contains two documents, one of which is a .TXT file that includes a set of sample interview questions related to cryptocurrency. The second file is a Microsoft Word document that, while serving as a decoy, is tasked with launching the first-stage Enigma loader,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remcos RAT Used to Spy on Ukrainian Government - Says CERT-UA<a href="https://cyware.com/news/remcos-rat-used-to-spy-on-ukrainian-government-says-cert-ua-7c5feba4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alert from the CERT-UA revealed that threat actors conducted a phishing campaign against Ukrainian government agencies to deploy the Remcos RAT on their computers. The email contained a file reminding recipients to pay for services availed from Ukrtelecom. This latest Remcos version leverages th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Attacks Exploiting Fortra MFT, TerraMaster NAS, and Intel Driver Flaws<a href="https://thehackernews.com/2023/02/cisa-warns-of-active-attacks-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday  added  three flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active abuse in the wild. Included among the three is  CVE-2022-24990 , a bug affecting TerraMaster network-attached storage (TNAS) devices that could lead to unauthenticated remote code execution with the highest privileges. Details about the flaw were  disclosed  by Ethiopian cyber security research firm Octagon Networks in March 2022. The vulnerability, according to a  joint advisory  released by U.S. and South Korean government authorities, is said to have been weaponized by North Korean nation-state hackers to strike healthcare and critical infrastructure entities with ransomware. The second shortcoming to be added to KEV catalog is  CVE-2015-2291 , an unspecified flaw in the Intel ethernet diagnostics driver for Windows (IQVW32.sys and IQVW64.sys) that could throw an affected device into a denial-of-service
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Goes Linux Ways, With Flaws and Frowns<a href="https://cyware.com/news/cl0p-goes-linux-ways-with-flaws-and-frowns-f5f665c7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs claimed to have observed the first Linux variant of Cl0p ransomware. The ELF variant of the ransomware uses the same encryption method and similar process logic as it does for Windows. Given that some Windows-only capabilities are missing from this new Linux version, it appears to stil ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Rights Defenders Infiltrate Alleged Mercenary Hacking Group<a href="https://techcrunch.com/2023/02/10/digital-rights-defenders-infiltrate-alleged-mercenary-hacking-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EFF has been tracking Dark Caracal since 2015. In 2020, Quintin and EFF’s director of cybersecurity Eva Galperin published a report about a hacking campaign focused on Lebanese targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware claims the hack of 130 orgs using GoAnywhere MFT flaw<a href="https://securityaffairs.com/142130/cyber-crime/clop-ransomware-goanywhere-mft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware group claims to have breached over 130 organizations exploiting the GoAnywhere MFT zero-day.
+The Clop ransomware group claims to have stolen sensitive data from over 130 organizations by exploiting a zero-day vulnerability (CVE-2023-0669)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Fortra MFT, TerraMaster NAS, Intel driver Flaws, to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142115/hacking/mft-terramaster-intel-driver-flaws-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in Fortra MFT, Intel driver, and TerraMaster NAS to its Known Exploited Vulnerabilities Catalog.
+US CISA added actively exploited flaws in Fortra MFT, Intel driver, and TerraMaster NAS, respectively tracked as CVE-2023-0669,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six Common Ways That Malware Strains Get Their Names<a href="https://securityintelligence.com/articles/six-ways-malware-strains-get-names/?&web_view=true"> Full Text</a>
@@ -50,7 +281,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2023
+February 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware crooks steal 3m+ patients' sensitive info<a href="https://www.theregister.com/2023/02/11/ransomware_regal_medical_group/?&web_view=true"> Full Text</a>
@@ -66,7 +297,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2023
+February 11, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MagicWeb Mystery Highlights Nobelium Attacker's Sophistication<a href="https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication?&web_view=true"> Full Text</a>
@@ -82,7 +313,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Obfuscated Malicious Code in PyPI Python Packages<a href="https://thehackernews.com/2023/02/researchers-uncover-obfuscated.html"> Full Text</a>
@@ -98,7 +329,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack hit the City of Oakland<a href="https://securityaffairs.com/142110/cyber-crime/city-of-oakland-ransomware-attack.html"> Full Text</a>
@@ -115,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Targeting Healthcare with Ransomware to Fund its Operations<a href="https://thehackernews.com/2023/02/north-korean-hackers-targeting.html"> Full Text</a>
@@ -131,7 +362,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DPRK fund malicious cyber activities with ransomware attacks on critical Infrastructure<a href="https://securityaffairs.com/142090/breaking-news/north-korea-hackers-ransomware.html"> Full Text</a>
@@ -148,7 +379,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Overlooked Cybersecurity Breaches<a href="https://thehackernews.com/2023/02/3-overlooked-cybersecurity-breaches.html"> Full Text</a>
@@ -164,7 +395,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New TA886 group targets companies with custom Screenshotter malware<a href="https://securityaffairs.com/142077/cyber-crime/ta886-group-screenshotter-malware.html"> Full Text</a>
@@ -181,7 +412,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 February 2023 Patch Tuesday forecast: A Valentine’s date<a href="https://www.helpnetsecurity.com/2023/02/10/february-2023-patch-tuesday-forecast/?&web_view=true"> Full Text</a>
@@ -197,7 +428,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K. and U.S. Sanction 7 Russians for TrickBot, Ryuk, and Conti Ransomware Attacks<a href="https://thehackernews.com/2023/02/uk-and-us-sanction-7-russians-for.html"> Full Text</a>
@@ -213,7 +444,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reddit discloses security breach that exposed source code and internal docs<a href="https://securityaffairs.com/142071/data-breach/reddit-security-breach.html"> Full Text</a>
@@ -230,7 +461,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple says watchdog tweaks would make iOS an Android 'clone'<a href="https://www.theregister.co.uk/2023/02/09/apple_says_cma_tweaks_would/?&web_view=true"> Full Text</a>
@@ -246,7 +477,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reddit Suffers Security Breach Exposing Internal Documents and Source Code<a href="https://thehackernews.com/2023/02/reddit-suffers-security-breach-exposing.html"> Full Text</a>
@@ -262,7 +493,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android mobile devices from top vendors in China have pre-installed malware<a href="https://securityaffairs.com/141989/malware/android-mobile-devices-china-malware.html"> Full Text</a>
@@ -279,7 +510,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2023
+February 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast Threat Labs releases Q4 2022 Threat Report<a href="https://blog.avast.com/avast-q4-2022-threat-report?&web_view=true"> Full Text</a>
