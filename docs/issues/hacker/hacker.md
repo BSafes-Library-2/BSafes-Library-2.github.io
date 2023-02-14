@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TA866 Threat Group Selectively Targets U.S. and German Organizations<a href="https://cyware.com/news/new-ta866-threat-group-selectively-targets-us-and-german-organizations-55db471e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint security experts uncovered a threat actor, tracked as TA886, infecting companies in the U.S. and Germany with the new WasabiSeed and Screenshotter malware. The custom malware can perform surveillance and steal data. Hackers push their malware via phishing emails that include Microsoft Pu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems<a href="https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor created malicious game modes for the Dota 2 multiplayer online battle arena (MOBA) video game that could have been exploited to establish backdoor access to players' systems. The modes exploited a&nbsp; high-severity flaw &nbsp;in the V8 JavaScript engine tracked as&nbsp; CVE-2021-38003 &nbsp;(CVSS score: 8.8), which was&nbsp; exploited as a zero-day &nbsp;and addressed by Google in October 2021. "Since V8 was not sandboxed in Dota, the exploit on its own allowed for remote code execution against other Dota players," Avast researcher Jan Vojtěšek&nbsp; said &nbsp;in a report published last week. Following responsible disclosure to Valve, the game publisher&nbsp; shipped fixes &nbsp;on January 12, 2023, by upgrading the version of V8. Game modes are essentially&nbsp; custom capabilities &nbsp;that can either augment an existing title or offer completely new gameplay in a manner that deviates from the standard rules. While publishing a custom game mode to the Steam store includes a vetting process from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsPenguin Waddles into Pakistani Organizations<a href="https://cyware.com/news/newspenguin-waddles-into-pakistani-organizations-346d2b72"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat group, named NewsPenguin, was found targeting organizations in Pakistan with the upcoming Pakistan International Maritime Expo &amp; Conference (PIMEC-2023) as bait. The researchers stated that the goal of the cybercriminal group is solely focused on cyberespionage, with ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting U.S. and German Firms Monitor Victims' Desktops with Screenshotter<a href="https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor has been targeting companies in the U.S. and Germany with bespoke malware designed to steal confidential information. Enterprise security company Proofpoint, which is tracking the activity cluster under the name&nbsp; Screentime , said the group, dubbed&nbsp; TA866 , is likely financially motivated. "TA866 is an organized actor able to perform well thought-out attacks at scale based on their availability of custom tools; ability and connections to purchase tools and services from other vendors; and increasing activity volumes," the company&nbsp; assessed . Campaigns mounted by the adversary are said to have commenced around October 3, 2022, with the attacks launched via emails containing a booby-trapped attachment or URL that leads to malware. The attachments range from macro-laced Microsoft Publisher files to PDFs with URLs pointing to JavaScript files. The intrusions have also leveraged conversation hijacking to entice recipients into clicking on see
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

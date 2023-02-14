@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enigma info-stealing malware targets the cryptocurrency industry<a href="https://securityaffairs.com/142187/cyber-crime/enigma-info-stealer-cryptocurrency-industry.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New TA866 Threat Group Selectively Targets U.S. and German Organizations<a href="https://cyware.com/news/new-ta866-threat-group-selectively-targets-us-and-german-organizations-55db471e"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems<a href="https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enigma InfoStealer Steals Sensitive Data From Crypto Firms<a href="https://cyware.com/news/enigma-infostealer-steals-sensitive-data-from-crypto-firms-6bb8fd31"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Honeypot-Factory: The Use of Deception in ICS/OT Environments<a href="https://thehackernews.com/2023/02/honeypot-factory-use-of-deception-in.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia hacker group Killnet targets NATO websites with DDoS attacks<a href="https://securityaffairs.com/142192/hacking/killnet-targets-nato-websites.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Zhulong Group Uses ShellFang Loader to Target Vietnam<a href="https://cyware.com/news/earth-zhulong-group-uses-shellfang-loader-to-target-vietnam-9c7d8ff4"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Tonto Team Hackers' Second Attempt to Target Cybersecurity Firm Group-IB Fails<a href="https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivists hacked Iranian State TV during President’s speech on Revolution Day<a href="https://securityaffairs.com/142172/hacktivism/iranian-state-tv-hacked.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NewsPenguin Waddles into Pakistani Organizations<a href="https://cyware.com/news/newspenguin-waddles-into-pakistani-organizations-346d2b72"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Targeting U.S. and German Firms Monitor Victims' Desktops with Screenshotter<a href="https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities open Korenix JetWave industrial networking devices to attack<a href="https://www.helpnetsecurity.com/2023/02/13/korenix-jetwave-industrial-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical records for 4,000 Garrison Women's Health patients lost<a href="https://www.fosters.com/story/news/local/2023/02/10/garrison-womens-health-dover-nh-patient-medical-records-lost/69894288007/?&web_view=true"> Full Text</a>
@@ -245,7 +245,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Radio silence from DMS vendor quartet over XSS zero-days<a href="https://portswigger.net/daily-swig/radio-silence-from-dms-vendor-quartet-over-xss-zero-days?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play Ransomware Lists A10 Networks on Its Leak Site<a href="https://www.bankinfosecurity.com/play-ransomware-lists-a10-networks-on-its-leak-site-a-21184?&web_view=true"> Full Text</a>
@@ -277,7 +277,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 13, 2023
+February 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Education Department reminds colleges of deadline for following cybersecurity rules<a href="https://therecord.media/higher-education-federal-student-aid-data-cybersecurity-rules/?&web_view=true"> Full Text</a>

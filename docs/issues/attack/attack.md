@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Tonto Team Hackers' Second Attempt to Target Cybersecurity Firm Group-IB Fails<a href="https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as&nbsp; Tonto Team &nbsp;carried out an unsuccessful attack on cybersecurity company Group-IB in June 2022. The Singapore-headquartered firm&nbsp; said &nbsp;that it detected and blocked malicious phishing emails originating from the group targeting its employees. It's also the second attack aimed at Group-IB, the first of which took place in March 2021. Tonto Team, also called Bronze Huntley,&nbsp; Cactus Pete , Earth Akhlut, Karma Panda, and UAC-0018, is a suspected Chinese hacking group that has been linked to attacks targeting a wide range of organizations in Asia and Eastern Europe. The actor is known to be active since at least 2009 and is said to&nbsp; share ties &nbsp;to the Third Department ( 3PLA ) of the People's Liberation Army's Shenyang TRB ( Unit 65016 ). Attack chains involve spear-phishing lures containing malicious attachments created using the Royal Road Rich Text Format (RTF) exploitation toolkit to drop backdoors like Bisonal, Dexbi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

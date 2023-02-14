@@ -34,6 +34,265 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enigma info-stealing malware targets the cryptocurrency industry<a href="https://securityaffairs.com/142187/cyber-crime/enigma-info-stealer-cryptocurrency-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Russian threat actors have been targeting cryptocurrency users in Eastern Europe with Enigma info-stealing malware.
+A malware campaign conducted by alleged Russian threat actors has been targeting users in Eastern European in the crypto industry....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TA866 Threat Group Selectively Targets U.S. and German Organizations<a href="https://cyware.com/news/new-ta866-threat-group-selectively-targets-us-and-german-organizations-55db471e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint security experts uncovered a threat actor, tracked as TA886, infecting companies in the U.S. and Germany with the new WasabiSeed and Screenshotter malware. The custom malware can perform surveillance and steal data. Hackers push their malware via phishing emails that include Microsoft Pu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Create Malicious Dota 2 Game Modes to Secretly Access Players' Systems<a href="https://thehackernews.com/2023/02/hackers-create-malicious-dota-2-game.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor created malicious game modes for the Dota 2 multiplayer online battle arena (MOBA) video game that could have been exploited to establish backdoor access to players' systems. The modes exploited a  high-severity flaw  in the V8 JavaScript engine tracked as  CVE-2021-38003  (CVSS score: 8.8), which was  exploited as a zero-day  and addressed by Google in October 2021. "Since V8 was not sandboxed in Dota, the exploit on its own allowed for remote code execution against other Dota players," Avast researcher Jan Vojtěšek  said  in a report published last week. Following responsible disclosure to Valve, the game publisher  shipped fixes  on January 12, 2023, by upgrading the version of V8. Game modes are essentially  custom capabilities  that can either augment an existing title or offer completely new gameplay in a manner that deviates from the standard rules. While publishing a custom game mode to the Steam store includes a vetting process from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enigma InfoStealer Steals Sensitive Data From Crypto Firms<a href="https://cyware.com/news/enigma-infostealer-steals-sensitive-data-from-crypto-firms-6bb8fd31"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro spotted an active campaign that leverages a fake employment bait against the cryptocurrency industry in Eastern Europe. Hackers are reportedly deploying Enigma Stealer which is a modified version of the Stealerium information stealer. The infection chain begins with a malicious RAR arch ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honeypot-Factory: The Use of Deception in ICS/OT Environments<a href="https://thehackernews.com/2023/02/honeypot-factory-use-of-deception-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There have been a number of reports of attacks on industrial control systems (ICS) in the past few years. Looking a bit closer, most of the attacks seem to have spilt over from traditional IT. That's to be expected, as production systems are commonly connected to ordinary corporate networks at this point.  Though our data does not indicate at this point that a lot of threat actors specifically target industrial systems – in fact, most evidence points to purely opportunistic behaviour – the tide could turn any time, once the added complexity of compromising OT environments promises to pay off. Criminals will take any chance they get to blackmail victims into extortion schemes, and halting production can cause immense damage. It is likely only a matter of time. So cybersecurity for operational technology (OT) is vitally important.  Deception is an effective option to improve threat detection and response capabilities. However, ICS security differs from traditional IT security in se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia hacker group Killnet targets NATO websites with DDoS attacks<a href="https://securityaffairs.com/142192/hacking/killnet-targets-nato-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia hacker group Killnet launched a Distributed Denial of Service (DDoS) attack on NATO servers, including the NATO Special Operations Headquarters (NSHQ) website.
+Pro-Russia hacker group Killnet launched a Distributed Denial of Service (DDoS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Zhulong Group Uses ShellFang Loader to Target Vietnam<a href="https://cyware.com/news/earth-zhulong-group-uses-shellfang-loader-to-target-vietnam-9c7d8ff4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information on the sophisticated APT group Earth Zhulong, which targets Vietnamese organizations, has recently come to light. The gang, which has been active since 2020, is thought to be connected to the hacker collective 1937CN from China. Organizations are suggested to stay alert and leverage bes ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Tonto Team Hackers' Second Attempt to Target Cybersecurity Firm Group-IB Fails<a href="https://thehackernews.com/2023/02/chinese-tonto-team-hackers-second.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as  Tonto Team  carried out an unsuccessful attack on cybersecurity company Group-IB in June 2022. The Singapore-headquartered firm  said  that it detected and blocked malicious phishing emails originating from the group targeting its employees. It's also the second attack aimed at Group-IB, the first of which took place in March 2021. Tonto Team, also called Bronze Huntley,  Cactus Pete , Earth Akhlut, Karma Panda, and UAC-0018, is a suspected Chinese hacking group that has been linked to attacks targeting a wide range of organizations in Asia and Eastern Europe. The actor is known to be active since at least 2009 and is said to  share ties  to the Third Department ( 3PLA ) of the People's Liberation Army's Shenyang TRB ( Unit 65016 ). Attack chains involve spear-phishing lures containing malicious attachments created using the Royal Road Rich Text Format (RTF) exploitation toolkit to drop backdoors like Bisonal, Dexbi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists hacked Iranian State TV during President’s speech on Revolution Day<a href="https://securityaffairs.com/142172/hacktivism/iranian-state-tv-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ali’s Justice (Edalat-e Ali) hacker group broke into the State TV broadcast during the President’s speech on Revolution Day.
+A collective of hackers that calls itself Ali’s Justice (Edalat-e Ali) disrupted the transmission of an Iranian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NewsPenguin Waddles into Pakistani Organizations<a href="https://cyware.com/news/newspenguin-waddles-into-pakistani-organizations-346d2b72"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat group, named NewsPenguin, was found targeting organizations in Pakistan with the upcoming Pakistan International Maritime Expo & Conference (PIMEC-2023) as bait. The researchers stated that the goal of the cybercriminal group is solely focused on cyberespionage, with ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting U.S. and German Firms Monitor Victims' Desktops with Screenshotter<a href="https://thehackernews.com/2023/02/hackers-targeting-us-and-german-firms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor has been targeting companies in the U.S. and Germany with bespoke malware designed to steal confidential information. Enterprise security company Proofpoint, which is tracking the activity cluster under the name  Screentime , said the group, dubbed  TA866 , is likely financially motivated. "TA866 is an organized actor able to perform well thought-out attacks at scale based on their availability of custom tools; ability and connections to purchase tools and services from other vendors; and increasing activity volumes," the company  assessed . Campaigns mounted by the adversary are said to have commenced around October 3, 2022, with the attacks launched via emails containing a booby-trapped attachment or URL that leads to malware. The attachments range from macro-laced Microsoft Publisher files to PDFs with URLs pointing to JavaScript files. The intrusions have also leveraged conversation hijacking to entice recipients into clicking on see
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities open Korenix JetWave industrial networking devices to attack<a href="https://www.helpnetsecurity.com/2023/02/13/korenix-jetwave-industrial-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three vulnerabilities found in a variety of Korenix JetWave industrial access points and LTE cellular gateways may allow attackers to either disrupt their operation or to use them as a foothold for further attacks, CyberDanube researchers have found.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical records for 4,000 Garrison Women's Health patients lost<a href="https://www.fosters.com/story/news/local/2023/02/10/garrison-womens-health-dover-nh-patient-medical-records-lost/69894288007/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical records of Garrison Women’s Health patients were recently "subject to unauthorized third-party activity," according to information released Friday evening by Wentworth-Douglass Hospital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radio silence from DMS vendor quartet over XSS zero-days<a href="https://portswigger.net/daily-swig/radio-silence-from-dms-vendor-quartet-over-xss-zero-days?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe issue belongs to ONLYOFFICE’s Workspace enterprise app platform. Tracked as CVE-2022-47412, the stored cross-site scripting (XSS) vulnerability is believed to impact versions from 0 through 12.1.0.1760.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Lists A10 Networks on Its Leak Site<a href="https://www.bankinfosecurity.com/play-ransomware-lists-a10-networks-on-its-leak-site-a-21184?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BetterCyber says that the leak site claims the ransomware group has "private and personal confidential data, a lot of technical documentation, agreements, employee and client documents."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education Department reminds colleges of deadline for following cybersecurity rules<a href="https://therecord.media/higher-education-federal-student-aid-data-cybersecurity-rules/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Higher-education institutions that handle federal financial aid data have until early June to comply with federal rules for protecting privacy and personal information, the Education Department noted this week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 12, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

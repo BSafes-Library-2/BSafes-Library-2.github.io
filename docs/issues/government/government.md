@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Education Department reminds colleges of deadline for following cybersecurity rules<a href="https://therecord.media/higher-education-federal-student-aid-data-cybersecurity-rules/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Higher-education institutions that handle federal financial aid data have until early June to comply with federal rules for protecting privacy and personal information, the Education Department noted this week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

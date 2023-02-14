@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia hacker group Killnet targets NATO websites with DDoS attacks<a href="https://securityaffairs.com/142192/hacking/killnet-targets-nato-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia hacker group Killnet launched a Distributed Denial of Service (DDoS) attack on NATO servers, including the NATO Special Operations Headquarters (NSHQ) website.
+Pro-Russia hacker group Killnet launched a Distributed Denial of Service (DDoS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,63 @@ nav_order: 900029
 
 ## Breach
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enigma InfoStealer Steals Sensitive Data From Crypto Firms<a href="https://cyware.com/news/enigma-infostealer-steals-sensitive-data-from-crypto-firms-6bb8fd31"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro spotted an active campaign that leverages a fake employment bait against the cryptocurrency industry in Eastern Europe. Hackers are reportedly deploying Enigma Stealer which is a modified version of the Stealerium information stealer. The infection chain begins with a malicious RAR arch ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists hacked Iranian State TV during President’s speech on Revolution Day<a href="https://securityaffairs.com/142172/hacktivism/iranian-state-tv-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ali’s Justice (Edalat-e Ali) hacker group broke into the State TV broadcast during the President’s speech on Revolution Day.
+A collective of hackers that calls itself Ali’s Justice (Edalat-e Ali) disrupted the transmission of an Iranian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical records for 4,000 Garrison Women's Health patients lost<a href="https://www.fosters.com/story/news/local/2023/02/10/garrison-womens-health-dover-nh-patient-medical-records-lost/69894288007/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical records of Garrison Women’s Health patients were recently "subject to unauthorized third-party activity," according to information released Friday evening by Wentworth-Douglass Hospital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Lists A10 Networks on Its Leak Site<a href="https://www.bankinfosecurity.com/play-ransomware-lists-a10-networks-on-its-leak-site-a-21184?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BetterCyber says that the leak site claims the ransomware group has "private and personal confidential data, a lot of technical documentation, agreements, employee and client documents."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

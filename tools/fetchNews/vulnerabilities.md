@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dota 2 Under Attack: Threat Actors Exploit a Chrome Flaw to Infect Gamers<a href="https://cyware.com/news/dota-2-under-attack-threat-actors-exploit-a-chrome-flaw-to-infect-gamers-97ef88c2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts at Avast Threat Labs uncovered four malicious Dota 2 game mods that cyber adversaries are using to backdoor players' systems. The game mods were named Overdog no annoying heroes (id 2776998052), Custom Hero Brawl (id 2780728794), and Overthrow RTZ Edition X10 XP (id 2780559339). Th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
