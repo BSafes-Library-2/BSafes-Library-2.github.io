@@ -34,6 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Engineering Attacks Increases in Q4 2022, Reveals Avast Labs<a href="https://cyware.com/news/social-engineering-attacks-increases-in-q4-2022-reveals-avast-labs-07b0b945"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are becoming more adept at creating a sense of urgency for victims and motivating them to engage in their agenda, reveals the Avast Q4 2022 report. Refund and invoice fraud saw a 22% jump in December 2022, with perpetrators utilizing emails originating from a trustworthy organization ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive AdSense Fraud Campaign Uncovered - 10,000+ WordPress Sites Infected<a href="https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the black hat redirect malware campaign have scaled up their campaign to use more than 70 bogus domains mimicking URL shorteners and infected over 10,800 websites. "The main objective is still ad fraud by artificially increasing traffic to pages which contain the AdSense ID which contain Google ads for revenue generation," Sucuri researcher Ben Martin  said  in a report published last week. Details of the malicious activity were  first exposed  by the GoDaddy-owned company in November 2022. The campaign, which is said to have been active since September last year, is orchestrated to redirect visitors to compromised WordPress sites to fake Q&A portals. The goal, it appears, is to increase the authority of spammy sites in search engine results. "It's possible that these bad actors are simply trying to convince Google that real people from different IPs using different browsers are clicking on their search results," Sucuri noted a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for February 2023 fixed actively exploited zero-days<a href="https://securityaffairs.com/142230/security/microsoft-patch-tuesday-february-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for February 2023 addressed 75 flaws, including three actively exploited zero-day bugs.
+Microsoft Patch Tuesday security updates for February 2023 fixed 75 vulnerabilities in multiple products, including Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+11,000 WordPress Sites Hacked in a Backdoor Attack<a href="https://www.hackread.com/adsense-websites-hacked-backdoor-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sucuri’s research, the backdoor redirects users to sites that show fraudulent views of Google AdSense ads. The company’s SiteCheck remote scanner has detected more than 10,890 infected sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!<a href="https://thehackernews.com/2023/02/python-developers-beware-clipper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors have published more than 451 unique Python packages on the official Python Package Index (PyPI) repository in an attempt to infect developer systems with  clipper malware . Software supply chain security company Phylum, which  spotted the libraries , said the ongoing activity is a follow-up to a campaign that was initially disclosed in November 2022. The initial vector entails using  typosquatting  to mimic popular packages such as beautifulsoup, bitcoinlib, cryptofeed, matplotlib, pandas, pytorch, scikit-learn, scrapy, selenium, solana, and tensorflow, among others. "After installation, a malicious JavaScript file is dropped to the system and executed in the background of any web browsing session," Phylum  said  in a report published last year. "When a developer copies a cryptocurrency address, the address is replaced in the clipboard with the attacker's address." This is achieved by creating a Chromium web browser extension in the Window
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discover over 451 clipper malware-laced packages in the PyPI repository<a href="https://securityaffairs.com/142220/malware/451-clipper-malware-pypi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors published more than 451 unique malware-laced Python packages on the official Python Package Index (PyPI) repository.
+Phylum researchers spotted more than 451 unique Python packages on the official Python Package Index (PyPI) repository...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere Zero-Day Attack Victims Start Disclosing Significant Impact<a href="https://www.securityweek.com/goanywhere-zero-day-attack-victims-start-disclosing-significant-impact/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an SEC filing, Community Health Systems (CHS), one of the largest US healthcare services providers, revealed that a “security breach experienced by Fortra” resulted in the exposure of personal info and PHI belonging to patients of CHS affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A CISOs Practical Guide to Storage and Backup Ransomware Resiliency<a href="https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One thing is clear. The " business value"  of data continues to grow, making it an organization's primary piece of intellectual property. From a cyber risk perspective, attacks on data are the most prominent threat to organizations.  Regulators, cyber insurance firms, and auditors are paying much closer attention to the integrity, resilience, and recoverability of organization data – as well as the IT infrastructure & systems that store the data. What Impact Does This Have On The Security Of Storage & Backup Systems? Just a few years ago, almost no CISO thought that storage & backups were important. That's no longer the case today.  Ransomware has pushed backup and recovery back onto the IT and corporate agenda. Cybercriminals, such as Conti, Hive and REvil, are  targeting storage and backup  systems, to prevent recovery. Some ransomwares – Locky and Crypto, for example – now bypass production systems altogether, and directly target backups. This
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Tor network hit by wave of DDoS attacks for at least 7 months<a href="https://securityaffairs.com/142215/hacking/tor-network-under-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tor Project maintainers revealed that for at least 7 months, the Tor network was hit by several different waves of ongoing DDoS attacks.
+During the last months Tor users have experienced Tor network performance issues lately, Tor Project maintainers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: BlackCat Leaks Data Belonging to Irish University<a href="https://www.bankinfosecurity.com/blackcat-leaks-data-belonging-to-irish-university-a-21192?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sunday dump, which appears to include sensitive data including staff medical diagnoses and student bank account information, came days after the Irish High Court issued a temporary injunction prohibiting ransomware attackers from leaking data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad<a href="https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday attributed a China-based cyber espionage actor to a set of attacks targeting diplomatic entities in South America. The tech giant's Security Intelligence team is tracking the cluster under the emerging moniker  DEV-0147 ,  describing  the activity as an "expansion of the group's data exfiltration operations that traditionally targeted government agencies and think tanks in Asia and Europe." The threat actor is said to use established hacking tools such as ShadowPad to infiltrate targets and maintain persistent access. ShadowPad, also called PoisonPlug, is a  successor  to the  PlugX remote access trojan  and has been widely put to use by Chinese adversarial collectives with links to the Ministry of State Security (MSS) and People's Liberation Army (PLA), per Secureworks. One of the other malicious tools utilized by DEV-0147 is a webpack loader called QuasarLoader , which allows for deploying additional payloads onto the compromised hosts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare blocked record-breaking 71 million request-per-second DDoS attack<a href="https://securityaffairs.com/142207/cyber-crime/cloudflare-ddos-attacks-71m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare mitigated a record distributed denial-of-service (DDoS) that reached 71 Million requests per second.
+Cloudflare announced it has mitigated a record hyper-volumetric distributed denial-of-service (DDoS) attack that peaked at over 71 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware ransomware was on the rise leading up to ESXiArgs spree, research finds<a href="https://www.cybersecuritydive.com/news/vmware-ransomware-increase/642576/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Only two cyberattacks targeted ESXi with ransomware in 2020, but in 2021, Recorded Future identified more than 400 incidents. Last year the number ballooned, growing almost threefold to 1,118 in 2022, the research found.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second<a href="https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure company Cloudflare on Monday disclosed that it thwarted a record-breaking distributed denial-of-service (DDoS) attack that peaked at over 71 million requests per second (RPS). "The majority of attacks peaked in the ballpark of 50-70 million requests per second (RPS) with the largest exceeding 71 million," the company  said , calling it a "hyper-volumetric" DDoS attack. It's also the largest HTTP DDoS attack reported to date, more than 35% higher than the previous 46 million RPS DDoS attack that  Google Cloud mitigated in June 2022 . Cloudflare said the attacks singled out websites secured by its platform and that they emanated from a botnet comprising more than 30,000 IP addresses that belonged to "numerous" cloud providers. Targeted websites included a popular gaming provider, cryptocurrency companies, hosting providers, and cloud computing platforms. HTTP attacks of this kind are designed to send a tsunami of HTTP requests t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes the first zero-day in iPhones and Macs this year<a href="https://securityaffairs.com/142200/hacking/apple-zero-day-iphones-macs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released emergency security updates to fix a new actively exploited zero-day vulnerability that impacts iPhones, iPads, and Macs.
+Apple has released emergency security updates to address a new actively exploited zero-day vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture acquires cybersecurity company Morphus<a href="https://thepaypers.com/digital-identity-security-online-fraud/accenture-acquires-cybersecurity-company-morphus--1260340?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acquiring the privately held cyber defence, risk management, and cyber threat intelligence services provider is set to enable Accenture to widen its cybersecurity footprint within the region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw<a href="https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out security updates for  iOS, iPadOS ,  macOS , and  Safari  to address a zero-day flaw that it said has been actively exploited in the wild. Tracked as  CVE-2023-23529 , the issue relates to a type confusion bug in the WebKit browser engine that could be activated when processing maliciously crafted web content, culminating in arbitrary code execution. The iPhone maker said the bug was addressed with improved checks, adding it's "aware of a report that this issue may have been actively exploited." An anonymous researcher has been credited with reporting the flaw. It's not immediately clear as to how the vulnerability is being exploited in real-world attacks, but it's the second actively abused type confusion flaw in WebKit to be patched by Apple after  CVE-2022-42856  in as many months, which was closed in December 2022.  WebKit flaws are also notable for the fact that they impact every third-party web browser that's available fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MortalKombat Ransomware and Laplas Clipper Malware Threats Deployed in Recent Attacks<a href="https://blog.talosintelligence.com/new-mortalkombat-ransomware-and-laplas-clipper-malware-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos observed the actor scanning the internet for victim machines with an exposed remote desktop protocol (RDP) port 3389, using one of their download servers that run an RDP crawler and also facilitates MortalKombat ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Bahrain Airport, State News Agency Sites to Mark Uprising<a href="https://www.securityweek.com/hackers-target-bahrain-airport-news-sites-to-mark-uprising/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers said they had taken down the websites of Bahrain’s international airport and state news agency on Tuesday to mark the 12-year anniversary of an Arab Spring uprising in the small Gulf country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
