@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive AdSense Fraud Campaign Uncovered - 10,000+ WordPress Sites Infected<a href="https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the black hat redirect malware campaign have scaled up their campaign to use more than 70 bogus domains mimicking URL shorteners and infected over&nbsp;10,800 websites. "The main objective is still ad fraud by artificially increasing traffic to pages which contain the AdSense ID which contain Google ads for revenue generation," Sucuri researcher Ben Martin&nbsp; said &nbsp;in a report published last week. Details of the malicious activity were&nbsp; first exposed &nbsp;by the GoDaddy-owned company in November 2022. The campaign, which is said to have been active since September last year, is orchestrated to redirect visitors to compromised WordPress sites to fake Q&amp;A portals. The goal, it appears, is to increase the authority of spammy sites in search engine results. "It's possible that these bad actors are simply trying to convince Google that real people from different IPs using different browsers are clicking on their search results," Sucuri noted a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: BlackCat Leaks Data Belonging to Irish University<a href="https://www.bankinfosecurity.com/blackcat-leaks-data-belonging-to-irish-university-a-21192?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sunday dump, which appears to include sensitive data including staff medical diagnoses and student bank account information, came days after the Irish High Court issued a temporary injunction prohibiting ransomware attackers from leaking data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honeypot-Factory: The Use of Deception in ICS/OT Environments<a href="https://thehackernews.com/2023/02/honeypot-factory-use-of-deception-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There have been a number of reports of attacks on industrial control systems (ICS) in the past few years. Looking a bit closer, most of the attacks seem to have spilt over from traditional IT. That's to be expected, as production systems are commonly connected to ordinary corporate networks at this point.&nbsp; Though our data does not indicate at this point that a lot of threat actors specifically target industrial systems – in fact, most evidence points to purely opportunistic behaviour – the tide could turn any time, once the added complexity of compromising OT environments promises to pay off. Criminals will take any chance they get to blackmail victims into extortion schemes, and halting production can cause immense damage. It is likely only a matter of time. So cybersecurity for operational technology (OT) is vitally important.&nbsp; Deception is an effective option to improve threat detection and response capabilities. However, ICS security differs from traditional IT security in se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

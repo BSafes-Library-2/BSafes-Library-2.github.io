@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture acquires cybersecurity company Morphus<a href="https://thepaypers.com/digital-identity-security-online-fraud/accenture-acquires-cybersecurity-company-morphus--1260340?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acquiring the privately held cyber defence, risk management, and cyber threat intelligence services provider is set to enable Accenture to widen its cybersecurity footprint within the region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

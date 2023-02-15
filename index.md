@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Social Engineering Attacks Increases in Q4 2022, Reveals Avast Labs<a href="https://cyware.com/news/social-engineering-attacks-increases-in-q4-2022-reveals-avast-labs-07b0b945"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive AdSense Fraud Campaign Uncovered - 10,000+ WordPress Sites Infected<a href="https://thehackernews.com/2023/02/massive-adsense-fraud-campaign.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for February 2023 fixed actively exploited zero-days<a href="https://securityaffairs.com/142230/security/microsoft-patch-tuesday-february-2023.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 11,000 WordPress Sites Hacked in a Backdoor Attack<a href="https://www.hackread.com/adsense-websites-hacked-backdoor-attack/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python Developers Beware: Clipper Malware Found in 450+ PyPI Packages!<a href="https://thehackernews.com/2023/02/python-developers-beware-clipper.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts discover over 451 clipper malware-laced packages in the PyPI repository<a href="https://securityaffairs.com/142220/malware/451-clipper-malware-pypi.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoAnywhere Zero-Day Attack Victims Start Disclosing Significant Impact<a href="https://www.securityweek.com/goanywhere-zero-day-attack-victims-start-disclosing-significant-impact/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A CISOs Practical Guide to Storage and Backup Ransomware Resiliency<a href="https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Tor network hit by wave of DDoS attacks for at least 7 months<a href="https://securityaffairs.com/142215/hacking/tor-network-under-ddos-attacks.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: BlackCat Leaks Data Belonging to Irish University<a href="https://www.bankinfosecurity.com/blackcat-leaks-data-belonging-to-irish-university-a-21192?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad<a href="https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare blocked record-breaking 71 million request-per-second DDoS attack<a href="https://securityaffairs.com/142207/cyber-crime/cloudflare-ddos-attacks-71m.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware ransomware was on the rise leading up to ESXiArgs spree, research finds<a href="https://www.cybersecuritydive.com/news/vmware-ransomware-increase/642576/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second<a href="https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixes the first zero-day in iPhones and Macs this year<a href="https://securityaffairs.com/142200/hacking/apple-zero-day-iphones-macs.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accenture acquires cybersecurity company Morphus<a href="https://thepaypers.com/digital-identity-security-online-fraud/accenture-acquires-cybersecurity-company-morphus--1260340?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw<a href="https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New MortalKombat Ransomware and Laplas Clipper Malware Threats Deployed in Recent Attacks<a href="https://blog.talosintelligence.com/new-mortalkombat-ransomware-and-laplas-clipper-malware-threats/?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2023
+February 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Bahrain Airport, State News Agency Sites to Mark Uprising<a href="https://www.securityweek.com/hackers-target-bahrain-airport-news-sites-to-mark-uprising/?&web_view=true"> Full Text</a>

@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for February 2023 fixed actively exploited zero-days<a href="https://securityaffairs.com/142230/security/microsoft-patch-tuesday-february-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for February 2023 addressed 75 flaws, including three actively exploited zero-day bugs.
+Microsoft Patch Tuesday security updates for February 2023 fixed 75 vulnerabilities in multiple products, including Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes the first zero-day in iPhones and Macs this year<a href="https://securityaffairs.com/142200/hacking/apple-zero-day-iphones-macs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released emergency security updates to fix a new actively exploited zero-day vulnerability that impacts iPhones, iPads, and Macs.
+Apple has released emergency security updates to address a new actively exploited zero-day vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Now: Apple's iOS, iPadOS, macOS, and Safari Under Attack with New Zero-Day Flaw<a href="https://thehackernews.com/2023/02/patch-now-apples-ios-ipados-macos-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday rolled out security updates for&nbsp; iOS, iPadOS ,&nbsp; macOS , and&nbsp; Safari &nbsp;to address a zero-day flaw that it said has been actively exploited in the wild. Tracked as&nbsp; CVE-2023-23529 , the issue relates to a type confusion bug in the WebKit browser engine that could be activated when processing maliciously crafted web content, culminating in arbitrary code execution. The iPhone maker said the bug was addressed with improved checks, adding it's "aware of a report that this issue may have been actively exploited." An anonymous researcher has been credited with reporting the flaw. It's not immediately clear as to how the vulnerability is being exploited in real-world attacks, but it's the second actively abused type confusion flaw in WebKit to be patched by Apple after&nbsp; CVE-2022-42856 &nbsp;in as many months, which was closed in December 2022.&nbsp; WebKit flaws are also notable for the fact that they impact every third-party web browser that's available fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

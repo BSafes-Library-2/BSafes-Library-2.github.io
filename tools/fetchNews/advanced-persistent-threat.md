@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Zhulong Group Uses ShellFang Loader to Target Vietnam<a href="https://cyware.com/news/earth-zhulong-group-uses-shellfang-loader-to-target-vietnam-9c7d8ff4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information on the sophisticated APT group Earth Zhulong, which targets Vietnamese organizations, has recently come to light. The gang, which has been active since 2020, is thought to be connected to the hacker collective 1937CN from China. Organizations are suggested to stay alert and leverage bes ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

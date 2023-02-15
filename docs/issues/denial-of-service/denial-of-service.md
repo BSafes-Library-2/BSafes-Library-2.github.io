@@ -8,6 +8,36 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Tor network hit by wave of DDoS attacks for at least 7 months<a href="https://securityaffairs.com/142215/hacking/tor-network-under-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tor Project maintainers revealed that for at least 7 months, the Tor network was hit by several different waves of ongoing DDoS attacks.
+During the last months Tor users have experienced Tor network performance issues lately, Tor Project maintainers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare blocked record-breaking 71 million request-per-second DDoS attack<a href="https://securityaffairs.com/142207/cyber-crime/cloudflare-ddos-attacks-71m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare mitigated a record distributed denial-of-service (DDoS) that reached 71 Million requests per second.
+Cloudflare announced it has mitigated a record hyper-volumetric distributed denial-of-service (DDoS) attack&nbsp;that peaked at over 71 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
