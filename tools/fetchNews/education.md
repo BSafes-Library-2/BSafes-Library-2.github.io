@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A CISOs Practical Guide to Storage and Backup Ransomware Resiliency<a href="https://thehackernews.com/2023/02/a-cisos-practical-guide-to-storage-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One thing is clear. The " business value"&nbsp; of data continues to grow, making it an organization's primary piece of intellectual property. From a cyber risk perspective, attacks on data are the most prominent threat to organizations.&nbsp; Regulators, cyber insurance firms, and auditors are paying much closer attention to the integrity, resilience, and recoverability of organization data – as well as the IT infrastructure &amp; systems that store the data. What Impact Does This Have On The Security Of Storage &amp; Backup Systems? Just a few years ago, almost no CISO thought that storage &amp; backups were important. That's no longer the case today.&nbsp; Ransomware has pushed backup and recovery back onto the IT and corporate agenda. Cybercriminals, such as Conti, Hive and REvil, are&nbsp; targeting storage and backup &nbsp;systems, to prevent recovery. Some ransomwares – Locky and Crypto, for example – now bypass production systems altogether, and directly target backups. This
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

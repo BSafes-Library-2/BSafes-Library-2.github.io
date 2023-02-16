@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Concerned Should You be about Your Hardware Wallet?<a href="https://cyware.com/news/how-concerned-should-you-be-about-your-hardware-wallet-c6eb490a"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware<a href="https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Oakland issued a local state of emergency after recent ransomware attack<a href="https://securityaffairs.com/142295/cyber-crime/city-of-oakland-emergency-ransomware.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Caracal APT Reappears with a New Version of Bandook Spyware<a href="https://cyware.com/news/dark-caracal-apt-reappears-with-a-new-version-of-bandook-spyware-af32d77b"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar — A MythBusting Special: 9 Myths about File-based Threats<a href="https://thehackernews.com/2023/02/webinar-mythbusting-special-9-myths.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix released security updates for multiple High-Severity flaws in its products<a href="https://securityaffairs.com/142287/hacking/citrix-high-severity-flaws.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recently Patched IBM Aspera Faspex Vulnerability Exploited in the Wild<a href="https://www.securityweek.com/recently-patched-ibm-aspera-faspex-vulnerability-exploited-in-the-wild/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financially Motivated Threat Actor Strikes with New Ransomware and Clipper Malware<a href="https://thehackernews.com/2023/02/financially-motivated-threat-actor.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addressed critical bugs in Illustrator, After Effects Software<a href="https://securityaffairs.com/142280/security/adobe-critical-bugs-illustrator-after-effects-software.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordless authentication startup Descope lands $53M seed round<a href="https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regular Pen Testing Is Key to Resolving Conflict Between SecOps and DevOps<a href="https://thehackernews.com/2023/02/regular-pen-testing-is-key-to-resolving.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beep, a new highly evasive malware appeared in the threat landscape<a href="https://securityaffairs.com/142263/hacking/beep-malware-highly-evasive.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tonga is the latest Pacific Island nation hit with ransomware<a href="https://therecord.media/tonga-is-the-latest-pacific-island-nation-hit-with-ransomware/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of 'Beep' - A New Evasive Malware That Can Fly Under the Radar<a href="https://thehackernews.com/2023/02/experts-warn-of-beep-new-evasive.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Community Health Systems data breach caused by GoAnywhere MFT hack<a href="https://securityaffairs.com/142242/data-breach/community-health-systems-data-breach.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP’s February 2023 Security Updates Patch High-Severity Vulnerabilities<a href="https://www.securityweek.com/saps-february-2023-security-updates-patch-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Rolling Out Privacy Sandbox Beta on Android 13 Devices<a href="https://thehackernews.com/2023/02/google-rolling-out-privacy-sandbox-beta.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AdSense fraud campaign relies on 10,890 sites that were infected since September 2022<a href="https://securityaffairs.com/142254/hacking/adsense-fraud-campaign-wordpress.html"> Full Text</a>
@@ -328,7 +328,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Binance, Huobi freeze some cryptocurrency stolen in $100 million Harmony hack<a href="https://therecord.media/binance-huobi-freeze-some-cryptocurrency-stolen-in-100-million-harmony-hack/?&web_view=true"> Full Text</a>
@@ -344,7 +344,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Now: Microsoft Releases Patches for 3 Actively Exploited Windows Vulnerabilities<a href="https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html"> Full Text</a>
@@ -360,7 +360,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Patches High-Severity Vulnerabilities in Windows, Linux Apps<a href="https://www.securityweek.com/citrix-patches-high-severity-vulnerabilities-in-windows-linux-apps/?&web_view=true"> Full Text</a>
@@ -376,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One in nine online stores are leaking your data: study<a href="https://www.malwarebytes.com/blog/news/2023/02/study-one-in-nine-online-stores-are-leaking-your-data?&web_view=true"> Full Text</a>

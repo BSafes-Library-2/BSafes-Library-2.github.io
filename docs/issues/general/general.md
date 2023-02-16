@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One in nine online stores are leaking your data: study<a href="https://www.malwarebytes.com/blog/news/2023/02/study-one-in-nine-online-stores-are-leaking-your-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sansec has revealed it's found a number of online stores accidentally leaking highly sensitive data. After studying 2,037 online stores, the company found that 12.3 percent exposed compressed files (in ZIP, SQL, and TAR archive formats).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

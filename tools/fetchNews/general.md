@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Engineering Attacks Increases in Q4 2022, Reveals Avast Labs<a href="https://cyware.com/news/social-engineering-attacks-increases-in-q4-2022-reveals-avast-labs-07b0b945"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are becoming more adept at creating a sense of urgency for victims and motivating them to engage in their agenda, reveals the Avast Q4 2022 report. Refund and invoice fraud saw a 22% jump in December 2022, with perpetrators utilizing emails originating from a trustworthy organization ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

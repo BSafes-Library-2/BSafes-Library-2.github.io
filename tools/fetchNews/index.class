@@ -34,6 +34,364 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Concerned Should You be about Your Hardware Wallet?<a href="https://cyware.com/news/how-concerned-should-you-be-about-your-hardware-wallet-c6eb490a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company Unciphered successfully breached OneKey, the maker of hardware wallets for cryptocurrencies, in a matter of seconds, underlining security gaps in the emerging crypto world. Unciphered posted a video on YouTube demonstrating its ability to exploit a critical flaw that enabled it to  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware<a href="https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked threat actor tracked as  APT37  has been linked to a piece of new malware dubbed  M2RAT  in attacks targeting its southern counterpart, suggesting continued evolution of the group's features and tactics. APT37, also tracked under the monikers Reaper, RedEyes, Ricochet Chollima, and ScarCruft, is linked to North Korea's Ministry of State Security (MSS) unlike the Lazarus and Kimsuky threat clusters that are part of the Reconnaissance General Bureau (RGB). According to Google-owned Mandiant, MSS is tasked with "domestic counterespionage and overseas counterintelligence activities," with APT37's attack campaigns reflective of the agency's priorities. The operations have historically singled out individuals such as defectors and human rights activists. "APT37's assessed primary mission is covert intelligence gathering in support of DPRK's strategic military, political, and economic interests," the threat intelligence fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Oakland issued a local state of emergency after recent ransomware attack<a href="https://securityaffairs.com/142295/cyber-crime/city-of-oakland-emergency-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Oakland has declared a local state of emergency due to the effect of the ransomware attack that hit the city on February 8, 2023.
+The City of Oakland disclosed last week a ransomware attack, the security breach began on February 8, 2023....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Caracal APT Reappears with a New Version of Bandook Spyware<a href="https://cyware.com/news/dark-caracal-apt-reappears-with-a-new-version-of-bandook-spyware-af32d77b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout Security published a report describing the activities of a new APT actor dubbed Dark Caracal that has claimed hundreds of infections in more than a dozen countries since March of 2022. The APT  is currently using a new version of Bandook spyware to target Windows systems. Organizations ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar — A MythBusting Special: 9 Myths about File-based Threats<a href="https://thehackernews.com/2023/02/webinar-mythbusting-special-9-myths.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad actors love to deliver threats in files. Persistent and persuasive messages convince unsuspecting victims to accept and open files from unknown sources, executing the first step in a cyber attack.  This continues to happen whether the file is an EXE or a Microsoft Excel document. Far too often, end users have an illusion of security, masked by good faith efforts of other users and (ineffective) security controls. This creates a virality effect for ransomware, malware, spyware, and annoying grayware and adware to be spread easily from user to user and machine to machine. To stop users from saying, "I reject your reality and substitute my own!" – it's time to bust some myths about file-based attacks.  Testing in three! Two! One!   Register here and join Zscaler's Vinay Polurouthu, Principal Product Manager, and Amy Heng, Product Marketing Manager, to: Bust the 9 most common assumptions and myths about file-based threats Uncover the latest evasion trends and d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix released security updates for multiple High-Severity flaws in its products<a href="https://securityaffairs.com/142287/hacking/citrix-high-severity-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix released security updates for multiple High-Severity flaws in Virtual Apps and Desktops, and Workspace apps for Windows and Linux.
+Citrix released security patches to fix multiple vulnerabilities in Virtual Apps and Desktops, and Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently Patched IBM Aspera Faspex Vulnerability Exploited in the Wild<a href="https://www.securityweek.com/recently-patched-ibm-aspera-faspex-vulnerability-exploited-in-the-wild/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security hole, tracked as CVE-2022-47986 and classified as ‘high severity’, is a YAML deserialization flaw that can be exploited by a remote attacker for arbitrary code execution using specially crafted API calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially Motivated Threat Actor Strikes with New Ransomware and Clipper Malware<a href="https://thehackernews.com/2023/02/financially-motivated-threat-actor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new financially motivated campaign that commenced in December 2022 has seen the unidentified threat actor behind it deploying a novel ransomware strain dubbed MortalKombat and a clipper malware known as Laplas. Cisco Talos  said  it "observed the actor scanning the internet for victim machines with an exposed remote desktop protocol (RDP) port 3389." The attacks, per the cybersecurity company, primarily focuses on individuals, small businesses, and large organizations located in the U.S., and to a lesser extent in the U.K., Turkey, and the Philippines. The starting point that kicks off the multi-stage attack chain is a phishing email bearing a malicious ZIP file that's used as a pathway to deliver either the clipper or the ransomware. In addition to using cryptocurrency-themed email lures impersonating CoinPayments, the threat actor is also known to erase infection markers in an attempt to cover its tracks. MortalKombat, first detected in January 2023, is capable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addressed critical bugs in Illustrator, After Effects Software<a href="https://securityaffairs.com/142280/security/adobe-critical-bugs-illustrator-after-effects-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe Patch Tuesday addressed at least a half dozen vulnerabilities, including critical issues that expose Windows and macOS to hack.
+Adobe released security updates to address at least a half dozen vulnerabilities impacting Photoshop, Illustrator...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless authentication startup Descope lands $53M seed round<a href="https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The money came from Lightspeed Venture Partners and GGV Capital, with additional funds contributed by Dell Technologies Capital, TechAviv, J Ventures, Cerca, Unusual Ventures, Silicon Valley CISO Investments, and several individual investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regular Pen Testing Is Key to Resolving Conflict Between SecOps and DevOps<a href="https://thehackernews.com/2023/02/regular-pen-testing-is-key-to-resolving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an ideal world, security and development teams would be working together in perfect harmony. But we live in a world of competing priorities, where DevOps and security departments often butt heads with each other. Agility and security  are often at odds with each other— if a new feature is  delivered quickly but  contains security vulnerabilities, the SecOps team will need to scramble the release and patch the vulnerabilities, which can take days or weeks. On the other hand, if the SecOps team takes too long to review and approve a new feature, the development team will get frustrated with the slow pace of delivery. Security needs to move slowly and cautiously, while development wants to "move fast and break things" and release new features quickly. DevOps teams can view security as an impediment to their work instead of an important part of the process. With each team pulling in opposite directions, there is often tension and conflict between the two teams, slowing deve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beep, a new highly evasive malware appeared in the threat landscape<a href="https://securityaffairs.com/142263/hacking/beep-malware-highly-evasive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts detected a new evasive malware dubbed Beep, it implements many anti-debugging and anti-sandbox techniques.
+Researchers from Minerva recently discovered a new evasive malware dubbed Beep, which implements many anti-debugging and anti-sandbox...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tonga is the latest Pacific Island nation hit with ransomware<a href="https://therecord.media/tonga-is-the-latest-pacific-island-nation-hit-with-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tonga Communications Corporation (TCC) — one of two telecoms companies in the country — published a notice on Facebook saying the attack may slow down administrative operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of 'Beep' - A New Evasive Malware That Can Fly Under the Radar<a href="https://thehackernews.com/2023/02/experts-warn-of-beep-new-evasive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a new piece of evasive malware dubbed  Beep  that's designed to fly under the radar and drop additional payloads onto a compromised host. "It seemed as if the authors of this malware were trying to implement as many anti-debugging and anti-VM (anti-sandbox) techniques as they could find," Minerva Labs researcher Natalie Zargarov  said . "One such technique involved delaying execution through the use of the  Beep API function , hence the malware's name." Beep comprises three components, the first of which is a dropper that's responsible for creating a new Windows Registry key and executing a Base64-encoded PowerShell script stored in it. The PowerShell script, for its part, reaches out to a remote server to retrieve an injector, which, after confirming it's not being debugged or launched in a virtual machine, extracts and launches the payload via a technique called  process hollowing . The payload is an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Community Health Systems data breach caused by GoAnywhere MFT hack<a href="https://securityaffairs.com/142242/data-breach/community-health-systems-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Community Health Systems (CHS) disclosed a data breach, attackers exploited the zero-day vulnerability in Fortra’s GoAnywhere MFT platform.
+Community Health Systems (CHS) is one of the nation’s leading healthcare providers. CHS operates 79 acute-care...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP’s February 2023 Security Updates Patch High-Severity Vulnerabilities<a href="https://www.securityweek.com/saps-february-2023-security-updates-patch-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of the new security notes delivers updates to the Chromium browser in the SAP Business Client, to resolve a total of 54 vulnerabilities, including 22 high-severity issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Rolling Out Privacy Sandbox Beta on Android 13 Devices<a href="https://thehackernews.com/2023/02/google-rolling-out-privacy-sandbox-beta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced on Tuesday that it's officially rolling out  Privacy Sandbox on Android  in beta to eligible mobile devices running Android 13. "The Privacy Sandbox Beta provides new APIs that are designed with privacy at the core, and don't use identifiers that can track your activity across apps and websites," the search and advertising giant  said . "Apps that choose to participate in the Beta can use these APIs to show you relevant ads and measure their effectiveness." Devices that have been selected for the Beta test will have a Privacy Sandbox section within Settings so as to allow users to control their participation as well as view and manage their top interests as determined by the  Topics API  to serve relevant ads. The initial  Topics taxonomy  is set to include somewhere between a few hundred and a few thousand topics,  according to Google , and will be human-curated to exclude sensitive topics. The Beta test is expected to start off with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AdSense fraud campaign relies on 10,890 sites that were infected since September 2022<a href="https://securityaffairs.com/142254/hacking/adsense-fraud-campaign-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a massive AdSense fraud campaign infected 10,890 WordPress sites since September 2022.
+In November 2022, researchers from security firm Sucuri reported to have tracked a surge in WordPress malware redirecting website visitors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance, Huobi freeze some cryptocurrency stolen in $100 million Harmony hack<a href="https://therecord.media/binance-huobi-freeze-some-cryptocurrency-stolen-in-100-million-harmony-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two crypto platforms were notified about the funds by blockchain research company Elliptic, which managed to trace it through sanctioned cryptocurrency mixer Tornado Cash.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Now: Microsoft Releases Patches for 3 Actively Exploited Windows Vulnerabilities<a href="https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday released  security updates  to address 75 flaws spanning its product portfolio, three of which have come under active exploitation in the wild. The updates are in addition to 22 flaws the Windows maker  patched  in its Chromium-based Edge browser over the past month. Of the 75 vulnerabilities, nine are rated Critical and 66 are rated Important in severity. 37 out of 75 bugs are classified as remote code execution (RCE) flaws. The three zero-days of note that have been exploited are as follows - CVE-2023-21715  (CVSS score: 7.3) - Microsoft Office Security Feature Bypass Vulnerability CVE-2023-21823  (CVSS score: 7.8) - Windows Graphics Component Elevation of Privilege Vulnerability CVE-2023-23376  (CVSS score: 7.8) - Windows Common Log File System (CLFS) Driver Elevation of Privilege Vulnerability "The attack itself is carried out locally by a user with authentication to the targeted system," Microsoft said in advisory for CVE-2023-21715. "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Patches High-Severity Vulnerabilities in Windows, Linux Apps<a href="https://www.securityweek.com/citrix-patches-high-severity-vulnerabilities-in-windows-linux-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-24483, the Virtual Apps and Desktops vulnerability is described as a privilege escalation issue that allows an attacker with access to a Windows VDA as a standard Windows user to elevate privileges to System.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One in nine online stores are leaking your data: study<a href="https://www.malwarebytes.com/blog/news/2023/02/study-one-in-nine-online-stores-are-leaking-your-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sansec has revealed it's found a number of online stores accidentally leaking highly sensitive data. After studying 2,037 online stores, the company found that 12.3 percent exposed compressed files (in ZIP, SQL, and TAR archive formats).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

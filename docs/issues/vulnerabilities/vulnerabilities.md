@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix released security updates for multiple High-Severity flaws in its products<a href="https://securityaffairs.com/142287/hacking/citrix-high-severity-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix released security updates for multiple High-Severity flaws in Virtual Apps and Desktops, and Workspace apps for Windows and Linux.
+Citrix released security patches to fix multiple vulnerabilities in Virtual Apps and Desktops, and Workspace...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently Patched IBM Aspera Faspex Vulnerability Exploited in the Wild<a href="https://www.securityweek.com/recently-patched-ibm-aspera-faspex-vulnerability-exploited-in-the-wild/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security hole, tracked as CVE-2022-47986 and classified as ‘high severity’, is a YAML deserialization flaw that can be exploited by a remote attacker for arbitrary code execution using specially crafted API calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe addressed critical bugs in Illustrator, After Effects Software<a href="https://securityaffairs.com/142280/security/adobe-critical-bugs-illustrator-after-effects-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe Patch Tuesday addressed at least a half dozen vulnerabilities, including critical issues that expose Windows and macOS to hack.
+Adobe released security updates to address at least a half dozen vulnerabilities impacting Photoshop, Illustrator...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP’s February 2023 Security Updates Patch High-Severity Vulnerabilities<a href="https://www.securityweek.com/saps-february-2023-security-updates-patch-high-severity-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of the new security notes delivers updates to the Chromium browser in the SAP Business Client, to resolve a total of 54 vulnerabilities, including 22 high-severity issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Now: Microsoft Releases Patches for 3 Actively Exploited Windows Vulnerabilities<a href="https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday released&nbsp; security updates &nbsp;to address 75 flaws spanning its product portfolio, three of which have come under active exploitation in the wild. The updates are in addition to 22 flaws the Windows maker&nbsp; patched &nbsp;in its Chromium-based Edge browser over the past month. Of the 75 vulnerabilities, nine are rated Critical and 66 are rated Important in severity. 37 out of 75 bugs are classified as remote code execution (RCE) flaws. The three zero-days of note that have been exploited are as follows - CVE-2023-21715 &nbsp;(CVSS score: 7.3) - Microsoft Office Security Feature Bypass Vulnerability CVE-2023-21823 &nbsp;(CVSS score: 7.8) - Windows Graphics Component Elevation of Privilege Vulnerability CVE-2023-23376 &nbsp;(CVSS score: 7.8) - Windows Common Log File System (CLFS) Driver Elevation of Privilege Vulnerability "The attack itself is carried out locally by a user with authentication to the targeted system," Microsoft said in advisory for CVE-2023-21715. "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Patches High-Severity Vulnerabilities in Windows, Linux Apps<a href="https://www.securityweek.com/citrix-patches-high-severity-vulnerabilities-in-windows-linux-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-24483, the Virtual Apps and Desktops vulnerability is described as a privilege escalation issue that allows an attacker with access to a Windows VDA as a standard Windows user to elevate privileges to System.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

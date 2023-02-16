@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially Motivated Threat Actor Strikes with New Ransomware and Clipper Malware<a href="https://thehackernews.com/2023/02/financially-motivated-threat-actor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new financially motivated campaign that commenced in December 2022 has seen the unidentified threat actor behind it deploying a novel ransomware strain dubbed MortalKombat and a clipper malware known as Laplas. Cisco Talos&nbsp; said &nbsp;it "observed the actor scanning the internet for victim machines with an exposed remote desktop protocol (RDP) port 3389." The attacks, per the cybersecurity company, primarily focuses on individuals, small businesses, and large organizations located in the U.S., and to a lesser extent in the U.K., Turkey, and the Philippines. The starting point that kicks off the multi-stage attack chain is a phishing email bearing a malicious ZIP file that's used as a pathway to deliver either the clipper or the ransomware. In addition to using cryptocurrency-themed email lures impersonating CoinPayments, the threat actor is also known to erase infection markers in an attempt to cover its tracks. MortalKombat, first detected in January 2023, is capable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

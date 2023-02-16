@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Rolling Out Privacy Sandbox Beta on Android 13 Devices<a href="https://thehackernews.com/2023/02/google-rolling-out-privacy-sandbox-beta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced on Tuesday that it's officially rolling out&nbsp; Privacy Sandbox on Android &nbsp;in beta to eligible mobile devices running Android 13. "The Privacy Sandbox Beta provides new APIs that are designed with privacy at the core, and don't use identifiers that can track your activity across apps and websites," the search and advertising giant&nbsp; said . "Apps that choose to participate in the Beta can use these APIs to show you relevant ads and measure their effectiveness." Devices that have been selected for the Beta test will have a Privacy Sandbox section within Settings so as to allow users to control their participation as well as view and manage their top interests as determined by the&nbsp; Topics API &nbsp;to serve relevant ads. The initial&nbsp; Topics taxonomy &nbsp;is set to include somewhere between a few hundred and a few thousand topics,&nbsp; according to Google , and will be human-curated to exclude sensitive topics. The Beta test is expected to start off with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 28,2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

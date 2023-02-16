@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar — A MythBusting Special: 9 Myths about File-based Threats<a href="https://thehackernews.com/2023/02/webinar-mythbusting-special-9-myths.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bad actors love to deliver threats in files. Persistent and persuasive messages convince unsuspecting victims to accept and open files from unknown sources, executing the first step in a cyber attack.&nbsp; This continues to happen whether the file is an EXE or a Microsoft Excel document. Far too often, end users have an illusion of security, masked by good faith efforts of other users and (ineffective) security controls. This creates a virality effect for ransomware, malware, spyware, and annoying grayware and adware to be spread easily from user to user and machine to machine. To stop users from saying, "I reject your reality and substitute my own!" – it's time to bust some myths about file-based attacks.&nbsp; Testing in three! Two! One! &nbsp; Register here and join Zscaler's Vinay Polurouthu, Principal Product Manager, and Amy Heng, Product Marketing Manager, to: Bust the 9 most common assumptions and myths about file-based threats Uncover the latest evasion trends and d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regular Pen Testing Is Key to Resolving Conflict Between SecOps and DevOps<a href="https://thehackernews.com/2023/02/regular-pen-testing-is-key-to-resolving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an ideal world, security and development teams would be working together in perfect harmony. But we live in a world of competing priorities, where DevOps and security departments often butt heads with each other. Agility and security &nbsp;are often at odds with each other— if a new feature is&nbsp; delivered quickly but &nbsp;contains security vulnerabilities, the SecOps team will need to scramble the release and patch the vulnerabilities, which can take days or weeks. On the other hand, if the SecOps team takes too long to review and approve a new feature, the development team will get frustrated with the slow pace of delivery. Security needs to move slowly and cautiously, while development wants to "move fast and break things" and release new features quickly. DevOps teams can view security as an impediment to their work instead of an important part of the process. With each team pulling in opposite directions, there is often tension and conflict between the two teams, slowing deve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

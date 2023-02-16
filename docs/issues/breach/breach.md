@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Community Health Systems data breach caused by GoAnywhere MFT hack<a href="https://securityaffairs.com/142242/data-breach/community-health-systems-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Community Health Systems (CHS) disclosed a data breach, attackers exploited the zero-day vulnerability in Fortra’s GoAnywhere MFT platform.
+Community Health Systems (CHS) is one of the nation’s leading healthcare providers. CHS operates 79 acute-care...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AdSense fraud campaign relies on 10,890&nbsp;sites that were infected since September 2022<a href="https://securityaffairs.com/142254/hacking/adsense-fraud-campaign-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a massive AdSense fraud campaign infected 10,890&nbsp;WordPress sites since September 2022.
+In November 2022, researchers from security firm Sucuri reported to have tracked a surge in WordPress malware redirecting website visitors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

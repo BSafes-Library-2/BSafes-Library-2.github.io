@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Concerned Should You be about Your Hardware Wallet?<a href="https://cyware.com/news/how-concerned-should-you-be-about-your-hardware-wallet-c6eb490a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security company Unciphered successfully breached OneKey, the maker of hardware wallets for cryptocurrencies, in a matter of seconds, underlining security gaps in the emerging crypto world. Unciphered posted a video on YouTube demonstrating its ability to exploit a critical flaw that enabled it to  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance, Huobi freeze some cryptocurrency stolen in $100 million Harmony hack<a href="https://therecord.media/binance-huobi-freeze-some-cryptocurrency-stolen-in-100-million-harmony-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two crypto platforms were notified about the funds by blockchain research company Elliptic, which managed to trace it through sanctioned cryptocurrency mixer Tornado Cash.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

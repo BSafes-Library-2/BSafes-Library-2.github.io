@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware ransomware was on the rise leading up to ESXiArgs spree, research finds<a href="https://www.cybersecuritydive.com/news/vmware-ransomware-increase/642576/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Only two cyberattacks targeted ESXi with ransomware in 2020, but in 2021, Recorded Future identified more than 400 incidents. Last year the number ballooned, growing almost threefold to 1,118 in 2022, the research found.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

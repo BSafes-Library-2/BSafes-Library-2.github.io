@@ -8,6 +8,90 @@ nav_order: 900015
 
 ## Attack
 ---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+11,000 WordPress Sites Hacked in a Backdoor Attack<a href="https://www.hackread.com/adsense-websites-hacked-backdoor-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Sucuri’s research, the backdoor redirects users to sites that show fraudulent views of Google AdSense ads. The company’s SiteCheck remote scanner has detected more than 10,890 infected sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoAnywhere Zero-Day Attack Victims Start Disclosing Significant Impact<a href="https://www.securityweek.com/goanywhere-zero-day-attack-victims-start-disclosing-significant-impact/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an SEC filing, Community Health Systems (CHS), one of the largest US healthcare services providers, revealed that a “security breach experienced by Fortra” resulted in the exposure of personal info and PHI belonging to patients of CHS affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting South American Diplomatic Entities with ShadowPad<a href="https://thehackernews.com/2023/02/chinese-hackers-targeting-south.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday attributed a China-based cyber espionage actor to a set of attacks targeting diplomatic entities in South America. The tech giant's Security Intelligence team is tracking the cluster under the emerging moniker&nbsp; DEV-0147 ,&nbsp; describing &nbsp;the activity as an "expansion of the group's data exfiltration operations that traditionally targeted government agencies and think tanks in Asia and Europe." The threat actor is said to use established hacking tools such as ShadowPad to infiltrate targets and maintain persistent access. ShadowPad, also called PoisonPlug, is a&nbsp; successor &nbsp;to the&nbsp; PlugX remote access trojan &nbsp;and has been widely put to use by Chinese adversarial collectives with links to the Ministry of State Security (MSS) and People's Liberation Army (PLA), per Secureworks. One of the other malicious tools utilized by DEV-0147 is a webpack loader called QuasarLoader , which allows for deploying additional payloads onto the compromised hosts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive HTTP DDoS Attack Hits Record High of 71 Million Requests/Second<a href="https://thehackernews.com/2023/02/massive-http-ddos-attack-hits-record.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web infrastructure company Cloudflare on Monday disclosed that it thwarted a record-breaking distributed denial-of-service (DDoS) attack that peaked at over 71 million requests per second (RPS). "The majority of attacks peaked in the ballpark of 50-70 million requests per second (RPS) with the largest exceeding 71 million," the company&nbsp; said , calling it a "hyper-volumetric" DDoS attack. It's also the largest HTTP DDoS attack reported to date, more than 35% higher than the previous 46 million RPS DDoS attack that&nbsp; Google Cloud mitigated in June 2022 . Cloudflare said the attacks singled out websites secured by its platform and that they emanated from a botnet comprising more than 30,000 IP addresses that belonged to "numerous" cloud providers. Targeted websites included a popular gaming provider, cryptocurrency companies, hosting providers, and cloud computing platforms. HTTP attacks of this kind are designed to send a tsunami of HTTP requests t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MortalKombat Ransomware and Laplas Clipper Malware Threats Deployed in Recent Attacks<a href="https://blog.talosintelligence.com/new-mortalkombat-ransomware-and-laplas-clipper-malware-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos observed the actor scanning the internet for victim machines with an exposed remote desktop protocol (RDP) port 3389, using one of their download servers that run an RDP crawler and also facilitates MortalKombat ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Bahrain Airport, State News Agency Sites to Mark Uprising<a href="https://www.securityweek.com/hackers-target-bahrain-airport-news-sites-to-mark-uprising/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers said they had taken down the websites of Bahrain’s international airport and state news agency on Tuesday to mark the 12-year anniversary of an Arab Spring uprising in the small Gulf country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
