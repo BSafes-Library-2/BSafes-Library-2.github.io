@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai V3G4 botnet exploits 13 flaws to target IoT devices<a href="https://securityaffairs.com/142358/malware/mirai-v3g4-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the second half of 2022, a variant of the Mirai bot, tracked as V3G4, targeted IoT devices by exploiting tens of flaws.
+Palo Alto Networks Unit 42 researchers reported that a Mirai variant called V3G4 was attempting to exploit several flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

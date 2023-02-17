@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries<a href="https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific&nbsp; SideWinder &nbsp;group has been attributed as the nation-state actor behind attempted attacks against 61 entities in Afghanistan, Bhutan, Myanmar, Nepal, and Sri Lanka between June and November 2021. Targets included government, military, law enforcement, banks, and other organizations, according to an&nbsp; exhaustive report &nbsp;published by Group-IB, which also found links between the adversary and two other intrusion sets tracked as Baby Elephant and&nbsp; DoNot Team . SideWinder &nbsp;is also referred to as APT-C-17, Hardcore Nationalist (HN2), Rattlesnake, Razor Tiger, and T-APT4. It's suspected to be of Indian origin, although Kaspersky in 2022 noted that the attribution is no longer deterministic. The&nbsp; group &nbsp;has been linked to&nbsp; no less than 1,000 attacks &nbsp;against government organizations in the Asia-Pacific region since April 2020, according to a report from the Russian cybersecurity firm early last year. Of the 61 potential targets compiled by Group-IB, 29 of them are located
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 500 ESXiArgs Ransomware infections in one day, but they dropped the day after<a href="https://securityaffairs.com/142336/cyber-crime/esxiargs-ransomware-infections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESXiArgs ransomware continues to spread in Europe, most of the recent infections were observed in France, Germany, the Netherlands, the UK, and Ukraine
+Researchers from Censys reported that more than 500 hosts have been infected in a new wave of ESXiArgs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-risk users may be few, but the threat they pose is huge<a href="https://www.helpnetsecurity.com/2023/02/16/high-risk-behavior/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-risk users represent approximately 10% of the worker population and are found in every department and function of the organization, according to Elevate Security research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXiArgs Ransomware Hits Over 500 New Targets in European Countries<a href="https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 500 hosts have been newly compromised en masse by the ESXiArgs ransomware strain, most of which are located in France, Germany, the Netherlands, the U.K., and Ukraine. The&nbsp; findings &nbsp;come from attack surface management firm Censys, which&nbsp; discovered &nbsp;"two hosts with strikingly similar ransom notes dating back to mid-October 2022, just after ESXi versions 6.5 and 6.7 reached end of life." The first set of infections dates back to October 12, 2022, much earlier than when the campaign&nbsp; began to gain traction &nbsp;at the start of February 2023. Then on January 31, 2023, the ransom notes on the two hosts are said to have been updated with a revised version that matches the ones used in the current wave. Some of the crucial differences between the two ransom notes include the use of an onion URL instead of a Tox chat ID, a Proton Mail address at the bottom of the note, and a lower ransom demand (1.05 Bitcoin vs. 2.09 Bitcoin). "Each variant of the ransom notes from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

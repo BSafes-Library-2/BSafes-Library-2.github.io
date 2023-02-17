@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy MortalKombat Ransomware and Laplas Clipper Malware<a href="https://cyware.com/news/hackers-deploy-mortalkombat-ransomware-and-laplas-clipper-malware-133fc549"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s a new financially motivated campaign utilizing MortalKombat ransomware and the Laplas clipper. While the former is a variant of the Xortist commodity ransomware, the latter is a cryptocurrency hijacker that monitors the Windows clipboard for crypto addresses. The campaign’s focus remained o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East<a href="https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication service providers in the Middle East are being targeted by a previously undocumented threat actor as part of a suspected intelligence gathering mission. Cybersecurity firms SentinelOne and QGroup are tracking the activity cluster under the former's work-in-progress moniker&nbsp; WIP26 . "WIP26 relies heavily on public cloud infrastructure in an attempt to evade detection by making malicious traffic look legitimate," researchers Aleksandar Milenkoski, Collin Farr, and Joey Chen&nbsp; said &nbsp;in a report shared with The Hacker News. This includes the misuse of Microsoft 365 Mail, Azure, Google Firebase, and Dropbox for malware delivery, data exfiltration, and command-and-control (C2) purposes. The initial intrusion vector used in the attacks entails "precision targeting" of employees via WhatsApp messages that contain links to Dropbox links to supposedly benign archive files. The files, in reality, harbor a malware loader whose core feature is to depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

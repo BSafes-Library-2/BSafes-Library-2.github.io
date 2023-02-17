@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware<a href="https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked threat actor tracked as&nbsp; APT37 &nbsp;has been linked to a piece of new malware dubbed&nbsp; M2RAT &nbsp;in attacks targeting its southern counterpart, suggesting continued evolution of the group's features and tactics. APT37, also tracked under the monikers Reaper, RedEyes, Ricochet Chollima, and ScarCruft, is linked to North Korea's Ministry of State Security (MSS) unlike the Lazarus and Kimsuky threat clusters that are part of the Reconnaissance General Bureau (RGB). According to Google-owned Mandiant, MSS is tasked with "domestic counterespionage and overseas counterintelligence activities," with APT37's attack campaigns reflective of the agency's priorities. The operations have historically singled out individuals such as defectors and human rights activists. "APT37's assessed primary mission is covert intelligence gathering in support of DPRK's strategic military, political, and economic interests," the threat intelligence fi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Caracal APT Reappears with a New Version of Bandook Spyware<a href="https://cyware.com/news/dark-caracal-apt-reappears-with-a-new-version-of-bandook-spyware-af32d77b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lookout Security published a report describing the activities of a new APT actor dubbed Dark Caracal that has claimed hundreds of infections in more than a dozen countries since March of 2022. The APT  is currently using a new version of Bandook spyware to target Windows systems.&nbsp;Organizations ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

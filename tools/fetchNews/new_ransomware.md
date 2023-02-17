@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MortalKombat ransomware employed in financially motivated campaign<a href="https://securityaffairs.com/142319/cyber-crime/mortalkombat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos researchers observed a financially motivated threat actor using a new ransomware dubbed MortalKombat&nbsp;and a clipper malware named Laplas.
+Since December 2022, Cisco Talos researchers have been observing an unidentified financially motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank class action launched after massive hack put private information of millions on dark web<a href="https://www.theguardian.com/australia-news/2023/feb/16/medibank-class-action-launched-data-breach-private-information-dark-web?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law firm Baker McKenzie has launched a class action lawsuit against Medibank over the health insurer’s massive cyber attack last year that resulted in the personal details of up to 10 million customers being posted on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

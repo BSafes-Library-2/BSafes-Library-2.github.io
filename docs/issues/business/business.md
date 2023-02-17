@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costanoa Ventures and Norrsken22 back Smile Identity in $20M Series B round<a href="https://techcrunch.com/2023/02/15/costanoa-ventures-and-norrsken22-back-smile-identity-in-20m-series-b-round/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Silicon Valley investor Costanoa Ventures, one of the co-leads in its Series A, also co-led this recent Series B round with Africa-focused venture capital firm Norrsken22. Lexi Novitske, general partner at Norrsken22, will join the company’s Board.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

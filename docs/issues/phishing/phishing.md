@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps<a href="https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking individuals in Southeast and East Asia are the targets of a new rogue Google Ads campaign that delivers remote access trojans such as FatalRAT to compromised machines. The attacks involve purchasing ad slots to appear in Google search results that direct users searching for popular applications to rogue websites hosting trojanized installers, ESET said in a report published today. The ads have since been taken down. Some of the spoofed applications include Google Chrome, Mozilla Firefox, Telegram, WhatsApp, LINE, Signal, Skype, Electrum, Sogou Pinyin Method, Youdao, and WPS Office. "The websites and installers downloaded from them are mostly in Chinese and in some cases falsely offer Chinese language versions of software that is not available in China," the Slovak cybersecurity firm&nbsp; said , adding it observed the attacks between August 2022 and January 2023. A majority of the victims are located in Taiwan, China, and Hong Kong, followed by Malaysia, Japa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's Going Into NIST's New Digital Identity Guidelines?<a href="https://securityintelligence.com/articles/nist-new-digital-identity-guidelines/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These new guidelines will help set the course for best practices in handling digital identity for organizations across all sectors. The security risk around digital identities stems from verification.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes<a href="https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams typically have great visibility over most areas, for example, the corporate network, endpoints, servers, and cloud infrastructure. They use this visibility to enforce the necessary security and compliance requirements. However, this is not the case when it comes to sensitive data sitting in production or analytic databases, data warehouses or data lakes. Security teams have to rely on data teams to locate sensitive data and enforce access controls and security policies. This is a huge headache for both the security and data teams. It weakens the business's security and compliance putting it at risk of exposing sensitive data, large fines, reputational damages, and more. Also, in many cases, it slows down the business's ability to scale up data operations. &nbsp;This article examines how Satori, a data security platform, gives control of the sensitive data in databases, data warehouses and data lakes to the security teams. Satori's&nbsp; automated data security plat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

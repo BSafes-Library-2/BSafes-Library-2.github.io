@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Oakland issued a&nbsp;local state of emergency after recent ransomware attack<a href="https://securityaffairs.com/142295/cyber-crime/city-of-oakland-emergency-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Oakland has declared a local state of emergency due to the effect of the ransomware attack that hit the city on February 8, 2023.
+The City of Oakland disclosed last week a ransomware attack, the security breach began on February 8, 2023....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tonga is the latest Pacific Island nation hit with ransomware<a href="https://therecord.media/tonga-is-the-latest-pacific-island-nation-hit-with-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tonga Communications Corporation (TCC) — one of two telecoms companies in the country — published a notice on Facebook saying the attack may slow down administrative operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
