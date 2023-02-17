@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXiArgs Ransomware Mayhem in Europe and More<a href="https://cyware.com/news/esxiargs-ransomware-mayhem-in-europe-and-more-ae1503f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Skipping patching VMware ESXi bugs? Beware! Hundreds of systems in Europe were found infected with the ESXiArgs ransomware. Hackers reportedly abused a two-year-old RCE bug (CVE-2021-21974) and compromised thousands of servers across the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Hijack Popular NPM Package with Millions of Downloads<a href="https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular npm package with more than 3.5 million weekly downloads has been found vulnerable to an account takeover attack. "The package can be taken over by recovering an expired domain name for one of its maintainers and resetting the password," software supply chain security company Illustria  said  in a report. While npm's security protections limit users to have only one active email address per account, the Israeli firm said it was able to reset the GitHub password using the recovered domain. The attack, in a nutshell, grants a threat actor access to the package's associated GitHub account, effectively making it possible to publish trojanized versions to the npm registry that can be weaponized to conduct supply chain attacks at scale. This is achieved by taking advantage of a GitHub Action that's configured in the repository to automatically publish the packages when new code changes are pushed. "Even though the maintainer's npm user account i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai V3G4 botnet exploits 13 flaws to target IoT devices<a href="https://securityaffairs.com/142358/malware/mirai-v3g4-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the second half of 2022, a variant of the Mirai bot, tracked as V3G4, targeted IoT devices by exploiting tens of flaws.
+Palo Alto Networks Unit 42 researchers reported that a Mirai variant called V3G4 was attempting to exploit several flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy MortalKombat Ransomware and Laplas Clipper Malware<a href="https://cyware.com/news/hackers-deploy-mortalkombat-ransomware-and-laplas-clipper-malware-133fc549"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s a new financially motivated campaign utilizing MortalKombat ransomware and the Laplas clipper. While the former is a variant of the Xortist commodity ransomware, the latter is a cryptocurrency hijacker that monitors the Windows clipboard for crypto addresses. The campaign’s focus remained o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries<a href="https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific  SideWinder  group has been attributed as the nation-state actor behind attempted attacks against 61 entities in Afghanistan, Bhutan, Myanmar, Nepal, and Sri Lanka between June and November 2021. Targets included government, military, law enforcement, banks, and other organizations, according to an  exhaustive report  published by Group-IB, which also found links between the adversary and two other intrusion sets tracked as Baby Elephant and  DoNot Team . SideWinder  is also referred to as APT-C-17, Hardcore Nationalist (HN2), Rattlesnake, Razor Tiger, and T-APT4. It's suspected to be of Indian origin, although Kaspersky in 2022 noted that the attribution is no longer deterministic. The  group  has been linked to  no less than 1,000 attacks  against government organizations in the Asia-Pacific region since April 2020, according to a report from the Russian cybersecurity firm early last year. Of the 61 potential targets compiled by Group-IB, 29 of them are located
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 500 ESXiArgs Ransomware infections in one day, but they dropped the day after<a href="https://securityaffairs.com/142336/cyber-crime/esxiargs-ransomware-infections.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESXiArgs ransomware continues to spread in Europe, most of the recent infections were observed in France, Germany, the Netherlands, the UK, and Ukraine
+Researchers from Censys reported that more than 500 hosts have been infected in a new wave of ESXiArgs...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medibank class action launched after massive hack put private information of millions on dark web<a href="https://www.theguardian.com/australia-news/2023/feb/16/medibank-class-action-launched-data-breach-private-information-dark-web?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law firm Baker McKenzie has launched a class action lawsuit against Medibank over the health insurer’s massive cyber attack last year that resulted in the personal details of up to 10 million customers being posted on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps<a href="https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking individuals in Southeast and East Asia are the targets of a new rogue Google Ads campaign that delivers remote access trojans such as FatalRAT to compromised machines. The attacks involve purchasing ad slots to appear in Google search results that direct users searching for popular applications to rogue websites hosting trojanized installers, ESET said in a report published today. The ads have since been taken down. Some of the spoofed applications include Google Chrome, Mozilla Firefox, Telegram, WhatsApp, LINE, Signal, Skype, Electrum, Sogou Pinyin Method, Youdao, and WPS Office. "The websites and installers downloaded from them are mostly in Chinese and in some cases falsely offer Chinese language versions of software that is not available in China," the Slovak cybersecurity firm  said , adding it observed the attacks between August 2022 and January 2023. A majority of the victims are located in Taiwan, China, and Hong Kong, followed by Malaysia, Japa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MortalKombat ransomware employed in financially motivated campaign<a href="https://securityaffairs.com/142319/cyber-crime/mortalkombat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos researchers observed a financially motivated threat actor using a new ransomware dubbed MortalKombat and a clipper malware named Laplas.
+Since December 2022, Cisco Talos researchers have been observing an unidentified financially motivated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's Going Into NIST's New Digital Identity Guidelines?<a href="https://securityintelligence.com/articles/nist-new-digital-identity-guidelines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These new guidelines will help set the course for best practices in handling digital identity for organizations across all sectors. The security risk around digital identities stems from verification.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs<a href="https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed two new vulnerabilities affecting Schneider Electric Modicon programmable logic controllers (PLCs) that could allow for authentication bypass and remote code execution. The flaws, tracked as  CVE-2022-45788  (CVSS score: 7.5) and  CVE-2022-45789  (CVSS score: 8.1), are part of a  broader collection  of  security defects  tracked by Forescout as OT:ICEFALL. Successful exploitation of the bugs could enable an adversary to execute unauthorized code, denial-of-service, or disclosure of sensitive information. The cybersecurity company said the shortcomings can be chained by a threat actor with known flaws from other vendors (e.g.,  CVE-2021-31886 ) to achieve deep lateral movement in operational technology (OT) networks. "Deep lateral movement lets attackers gain deep access to industrial control systems and cross often overlooked security perimeters, allowing them to perform highly granular and stealthy manipulations as well as override funct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyundai and Kia to patch a flaw that allows the theft of the cars with a USB cable<a href="https://securityaffairs.com/142303/breaking-news/hyundai-kia-theft-usb-cable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyundai and Kia car makers are releasing an emergency software update to fix a flaw that can allow stealing a car with a USB cable.
+Carmakers Hyundai and KIA are rolling out an emergency update for the software shipped with several car models. The update...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Costanoa Ventures and Norrsken22 back Smile Identity in $20M Series B round<a href="https://techcrunch.com/2023/02/15/costanoa-ventures-and-norrsken22-back-smile-identity-in-20m-series-b-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Silicon Valley investor Costanoa Ventures, one of the co-leads in its Series A, also co-led this recent Series B round with Africa-focused venture capital firm Norrsken22. Lexi Novitske, general partner at Norrsken22, will join the company’s Board.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes<a href="https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams typically have great visibility over most areas, for example, the corporate network, endpoints, servers, and cloud infrastructure. They use this visibility to enforce the necessary security and compliance requirements. However, this is not the case when it comes to sensitive data sitting in production or analytic databases, data warehouses or data lakes. Security teams have to rely on data teams to locate sensitive data and enforce access controls and security policies. This is a huge headache for both the security and data teams. It weakens the business's security and compliance putting it at risk of exposing sensitive data, large fines, reputational damages, and more. Also, in many cases, it slows down the business's ability to scale up data operations.  This article examines how Satori, a data security platform, gives control of the sensitive data in databases, data warehouses and data lakes to the security teams. Satori's  automated data security plat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Patched in Cisco Security Products<a href="https://www.securityweek.com/critical-vulnerability-patched-in-cisco-security-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday announced updates for endpoint, cloud, and web security products to address a critical vulnerability in the third-party open-source scanning library ClamAV.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East<a href="https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication service providers in the Middle East are being targeted by a previously undocumented threat actor as part of a suspected intelligence gathering mission. Cybersecurity firms SentinelOne and QGroup are tracking the activity cluster under the former's work-in-progress moniker  WIP26 . "WIP26 relies heavily on public cloud infrastructure in an attempt to evade detection by making malicious traffic look legitimate," researchers Aleksandar Milenkoski, Collin Farr, and Joey Chen  said  in a report shared with The Hacker News. This includes the misuse of Microsoft 365 Mail, Azure, Google Firebase, and Dropbox for malware delivery, data exfiltration, and command-and-control (C2) purposes. The initial intrusion vector used in the attacks entails "precision targeting" of employees via WhatsApp messages that contain links to Dropbox links to supposedly benign archive files. The files, in reality, harbor a malware loader whose core feature is to depl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-risk users may be few, but the threat they pose is huge<a href="https://www.helpnetsecurity.com/2023/02/16/high-risk-behavior/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-risk users represent approximately 10% of the worker population and are found in every department and function of the organization, according to Elevate Security research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXiArgs Ransomware Hits Over 500 New Targets in European Countries<a href="https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 500 hosts have been newly compromised en masse by the ESXiArgs ransomware strain, most of which are located in France, Germany, the Netherlands, the U.K., and Ukraine. The  findings  come from attack surface management firm Censys, which  discovered  "two hosts with strikingly similar ransom notes dating back to mid-October 2022, just after ESXi versions 6.5 and 6.7 reached end of life." The first set of infections dates back to October 12, 2022, much earlier than when the campaign  began to gain traction  at the start of February 2023. Then on January 31, 2023, the ransom notes on the two hosts are said to have been updated with a revised version that matches the ones used in the current wave. Some of the crucial differences between the two ransom notes include the use of an onion URL instead of a Tox chat ID, a Proton Mail address at the bottom of the note, and a lower ransom demand (1.05 Bitcoin vs. 2.09 Bitcoin). "Each variant of the ransom notes from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Concerned Should You be about Your Hardware Wallet?<a href="https://cyware.com/news/how-concerned-should-you-be-about-your-hardware-wallet-c6eb490a"> Full Text</a>
@@ -50,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's APT37 Targeting Southern Counterpart with New M2RAT Malware<a href="https://thehackernews.com/2023/02/north-koreas-apt37-targeting-southern.html"> Full Text</a>
@@ -66,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Oakland issued a local state of emergency after recent ransomware attack<a href="https://securityaffairs.com/142295/cyber-crime/city-of-oakland-emergency-ransomware.html"> Full Text</a>
@@ -83,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Caracal APT Reappears with a New Version of Bandook Spyware<a href="https://cyware.com/news/dark-caracal-apt-reappears-with-a-new-version-of-bandook-spyware-af32d77b"> Full Text</a>
@@ -99,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar — A MythBusting Special: 9 Myths about File-based Threats<a href="https://thehackernews.com/2023/02/webinar-mythbusting-special-9-myths.html"> Full Text</a>
@@ -115,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix released security updates for multiple High-Severity flaws in its products<a href="https://securityaffairs.com/142287/hacking/citrix-high-severity-flaws.html"> Full Text</a>
@@ -132,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recently Patched IBM Aspera Faspex Vulnerability Exploited in the Wild<a href="https://www.securityweek.com/recently-patched-ibm-aspera-faspex-vulnerability-exploited-in-the-wild/?&web_view=true"> Full Text</a>
@@ -148,7 +440,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financially Motivated Threat Actor Strikes with New Ransomware and Clipper Malware<a href="https://thehackernews.com/2023/02/financially-motivated-threat-actor.html"> Full Text</a>
@@ -164,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe addressed critical bugs in Illustrator, After Effects Software<a href="https://securityaffairs.com/142280/security/adobe-critical-bugs-illustrator-after-effects-software.html"> Full Text</a>
@@ -181,7 +473,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordless authentication startup Descope lands $53M seed round<a href="https://techcrunch.com/2023/02/15/passwordless-authentication-startup-descope-lands-whopping-53m-seed-round/?&web_view=true"> Full Text</a>
@@ -197,7 +489,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regular Pen Testing Is Key to Resolving Conflict Between SecOps and DevOps<a href="https://thehackernews.com/2023/02/regular-pen-testing-is-key-to-resolving.html"> Full Text</a>
@@ -213,7 +505,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beep, a new highly evasive malware appeared in the threat landscape<a href="https://securityaffairs.com/142263/hacking/beep-malware-highly-evasive.html"> Full Text</a>
@@ -230,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tonga is the latest Pacific Island nation hit with ransomware<a href="https://therecord.media/tonga-is-the-latest-pacific-island-nation-hit-with-ransomware/?&web_view=true"> Full Text</a>
@@ -246,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of 'Beep' - A New Evasive Malware That Can Fly Under the Radar<a href="https://thehackernews.com/2023/02/experts-warn-of-beep-new-evasive.html"> Full Text</a>
@@ -262,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Community Health Systems data breach caused by GoAnywhere MFT hack<a href="https://securityaffairs.com/142242/data-breach/community-health-systems-data-breach.html"> Full Text</a>
@@ -279,7 +571,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP’s February 2023 Security Updates Patch High-Severity Vulnerabilities<a href="https://www.securityweek.com/saps-february-2023-security-updates-patch-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -295,7 +587,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Rolling Out Privacy Sandbox Beta on Android 13 Devices<a href="https://thehackernews.com/2023/02/google-rolling-out-privacy-sandbox-beta.html"> Full Text</a>
@@ -311,7 +603,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AdSense fraud campaign relies on 10,890 sites that were infected since September 2022<a href="https://securityaffairs.com/142254/hacking/adsense-fraud-campaign-wordpress.html"> Full Text</a>
@@ -328,7 +620,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Binance, Huobi freeze some cryptocurrency stolen in $100 million Harmony hack<a href="https://therecord.media/binance-huobi-freeze-some-cryptocurrency-stolen-in-100-million-harmony-hack/?&web_view=true"> Full Text</a>
@@ -344,7 +636,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Now: Microsoft Releases Patches for 3 Actively Exploited Windows Vulnerabilities<a href="https://thehackernews.com/2023/02/update-now-microsoft-releases-patches.html"> Full Text</a>
@@ -360,7 +652,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Patches High-Severity Vulnerabilities in Windows, Linux Apps<a href="https://www.securityweek.com/citrix-patches-high-severity-vulnerabilities-in-windows-linux-apps/?&web_view=true"> Full Text</a>
@@ -376,7 +668,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2023
+February 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One in nine online stores are leaking your data: study<a href="https://www.malwarebytes.com/blog/news/2023/02/study-one-in-nine-online-stores-are-leaking-your-data?&web_view=true"> Full Text</a>
