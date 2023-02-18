@@ -34,7 +34,220 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally<a href="https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of experiments suggest ChatGPT could be useful to help defenders triage potential security incidents and find security vulnerabilities in code, even though it was not specifically trained for such activities, according to recent studies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of RambleOn Android Malware Targeting South Korean Journalists<a href="https://thehackernews.com/2023/02/experts-warn-of-rambleon-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected North Korean nation-state actors targeted a journalist in South Korea with a malware-laced Android app as part of a social engineering campaign. The findings come from South Korea-based non-profit Interlab, which coined the new malware  RambleOn . The malicious functionalities include the "ability to read and leak target's contact list, SMS, voice call content, location and others from the time of compromise on the target," Interlab threat researcher Ovi Liber  said  in a report published this week. The spyware camouflages as a secure chat app called  Fizzle  (ch.seme), but in reality, acts as a conduit to deliver a next-stage payload hosted on pCloud and Yandex. The chat app is said to have been sent as an Android Package (APK) file over WeChat to the targeted journalist on December 7, 2022, under the pretext of wanting to discuss a sensitive topic. The primary purpose of RambleOn is to function as a loader for another APK file ( com.data.WeCoin ) while
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes critical vulnerabilities in FortiNAC and FortiWeb<a href="https://securityaffairs.com/142399/security/fortinet-fixes-critical-vulnerabilities-in-fortinac-and-fortiweb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity vendor Fortinet has addressed two critical vulnerabilities impacting its FortiNAC and FortiWeb products.
+Cybersecurity firm Fortinet has released security updates to address two critical vulnerabilities in FortiNAC and FortiWeb solutions....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Says Leaked Data Stolen via Third-Party App<a href="https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group called SiegedSec recently posted a cache of employee and operations information allegedly stolen from software workforce collaboration tool provider Atlassian.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+⚡Top Cybersecurity News Stories This Week — Cybersecurity Newsletter<a href="https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hey 👋 there, cyber friends! Welcome to  this week's cybersecurity newsletter , where we aim to keep you informed and empowered in the ever-changing world of cyber threats. In today's edition, we will cover some interesting developments in the cybersecurity landscape and share some insightful analysis of each to help you protect yourself against potential attacks. 1. Apple 📱 Devices Hacked with New Zero-Day Bug - Update ASAP! Have you updated your Apple devices lately? If not, it's time to do so, as the tech giant just released security updates for iOS, iPadOS, macOS, and Safari. The update is to fix a zero-day vulnerability that hackers have been exploiting. This vulnerability, tracked as CVE-2023-23529, is related to a type confusion bug in the WebKit browser engine. What does this mean? Well, it means that if you visit a website with malicious code, the bug can be activated, leading to arbitrary code execution. In other words, hackers can take control of your devi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German airport websites hit by DDos attacks once again<a href="https://securityaffairs.com/142373/breaking-news/german-airports-websites-failures.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts are investigating the failures of several German airports after some media attributed them to a possible hacking campaign.
+On Thursday, the websites of several German airports were unreachable, experts launched an investigation speculating...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Frebniis Malware Abuses Microsoft IIS Feature to Establish Backdoor<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Frebniis ensures Failed Request Tracing is enabled and then accesses w3wp.exe (IIS) process memory, obtaining the address of where the Failed Request Event Buffering code (iisfreb.dll) is loaded.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Armenian Entities Hit by New Version of OxtaRAT Spying Tool<a href="https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities in Armenia have come under a cyber attack using an updated version of a backdoor called  OxtaRAT  that allows remote access and desktop surveillance. "The tool capabilities include searching for and exfiltrating files from the infected machine, recording the video from the web camera and desktop, remotely controlling the compromised machine with TightVNC, installing a web shell, performing port scanning, and more," Check Point Research  said  in a report. The latest campaign is said to have commenced in November 2022 and marks the first time the threat actors behind the activity have expanded their focus beyond Azerbaijan. "The threat actors behind these attacks have been targeting human rights organizations, dissidents, and independent media in Azerbaijan for several years," the cybersecurity firm noted, calling the campaign Operation Silent Watch. The late 2022 intrusions are significant, not least because of the changes in the infection chain, the s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed critical RCE bug in ClamAV Open-Source Antivirus engine<a href="https://securityaffairs.com/142380/security/cisco-clamav-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical vulnerability in the ClamAV open source antivirus engine that can lead to remote code execution on vulnerable devices.
+Cisco fixed a critical flaw, tracked as CVE-2023-20032 (CVSS score: 9.8), in the ClamAV open source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pending National Cyber Strategy to Feature ‘Strong Stand’ on Quantum Cryptography<a href="https://www.nextgov.com/cybersecurity/2023/02/pending-national-cyber-strategy-feature-strong-stand-quantum-cryptography/383010/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ahead of the release of the first National Cybersecurity Strategy from the White House Office of the National Cyber Director, Dylan Presman, the director for budget and assessment, confirmed that it will include guidance on post-quantum cryptography.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Botnet Variant 'V3G4' Exploiting 13 Flaws to Target Linux and IoT Devices<a href="https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the notorious Mirai botnet has been found leveraging several security vulnerabilities to propagate itself to Linux and IoT devices. Observed during the second half of 2022, the new version has been dubbed  V3G4  by Palo Alto Networks Unit 42, which identified three different campaigns likely conducted by the same threat actor. "Once the vulnerable devices are compromised, they will be fully controlled by attackers and become a part of the botnet," Unit 42 researchers  said . "The threat actor has the capability to utilize those devices to conduct further attacks, such as distributed denial-of-service (DDoS) attacks." The attacks primarily single out exposed servers and networking devices running Linux, with the adversary weaponizing as many as 13 flaws that could lead to remote code execution (RCE). Some of the notable flaws relate to critical flaws in Atlassian Confluence Server and Data Center, DrayTek Vigor routers, Airspan AirSpot, and Geu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Cacti, Office, Windows and iOS bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142376/security/cacti-office-windows-ios-bugs-to-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in Cacti framework, Microsoft Office, Windows, and iOS to its Known Exploited Vulnerabilities Catalog.
+US CISA added the following actively exploited flaws to its Known Exploited Vulnerabilities Catalog:
+CVE-2022-46169...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Discovered in ClamAV Open Source Antivirus Software<a href="https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices. Tracked as  CVE-2023-20032  (CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component. The flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and 0.103.7 and earlier. Google security engineer Simon Scannell has been credited with discovering and reporting the bug. "This vulnerability is due to a missing buffer size check that may result in a heap buffer overflow write," Cisco Talos  said  in an advisory. "An attacker could exploit this vulnerability by submitting a crafted HFS+ partition file to be scanned by ClamAV on an affected device." Successful exploitation of the weakness could enable an adversary to run arbitrary code with the same privileges as that of the ClamAV scanning process, or crash the process, resu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESXiArgs Ransomware Mayhem in Europe and More<a href="https://cyware.com/news/esxiargs-ransomware-mayhem-in-europe-and-more-ae1503f8"> Full Text</a>
@@ -50,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Hijack Popular NPM Package with Millions of Downloads<a href="https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html"> Full Text</a>
@@ -66,7 +279,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai V3G4 botnet exploits 13 flaws to target IoT devices<a href="https://securityaffairs.com/142358/malware/mirai-v3g4-botnet.html"> Full Text</a>
@@ -83,7 +296,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deploy MortalKombat Ransomware and Laplas Clipper Malware<a href="https://cyware.com/news/hackers-deploy-mortalkombat-ransomware-and-laplas-clipper-malware-133fc549"> Full Text</a>
@@ -99,7 +312,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Link SideWinder Group to Dozens of Targeted Attacks in Multiple Countries<a href="https://thehackernews.com/2023/02/researchers-link-sidewinder-group-to.html"> Full Text</a>
@@ -115,7 +328,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 500 ESXiArgs Ransomware infections in one day, but they dropped the day after<a href="https://securityaffairs.com/142336/cyber-crime/esxiargs-ransomware-infections.html"> Full Text</a>
@@ -132,7 +345,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medibank class action launched after massive hack put private information of millions on dark web<a href="https://www.theguardian.com/australia-news/2023/feb/16/medibank-class-action-launched-data-breach-private-information-dark-web?&web_view=true"> Full Text</a>
@@ -148,7 +361,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Google Ads to Spread FatalRAT Malware Disguised as Popular Apps<a href="https://thehackernews.com/2023/02/hackers-using-google-ads-to-spread.html"> Full Text</a>
@@ -164,7 +377,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New MortalKombat ransomware employed in financially motivated campaign<a href="https://securityaffairs.com/142319/cyber-crime/mortalkombat-ransomware.html"> Full Text</a>
@@ -181,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's Going Into NIST's New Digital Identity Guidelines?<a href="https://securityintelligence.com/articles/nist-new-digital-identity-guidelines/?&web_view=true"> Full Text</a>
@@ -197,7 +410,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs<a href="https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html"> Full Text</a>
@@ -213,7 +426,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hyundai and Kia to patch a flaw that allows the theft of the cars with a USB cable<a href="https://securityaffairs.com/142303/breaking-news/hyundai-kia-theft-usb-cable.html"> Full Text</a>
@@ -230,7 +443,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Costanoa Ventures and Norrsken22 back Smile Identity in $20M Series B round<a href="https://techcrunch.com/2023/02/15/costanoa-ventures-and-norrsken22-back-smile-identity-in-20m-series-b-round/?&web_view=true"> Full Text</a>
@@ -246,7 +459,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breaking the Security "Black Box" in DBs, Data Warehouses and Data Lakes<a href="https://thehackernews.com/2023/02/breaking-security-black-box-in-dbs-data.html"> Full Text</a>
@@ -262,7 +475,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Patched in Cisco Security Products<a href="https://www.securityweek.com/critical-vulnerability-patched-in-cisco-security-products/?&web_view=true"> Full Text</a>
@@ -278,7 +491,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Actor WIP26 Targeting Telecom Service Providers in the Middle East<a href="https://thehackernews.com/2023/02/new-threat-actor-wip26-targeting.html"> Full Text</a>
@@ -294,7 +507,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-risk users may be few, but the threat they pose is huge<a href="https://www.helpnetsecurity.com/2023/02/16/high-risk-behavior/?&web_view=true"> Full Text</a>
@@ -310,7 +523,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2023
+February 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESXiArgs Ransomware Hits Over 500 New Targets in European Countries<a href="https://thehackernews.com/2023/02/esxiargs-ransomware-hits-over-500-new.html"> Full Text</a>
