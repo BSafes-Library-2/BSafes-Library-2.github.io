@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally<a href="https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of RambleOn Android Malware Targeting South Korean Journalists<a href="https://thehackernews.com/2023/02/experts-warn-of-rambleon-android.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet fixes critical vulnerabilities in FortiNAC and FortiWeb<a href="https://securityaffairs.com/142399/security/fortinet-fixes-critical-vulnerabilities-in-fortinac-and-fortiweb.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Says Leaked Data Stolen via Third-Party App<a href="https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ⚡Top Cybersecurity News Stories This Week — Cybersecurity Newsletter<a href="https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German airport websites hit by DDos attacks once again<a href="https://securityaffairs.com/142373/breaking-news/german-airports-websites-failures.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Frebniis Malware Abuses Microsoft IIS Feature to Establish Backdoor<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Armenian Entities Hit by New Version of OxtaRAT Spying Tool<a href="https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed critical RCE bug in ClamAV Open-Source Antivirus engine<a href="https://securityaffairs.com/142380/security/cisco-clamav-rce.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pending National Cyber Strategy to Feature ‘Strong Stand’ on Quantum Cryptography<a href="https://www.nextgov.com/cybersecurity/2023/02/pending-national-cyber-strategy-feature-strong-stand-quantum-cryptography/383010/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mirai Botnet Variant 'V3G4' Exploiting 13 Flaws to Target Linux and IoT Devices<a href="https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Cacti, Office, Windows and iOS bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142376/security/cacti-office-windows-ios-bugs-to-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2023
+February 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Discovered in ClamAV Open Source Antivirus Software<a href="https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html"> Full Text</a>

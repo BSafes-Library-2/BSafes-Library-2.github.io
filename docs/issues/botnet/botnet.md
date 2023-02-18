@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai Botnet Variant 'V3G4' Exploiting 13 Flaws to Target Linux and IoT Devices<a href="https://thehackernews.com/2023/02/new-mirai-botnet-variant-v3g4.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the notorious Mirai botnet has been found leveraging several security vulnerabilities to propagate itself to Linux and IoT devices. Observed during the second half of 2022, the new version has been dubbed&nbsp; V3G4 &nbsp;by Palo Alto Networks Unit 42, which identified three different campaigns likely conducted by the same threat actor. "Once the vulnerable devices are compromised, they will be fully controlled by attackers and become a part of the botnet," Unit 42 researchers&nbsp; said . "The threat actor has the capability to utilize those devices to conduct further attacks, such as distributed denial-of-service (DDoS) attacks." The attacks primarily single out exposed servers and networking devices running Linux, with the adversary weaponizing as many as 13 flaws that could lead to remote code execution (RCE). Some of the notable flaws relate to critical flaws in Atlassian Confluence Server and Data Center, DrayTek Vigor routers, Airspan AirSpot, and Geu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

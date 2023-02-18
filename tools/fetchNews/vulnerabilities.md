@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXiArgs Ransomware Mayhem in Europe and More<a href="https://cyware.com/news/esxiargs-ransomware-mayhem-in-europe-and-more-ae1503f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Skipping patching VMware ESXi bugs? Beware! Hundreds of systems in Europe were found infected with the ESXiArgs ransomware. Hackers reportedly abused a two-year-old RCE bug (CVE-2021-21974) and compromised thousands of servers across the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Hijack Popular NPM Package with Millions of Downloads<a href="https://thehackernews.com/2023/02/researchers-hijack-popular-npm-package.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular npm package with more than 3.5 million weekly downloads has been found vulnerable to an account takeover attack. "The package can be taken over by recovering an expired domain name for one of its maintainers and resetting the password," software supply chain security company Illustria&nbsp; said &nbsp;in a report. While npm's security protections limit users to have only one active email address per account, the Israeli firm said it was able to reset the GitHub password using the recovered domain. The attack, in a nutshell, grants a threat actor access to the package's associated GitHub account, effectively making it possible to publish trojanized versions to the npm registry that can be weaponized to conduct supply chain attacks at scale. This is achieved by taking advantage of a GitHub Action that's configured in the repository to automatically publish the packages when new code changes are pushed. "Even though the maintainer's npm user account i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Critical Security Bugs in Schneider Electric Modicon PLCs<a href="https://thehackernews.com/2023/02/researchers-warn-of-critical-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have disclosed two new vulnerabilities affecting Schneider Electric Modicon programmable logic controllers (PLCs) that could allow for authentication bypass and remote code execution. The flaws, tracked as&nbsp; CVE-2022-45788 &nbsp;(CVSS score: 7.5) and&nbsp; CVE-2022-45789 &nbsp;(CVSS score: 8.1), are part of a&nbsp; broader collection &nbsp;of&nbsp; security defects &nbsp;tracked by Forescout as OT:ICEFALL. Successful exploitation of the bugs could enable an adversary to execute unauthorized code, denial-of-service, or disclosure of sensitive information. The cybersecurity company said the shortcomings can be chained by a threat actor with known flaws from other vendors (e.g.,&nbsp; CVE-2021-31886 ) to achieve deep lateral movement in operational technology (OT) networks. "Deep lateral movement lets attackers gain deep access to industrial control systems and cross often overlooked security perimeters, allowing them to perform highly granular and stealthy manipulations as well as override funct
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyundai and Kia to patch a flaw that allows the theft of the cars with a USB cable<a href="https://securityaffairs.com/142303/breaking-news/hyundai-kia-theft-usb-cable.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyundai and Kia car makers are releasing an emergency software update to fix a flaw that can allow stealing a car with a USB cable.
+Carmakers Hyundai and KIA are rolling out an emergency update for the software shipped with several car models. The update...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Patched in Cisco Security Products<a href="https://www.securityweek.com/critical-vulnerability-patched-in-cisco-security-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday announced updates for endpoint, cloud, and web security products to address a critical vulnerability in the third-party open-source scanning library ClamAV.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Armenian Entities Hit by New Version of OxtaRAT Spying Tool<a href="https://thehackernews.com/2023/02/armenian-entities-hit-by-new-version-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entities in Armenia have come under a cyber attack using an updated version of a backdoor called&nbsp; OxtaRAT &nbsp;that allows remote access and desktop surveillance. "The tool capabilities include searching for and exfiltrating files from the infected machine, recording the video from the web camera and desktop, remotely controlling the compromised machine with TightVNC, installing a web shell, performing port scanning, and more," Check Point Research&nbsp; said &nbsp;in a report. The latest campaign is said to have commenced in November 2022 and marks the first time the threat actors behind the activity have expanded their focus beyond Azerbaijan. "The threat actors behind these attacks have been targeting human rights organizations, dissidents, and independent media in Azerbaijan for several years," the cybersecurity firm noted, calling the campaign Operation Silent Watch. The late 2022 intrusions are significant, not least because of the changes in the infection chain, the s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+⚡Top Cybersecurity News Stories This Week — Cybersecurity Newsletter<a href="https://thehackernews.com/2023/02/top-cybersecurity-news-stories-this.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hey 👋 there, cyber friends! Welcome to&nbsp; this week's cybersecurity newsletter , where we aim to keep you informed and empowered in the ever-changing world of cyber threats. In today's edition, we will cover some interesting developments in the cybersecurity landscape and share some insightful analysis of each to help you protect yourself against potential attacks. 1. Apple 📱 Devices Hacked with New Zero-Day Bug - Update ASAP! Have you updated your Apple devices lately? If not, it's time to do so, as the tech giant just released security updates for iOS, iPadOS, macOS, and Safari. The update is to fix a zero-day vulnerability that hackers have been exploiting. This vulnerability, tracked as CVE-2023-23529, is related to a type confusion bug in the WebKit browser engine. What does this mean? Well, it means that if you visit a website with malicious code, the bug can be activated, leading to arbitrary code execution. In other words, hackers can take control of your devi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

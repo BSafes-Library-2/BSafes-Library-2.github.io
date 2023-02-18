@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally<a href="https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of experiments suggest ChatGPT could be useful to help defenders triage potential security incidents and find security vulnerabilities in code, even though it was not specifically trained for such activities, according to recent studies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

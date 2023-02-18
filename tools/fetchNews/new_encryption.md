@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pending National Cyber Strategy to Feature ‘Strong Stand’ on Quantum Cryptography<a href="https://www.nextgov.com/cybersecurity/2023/02/pending-national-cyber-strategy-feature-strong-stand-quantum-cryptography/383010/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ahead of the release of the first National Cybersecurity Strategy from the White House Office of the National Cyber Director, Dylan Presman, the director for budget and assessment, confirmed that it will include guidance on post-quantum cryptography.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

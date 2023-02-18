@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes critical vulnerabilities in FortiNAC and FortiWeb<a href="https://securityaffairs.com/142399/security/fortinet-fixes-critical-vulnerabilities-in-fortinac-and-fortiweb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity vendor Fortinet has addressed two critical vulnerabilities impacting its FortiNAC and FortiWeb products.
+Cybersecurity firm Fortinet has released security updates to address two critical vulnerabilities in FortiNAC and FortiWeb solutions....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed critical RCE bug in ClamAV Open-Source Antivirus engine<a href="https://securityaffairs.com/142380/security/cisco-clamav-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical vulnerability in the ClamAV open source antivirus engine that can lead to remote code execution on vulnerable devices.
+Cisco fixed a critical flaw, tracked as CVE-2023-20032&nbsp;(CVSS score: 9.8), in the ClamAV open source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Discovered in ClamAV Open Source Antivirus Software<a href="https://thehackernews.com/2023/02/critical-rce-vulnerability-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has rolled out security updates to address a critical flaw reported in the ClamAV open source antivirus engine that could lead to remote code execution on susceptible devices. Tracked as&nbsp; CVE-2023-20032 &nbsp;(CVSS score: 9.8), the issue relates to a case of remote code execution residing in the HFS+ file parser component. The flaw affects versions 1.0.0 and earlier, 0.105.1 and earlier, and 0.103.7 and earlier. Google security engineer Simon Scannell has been credited with discovering and reporting the bug. "This vulnerability is due to a missing buffer size check that may result in a heap buffer overflow write," Cisco Talos&nbsp; said &nbsp;in an advisory. "An attacker could exploit this vulnerability by submitting a crafted HFS+ partition file to be scanned by ClamAV on an affected device." Successful exploitation of the weakness could enable an adversary to run arbitrary code with the same privileges as that of the ClamAV scanning process, or crash the process, resu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

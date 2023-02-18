@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Says Leaked Data Stolen via Third-Party App<a href="https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat group called SiegedSec recently posted a cache of employee and operations information allegedly stolen from software workforce collaboration tool provider Atlassian.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

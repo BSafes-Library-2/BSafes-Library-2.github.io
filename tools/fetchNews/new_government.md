@@ -8,6 +8,22 @@ nav_order: 900075
 
 ## Government
 ---
+February 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Cacti, Office, Windows and iOS bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142376/security/cacti-office-windows-ios-bugs-to-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in Cacti framework, Microsoft Office, Windows, and iOS to its Known Exploited Vulnerabilities Catalog.
+US CISA added the following actively exploited flaws to its&nbsp;Known Exploited Vulnerabilities Catalog:
+CVE-2022-46169...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
