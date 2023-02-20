@@ -34,7 +34,56 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German airport websites down in possible hacker attack<a href="https://www.dw.com/en/german-airport-websites-down-in-possible-hacker-attack/a-64724769?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the airports affected were Düsseldorf, Nüremberg, Erfurt-Weimar, and Dortmund. The websites were unreachable or flagged up failure messages. The websites of the biggest airports, in Frankfurt, Munich, and Berlin, were operating normally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Introduces New Feature to Protect Users from Zero-Click Malware Attacks<a href="https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung has announced a new feature called Message Guard that comes with safeguards to protect users from malware and spyware via what's referred to as zero-click attacks . The South Korean chaebol said the solution "preemptively" secures users' devices by "limiting exposure to invisible threats disguised as image attachments." The security feature, available on Samsung Messages and Google Messages, is currently limited to the Samsung Galaxy S23 series, with plans to expand it to other Galaxy smartphones and tablets later this year that are running on One UI 5.1 or higher. Zero-click attacks are highly-targeted and sophisticated attacks that exploit previously unknown flaws (i.e., zero-days) in software to trigger execution of malicious code without requiring any user interaction. Unlike traditional methods of remotely exploiting a device wherein threat actors rely on phishing tactics to trick a user into clicking on a malicious link or opening an rog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang hit the Portuguese municipal water utility Aguas do Porto<a href="https://securityaffairs.com/142477/cyber-crime/lockbit-water-utility-aguas-do-porto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang claims to have hacked Aguas do Porto, a Portuguese municipal water utility company.
+The LockBit ransomware gang claims to have hacked Aguas do Porto, a Portuguese municipal water utility company, and is threatening to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Havoc Replaces Cobalt Strike and Brute Ratel<a href="https://cyware.com/news/havoc-replaces-cobalt-strike-and-brute-ratel-40561696"> Full Text</a>
@@ -50,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Issues Patches for 40 Flaws Affecting FortiWeb, FortiOS, FortiNAC, and FortiProxy<a href="https://thehackernews.com/2023/02/fortinet-issues-patches-for-40-flaws.html"> Full Text</a>
@@ -66,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Frebniis malware abuses Microsoft IIS feature to create a backdoor<a href="https://securityaffairs.com/142466/malware/frebniis-malware-iis.html"> Full Text</a>
@@ -83,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 19, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Found Exploiting YouTube to Launch Crypto Scams<a href="https://cyware.com/news/scammers-found-exploiting-youtube-to-launch-crypto-scams-1cfd6ee0"> Full Text</a>
@@ -99,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 19, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ENISA and CERT-EU warns Chinese APTs targeting EU organizations<a href="https://securityaffairs.com/142452/apt/chinese-apts-targets-eu.html"> Full Text</a>
@@ -116,7 +165,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers disclose Atlassian data after the theft of an employee’s credentials<a href="https://securityaffairs.com/142424/data-breach/atlassian-data-leak.html"> Full Text</a>
@@ -133,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2023
+February 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 407 by Pierluigi Paganini<a href="https://securityaffairs.com/142430/breaking-news/security-affairs-newsletter-round-407-by-pierluigi-paganini.html"> Full Text</a>
@@ -151,7 +200,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter Limits SMS-Based 2-Factor Authentication to Blue Subscribers Only<a href="https://thehackernews.com/2023/02/twitter-limits-sms-based-2-factor.html"> Full Text</a>
@@ -167,7 +216,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Frebniis Malware Abuses IIS Features for Secret Communications<a href="https://cyware.com/news/new-frebniis-malware-abuses-iis-features-for-secret-communications-ad74ee47"> Full Text</a>
@@ -183,7 +232,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy Discloses Multi-Year Security Breach Causing Malware Installations and Source Code Theft<a href="https://thehackernews.com/2023/02/godaddy-discloses-multi-year-security.html"> Full Text</a>
@@ -199,7 +248,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds Announces Upcoming Patches for High-Severity Vulnerabilities<a href="https://www.securityweek.com/solarwinds-announces-upcoming-patches-for-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -215,7 +264,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of Mirai Targets 13 Known IoT Device Vulnerabilities<a href="https://cyware.com/news/new-variant-of-mirai-targets-13-known-iot-device-vulnerabilities-84cb070f"> Full Text</a>
@@ -231,7 +280,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter will allow using the SMS-based two-factor authentication (2FA) only to its Blue subscribers<a href="https://securityaffairs.com/142416/security/twitter-sms-based-2fa.html"> Full Text</a>
@@ -248,7 +297,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress sites backdoored with ad fraud plugin<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/wordpress-sites-backdoored-with-ad-fraud-plugin/?&web_view=true"> Full Text</a>
@@ -264,7 +313,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoDaddy discloses a new data breach<a href="https://securityaffairs.com/142405/data-breach/godaddy-discloses-data-breach-2.html"> Full Text</a>
@@ -281,7 +330,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 18, 2023
+February 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis of New CatB Ransomware Variant<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware/?&web_view=true"> Full Text</a>

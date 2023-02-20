@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2023 - ENISA, CERT-EU
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sustained Activity by Threat Actors- Joint Publication <a href="https://cert.europa.eu/files/data/TLP-CLEAR-JointPublication-23-01.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EU Cybersecurity Agency (ENISA) and the CERT for the EU institutions, bodies and agencies (CERT-EU) would like to draw the attention of their respective audiences on particular Advanced Persistent Threats (APTs), known as APT27, APT30, APT31, Ke3chang, GALLIUM and Mustang Panda. These threat actors have been recently conducting malicious cyber activities against business and governments in the Union.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 13, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
