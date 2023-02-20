@@ -8,6 +8,64 @@ nav_order: 900029
 
 ## Breach
 ---
+February 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers disclose Atlassian data after the theft of an employee’s credentials<a href="https://securityaffairs.com/142424/data-breach/atlassian-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian discloses a data leak that was caused by the theft of employee credentials which was used to steal data from a third-party vendor.
+A group of hackers called SiegedSec recently published on its Telegram channel a JSON file containing data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy Discloses Multi-Year Security Breach Causing Malware Installations and Source Code Theft<a href="https://thehackernews.com/2023/02/godaddy-discloses-multi-year-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web hosting services provider GoDaddy on Friday disclosed a multi-year security breach that enabled unknown threat actors to install malware and siphon source code related to some of its services. The company attributed the campaign to a "sophisticated and organized group targeting hosting services." GoDaddy said in December 2022, it received an unspecified number of customer complaints about their websites getting sporadically redirected to malicious sites, which it later found was due to the unauthorized third party gaining access to servers hosted in its&nbsp; cPanel environment . The threat actor "installed malware causing the intermittent redirection of customer websites," the company&nbsp; said . The ultimate objective of the intrusions, GoDaddy said, is to "infect websites and servers with malware for phishing campaigns, malware distribution, and other malicious activities." In a related 10-K filing with the U.S. Securities and Exchange Commission (SEC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites backdoored with ad fraud plugin<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/wordpress-sites-backdoored-with-ad-fraud-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 50 WordPress blogs have been backdoored with a plugin called fuser-master. This plugin is being triggered via popunder traffic from a large ad network. The WordPress sites are loaded on a separate page underneath and display a number of ads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy discloses a new data breach<a href="https://securityaffairs.com/142405/data-breach/godaddy-discloses-data-breach-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy discloses a security breach, threat actors have stolen source code and installed malware on its servers in a long-runing attack.
+Web hosting company GoDaddy announced that attackers have stolen source code and installed malware on its servers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

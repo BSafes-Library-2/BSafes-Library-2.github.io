@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Issues Patches for 40 Flaws Affecting FortiWeb, FortiOS, FortiNAC, and FortiProxy<a href="https://thehackernews.com/2023/02/fortinet-issues-patches-for-40-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released security updates to&nbsp; address 40 vulnerabilities &nbsp;in its software lineup, including FortiWeb, FortiOS, FortiNAC, and FortiProxy, among others. Two of the 40 flaws are rated Critical, 15 are rated High, 22 are rated Medium, and one is rated Low in severity. Top of the list is a severe bug residing in the FortiNAC network access control solution (CVE-2022-39952, CVSS score: 9.8) that could lead to arbitrary code execution. "An external control of file name or path vulnerability [CWE-73] in FortiNAC web server may allow an unauthenticated attacker to perform arbitrary write on the system," Fortinet&nbsp; said &nbsp;in an advisory earlier this week. The products impacted by the vulnerability are as follows - FortiNAC version 9.4.0 FortiNAC version 9.2.0 through 9.2.5 FortiNAC version 9.1.0 through 9.1.7 FortiNAC 8.8 all versions FortiNAC 8.7 all versions FortiNAC 8.6 all versions FortiNAC 8.5 all versions, and FortiNAC 8.3 all versions Patches have bee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Announces Upcoming Patches for High-Severity Vulnerabilities<a href="https://www.securityweek.com/solarwinds-announces-upcoming-patches-for-high-severity-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of a total of seven security defects, five are described as deserialization of untrusted data issues that could be exploited to achieve command execution. Four of them have a CVSS score of 8.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of Mirai Targets 13 Known IoT Device Vulnerabilities<a href="https://cyware.com/news/new-variant-of-mirai-targets-13-known-iot-device-vulnerabilities-84cb070f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Unit42 laid bare a Mirai botnet variant dubbed V3G4 that compromised hosts by abusing several vulnerabilities in products from DrayTek, Geutebruck, FreePBX, Atlassian, and others. The botnet infected exposed servers and networking devices running on Linux OS. Successful exploitation  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

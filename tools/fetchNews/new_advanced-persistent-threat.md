@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA and CERT-EU warns Chinese APTs targeting EU organizations<a href="https://securityaffairs.com/142452/apt/chinese-apts-targets-eu.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint report published by ENISA and CERT-EU warns of Chinese APTs targeting businesses and government organizations in the European Union.
+The European Union Agency for Cybersecurity (ENISA) and CERT-EU warn of multiple China-linked threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
