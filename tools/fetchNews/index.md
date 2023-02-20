@@ -34,6 +34,269 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Havoc Replaces Cobalt Strike and Brute Ratel<a href="https://cyware.com/news/havoc-replaces-cobalt-strike-and-brute-ratel-40561696"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been switching to a new open-source C2 framework, dubbed Havoc, as an alternative to Brute Ratel and Cobalt Strike - stated researchers. The advanced post-exploitation C2 framework can bypass even the most updated version of Windows 11 Defender. An unknown threat group dropp ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Issues Patches for 40 Flaws Affecting FortiWeb, FortiOS, FortiNAC, and FortiProxy<a href="https://thehackernews.com/2023/02/fortinet-issues-patches-for-40-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released security updates to  address 40 vulnerabilities  in its software lineup, including FortiWeb, FortiOS, FortiNAC, and FortiProxy, among others. Two of the 40 flaws are rated Critical, 15 are rated High, 22 are rated Medium, and one is rated Low in severity. Top of the list is a severe bug residing in the FortiNAC network access control solution (CVE-2022-39952, CVSS score: 9.8) that could lead to arbitrary code execution. "An external control of file name or path vulnerability [CWE-73] in FortiNAC web server may allow an unauthenticated attacker to perform arbitrary write on the system," Fortinet  said  in an advisory earlier this week. The products impacted by the vulnerability are as follows - FortiNAC version 9.4.0 FortiNAC version 9.2.0 through 9.2.5 FortiNAC version 9.1.0 through 9.1.7 FortiNAC 8.8 all versions FortiNAC 8.7 all versions FortiNAC 8.6 all versions FortiNAC 8.5 all versions, and FortiNAC 8.3 all versions Patches have bee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Frebniis malware abuses Microsoft IIS feature to create a backdoor<a href="https://securityaffairs.com/142466/malware/frebniis-malware-iis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a malware dubbed Frebniis that abuses a Microsoft IIS feature to deploy a backdoor and monitor all HTTP traffic to the system.
+Broadcom Symantec researchers have spotted a new malware, tracked as Frebniis, that abuses Microsoft Internet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Found Exploiting YouTube to Launch Crypto Scams<a href="https://cyware.com/news/scammers-found-exploiting-youtube-to-launch-crypto-scams-1cfd6ee0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a massive network of fake YouTube videos that cybercriminals are using to launch crypto scams. These fake videos advertise fraudulent web-based apps for USDT. To make the channels look legitimate, threat actors automated copy-pasting comments to videos. Many of these vid ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA and CERT-EU warns Chinese APTs targeting EU organizations<a href="https://securityaffairs.com/142452/apt/chinese-apts-targets-eu.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint report published by ENISA and CERT-EU warns of Chinese APTs targeting businesses and government organizations in the European Union.
+The European Union Agency for Cybersecurity (ENISA) and CERT-EU warn of multiple China-linked threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers disclose Atlassian data after the theft of an employee’s credentials<a href="https://securityaffairs.com/142424/data-breach/atlassian-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian discloses a data leak that was caused by the theft of employee credentials which was used to steal data from a third-party vendor.
+A group of hackers called SiegedSec recently published on its Telegram channel a JSON file containing data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 407 by Pierluigi Paganini<a href="https://securityaffairs.com/142430/breaking-news/security-affairs-newsletter-round-407-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Twitter...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Limits SMS-Based 2-Factor Authentication to Blue Subscribers Only<a href="https://thehackernews.com/2023/02/twitter-limits-sms-based-2-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has announced that it's limiting the use of SMS-based two-factor authentication (2FA) to its Blue subscribers. "While historically a popular form of 2FA, unfortunately we have seen phone-number based 2FA be used – and abused – by bad actors," the company  said . "We will no longer allow accounts to enroll in the text message/SMS method of 2FA unless they are Twitter Blue subscribers." Twitter users who have not subscribed to Blue that have enrolled for SMS-based 2FA have time till March 20, 2023, to switch to an alternative method such as an authenticator app or a hardware security key. After this cutoff date, non-Twitter Blue subscribers will have their option disabled. The alternative methods "require you to have physical possession of the authentication method and are a great way to ensure your account is secure," Twitter noted. Given that SMS has been the  least secure form of 2FA , the latest enforcement is likely to force people
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Frebniis Malware Abuses IIS Features for Secret Communications<a href="https://cyware.com/news/new-frebniis-malware-abuses-iis-features-for-secret-communications-ad74ee47"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There’s a new malware threat to Microsoft Internet Information Services (IIS) servers dubbed Frebniss. Discovered by Symantec's Threat Hunter Team, the malware abuse 'Failed Request Event Buffering' (FREB) feature of IIS that is responsible for collecting request metadata such as IP addresses, HTTP ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy Discloses Multi-Year Security Breach Causing Malware Installations and Source Code Theft<a href="https://thehackernews.com/2023/02/godaddy-discloses-multi-year-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web hosting services provider GoDaddy on Friday disclosed a multi-year security breach that enabled unknown threat actors to install malware and siphon source code related to some of its services. The company attributed the campaign to a "sophisticated and organized group targeting hosting services." GoDaddy said in December 2022, it received an unspecified number of customer complaints about their websites getting sporadically redirected to malicious sites, which it later found was due to the unauthorized third party gaining access to servers hosted in its  cPanel environment . The threat actor "installed malware causing the intermittent redirection of customer websites," the company  said . The ultimate objective of the intrusions, GoDaddy said, is to "infect websites and servers with malware for phishing campaigns, malware distribution, and other malicious activities." In a related 10-K filing with the U.S. Securities and Exchange Commission (SEC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Announces Upcoming Patches for High-Severity Vulnerabilities<a href="https://www.securityweek.com/solarwinds-announces-upcoming-patches-for-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of a total of seven security defects, five are described as deserialization of untrusted data issues that could be exploited to achieve command execution. Four of them have a CVSS score of 8.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of Mirai Targets 13 Known IoT Device Vulnerabilities<a href="https://cyware.com/news/new-variant-of-mirai-targets-13-known-iot-device-vulnerabilities-84cb070f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Unit42 laid bare a Mirai botnet variant dubbed V3G4 that compromised hosts by abusing several vulnerabilities in products from DrayTek, Geutebruck, FreePBX, Atlassian, and others. The botnet infected exposed servers and networking devices running on Linux OS. Successful exploitation  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter will allow using the SMS-based two-factor authentication (2FA) only to its Blue subscribers<a href="https://securityaffairs.com/142416/security/twitter-sms-based-2fa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has announced that the platform will allow using the SMS-based two-factor authentication (2FA) only to its Blue subscribers.
+To date, Twitter has offered three methods of 2FA: text message, authentication app, and security key. However,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites backdoored with ad fraud plugin<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/wordpress-sites-backdoored-with-ad-fraud-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 50 WordPress blogs have been backdoored with a plugin called fuser-master. This plugin is being triggered via popunder traffic from a large ad network. The WordPress sites are loaded on a separate page underneath and display a number of ads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoDaddy discloses a new data breach<a href="https://securityaffairs.com/142405/data-breach/godaddy-discloses-data-breach-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoDaddy discloses a security breach, threat actors have stolen source code and installed malware on its servers in a long-runing attack.
+Web hosting company GoDaddy announced that attackers have stolen source code and installed malware on its servers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of New CatB Ransomware Variant<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CatB is a reasonably new entrant to the ransomware field, with samples only dating back to December 2022. The CatB threat actor does not offer a web portal (on TOR or otherwise) to name and shame victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
