@@ -34,6 +34,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German airport websites down in possible hacker attack<a href="https://www.dw.com/en/german-airport-websites-down-in-possible-hacker-attack/a-64724769?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the airports affected were Düsseldorf, Nüremberg, Erfurt-Weimar, and Dortmund. The websites were unreachable or flagged up failure messages. The websites of the biggest airports, in Frankfurt, Munich, and Berlin, were operating normally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Introduces New Feature to Protect Users from Zero-Click Malware Attacks<a href="https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung has announced a new feature called Message Guard that comes with safeguards to protect users from malware and spyware via what's referred to as zero-click attacks . The South Korean chaebol said the solution "preemptively" secures users' devices by "limiting exposure to invisible threats disguised as image attachments." The security feature, available on Samsung Messages and Google Messages, is currently limited to the Samsung Galaxy S23 series, with plans to expand it to other Galaxy smartphones and tablets later this year that are running on One UI 5.1 or higher. Zero-click attacks are highly-targeted and sophisticated attacks that exploit previously unknown flaws (i.e., zero-days) in software to trigger execution of malicious code without requiring any user interaction. Unlike traditional methods of remotely exploiting a device wherein threat actors rely on phishing tactics to trick a user into clicking on a malicious link or opening an rog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang hit the Portuguese municipal water utility Aguas do Porto<a href="https://securityaffairs.com/142477/cyber-crime/lockbit-water-utility-aguas-do-porto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang claims to have hacked Aguas do Porto, a Portuguese municipal water utility company.
+The LockBit ransomware gang claims to have hacked Aguas do Porto, a Portuguese municipal water utility company, and is threatening to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

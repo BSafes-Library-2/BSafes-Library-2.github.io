@@ -37,6 +37,250 @@ BSafes library includes mobile-friendly cybersecurity publications.
 February 20, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Indian Ticketing Platform RailYatri Hacked – 31 Million Impacted<a href="https://www.hackread.com/indian-ticketing-platform-railyatri-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised data includes email addresses, full names, genders, phone numbers, and locations, which could put millions of users at risk of identity theft, phishing attacks, and other cybercrimes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway Seizes $5.84 Million in Cryptocurrency Stolen by Lazarus Hackers<a href="https://thehackernews.com/2023/02/norway-seizes-584-million-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norwegian police agency Økokrim has announced the seizure of 60 million NOK (about $5.84 million) worth of cryptocurrency stolen by the Lazarus Group in March 2022 following the Axie Infinity Ronin Bridge hack. "This case shows that we also have a great capacity to follow the money on the blockchain, even if the criminals use advanced methods," the agency  said  in a statement. The development comes more than 10 months after the U.S. Treasury Department  implicated  the North Korea-backed hacking group for the theft of $620 million from the Ronin cross-chain bridge. Then in September 2022, the U.S. government  announced  the recovery of more than $30 million worth of cryptocurrency, representing 10% of the stolen funds. Økokrim said it worked with international law enforcement partners to follow and piece together the money trail, thereby making it more difficult for criminal actors to carry out money laundering activities. "This is money that can support North Kor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A sophisticated threat actor hit cryptocurrency exchange Coinbase<a href="https://securityaffairs.com/142507/cyber-crime/coinbase-smishing-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Coinbase cryptocurrency exchange was the victim of a sophisticated cyberattack, experts believe is was targeted by Twilio hackers.
+A sophisticated threat actor launched a smishing campaign against the employees of the cryptocurrency exchange Coinbase.
+According...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Ransomware Gang Hit the Portuguese Municipal Water Utility Aguas do Porto<a href="https://securityaffairs.com/142477/cyber-crime/lockbit-water-utility-aguas-do-porto.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit added the municipal water utility company to the list of victims on its Tor leak site, the deadline is March 07, 2023. CNN Portugal confirmed that the National Cybersecurity Center and the Judiciary Police are investigating the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Detect New Threats via Suspicious Activities<a href="https://thehackernews.com/2023/02/how-to-detect-new-threats-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown malware presents a significant cybersecurity threat and can cause serious damage to organizations and individuals alike. When left undetected, malicious code can gain access to confidential information, corrupt data, and allow attackers to gain control of systems. Find out how to avoid these circumstances and detect unknown malicious behavior efficiently.  Challenges of new threats' detection While known malware families are more predictable and can be detected more easily, unknown threats can take on a variety of forms, causing a bunch of challenges for their detection: Malware developers use polymorphism, which enables them to modify the malicious code to generate unique variants of the same malware.  There is malware that is still not identified and doesn't have any rulesets for detection. Some threats can be Fully UnDetectable (FUD) for some time and challenge perimeter security.  The code is often encrypted, making it difficult to detect by signature-based
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung announces Message Guard feature to neutralize zero-click attacks<a href="https://securityaffairs.com/142492/mobile-2/samsung-announces-message-guard.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung introduces a new protection feature called Message Guard to protect users from zero-click malware attacks.
+Samsung announced the implementation of a new security feature called Message Guard that aims at protecting users from malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain Orders Extradition of British Alleged Hacker to US<a href="https://www.securityweek.com/spain-orders-extradition-of-british-alleged-hacker-to-u-s/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain’s National Court has agreed to the extradition to the US of a British citizen who allegedly took part in computer attacks, including the July 2020 hacking of Twitter accounts of public figures such as Joseph Biden, Barack Obama, and Bill Gates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Reveals Alarming Surge in Russian Cyber Attacks Against Ukraine<a href="https://thehackernews.com/2023/02/google-reveals-alarming-surge-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's cyber attacks against Ukraine surged by 250% in 2022 when compared to two years ago, Google's Threat Analysis Group (TAG) and Mandiant disclosed in a new joint report. The targeting, which  coincided  and has  since persisted  following the country's military invasion of Ukraine in February 2022, focused heavily on the Ukrainian government and military entities, alongside critical infrastructure, utilities, public services, and media sectors. Mandiant  said  it observed, "more destructive cyber attacks in Ukraine during the first four months of 2022 than in the previous eight years with attacks peaking around the start of the invasion." As many as six unique wiper strains – including WhisperGate, HermeticWiper, IsaacWiper, CaddyWiper, Industroyer2, and SDelete – have been deployed against Ukrainian networks, suggesting a willingness on the part of Russian threat actors to forgo persistent access. Phishing attacks aimed at NATO countries witnessed a 3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social engineering, deception becomes increasingly sophisticated<a href="https://securityaffairs.com/142487/hacking/social-engineering-increasingly-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering techniques are becoming increasingly sophisticated and are exploiting multiple emerging means, such as deep fakes.
+The increasing use of videoconferencing platforms and the various forms of remote work also adopted in the post-emergency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Reported At Mount Pleasant Central School District<a href="https://dailyvoice.com/new-york/mountpleasant/schools/data-breach-reported-at-mount-pleasant-central-school-district/856998/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was announced by Mount Pleasant Central School District Superintendent Peter Giarrizzo on Friday, February 17, who said that several student email passwords may have been compromised by the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Group Earth Kitsune Deploys WhiskerSpy Backdoor in Latest Attacks<a href="https://thehackernews.com/2023/02/north-korean-cyber-espionage-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber espionage threat actor tracked as  Earth Kitsune  has been observed deploying a new backdoor called WhiskerSpy as part of a social engineering campaign. Earth Kitsune, active since at least 2019, is  known  to primarily target individuals interested in North Korea with self-developed malware such as dneSpy and agfSpy. Previously documented intrusions have entailed the use of watering holes that leverage browser exploits in Google Chrome and Internet Explorer to activate the infection chain. The differentiating factor in the latest attacks is a shift to social engineering to trick users into visiting compromised websites related to North Korea, according to a new report from Trend Micro released last week. The cybersecurity company said the website of an unnamed pro-North Korean organization was hacked and modified to distribute the WhiskerSpy implant. The compromise was discovered at the end of last year. "When a targeted visitor tries to watch videos on the websit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code Generator MyQRcode Leaks Users’ Login Data and Addresses<a href="https://www.hackread.com/qr-code-generator-my-qr-code-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the time of writing, the total number of impacted customers was 65,000; however, at the time of publishing this article, the number had increased to 67,000, meaning the leak is ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing scam cost small Ohio city $219,000, finance director his job<a href="https://www.usatoday.com/story/news/nation/2023/02/17/hilliard-ohio-fires-finance-director-phishing-scam/11282093002/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The author of the phishing email pretended to be an existing vendor and persuaded the finance worker in the Columbus suburb of Hilliard, Ohio, to change bank-routing information for the vendor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA and CERT-EU Warn of Chinese APTs Targeting EU Organizations<a href="https://securityaffairs.com/142452/apt/chinese-apts-targets-eu.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The joint report focus on cyber activities conducted by multiple Chinese Advanced Persistent Threat (APT) groups, including APT27, APT30, APT31, Ke3chang, GALLIUM, and Mustang Panda.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Chinese Speaking Individuals via Poisoned Google Search<a href="https://cyware.com/news/hackers-target-chinese-speaking-individuals-via-poisoned-google-search-5eef091f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at ESET unearthed a malware campaign targeting Chinese-speaking people in Southeast and East Asia. The unknown hacker group has created copycat websites of popular apps, such as Firefox, WhatsApp, and Telegram. Along with legitimate software, cyber foes also deliver FatalRAT to ta ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 German airport websites down in possible hacker attack<a href="https://www.dw.com/en/german-airport-websites-down-in-possible-hacker-attack/a-64724769?&web_view=true"> Full Text</a>
 </p>
 <details>
