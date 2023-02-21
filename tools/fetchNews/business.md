@@ -8,6 +8,35 @@ nav_order: 900027
 
 ## Business
 ---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Limits SMS-Based 2-Factor Authentication to Blue Subscribers Only<a href="https://thehackernews.com/2023/02/twitter-limits-sms-based-2-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has announced that it's limiting the use of SMS-based two-factor authentication (2FA) to its Blue subscribers. "While historically a popular form of 2FA, unfortunately we have seen phone-number based 2FA be used – and abused – by bad actors," the company&nbsp; said . "We will no longer allow accounts to enroll in the text message/SMS method of 2FA unless they are Twitter Blue subscribers." Twitter users who have not subscribed to Blue that have enrolled for SMS-based 2FA have time till March 20, 2023, to switch to an alternative method such as an authenticator app or a hardware security key. After this cutoff date, non-Twitter Blue subscribers will have their option disabled. The alternative methods "require you to have physical possession of the authentication method and are a great way to ensure your account is secure," Twitter noted. Given that SMS has been the&nbsp; least secure form of 2FA , the latest enforcement is likely to force people
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter will allow using the SMS-based two-factor authentication (2FA) only to its Blue subscribers<a href="https://securityaffairs.com/142416/security/twitter-sms-based-2fa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter has announced that the platform will allow using the SMS-based two-factor authentication (2FA) only to its Blue subscribers.
+To date, Twitter has offered&nbsp;three methods of 2FA: text message, authentication app, and security key.&nbsp;However,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

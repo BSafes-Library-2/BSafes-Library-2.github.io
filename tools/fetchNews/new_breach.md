@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Ticketing Platform RailYatri Hacked – 31 Million Impacted<a href="https://www.hackread.com/indian-ticketing-platform-railyatri-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised data includes email addresses, full names, genders, phone numbers, and locations, which could put millions of users at risk of identity theft, phishing attacks, and other cybercrimes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Reported At Mount Pleasant Central School District<a href="https://dailyvoice.com/new-york/mountpleasant/schools/data-breach-reported-at-mount-pleasant-central-school-district/856998/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was announced by Mount Pleasant Central School District Superintendent Peter Giarrizzo on Friday, February 17, who said that several student email passwords may have been compromised by the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code Generator MyQRcode Leaks Users’ Login Data and Addresses<a href="https://www.hackread.com/qr-code-generator-my-qr-code-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the time of writing, the total number of impacted customers was 65,000; however, at the time of publishing this article, the number had increased to 67,000, meaning the leak is ongoing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing scam cost small Ohio city $219,000, finance director his job<a href="https://www.usatoday.com/story/news/nation/2023/02/17/hilliard-ohio-fires-finance-director-phishing-scam/11282093002/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The author of the phishing email pretended to be an existing vendor and persuaded the finance worker in the Columbus suburb of Hilliard, Ohio, to change bank-routing information for the vendor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

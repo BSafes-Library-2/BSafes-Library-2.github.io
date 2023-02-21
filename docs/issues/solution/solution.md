@@ -8,6 +8,35 @@ nav_order: 900195
 
 ## Solution
 ---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung announces Message Guard feature to neutralize zero-click attacks<a href="https://securityaffairs.com/142492/mobile-2/samsung-announces-message-guard.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung introduces a new protection feature called&nbsp;Message Guard&nbsp;to protect users from zero-click malware attacks.
+Samsung announced the implementation of a new security feature called&nbsp;Message Guard&nbsp;that aims at protecting users from malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Introduces New Feature to Protect Users from Zero-Click Malware Attacks<a href="https://thehackernews.com/2023/02/samsung-introduces-new-feature-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung has announced a new feature called Message Guard that comes with safeguards to protect users from malware and spyware via what's referred to as zero-click attacks . The South Korean chaebol said the solution "preemptively" secures users' devices by "limiting exposure to invisible threats disguised as image attachments." The security feature, available on Samsung Messages and Google Messages, is currently limited to the Samsung Galaxy S23 series, with plans to expand it to other Galaxy smartphones and tablets later this year that are running on One UI 5.1 or higher. Zero-click attacks are highly-targeted and sophisticated attacks that exploit previously unknown flaws (i.e., zero-days) in software to trigger execution of malicious code without requiring any user interaction. Unlike traditional methods of remotely exploiting a device wherein threat actors rely on phishing tactics to trick a user into clicking on a malicious link or opening an rog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

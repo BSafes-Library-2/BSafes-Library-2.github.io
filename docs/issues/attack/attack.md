@@ -8,6 +8,93 @@ nav_order: 900015
 
 ## Attack
 ---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A sophisticated threat actor hit cryptocurrency exchange Coinbase<a href="https://securityaffairs.com/142507/cyber-crime/coinbase-smishing-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Coinbase cryptocurrency exchange was the victim of a sophisticated cyberattack, experts believe is was targeted by Twilio hackers.
+A sophisticated threat actor launched a smishing campaign against the employees of the cryptocurrency exchange Coinbase.
+According...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Ransomware Gang Hit the Portuguese Municipal Water Utility Aguas do Porto<a href="https://securityaffairs.com/142477/cyber-crime/lockbit-water-utility-aguas-do-porto.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit added the municipal water utility company to the list of victims on its Tor leak site, the deadline is March 07, 2023. CNN Portugal confirmed that the National Cybersecurity Center and the Judiciary Police are investigating the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Reveals Alarming Surge in Russian Cyber Attacks Against Ukraine<a href="https://thehackernews.com/2023/02/google-reveals-alarming-surge-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia's cyber attacks against Ukraine surged by 250% in 2022 when compared to two years ago, Google's Threat Analysis Group (TAG) and Mandiant disclosed in a new joint report. The targeting, which&nbsp; coincided &nbsp;and has&nbsp; since persisted &nbsp;following the country's military invasion of Ukraine in February 2022, focused heavily on the Ukrainian government and military entities, alongside critical infrastructure, utilities, public services, and media sectors. Mandiant&nbsp; said &nbsp;it observed, "more destructive cyber attacks in Ukraine during the first four months of 2022 than in the previous eight years with attacks peaking around the start of the invasion." As many as six unique wiper strains – including WhisperGate, HermeticWiper, IsaacWiper, CaddyWiper, Industroyer2, and SDelete – have been deployed against Ukrainian networks, suggesting a willingness on the part of Russian threat actors to forgo persistent access. Phishing attacks aimed at NATO countries witnessed a 3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Group Earth Kitsune Deploys WhiskerSpy Backdoor in Latest Attacks<a href="https://thehackernews.com/2023/02/north-korean-cyber-espionage-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber espionage threat actor tracked as&nbsp; Earth Kitsune &nbsp;has been observed deploying a new backdoor called WhiskerSpy as part of a social engineering campaign. Earth Kitsune, active since at least 2019, is&nbsp; known &nbsp;to primarily target individuals interested in North Korea with self-developed malware such as dneSpy and agfSpy. Previously documented intrusions have entailed the use of watering holes that leverage browser exploits in Google Chrome and Internet Explorer to activate the infection chain. The differentiating factor in the latest attacks is a shift to social engineering to trick users into visiting compromised websites related to North Korea, according to a new report from Trend Micro released last week. The cybersecurity company said the website of an unnamed pro-North Korean organization was hacked and modified to distribute the WhiskerSpy implant. The compromise was discovered at the end of last year. "When a targeted visitor tries to watch videos on the websit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Chinese Speaking Individuals via Poisoned Google Search<a href="https://cyware.com/news/hackers-target-chinese-speaking-individuals-via-poisoned-google-search-5eef091f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts at ESET unearthed a malware campaign targeting Chinese-speaking people in Southeast and East Asia. The unknown hacker group has created copycat websites of popular apps, such as Firefox, WhatsApp, and Telegram. Along with legitimate software, cyber foes also deliver FatalRAT to ta ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware gang hit the Portuguese municipal water utility Aguas do Porto<a href="https://securityaffairs.com/142477/cyber-crime/lockbit-water-utility-aguas-do-porto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang claims to have hacked Aguas do Porto, a Portuguese municipal water utility company.
+The LockBit ransomware gang claims to have hacked Aguas do Porto, a Portuguese municipal water utility company, and is threatening to leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

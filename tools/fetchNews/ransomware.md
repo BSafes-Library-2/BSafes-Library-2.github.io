@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis of New CatB Ransomware Variant<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-catb-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CatB is a reasonably new entrant to the ransomware field, with samples only dating back to December 2022. The CatB threat actor does not offer a web portal (on TOR or otherwise) to name and shame victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway Seizes $5.84 Million in Cryptocurrency Stolen by Lazarus Hackers<a href="https://thehackernews.com/2023/02/norway-seizes-584-million-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norwegian police agency Økokrim has announced the seizure of 60 million NOK (about $5.84 million) worth of cryptocurrency stolen by the Lazarus Group in March 2022 following the Axie Infinity Ronin Bridge hack. "This case shows that we also have a great capacity to follow the money on the blockchain, even if the criminals use advanced methods," the agency&nbsp; said &nbsp;in a statement. The development comes more than 10 months after the U.S. Treasury Department&nbsp; implicated &nbsp;the North Korea-backed hacking group for the theft of $620 million from the Ronin cross-chain bridge. Then in September 2022, the U.S. government&nbsp; announced &nbsp;the recovery of more than $30 million worth of cryptocurrency, representing 10% of the stolen funds. Økokrim said it worked with international law enforcement partners to follow and piece together the money trail, thereby making it more difficult for criminal actors to carry out money laundering activities. "This is money that can support North Kor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain Orders Extradition of British Alleged Hacker to US<a href="https://www.securityweek.com/spain-orders-extradition-of-british-alleged-hacker-to-u-s/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spain’s National Court has agreed to the extradition to the US of a British citizen who allegedly took part in computer attacks, including the July 2020 hacking of Twitter accounts of public figures such as Joseph Biden, Barack Obama, and Bill Gates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

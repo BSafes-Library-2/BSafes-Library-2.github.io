@@ -8,6 +8,35 @@ nav_order: 900053
 
 ## Education
 ---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Detect New Threats via Suspicious Activities<a href="https://thehackernews.com/2023/02/how-to-detect-new-threats-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown malware presents a significant cybersecurity threat and can cause serious damage to organizations and individuals alike. When left undetected, malicious code can gain access to confidential information, corrupt data, and allow attackers to gain control of systems. Find out how to avoid these circumstances and detect unknown malicious behavior efficiently.&nbsp; Challenges of new threats' detection While known malware families are more predictable and can be detected more easily, unknown threats can take on a variety of forms, causing a bunch of challenges for their detection: Malware developers use polymorphism, which enables them to modify the malicious code to generate unique variants of the same malware.&nbsp; There is malware that is still not identified and doesn't have any rulesets for detection. Some threats can be Fully UnDetectable (FUD) for some time and challenge perimeter security.&nbsp; The code is often encrypted, making it difficult to detect by signature-based
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social engineering, deception becomes increasingly sophisticated<a href="https://securityaffairs.com/142487/hacking/social-engineering-increasingly-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social engineering techniques are becoming increasingly sophisticated and are exploiting multiple emerging means, such as deep fakes.
+The increasing use of videoconferencing platforms and the various forms of remote work also adopted in the post-emergency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
