@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Updates Advisories as Security Firm Discloses New Class of Vulnerabilities<a href="https://www.securityweek.com/apple-updates-advisories-as-security-firm-discloses-new-class-of-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix published a blog post on Tuesday to describe these flaws, which the firm says are part of a new class of bugs that can allow attackers to bypass code signing on macOS and iOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyloBot Botnet Spreading Rapidly Worldwide: Infecting Over 50,000 Devices Daily<a href="https://thehackernews.com/2023/02/mylobot-botnet-spreading-rapidly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated botnet known as MyloBot has compromised thousands of systems, with most of them located in India, the U.S., Indonesia, and Iran. That's according to new findings from BitSight, which  said  it's "currently seeing more than 50,000 unique infected systems every day," down from a high of 250,000 unique hosts in 2020. Furthermore, an analysis of MyloBot's infrastructure has found connections to a residential proxy service called BHProxies, indicating that the compromised machines are being used by the latter. MyloBot, which emerged on the threat landscape in 2017, was  first documented  by Deep Instinct in 2018, calling out its anti-analysis techniques and its ability to function as a downloader. "What makes Mylobot dangerous is its ability to download and execute any type of payload after it infects a host," Lumen's Black Lotus Labs  said  in November 2018. "This means at any time it could download any other type of malware th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC exploit code for critical Fortinet FortiNAC bug released online<a href="https://securityaffairs.com/142553/hacking/poc-exploit-code-fortinet-fortinac.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers released a proof-of-concept exploit code for the critical CVE-2022-39952 vulnerability in the Fortinet FortiNAC network access control solution.
+Researchers at Horizon3 cybersecurity firm have released a proof-of-concept exploit for a critical-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scrut Automation Raises $7.5 Million for GRC Platform<a href="https://www.securityweek.com/scrut-automation-raises-7-5-million-for-grc-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India-based Scrut Automation has announced raising $7.5 million in a new funding round that will help the company improve its governance, risk, and compliance (GRC) automation platform and expand its presence in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Future of Network Security: Predictive Analytics and ML-Driven Solutions<a href="https://thehackernews.com/2023/02/the-future-of-network-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the digital age evolves and continues to shape the business landscape, corporate networks have become increasingly complex and distributed. The amount of data a company collects to detect malicious behaviour constantly increases, making it challenging to detect deceptive and unknown attack patterns and the so-called "needle in the haystack". With a growing number of cybersecurity threats, such as data breaches, ransomware attacks, and malicious insiders, organizations are facing significant challenges in successfully monitoring and securing their networks. Furthermore, the talent shortage in the field of cybersecurity makes manual threat hunting and log correlation a cumbersome and difficult task. To address these challenges, organizations are turning to predictive analytics and Machine Learning (ML) driven network security solutions as essential tools for securing their networks against cyber threats and the unknown bad. The Role of ML-Driven Network Security Solutions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HardBit ransomware gang adjusts their demands so the insurance company would cover the ransom cost<a href="https://securityaffairs.com/142538/cyber-crime/hardbit-ransomware-insurance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently emerged HardBit ransomware gang adjusts their demands so the insurance company would cover the ransom cost.
+The HardBit ransomware group first appeared on the threat landscape in October 2022, but unlike other ransomware operations, it doesn't...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Scored Corporate Giants’ Logins for Asian Data Centers<a href="https://finance.yahoo.com/news/hackers-scored-data-center-logins-020028440.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information included credentials in varying numbers for some of the world’s biggest companies, including Alibaba Group, Amazon, Apple, BMW AG, Goldman Sachs Group, Huawei Technologies, Microsoft, and Walmart, according to Resecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Numerous Samples of Information Stealer 'Stealc' in the Wild<a href="https://thehackernews.com/2023/02/researchers-discover-dozens-samples-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information stealer called  Stealc  that's being advertised on the dark web could emerge as a worthy competitor to other malware of its ilk. "The threat actor presents Stealc as a fully featured and ready-to-use stealer, whose development relied on  Vidar ,  Raccoon ,  Mars , and  RedLine  stealers," SEKOIA  said  in a Monday report. The French cybersecurity company said it  discovered   more than   40 Stealc samples  distributed in the wild and 35 active command-and-control (C2) servers, suggesting that the malware is already gaining traction among criminal groups. Stealc, first marketed by an actor named Plymouth on the XSS and BHF Russian-speaking underground forums on January 9, 2023, is written in C and comes with capabilities to steal data from web browsers, crypto wallets, email clients, and messaging apps. The malware-as-a-service (MaaS) also boasts of a "customizable" file grabber that allows its buyers to tailor the module to siphon files o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resecurity warns about cyber-attacks on data center service providers<a href="https://securityaffairs.com/142531/hacking/attacks-data-center-service-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity warns about the increase of malicious cyber activity targeting data center service providers globally.
+According to the detailed report recently released by the California-based cybersecurity company, during September 2021, Resecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNA Diagnostic Center fined $400,000 for 2021 data breach<a href="https://www.csoonline.com/article/3688728/dna-diagnostic-center-fined-400-000-for-2021-data-breach.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DNA testing company will pay a penalty of $400,000 to the attorneys general of Pennsylvania and Ohio for a data breach in 2021 that affected 2.1 million individuals nationwide, according to a settlement deal with the states’ attorneys general.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase Employee Falls for SMS Scam in Cyber Attack, Limited Data Exposed<a href="https://thehackernews.com/2023/02/coinbase-employee-falls-for-sms-scam-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular cryptocurrency exchange platform Coinbase disclosed that it experienced a cybersecurity attack that targeted its employees. The company  said  its "cyber controls prevented the attacker from gaining direct system access and prevented any loss of funds or compromise of customer information." The incident, which took place on February 5, 2023, resulted in the exposure of a "limited amount of data" from its directory, including employee names, e-mail addresses, and some phone numbers. As part of the attack, several employees were targeted in an SMS phishing campaign urging them to sign in to their company accounts to read an important message. One employee is said to have fallen for the scam, who entered their username and password in a fake login page set up by the threat actors to harvest the credentials. "After 'logging in,' the employee is prompted to disregard the message and thanked for complying," the company said. "What hap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealc, a new advanced infostealer appears in the threat landscape<a href="https://securityaffairs.com/142516/malware/stealc-advanced-infostealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new information stealer, called Stealc, which supports a wide set of stealing capabilities.
+In January 2023, researchers at SEKOIA.IO discovered a new information stealer, dubbed Stealc, which was advertised in the dark web forums....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Identified Earth Yako APT Observed Targeting Japanese Entities<a href="https://cyware.com/news/newly-identified-earth-yako-apt-observed-targeting-japanese-entities-2b609c3f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro experts observed several targeted attacks against researchers of academic organizations and think tanks in Japan and attributed the campaign to Earth Yako. Previous to this, Earth Yako APT group has been abusing legitimate services such as Dropbox, GitHub, and Protonmail to expand its c ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of ReverseRAT Backdoor Targeting Indian Government Agencies<a href="https://thehackernews.com/2023/02/researchers-warn-of-reverserat-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spear-phishing campaign targeting Indian government entities aims to deploy an updated version of a backdoor called ReverseRAT . Cybersecurity firm ThreatMon  attributed  the activity to a threat actor tracked as  SideCopy . SideCopy is a threat group of Pakistani origin that shares overlaps with another actor called  Transparent Tribe . It is so named for mimicking the infection chains associated with  SideWinder  to deliver its own malware. The adversarial crew was first observed delivering ReverseRAT in 2021, when Lumen's Black Lotus Labs  detailed  a set of attacks targeting victims aligned with the government and power utility verticals in India and Afghanistan. Recent attack campaigns associated with SideCopy have primarily  set their sights  on a two-factor authentication solution known as Kavach (meaning "armor" in Hindi) that's used by Indian government officials. The infection journey documented by ThreatMon commences with a phishing email containi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT is bringing advancements and challenges for cybersecurity<a href="https://www.helpnetsecurity.com/2023/02/21/chatgpt-cybersecurity-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT is a gold mine of insight that removes much of the work involved in research and problem-solving by enabling users to access the entire corpus of the public internet with just one set of instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Complexity, volume of cyber attacks lead to burnout in security teams<a href="https://www.helpnetsecurity.com/2023/02/21/dfir-teams-burnout/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rapid evolution of cybercrime is weighing on security teams substantially more than it did last year, leading to widespread burnout and potential regulatory risk, according to Magnet Forensics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HardBit 2.0 Engages in Clever Ransom Negotiation Based on Cyber Insurance Coverage<a href="https://www.varonis.com/blog/hardbit-2.0-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seemingly improving upon their initial release, HardBit version 2.0 was introduced toward the end of November 2022, with samples seen throughout the end of 2022 and into 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
