@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Updates Advisories as Security Firm Discloses New Class of Vulnerabilities<a href="https://www.securityweek.com/apple-updates-advisories-as-security-firm-discloses-new-class-of-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix published a blog post on Tuesday to describe these flaws, which the firm says are part of a new class of bugs that can allow attackers to bypass code signing on macOS and iOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

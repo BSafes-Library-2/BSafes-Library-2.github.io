@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German airport websites down in possible hacker attack<a href="https://www.dw.com/en/german-airport-websites-down-in-possible-hacker-attack/a-64724769?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the airports affected were Düsseldorf, Nüremberg, Erfurt-Weimar, and Dortmund. The websites were unreachable or flagged up failure messages. The websites of the biggest airports, in Frankfurt, Munich, and Berlin, were operating normally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

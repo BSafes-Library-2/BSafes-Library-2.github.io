@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MyloBot Botnet Spreading Rapidly Worldwide: Infecting Over 50,000 Devices Daily<a href="https://thehackernews.com/2023/02/mylobot-botnet-spreading-rapidly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated botnet known as MyloBot has compromised thousands of systems, with most of them located in India, the U.S., Indonesia, and Iran. That's according to new findings from BitSight, which&nbsp; said &nbsp;it's "currently seeing more than 50,000 unique infected systems every day," down from a high of 250,000 unique hosts in 2020. Furthermore, an analysis of MyloBot's infrastructure has found connections to a residential proxy service called BHProxies, indicating that the compromised machines are being used by the latter. MyloBot, which emerged on the threat landscape in 2017, was&nbsp; first documented &nbsp;by Deep Instinct in 2018, calling out its anti-analysis techniques and its ability to function as a downloader. "What makes Mylobot dangerous is its ability to download and execute any type of payload after it infects a host," Lumen's Black Lotus Labs&nbsp; said &nbsp;in November 2018. "This means at any time it could download any other type of malware th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Identified Earth Yako APT Observed Targeting Japanese Entities<a href="https://cyware.com/news/newly-identified-earth-yako-apt-observed-targeting-japanese-entities-2b609c3f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro experts observed several targeted attacks against researchers of academic organizations and think tanks in Japan and attributed the campaign to Earth Yako. Previous to this, Earth Yako APT group has been abusing legitimate services such as Dropbox, GitHub, and Protonmail to expand its c ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

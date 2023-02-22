@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scrut Automation Raises $7.5 Million for GRC Platform<a href="https://www.securityweek.com/scrut-automation-raises-7-5-million-for-grc-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India-based Scrut Automation has announced raising $7.5 million in a new funding round that will help the company improve its governance, risk, and compliance (GRC) automation platform and expand its presence in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

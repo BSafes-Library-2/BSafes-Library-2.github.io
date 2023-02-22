@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNA Diagnostic Center fined $400,000 for 2021 data breach<a href="https://www.csoonline.com/article/3688728/dna-diagnostic-center-fined-400-000-for-2021-data-breach.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DNA testing company will pay a penalty of $400,000 to the attorneys general of Pennsylvania and Ohio for a data breach in 2021 that affected 2.1 million individuals nationwide, according to a settlement deal with the states’ attorneys general.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

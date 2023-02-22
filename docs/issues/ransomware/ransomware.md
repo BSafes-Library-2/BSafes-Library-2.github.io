@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HardBit 2.0 Engages in Clever Ransom Negotiation Based on Cyber Insurance Coverage<a href="https://www.varonis.com/blog/hardbit-2.0-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seemingly improving upon their initial release, HardBit version 2.0 was introduced toward the end of November 2022, with samples seen throughout the end of 2022 and into 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

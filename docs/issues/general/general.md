@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resecurity warns about cyber-attacks on data center service providers<a href="https://securityaffairs.com/142531/hacking/attacks-data-center-service-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity warns about the increase of malicious cyber activity targeting data center service providers globally.
+According to the detailed report recently released by the California-based cybersecurity company, during September 2021, Resecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT is bringing advancements and challenges for cybersecurity<a href="https://www.helpnetsecurity.com/2023/02/21/chatgpt-cybersecurity-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT is a gold mine of insight that removes much of the work involved in research and problem-solving by enabling users to access the entire corpus of the public internet with just one set of instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Complexity, volume of cyber attacks lead to burnout in security teams<a href="https://www.helpnetsecurity.com/2023/02/21/dfir-teams-burnout/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rapid evolution of cybercrime is weighing on security teams substantially more than it did last year, leading to widespread burnout and potential regulatory risk, according to Magnet Forensics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

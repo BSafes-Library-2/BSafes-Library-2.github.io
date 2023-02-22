@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Scored Corporate Giants’ Logins for Asian Data Centers<a href="https://finance.yahoo.com/news/hackers-scored-data-center-logins-020028440.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information included credentials in varying numbers for some of the world’s biggest companies, including Alibaba Group, Amazon, Apple, BMW AG, Goldman Sachs Group, Huawei Technologies, Microsoft, and Walmart, according to Resecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinbase Employee Falls for SMS Scam in Cyber Attack, Limited Data Exposed<a href="https://thehackernews.com/2023/02/coinbase-employee-falls-for-sms-scam-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular cryptocurrency exchange platform Coinbase disclosed that it experienced a cybersecurity attack that targeted its employees. The company&nbsp; said &nbsp;its "cyber controls prevented the attacker from gaining direct system access and prevented any loss of funds or compromise of customer information." The incident, which took place on February 5, 2023, resulted in the exposure of a "limited amount of data" from its directory, including employee names, e-mail addresses, and some phone numbers. As part of the attack, several employees were targeted in an SMS phishing campaign urging them to sign in to their company accounts to read an important message. One employee is said to have fallen for the scam, who entered their username and password in a fake login page set up by the threat actors to harvest the credentials. "After 'logging in,' the employee is prompted to disregard the message and thanked for complying," the company said. "What hap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
