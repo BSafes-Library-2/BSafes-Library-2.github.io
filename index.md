@@ -34,6 +34,348 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Kitsun Return to Target Selected Entities in China and Japan<a href="https://cyware.com/news/earth-kitsun-return-to-target-selected-entities-in-china-and-japan-dfb0538f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro reported about a new threat actor that would drop a new backdoor dubbed WhiskerSpy. The cybercriminal group, tracked as Earth Kitsune, is a relatively new threat group that conducts watering hole attacks. The malware is delivered to users when they attempt to watch videos on attacker-co ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Warns of 3 New Vulnerabilities Affecting iPhone, iPad, and Mac Devices<a href="https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has revised the  security advisories  it released last month to include three new vulnerabilities impacting  iOS, iPadOS , and  macOS . The first flaw is a  race condition  in the Crash Reporter component (CVE-2023-23520) that could enable a malicious actor to read arbitrary files as root. The iPhone maker said it addressed the issue with additional validation. The two other vulnerabilities, credited to Trellix researcher Austin Emmitt, reside in the  Foundation framework  (CVE-2023-23530 and CVE-2023-23531) and could be weaponized to achieve code execution. "An app may be able to execute arbitrary code out of its sandbox or with certain elevated privileges," Apple said, adding it patched the issues with "improved memory handling." The medium to high-severity vulnerabilities have been patched in iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 that were shipped on January 23, 2023. Trellix, in its own report on Tuesday,  classified  the two flaws as a &qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The number of devices infected by the MyloBot botnet is rapidly increasing<a href="https://securityaffairs.com/142591/malware/mylobot-botnet-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the MyloBot botnet is rapidly spreading and it is infecting thousands of systems worldwide.
+The MyloBot botnet has been active since 2017 and was first detailed by cybersecurity firm Deep Instinct in 2018. MyloBot is a highly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Ran Amok Across GoDaddy for Three Years<a href="https://cyware.com/news/hackers-ran-amok-across-godaddy-for-three-years-593339da"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet domain registrar GoDaddy revealed that it has been the victim of a three-year-long campaign that deployed malware on internal systems and pilfered source code. Experts detected that an unauthorized third party had gained access to the company's cPanel hosting servers and installed malware. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Flood NPM Repository with Over 15,000 Spam Packages Containing Phishing Links<a href="https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a continuing assault on the open source ecosystem,  over 15,000 spam packages  have flooded the npm repository in an attempt to distribute phishing links. "The packages were created using automated processes, with project descriptions and auto-generated names that closely resembled one another," Checkmarx researcher Yehuda Gelb  said  in a Tuesday report. "The attackers referred to retail websites using referral IDs, thus profiting from the referral rewards they earned." The modus operandi involves poisoning the registry with rogue packages that include links to phishing campaigns in their README.md files, evocative of a  similar campaign  the software supply chain security firm exposed in December 2022. The fake modules masqueraded as cheats and free resources, with some packages named as "free-tiktok-followers," "free-xbox-codes," and "instagram-followers-free." The ultimate goal of the operation is to entice user
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found a large new class of bugs ‘class’ in Apple devices<a href="https://securityaffairs.com/142581/security/apple-three-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Apple discloses three new vulnerabilities affecting its iOS, iPadOS, and macOS operating systems.
+Apple updated its advisories by adding three new vulnerabilities, tracked as CVE-2023-23520, CVE-2023-23530 and CVE-2023-23531,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+R1Soft Server Backup Manager Vulnerability Exploited to Deploy Backdoor<a href="https://www.securityweek.com/r1soft-server-backup-manager-vulnerability-exploited-to-deploy-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During a recent incident response case, Fox-IT found evidence that the R1Soft vulnerability was exploited to gain initial access to a server. The attackers then deployed a malicious database driver that gave them backdoor access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Steps to Automate Your Third-Party Risk Management Program<a href="https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you Google "third-party data breaches" you will find many recent reports of data breaches that were either caused by an attack at a third party or sensitive information stored at a third-party location was exposed. Third-party data breaches don't discriminate by industry because almost every company is operating with some sort of vendor relationship – whether it be a business partner, contractor or reseller, or the use of IT software or platform, or another service provider. Organizations are now sharing data with an average of 730 third-party vendors, according to a  report by Osano , and with the acceleration of digital transformation, that number will only grow. The Importance of Third-Party Risk Management With more organizations sharing data with more third-party vendors, it shouldn't be surprising that more than 50% of security incidents in the past two years have stemmed from a third-party with access privileges, according to a  CyberRisk Alliance report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds IBM Aspera Faspex and Mitel MiVoice to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142574/security/known-exploited-vulnerabilities-catalog-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in IBM Aspera Faspex and Mitel MiVoice to its Known Exploited Vulnerabilities Catalog.
+US CISA added the following actively exploited flaws to its Known Exploited Vulnerabilities Catalog:
+CVE-2022-47986 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive into the Evolution of Ransomware Part 1<a href="https://www.trendmicro.com/en_us/research/23/b/ransomware-evolution-part-1.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware extortion tactics range from publishing data bit by bit in an attempt to increase pressure on targets through more aggressive measures, making these threats all the harder for organizations and individuals alike to protect against.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydrochasma: New Threat Actor Targets Shipping Companies and Medical Labs in Asia<a href="https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shipping companies and medical laboratories in Asia have been the subject of a suspected espionage campaign carried out by a never-before-seen threat actor dubbed Hydrochasma . The activity, which has been ongoing since October 2022, "relies exclusively on publicly available and living-off-the-land tools," Symantec, by Broadcom Software,  said  in a report shared with The Hacker News. There is no evidence available as yet to determine its origin or affiliation with known threat actors, but the cybersecurity company said the group may be having an interest in industry verticals that are involved in COVID-19-related treatments or vaccines. The standout aspects of the campaign is the absence of data exfiltration and custom malware, with the threat actor employing open source tools for intelligence gathering. By using already available tools, the goal, it appears, is to not only confuse attribution efforts, but also to make the attacks stealthier. The start of the infection
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed a critical bug in Carbon Black App Control<a href="https://securityaffairs.com/142565/security/vmware-carbon-black-app-control-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security updates to address a critical vulnerability, tracked as CVE-2023-20858, in the Carbon Black App Control product.
+VMware addressed a critical injection vulnerability, tracked as (CVSSv3 score 9.1), Carbon Black App Control....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Direct Kernel Object Manipulation (DKOM) Attacks on ETW Providers<a href="https://securityintelligence.com/posts/direct-kernel-object-manipulation-attacks-etw-providers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ETW is a high-speed tracing facility built into the Windows operating system. It enables the logging of events and system activities by applications, drivers, and the operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Adopt Havoc Framework for Post-Exploitation in Targeted Attacks<a href="https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An open source command-and-control (C2) framework known as Havoc is being adopted by threat actors as an alternative to other well-known legitimate toolkits like  Cobalt Strike ,  Sliver , and  Brute Ratel . Cybersecurity firm Zscaler said it observed a new campaign in the beginning of January 2023 targeting an unnamed government organization that utilized  Havoc . "While C2 frameworks are prolific, the open-source Havoc framework is an advanced post-exploitation command-and-control framework capable of bypassing the most current and updated version of Windows 11 defender due to the implementation of advanced evasion techniques such as indirect syscalls and sleep obfuscation," researchers Niraj Shivtarkar and Niraj Shivtarkar  said . The attack sequence documented by Zscaler begins with a ZIP archive that embeds a decoy document and a screen-saver file that's designed to download and launch the Havoc Demon agent on the infected host. Demon is the implant generated v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accidental WhatsApp account takeovers? It's a thing<a href="https://www.theregister.com/2023/02/21/accidental_whatsapp_account_takeover/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stranger may be receiving your private WhatsApp messages, and also be able to send messages to all of your contacts – if you have changed your phone number and didn't delete the WhatsApp account linked to it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gcore Thwarts Massive 650 Gbps DDoS Attack on Free Plan Client<a href="https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the beginning of January, Gcore faced an incident involving several L3/L4 DDoS attacks with a peak volume of 650 Gbps. Attackers exploited over 2000 servers belonging to one of the top three cloud providers worldwide and targeted a client who was using a free CDN plan. However, due to Gcore's distribution of infrastructure and a large number of peering partners, the attacks were mitigated, and the client's web application remained available. Why was mitigating these attacks so significant? 1. These attacks were significant because they exceeded the average bandwidth of similar attacks by 60×.  The performed attacks relate to volume-based attacks targeted to saturate the attacked application's bandwidth in order to overflow it. Measuring total volume (bps)—rather than the number of requests—is the way these attacks are usually tabulated. The average bandwidth of this attack type is generally in the tens of Gbps (about 10 Gbps). Therefore, the specified attacks (at 650 Gbps) excee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multilingual Skimmer Fingerprints 'Secret Shoppers' via Cloudflare Endpoint API<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/multilingual-skimmer-fingerprints-users-via-cloudflare-endpoint-api?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The skimmer uses iframes that are loaded if the current page is the checkout and if the browser's local storage does not include a font item (this is equivalent to using cookies to detect returning visitors).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog<a href="https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday  added  three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The list of shortcomings is as follows - CVE-2022-47986  (CVSS score: 9.8) - IBM Aspera Faspex Code Execution Vulnerability CVE-2022-41223  (CVSS score: 6.8) - Mitel MiVoice Connect Code Injection Vulnerability CVE-2022-40765  (CVSS score: 6.8) - Mitel MiVoice Connect Command Injection Vulnerability CVE-2022-47986 is described as a YAML deserialization flaw in the file transfer solution that could allow a remote attacker to execute code on the system. Details of the flaw and a proof-of-concept (PoC) were  shared  by Assetnote on February 2, a day after which the Shadowserver Foundation  said  it "picked up exploitation attempts" in the wild. The active exploitation of the Aspera Faspex flaw comes shortly after a vulnerability in Fortra's GoAnywhere MFT-managed fil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entitle Nabs $15M Seed Funding for Cloud Permissions Management Tech<a href="https://www.securityweek.com/entitle-nabs-15m-seed-funding-for-cloud-permissions-management-tech/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli security startup has attracted $15 million in early-stage venture capital funding from Glilot Capital Partners to build technology to address entitlement sprawl in the enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Critical Vulnerability in Carbon Black App Control Product<a href="https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday released patches to address a critical security vulnerability affecting its Carbon Black App Control product. Tracked as  CVE-2023-20858 , the shortcoming carries a CVSS score of 9.1 out of a maximum of 10 and impacts App Control versions 8.7.x, 8.8.x, and 8.9.x. The virtualization services provider describes the issue as an injection vulnerability. Security researcher Jari Jääskelä has been credited with discovering and reporting the bug. "A malicious actor with privileged access to the App Control administration console may be able to use specially crafted input allowing access to the underlying server operating system," the company  said  in an advisory. VMware said there are no workarounds that resolve the flaw, necessitating that customers update to versions 8.7.8, 8.8.6, and 8.9.4 to mitigate potential risks. It's worth pointing out that Jääskelä was also credited with reporting two critical vulnerabilities in the same product ( CVE-2022-229
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bypassing Akamai’s Web Application Firewall Using an Injected Content-Encoding Header<a href="https://securityboulevard.com/2023/02/bypassing-akamais-web-application-firewall-using-an-injected-content-encoding-header/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During a recent customer pilot, Praetorian researchers 
+identified an interesting method to bypass the cross-site scripting (XSS) filtering functionality within the Akamai Web Application Firewall (WAF) solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
