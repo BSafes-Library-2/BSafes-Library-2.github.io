@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entitle Nabs $15M Seed Funding for Cloud Permissions Management Tech<a href="https://www.securityweek.com/entitle-nabs-15m-seed-funding-for-cloud-permissions-management-tech/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli security startup has attracted $15 million in early-stage venture capital funding from Glilot Capital Partners to build technology to address entitlement sprawl in the enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

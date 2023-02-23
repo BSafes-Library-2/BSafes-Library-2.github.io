@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Kitsun Return to Target Selected Entities in China and Japan<a href="https://cyware.com/news/earth-kitsun-return-to-target-selected-entities-in-china-and-japan-dfb0538f"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Warns of 3 New Vulnerabilities Affecting iPhone, iPad, and Mac Devices<a href="https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The number of devices infected by the MyloBot botnet is rapidly increasing<a href="https://securityaffairs.com/142591/malware/mylobot-botnet-evolution.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Ran Amok Across GoDaddy for Three Years<a href="https://cyware.com/news/hackers-ran-amok-across-godaddy-for-three-years-593339da"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Flood NPM Repository with Over 15,000 Spam Packages Containing Phishing Links<a href="https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found a large new class of bugs ‘class’ in Apple devices<a href="https://securityaffairs.com/142581/security/apple-three-vulnerabilities.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 R1Soft Server Backup Manager Vulnerability Exploited to Deploy Backdoor<a href="https://www.securityweek.com/r1soft-server-backup-manager-vulnerability-exploited-to-deploy-backdoor/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Steps to Automate Your Third-Party Risk Management Program<a href="https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds IBM Aspera Faspex and Mitel MiVoice to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142574/security/known-exploited-vulnerabilities-catalog-bugs.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Deep Dive into the Evolution of Ransomware Part 1<a href="https://www.trendmicro.com/en_us/research/23/b/ransomware-evolution-part-1.html?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hydrochasma: New Threat Actor Targets Shipping Companies and Medical Labs in Asia<a href="https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed a critical bug in Carbon Black App Control<a href="https://securityaffairs.com/142565/security/vmware-carbon-black-app-control-bug.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Direct Kernel Object Manipulation (DKOM) Attacks on ETW Providers<a href="https://securityintelligence.com/posts/direct-kernel-object-manipulation-attacks-etw-providers/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Adopt Havoc Framework for Post-Exploitation in Targeted Attacks<a href="https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accidental WhatsApp account takeovers? It's a thing<a href="https://www.theregister.com/2023/02/21/accidental_whatsapp_account_takeover/?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gcore Thwarts Massive 650 Gbps DDoS Attack on Free Plan Client<a href="https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multilingual Skimmer Fingerprints 'Secret Shoppers' via Cloudflare Endpoint API<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/multilingual-skimmer-fingerprints-users-via-cloudflare-endpoint-api?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog<a href="https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Entitle Nabs $15M Seed Funding for Cloud Permissions Management Tech<a href="https://www.securityweek.com/entitle-nabs-15m-seed-funding-for-cloud-permissions-management-tech/?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Critical Vulnerability in Carbon Black App Control Product<a href="https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html"> Full Text</a>
@@ -359,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bypassing Akamai’s Web Application Firewall Using an Injected Content-Encoding Header<a href="https://securityboulevard.com/2023/02/bypassing-akamais-web-application-firewall-using-an-injected-content-encoding-header/?&web_view=true"> Full Text</a>

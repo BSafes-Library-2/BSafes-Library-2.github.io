@@ -8,6 +8,93 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Warns of 3 New Vulnerabilities Affecting iPhone, iPad, and Mac Devices<a href="https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has revised the&nbsp; security advisories &nbsp;it released last month to include three new vulnerabilities impacting&nbsp; iOS, iPadOS , and&nbsp; macOS . The first flaw is a&nbsp; race condition &nbsp;in the Crash Reporter component (CVE-2023-23520) that could enable a malicious actor to read arbitrary files as root. The iPhone maker said it addressed the issue with additional validation. The two other vulnerabilities, credited to Trellix researcher Austin Emmitt, reside in the&nbsp; Foundation framework &nbsp;(CVE-2023-23530 and CVE-2023-23531) and could be weaponized to achieve code execution. "An app may be able to execute arbitrary code out of its sandbox or with certain elevated privileges," Apple said, adding it patched the issues with "improved memory handling." The medium to high-severity vulnerabilities have been patched in iOS 16.3, iPadOS 16.3, and macOS Ventura 13.2 that were shipped on January 23, 2023. Trellix, in its own report on Tuesday,&nbsp; classified &nbsp;the two flaws as a &amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found a large new class of bugs ‘class’ in Apple devices<a href="https://securityaffairs.com/142581/security/apple-three-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tech giant Apple discloses three new vulnerabilities affecting&nbsp;its iOS, iPadOS, and&nbsp;macOS operating systems.
+Apple updated its&nbsp;advisories&nbsp;by adding three new vulnerabilities, tracked as CVE-2023-23520, CVE-2023-23530 and CVE-2023-23531,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+R1Soft Server Backup Manager Vulnerability Exploited to Deploy Backdoor<a href="https://www.securityweek.com/r1soft-server-backup-manager-vulnerability-exploited-to-deploy-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During a recent incident response case, Fox-IT found evidence that the R1Soft vulnerability was exploited to gain initial access to a server. The attackers then deployed a malicious database driver that gave them backdoor access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed a critical bug in Carbon Black App Control<a href="https://securityaffairs.com/142565/security/vmware-carbon-black-app-control-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware released security updates to address a critical vulnerability, tracked as CVE-2023-20858, in the Carbon Black App Control product.
+VMware addressed a critical injection vulnerability, tracked as (CVSSv3 score 9.1), Carbon Black App Control....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Critical Vulnerability in Carbon Black App Control Product<a href="https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware on Tuesday released patches to address a critical security vulnerability affecting its Carbon Black App Control product. Tracked as&nbsp; CVE-2023-20858 , the shortcoming carries a CVSS score of 9.1 out of a maximum of 10 and impacts App Control versions 8.7.x, 8.8.x, and 8.9.x. The virtualization services provider describes the issue as an injection vulnerability. Security researcher Jari Jääskelä has been credited with discovering and reporting the bug. "A malicious actor with privileged access to the App Control administration console may be able to use specially crafted input allowing access to the underlying server operating system," the company&nbsp; said &nbsp;in an advisory. VMware said there are no workarounds that resolve the flaw, necessitating that customers update to versions 8.7.8, 8.8.6, and 8.9.4 to mitigate potential risks. It's worth pointing out that Jääskelä was also credited with reporting two critical vulnerabilities in the same product ( CVE-2022-229
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bypassing Akamai’s Web Application Firewall Using an Injected Content-Encoding Header<a href="https://securityboulevard.com/2023/02/bypassing-akamais-web-application-firewall-using-an-injected-content-encoding-header/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During a recent customer pilot, Praetorian researchers 
+identified an interesting method to bypass the cross-site scripting (XSS) filtering functionality within the Akamai Web Application Firewall (WAF) solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

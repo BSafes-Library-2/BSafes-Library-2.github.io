@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Flood NPM Repository with Over 15,000 Spam Packages Containing Phishing Links<a href="https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a continuing assault on the open source ecosystem,&nbsp; over 15,000 spam packages &nbsp;have flooded the npm repository in an attempt to distribute phishing links. "The packages were created using automated processes, with project descriptions and auto-generated names that closely resembled one another," Checkmarx researcher Yehuda Gelb&nbsp; said &nbsp;in a Tuesday report. "The attackers referred to retail websites using referral IDs, thus profiting from the referral rewards they earned." The modus operandi involves poisoning the registry with rogue packages that include links to phishing campaigns in their README.md files, evocative of a&nbsp; similar campaign &nbsp;the software supply chain security firm exposed in December 2022. The fake modules masqueraded as cheats and free resources, with some packages named as "free-tiktok-followers," "free-xbox-codes," and "instagram-followers-free." The ultimate goal of the operation is to entice user
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

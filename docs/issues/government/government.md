@@ -8,6 +8,36 @@ nav_order: 900075
 
 ## Government
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds IBM Aspera Faspex and Mitel MiVoice to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142574/security/known-exploited-vulnerabilities-catalog-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in IBM Aspera Faspex and Mitel MiVoice to its Known Exploited Vulnerabilities Catalog.
+US CISA added the following actively exploited flaws to its&nbsp;Known Exploited Vulnerabilities Catalog:
+CVE-2022-47986&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog<a href="https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday&nbsp; added &nbsp;three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The list of shortcomings is as follows - CVE-2022-47986 &nbsp;(CVSS score: 9.8) - IBM Aspera Faspex Code Execution Vulnerability CVE-2022-41223 &nbsp;(CVSS score: 6.8) - Mitel MiVoice Connect Code Injection Vulnerability CVE-2022-40765 &nbsp;(CVSS score: 6.8) - Mitel MiVoice Connect Command Injection Vulnerability CVE-2022-47986 is described as a YAML deserialization flaw in the file transfer solution that could allow a remote attacker to execute code on the system. Details of the flaw and a proof-of-concept (PoC) were&nbsp; shared &nbsp;by Assetnote on February 2, a day after which the Shadowserver Foundation&nbsp; said &nbsp;it "picked up exploitation attempts" in the wild. The active exploitation of the Aspera Faspex flaw comes shortly after a vulnerability in Fortra's GoAnywhere MFT-managed fil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

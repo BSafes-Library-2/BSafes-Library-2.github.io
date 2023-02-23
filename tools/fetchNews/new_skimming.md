@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multilingual Skimmer Fingerprints 'Secret Shoppers' via Cloudflare Endpoint API<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/multilingual-skimmer-fingerprints-users-via-cloudflare-endpoint-api?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The skimmer uses iframes that are loaded if the current page is the checkout and if the browser's local storage does not include a font item (this is equivalent to using cookies to detect returning visitors).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

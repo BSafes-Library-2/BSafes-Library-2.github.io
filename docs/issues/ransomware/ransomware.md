@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive into the Evolution of Ransomware Part 1<a href="https://www.trendmicro.com/en_us/research/23/b/ransomware-evolution-part-1.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware extortion tactics range from publishing data bit by bit in an attempt to increase pressure on targets through more aggressive measures, making these threats all the harder for organizations and individuals alike to protect against.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

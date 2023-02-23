@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The number of devices infected by the MyloBot botnet is rapidly increasing<a href="https://securityaffairs.com/142591/malware/mylobot-botnet-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the MyloBot botnet is rapidly spreading and it is infecting thousands of systems worldwide.
+The MyloBot botnet has been active since 2017 and was&nbsp;first detailed&nbsp;by cybersecurity firm Deep Instinct in 2018. MyloBot is a highly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

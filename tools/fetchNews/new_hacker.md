@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Kitsun Return to Target Selected Entities in China and Japan<a href="https://cyware.com/news/earth-kitsun-return-to-target-selected-entities-in-china-and-japan-dfb0538f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro reported about a new threat actor that would drop a new backdoor dubbed WhiskerSpy. The cybercriminal group, tracked as Earth Kitsune, is a relatively new threat group that conducts watering hole attacks. The malware is delivered to users when they attempt to watch videos on attacker-co ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hydrochasma: New Threat Actor Targets Shipping Companies and Medical Labs in Asia<a href="https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shipping companies and medical laboratories in Asia have been the subject of a suspected espionage campaign carried out by a never-before-seen threat actor dubbed Hydrochasma . The activity, which has been ongoing since October 2022, "relies exclusively on publicly available and living-off-the-land tools," Symantec, by Broadcom Software,&nbsp; said &nbsp;in a report shared with The Hacker News. There is no evidence available as yet to determine its origin or affiliation with known threat actors, but the cybersecurity company said the group may be having an interest in industry verticals that are involved in COVID-19-related treatments or vaccines. The standout aspects of the campaign is the absence of data exfiltration and custom malware, with the threat actor employing open source tools for intelligence gathering. By using already available tools, the goal, it appears, is to not only confuse attribution efforts, but also to make the attacks stealthier. The start of the infection
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Adopt Havoc Framework for Post-Exploitation in Targeted Attacks<a href="https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An open source command-and-control (C2) framework known as Havoc is being adopted by threat actors as an alternative to other well-known legitimate toolkits like&nbsp; Cobalt Strike ,&nbsp; Sliver , and&nbsp; Brute Ratel . Cybersecurity firm Zscaler said it observed a new campaign in the beginning of January 2023 targeting an unnamed government organization that utilized&nbsp; Havoc . "While C2 frameworks are prolific, the open-source Havoc framework is an advanced post-exploitation command-and-control framework capable of bypassing the most current and updated version of Windows 11 defender due to the implementation of advanced evasion techniques such as indirect syscalls and sleep obfuscation," researchers Niraj Shivtarkar and Niraj Shivtarkar&nbsp; said . The attack sequence documented by Zscaler begins with a ZIP archive that embeds a decoy document and a screen-saver file that's designed to download and launch the Havoc Demon agent on the infected host. Demon is the implant generated v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
