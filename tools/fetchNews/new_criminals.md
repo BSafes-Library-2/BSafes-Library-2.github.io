@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The alleged author of NLBrute Malware was extradited to US from Georgia<a href="https://securityaffairs.com/142627/breaking-news/nlbrute-malware-author-extradicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dariy Pankov, a Russian VXer behind the NLBrute malware, has been extradited to the United States from Georgia.
+The Russian national Dariy Pankov, aka dpxaker, is suspected to be the author of the NLBrute malware. The man has been extradited to the United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

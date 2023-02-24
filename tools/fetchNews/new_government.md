@@ -8,6 +8,36 @@ nav_order: 900075
 
 ## Government
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The European Commission has banned its staff from using TikTok over security concerns<a href="https://securityaffairs.com/142615/breaking-news/european-commission-banned-tiktok.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission has banned its employees from using the Chinese social media app TikTok over security concerns.
+The European Union has banned the popular Chinese video-sharing app TikTok from the mobile devices of its employees over security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many cyber operations conducted by Russia are yet to be publicly disclosed, says Dutch intelligence<a href="https://securityaffairs.com/142603/cyber-warfare-2/russia-cyber-operations-ukriane-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch intelligence revealed that many cyber operations attributed to Russia against Ukraine and NATO members have yet to be publicly disclosed.
+According to a joint report published by the Dutch General Intelligence and Security Service (AIVD), and the Military...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

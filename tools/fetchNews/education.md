@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Steps to Automate Your Third-Party Risk Management Program<a href="https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you Google "third-party data breaches" you will find many recent reports of data breaches that were either caused by an attack at a third party or sensitive information stored at a third-party location was exposed. Third-party data breaches don't discriminate by industry because almost every company is operating with some sort of vendor relationship – whether it be a business partner, contractor or reseller, or the use of IT software or platform, or another service provider. Organizations are now sharing data with an average of 730 third-party vendors, according to a&nbsp; report by Osano , and with the acceleration of digital transformation, that number will only grow. The Importance of Third-Party Risk Management With more organizations sharing data with more third-party vendors, it shouldn't be surprising that more than 50% of security incidents in the past two years have stemmed from a third-party with access privileges, according to a&nbsp; CyberRisk Alliance report.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

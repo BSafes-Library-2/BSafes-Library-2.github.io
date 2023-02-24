@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gcore Thwarts Massive 650 Gbps DDoS Attack on Free Plan Client<a href="https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the beginning of January, Gcore faced an incident involving several L3/L4 DDoS attacks with a peak volume of 650 Gbps. Attackers exploited over 2000 servers belonging to one of the top three cloud providers worldwide and targeted a client who was using a free CDN plan. However, due to Gcore's distribution of infrastructure and a large number of peering partners, the attacks were mitigated, and the client's web application remained available. Why was mitigating these attacks so significant? 1.&nbsp;These attacks were significant because they exceeded the average bandwidth of similar attacks by 60×. &nbsp;The performed attacks relate to volume-based attacks targeted to saturate the attacked application's bandwidth in order to overflow it. Measuring total volume (bps)—rather than the number of requests—is the way these attacks are usually tabulated. The average bandwidth of this attack type is generally in the tens of Gbps (about 10 Gbps). Therefore, the specified attacks (at 650 Gbps) excee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

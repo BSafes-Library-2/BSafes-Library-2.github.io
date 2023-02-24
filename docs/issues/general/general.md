@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVSS system criticized for failure to address real-world impact<a href="https://portswigger.net/daily-swig/cvss-system-criticized-for-failure-to-address-real-world-impact?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weaknesses in the existing CVSS scoring system have been highlighted through new research, with existing metrics deemed responsible for “overhyping” some vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Secret Vulnerability Finance Execs are Missing<a href="https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The (Other) Risk in Finance A few years ago, a Washington-based real estate developer received a document link from First American – a financial services company in the real estate industry – relating to a deal he was working on. Everything about the document was perfectly fine and normal. The odd part, he&nbsp; told &nbsp;a reporter, was that if he changed a single digit in the URL, suddenly, he could see somebody else's document. Change it again, a different document. With no technical tools or expertise, the developer could retrieve FirstAm records dating back to 2003 – 885&nbsp; million&nbsp; in total, many containing the kinds of sensitive data disclosed in real estate dealings, like bank details, social security numbers, and of course, names and addresses. That nearly a billion records could leak from so simple a web vulnerability seemed shocking. Yet even more severe consequences befall financial services companies every week. Verizon, in its most recent&nbsp; Data Breach Investigations Report ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More vulnerabilities in industrial systems raise fresh concerns about critical infrastructure hacks<a href="https://cyberscoop.com/vulnerabilities-industrial-conference-s4x23/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aslew of new reports about vulnerabilities in operational technology systems are raising fresh concerns about potential weaknesses inside U.S. critical infrastructure organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

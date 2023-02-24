@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Cluster 'Clasiopa' Targeting Materials Research Organizations in Asia<a href="https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Materials research organizations in Asia have been targeted by a previously unknown threat actor using a distinct set of tools. Symantec, by Broadcom Software, is tracking the cluster under the moniker&nbsp; Clasiopa . The origins of the hacking group and its affiliations are currently unknown, but there are hints that suggest the adversary could have ties to India. This includes references to "SAPTARISHI-ATHARVAN-101" in a custom backdoor and the use of the password "iloveindea1998^_^" for a ZIP archive. It's worth noting that&nbsp; Saptarishi , meaning "Seven sages" in Sanskrit, refers to a group of seers who are revered in Hindu literature.&nbsp; Atharvan &nbsp;was an ancient Hindu priest and is believed to have co-authored one of the four&nbsp; Vedas , a collection of religious scriptures in Hinduism. "While these details could suggest that the group is based in India, it is also quite likely that the information was planted as false flags, with the password in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

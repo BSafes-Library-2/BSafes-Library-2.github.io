@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Ran Amok Across GoDaddy for Three Years<a href="https://cyware.com/news/hackers-ran-amok-across-godaddy-for-three-years-593339da"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet domain registrar GoDaddy revealed that it has been the victim of a three-year-long campaign that deployed malware on internal systems and pilfered source code. Experts detected that an unauthorized third party had gained access to the company's cPanel hosting servers and installed malware. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

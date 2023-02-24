@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in ACI Components<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-aci-components/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday informed customers about the availability of patches for two high-severity vulnerabilities affecting components of its Application Centric Infrastructure (ACI) software-defined networking solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Sound Alarm Over Growing Attacks Exploiting Zoho ManageEngine Products<a href="https://thehackernews.com/2023/02/experts-sound-alarm-over-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors have been observed opportunistically weaponizing a now-patched critical security vulnerability impacting several Zoho ManageEngine products since January 20, 2023. Tracked as&nbsp; CVE-2022-47966 &nbsp;(CVSS score: 9.8), the&nbsp; remote code execution flaw &nbsp;allows a complete takeover of the susceptible systems by unauthenticated attackers. As many as&nbsp; 24 different products , including Access Manager Plus, ADManager Plus, ADSelfService Plus, Password Manager Pro, Remote Access Plus, and Remote Monitoring and Management (RMM), are affected by the issue. The shortcoming "allows unauthenticated remote code execution due to usage of an outdated third-party dependency for XML signature validation, Apache Santuario," Bitdefender's Martin Zugec&nbsp; said &nbsp;in a technical advisory shared with The Hacker News. According to the Romanian cybersecurity firm, the exploitation efforts are said to have commenced the day after penetration testing firm Horizon3.ai released a proo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiNAC CVE-2022-39952 flaw exploited in the wild hours after the release of PoC exploit<a href="https://securityaffairs.com/142621/hacking/fortinet-fortinac-cve-2022-39952-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting the Fortinet FortiNAC vulnerability CVE-2022-39952 a few hours after the publication of the PoC exploit code.
+This week, researchers at Horizon3 cybersecurity firm have released a proof-of-concept exploit for a critical-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

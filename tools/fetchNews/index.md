@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2023
+February 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The alleged author of NLBrute Malware was extradited to US from Georgia<a href="https://securityaffairs.com/142627/breaking-news/nlbrute-malware-author-extradicted.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trove of L.A. Students’ Mental Health Records Posted to Dark Web After Cyber Hack<a href="https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/?&web_view=true"> Full Text</a>
@@ -67,7 +67,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Trojanized macOS Apps to Deploy Evasive Cryptocurrency Mining Malware<a href="https://thehackernews.com/2023/02/hackers-using-trojanized-macos-apps-to.html"> Full Text</a>
@@ -83,7 +83,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches High-Severity Vulnerabilities in ACI Components<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-aci-components/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Sound Alarm Over Growing Attacks Exploiting Zoho ManageEngine Products<a href="https://thehackernews.com/2023/02/experts-sound-alarm-over-growing.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet FortiNAC CVE-2022-39952 flaw exploited in the wild hours after the release of PoC exploit<a href="https://securityaffairs.com/142621/hacking/fortinet-fortinac-cve-2022-39952-exploitation.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVSS system criticized for failure to address real-world impact<a href="https://portswigger.net/daily-swig/cvss-system-criticized-for-failure-to-address-real-world-impact?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Secret Vulnerability Finance Execs are Missing<a href="https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The European Commission has banned its staff from using TikTok over security concerns<a href="https://securityaffairs.com/142615/breaking-news/european-commission-banned-tiktok.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Imposter HTTP libraries lurk on PyPI<a href="https://www.reversinglabs.com/blog/beware-impostor-http-libraries-lurk-on-pypi?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacking Cluster 'Clasiopa' Targeting Materials Research Organizations in Asia<a href="https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Many cyber operations conducted by Russia are yet to be publicly disclosed, says Dutch intelligence<a href="https://securityaffairs.com/142603/cyber-warfare-2/russia-cyber-operations-ukriane-nato.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sublime nabs $9.8M for an anti-phishing email security platform built on collective, crowdsourced rules<a href="https://techcrunch.com/2023/02/21/sublime-nabs-9-8m-for-an-anti-phishing-email-security-platform-built-on-collective-crowdsourced-rules/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Likely Using New WinorDLL64 Backdoor to Exfiltrate Sensitive Data<a href="https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More vulnerabilities in industrial systems raise fresh concerns about critical infrastructure hacks<a href="https://cyberscoop.com/vulnerabilities-industrial-conference-s4x23/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New S1deload Malware Hijacking Users' Social Media Accounts and Mining Cryptocurrency<a href="https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Dole Temporarily Shuts Down Production in North America<a href="https://edition.cnn.com/2023/02/22/business/dole-cyberattack/index.html?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries<a href="https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html"> Full Text</a>
