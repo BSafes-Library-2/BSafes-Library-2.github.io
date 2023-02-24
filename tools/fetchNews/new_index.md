@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The alleged author of NLBrute Malware was extradited to US from Georgia<a href="https://securityaffairs.com/142627/breaking-news/nlbrute-malware-author-extradicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dariy Pankov, a Russian VXer behind the NLBrute malware, has been extradited to the United States from Georgia.
+The Russian national Dariy Pankov, aka dpxaker, is suspected to be the author of the NLBrute malware. The man has been extradited to the United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trove of L.A. Students’ Mental Health Records Posted to Dark Web After Cyber Hack<a href="https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The student psychological evaluations, published to a “dark web” leak site by the Russian-speaking ransomware gang Vice Society, offer a startling degree of personally identifiable information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Trojanized macOS Apps to Deploy Evasive Cryptocurrency Mining Malware<a href="https://thehackernews.com/2023/02/hackers-using-trojanized-macos-apps-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojanized versions of legitimate applications are being used to deploy evasive cryptocurrency mining malware on macOS systems. Jamf Threat Labs, which made the discovery, said the XMRig coin miner was executed as Final Cut Pro, a video editing software from Apple, which contained an unauthorized modification. "This malware makes use of the Invisible Internet Project (i2p) [...] to download malicious components and send mined currency to the attacker's wallet," Jamf researchers Matt Benyo, Ferdous Saljooki, and Jaron Bradley  said  in a report shared with The Hacker News. An earlier iteration of the campaign was  documented  exactly a year ago by Trend Micro, which pointed out the malware's use of i2p to conceal network traffic and speculated that it may have been delivered as a DMG file for Adobe Photoshop CC 2019.  The Apple device management company said the source of the cryptojacking apps can be traced to Pirate Bay, with the earliest uploads dating all the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in ACI Components<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-aci-components/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday informed customers about the availability of patches for two high-severity vulnerabilities affecting components of its Application Centric Infrastructure (ACI) software-defined networking solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Sound Alarm Over Growing Attacks Exploiting Zoho ManageEngine Products<a href="https://thehackernews.com/2023/02/experts-sound-alarm-over-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors have been observed opportunistically weaponizing a now-patched critical security vulnerability impacting several Zoho ManageEngine products since January 20, 2023. Tracked as  CVE-2022-47966  (CVSS score: 9.8), the  remote code execution flaw  allows a complete takeover of the susceptible systems by unauthenticated attackers. As many as  24 different products , including Access Manager Plus, ADManager Plus, ADSelfService Plus, Password Manager Pro, Remote Access Plus, and Remote Monitoring and Management (RMM), are affected by the issue. The shortcoming "allows unauthenticated remote code execution due to usage of an outdated third-party dependency for XML signature validation, Apache Santuario," Bitdefender's Martin Zugec  said  in a technical advisory shared with The Hacker News. According to the Romanian cybersecurity firm, the exploitation efforts are said to have commenced the day after penetration testing firm Horizon3.ai released a proo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiNAC CVE-2022-39952 flaw exploited in the wild hours after the release of PoC exploit<a href="https://securityaffairs.com/142621/hacking/fortinet-fortinac-cve-2022-39952-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting the Fortinet FortiNAC vulnerability CVE-2022-39952 a few hours after the publication of the PoC exploit code.
+This week, researchers at Horizon3 cybersecurity firm have released a proof-of-concept exploit for a critical-severity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVSS system criticized for failure to address real-world impact<a href="https://portswigger.net/daily-swig/cvss-system-criticized-for-failure-to-address-real-world-impact?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weaknesses in the existing CVSS scoring system have been highlighted through new research, with existing metrics deemed responsible for “overhyping” some vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Secret Vulnerability Finance Execs are Missing<a href="https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The (Other) Risk in Finance A few years ago, a Washington-based real estate developer received a document link from First American – a financial services company in the real estate industry – relating to a deal he was working on. Everything about the document was perfectly fine and normal. The odd part, he  told  a reporter, was that if he changed a single digit in the URL, suddenly, he could see somebody else's document. Change it again, a different document. With no technical tools or expertise, the developer could retrieve FirstAm records dating back to 2003 – 885  million  in total, many containing the kinds of sensitive data disclosed in real estate dealings, like bank details, social security numbers, and of course, names and addresses. That nearly a billion records could leak from so simple a web vulnerability seemed shocking. Yet even more severe consequences befall financial services companies every week. Verizon, in its most recent  Data Breach Investigations Report ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The European Commission has banned its staff from using TikTok over security concerns<a href="https://securityaffairs.com/142615/breaking-news/european-commission-banned-tiktok.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission has banned its employees from using the Chinese social media app TikTok over security concerns.
+The European Union has banned the popular Chinese video-sharing app TikTok from the mobile devices of its employees over security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Imposter HTTP libraries lurk on PyPI<a href="https://www.reversinglabs.com/blog/beware-impostor-http-libraries-lurk-on-pypi?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The descriptions for these packages, for the most part, don't hint at their malicious intent. Some are disguised as real libraries and make flattering comparisons between their capabilities and those of known, legitimate HTTP libraries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacking Cluster 'Clasiopa' Targeting Materials Research Organizations in Asia<a href="https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Materials research organizations in Asia have been targeted by a previously unknown threat actor using a distinct set of tools. Symantec, by Broadcom Software, is tracking the cluster under the moniker  Clasiopa . The origins of the hacking group and its affiliations are currently unknown, but there are hints that suggest the adversary could have ties to India. This includes references to "SAPTARISHI-ATHARVAN-101" in a custom backdoor and the use of the password "iloveindea1998^_^" for a ZIP archive. It's worth noting that  Saptarishi , meaning "Seven sages" in Sanskrit, refers to a group of seers who are revered in Hindu literature.  Atharvan  was an ancient Hindu priest and is believed to have co-authored one of the four  Vedas , a collection of religious scriptures in Hinduism. "While these details could suggest that the group is based in India, it is also quite likely that the information was planted as false flags, with the password in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Many cyber operations conducted by Russia are yet to be publicly disclosed, says Dutch intelligence<a href="https://securityaffairs.com/142603/cyber-warfare-2/russia-cyber-operations-ukriane-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch intelligence revealed that many cyber operations attributed to Russia against Ukraine and NATO members have yet to be publicly disclosed.
+According to a joint report published by the Dutch General Intelligence and Security Service (AIVD), and the Military...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sublime nabs $9.8M for an anti-phishing email security platform built on collective, crowdsourced rules<a href="https://techcrunch.com/2023/02/21/sublime-nabs-9-8m-for-an-anti-phishing-email-security-platform-built-on-collective-crowdsourced-rules/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decibel is leading the round, with Slow Ventures and a number of cybersecurity veterans participating, including Sounil Yu, Martin Roesch, Jerry Perullo, Michael Sutton, Rishi Bhargava, Slavik Markovich, Kevin Patrick Mahaffey, and Oliver Friedrichs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Likely Using New WinorDLL64 Backdoor to Exfiltrate Sensitive Data<a href="https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new backdoor associated with a malware downloader named  Wslink  has been discovered, with the tool likely used by the notorious North Korea-aligned Lazarus Group, new findings reveal. The payload, dubbed  WinorDLL64  by ESET, is a fully-featured implant that can exfiltrate, overwrite, and delete files; execute PowerShell commands; and obtain comprehensive information about the underlying machine. Its other features comprise listing active sessions, creating and terminating processes, enumerating drives, and compressing directories. Wslink was  first documented  by the Slovak cybersecurity firm in October 2021, describing it as a "simple yet remarkable" malware loader that's capable of executing received modules in memory. "The Wslink payload can be leveraged later for lateral movement, due to its specific interest in network sessions," ESET researcher Vladislav Hrčka  said . "The Wslink loader listens on a port specified in the configuration and can
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More vulnerabilities in industrial systems raise fresh concerns about critical infrastructure hacks<a href="https://cyberscoop.com/vulnerabilities-industrial-conference-s4x23/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aslew of new reports about vulnerabilities in operational technology systems are raising fresh concerns about potential weaknesses inside U.S. critical infrastructure organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New S1deload Malware Hijacking Users' Social Media Accounts and Mining Cryptocurrency<a href="https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active malware campaign has set its sights on Facebook and YouTube users by leveraging a new information stealer to hijack the accounts and abuse the systems' resources to mine cryptocurrency. Bitdefender is calling the malware  S1deload Stealer  for its use of  DLL side-loading techniques  to get past security defenses and execute its malicious components. "Once infected, S1deload Stealer steals user credentials, emulates human behavior to artificially boost videos and other content engagement, assesses the value of individual accounts (such as identifying corporate social media admins), mines for BEAM cryptocurrency, and propagates the malicious link to the user's followers," Bitdefender researcher Dávid ÁCS  said . Put differently, the goal of the campaign is to take control of the users' Facebook and YouTube accounts and rent out access to raise view counts and likes for videos and posts shared on the platforms. More than 600 unique users are estimate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Dole Temporarily Shuts Down Production in North America<a href="https://edition.cnn.com/2023/02/22/business/dole-cyberattack/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The previously unreported hack — which a source familiar with the incident said was ransomware — led some grocery shoppers to complain on Facebook in recent days that store shelves were missing Dole-made salad kits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries<a href="https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of "imposter packages" mimicking popular libraries available on the Python Package Index (PyPI) repository. The 41 malicious PyPI packages have been found to pose as typosquatted variants of legitimate modules such as HTTP, AIOHTTP, requests, urllib, and urllib3. The names of the packages are as follows: aio5, aio6, htps1, httiop, httops, httplat, httpscolor, httpsing, httpslib, httpsos, httpsp, httpssp, httpssus, httpsus, httpxgetter, httpxmodifier, httpxrequester, httpxrequesterv2, httpxv2, httpxv3, libhttps, piphttps, pohttp, requestsd, requestse, requestst, ulrlib3, urelib3, urklib3, urlkib3, urllb, urllib33, urolib3, xhttpsp "The descriptions for these packages, for the most part, don't hint at their malicious intent," ReversingLabs researcher Lucija Valentić  said  in a new writeup. "Some are disguised as real libraries and make flattering comparisons between their capabilities and those of known, legitimate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Kitsun Return to Target Selected Entities in China and Japan<a href="https://cyware.com/news/earth-kitsun-return-to-target-selected-entities-in-china-and-japan-dfb0538f"> Full Text</a>
@@ -50,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Warns of 3 New Vulnerabilities Affecting iPhone, iPad, and Mac Devices<a href="https://thehackernews.com/2023/02/apple-warns-of-3-new-vulnerabilities.html"> Full Text</a>
@@ -66,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The number of devices infected by the MyloBot botnet is rapidly increasing<a href="https://securityaffairs.com/142591/malware/mylobot-botnet-evolution.html"> Full Text</a>
@@ -83,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Ran Amok Across GoDaddy for Three Years<a href="https://cyware.com/news/hackers-ran-amok-across-godaddy-for-three-years-593339da"> Full Text</a>
@@ -99,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Flood NPM Repository with Over 15,000 Spam Packages Containing Phishing Links<a href="https://thehackernews.com/2023/02/attackers-flood-npm-repository-with.html"> Full Text</a>
@@ -115,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found a large new class of bugs ‘class’ in Apple devices<a href="https://securityaffairs.com/142581/security/apple-three-vulnerabilities.html"> Full Text</a>
@@ -132,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 R1Soft Server Backup Manager Vulnerability Exploited to Deploy Backdoor<a href="https://www.securityweek.com/r1soft-server-backup-manager-vulnerability-exploited-to-deploy-backdoor/?&web_view=true"> Full Text</a>
@@ -148,7 +440,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Steps to Automate Your Third-Party Risk Management Program<a href="https://thehackernews.com/2023/02/3-steps-to-automate-your-third-party.html"> Full Text</a>
@@ -164,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds IBM Aspera Faspex and Mitel MiVoice to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142574/security/known-exploited-vulnerabilities-catalog-bugs.html"> Full Text</a>
@@ -182,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Deep Dive into the Evolution of Ransomware Part 1<a href="https://www.trendmicro.com/en_us/research/23/b/ransomware-evolution-part-1.html?&web_view=true"> Full Text</a>
@@ -198,7 +490,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hydrochasma: New Threat Actor Targets Shipping Companies and Medical Labs in Asia<a href="https://thehackernews.com/2023/02/hydrochasma-new-threat-actor-targets.html"> Full Text</a>
@@ -214,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed a critical bug in Carbon Black App Control<a href="https://securityaffairs.com/142565/security/vmware-carbon-black-app-control-bug.html"> Full Text</a>
@@ -231,7 +523,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Direct Kernel Object Manipulation (DKOM) Attacks on ETW Providers<a href="https://securityintelligence.com/posts/direct-kernel-object-manipulation-attacks-etw-providers/?&web_view=true"> Full Text</a>
@@ -247,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Adopt Havoc Framework for Post-Exploitation in Targeted Attacks<a href="https://thehackernews.com/2023/02/threat-actors-adopt-havoc-framework-for.html"> Full Text</a>
@@ -263,7 +555,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accidental WhatsApp account takeovers? It's a thing<a href="https://www.theregister.com/2023/02/21/accidental_whatsapp_account_takeover/?&web_view=true"> Full Text</a>
@@ -279,7 +571,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gcore Thwarts Massive 650 Gbps DDoS Attack on Free Plan Client<a href="https://thehackernews.com/2023/02/gcore-thwarts-massive-650-gbps-ddos.html"> Full Text</a>
@@ -295,7 +587,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multilingual Skimmer Fingerprints 'Secret Shoppers' via Cloudflare Endpoint API<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/02/multilingual-skimmer-fingerprints-users-via-cloudflare-endpoint-api?&web_view=true"> Full Text</a>
@@ -311,7 +603,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency CISA Adds Three New Vulnerabilities in KEV Catalog<a href="https://thehackernews.com/2023/02/us-cybersecurity-agency-cisa-adds-three.html"> Full Text</a>
@@ -327,7 +619,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Entitle Nabs $15M Seed Funding for Cloud Permissions Management Tech<a href="https://www.securityweek.com/entitle-nabs-15m-seed-funding-for-cloud-permissions-management-tech/?&web_view=true"> Full Text</a>
@@ -343,7 +635,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Critical Vulnerability in Carbon Black App Control Product<a href="https://thehackernews.com/2023/02/vmware-patches-critical-vulnerability.html"> Full Text</a>
@@ -359,7 +651,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2023
+February 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bypassing Akamai’s Web Application Firewall Using an Injected Content-Encoding Header<a href="https://securityboulevard.com/2023/02/bypassing-akamais-web-application-firewall-using-an-injected-content-encoding-header/?&web_view=true"> Full Text</a>
