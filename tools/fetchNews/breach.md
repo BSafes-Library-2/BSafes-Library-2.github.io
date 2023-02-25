@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trove of L.A. Students’ Mental Health Records Posted to Dark Web After Cyber Hack<a href="https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The student psychological evaluations, published to a “dark web” leak site by the Russian-speaking ransomware gang Vice Society, offer a startling degree of personally identifiable information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

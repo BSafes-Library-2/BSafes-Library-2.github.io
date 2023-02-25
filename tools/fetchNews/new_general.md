@@ -8,6 +8,77 @@ nav_order: 900072
 
 ## General
 ---
+February 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks hit data centers to steal information from global companies<a href="https://www.csoonline.com/article/3688909/cyberattacks-hit-data-centers-to-steal-information-from-global-companies.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks targeting multiple data centers in several regions globally have been observed over the past year and a half, resulting in the exfiltration of information pertaining to some of the world's biggest companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK won the Military Cyberwarfare exercise Defence Cyber Marvel 2 (DCM2)<a href="https://securityaffairs.com/142669/cyber-warfare-2/uk-won-defence-cyber-marvel-2-dcm2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defence Cyber Marvel 2 (DCM2) is the largest Western Europe-led cyber exercise that took place in Tallinn with 34 teams from 11 countries.
+The Defence Cyber Marvel 2 (DCM2) is the largest training exercise organised by the Army Cyber Association to allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Weaponize Old Bugs to Launch Ransomware Attacks<a href="https://cyware.com/news/threat-actors-weaponize-old-bugs-to-launch-ransomware-attacks-8d882f83"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest report by Cyware, along with Cyber Security Works (CSW), Ivanti, and Securin, stated that out of 344 total threats detected in 2022, 56 new vulnerabilities were associated with ransomware threats. Attackers can leverage kill chains to exploit these bugs across 81 unique products. The Log4She ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Even Top-Ranked Android Apps in Google Play Store Provide Misleading Data Safety Labels<a href="https://thehackernews.com/2023/02/majority-of-android-apps-on-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into data safety labels for Android apps available on the Google Play Store has uncovered "serious loopholes" that allow apps to provide misleading or outright false information. The&nbsp; study , conducted by the Mozilla Foundation as part of its&nbsp; *Privacy Not Included &nbsp;initiative, compared the privacy policies and labels of the 20 most popular paid apps and the 20 most popular free apps on the app marketplace. It&nbsp; found &nbsp;that, in roughly 80% of the apps reviewed, "the labels were false or misleading based on discrepancies between the apps' privacy policies and the information apps self-reported on Google's&nbsp; Data safety form ." "The apps aren't self-reporting accurately enough to give the public any meaningful reassurance about the safety and privacy of their data," Mozilla further said, adding consumers are being led to "believe these apps are doing a better job protecting their privacy than they are." Three of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiper Malware Surges Ahead, Spiking 53% in 3 Months<a href="https://www.darkreading.com/attacks-breaches/wiper-malware-surges-ahead-spiking-53-in-3-months?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increased use of disk wipers in cyberattacks that began with Russia's invasion of Ukraine early last year has continued unabated, and the malware has transformed into a potent threat for organizations in the region and elsewhere.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Teams Up with Ecosystem Partners to Enhance Security of SoC Processors<a href="https://thehackernews.com/2023/02/google-teams-up-with-ecosystem-partners.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said it's working with ecosystem partners to harden the security of firmware that interacts with Android. While the Android operating system runs on what's called the application processor (AP), it's just one of the many processors of a system-on-chip ( SoC ) that cater to various tasks like cellular communications and multimedia processing. "Securing the Android Platform requires going beyond the confines of the Application Processor," the Android team&nbsp; said . "Android's defense-in-depth strategy also applies to the firmware running on&nbsp; bare-metal environments &nbsp;in these microcontrollers, as they are a critical part of the attack surface of a device." The tech giant said the goal is to bolster the security of software running on these secondary processors (i.e., firmware) and make it harder to exploit vulnerabilities over the air to achieve remote code execution within the Wi-Fi SoC or the cellular baseband. To that end, Google noted tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberSmart secures $15.3m for SME cybersecurity software<a href="https://www.uktech.news/cybersecurity/cybersmart-funding-20230223?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberSmart’s Series B was led by Oxx, with further contributions from British Patient Capital, IQ Capital, Eos Venture Partners, Legal &amp; General Capital, Seedcamp, and Winton Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

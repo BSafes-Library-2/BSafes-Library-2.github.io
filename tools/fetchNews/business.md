@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sublime nabs $9.8M for an anti-phishing email security platform built on collective, crowdsourced rules<a href="https://techcrunch.com/2023/02/21/sublime-nabs-9-8m-for-an-anti-phishing-email-security-platform-built-on-collective-crowdsourced-rules/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decibel is leading the round, with Slow Ventures and a number of cybersecurity veterans participating, including Sounil Yu, Martin Roesch, Jerry Perullo, Michael Sutton, Rishi Bhargava, Slavik Markovich, Kevin Patrick Mahaffey, and Oliver Friedrichs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

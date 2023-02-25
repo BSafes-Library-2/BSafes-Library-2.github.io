@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of disruptive attacks amid the anniversary of Russia’s invasion of Ukraine<a href="https://securityaffairs.com/142662/cyber-warfare-2/cisa-attacks-anniversary-russia-invasion-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One year after Russia's invasion of Ukraine, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns organizations to increase vigilance.
+Exactly one year, Russia invaded Ukraine, and now one year later the U.S. Cybersecurity and Infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Sounds Alarm on Cybersecurity Threats Amid Russia's Invasion Anniversary<a href="https://thehackernews.com/2023/02/cisa-sounds-alarm-on-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is urging organizations and individuals to increase their cyber vigilance, as Russia's military invasion of Ukraine officially&nbsp; enters one year . "CISA assesses that the United States and European nations may experience disruptive and defacement attacks against websites in an attempt to sow chaos and societal discord on February 24, 2023, the anniversary of Russia's 2022 invasion of Ukraine," the agency&nbsp; said . To that end, CISA is&nbsp; recommending &nbsp;that organizations implement cybersecurity best practices, increase preparedness, and take proactive steps to reduce the likelihood and impact of distributed denial-of-service (DDoS) attacks. The advisory comes as the Computer Emergency Response Team of Ukraine (CERT-UA)&nbsp; revealed &nbsp;that Russian nation-state hackers breached&nbsp; government websites &nbsp;and planted backdoors as far back as December 2021. CERT-UA attributed the activity to a&nbsp; threat actor &nbsp;it track
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Trojanized macOS Apps to Deploy Evasive Cryptocurrency Mining Malware<a href="https://thehackernews.com/2023/02/hackers-using-trojanized-macos-apps-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojanized versions of legitimate applications are being used to deploy evasive cryptocurrency mining malware on macOS systems. Jamf Threat Labs, which made the discovery, said the XMRig coin miner was executed as Final Cut Pro, a video editing software from Apple, which contained an unauthorized modification. "This malware makes use of the Invisible Internet Project (i2p) [...] to download malicious components and send mined currency to the attacker's wallet," Jamf researchers Matt Benyo, Ferdous Saljooki, and Jaron Bradley&nbsp; said &nbsp;in a report shared with The Hacker News. An earlier iteration of the campaign was&nbsp; documented &nbsp;exactly a year ago by Trend Micro, which pointed out the malware's use of i2p to conceal network traffic and speculated that it may have been delivered as a DMG file for Adobe Photoshop CC 2019.&nbsp; The Apple device management company said the source of the cryptojacking apps can be traced to Pirate Bay, with the earliest uploads dating all the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

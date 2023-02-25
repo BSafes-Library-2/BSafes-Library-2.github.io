@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Increased Vigilance One Year After Russia's Invasion of Ukraine <a href="https://www.cisa.gov/news-events/alerts/2023/02/23/cisa-urges-increased-vigilance-one-year-after-russias-invasion-ukraine"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA assesses that the United States and European nations may experience disruptive and defacement attacks against websites in an attempt to sow chaos and societal discord on February 24, 2023, the anniversary of Russia's 2022 invasion of Ukraine. CISA urges organizations and individuals to increase their cyber vigilance in response to this potential threat.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 21, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
