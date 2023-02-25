@@ -34,7 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks hit data centers to steal information from global companies<a href="https://www.csoonline.com/article/3688909/cyberattacks-hit-data-centers-to-steal-information-from-global-companies.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks targeting multiple data centers in several regions globally have been observed over the past year and a half, resulting in the exfiltration of information pertaining to some of the world's biggest companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Teams Up with Ecosystem Partners to Enhance Security of SoC Processors<a href="https://thehackernews.com/2023/02/google-teams-up-with-ecosystem-partners.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google said it's working with ecosystem partners to harden the security of firmware that interacts with Android. While the Android operating system runs on what's called the application processor (AP), it's just one of the many processors of a system-on-chip ( SoC ) that cater to various tasks like cellular communications and multimedia processing. "Securing the Android Platform requires going beyond the confines of the Application Processor," the Android team  said . "Android's defense-in-depth strategy also applies to the firmware running on  bare-metal environments  in these microcontrollers, as they are a critical part of the attack surface of a device." The tech giant said the goal is to bolster the security of software running on these secondary processors (i.e., firmware) and make it harder to exploit vulnerabilities over the air to achieve remote code execution within the Wi-Fi SoC or the cellular baseband. To that end, Google noted tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK won the Military Cyberwarfare exercise Defence Cyber Marvel 2 (DCM2)<a href="https://securityaffairs.com/142669/cyber-warfare-2/uk-won-defence-cyber-marvel-2-dcm2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Defence Cyber Marvel 2 (DCM2) is the largest Western Europe-led cyber exercise that took place in Tallinn with 34 teams from 11 countries.
+The Defence Cyber Marvel 2 (DCM2) is the largest training exercise organised by the Army Cyber Association to allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Weaponize Old Bugs to Launch Ransomware Attacks<a href="https://cyware.com/news/threat-actors-weaponize-old-bugs-to-launch-ransomware-attacks-8d882f83"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latest report by Cyware, along with Cyber Security Works (CSW), Ivanti, and Securin, stated that out of 344 total threats detected in 2022, 56 new vulnerabilities were associated with ransomware threats. Attackers can leverage kill chains to exploit these bugs across 81 unique products. The Log4She ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Tackle the Top SaaS Challenges of 2023<a href="https://thehackernews.com/2023/02/how-to-tackle-top-saas-challenges-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you prepared to tackle the top SaaS challenges of 2023? With high-profile data breaches affecting major companies like Nissan and Slack, it's clear that SaaS apps are a prime target for cyberattacks. The vast amounts of valuable information stored in these apps make them a goldmine for hackers. But don't panic just yet. With the right knowledge and tools, you can protect your company's sensitive data and prevent cyberattacks from wreaking havoc on your business. Join us for an  upcoming webinar  that will equip you with the insights you need to overcome the  top SaaS challenges of 2023 . Led by Maor Bin, CEO and Co-Founder of Adaptive Shield, this highly informative session will provide practical tips and actionable strategies for safeguarding your SaaS applications from potential threats. To better prepare and effectively safeguard your organization, it is crucial to have a comprehensive understanding of the potential entry points and challenges within the ever-e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of disruptive attacks amid the anniversary of Russia’s invasion of Ukraine<a href="https://securityaffairs.com/142662/cyber-warfare-2/cisa-attacks-anniversary-russia-invasion-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One year after Russia's invasion of Ukraine, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns organizations to increase vigilance.
+Exactly one year, Russia invaded Ukraine, and now one year later the U.S. Cybersecurity and Infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PureCrypter Malware Downloader Targets Government Entities Through Discord<a href="https://www.menlosecurity.com/blog/purecrypter-targets-government-entities-through-discord/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Menlo Labs has uncovered an unknown threat actor that’s leveraging an evasive threat campaign distributed via Discord that features the PureCrypter downloader and targets government entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Use AI in Cybersecurity and Avoid Being Trapped<a href="https://thehackernews.com/2023/02/how-to-use-ai-in-cybersecurity-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of AI in cybersecurity is growing rapidly and is having a significant impact on threat detection, incident response, fraud detection, and vulnerability management. According to a report by Juniper Research, the use of AI for fraud detection and prevention is expected to save businesses $11 billion annually by 2023. But how to integrate AI into business cybersecurity infrastructure without being exposed to hackers? In terms of detecting and responding to security threats in a more efficient and effective manner, AI has been helping businesses in lots of ways.  Firstly, it can analyze large amounts of data and identify patterns or anomalies much faster and with greater accuracy than humans. AI detects and responds to security threats in real-time, reducing the time it takes to identify and remediate security incidents. The algorithms can learn from past incidents and adapt to new threats as they emerge. With it, cybersecurity systems can become smarter and more effective ove
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highly evasive cryptocurrency miner targets macOS<a href="https://securityaffairs.com/142648/cyber-crime/cryptocurrency-miner-targets-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of an evasive cryptojacking malware targeting macOS which spreads through pirated applications
+Jamf Threat Labs researchers reported that an evasive cryptojacking malware targeting macOS was spotted spreading under the guise of the Apple-developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberSmart secures $15.3m for SME cybersecurity software<a href="https://www.uktech.news/cybersecurity/cybersmart-funding-20230223?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberSmart’s Series B was led by Oxx, with further contributions from British Patient Capital, IQ Capital, Eos Venture Partners, Legal & General Capital, Seedcamp, and Winton Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Sounds Alarm on Cybersecurity Threats Amid Russia's Invasion Anniversary<a href="https://thehackernews.com/2023/02/cisa-sounds-alarm-on-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is urging organizations and individuals to increase their cyber vigilance, as Russia's military invasion of Ukraine officially  enters one year . "CISA assesses that the United States and European nations may experience disruptive and defacement attacks against websites in an attempt to sow chaos and societal discord on February 24, 2023, the anniversary of Russia's 2022 invasion of Ukraine," the agency  said . To that end, CISA is  recommending  that organizations implement cybersecurity best practices, increase preparedness, and take proactive steps to reduce the likelihood and impact of distributed denial-of-service (DDoS) attacks. The advisory comes as the Computer Emergency Response Team of Ukraine (CERT-UA)  revealed  that Russian nation-state hackers breached  government websites  and planted backdoors as far back as December 2021. CERT-UA attributed the activity to a  threat actor  it track
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are actively exploiting CVE-2022-47966 flaw in Zoho ManageEngine<a href="https://securityaffairs.com/142635/hacking/zoho-manageengine-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of threat actors actively exploiting the critical CVE-2022-47966 (CVSS score: 9.8) flaw in Zoho ManageEngine.
+Multiple threat actors are actively exploiting the Zoho ManageEngine CVE-2022-47966 (CVSS score: 9.8) in attacks in the wild,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Retailer's Customer Data Compromised at Former Third-Party Supplier<a href="https://www.zdnet.com/article/australia-retailers-customer-data-compromised-in-third-party-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Good Guys' customer data, including phone numbers and email addresses, have been compromised in a third-party breach that industry observers say is yet another reminder for businesses to scrutinize their suppliers' security practices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Even Top-Ranked Android Apps in Google Play Store Provide Misleading Data Safety Labels<a href="https://thehackernews.com/2023/02/majority-of-android-apps-on-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation into data safety labels for Android apps available on the Google Play Store has uncovered "serious loopholes" that allow apps to provide misleading or outright false information. The  study , conducted by the Mozilla Foundation as part of its  *Privacy Not Included  initiative, compared the privacy policies and labels of the 20 most popular paid apps and the 20 most popular free apps on the app marketplace. It  found  that, in roughly 80% of the apps reviewed, "the labels were false or misleading based on discrepancies between the apps' privacy policies and the information apps self-reported on Google's  Data safety form ." "The apps aren't self-reporting accurately enough to give the public any meaningful reassurance about the safety and privacy of their data," Mozilla further said, adding consumers are being led to "believe these apps are doing a better job protecting their privacy than they are." Three of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiper Malware Surges Ahead, Spiking 53% in 3 Months<a href="https://www.darkreading.com/attacks-breaches/wiper-malware-surges-ahead-spiking-53-in-3-months?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increased use of disk wipers in cyberattacks that began with Russia's invasion of Ukraine early last year has continued unabated, and the malware has transformed into a potent threat for organizations in the region and elsewhere.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hutchinson Clinic issues alert concerning December data breach<a href="https://www.msn.com/en-us/health/other/hutchinson-clinic-issues-alert-concerning-december-data-breach/ar-AA17OGZF?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The clinic said a hacker they labeled “an unauthorized actor” had the ability to acquire information that included names, contact information, Social Security numbers, driver’s license numbers, health insurance information, and physician names.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The alleged author of NLBrute Malware was extradited to US from Georgia<a href="https://securityaffairs.com/142627/breaking-news/nlbrute-malware-author-extradicted.html"> Full Text</a>
@@ -51,7 +311,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trove of L.A. Students’ Mental Health Records Posted to Dark Web After Cyber Hack<a href="https://www.the74million.org/article/trove-of-l-a-students-mental-health-records-posted-to-dark-web-after-cyber-hack/?&web_view=true"> Full Text</a>
@@ -67,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Trojanized macOS Apps to Deploy Evasive Cryptocurrency Mining Malware<a href="https://thehackernews.com/2023/02/hackers-using-trojanized-macos-apps-to.html"> Full Text</a>
@@ -83,7 +343,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches High-Severity Vulnerabilities in ACI Components<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-aci-components/?&web_view=true"> Full Text</a>
@@ -99,7 +359,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Sound Alarm Over Growing Attacks Exploiting Zoho ManageEngine Products<a href="https://thehackernews.com/2023/02/experts-sound-alarm-over-growing.html"> Full Text</a>
@@ -115,7 +375,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet FortiNAC CVE-2022-39952 flaw exploited in the wild hours after the release of PoC exploit<a href="https://securityaffairs.com/142621/hacking/fortinet-fortinac-cve-2022-39952-exploitation.html"> Full Text</a>
@@ -132,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVSS system criticized for failure to address real-world impact<a href="https://portswigger.net/daily-swig/cvss-system-criticized-for-failure-to-address-real-world-impact?&web_view=true"> Full Text</a>
@@ -148,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Secret Vulnerability Finance Execs are Missing<a href="https://thehackernews.com/2023/02/the-secret-vulnerability-finance-execs.html"> Full Text</a>
@@ -164,7 +424,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The European Commission has banned its staff from using TikTok over security concerns<a href="https://securityaffairs.com/142615/breaking-news/european-commission-banned-tiktok.html"> Full Text</a>
@@ -181,7 +441,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Imposter HTTP libraries lurk on PyPI<a href="https://www.reversinglabs.com/blog/beware-impostor-http-libraries-lurk-on-pypi?&web_view=true"> Full Text</a>
@@ -197,7 +457,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacking Cluster 'Clasiopa' Targeting Materials Research Organizations in Asia<a href="https://thehackernews.com/2023/02/new-hacking-cluster-clasiopa-targeting.html"> Full Text</a>
@@ -213,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Many cyber operations conducted by Russia are yet to be publicly disclosed, says Dutch intelligence<a href="https://securityaffairs.com/142603/cyber-warfare-2/russia-cyber-operations-ukriane-nato.html"> Full Text</a>
@@ -230,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sublime nabs $9.8M for an anti-phishing email security platform built on collective, crowdsourced rules<a href="https://techcrunch.com/2023/02/21/sublime-nabs-9-8m-for-an-anti-phishing-email-security-platform-built-on-collective-crowdsourced-rules/?&web_view=true"> Full Text</a>
@@ -246,7 +506,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Likely Using New WinorDLL64 Backdoor to Exfiltrate Sensitive Data<a href="https://thehackernews.com/2023/02/lazarus-group-using-new-winordll64.html"> Full Text</a>
@@ -262,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More vulnerabilities in industrial systems raise fresh concerns about critical infrastructure hacks<a href="https://cyberscoop.com/vulnerabilities-industrial-conference-s4x23/?&web_view=true"> Full Text</a>
@@ -278,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New S1deload Malware Hijacking Users' Social Media Accounts and Mining Cryptocurrency<a href="https://thehackernews.com/2023/02/new-s1deload-malware-hijacking-users.html"> Full Text</a>
@@ -294,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Dole Temporarily Shuts Down Production in North America<a href="https://edition.cnn.com/2023/02/22/business/dole-cyberattack/index.html?&web_view=true"> Full Text</a>
@@ -310,7 +570,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2023
+February 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python Developers Warned of Trojanized PyPI Packages Mimicking Popular Libraries<a href="https://thehackernews.com/2023/02/python-developers-warned-of-trojanized.html"> Full Text</a>
