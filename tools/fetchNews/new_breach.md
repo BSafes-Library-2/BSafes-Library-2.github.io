@@ -8,6 +8,64 @@ nav_order: 900029
 
 ## Breach
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers compromised one of the company systems and had access to the emails and documents of some employees. Initial investigation into the hack revealed that the attack was carried out by a nation-state actor for cyber espionage purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers CH01 defaced tens of Russian websites on the invasion anniversary<a href="https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hacktivists that goes online with the moniker CH01 defaced at least 32 Russian websites to mark a protest over the one-year anniversary of the Russian invasion. The news was also shared by the collective Anonymous through its accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers CH01 defaced tens of Russian websites on the invasion anniversary<a href="https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group of hacktivists CH01 defaced at least 32 Russian websites to mark a protest over the one-year anniversary of the Russian invasion
+A group of hacktivists that goes online with the moniker CH01 defaced at least 32 Russian websites to mark a protest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investigation conducted by News Corporation (News Corp) revealed that attackers remained on its network for two years.
+In February 2022, the American media and publishing giant News Corp revealed it was the victim of a cyber attack from an advanced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

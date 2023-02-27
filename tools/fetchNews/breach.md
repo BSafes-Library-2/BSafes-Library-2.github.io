@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Retailer's Customer Data Compromised at Former Third-Party Supplier<a href="https://www.zdnet.com/article/australia-retailers-customer-data-compromised-in-third-party-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Good Guys' customer data, including phone numbers and email addresses, have been compromised in a third-party breach that industry observers say is yet another reminder for businesses to scrutinize their suppliers' security practices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hutchinson Clinic issues alert concerning December data breach<a href="https://www.msn.com/en-us/health/other/hutchinson-clinic-issues-alert-concerning-december-data-breach/ar-AA17OGZF?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The clinic said a hacker they labeled “an unauthorized actor” had the ability to acquire information that included names, contact information, Social Security numbers, driver’s license numbers, health insurance information, and physician names.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

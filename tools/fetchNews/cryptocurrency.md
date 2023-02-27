@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Highly evasive cryptocurrency miner targets macOS<a href="https://securityaffairs.com/142648/cyber-crime/cryptocurrency-miner-targets-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of an evasive cryptojacking malware targeting macOS which spreads through pirated applications
+Jamf Threat Labs researchers reported that an evasive cryptojacking malware targeting macOS was spotted spreading under the guise of the Apple-developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

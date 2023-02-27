@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChromeLoader Malware Targeting Gamers via Fake Nintendo and Steam Game Hacks<a href="https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PureCrypter used to deliver AgentTesla to govt organizations<a href="https://securityaffairs.com/142749/hacking/purecrypter-deliver-agenttesla.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employees bypass cybersecurity guidance to achieve business objectives<a href="https://www.helpnetsecurity.com/2023/02/24/bypass-cybersecurity-guidance/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PureCrypter Malware Targets Government Entities in Asia-Pacific and North America<a href="https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChromeLoader campaign uses VHD files disguised as cracked games and pirated software<a href="https://securityaffairs.com/142740/cyber-crime/chromeloader-malware-vhd-files.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Ukraine hackers CH01 defaced tens of Russian websites on the invasion anniversary<a href="https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PlugX Trojan Disguised as Legitimate Windows Debugger Tool in Latest Attacks<a href="https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious actors push the limits of attack vectors<a href="https://www.helpnetsecurity.com/2023/02/24/malicious-attack-vectors/?&web_view=true"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme<a href="https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkCloud Stealer Targets Users and Businesses Worldwide<a href="https://cyware.com/news/darkcloud-stealer-targets-users-and-businesses-worldwide-5cd2ed7f"> Full Text</a>
@@ -212,7 +212,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian cybercrime alliances upended by Ukraine invasion<a href="https://www.theregister.com/2023/02/24/russian_cybercrime_economy/?&web_view=true"> Full Text</a>
@@ -228,7 +228,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2023
+February 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware attack on food giant Dole Food Company blocked North America production<a href="https://securityaffairs.com/142726/cyber-crime/dole-food-company-ransomware-attack.html"> Full Text</a>
@@ -245,7 +245,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2023
+February 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Ukraine hackers CH01 defaced tens of Russian websites on the invasion anniversary<a href="https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2023
+February 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 26, 2023
+February 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 408 by Pierluigi Paganini<a href="https://securityaffairs.com/142698/breaking-news/security-affairs-newsletter-round-408-by-pierluigi-paganini.html"> Full Text</a>
@@ -297,7 +297,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 25, 2023
+February 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clasiopa group targets materials research in Asia<a href="https://securityaffairs.com/142689/hacking/clasiopa-targets-materials-research-orgs-asia.html"> Full Text</a>
@@ -314,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 25, 2023
+February 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT of Ukraine says Russia-linked APT backdoored multiple govt sites<a href="https://securityaffairs.com/142678/cyber-warfare-2/cert-of-ukraine-russia-backdoors.html"> Full Text</a>

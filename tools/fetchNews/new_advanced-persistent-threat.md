@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT of Ukraine says&nbsp;Russia-linked APT backdoored multiple govt sites<a href="https://securityaffairs.com/142678/cyber-warfare-2/cert-of-ukraine-russia-backdoors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CERT of Ukraine (CERT-UA) revealed that Russia-linked threat actors have compromised multiple government websites this week.&nbsp;
+The Computer Emergency Response Team of Ukraine (CERT-UA) said that Russia-linked threat actors have breached multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

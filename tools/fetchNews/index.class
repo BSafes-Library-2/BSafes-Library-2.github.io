@@ -34,6 +34,303 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers compromised one of the company systems and had access to the emails and documents of some employees. Initial investigation into the hack revealed that the attack was carried out by a nation-state actor for cyber espionage purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChromeLoader Malware Targeting Gamers via Fake Nintendo and Steam Game Hacks<a href="https://thehackernews.com/2023/02/chromeloader-malware-targeting-gamers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ChromeLoader malware campaign has been observed being distributed via virtual hard disk (VHD) files, marking a deviation from the ISO optical disc image format. "These VHD files are being distributed with filenames that make them appear like either hacks or cracks for Nintendo and Steam games," AhnLab Security Emergency response Center (ASEC)  said  in a report last week. ChromeLoader  (aka Choziosi Loader or ChromeBack) originally surfaced in January 2022 as a browser-hijacking credential stealer but has since evolved into a more potent,  multifaceted   threat  capable of stealing sensitive data, deploying ransomware, and even dropping  decompression bombs . The primary goal of the malware is to  compromise  web browsers like Google Chrome, and modify the browser settings to intercept and direct traffic to dubious advertising websites. What's more, ChromeLoader has emerged as a conduit to  carry out click fraud  by leveraging a browser extension to monetize cl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PureCrypter used to deliver AgentTesla to govt organizations<a href="https://securityaffairs.com/142749/hacking/purecrypter-deliver-agenttesla.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is targeting government organizations with the PureCrypter downloader, Menlo Security firm reported. 
+Menlo Labs researchers uncovered an unknown threat actor is using the PureCrypter downloader in attacks aimed at government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees bypass cybersecurity guidance to achieve business objectives<a href="https://www.helpnetsecurity.com/2023/02/24/bypass-cybersecurity-guidance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gartner research shows that compliance-centric cybersecurity programs, low executive support, and subpar industry-level maturity are all indicators of an organization that does not view security risk management as critical to business success.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PureCrypter Malware Targets Government Entities in Asia-Pacific and North America<a href="https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities in Asia-Pacific and North America are being targeted by an unknown threat actor with an off-the-shelf malware downloader known as PureCrypter to deliver an array of information stealers and ransomware. "The PureCrypter campaign uses the domain of a compromised non-profit organization as a command-and-control (C2) to deliver a secondary payload," Menlo Security researcher Abhay Yadav  said . The different types of malware propagated using PureCrypter include  RedLine Stealer ,  Agent Tesla ,  Eternity ,  Blackmoon  (aka  KRBanker ), and  Philadelphia  ransomware. First documented in June 2022, PureCrypter is  advertised  for sale by its author for $59 for one-month access (or $245 for a one-off lifetime purchase) and is capable of distributing a multitude of malware. In December 2022, PureCoder – the developer behind the program –  expanded  the slate of offerings to include a logger and information stealer known as PureLogs, which is designed to si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChromeLoader campaign uses VHD files disguised as cracked games and pirated software<a href="https://securityaffairs.com/142740/cyber-crime/chromeloader-malware-vhd-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the ChromeLoader malware campaign are using VHD files disguised as popular games, experts warn.
+Researchers from Ahnlab Security Emergency Response Center (ASEC) recently uncovered a malware campaign distributing the ChromeLoader...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers CH01 defaced tens of Russian websites on the invasion anniversary<a href="https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of hacktivists that goes online with the moniker CH01 defaced at least 32 Russian websites to mark a protest over the one-year anniversary of the Russian invasion. The news was also shared by the collective Anonymous through its accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlugX Trojan Disguised as Legitimate Windows Debugger Tool in Latest Attacks<a href="https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  PlugX  remote access trojan has been observed masquerading as an open source Windows debugger tool called x64dbg in an attempt to circumvent security protections and gain control of a target system. "This file is a legitimate open-source debugger tool for Windows that is generally used to examine kernel-mode and user-mode code, crash dumps, or CPU registers," Trend Micro researchers Buddy Tancio, Jed Valderama, and Catherine Loveria  said  in a report published last week. PlugX, also known as  Korplug , is a post-exploitation  modular implant , which, among other things, is known for its multiple functionalities such as data exfiltration and its ability to use the compromised machine for nefarious purposes. Although first documented a decade ago in 2012, early samples of the malware date as far as February 2008, according to a  Trend Micro report  at the time. Over the years, PlugX has been used by threat actors with a Chinese nexus as well as cybercrime groups. On
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious actors push the limits of attack vectors<a href="https://www.helpnetsecurity.com/2023/02/24/malicious-attack-vectors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The war in Ukraine has seen the emergence of new forms of cyberattacks, and hacktivists became savvier and more emboldened to deface sites, leak information, and execute DDoS attacks, according to Trellix.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme<a href="https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police announced the arrest of three individuals in connection with a "large-scale" criminal operation involving data theft, extortion, and money laundering. The suspects include two 21-year-old men from Zandvoort and Rotterdam and an 18-year-old man without a permanent residence. The arrests were made on January 23, 2023. It's estimated that the hackers stole personal data belonging to tens of millions of individuals. This comprised names, addresses, telephone numbers, dates of birth, bank account numbers, credit cards, passwords, license plates, social security numbers, and passport details. The Politie said its cybercrime team started the investigation nearly two years ago, in March 2021, after a large Dutch company suffered a security breach. The name of the company was not disclosed but some of the firms that were hit by a cyber attack around that time included  RDC ,  Shell , and  Ticketcounter , the last of which was also a victim of an extortion att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkCloud Stealer Targets Users and Businesses Worldwide<a href="https://cyware.com/news/darkcloud-stealer-targets-users-and-businesses-worldwide-5cd2ed7f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers were found distributing sophisticated DarkCloud Stealer info-stealer through various spam campaigns. The malware operates through a multi-stage process and is capable of collecting sensitive information from a victim’s computer or mobile device. The malware operators claim to target applica ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime alliances upended by Ukraine invasion<a href="https://www.theregister.com/2023/02/24/russian_cybercrime_economy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the so-called "brotherhood" of Russian-speaking cybercriminals is yet another casualty of the war in Ukraine, albeit one that few outside of Moscow are mourning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware attack on food giant Dole Food Company blocked North America production<a href="https://securityaffairs.com/142726/cyber-crime/dole-food-company-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The producers of fruit and vegetables Dole Food Company disclosed a ransomware attack that impacted its operations.
+Dole Food Company is an Irish agricultural multinational corporation, it is one of the world's largest producers of...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine hackers CH01 defaced tens of Russian websites on the invasion anniversary<a href="https://securityaffairs.com/142713/hacktivism/ch01-defaced-russian-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group of hacktivists CH01 defaced at least 32 Russian websites to mark a protest over the one-year anniversary of the Russian invasion
+A group of hacktivists that goes online with the moniker CH01 defaced at least 32 Russian websites to mark a protest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investigation conducted by News Corporation (News Corp) revealed that attackers remained on its network for two years.
+In February 2022, the American media and publishing giant News Corp revealed it was the victim of a cyber attack from an advanced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 408 by Pierluigi Paganini<a href="https://securityaffairs.com/142698/breaking-news/security-affairs-newsletter-round-408-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Clasiopa...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clasiopa group targets materials research in Asia<a href="https://securityaffairs.com/142689/hacking/clasiopa-targets-materials-research-orgs-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor, tracked as Clasiopa, is using a distinct toolset in attacks aimed at materials research organizations in Asia.
+Broadcom Symantec researchers have reported that a previously unknown threat actor, tracked as Clasiopa,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT of Ukraine says Russia-linked APT backdoored multiple govt sites<a href="https://securityaffairs.com/142678/cyber-warfare-2/cert-of-ukraine-russia-backdoors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CERT of Ukraine (CERT-UA) revealed that Russia-linked threat actors have compromised multiple government websites this week. 
+The Computer Emergency Response Team of Ukraine (CERT-UA) said that Russia-linked threat actors have breached multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
