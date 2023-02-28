@@ -11,6 +11,34 @@ nav_order: 900015
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Cloud Servers Targeted by the Mysterious Nevada Group<a href="https://cyware.com/news/thousands-of-cloud-servers-targeted-by-the-mysterious-nevada-group-9c666bd3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified group of ransomware hackers, dubbed Nevada Group, has targeted the computer networks of almost 5,000 victims across the U.S. and Europe.&nbsp;Hackers ask for two Bitcoins (which is around $50,000) and their ransom notes are publicly visible. The CISA has released a simple workaround ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Danish Hospitals Suffer Cyberattack From ‘Anonymous Sudan’<a href="https://therecord.media/danish-hospitals-hit-by-cyberattack-from-anonymous-sudan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Copenhagen’s health authority said on Twitter that although the websites for the hospitals were down, medical care at the facilities was unaffected by the attacks. It later added the sites were back online after “a couple of hours.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PureCrypter Malware Targets Government Entities in Asia-Pacific and North America<a href="https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html"> Full Text</a>
 </p>
 <details>

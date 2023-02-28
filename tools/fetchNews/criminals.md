@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme<a href="https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police announced the arrest of three individuals in connection with a "large-scale" criminal operation involving data theft, extortion, and money laundering. The suspects include two 21-year-old men from Zandvoort and Rotterdam and an 18-year-old man without a permanent residence. The arrests were made on January 23, 2023. It's estimated that the hackers stole personal data belonging to tens of millions of individuals. This comprised names, addresses, telephone numbers, dates of birth, bank account numbers, credit cards, passwords, license plates, social security numbers, and passport details. The Politie said its cybercrime team started the investigation nearly two years ago, in March 2021, after a large Dutch company suffered a security breach. The name of the company was not disclosed but some of the firms that were hit by a cyber attack around that time included&nbsp; RDC ,&nbsp; Shell , and&nbsp; Ticketcounter , the last of which was also a victim of an extortion att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime alliances upended by Ukraine invasion<a href="https://www.theregister.com/2023/02/24/russian_cybercrime_economy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers, the so-called "brotherhood" of Russian-speaking cybercriminals is yet another casualty of the war in Ukraine, albeit one that few outside of Moscow are mourning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

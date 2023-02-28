@@ -11,6 +11,21 @@ nav_order: 900031
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Dutch Police arrests 3 men involved in a massive extortion scheme. One of them is an ethical hacker<a href="https://securityaffairs.com/142759/cyber-crime/dutch-police-arrested-3-men-extortion-ring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police arrested three individuals as a result of an investigation into computer trespass, data theft, extortion, extortion, and money laundering.
+The Dutch police announced the arrest of three men as the result of an extensive investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Dutch Police Arrest 3 Hackers Involved in Massive Data Theft and Extortion Scheme<a href="https://thehackernews.com/2023/02/dutch-police-arrest-3-hackers-involved.html"> Full Text</a>
 </p>
 <details>

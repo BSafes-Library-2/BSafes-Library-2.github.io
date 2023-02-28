@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shocking Findings from the 2023 Third-Party App Access Report<a href="https://thehackernews.com/2023/02/shocking-findings-from-2023-third-party.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spoiler Alert: Organizations with 10,000 SaaS users that use M365 and Google Workspace average over 4,371 additional connected apps. SaaS-to-SaaS (third-party) app installations are growing&nbsp; nonstop &nbsp;at organizations around the world. When an employee needs an additional app to increase their efficiency or productivity, they rarely think twice before installing. Most employees don't even realize that this SaaS-to-SaaS connectivity, which requires scopes like the ability to read, update, create, and delete content, increases their organization's attack surface in a significant way. Third-party app connections typically take place outside the view of the security team, are not vetted to understand the level of risk they pose. Adaptive Shield's latest report,&nbsp; Uncovering the Risks &amp; Realities of Third-Party Connected Apps , dives into the data on this topic. It reviews the average number of SaaS-to-SaaS apps organizations have, and the level of risk they present. Here are the top
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

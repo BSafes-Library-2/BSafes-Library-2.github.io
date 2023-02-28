@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChromeLoader campaign uses&nbsp;VHD files disguised as cracked games and pirated software<a href="https://securityaffairs.com/142740/cyber-crime/chromeloader-malware-vhd-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the ChromeLoader malware campaign&nbsp;are using&nbsp;VHD files disguised as popular games, experts warn.
+Researchers from Ahnlab Security Emergency Response Center (ASEC)&nbsp;recently uncovered a malware campaign distributing the ChromeLoader...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

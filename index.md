@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Cloud Servers Targeted by the Mysterious Nevada Group<a href="https://cyware.com/news/thousands-of-cloud-servers-targeted-by-the-mysterious-nevada-group-9c666bd3"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Share New Insights Into RIG Exploit Kit Malware's Operations<a href="https://thehackernews.com/2023/02/researchers-share-new-insights-into-rig.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Jurisdiction of the New Data Protection Review Court<a href="https://www.lawfareblog.com/jurisdiction-new-data-protection-review-court"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LastPass: hackers breached the computer of a DevOps engineer in a second attack<a href="https://securityaffairs.com/142791/hacking/lastpass-discloses-second-attack.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Abuse SM Platforms to Deliver S1deload Stealer<a href="https://cyware.com/news/attackers-abuse-sm-platforms-to-deliver-s1deload-stealer-867ed93d"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shocking Findings from the 2023 Third-Party App Access Report<a href="https://thehackernews.com/2023/02/shocking-findings-from-2023-third-party.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors leak Activision employee data on hacking forum<a href="https://securityaffairs.com/142779/data-breach/activision-data-leak.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Low-Tech Hacks Cause High-Impact Breaches – Krebs on Security<a href="https://krebsonsecurity.com/2023/02/when-low-tech-hacks-cause-high-impact-breaches/?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PlugX Trojan disguised as a legitimate Windows open-source tool in recent attacks<a href="https://securityaffairs.com/142770/malware/plugx-trojan-disguised-windows-tool.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA569: SocGholish and Beyond<a href="https://www.proofpoint.com/us/blog/threat-insight/ta569-socgholish-and-beyond?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch Police arrests 3 men involved in a massive extortion scheme. One of them is an ethical hacker<a href="https://securityaffairs.com/142759/cyber-crime/dutch-police-arrested-3-men-extortion-ring.html"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Amazon Prime email abuses LinkedIn's URL shortener<a href="https://www.malwarebytes.com/blog/news/2023/02/linkedin-slinks-abused-to-phish-email-and-payment-details?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine Danish Hospitals Suffer Cyberattack From ‘Anonymous Sudan’<a href="https://therecord.media/danish-hospitals-hit-by-cyberattack-from-anonymous-sudan/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chromium bug allowed SameSite cookie bypass on Android devices<a href="https://portswigger.net/daily-swig/chromium-bug-allowed-samesite-cookie-bypass-on-android-devices?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft recommending you scan more Exchange server files<a href="https://www.theregister.com/2023/02/26/microsoft_exchange_server_exclusion/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stanford University Discloses Data Breach - Ph.D. Admission Data Leaked<a href="https://gbhackers.com/stanford-university-data-breach/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 27, 2023
+February 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wiper malware goes global, destructive attacks surge<a href="https://www.helpnetsecurity.com/2023/02/27/destructive-wiper-malware/?&web_view=true"> Full Text</a>

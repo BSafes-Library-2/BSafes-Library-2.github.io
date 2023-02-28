@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PureCrypter Malware Targets Government Entities in Asia-Pacific and North America<a href="https://thehackernews.com/2023/02/purecrypter-malware-targets-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities in Asia-Pacific and North America are being targeted by an unknown threat actor with an off-the-shelf malware downloader known as PureCrypter to deliver an array of information stealers and ransomware. "The PureCrypter campaign uses the domain of a compromised non-profit organization as a command-and-control (C2) to deliver a secondary payload," Menlo Security researcher Abhay Yadav&nbsp; said . The different types of malware propagated using PureCrypter include&nbsp; RedLine Stealer ,&nbsp; Agent Tesla ,&nbsp; Eternity ,&nbsp; Blackmoon &nbsp;(aka&nbsp; KRBanker ), and&nbsp; Philadelphia &nbsp;ransomware. First documented in June 2022, PureCrypter is&nbsp; advertised &nbsp;for sale by its author for $59 for one-month access (or $245 for a one-off lifetime purchase) and is capable of distributing a multitude of malware. In December 2022, PureCoder – the developer behind the program –&nbsp; expanded &nbsp;the slate of offerings to include a logger and information stealer known as PureLogs, which is designed to si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlugX Trojan Disguised as Legitimate Windows Debugger Tool in Latest Attacks<a href="https://thehackernews.com/2023/02/plugx-trojan-disguised-as-legitimate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; PlugX &nbsp;remote access trojan has been observed masquerading as an open source Windows debugger tool called x64dbg in an attempt to circumvent security protections and gain control of a target system. "This file is a legitimate open-source debugger tool for Windows that is generally used to examine kernel-mode and user-mode code, crash dumps, or CPU registers," Trend Micro researchers Buddy Tancio, Jed Valderama, and Catherine Loveria&nbsp; said &nbsp;in a report published last week. PlugX, also known as&nbsp; Korplug , is a post-exploitation&nbsp; modular implant , which, among other things, is known for its multiple functionalities such as data exfiltration and its ability to use the compromised machine for nefarious purposes. Although first documented a decade ago in 2012, early samples of the malware date as far as February 2008, according to a&nbsp; Trend Micro report &nbsp;at the time. Over the years, PlugX has been used by threat actors with a Chinese nexus as well as cybercrime groups. On
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clasiopa group targets materials research in Asia<a href="https://securityaffairs.com/142689/hacking/clasiopa-targets-materials-research-orgs-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor, tracked as Clasiopa, is using a distinct toolset in attacks aimed at materials research organizations in Asia.
+Broadcom Symantec researchers have reported that a previously unknown threat actor, tracked as Clasiopa,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

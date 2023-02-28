@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Jurisdiction of the New Data Protection Review Court<a href="https://www.lawfareblog.com/jurisdiction-new-data-protection-review-court"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden’s recent executive order may transform how privacy complaints are resolved within the context of U.S. intelligence activities abroad by providing access to an adjudicative system globally.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

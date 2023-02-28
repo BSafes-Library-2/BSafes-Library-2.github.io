@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employees bypass cybersecurity guidance to achieve business objectives<a href="https://www.helpnetsecurity.com/2023/02/24/bypass-cybersecurity-guidance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gartner research shows that compliance-centric cybersecurity programs, low executive support, and subpar industry-level maturity are all indicators of an organization that does not view security risk management as critical to business success.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
