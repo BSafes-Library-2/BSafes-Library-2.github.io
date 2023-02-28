@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Cloud Servers Targeted by the Mysterious Nevada Group<a href="https://cyware.com/news/thousands-of-cloud-servers-targeted-by-the-mysterious-nevada-group-9c666bd3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified group of ransomware hackers, dubbed Nevada Group, has targeted the computer networks of almost 5,000 victims across the U.S. and Europe. Hackers ask for two Bitcoins (which is around $50,000) and their ransom notes are publicly visible. The CISA has released a simple workaround ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Share New Insights Into RIG Exploit Kit Malware's Operations<a href="https://thehackernews.com/2023/02/researchers-share-new-insights-into-rig.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RIG exploit kit (EK) touched an all-time high successful exploitation rate of nearly 30% in 2022, new findings reveal. "RIG EK is a financially-motivated program that has been active since 2014," Swiss cybersecurity company PRODAFT  said  in an exhaustive report shared with The Hacker News. "Although it has yet to substantially change its exploits in its more recent activity, the type and version of the malware they distribute constantly change. The frequency of updating samples ranges from weekly to daily updates." Exploit kits are programs used to distribute malware to large numbers of victims by taking advantage of known security flaws in commonly-used software such as web browsers. The fact that  RIG EK  runs as a service model means threat actors can financially compensate the RIG EK administrator for installing malware of their choice on victim machines. The RIG EK operators primarily employ malvertising to ensure a high infection rate and large-scale
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Jurisdiction of the New Data Protection Review Court<a href="https://www.lawfareblog.com/jurisdiction-new-data-protection-review-court"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden’s recent executive order may transform how privacy complaints are resolved within the context of U.S. intelligence activities abroad by providing access to an adjudicative system globally.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass: hackers breached the computer of a DevOps engineer in a second attack<a href="https://securityaffairs.com/142791/hacking/lastpass-discloses-second-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the home computer of a DevOp engineer, they installed a keylogger as part of a sophisticated cyber attack.
+Password management software firm LastPass disclosed a “second attack,” a threat actor used data stolen from the August...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse SM Platforms to Deliver S1deload Stealer<a href="https://cyware.com/news/attackers-abuse-sm-platforms-to-deliver-s1deload-stealer-867ed93d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender disclosed an active malware campaign targeting Facebook and YouTube users with S1deload Stealer, using adult themes as bait. The new information stealer compromises user credentials and exploits system resources to mine BEAM cryptocurrency. The malware has the ability to propagate its m ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shocking Findings from the 2023 Third-Party App Access Report<a href="https://thehackernews.com/2023/02/shocking-findings-from-2023-third-party.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spoiler Alert: Organizations with 10,000 SaaS users that use M365 and Google Workspace average over 4,371 additional connected apps. SaaS-to-SaaS (third-party) app installations are growing  nonstop  at organizations around the world. When an employee needs an additional app to increase their efficiency or productivity, they rarely think twice before installing. Most employees don't even realize that this SaaS-to-SaaS connectivity, which requires scopes like the ability to read, update, create, and delete content, increases their organization's attack surface in a significant way. Third-party app connections typically take place outside the view of the security team, are not vetted to understand the level of risk they pose. Adaptive Shield's latest report,  Uncovering the Risks & Realities of Third-Party Connected Apps , dives into the data on this topic. It reviews the average number of SaaS-to-SaaS apps organizations have, and the level of risk they present. Here are the top
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors leak Activision employee data on hacking forum<a href="https://securityaffairs.com/142779/data-breach/activision-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data allegedly stolen from the American gaming giant Activision in December security breach were leaked on a cybercrime forum.
+A threat actor leaked on the Breached hacking forum the data allegedly stolen from the gaming giant Activision in December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Low-Tech Hacks Cause High-Impact Breaches – Krebs on Security<a href="https://krebsonsecurity.com/2023/02/when-low-tech-hacks-cause-high-impact-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers are usually careful to do nothing with the phishing domain until they are ready to initiate a vishing call to a potential victim. And when the attack or call is complete, they disable the website tied to the domain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlugX Trojan disguised as a legitimate Windows open-source tool in recent attacks<a href="https://securityaffairs.com/142770/malware/plugx-trojan-disguised-windows-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a new wave of attacks distributing the PlugX RAT disguised as a legitimate Windows debugger tool.
+Trend Micro uncovered a new wave of attacks aimed at distributing the PlugX remote access trojan masqueraded as an open-source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA569: SocGholish and Beyond<a href="https://www.proofpoint.com/us/blog/threat-insight/ta569-socgholish-and-beyond?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA569 leverages many types of injections, traffic distribution systems (TDS), and payloads including, but not limited to, SocGholish. In addition to serving as an initial access broker, these injects imply it may be running a pay-per-install service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Police arrests 3 men involved in a massive extortion scheme. One of them is an ethical hacker<a href="https://securityaffairs.com/142759/cyber-crime/dutch-police-arrested-3-men-extortion-ring.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch police arrested three individuals as a result of an investigation into computer trespass, data theft, extortion, extortion, and money laundering.
+The Dutch police announced the arrest of three men as the result of an extensive investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Amazon Prime email abuses LinkedIn's URL shortener<a href="https://www.malwarebytes.com/blog/news/2023/02/linkedin-slinks-abused-to-phish-email-and-payment-details?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last few days, scammers have been sending out phishing emails that disguise bogus URLs with something called Slinks—shortened Linkedin URLs. Now, they're being used in a scam based on Amazon's popular Prime membership.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Danish Hospitals Suffer Cyberattack From ‘Anonymous Sudan’<a href="https://therecord.media/danish-hospitals-hit-by-cyberattack-from-anonymous-sudan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Copenhagen’s health authority said on Twitter that although the websites for the hospitals were down, medical care at the facilities was unaffected by the attacks. It later added the sites were back online after “a couple of hours.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chromium bug allowed SameSite cookie bypass on Android devices<a href="https://portswigger.net/daily-swig/chromium-bug-allowed-samesite-cookie-bypass-on-android-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched bug in the open-source Chromium browser project could allow malicious actors to bypass a security feature that protects sensitive cookies on Android browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft recommending you scan more Exchange server files<a href="https://www.theregister.com/2023/02/26/microsoft_exchange_server_exclusion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In particular, the software giant said this week that sysadmins should now include the Temporary ASP.NET files, Inetsrv folders, and the PowerShell and w3wp processes on the list of files and folders to be run through antivirus systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanford University Discloses Data Breach - Ph.D. Admission Data Leaked<a href="https://gbhackers.com/stanford-university-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident occurred due to the misconfiguration of the folder settings, which led to the availability of the 2022-23 application files for admission to the program on the department’s website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiper malware goes global, destructive attacks surge<a href="https://www.helpnetsecurity.com/2023/02/27/destructive-wiper-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat landscape and organizations’ attack surfaces are constantly transforming, and cybercriminals’ ability to design and adapt their techniques to suit this evolving environment continues to pose significant risks to all businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
