@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChromeLoader Operators Hide Malware in VHD Files for Game Cracks<a href="https://cyware.com/news/chromeloader-operators-hide-malware-in-vhd-files-for-game-cracks-ce8dbc36"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new ChromeLoader malware campaign that is being propagated via VHD files named after popular games, such as ROBLOX, Elden Ring, Call of Duty, Pokemon, Animal Crossing, and others. x hijacks browser searches to show advertisements and later modifies the browser setting and coll ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender Releases Free Decryptor for MortalKombat Ransomware Strain<a href="https://thehackernews.com/2023/02/bitdefender-releases-free-decryptor-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian cybersecurity company Bitdefender has  released  a free decryptor for a new ransomware strain known as  MortalKombat . MortalKombat is a new ransomware strain that emerged in January 2023. It's based on commodity ransomware dubbed Xorist and has been observed in attacks targeting entities in the U.S., the Philippines, the U.K., and Turkey. Xorist , detected since 2010, is distributed as a ransomware builder, allowing cyber threat actors to create and customize their own version of the malware. This includes the ransom note, the file name of the ransom note, the list of file extensions targeted, the wallpaper to be used, and the extension to be used on encrypted files. MortalKombat notably was deployed in recent attacks mounted by an unnamed financially motivated threat actor as a part of a phishing campaign aimed at a wide range of organizations. "MortalKombat encrypts various files on the victim machine's filesystem, such as system, application, database,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender released a free decryptor for the MortalKombat Ransomware family<a href="https://securityaffairs.com/142830/malware/mortalkombat-ransomware-free-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus company Bitdefender has released a free decryptor for the recently discovered ransomware family MortalKombat.
+Good news for the victims of the recently discovered MortalKombat ransomware, the antivirus firm Bitdefender has released a...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clasiopa Group Uses Distinct Toolset to Targeting Asian Research Organizations<a href="https://cyware.com/news/clasiopa-group-uses-distinct-toolset-to-targeting-asian-research-organizations-2581bc92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group, dubbed Clasiopa by the analysts at Broadcom company Symantec, is reportedly launching attacks against organizations in the materials research sector. The group boasts a unique toolset, including the custom Atharvan backdoor. Criminals have also used modified versions of the publicly ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EX-22 Tool Empowers Hackers with Stealthy Ransomware Attacks on Enterprises<a href="https://thehackernews.com/2023/02/new-ex-22-tool-empowers-hackers-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new post-exploitation framework called EXFILTRATOR-22 (aka EX-22) has emerged in the wild with the goal of deploying ransomware within enterprise networks while flying under the radar. "It comes with a wide range of capabilities, making post-exploitation a cakewalk for anyone purchasing the tool," CYFIRMA  said  in a new report. Some of the notable features include establishing a reverse shell with elevated privileges, uploading and downloading files, logging keystrokes, launching ransomware to encrypt files, and starting a live VNC (Virtual Network Computing) session for real-time access. It's also equipped to persist after system reboots, perform lateral movement via a worm, view running processes, generate cryptographic hashes of files, and extract authentication tokens. The cybersecurity firm assessed with moderate confidence that threat actors responsible for creating the malware are operating from North, East, or Southeast Asia and are likely former affiliat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Marshals Service suffers a ransomware attack<a href="https://securityaffairs.com/142823/cyber-crime/u-s-marshals-service-suffers-a-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Marshals Service (USMS) was the victim of a ransomware attack, it is investigating the theft of sensitive information.
+The U.S. Marshals Service (USMS) announced that a ransomware attack has impacted "a stand-alone USMS system." The US bureau...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Threat actors leak Activision employee data on hacking forum<a href="https://securityaffairs.com/142779/data-breach/activision-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors claim to have obtained 19,444 unique records from an Activision Azure database and are offering it for free. The leaked data contains names, phone numbers, job titles, locations, and email addresses of Activision employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application Security vs. API Security: What is the difference?<a href="https://thehackernews.com/2023/02/application-security-vs-api-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As digital transformation takes hold and businesses become increasingly reliant on digital services, it has become more important than ever to secure applications and APIs (Application Programming Interfaces). With that said, application security and API security are two critical components of a comprehensive security strategy. By utilizing these practices, organizations can protect themselves from malicious attacks and security threats, and most importantly, ensure their data remains secure. Interestingly enough, despite the clear advantages these disciplines provide, businesses are struggling to understand which security approach is best for their needs. So in this article, we'll discuss the differences between application and API security, best practices that you should consider, and ultimately make the case for why you need both.  What is Application Security Application security, better known as AppSec, is a critical aspect of any organization's cybersecurity strategy.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds ZK Java Web Framework bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142811/security/zk-java-web-framework-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added an actively exploited vulnerability in the ZK Java Web Framework to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a vulnerability, tracked as CVE-2022-36537 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US National Cyber Strategy Pushes Regulation, Aggressive Hack-Back Operations<a href="https://www.securityweek.com/us-national-cyber-strategy-pushes-regulation-aggressive-hack-back-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy, created by the Office of the National Cyber Director (ONCD), also gives high-level authorization to law enforcement and intelligence agencies to hack into foreign networks to prevent attacks or to retaliate against APT campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT-C-36 Strikes Again: Blind Eagle Hackers Target Key Industries in Colombia<a href="https://thehackernews.com/2023/02/apt-c-36-strikes-again-blind-eagle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Blind Eagle has been linked to a new campaign targeting various key industries in Colombia. The activity, which was detected by the BlackBerry Research and Intelligence Team on February 20, 2023, is also said to encompass Ecuador, Chile, and Spain, suggesting a slow expansion of the hacking group's victimology footprint. Targeted entities include health, financial, law enforcement, immigration, and an agency in charge of peace negotiation in Colombia, the Canadian cybersecurity company said. Blind Eagle, also known as  APT-C-36 , was  recently covered  by Check Point Research, detailing the adversary's advanced toolset comprising Meterpreter payloads that are delivered via spear-phishing emails. The latest set of attacks involves the group impersonating the Colombian government tax agency, the National Directorate of Taxes and Customs (DIAN), to phish its targets using lures that urge recipients to settle "outstanding obligations." Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resecurity identified the investment scam network ‘Digital Smoke’<a href="https://securityaffairs.com/142803/cyber-crime/investment-scam-network-digital-smoke.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified one of the largest investment fraud networks, tracked as Digital Smoke, by size and volume of operations.
+Resecurity identified one of the largest investment fraud networks by size and volume of operations created to defraud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Popular Real Estate Theme Exploited to Hack WordPress Websites<a href="https://www.securityweek.com/vulnerability-in-popular-real-estate-theme-exploited-to-hack-wordpress-websites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is tracked as CVE-2023-26009 in the Houzez plugin and CVE-2023-26540 in the theme. The vendor was informed about the security hole and patched it with the release of versions 2.6.4 (plugin) and 2.7.2 (theme).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning on Active Exploitation of ZK Java Web Framework Vulnerability<a href="https://thehackernews.com/2023/02/cisa-issues-warning-on-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  a high-severity flaw affecting the ZK Framework to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation. Tracked as  CVE-2022-36537  (CVSS score: 7.5), the issue impacts ZK Framework versions 9.6.1, 9.6.0.1, 9.5.1.3, 9.0.1.2, and 8.6.4.1, and allows threat actors to retrieve sensitive information via specially crafted requests. "The ZK Framework is an open source Java framework," CISA  said . "This vulnerability can impact multiple products, including but not limited to ConnectWise R1Soft Server Backup Manager." The  vulnerability  was patched in May 2022 in versions 9.6.2, 9.6.0.2, 9.5.1.4, 9.0.1.3, and 8.6.4.2. As  demonstrated  by Huntress in a proof-of-concept (PoC) in October 2022, the vulnerability can be weaponized to bypass authentication, upload a backdoored JDBC database driver to gain code execution, and deploy ransomware on susceptible
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investment Scam Network ‘Digital Smoke’ Impersonates Fortune 100 Corporations<a href="https://securityaffairs.com/142803/cyber-crime/investment-scam-network-digital-smoke.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified one of the largest investment fraud networks by size and volume of operations defrauding users from Australia, Canada, China, Colombia, the EU, India, Singapore, Malaysia, UAE, Saudi Arabia, Mexico, the US, and other regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Reveals Second Attack Resulting in Breach of Encrypted Password Vaults<a href="https://thehackernews.com/2023/02/lastpass-reveals-second-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass, which in December 2022 disclosed a severe data breach that allowed threat actors to access encrypted password vaults, said it happened as a result of the same adversary launching a second attack on its systems. The company said one of its DevOps engineers had their personal home computer breached and infected with a keylogger as part of a sustained cyber attack that exfiltrated sensitive data from its Amazon AWS cloud storage servers. "The threat actor leveraged information stolen during the first incident, information available from a third-party data breach, and a vulnerability in a third-party media software package to launch a coordinated second attack," the password management service  said . This intrusion targeted the company's infrastructure, resources, and one of its employees from August 12, 2022 to October 26, 2022. The original incident, on the other hand, ended on August 12, 2022. The  August breach  saw the intruders accessing source code and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud security startup Wiz, now valued at $10B, raises $300M<a href="https://techcrunch.com/2023/02/27/cloud-security-startup-wiz-now-valued-at-10b-raises-300m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series D round was co-led by Lightspeed Venture Partners and Greenoaks Capital Partners, with participation from angel investors including Starbucks owner Howard Schultz and French business magnate Bernard Arnault.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

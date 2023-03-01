@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chromium bug allowed SameSite cookie bypass on Android devices<a href="https://portswigger.net/daily-swig/chromium-bug-allowed-samesite-cookie-bypass-on-android-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched bug in the open-source Chromium browser project could allow malicious actors to bypass a security feature that protects sensitive cookies on Android browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft recommending you scan more Exchange server files<a href="https://www.theregister.com/2023/02/26/microsoft_exchange_server_exclusion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In particular, the software giant said this week that sysadmins should now include the Temporary ASP.NET files, Inetsrv folders, and the PowerShell and w3wp processes on the list of files and folders to be run through antivirus systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud security startup Wiz, now valued at $10B, raises $300M<a href="https://techcrunch.com/2023/02/27/cloud-security-startup-wiz-now-valued-at-10b-raises-300m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series D round was co-led by Lightspeed Venture Partners and Greenoaks Capital Partners, with participation from angel investors including Starbucks owner Howard Schultz and French business magnate Bernard Arnault.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

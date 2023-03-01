@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Application Security vs. API Security: What is the difference?<a href="https://thehackernews.com/2023/02/application-security-vs-api-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As digital transformation takes hold and businesses become increasingly reliant on digital services, it has become more important than ever to secure applications and APIs (Application Programming Interfaces). With that said, application security and API security are two critical components of a comprehensive security strategy. By utilizing these practices, organizations can protect themselves from malicious attacks and security threats, and most importantly, ensure their data remains secure. Interestingly enough, despite the clear advantages these disciplines provide, businesses are struggling to understand which security approach is best for their needs. So in this article, we'll discuss the differences between application and API security, best practices that you should consider, and ultimately make the case for why you need both.&nbsp; What is Application Security Application security, better known as AppSec, is a critical aspect of any organization's cybersecurity strategy.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

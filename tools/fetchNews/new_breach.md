@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Reveals Second Attack Resulting in Breach of Encrypted Password Vaults<a href="https://thehackernews.com/2023/02/lastpass-reveals-second-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LastPass, which in December 2022 disclosed a severe data breach that allowed threat actors to access encrypted password vaults, said it happened as a result of the same adversary launching a second attack on its systems. The company said one of its DevOps engineers had their personal home computer breached and infected with a keylogger as part of a sustained cyber attack that exfiltrated sensitive data from its Amazon AWS cloud storage servers. "The threat actor leveraged information stolen during the first incident, information available from a third-party data breach, and a vulnerability in a third-party media software package to launch a coordinated second attack," the password management service&nbsp; said . This intrusion targeted the company's infrastructure, resources, and one of its employees from August 12, 2022 to October 26, 2022. The original incident, on the other hand, ended on August 12, 2022. The&nbsp; August breach &nbsp;saw the intruders accessing source code and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

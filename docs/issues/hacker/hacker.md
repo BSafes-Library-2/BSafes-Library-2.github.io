@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChromeLoader Operators Hide Malware in VHD Files for Game Cracks<a href="https://cyware.com/news/chromeloader-operators-hide-malware-in-vhd-files-for-game-cracks-ce8dbc36"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new ChromeLoader malware campaign that is being propagated via VHD files named after popular games, such as ROBLOX, Elden Ring, Call of Duty, Pokemon, Animal Crossing, and others. x hijacks browser searches to show advertisements and later modifies the browser setting and coll ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clasiopa Group Uses Distinct Toolset to Targeting Asian Research Organizations<a href="https://cyware.com/news/clasiopa-group-uses-distinct-toolset-to-targeting-asian-research-organizations-2581bc92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group, dubbed Clasiopa by the analysts at Broadcom company Symantec, is reportedly launching attacks against organizations in the materials research sector. The group boasts a unique toolset, including the custom Atharvan backdoor. Criminals have also used modified versions of the publicly ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

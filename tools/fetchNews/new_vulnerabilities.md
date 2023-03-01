@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Popular Real Estate Theme Exploited to Hack WordPress Websites<a href="https://www.securityweek.com/vulnerability-in-popular-real-estate-theme-exploited-to-hack-wordpress-websites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is tracked as CVE-2023-26009 in the Houzez plugin and CVE-2023-26540 in the theme. The vendor was informed about the security hole and patched it with the release of versions 2.6.4 (plugin) and 2.7.2 (theme).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

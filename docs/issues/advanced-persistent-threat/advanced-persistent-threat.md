@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT-C-36 Strikes Again: Blind Eagle Hackers Target Key Industries in Colombia<a href="https://thehackernews.com/2023/02/apt-c-36-strikes-again-blind-eagle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Blind Eagle has been linked to a new campaign targeting various key industries in Colombia. The activity, which was detected by the BlackBerry Research and Intelligence Team on February 20, 2023, is also said to encompass Ecuador, Chile, and Spain, suggesting a slow expansion of the hacking group's victimology footprint. Targeted entities include health, financial, law enforcement, immigration, and an agency in charge of peace negotiation in Colombia, the Canadian cybersecurity company said. Blind Eagle, also known as&nbsp; APT-C-36 , was&nbsp; recently covered &nbsp;by Check Point Research, detailing the adversary's advanced toolset comprising Meterpreter payloads that are delivered via spear-phishing emails. The latest set of attacks involves the group impersonating the Colombian government tax agency, the National Directorate of Taxes and Customs (DIAN), to phish its targets using lures that urge recipients to settle "outstanding obligations." Th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

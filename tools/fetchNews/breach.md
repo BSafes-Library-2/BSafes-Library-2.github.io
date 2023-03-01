@@ -11,6 +11,50 @@ nav_order: 900029
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+LastPass: hackers breached the computer of a DevOps engineer in a second attack<a href="https://securityaffairs.com/142791/hacking/lastpass-discloses-second-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors hacked the home computer of a DevOp engineer, they installed a keylogger as part of a sophisticated cyber attack.
+Password management software firm LastPass disclosed a “second attack,” a threat actor used data stolen from the August...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors leak Activision employee data on hacking forum<a href="https://securityaffairs.com/142779/data-breach/activision-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data allegedly stolen from the American gaming giant Activision in December security breach were leaked on a cybercrime forum.
+A threat actor leaked on the Breached hacking forum the data allegedly stolen from the gaming giant Activision in December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanford University Discloses Data Breach - Ph.D. Admission Data Leaked<a href="https://gbhackers.com/stanford-university-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident occurred due to the misconfiguration of the folder settings, which led to the availability of the 2022-23 application files for admission to the program on the department’s website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 News Corp says hackers first breached its systems between Feb 2020 and Jan 2022<a href="https://securityaffairs.com/142701/data-breach/news-corp-security-breach.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

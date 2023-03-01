@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resecurity identified the investment scam network ‘Digital Smoke’<a href="https://securityaffairs.com/142803/cyber-crime/investment-scam-network-digital-smoke.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified one of the largest investment fraud networks, tracked as Digital Smoke, by size and volume of operations.
+Resecurity identified one of the largest investment fraud networks by size and volume of operations created to defraud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Investment Scam Network ‘Digital Smoke’ Impersonates Fortune 100 Corporations<a href="https://securityaffairs.com/142803/cyber-crime/investment-scam-network-digital-smoke.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified one of the largest investment fraud networks by size and volume of operations defrauding users from Australia, Canada, China, Colombia, the EU, India, Singapore, Malaysia, UAE, Saudi Arabia, Mexico, the US, and other regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
