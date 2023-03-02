@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware<a href="https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six different law firms were targeted in January and February 2023 as part of two disparate threat campaigns distributing&nbsp; GootLoader &nbsp;and&nbsp; FakeUpdates &nbsp;(aka SocGholish) malware strains. GootLoader , active since late 2020, is a first-stage downloader that's capable of delivering a wide range of secondary payloads such as Cobalt Strike and ransomware. It notably&nbsp; employs &nbsp;search engine optimization (SEO) poisoning to funnel victims searching for business-related documents toward drive-by download sites that drop the JavaScript malware. In the&nbsp; campaign &nbsp;detailed by cybersecurity company eSentire, the threat actors are said to have compromised legitimate, but vulnerable, WordPress websites and added new blog posts without the owners' knowledge. "When the computer user navigates to one of these malicious web pages and hits the link to download the purported business agreement, they are unknowingly downloading GootLoader," eSentire researcher Keegan Keplinger&nbsp; said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

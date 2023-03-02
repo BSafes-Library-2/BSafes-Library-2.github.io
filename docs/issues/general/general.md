@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Covert cyberattacks on the rise as attackers shift tactics for maximum impact<a href="https://www.helpnetsecurity.com/2023/03/01/shifting-attack-strategies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2022 was the second-highest year on record for global ransomware attempts, as well as an 87% increase in IoT malware and a record number of cryptojacking attacks (139.3 million), according to SonicWall.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Are Stressed Out and It's Putting Companies at Risk<a href="https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employee well-being has become a primary focus for many businesses. Even before the pandemic, the C-suite was acutely aware of how employee mental health impacts business outcomes.&nbsp; But for cybersecurity professionals, stress has always been a part of the job. A&nbsp; new survey &nbsp;revealed that one of the most concerning aspects of employee mental health is how it impacts cybersecurity programs and, more broadly, a business' ability to protect itself from cyberattacks. CISOs and their teams appear to be taking the brunt of unmitigated work-related stress levels and it's affecting the entire organization.&nbsp; CISOs at small to midsize businesses with teams of five employees or fewer were surveyed to better understand how work-related stress is impacting CISOs – from their ability to do their job and lead their team to how it's affecting their own professional outlook and personal life. Here's what the survey results revealed.&nbsp; The Impact of CISO Work-Stress Levels on Small
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can You See It Now? An Emerging LockBit Campaign<a href="https://www.fortinet.com/blog/threat-research/emerging-lockbit-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from FortiGuard Labs observed a new LockBit ransomware campaign during December 2022 and January 2023 using a combination of techniques effective against AV and EDR solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scams are Rising and Rising Fast - Shows FTC 2022 Data<a href="https://cyware.com/news/scams-are-rising-and-rising-fast-shows-ftc-2022-data-cae49008"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to new data from the FTC, U.S. consumers lost $8.8 billion to online fraud in 2022, with investment scams and imposter scams topping the list, causing $3.8 billion and $2.6 billion in losses, respectively. Among the top five fraud schemes, imposter scams topped the list, followed by onlin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

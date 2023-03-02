@@ -8,6 +8,49 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender Releases Free Decryptor for MortalKombat Ransomware Strain<a href="https://thehackernews.com/2023/02/bitdefender-releases-free-decryptor-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Romanian cybersecurity company Bitdefender has&nbsp; released &nbsp;a free decryptor for a new ransomware strain known as&nbsp; MortalKombat . MortalKombat is a new ransomware strain that emerged in January 2023. It's based on commodity ransomware dubbed Xorist and has been observed in attacks targeting entities in the U.S., the Philippines, the U.K., and Turkey. Xorist , detected since 2010, is distributed as a ransomware builder, allowing cyber threat actors to create and customize their own version of the malware. This includes the ransom note, the file name of the ransom note, the list of file extensions targeted, the wallpaper to be used, and the extension to be used on encrypted files. MortalKombat notably was deployed in recent attacks mounted by an unnamed financially motivated threat actor as a part of a phishing campaign aimed at a wide range of organizations. "MortalKombat encrypts various files on the victim machine's filesystem, such as system, application, database,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitdefender released a free decryptor for the MortalKombat Ransomware family<a href="https://securityaffairs.com/142830/malware/mortalkombat-ransomware-free-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Antivirus company Bitdefender has&nbsp;released&nbsp;a free decryptor for the recently discovered ransomware family MortalKombat.
+Good news for the victims of the recently discovered MortalKombat ransomware, the antivirus firm Bitdefender has&nbsp;released&nbsp;a...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New EX-22 Tool Empowers Hackers with Stealthy Ransomware Attacks on Enterprises<a href="https://thehackernews.com/2023/02/new-ex-22-tool-empowers-hackers-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new post-exploitation framework called EXFILTRATOR-22 (aka EX-22) has emerged in the wild with the goal of deploying ransomware within enterprise networks while flying under the radar. "It comes with a wide range of capabilities, making post-exploitation a cakewalk for anyone purchasing the tool," CYFIRMA&nbsp; said &nbsp;in a new report. Some of the notable features include establishing a reverse shell with elevated privileges, uploading and downloading files, logging keystrokes, launching ransomware to encrypt files, and starting a live VNC (Virtual Network Computing) session for real-time access. It's also equipped to persist after system reboots, perform lateral movement via a worm, view running processes, generate cryptographic hashes of files, and extract authentication tokens. The cybersecurity firm assessed with moderate confidence that threat actors responsible for creating the malware are operating from North, East, or Southeast Asia and are likely former affiliat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

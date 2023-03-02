@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US National Cyber Strategy Pushes Regulation, Aggressive Hack-Back Operations<a href="https://www.securityweek.com/us-national-cyber-strategy-pushes-regulation-aggressive-hack-back-operations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy, created by the Office of the National Cyber Director (ONCD), also gives high-level authorization to law enforcement and intelligence agencies to hack into foreign networks to prevent attacks or to retaliate against APT campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

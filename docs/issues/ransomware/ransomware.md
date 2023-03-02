@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Universal Decryptor for MortalKombat Ransomware Released<a href="https://www.bitdefender.com/blog/labs/bitdefender-releases-decryptor-for-mortalkombat-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new decryptor for the MortalKombat ransomware is now available for download. Bitdefender has been monitoring the MortalKombat ransomware family since it first appeared online in January this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

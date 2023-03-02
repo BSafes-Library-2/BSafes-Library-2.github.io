@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Marshals Service suffers a ransomware attack<a href="https://securityaffairs.com/142823/cyber-crime/u-s-marshals-service-suffers-a-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Marshals Service (USMS) was the victim of a ransomware attack, it is investigating the theft of sensitive information.
+The U.S. Marshals Service (USMS) announced that a ransomware attack has impacted "a stand-alone USMS system." The US bureau...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

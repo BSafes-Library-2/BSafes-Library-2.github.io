@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds ZK Java Web Framework bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/142811/security/zk-java-web-framework-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added an actively exploited vulnerability in the ZK Java Web Framework to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a vulnerability, tracked as CVE-2022-36537&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Warning on Active Exploitation of ZK Java Web Framework Vulnerability<a href="https://thehackernews.com/2023/02/cisa-issues-warning-on-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;a high-severity flaw affecting the ZK Framework to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation. Tracked as&nbsp; CVE-2022-36537 &nbsp;(CVSS score: 7.5), the issue impacts ZK Framework versions 9.6.1, 9.6.0.1, 9.5.1.3, 9.0.1.2, and 8.6.4.1, and allows threat actors to retrieve sensitive information via specially crafted requests. "The ZK Framework is an open source Java framework," CISA&nbsp; said . "This vulnerability can impact multiple products, including but not limited to ConnectWise R1Soft Server Backup Manager." The&nbsp; vulnerability &nbsp;was patched in May 2022 in versions 9.6.2, 9.6.0.2, 9.5.1.4, 9.0.1.3, and 8.6.4.2. As&nbsp; demonstrated &nbsp;by Huntress in a proof-of-concept (PoC) in October 2022, the vulnerability can be weaponized to bypass authentication, upload a backdoored JDBC database driver to gain code execution, and deploy ransomware on susceptible
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video Marketing Software Animker Leaking Trove of User Data<a href="https://www.hackread.com/video-marketing-software-animker-data-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfigured database has exposed test and personal data belonging to over 700,000 users of the websites getshow.io (an all-in-one video marketing platform) and animaker.com (a DIY video animation software).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

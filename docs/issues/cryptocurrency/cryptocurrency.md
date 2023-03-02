@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parallax RAT used in attacks aimed at cryptocurrency entities<a href="https://securityaffairs.com/142851/malware/parallax-rat-cryptocurrency-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new wave of attacks against cryptocurrency entities, threat actors are using a RAT dubbed Parallax RAT for Infiltration.
+Researchers from cybersecurity firm Uptycs&nbsp;warns of attacks targeting cryptocurrency organizations with the Parallax...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
