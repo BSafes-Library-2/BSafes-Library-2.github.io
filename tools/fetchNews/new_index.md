@@ -34,6 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Covert cyberattacks on the rise as attackers shift tactics for maximum impact<a href="https://www.helpnetsecurity.com/2023/03/01/shifting-attack-strategies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2022 was the second-highest year on record for global ransomware attempts, as well as an 87% increase in IoT malware and a record number of cryptojacking attacks (139.3 million), according to SonicWall.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Targeting Law Firms with GootLoader and FakeUpdates Malware<a href="https://thehackernews.com/2023/03/cybercriminals-targeting-law-firms-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six different law firms were targeted in January and February 2023 as part of two disparate threat campaigns distributing  GootLoader  and  FakeUpdates  (aka SocGholish) malware strains. GootLoader , active since late 2020, is a first-stage downloader that's capable of delivering a wide range of secondary payloads such as Cobalt Strike and ransomware. It notably  employs  search engine optimization (SEO) poisoning to funnel victims searching for business-related documents toward drive-by download sites that drop the JavaScript malware. In the  campaign  detailed by cybersecurity company eSentire, the threat actors are said to have compromised legitimate, but vulnerable, WordPress websites and added new blog posts without the owners' knowledge. "When the computer user navigates to one of these malicious web pages and hits the link to download the purported business agreement, they are unknowingly downloading GootLoader," eSentire researcher Keegan Keplinger  said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada is going to ban TikTok on government mobile devices<a href="https://securityaffairs.com/142880/security/canada-bans-tiktok-government-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canadian government announced it will ban the video app TikTok from all government-issued devices over security concerns.
+Canada is going to ban the popular Chinese video-sharing app TikTok from the mobile devices of its employees over security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Patched in ThingWorx, Kepware IIoT Products<a href="https://www.securityweek.com/critical-vulnerabilities-patched-in-thingworx-kepware-iiot-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several industrial IoT (IIoT) software products made by PTC are affected by two critical vulnerabilities that can be exploited for denial-of-service (DoS) attacks and remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackLotus Becomes First UEFI Bootkit Malware to Bypass Secure Boot on Windows 11<a href="https://thehackernews.com/2023/03/blacklotus-becomes-first-uefi-bootkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy Unified Extensible Firmware Interface (UEFI) bootkit called BlackLotus has become the first publicly known malware capable of bypassing Secure Boot defenses, making it a potent threat in the cyber landscape. "This bootkit can run even on fully up-to-date Windows 11 systems with UEFI Secure Boot enabled," Slovak cybersecurity company ESET  said  in a report shared with The Hacker News. UEFI bootkits  are deployed in the system firmware and allow full control over the operating system (OS) boot process, thereby making it possible to disable OS-level security mechanisms and deploy arbitrary payloads during startup with high privileges. Offered for sale at $5,000 (and $200 per new subsequent version), the powerful and persistent toolkit is programmed in Assembly and C and is 80 kilobytes in size. It also features geofencing capabilities to avoid infecting computers in Armenia, Belarus, Kazakhstan, Moldova, Romania, Russia, and Ukraine. Details about BlackLotus  f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackLotus is the first bootkit bypassing UEFI Secure Boot on Windows 11<a href="https://securityaffairs.com/142864/malware/blacklotus-bootkit-bypass-secure-boot-win11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET discovered a stealthy Unified Extensible Firmware Interface (UEFI) bootkit dubbed BlackLotus that is able to bypass the Secure Boot on Windows 11.
+Researchers from ESET discovered a new stealthy Unified Extensible Firmware Interface (UEFI) bootkit,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Immuta Receives Strategic Investment from ServiceNow<a href="https://www.finsmes.com/2023/02/immuta-receives-strategic-investment-from-servicenow.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immuta, a Boston, MA-based data security company, received an additional strategic investment from ServiceNow. The investment, which was in addition to the Series E funding round, will allow the company to continue growing its cloud offering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Are Stressed Out and It's Putting Companies at Risk<a href="https://thehackernews.com/2023/03/cisos-are-stressed-out-and-its-putting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employee well-being has become a primary focus for many businesses. Even before the pandemic, the C-suite was acutely aware of how employee mental health impacts business outcomes.  But for cybersecurity professionals, stress has always been a part of the job. A  new survey  revealed that one of the most concerning aspects of employee mental health is how it impacts cybersecurity programs and, more broadly, a business' ability to protect itself from cyberattacks. CISOs and their teams appear to be taking the brunt of unmitigated work-related stress levels and it's affecting the entire organization.  CISOs at small to midsize businesses with teams of five employees or fewer were surveyed to better understand how work-related stress is impacting CISOs – from their ability to do their job and lead their team to how it's affecting their own professional outlook and personal life. Here's what the survey results revealed.  The Impact of CISO Work-Stress Levels on Small
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Satellite TV giant Dish admitted that the recent outage was caused by a ransomware attack<a href="https://securityaffairs.com/142858/data-breach/dish-admitted-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Satellite TV giant Dish Network has confirmed that the recent outage was caused by a ransomware attack, it also disclosed a data breach.
+Satellite TV giant Dish Network finally admitted that the recent outage was caused by a ransomware attack.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iron Tiger’s SysUpdate Reappears, Adds Linux Targeting<a href="https://www.trendmicro.com/en_us/research/23/c/iron-tiger-sysupdate-adds-linux-targeting.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, Trend Micro researchers noticed that they updated SysUpdate, one of their custom malware families, to include new features and add malware infection support for the Linux platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy<a href="https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the general availability of client-side encryption (CSE) for Gmail and Calendar, months after  piloting the feature  in late 2022. The data privacy controls enable "even more organizations to become arbiters of their own data and the sole party deciding who has access to it," Google's Ganesh Chilakapati and Andy Wen  said . To that end, users can send and receive emails or create meeting events within their organizations or to other external parties in a manner that's encrypted "before it reaches Google servers." The company is also making available a  decrypter tool  in beta for Windows to decrypt client-side encrypted files and emails exported via its Data Export tool or Google Vault. macOS and Linux versions of the decrypter are expected to be released in the future. The development follows the  rollout of CSE  to other products such as Google Drive, Docs, Slides, Sheets, and Meet. The solution, the tech behemoth said, is aimed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parallax RAT used in attacks aimed at cryptocurrency entities<a href="https://securityaffairs.com/142851/malware/parallax-rat-cryptocurrency-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a new wave of attacks against cryptocurrency entities, threat actors are using a RAT dubbed Parallax RAT for Infiltration.
+Researchers from cybersecurity firm Uptycs warns of attacks targeting cryptocurrency organizations with the Parallax...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can You See It Now? An Emerging LockBit Campaign<a href="https://www.fortinet.com/blog/threat-research/emerging-lockbit-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from FortiGuard Labs observed a new LockBit ransomware campaign during December 2022 and January 2023 using a combination of techniques effective against AV and EDR solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parallax RAT Targeting Cryptocurrency Firms with Sophisticated Injection Techniques<a href="https://thehackernews.com/2023/03/parallax-rat-targeting-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency companies are being targeted as part of a new campaign that delivers a remote access trojan called Parallax RAT. The malware "uses injection techniques to hide within legitimate processes, making it difficult to detect," Uptycs  said  in a new report. "Once it has been successfully injected, attackers can interact with their victim via Windows Notepad that likely serves as a communication channel." Parallax RAT  grants attackers remote access to victim machines. It comes with features to upload and download files as well as record keystrokes and screen captures. It has been put to use since early 2020 and was  previously delivered  via COVID-19-themed lures. In February 2022, Proofpoint  detailed  an activity cluster dubbed TA2541 targeting aviation, aerospace, transportation, manufacturing, and defense industries using different RATs, including Parallax. The first payload is a Visual C++ malware that employs the  process hollowing  technique to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gmail client-side encryption is available globally<a href="https://securityaffairs.com/142836/security/google-gmail-client-side-encryption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gmail client-side encryption (CSE) is now available for Workspace Enterprise Plus, Education Plus, and Education Standard customers.
+Google announced that Gmail client-side encryption (CSE) is now available for all Google Workspace Enterprise Plus,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video Marketing Software Animker Leaking Trove of User Data<a href="https://www.hackread.com/video-marketing-software-animker-data-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfigured database has exposed test and personal data belonging to over 700,000 users of the websites getshow.io (an all-in-one video marketing platform) and animaker.com (a DIY video animation software).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Universal Decryptor for MortalKombat Ransomware Released<a href="https://www.bitdefender.com/blog/labs/bitdefender-releases-decryptor-for-mortalkombat-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new decryptor for the MortalKombat ransomware is now available for download. Bitdefender has been monitoring the MortalKombat ransomware family since it first appeared online in January this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scams are Rising and Rising Fast - Shows FTC 2022 Data<a href="https://cyware.com/news/scams-are-rising-and-rising-fast-shows-ftc-2022-data-cae49008"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to new data from the FTC, U.S. consumers lost $8.8 billion to online fraud in 2022, with investment scams and imposter scams topping the list, causing $3.8 billion and $2.6 billion in losses, respectively. Among the top five fraud schemes, imposter scams topped the list, followed by onlin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 28, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
