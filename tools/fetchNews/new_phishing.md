@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cambodia-Based "Sour Grapes" Pig Butchering Scam Targets Southeast Asia<a href="https://news.sophos.com/en-us/2023/02/28/sour-grapes-stomping-on-a-cambodia-based-pig-butchering-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The teams running these scams include a young man or woman acting as the face of the scam, keyboarders who keep the victim engaged, and a team generating and repurposing media content with fabricated proof of their backstory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

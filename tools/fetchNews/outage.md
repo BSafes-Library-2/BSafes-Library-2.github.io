@@ -8,6 +8,22 @@ nav_order: 900140
 
 ## Outage
 ---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Satellite TV giant Dish admitted that the recent outage was caused by a ransomware attack<a href="https://securityaffairs.com/142858/data-breach/dish-admitted-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Satellite TV giant Dish Network has confirmed that the recent outage was caused by a ransomware attack, it also disclosed a data breach.
+Satellite TV giant Dish Network finally admitted that the recent outage was caused by a ransomware attack.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

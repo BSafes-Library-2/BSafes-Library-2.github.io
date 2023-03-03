@@ -8,6 +8,35 @@ nav_order: 900195
 
 ## Solution
 ---
+March 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail and Google Calendar Now Support Client-Side Encryption (CSE) to Boost Data Privacy<a href="https://thehackernews.com/2023/03/gmail-and-google-calendar-now-support.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced the general availability of client-side encryption (CSE) for Gmail and Calendar, months after&nbsp; piloting the feature &nbsp;in late 2022. The data privacy controls enable "even more organizations to become arbiters of their own data and the sole party deciding who has access to it," Google's Ganesh Chilakapati and Andy Wen&nbsp; said . To that end, users can send and receive emails or create meeting events within their organizations or to other external parties in a manner that's encrypted "before it reaches Google servers." The company is also making available a&nbsp; decrypter tool &nbsp;in beta for Windows to decrypt client-side encrypted files and emails exported via its Data Export tool or Google Vault. macOS and Linux versions of the decrypter are expected to be released in the future. The development follows the&nbsp; rollout of CSE &nbsp;to other products such as Google Drive, Docs, Slides, Sheets, and Meet. The solution, the tech behemoth said, is aimed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gmail client-side encryption is available globally<a href="https://securityaffairs.com/142836/security/google-gmail-client-side-encryption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gmail client-side encryption (CSE) is now available for Workspace Enterprise Plus, Education Plus, and Education Standard customers.
+Google announced that Gmail client-side encryption (CSE) is now available for all Google Workspace Enterprise Plus,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

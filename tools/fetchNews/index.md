@@ -34,6 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BidenCash Market Leaks Two Million Credit Cards in Birthday Blitz<a href="https://www.hackread.com/bidencash-leaks-2-million-credit-cards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The one-year-old leaked dataset contains card information from all over the world, with a significant number of them issued in the United States, China, Mexico, India, Canada, and the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Containerized Environments to Steals Proprietary Data and Software<a href="https://thehackernews.com/2023/03/hackers-exploit-containerized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack campaign dubbed  SCARLETEEL  is targeting containerized environments to perpetrate theft of proprietary data and software. "The attacker exploited a containerized workload and then leveraged it to perform privilege escalation into an AWS account in order to steal proprietary software and credentials," Sysdig  said  in a new report. The advanced cloud attack also entailed the deployment of crypto miner software, which the cybersecurity company said is either an attempt to generate illicit profits or a ploy to distract defenders and throw them off the trail. The initial infection vector banked on exploiting a vulnerable public-facing service in a self-managed Kubernetes cluster hosted on Amazon Web Services (AWS). Upon gaining a successful foothold, an XMRig crypto miner was launched and a bash script was used to obtain credentials that could be used to further burrow into the AWS cloud infrastructure and exfiltrate sensitive data. "Either cry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Releases National Cybersecurity Strategy<a href="https://www.lawfareblog.com/white-house-releases-national-cybersecurity-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy is designed to address cyber threats while also working to increase pathways for digital innovation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GunAuction site was hacked and data of 565k accounts were exposed<a href="https://securityaffairs.com/142920/data-breach/gunauction-site-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers compromised the website GunAuction.com, a website that allows people to buy and sell guns, and stole users' data.
+Hackers have compromised GunAuction.com, a website that allows people to buy and sell guns, TechCrunch reported. The attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian book giant says employee data was stolen during ransomware attack<a href="https://therecord.media/indigo-book-seller-employee-data-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an undated followup FAQ, Indigo now says employee data was involved in the attack. The Toronto-based company did not respond to requests for comment about how many people were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers<a href="https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured Redis database servers are the target of a novel cryptojacking campaign that leverages a legitimate and open source command-line file transfer service to implement its attack. "Underpinning this campaign was the use of transfer[.]sh," Cado Security  said  in a report shared with The Hacker News. "It's possible that it's an attempt at evading detections based on other common code hosting domains (such as pastebin[.]com)." The cloud cybersecurity firm said the command line interactivity associated with transfer[.]sh has made it an ideal tool for hosting and delivering malicious payloads. The attack chain commences with targeting insecure Redis deployments, followed by registering a  cron job  that leads to arbitrary code execution when parsed by the scheduler. The job is designed to retrieve a payload hosted at transfer[.]sh. It's worth noting that  similar   attack mechanisms  have been employed by other threat actors like TeamTNT and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking campaign targets insecure deployments of Redis servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cado Security discovered a cryptojacking campaign targeting misconfigured Redis database servers.
+Cado Labs researchers recently discovered a new cryptojacking campaign targeting insecure deployments of Redis database servers. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pierce Transit and City of Lakewood Investigating Potential Ransomware Attacks<a href="https://komonews.com/news/local/pierce-county-transit-ransomware-attack-technical-difficulties-disruption-lakewood-transportation-operations-outages-internet-washington-state?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pierce Transit spokesperson told KOMO News in a statement that on Feb. 14, the agency "experienced a ransomware incident that temporarily disrupted some agency systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots<a href="https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a primary working interface, the browser plays a significant role in today's corporate environment. The browser is constantly used by employees to access websites, SaaS applications and internal applications, from both managed and unmanaged devices. A new report published by LayerX, a browser security vendor, finds that attackers are exploiting this reality and are targeting it in increasing numbers ( download report here ). The key report findings  Over half of all the browsers in the enterprise environment are misconfigured.  While a configured browser is nearly impossible to compromise, stealing data from misconfigured browsers is like taking candy from a baby. The Leading misconfigurations are improper use of personal browser profiles on work devices (29%), poor patching routine (50%), and the use of corporate browser profiles on unmanaged devices. 3 of every 10 SaaS applications are non-corporate shadow SaaS,  and no SaaS discovery/security solution can address its ris
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical command injection bug in IP Phone Series<a href="https://securityaffairs.com/142901/security/cisco-critical-command-injection-bug-ip-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical vulnerability, tracked as CVE-2023-20078, impacting its IP Phone 6800, 7800, 7900, and 8800 Series products.
+Cisco released security updates to address a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackfly: Espionage Group Targets Materials Technology<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/blackfly-espionage-materials?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Blackfly espionage group (aka APT41, Winnti Group, Bronze Atlas) has continued to mount attacks against targets in Asia and recently targeted two subsidiaries of an Asian conglomerate, likely attempting to steal intellectual property
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI<a href="https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Python package uploaded to the Python Package Index (PyPI) has been found to contain a fully-featured information stealer and remote access trojan. The package, named  colourfool , was identified by Kroll's Cyber Threat Intelligence team, with the company calling the malware  Colour-Blind . "The 'Colour-Blind' malware points to the democratization of cybercrime that could lead to an intensified threat landscape, as multiple variants can be spawned from code sourced from others," Kroll researchers Dave Truman and George Glass  said  in a report shared with The Hacker News. colourfool, like  other rogue Python modules  discovered in recent months, conceals its malicious code in the setup script, which points to a ZIP archive payload hosted on Discord. The file contains a Python script (code.py) that comes with different modules designed to log keystrokes, steal cookies, and even disable security software. The malware, besides performing defense ev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target law firms with GootLoader and SocGholish malware<a href="https://securityaffairs.com/142888/cyber-crime/law-firms-gootloader-socgholish-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals are targeting law firms with GootLoader and FakeUpdates (aka SocGholish) malware families.
+Researchers from eSentire have foiled 10 cyberattacks targeting six different law firms throughout January and February of 2023.
+The firms...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cambodia-Based "Sour Grapes" Pig Butchering Scam Targets Southeast Asia<a href="https://news.sophos.com/en-us/2023/02/28/sour-grapes-stomping-on-a-cambodia-based-pig-butchering-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The teams running these scams include a young man or woman acting as the face of the scam, keyboarders who keep the victim engaged, and a team generating and repurposing media content with fabricated proof of their backstory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics<a href="https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Lucky Mouse  has developed a Linux version of a malware toolkit called SysUpdate, expanding on its ability to target devices running the operating system. The oldest version of the updated artifact dates back to July 2022, with the malware incorporating new features designed to evade security software and resist reverse engineering. Cybersecurity company Trend Micro  said  it observed the equivalent Windows variant in June 2022, nearly one month after the command-and-control (C2) infrastructure was set up. Lucky Mouse is also  tracked  under the monikers APT27, Bronze Union, Emissary Panda, and Iron Tiger, and is known to utilize a variety of malware such as  SysUpdate , HyperBro, PlugX, and a Linux backdoor dubbed rshell. Over the past two years, campaigns orchestrated by the threat group have embraced supply chain compromises of legitimate apps like  Able Desktop  and  MiMi Chat  to obtain remote access to compromised systems. In October 2022, Intrin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+R3NIN Sniffer Malware Stealing Credit Card Data From E-Commerce Consumers<a href="https://gbhackers.com/r3nin-sniffer-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the event of a website being hacked, attackers may implant an encoded malicious script into the web server, designed to activate when a target user accesses the corrupted web page.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack<a href="https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out  security updates  to address a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800 Series products. The vulnerability, tracked as CVE-2023-20078, is rated 9.8 out of 10 on the CVSS scoring system and is described as a command injection bug in the web-based management interface arising due to insufficient validation of user-supplied input. Successful exploitation of the bug could allow an unauthenticated, remote attacker to inject arbitrary commands that are executed with the highest privileges on the underlying operating system. "An attacker could exploit this vulnerability by sending a crafted request to the web-based management interface," Cisco  said  in an alert published on March 1, 2023. Also patched by the company is a high-severity denial-of-service (DoS) vulnerability affecting the same set of devices, as well as the Cisco Unified IP Conference Phone 8831 and Unified IP Phone 7900 Series. CVE-2023-20079 (CVSS score: 7
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco to Acquire Valtix for Cloud Network Security Tech<a href="https://www.securityweek.com/cisco-valtix-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is dipping into the acquisition pool to beef up its cybersecurity portfolio with plans to acquire Valtix, an early-stage Silicon Valley startup in the cloud network security business.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

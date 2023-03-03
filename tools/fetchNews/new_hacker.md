@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Containerized Environments to Steals Proprietary Data and Software<a href="https://thehackernews.com/2023/03/hackers-exploit-containerized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated attack campaign dubbed&nbsp; SCARLETEEL &nbsp;is targeting containerized environments to perpetrate theft of proprietary data and software. "The attacker exploited a containerized workload and then leveraged it to perform privilege escalation into an AWS account in order to steal proprietary software and credentials," Sysdig&nbsp; said &nbsp;in a new report. The advanced cloud attack also entailed the deployment of crypto miner software, which the cybersecurity company said is either an attempt to generate illicit profits or a ploy to distract defenders and throw them off the trail. The initial infection vector banked on exploiting a vulnerable public-facing service in a self-managed Kubernetes cluster hosted on Amazon Web Services (AWS). Upon gaining a successful foothold, an XMRig crypto miner was launched and a bash script was used to obtain credentials that could be used to further burrow into the AWS cloud infrastructure and exfiltrate sensitive data. "Either cry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackfly: Espionage Group Targets Materials Technology<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/blackfly-espionage-materials?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Blackfly espionage group (aka APT41, Winnti Group, Bronze Atlas) has continued to mount attacks against targets in Asia and recently targeted two subsidiaries of an Asian conglomerate, likely attempting to steal intellectual property
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

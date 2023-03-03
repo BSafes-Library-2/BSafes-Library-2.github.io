@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots<a href="https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a primary working interface, the browser plays a significant role in today's corporate environment. The browser is constantly used by employees to access websites, SaaS applications and internal applications, from both managed and unmanaged devices. A new report published by LayerX, a browser security vendor, finds that attackers are exploiting this reality and are targeting it in increasing numbers ( download report here ). The key report findings&nbsp; Over half of all the browsers in the enterprise environment are misconfigured.&nbsp; While a configured browser is nearly impossible to compromise, stealing data from misconfigured browsers is like taking candy from a baby. The Leading misconfigurations are improper use of personal browser profiles on work devices (29%), poor patching routine (50%), and the use of corporate browser profiles on unmanaged devices. 3 of every 10 SaaS applications are non-corporate shadow SaaS,&nbsp; and no SaaS discovery/security solution can address its ris
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical command injection bug in IP Phone Series<a href="https://securityaffairs.com/142901/security/cisco-critical-command-injection-bug-ip-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a critical vulnerability, tracked as CVE-2023-20078, impacting its IP Phone 6800, 7800, 7900, and 8800 Series products.
+Cisco released security updates to address&nbsp;a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack<a href="https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday rolled out&nbsp; security updates &nbsp;to address a critical flaw impacting its IP Phone 6800, 7800, 7900, and 8800 Series products. The vulnerability, tracked as CVE-2023-20078, is rated 9.8 out of 10 on the CVSS scoring system and is described as a command injection bug in the web-based management interface arising due to insufficient validation of user-supplied input. Successful exploitation of the bug could allow an unauthenticated, remote attacker to inject arbitrary commands that are executed with the highest privileges on the underlying operating system. "An attacker could exploit this vulnerability by sending a crafted request to the web-based management interface," Cisco&nbsp; said &nbsp;in an alert published on March 1, 2023. Also patched by the company is a high-severity denial-of-service (DoS) vulnerability affecting the same set of devices, as well as the Cisco Unified IP Conference Phone 8831 and Unified IP Phone 7900 Series. CVE-2023-20079 (CVSS score: 7
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

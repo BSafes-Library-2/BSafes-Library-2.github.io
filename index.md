@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BidenCash Market Leaks Two Million Credit Cards in Birthday Blitz<a href="https://www.hackread.com/bidencash-leaks-2-million-credit-cards/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Containerized Environments to Steals Proprietary Data and Software<a href="https://thehackernews.com/2023/03/hackers-exploit-containerized.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Releases National Cybersecurity Strategy<a href="https://www.lawfareblog.com/white-house-releases-national-cybersecurity-strategy"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GunAuction site was hacked and data of 565k accounts were exposed<a href="https://securityaffairs.com/142920/data-breach/gunauction-site-data-breach.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian book giant says employee data was stolen during ransomware attack<a href="https://therecord.media/indigo-book-seller-employee-data-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers<a href="https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojacking campaign targets insecure deployments of Redis servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pierce Transit and City of Lakewood Investigating Potential Ransomware Attacks<a href="https://komonews.com/news/local/pierce-county-transit-ransomware-attack-technical-difficulties-disruption-lakewood-transportation-operations-outages-internet-washington-state?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots<a href="https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical command injection bug in IP Phone Series<a href="https://securityaffairs.com/142901/security/cisco-critical-command-injection-bug-ip-phone.html"> Full Text</a>
@@ -197,7 +197,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackfly: Espionage Group Targets Materials Technology<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/blackfly-espionage-materials?&web_view=true"> Full Text</a>
@@ -213,7 +213,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI<a href="https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target law firms with GootLoader and SocGholish malware<a href="https://securityaffairs.com/142888/cyber-crime/law-firms-gootloader-socgholish-malware.html"> Full Text</a>
@@ -247,7 +247,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cambodia-Based "Sour Grapes" Pig Butchering Scam Targets Southeast Asia<a href="https://news.sophos.com/en-us/2023/02/28/sour-grapes-stomping-on-a-cambodia-based-pig-butchering-scam/?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics<a href="https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html"> Full Text</a>
@@ -279,7 +279,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 R3NIN Sniffer Malware Stealing Credit Card Data From E-Commerce Consumers<a href="https://gbhackers.com/r3nin-sniffer-malware/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack<a href="https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco to Acquire Valtix for Cloud Network Security Tech<a href="https://www.securityweek.com/cisco-valtix-acquisition/?&web_view=true"> Full Text</a>
