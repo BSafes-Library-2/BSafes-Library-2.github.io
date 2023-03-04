@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Releases National Cybersecurity Strategy<a href="https://www.lawfareblog.com/white-house-releases-national-cybersecurity-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy is designed to address cyber threats while also working to increase pathways for digital innovation.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

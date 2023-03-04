@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BidenCash Market Leaks Two Million Credit Cards in Birthday Blitz<a href="https://www.hackread.com/bidencash-leaks-2-million-credit-cards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The one-year-old leaked dataset contains card information from all over the world, with a significant number of them issued in the United States, China, Mexico, India, Canada, and the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GunAuction site was hacked and data of 565k accounts were exposed<a href="https://securityaffairs.com/142920/data-breach/gunauction-site-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers compromised the website&nbsp;GunAuction.com, a website that allows people to buy and sell guns, and stole users' data.
+Hackers have compromised GunAuction.com, a website that allows people to buy and sell guns, TechCrunch reported. The attackers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian book giant says employee data was stolen during ransomware attack<a href="https://therecord.media/indigo-book-seller-employee-data-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an undated followup FAQ, Indigo now says employee data was involved in the attack. The Toronto-based company did not respond to requests for comment about how many people were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

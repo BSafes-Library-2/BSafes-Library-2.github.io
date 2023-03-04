@@ -8,6 +8,63 @@ nav_order: 900075
 
 ## Government
 ---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Decider Tool to Help with MITRE ATT&amp;CK Mapping<a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decider makes the mapping process easier by asking the user a series of questions about the adversary’s activity in their network. The tool also provides search and filtering functionality, and allows users to export the results to common formats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden-Harris Administration Releases New National Cybersecurity Strategy<a href="https://www.lawfareblog.com/biden-harris-administration-releases-new-national-cybersecurity-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The long-awaited National Cybersecurity Strategy seeks to make fundamental changes to underlying dynamics of the digital ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware's Deadly Capabilities<a href="https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; released &nbsp;a new advisory about&nbsp; Royal ransomware , which emerged in the threat landscape last year. "After gaining access to victims' networks, Royal actors disable antivirus software and exfiltrate large amounts of data before ultimately deploying the ransomware and encrypting the systems," CISA&nbsp; said . The custom&nbsp; ransomware program , which has targeted U.S. and international organizations since September 2022, is believed to have evolved from earlier iterations that were dubbed Zeon.&nbsp; What's more, it's said to be&nbsp; operated &nbsp;by seasoned threat actors who used to be part of Conti Team One, cybersecurity company Trend Micro disclosed in December 2022. The ransomware group employs call back phishing as a means of delivering their ransomware to victims, a technique&nbsp; widely adopted &nbsp;by criminal groups that splintered from the Conti enterprise last year following its shutdown. Other modes of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of the capabilities of the recently emerged Royal ransomware.
+The human-operated&nbsp;Royal ransomware&nbsp;first appeared on the threat landscape in September 2022, it has demanded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

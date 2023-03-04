@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 - CISA, FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA Release #StopRansomware: Royal Ransomware <a href="https://www.cisa.gov/news-events/alerts/2023/03/02/fbi-and-cisa-release-stopransomware-royal-ransomware"> Full Text</a
+</p>
+<details>
+  <summary>Abstract</summary>
+  Today, the Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) released joint Cybersecurity Advisory (CSA) #StopRansomware: Royal Ransomware to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Royal ransomware variants. FBI investigations identified these TTPs and IOCs as recently as January 2023.
+</details>
+</div>
+
 March 2, 2023 - WHITE HOUSE 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -15,6 +26,18 @@ FACT SHEET: Biden-Harris Administration Announces National Cybersecurity Strateg
 <details>
   <summary>Abstract</summary>
 Today, the Biden-Harris Administration released the National Cybersecurity Strategy to secure the full benefits of a safe and secure digital ecosystem for all Americans. In this decisive decade, the United States will reimagine cyberspace as a tool to achieve our goals in a way that reflects our values: economic security and prosperity; respect for human rights and fundamental freedoms; trust in our democracy and democratic institutions; and an equitable and diverse society. To realize this vision, we must make fundamental shifts in how the United States allocates roles, responsibilities, and resources in cyberspace.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a
+</p>
+<details>
+  <summary>Abstract</summary>
+  Today, CISA released Decider, a free tool to help the cybersecurity community map threat actor behavior to the MITRE ATT&CK framework. Created in partnership with the Homeland Security Systems Engineering and Development Institute™ (HSSEDI) and MITRE, Decider helps make mapping quick and accurate through guided questions, a powerful search and filter function, and a cart functionality that lets users export results to commonly used formats.
 </details>
 </div>
 

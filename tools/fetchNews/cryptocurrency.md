@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers<a href="https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured Redis database servers are the target of a novel cryptojacking campaign that leverages a legitimate and open source command-line file transfer service to implement its attack. "Underpinning this campaign was the use of transfer[.]sh," Cado Security&nbsp; said &nbsp;in a report shared with The Hacker News. "It's possible that it's an attempt at evading detections based on other common code hosting domains (such as pastebin[.]com)." The cloud cybersecurity firm said the command line interactivity associated with transfer[.]sh has made it an ideal tool for hosting and delivering malicious payloads. The attack chain commences with targeting insecure Redis deployments, followed by registering a&nbsp; cron job &nbsp;that leads to arbitrary code execution when parsed by the scheduler. The job is designed to retrieve a payload hosted at transfer[.]sh. It's worth noting that&nbsp; similar &nbsp; attack mechanisms &nbsp;have been employed by other threat actors like TeamTNT and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

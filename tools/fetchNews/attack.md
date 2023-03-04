@@ -8,6 +8,51 @@ nav_order: 900015
 
 ## Attack
 ---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking campaign targets insecure deployments of Redis servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cado Security discovered a cryptojacking campaign targeting misconfigured Redis database servers.
+Cado Labs researchers recently discovered a new cryptojacking campaign targeting insecure deployments of Redis database servers. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pierce Transit and City of Lakewood Investigating Potential Ransomware Attacks<a href="https://komonews.com/news/local/pierce-county-transit-ransomware-attack-technical-difficulties-disruption-lakewood-transportation-operations-outages-internet-washington-state?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Pierce Transit spokesperson told KOMO News in a statement that on Feb. 14, the agency "experienced a ransomware incident that temporarily disrupted some agency systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors target law firms with GootLoader and SocGholish malware<a href="https://securityaffairs.com/142888/cyber-crime/law-firms-gootloader-socgholish-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber criminals are targeting law firms with GootLoader&nbsp;and&nbsp;FakeUpdates&nbsp;(aka SocGholish) malware families.
+Researchers from eSentire have foiled 10 cyberattacks targeting six different law firms throughout January and February of 2023.
+The firms...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

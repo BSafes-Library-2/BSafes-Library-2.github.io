@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping<a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2023
+March 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaws in TPM 2.0 Library Pose Threat to Billions of IoT and Enterprise Devices<a href="https://thehackernews.com/2023/03/new-flaws-in-tpm-20-library-pose-threat.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity’s Third Rail: Software Liability<a href="https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus spyware used to spy on a Polish mayor<a href="https://securityaffairs.com/142991/intelligence/pegasus-spyware-spying-polish-mayor.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society publishes data stolen during Vesuvius ransomware attack<a href="https://grahamcluley.com/vice-society-publishes-data-stolen-during-vesuvius-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2023
+March 03, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeting European Entities with New MQsTTang Backdoor<a href="https://thehackernews.com/2023/03/chinese-hackers-targeting-european.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biden-Harris Administration Releases New National Cybersecurity Strategy<a href="https://www.lawfareblog.com/biden-harris-administration-releases-new-national-cybersecurity-strategy"> Full Text</a>
@@ -147,7 +147,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of thousands of websites hacked as part of redirection campaign<a href="https://securityaffairs.com/142975/hacking/ftp-credentials-traffic-redirection-campaign.html"> Full Text</a>
@@ -165,7 +165,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda’s Latest 'MQsTTang' Backdoor Treads New Ground With Qt and MQTT<a href="https://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/?&web_view=true"> Full Text</a>
@@ -181,7 +181,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2023
+March 03, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware's Deadly Capabilities<a href="https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html"> Full Text</a>
@@ -197,7 +197,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MQsTTang, a new backdoor used by Mustang Panda APT against European entities<a href="https://securityaffairs.com/142961/apt/mustang-panda-mqsttang-backdoor.html"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland Blames Russian Hackers for Cyberattack on Tax Service Website<a href="https://therecord.media/poland-blames-russian-hackers-for-cyberattack-on-tax-service-website/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trusted Platform Module (TPM) 2.0 flaws could impact billions of devices<a href="https://securityaffairs.com/142951/hacking/trusted-platform-module-2-flaws.html"> Full Text</a>
@@ -247,7 +247,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cybersecurity Strategy Shifts Liability Issues to Vendors<a href="https://www.bankinfosecurity.com/us-cybersecurity-strategy-shifts-liability-issues-to-vendors-a-21356?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojacking Campaign Targets Insecure Deployments of Redis Servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retailer WH Smith discloses data breach after a cyberattack<a href="https://securityaffairs.com/142918/data-breach/wh-smith-data-breach.html"> Full Text</a>
@@ -313,7 +313,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nigerian Citizen Gets 11-Year US Federal Sentence for Global BEC Scam<a href="https://www.bankinfosecurity.com/man-gets-11-year-us-federal-sentence-for-global-bec-scam-a-21329?&web_view=true"> Full Text</a>
@@ -329,7 +329,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Information of European Hotel Chain’s Customers Found on Unprotected Elasticsearch Server<a href="https://www.securityweek.com/information-of-european-hotel-chains-customers-found-on-unprotected-server/?&web_view=true"> Full Text</a>

@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaws in TPM 2.0 Library Pose Threat to Billions of IoT and Enterprise Devices<a href="https://thehackernews.com/2023/03/new-flaws-in-tpm-20-library-pose-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of serious security defects has been disclosed in the Trusted Platform Module ( TPM ) 2.0 reference library specification that could potentially lead to information disclosure or privilege escalation. One of the vulnerabilities,&nbsp; CVE-2023-1017 , concerns an out-of-bounds write, while the other,&nbsp; CVE-2023-1018 , is described as an out-of-bounds read. Credited with discovering and reporting the issues in November 2022 is cybersecurity company Quarkslab. "These vulnerabilities can be triggered from user-mode applications by sending malicious commands to a TPM 2.0 whose firmware is based on an affected TCG reference implementation," the Trusted Computing Group (TCG)&nbsp; said &nbsp;in an advisory. Large tech vendors, organizations using enterprise computers, servers, IoT devices, and embedded systems that include a TPM can be impacted by the flaws, Quarkslab&nbsp; noted , adding they "could affect billions of devices." TPM is a hardware-based solution (i.e., a crypto-pro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trusted Platform Module (TPM) 2.0 flaws could impact billions of devices<a href="https://securityaffairs.com/142951/hacking/trusted-platform-module-2-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two vulnerabilities affecting the Trusted Platform Module (TPM) 2.0 library could potentially lead to information disclosure or privilege escalation.
+The Trusted Computing Group (TCG) is warning of two vulnerabilities affecting the implementations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cybersecurity Strategy Shifts Liability Issues to Vendors<a href="https://www.bankinfosecurity.com/us-cybersecurity-strategy-shifts-liability-issues-to-vendors-a-21356?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new federal strategy to make manufacturers liable for insecure software requires an attainable safe harbor policy and could be a disincentive for them in sharing important vulnerability info with the government, according to industry observers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian Citizen Gets 11-Year US Federal Sentence for Global BEC Scam<a href="https://www.bankinfosecurity.com/man-gets-11-year-us-federal-sentence-for-global-bec-scam-a-21329?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A leader of an international crime network that attempted to launder more than $25 million in fraudulently obtained funds, including through business email compromise, received a sentence of more than a decade in prison.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
