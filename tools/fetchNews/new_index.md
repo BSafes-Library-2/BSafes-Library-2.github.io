@@ -34,7 +34,318 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping<a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Decider makes the mapping process easier by asking the user a series of questions about the adversary’s activity in their network. The tool also provides search and filtering functionality, and allows users to export the results to common formats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaws in TPM 2.0 Library Pose Threat to Billions of IoT and Enterprise Devices<a href="https://thehackernews.com/2023/03/new-flaws-in-tpm-20-library-pose-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of serious security defects has been disclosed in the Trusted Platform Module ( TPM ) 2.0 reference library specification that could potentially lead to information disclosure or privilege escalation. One of the vulnerabilities,  CVE-2023-1017 , concerns an out-of-bounds write, while the other,  CVE-2023-1018 , is described as an out-of-bounds read. Credited with discovering and reporting the issues in November 2022 is cybersecurity company Quarkslab. "These vulnerabilities can be triggered from user-mode applications by sending malicious commands to a TPM 2.0 whose firmware is based on an affected TCG reference implementation," the Trusted Computing Group (TCG)  said  in an advisory. Large tech vendors, organizations using enterprise computers, servers, IoT devices, and embedded systems that include a TPM can be impacted by the flaws, Quarkslab  noted , adding they "could affect billions of devices." TPM is a hardware-based solution (i.e., a crypto-pro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity’s Third Rail: Software Liability<a href="https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration’s cybersecurity strategy calls for placing responsibility for buggy software on those best positioned to reduce risk. It’s high time, but it won’t be easy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus spyware used to spy on a Polish mayor<a href="https://securityaffairs.com/142991/intelligence/pegasus-spyware-spying-polish-mayor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phone of an opposition-linked Polish mayor was infected with the powerful Pegasus spyware, local media reported.
+Reuters reported that the phone of an opposition-linked Polish mayor was infected with the Pegasus spyware. According to rumors, the Polish...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society publishes data stolen during Vesuvius ransomware attack<a href="https://grahamcluley.com/vice-society-publishes-data-stolen-during-vesuvius-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware gang has published on the dark web files that it stole from Vesuvius, one month after the company announced that it had suffered a “cyber incident.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting European Entities with New MQsTTang Backdoor<a href="https://thehackernews.com/2023/03/chinese-hackers-targeting-european.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-aligned Mustang Panda actor has been observed using a hitherto unseen custom backdoor called  MQsTTang  as part of an ongoing social engineering campaign that commenced in January 2023. "Unlike most of the group's malware, MQsTTang doesn't seem to be based on existing families or publicly available projects," ESET researcher Alexandre Côté Cyr  said  in a new report. Attack chains orchestrated by the group have stepped up targeting of European entities in the wake of  Russia's full-scale invasion of Ukraine  last year. The victimology of the current activity is unclear, but the Slovak cybersecurity company said the decoy filenames are in line with the group's previous campaigns that target European political organizations. That said, ESET also observed attacks against unknown entities in Bulgaria and Australia, as well as a governmental institution in Taiwan, indicating focus on Europe and Asia. Mustang Panda has a  history  of using a  remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Biden-Harris Administration Releases New National Cybersecurity Strategy<a href="https://www.lawfareblog.com/biden-harris-administration-releases-new-national-cybersecurity-strategy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The long-awaited National Cybersecurity Strategy seeks to make fundamental changes to underlying dynamics of the digital ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of thousands of websites hacked as part of redirection campaign<a href="https://securityaffairs.com/142975/hacking/ftp-credentials-traffic-redirection-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Websites Hijacked Using Compromised FTP Credentials
+Researchers reported that threat actors compromised thousands of websites using legitimate FTP credentials to hijack traffic.
+Cybersecurity firm Wiz reported that since early September...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda’s Latest 'MQsTTang' Backdoor Treads New Ground With Qt and MQTT<a href="https://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This backdoor is part of an ongoing campaign that researchers can trace back to early January 2023. Unlike most of the group’s malware, MQsTTang doesn’t seem to be based on existing families or publicly available projects.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware's Deadly Capabilities<a href="https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  released  a new advisory about  Royal ransomware , which emerged in the threat landscape last year. "After gaining access to victims' networks, Royal actors disable antivirus software and exfiltrate large amounts of data before ultimately deploying the ransomware and encrypting the systems," CISA  said . The custom  ransomware program , which has targeted U.S. and international organizations since September 2022, is believed to have evolved from earlier iterations that were dubbed Zeon.  What's more, it's said to be  operated  by seasoned threat actors who used to be part of Conti Team One, cybersecurity company Trend Micro disclosed in December 2022. The ransomware group employs call back phishing as a means of delivering their ransomware to victims, a technique  widely adopted  by criminal groups that splintered from the Conti enterprise last year following its shutdown. Other modes of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MQsTTang, a new backdoor used by Mustang Panda APT against European entities<a href="https://securityaffairs.com/142961/apt/mustang-panda-mqsttang-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-Linked Mustang Panda APT employed MQsTTang backdoor as part of an ongoing campaign targeting European entities.
+China-linked Mustang Panda APT group has been observed using a new backdoor, called MQsTTang, in attacks aimed at European...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Blames Russian Hackers for Cyberattack on Tax Service Website<a href="https://therecord.media/poland-blames-russian-hackers-for-cyberattack-on-tax-service-website/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The distributed denial-of-service (DDoS) attack occurred on Tuesday, causing the website to crash for approximately one hour and blocking users’ access to the online tax filing system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trusted Platform Module (TPM) 2.0 flaws could impact billions of devices<a href="https://securityaffairs.com/142951/hacking/trusted-platform-module-2-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two vulnerabilities affecting the Trusted Platform Module (TPM) 2.0 library could potentially lead to information disclosure or privilege escalation.
+The Trusted Computing Group (TCG) is warning of two vulnerabilities affecting the implementations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cybersecurity Strategy Shifts Liability Issues to Vendors<a href="https://www.bankinfosecurity.com/us-cybersecurity-strategy-shifts-liability-issues-to-vendors-a-21356?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new federal strategy to make manufacturers liable for insecure software requires an attainable safe harbor policy and could be a disincentive for them in sharing important vulnerability info with the government, according to industry observers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of the capabilities of the recently emerged Royal ransomware.
+The human-operated Royal ransomware first appeared on the threat landscape in September 2022, it has demanded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking Campaign Targets Insecure Deployments of Redis Servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cado Labs researchers recently discovered a new cryptojacking campaign targeting insecure deployments of Redis database servers. Threat actors behind this campaign used the free and open source command line file transfer service transfer.sh.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retailer WH Smith discloses data breach after a cyberattack<a href="https://securityaffairs.com/142918/data-breach/wh-smith-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retailer WH Smith disclosed a data breach following a cyber attack, threat actors had access to access company data.
+Retailer WH Smith revealed that threat actors have breached its infrastructure and had access to the data of about 12,500 current...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian Citizen Gets 11-Year US Federal Sentence for Global BEC Scam<a href="https://www.bankinfosecurity.com/man-gets-11-year-us-federal-sentence-for-global-bec-scam-a-21329?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A leader of an international crime network that attempted to launder more than $25 million in fraudulently obtained funds, including through business email compromise, received a sentence of more than a decade in prison.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information of European Hotel Chain’s Customers Found on Unprotected Elasticsearch Server<a href="https://www.securityweek.com/information-of-european-hotel-chains-customers-found-on-unprotected-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis conducted by researcher Anurag Sen at CloudDefense.AI showed that the exposed Falkensteiner customer data was associated with Gustaffo, a company offering IT solutions for the hospitality industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BidenCash Market Leaks Two Million Credit Cards in Birthday Blitz<a href="https://www.hackread.com/bidencash-leaks-2-million-credit-cards/?&web_view=true"> Full Text</a>
@@ -50,7 +361,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Containerized Environments to Steals Proprietary Data and Software<a href="https://thehackernews.com/2023/03/hackers-exploit-containerized.html"> Full Text</a>
@@ -66,7 +377,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Releases National Cybersecurity Strategy<a href="https://www.lawfareblog.com/white-house-releases-national-cybersecurity-strategy"> Full Text</a>
@@ -82,7 +393,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GunAuction site was hacked and data of 565k accounts were exposed<a href="https://securityaffairs.com/142920/data-breach/gunauction-site-data-breach.html"> Full Text</a>
@@ -99,7 +410,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian book giant says employee data was stolen during ransomware attack<a href="https://therecord.media/indigo-book-seller-employee-data-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -115,7 +426,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cryptojacking Campaign Leverages Misconfigured Redis Database Servers<a href="https://thehackernews.com/2023/03/new-cryptojacking-campaign-leverages.html"> Full Text</a>
@@ -131,7 +442,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojacking campaign targets insecure deployments of Redis servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html"> Full Text</a>
@@ -148,7 +459,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pierce Transit and City of Lakewood Investigating Potential Ransomware Attacks<a href="https://komonews.com/news/local/pierce-county-transit-ransomware-attack-technical-difficulties-disruption-lakewood-transportation-operations-outages-internet-washington-state?&web_view=true"> Full Text</a>
@@ -164,7 +475,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2023 Browser Security Report Uncovers Major Browsing Risks and Blind Spots<a href="https://thehackernews.com/2023/03/2023-browser-security-report-uncovers.html"> Full Text</a>
@@ -180,7 +491,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical command injection bug in IP Phone Series<a href="https://securityaffairs.com/142901/security/cisco-critical-command-injection-bug-ip-phone.html"> Full Text</a>
@@ -197,7 +508,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackfly: Espionage Group Targets Materials Technology<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/blackfly-espionage-materials?&web_view=true"> Full Text</a>
@@ -213,7 +524,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Identify Fully-Featured Info Stealer and Trojan in Python Package on PyPI<a href="https://thehackernews.com/2023/03/experts-identify-fully-featured-info.html"> Full Text</a>
@@ -229,7 +540,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors target law firms with GootLoader and SocGholish malware<a href="https://securityaffairs.com/142888/cyber-crime/law-firms-gootloader-socgholish-malware.html"> Full Text</a>
@@ -247,7 +558,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cambodia-Based "Sour Grapes" Pig Butchering Scam Targets Southeast Asia<a href="https://news.sophos.com/en-us/2023/02/28/sour-grapes-stomping-on-a-cambodia-based-pig-butchering-scam/?&web_view=true"> Full Text</a>
@@ -263,7 +574,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SysUpdate Malware Strikes Again with Linux Version and New Evasion Tactics<a href="https://thehackernews.com/2023/03/sysupdate-malware-strikes-again-with.html"> Full Text</a>
@@ -279,7 +590,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 R3NIN Sniffer Malware Stealing Credit Card Data From E-Commerce Consumers<a href="https://gbhackers.com/r3nin-sniffer-malware/?&web_view=true"> Full Text</a>
@@ -295,7 +606,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 02, 2023
+March 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in Cisco IP Phone Series Exposes Users to Command Injection Attack<a href="https://thehackernews.com/2023/03/critical-flaw-in-cisco-ip-phone-series.html"> Full Text</a>
@@ -311,7 +622,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2023
+March 2, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco to Acquire Valtix for Cloud Network Security Tech<a href="https://www.securityweek.com/cisco-valtix-acquisition/?&web_view=true"> Full Text</a>
