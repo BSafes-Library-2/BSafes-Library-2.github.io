@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MQsTTang, a new backdoor used by Mustang Panda APT against European entities<a href="https://securityaffairs.com/142961/apt/mustang-panda-mqsttang-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-Linked Mustang Panda APT employed MQsTTang&nbsp;backdoor as part of an ongoing campaign targeting European entities.
+China-linked Mustang Panda APT group has been observed using a new backdoor, called&nbsp;MQsTTang,&nbsp;in attacks aimed at European...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society publishes data stolen during Vesuvius ransomware attack<a href="https://grahamcluley.com/vice-society-publishes-data-stolen-during-vesuvius-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vice Society ransomware gang has published on the dark web files that it stole from Vesuvius, one month after the company announced that it had suffered a “cyber incident.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retailer WH Smith discloses data breach after a cyberattack<a href="https://securityaffairs.com/142918/data-breach/wh-smith-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Retailer WH Smith disclosed a data breach following a cyber attack, threat actors had access to access company data.
+Retailer WH Smith revealed that threat actors have breached its infrastructure and had access to the data of about 12,500 current...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Information of European Hotel Chain’s Customers Found on Unprotected Elasticsearch Server<a href="https://www.securityweek.com/information-of-european-hotel-chains-customers-found-on-unprotected-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis conducted by researcher Anurag Sen at CloudDefense.AI showed that the exposed Falkensteiner customer data was associated with Gustaffo, a company offering IT solutions for the hospitality industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

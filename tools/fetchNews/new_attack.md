@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+March 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Stuffing attack on Chick-fil-A impacted +71K users<a href="https://securityaffairs.com/143051/data-breach/credential-stuffing-chick-fil-a.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fast-food restaurant chain Chick-fil-A reported that the accounts of over 71K users were compromised as a result of a credential stuffing campaign.
+The American fast-food restaurant chain Chick-fil-A notified over 71K users that their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Southeastern Louisiana University 'Likely' Suffered Cyber Attack<a href="https://www.govtech.com/education/higher-ed/southeastern-louisiana-university-likely-suffered-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Southeastern Louisiana University suffered a week-long outage of its website, email, or system for submitting assignments after a "potential incident" last week caused the university to shut down its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

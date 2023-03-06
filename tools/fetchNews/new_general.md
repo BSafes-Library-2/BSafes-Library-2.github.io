@@ -8,6 +8,36 @@ nav_order: 900072
 
 ## General
 ---
+March 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery<a href="https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This past January, a SaaS Security Posture Management (SSPM) company named Wing Security (Wing) made waves with the &nbsp;launch of its free SaaS-Shadow IT discovery solution . Cloud-based companies were invited to gain insight into their employees' SaaS usage through a completely free, self-service product that operates on a "freemium" model. If a user is impressed with the solution and wants to gain more insights or take remediation action, they can purchase the enterprise solution. "In today's economic reality, security budgets have not necessarily been cut down, but buyers are far more careful in their purchasing decisions and rightfully so. We believe that you cannot secure what you do not know, so knowing should be a basic commodity. Once you understand the magnitude of your SaaS attack layer, you can make an educated decision as to how you are going to solve it. Discovery is the natural and basic first step and it should be accessible to anyone." said Ga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 409 by Pierluigi Paganini<a href="https://securityaffairs.com/143047/breaking-news/security-affairs-newsletter-round-409-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+FiXS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

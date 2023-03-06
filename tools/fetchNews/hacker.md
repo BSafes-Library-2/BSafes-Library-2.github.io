@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting European Entities with New MQsTTang Backdoor<a href="https://thehackernews.com/2023/03/chinese-hackers-targeting-european.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-aligned Mustang Panda actor has been observed using a hitherto unseen custom backdoor called&nbsp; MQsTTang &nbsp;as part of an ongoing social engineering campaign that commenced in January 2023. "Unlike most of the group's malware, MQsTTang doesn't seem to be based on existing families or publicly available projects," ESET researcher Alexandre Côté Cyr&nbsp; said &nbsp;in a new report. Attack chains orchestrated by the group have stepped up targeting of European entities in the wake of&nbsp; Russia's full-scale invasion of Ukraine &nbsp;last year. The victimology of the current activity is unclear, but the Slovak cybersecurity company said the decoy filenames are in line with the group's previous campaigns that target European political organizations. That said, ESET also observed attacks against unknown entities in Bulgaria and Australia, as well as a governmental institution in Taiwan, indicating focus on Europe and Asia. Mustang Panda has a&nbsp; history &nbsp;of using a&nbsp; remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,51 @@ nav_order: 900029
 
 ## Breach
 ---
+March 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware gang has begun to leak data stolen from City of Oakland<a href="https://securityaffairs.com/143037/cyber-crime/play-ransomware-leaks-city-of-oakland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware gang has finally begun to leak the data stolen from the City of Oakland in a recent attack.
+The Play ransomware gang has begun to leak data they have stolen from the City of Oakland (California) in a recent cyberattack.
+Oakland...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Websites Hijacked Using Compromised FTP Credentials<a href="https://www.securityweek.com/thousands-of-websites-hijacked-using-compromised-ftp-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In many cases, the attackers managed to obtain highly secure auto-generated FTP credentials and used them to hijack the victim websites to redirect visitors to adult-themed content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BidenCash leaks 2.1M stolen credit/debit cards<a href="https://securityaffairs.com/143006/cyber-crime/bidencash-leaks-2-1m-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web carding site BidenCash recently leaked for free a collection of approximately 2 million stolen payment card numbers.
+An archive containing 2.1 million stolen payment card numbers is available for free to commemorate the anniversary of the dark...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

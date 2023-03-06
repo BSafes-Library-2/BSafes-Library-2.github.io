@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of thousands of websites hacked as part of redirection campaign<a href="https://securityaffairs.com/142975/hacking/ftp-credentials-traffic-redirection-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Websites Hijacked Using Compromised FTP Credentials
+Researchers reported that threat actors compromised thousands of websites using legitimate FTP credentials to hijack traffic.
+Cybersecurity firm Wiz reported that since early September...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Blames Russian Hackers for Cyberattack on Tax Service Website<a href="https://therecord.media/poland-blames-russian-hackers-for-cyberattack-on-tax-service-website/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The distributed denial-of-service (DDoS) attack occurred on Tuesday, causing the website to crash for approximately one hour and blocking users’ access to the online tax filing system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

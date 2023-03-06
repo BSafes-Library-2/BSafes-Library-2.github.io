@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2023
+March 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credential Stuffing attack on Chick-fil-A impacted +71K users<a href="https://securityaffairs.com/143051/data-breach/credential-stuffing-chick-fil-a.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2023
+March 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play Ransomware gang has begun to leak data stolen from City of Oakland<a href="https://securityaffairs.com/143037/cyber-crime/play-ransomware-leaks-city-of-oakland.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2023
+March 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Websites Hijacked Using Compromised FTP Credentials<a href="https://www.securityweek.com/thousands-of-websites-hijacked-using-compromised-ftp-credentials/?&web_view=true"> Full Text</a>
@@ -85,7 +85,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2023
+March 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery<a href="https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html"> Full Text</a>
@@ -101,7 +101,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2023
+March 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Southeastern Louisiana University 'Likely' Suffered Cyber Attack<a href="https://www.govtech.com/education/higher-ed/southeastern-louisiana-university-likely-suffered-cyber-attack?&web_view=true"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 04, 2023
+March 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FiXS ATM Malware Targeting Mexican Banks<a href="https://thehackernews.com/2023/03/new-fixs-atm-malware-targeting-mexican.html"> Full Text</a>
@@ -133,7 +133,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2023
+March 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2023
+March 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 409 by Pierluigi Paganini<a href="https://securityaffairs.com/143047/breaking-news/security-affairs-newsletter-round-409-by-pierluigi-paganini.html"> Full Text</a>
@@ -167,7 +167,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2023
+March 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FiXS, a new ATM malware that is targeting Mexican banks<a href="https://securityaffairs.com/143022/malware/fixs-atm-malware-mexican-banks.html"> Full Text</a>
@@ -184,7 +184,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 4, 2023
+March 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BidenCash leaks 2.1M stolen credit/debit cards<a href="https://securityaffairs.com/143006/cyber-crime/bidencash-leaks-2-1m-cards.html"> Full Text</a>

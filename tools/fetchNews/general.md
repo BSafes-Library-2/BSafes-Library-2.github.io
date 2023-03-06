@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity’s Third Rail: Software Liability<a href="https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration’s cybersecurity strategy calls for placing responsibility for buggy software on those best positioned to reduce risk. It’s high time, but it won’t be easy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
