@@ -34,7 +34,174 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Stuffing attack on Chick-fil-A impacted +71K users<a href="https://securityaffairs.com/143051/data-breach/credential-stuffing-chick-fil-a.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fast-food restaurant chain Chick-fil-A reported that the accounts of over 71K users were compromised as a result of a credential stuffing campaign.
+The American fast-food restaurant chain Chick-fil-A notified over 71K users that their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware gang has begun to leak data stolen from City of Oakland<a href="https://securityaffairs.com/143037/cyber-crime/play-ransomware-leaks-city-of-oakland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware gang has finally begun to leak the data stolen from the City of Oakland in a recent attack.
+The Play ransomware gang has begun to leak data they have stolen from the City of Oakland (California) in a recent cyberattack.
+Oakland...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Websites Hijacked Using Compromised FTP Credentials<a href="https://www.securityweek.com/thousands-of-websites-hijacked-using-compromised-ftp-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In many cases, the attackers managed to obtain highly secure auto-generated FTP credentials and used them to hijack the victim websites to redirect visitors to adult-themed content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery<a href="https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This past January, a SaaS Security Posture Management (SSPM) company named Wing Security (Wing) made waves with the  launch of its free SaaS-Shadow IT discovery solution . Cloud-based companies were invited to gain insight into their employees' SaaS usage through a completely free, self-service product that operates on a "freemium" model. If a user is impressed with the solution and wants to gain more insights or take remediation action, they can purchase the enterprise solution. "In today's economic reality, security budgets have not necessarily been cut down, but buyers are far more careful in their purchasing decisions and rightfully so. We believe that you cannot secure what you do not know, so knowing should be a basic commodity. Once you understand the magnitude of your SaaS attack layer, you can make an educated decision as to how you are going to solve it. Discovery is the natural and basic first step and it should be accessible to anyone." said Ga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Southeastern Louisiana University 'Likely' Suffered Cyber Attack<a href="https://www.govtech.com/education/higher-ed/southeastern-louisiana-university-likely-suffered-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Southeastern Louisiana University suffered a week-long outage of its website, email, or system for submitting assignments after a "potential incident" last week caused the university to shut down its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FiXS ATM Malware Targeting Mexican Banks<a href="https://thehackernews.com/2023/03/new-fixs-atm-malware-targeting-mexican.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ATM malware strain dubbed  FiXS  has been observed targeting Mexican banks since the start of February 2023. "The ATM malware is hidden inside another not-malicious-looking program," Latin American cybersecurity firm Metabase Q  said  in a report shared with The Hacker News. Besides requiring interaction via an external keyboard, the Windows-based ATM malware is also vendor-agnostic and is capable of infecting any teller machine that supports  CEN/XFS  (short for eXtensions for Financial Services). The exact mode of compromise remains unknown but Metabase Q's Dan Regalado told The Hacker News that it's likely that "attackers found a way to interact with the ATM via touchscreen." FiXS is also said to be similar to another strain of  ATM malware  codenamed  Ploutus  that has enabled cybercriminals to extract cash from ATMs by using an external keyboard or by  sending an SMS message . One of the notable characteristics of FiXS is its ability to disp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the CISA released a joint Cybersecurity Advisory to provide organizations, tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with this ransomware family.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 409 by Pierluigi Paganini<a href="https://securityaffairs.com/143047/breaking-news/security-affairs-newsletter-round-409-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+FiXS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FiXS, a new ATM malware that is targeting Mexican banks<a href="https://securityaffairs.com/143022/malware/fixs-atm-malware-mexican-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Metabase Q discovered a new ATM malware, dubbed FiXS, that was employed in attacks against Mexican banks since February 2023.
+Researchers at Metabase Q recently spotted a new ATM malware, dubbed FiXS, that is currently targeting Mexican...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BidenCash leaks 2.1M stolen credit/debit cards<a href="https://securityaffairs.com/143006/cyber-crime/bidencash-leaks-2-1m-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web carding site BidenCash recently leaked for free a collection of approximately 2 million stolen payment card numbers.
+An archive containing 2.1 million stolen payment card numbers is available for free to commemorate the anniversary of the dark...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping<a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a>
@@ -50,7 +217,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2023
+March 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaws in TPM 2.0 Library Pose Threat to Billions of IoT and Enterprise Devices<a href="https://thehackernews.com/2023/03/new-flaws-in-tpm-20-library-pose-threat.html"> Full Text</a>
@@ -66,7 +233,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity’s Third Rail: Software Liability<a href="https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"> Full Text</a>
@@ -82,7 +249,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus spyware used to spy on a Polish mayor<a href="https://securityaffairs.com/142991/intelligence/pegasus-spyware-spying-polish-mayor.html"> Full Text</a>
@@ -99,7 +266,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society publishes data stolen during Vesuvius ransomware attack<a href="https://grahamcluley.com/vice-society-publishes-data-stolen-during-vesuvius-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -115,7 +282,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2023
+March 03, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeting European Entities with New MQsTTang Backdoor<a href="https://thehackernews.com/2023/03/chinese-hackers-targeting-european.html"> Full Text</a>
@@ -131,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Biden-Harris Administration Releases New National Cybersecurity Strategy<a href="https://www.lawfareblog.com/biden-harris-administration-releases-new-national-cybersecurity-strategy"> Full Text</a>
@@ -147,7 +314,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of thousands of websites hacked as part of redirection campaign<a href="https://securityaffairs.com/142975/hacking/ftp-credentials-traffic-redirection-campaign.html"> Full Text</a>
@@ -165,7 +332,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda’s Latest 'MQsTTang' Backdoor Treads New Ground With Qt and MQTT<a href="https://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/?&web_view=true"> Full Text</a>
@@ -181,7 +348,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 03, 2023
+March 03, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency Raises Alarm Over Royal Ransomware's Deadly Capabilities<a href="https://thehackernews.com/2023/03/us-cybersecurity-agency-raises-alarm.html"> Full Text</a>
@@ -197,7 +364,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MQsTTang, a new backdoor used by Mustang Panda APT against European entities<a href="https://securityaffairs.com/142961/apt/mustang-panda-mqsttang-backdoor.html"> Full Text</a>
@@ -214,7 +381,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland Blames Russian Hackers for Cyberattack on Tax Service Website<a href="https://therecord.media/poland-blames-russian-hackers-for-cyberattack-on-tax-service-website/?&web_view=true"> Full Text</a>
@@ -230,7 +397,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trusted Platform Module (TPM) 2.0 flaws could impact billions of devices<a href="https://securityaffairs.com/142951/hacking/trusted-platform-module-2-flaws.html"> Full Text</a>
@@ -247,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cybersecurity Strategy Shifts Liability Issues to Vendors<a href="https://www.bankinfosecurity.com/us-cybersecurity-strategy-shifts-liability-issues-to-vendors-a-21356?&web_view=true"> Full Text</a>
@@ -263,7 +430,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html"> Full Text</a>
@@ -280,7 +447,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojacking Campaign Targets Insecure Deployments of Redis Servers<a href="https://securityaffairs.com/142910/cyber-crime/cryptojacking-campaign-targets-redis.html?&web_view=true"> Full Text</a>
@@ -296,7 +463,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retailer WH Smith discloses data breach after a cyberattack<a href="https://securityaffairs.com/142918/data-breach/wh-smith-data-breach.html"> Full Text</a>
@@ -313,7 +480,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nigerian Citizen Gets 11-Year US Federal Sentence for Global BEC Scam<a href="https://www.bankinfosecurity.com/man-gets-11-year-us-federal-sentence-for-global-bec-scam-a-21329?&web_view=true"> Full Text</a>
@@ -329,7 +496,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 3, 2023
+March 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Information of European Hotel Chain’s Customers Found on Unprotected Elasticsearch Server<a href="https://www.securityweek.com/information-of-european-hotel-chains-customers-found-on-unprotected-server/?&web_view=true"> Full Text</a>

@@ -34,6 +34,173 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credential Stuffing attack on Chick-fil-A impacted +71K users<a href="https://securityaffairs.com/143051/data-breach/credential-stuffing-chick-fil-a.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American fast-food restaurant chain Chick-fil-A reported that the accounts of over 71K users were compromised as a result of a credential stuffing campaign.
+The American fast-food restaurant chain Chick-fil-A notified over 71K users that their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware gang has begun to leak data stolen from City of Oakland<a href="https://securityaffairs.com/143037/cyber-crime/play-ransomware-leaks-city-of-oakland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware gang has finally begun to leak the data stolen from the City of Oakland in a recent attack.
+The Play ransomware gang has begun to leak data they have stolen from the City of Oakland (California) in a recent cyberattack.
+Oakland...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Websites Hijacked Using Compromised FTP Credentials<a href="https://www.securityweek.com/thousands-of-websites-hijacked-using-compromised-ftp-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In many cases, the attackers managed to obtain highly secure auto-generated FTP credentials and used them to hijack the victim websites to redirect visitors to adult-themed content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security and IT Teams No Longer Need To Pay For SaaS-Shadow IT Discovery<a href="https://thehackernews.com/2023/03/security-and-it-teams-no-longer-need-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This past January, a SaaS Security Posture Management (SSPM) company named Wing Security (Wing) made waves with the  launch of its free SaaS-Shadow IT discovery solution . Cloud-based companies were invited to gain insight into their employees' SaaS usage through a completely free, self-service product that operates on a "freemium" model. If a user is impressed with the solution and wants to gain more insights or take remediation action, they can purchase the enterprise solution. "In today's economic reality, security budgets have not necessarily been cut down, but buyers are far more careful in their purchasing decisions and rightfully so. We believe that you cannot secure what you do not know, so knowing should be a basic commodity. Once you understand the magnitude of your SaaS attack layer, you can make an educated decision as to how you are going to solve it. Discovery is the natural and basic first step and it should be accessible to anyone." said Ga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Southeastern Louisiana University 'Likely' Suffered Cyber Attack<a href="https://www.govtech.com/education/higher-ed/southeastern-louisiana-university-likely-suffered-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Southeastern Louisiana University suffered a week-long outage of its website, email, or system for submitting assignments after a "potential incident" last week caused the university to shut down its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FiXS ATM Malware Targeting Mexican Banks<a href="https://thehackernews.com/2023/03/new-fixs-atm-malware-targeting-mexican.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ATM malware strain dubbed  FiXS  has been observed targeting Mexican banks since the start of February 2023. "The ATM malware is hidden inside another not-malicious-looking program," Latin American cybersecurity firm Metabase Q  said  in a report shared with The Hacker News. Besides requiring interaction via an external keyboard, the Windows-based ATM malware is also vendor-agnostic and is capable of infecting any teller machine that supports  CEN/XFS  (short for eXtensions for Financial Services). The exact mode of compromise remains unknown but Metabase Q's Dan Regalado told The Hacker News that it's likely that "attackers found a way to interact with the ATM via touchscreen." FiXS is also said to be similar to another strain of  ATM malware  codenamed  Ploutus  that has enabled cybercriminals to extract cash from ATMs by using an external keyboard or by  sending an SMS message . One of the notable characteristics of FiXS is its ability to disp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The U.S. CISA and FBI warn of Royal ransomware operation<a href="https://securityaffairs.com/142941/malware/cisa-fbi-royal-ransomware-alert.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI and the CISA released a joint Cybersecurity Advisory to provide organizations, tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with this ransomware family.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 409 by Pierluigi Paganini<a href="https://securityaffairs.com/143047/breaking-news/security-affairs-newsletter-round-409-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+FiXS,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FiXS, a new ATM malware that is targeting Mexican banks<a href="https://securityaffairs.com/143022/malware/fixs-atm-malware-mexican-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Metabase Q discovered a new ATM malware, dubbed FiXS, that was employed in attacks against Mexican banks since February 2023.
+Researchers at Metabase Q recently spotted a new ATM malware, dubbed FiXS, that is currently targeting Mexican...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BidenCash leaks 2.1M stolen credit/debit cards<a href="https://securityaffairs.com/143006/cyber-crime/bidencash-leaks-2-1m-cards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark web carding site BidenCash recently leaked for free a collection of approximately 2 million stolen payment card numbers.
+An archive containing 2.1 million stolen payment card numbers is available for free to commemorate the anniversary of the dark...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
