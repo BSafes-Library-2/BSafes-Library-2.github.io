@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hatch Bank data breach caused by the exploitation of the GoAnywhere MFT zero-day<a href="https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fintech platform Hatch Bank disclosed a data breach, hackers exploited a recently discovered zero-day in Fortra GoAnywhere MFT secure file-sharing platform.
+Hatch Bank is a fintech firm that provides services to other fintech companies. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

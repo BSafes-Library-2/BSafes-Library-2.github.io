@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Clasiopa, APT41 Targets Asian Materials Sector<a href="https://cyware.com/news/after-clasiopa-apt41-targets-asian-materials-sector-a9b46ed4"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New HiatusRAT Malware Targets Business-Grade Routers to Covertly Spy on Victims<a href="https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Where the New National Cybersecurity Strategy Differs From Past Practice<a href="https://www.lawfareblog.com/where-new-national-cybersecurity-strategy-differs-past-practice"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom House ransomware attack hit Hospital Clinic de Barcelona<a href="https://securityaffairs.com/143121/cyber-crime/hospital-clinic-de-barcelona-ransomware.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital Smoke: Massive Investment Fraud Scam<a href="https://cyware.com/news/digital-smoke-massive-investment-fraud-scam-aff4a512"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Disinformation to Deep Fakes: How Threat Actors Manipulate Reality<a href="https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European police dismantled the DoppelPaymer ransomware gang<a href="https://securityaffairs.com/143110/cyber-crime/europol-doppelpaymer-ransomware-gang.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Year Spearphihing Campaign Against Maritime Industry<a href="https://cyware.com/news/multi-year-spearphihing-campaign-against-maritime-industry-3dba95d5"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine<a href="https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government orders States to conduct cyber security audits of public water systems<a href="https://securityaffairs.com/143065/security/public-water-systems-cybersecurity.html"> Full Text</a>
@@ -197,7 +197,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Introduces New Method to Bypass MOTW Protection<a href="https://cyware.com/news/lockbit-introduces-new-method-to-bypass-motw-protection-32a22ae1"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hatch Bank data breach caused by the exploitation of the GoAnywhere MFT zero-day<a href="https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Feature-Rich Post-Exploitation Tool 'Exfiltrator-22' Linked With LockBit<a href="https://cyware.com/news/new-feature-rich-post-exploitation-tool-exfiltrator-22-linked-with-lockbit-a8fd7816"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm<a href="https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html"> Full Text</a>
@@ -278,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colour-Blind, a fully featured info stealer and RAT in PyPI<a href="https://securityaffairs.com/143066/cyber-crime/colour-blind-malware-pypi.html"> Full Text</a>
@@ -295,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities of years past haunt organizations, aid attackers<a href="https://www.helpnetsecurity.com/2023/03/03/known-exploitable-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RIG EK Achieves Lifetime High Success Rate with Old IE Bugs<a href="https://cyware.com/news/rig-ek-achieves-lifetime-high-success-rate-with-old-ie-bugs-9e70c4f8"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tracking device technology: A double-edged sword for CISOs<a href="https://www.csoonline.com/article/3689016/tracking-device-technology-a-double-edged-sword-for-cisos.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are developing and deploying exploits faster than ever<a href="https://www.helpnetsecurity.com/2023/03/03/attackers-developing-deploying-exploits/?&web_view=true"> Full Text</a>
@@ -359,7 +359,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Municipal CISOs grapple with challenges as cyber threats soar<a href="https://www.csoonline.com/article/3688958/municipal-cisos-grapple-with-challenges-as-cyber-threats-soar.html#tk.rss_all?&web_view=true"> Full Text</a>

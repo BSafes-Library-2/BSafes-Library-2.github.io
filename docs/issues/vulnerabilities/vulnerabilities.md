@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RIG EK Achieves Lifetime High Success Rate with Old IE Bugs<a href="https://cyware.com/news/rig-ek-achieves-lifetime-high-success-rate-with-old-ie-bugs-9e70c4f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RIG EK continues to make its mark as a successful exploit kit as it attempted to make roughly 2,000 intrusions daily, with the highest attack success rate of its lifetime of 30%. By exploiting relatively old Internet Explorer vulnerabilities, the exploit kit has been seen distributing various types ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

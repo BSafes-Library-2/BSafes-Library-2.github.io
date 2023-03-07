@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European police dismantled the DoppelPaymer ransomware gang<a href="https://securityaffairs.com/143110/cyber-crime/europol-doppelpaymer-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German police announced to have dismantled an international cybercrime gang behind the DoppelPaymer ransomware operation.
+Europol has announced that an international operation conducted by law enforcement in Germany and Ukraine, with help of the US FBI and the Dutch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine<a href="https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities from Germany and Ukraine have targeted suspected core members of a cybercrime group that has been behind large-scale attacks using DoppelPaymer ransomware. The operation, which took place on February 28, 2023, was carried out with support from the Dutch National Police (Politie) and the U.S. Federal Bureau of Investigation (FBI), according to Europol. This encompassed a raid of a German national's house as well as searches in the Ukrainian cities of Kiev and Kharkiv. A Ukrainian national was also interrogated. Both individuals are believed to have taken up crucial positions in the DoppelPaymer group. "Forensic analysis of the seized equipment is still ongoing to determine the exact role of the suspects and their links to other accomplices," the agency further&nbsp; said . DoppelPaymer , according to cybersecurity firm CrowdStrike, emerged in April 2019 and shares most of its code with another ransomware strain known as BitPaymer, which is attri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

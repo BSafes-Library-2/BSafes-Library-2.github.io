@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities of years past haunt organizations, aid attackers<a href="https://www.helpnetsecurity.com/2023/03/03/known-exploitable-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Tenable report, the number one group of most frequently exploited vulnerabilities represents a large pool of known vulnerabilities, some of which were originally disclosed as far back as 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking device technology: A double-edged sword for CISOs<a href="https://www.csoonline.com/article/3689016/tracking-device-technology-a-double-edged-sword-for-cisos.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracking devices are a boon to organizations with vast logistical operations and anyone who has ever lost a set of car keys. But trackers can also be a nightmare for cybersecurity, opening up a whole new world of opportunity for intruders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are developing and deploying exploits faster than ever<a href="https://www.helpnetsecurity.com/2023/03/03/attackers-developing-deploying-exploits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there was a reduction in the widespread exploitation of new vulnerabilities in 2022, the risk remains significant as broad and opportunistic attacks continue to pose a threat, according to Rapid7.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipal CISOs grapple with challenges as cyber threats soar<a href="https://www.csoonline.com/article/3688958/municipal-cisos-grapple-with-challenges-as-cyber-threats-soar.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Municipal CISOs grapple with challenges as they become targets for nation-state threat actors, cope with regulations, and pursue funding from resource-constrained governments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Introduces New Method to Bypass MOTW Protection<a href="https://cyware.com/news/lockbit-introduces-new-method-to-bypass-motw-protection-32a22ae1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new LockBit ransomware campaign last December and January using a novel technique involving the use of a .img container to bypass the Mark of The Web (MOTW) protection mechanism. LockBit remained one of the most active ransomware families in successful RaaS and extortion att ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
