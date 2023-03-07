@@ -34,6 +34,347 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Clasiopa, APT41 Targets Asian Materials Sector<a href="https://cyware.com/news/after-clasiopa-apt41-targets-asian-materials-sector-a9b46ed4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec warned against the Chinese state-sponsored Winnti, aka APT41 and Blackfly, hacker group targeting two subsidiaries of an Asian conglomerate in the materials sector. The operation ran from late 2022 to early 2023, with a focus on intellectual property theft. Symantec has provided IOCs to de ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New HiatusRAT Malware Targets Business-Grade Routers to Covertly Spy on Victims<a href="https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A never-before-seen complex malware is targeting business-grade routers to covertly spy on victims in Latin America, Europe, and North America at least since July 2022. The elusive campaign, dubbed  Hiatus  by Lumen Black Lotus Labs, has been found to deploy two malicious binaries, a remote access trojan dubbed HiatusRAT and a  variant of tcpdump  that makes it possible to capture packet capture on the target device. "Once a targeted system is infected, HiatusRAT allows the threat actor to remotely interact with the system, and it utilizes prebuilt functionality [...] to convert the compromised machine into a covert proxy for the threat actor," the company  said  in a report shared with The Hacker News. "The packet-capture binary enables the actor to monitor router traffic on ports associated with email and file-transfer communications." The threat cluster primarily singles out end-of-life (EoL) DrayTek Vigor router models 2960 and 3900, with approximately 100
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where the New National Cybersecurity Strategy Differs From Past Practice<a href="https://www.lawfareblog.com/where-new-national-cybersecurity-strategy-differs-past-practice"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the strategy builds on cybersecurity efforts from the previous three administrations, it departs from past perspectives and practices and, if fully implemented, has the potential to change the U.S. cybersecurity posture significantly for the better.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom House ransomware attack hit Hospital Clinic de Barcelona<a href="https://securityaffairs.com/143121/cyber-crime/hospital-clinic-de-barcelona-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hospital Clinic de Barcelona, one of the main hospitals in the Spanish city, suffered a cyber attack that crippled its computer system.
+On Sunday, a ransomware attack hit the Hospital Clinic de Barcelona, one of the main hospitals of the Catalan city....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Smoke: Massive Investment Fraud Scam<a href="https://cyware.com/news/digital-smoke-massive-investment-fraud-scam-aff4a512"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified Digital Smoke, one of the largest investment scam networks, that has been defrauding netizens mostly from Europe, Asia, and Australia. The attackers impersonate Fortune 100 firms from the U.S. and the U.K. Most of the fraudulent schemes pertained to financial services, EV and  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Disinformation to Deep Fakes: How Threat Actors Manipulate Reality<a href="https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep fakes are expected to become a more prominent attack vector. Here's how to identify them. What are Deep Fakes? A deep fake is the act of maliciously replacing real images and videos with fabricated ones to perform information manipulation. To create images, video and audio that are high quality enough to be used in deep fakes, AI and ML are required. Such use of AI, ML and image replacement are unlike other types of information manipulation, which use less extreme manipulation techniques, like misrepresentation of information, isolating parts of the information or editing it in a deceptive manner. Etay Maor, Senior Director of Security Strategy at Cato Networks adds "To add complications, the recent advancements and accessibility to AI generated text, such as GPT3, have already been used in combination with deepfakes (as a proof of concept) to create interactive, human looking conversation bots" What Do Deep Fakes Look Like? Deep fakes come in all shapes and siz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European police dismantled the DoppelPaymer ransomware gang<a href="https://securityaffairs.com/143110/cyber-crime/europol-doppelpaymer-ransomware-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German police announced to have dismantled an international cybercrime gang behind the DoppelPaymer ransomware operation.
+Europol has announced that an international operation conducted by law enforcement in Germany and Ukraine, with help of the US FBI and the Dutch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Year Spearphihing Campaign Against Maritime Industry<a href="https://cyware.com/news/multi-year-spearphihing-campaign-against-maritime-industry-3dba95d5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EclecticIQ has revealed that a single connected threat cluster is most likely behind an attack campaign targeting the maritime industry with spearphishing emails to distribute different malware threats. In July 2022, the campaign shifted from Agent Tesla to Formbook using CAB file attachments. Howe ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine<a href="https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities from Germany and Ukraine have targeted suspected core members of a cybercrime group that has been behind large-scale attacks using DoppelPaymer ransomware. The operation, which took place on February 28, 2023, was carried out with support from the Dutch National Police (Politie) and the U.S. Federal Bureau of Investigation (FBI), according to Europol. This encompassed a raid of a German national's house as well as searches in the Ukrainian cities of Kiev and Kharkiv. A Ukrainian national was also interrogated. Both individuals are believed to have taken up crucial positions in the DoppelPaymer group. "Forensic analysis of the seized equipment is still ongoing to determine the exact role of the suspects and their links to other accomplices," the agency further  said . DoppelPaymer , according to cybersecurity firm CrowdStrike, emerged in April 2019 and shares most of its code with another ransomware strain known as BitPaymer, which is attri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government orders States to conduct cyber security audits of public water systems<a href="https://securityaffairs.com/143065/security/public-water-systems-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government urges cyber security audits of public water systems, highlighting the importance to secure US critical infrastructure.
+The Biden administration announced on Friday that it will make it mandatory for the states to conduct cyber security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Introduces New Method to Bypass MOTW Protection<a href="https://cyware.com/news/lockbit-introduces-new-method-to-bypass-motw-protection-32a22ae1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a new LockBit ransomware campaign last December and January using a novel technique involving the use of a .img container to bypass the Mark of The Web (MOTW) protection mechanism. LockBit remained one of the most active ransomware families in successful RaaS and extortion att ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Reveal Google Cloud Platform's Blind Spot for Data Exfiltration Attacks<a href="https://thehackernews.com/2023/03/experts-reveal-google-cloud-platforms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors can take advantage of "insufficient" forensic visibility into Google Cloud Platform (GCP) to exfiltrate sensitive data, a new research has found. "Unfortunately, GCP does not provide the level of visibility in its storage logs that is needed to allow any effective forensic investigation, making organizations blind to potential data exfiltration attacks," cloud incident response firm Mitiga  said  in a report. The attack banks on the prerequisite that the adversary is able to gain control of an identity and access management (IAM) entity in the targeted organization by methods like social engineering to access the GCP environment. The crux of the problem is that GCP's  storage access logs  do not provide adequate transparency with regards to potential file access and read events, instead grouping them all as a single "Object Get" activity. "The same event is used for a wide variety of types of access, including: Reading a fil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hatch Bank data breach caused by the exploitation of the GoAnywhere MFT zero-day<a href="https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fintech platform Hatch Bank disclosed a data breach, hackers exploited a recently discovered zero-day in Fortra GoAnywhere MFT secure file-sharing platform.
+Hatch Bank is a fintech firm that provides services to other fintech companies. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Feature-Rich Post-Exploitation Tool 'Exfiltrator-22' Linked With LockBit<a href="https://cyware.com/news/new-feature-rich-post-exploitation-tool-exfiltrator-22-linked-with-lockbit-a8fd7816"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers in the underground marketplace have introduced a new Exfiltrator-22, or EX-22, post-exploitation framework. According to the CYFIRMA team, LockBit 3.0 affiliates or its members are most probably behind its development. The developers have used the same C2 infrastructure previously exposed i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm<a href="https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers has revealed what it says is a vulnerability in a specific implementation of  CRYSTALS-Kyber , one of the encryption algorithms chosen by the U.S. government as quantum-resistant last year. The exploit relates to "side-channel attacks on up to the fifth-order masked implementations of CRYSTALS-Kyber in ARM Cortex-M4 CPU," Elena Dubrova, Kalle Ngo, and Joel Gärtner of KTH Royal Institute of Technology  said  in a paper. CRYSTALS-Kyber is one of four post-quantum algorithms  selected  by the U.S. National Institute of Standards and Technology (NIST) after a rigorous multi-year effort to identify the next-generation encryption standards that can withstand huge leaps in computing power. A side-channel attack, as the name implies, involves extracting secrets from a cryptosystem through measurement and analysis of physical parameters. Some examples of such parameters include supply current, execution time, and electromagnetic emission. The underlying id
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colour-Blind, a fully featured info stealer and RAT in PyPI<a href="https://securityaffairs.com/143066/cyber-crime/colour-blind-malware-pypi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered a fully featured information stealer, tracked as 'Colour-Blind' in the Python Package Index (PyPI).
+Researchers from Kroll's Cyber Threat Intelligence team discovered a malicious Python package uploaded to the Python Package Index...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities of years past haunt organizations, aid attackers<a href="https://www.helpnetsecurity.com/2023/03/03/known-exploitable-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Tenable report, the number one group of most frequently exploited vulnerabilities represents a large pool of known vulnerabilities, some of which were originally disclosed as far back as 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RIG EK Achieves Lifetime High Success Rate with Old IE Bugs<a href="https://cyware.com/news/rig-ek-achieves-lifetime-high-success-rate-with-old-ie-bugs-9e70c4f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RIG EK continues to make its mark as a successful exploit kit as it attempted to make roughly 2,000 intrusions daily, with the highest attack success rate of its lifetime of 30%. By exploiting relatively old Internet Explorer vulnerabilities, the exploit kit has been seen distributing various types ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking device technology: A double-edged sword for CISOs<a href="https://www.csoonline.com/article/3689016/tracking-device-technology-a-double-edged-sword-for-cisos.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracking devices are a boon to organizations with vast logistical operations and anyone who has ever lost a set of car keys. But trackers can also be a nightmare for cybersecurity, opening up a whole new world of opportunity for intruders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are developing and deploying exploits faster than ever<a href="https://www.helpnetsecurity.com/2023/03/03/attackers-developing-deploying-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there was a reduction in the widespread exploitation of new vulnerabilities in 2022, the risk remains significant as broad and opportunistic attacks continue to pose a threat, according to Rapid7.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipal CISOs grapple with challenges as cyber threats soar<a href="https://www.csoonline.com/article/3688958/municipal-cisos-grapple-with-challenges-as-cyber-threats-soar.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Municipal CISOs grapple with challenges as they become targets for nation-state threat actors, cope with regulations, and pursue funding from resource-constrained governments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
