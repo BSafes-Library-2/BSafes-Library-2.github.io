@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+March 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Disinformation to Deep Fakes: How Threat Actors Manipulate Reality<a href="https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deep fakes are expected to become a more prominent attack vector. Here's how to identify them. What are Deep Fakes? A deep fake is the act of maliciously replacing real images and videos with fabricated ones to perform information manipulation. To create images, video and audio that are high quality enough to be used in deep fakes, AI and ML are required. Such use of AI, ML and image replacement are unlike other types of information manipulation, which use less extreme manipulation techniques, like misrepresentation of information, isolating parts of the information or editing it in a deceptive manner. Etay Maor, Senior Director of Security Strategy at Cato Networks adds "To add complications, the recent advancements and accessibility to AI generated text, such as GPT3, have already been used in combination with deepfakes (as a proof of concept) to create interactive, human looking conversation bots" What Do Deep Fakes Look Like? Deep fakes come in all shapes and siz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

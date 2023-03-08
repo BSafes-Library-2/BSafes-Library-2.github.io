@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer discloses a new data breach, 160 GB of sensitive data available for sale<a href="https://securityaffairs.com/143150/data-breach/acer-data-breach-160-gb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese&nbsp;multinational&nbsp;hardware and electronics corporation Acer discloses a data breach after a threat actor claimed the hack of the company.
+Recently a threat actor announced the availability for sale of 160 GB of data allegedly stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Hack: Engineer's Failure to Update Plex Software Led to Massive Data Breach<a href="https://thehackernews.com/2023/03/lastpass-hack-engineers-failure-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive breach at LastPass was the result of one of its engineers failing to update Plex on their home computer, in what's a sobering reminder of the dangers of failing to keep software up-to-date. The embattled password management service last week&nbsp; revealed &nbsp;how unidentified actors leveraged information stolen from an earlier incident that took place prior to August 12, 2022, along with details "available from a third-party data breach and a vulnerability in a third-party media software package to launch a coordinated second attack" between August and October 2022. The intrusion ultimately enabled the adversary to steal partially encrypted password vault data and customer information. The second attack specifically singled out one of the four DevOps engineers, targeting their home computer with a keylogger malware to obtain the credentials and breach the cloud storage environment. This, in turn, is said to have been made possible by exploiting a nearly three-y
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Sell 160GB Trove of Stolen Confidential Data From Acer<a href="https://www.hackread.com/acer-data-breach-hacker-sell-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The list of stolen data included confidential slides and presentations, technical manuals, Windows Imaging Format files, binaries of various types, backend infrastructure data, product model documentation, and information about various devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

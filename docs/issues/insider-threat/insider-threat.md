@@ -8,6 +8,22 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass hack caused by an unpatched Plex software on an employee’s PC<a href="https://securityaffairs.com/143129/hacking/lastpass-hack-unpatched-plex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LastPass data breach was caused by the failure to update Plex on the home computer of one of the company updates.
+The security breach suffered by LastPass was caused by the failure to update Plex on the home computer of one of its engineers.
+Recently,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

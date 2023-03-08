@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm<a href="https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of researchers has revealed what it says is a vulnerability in a specific implementation of&nbsp; CRYSTALS-Kyber , one of the encryption algorithms chosen by the U.S. government as quantum-resistant last year. The exploit relates to "side-channel attacks on up to the fifth-order masked implementations of CRYSTALS-Kyber in ARM Cortex-M4 CPU," Elena Dubrova, Kalle Ngo, and Joel Gärtner of KTH Royal Institute of Technology&nbsp; said &nbsp;in a paper. CRYSTALS-Kyber is one of four post-quantum algorithms&nbsp; selected &nbsp;by the U.S. National Institute of Standards and Technology (NIST) after a rigorous multi-year effort to identify the next-generation encryption standards that can withstand huge leaps in computing power. A side-channel attack, as the name implies, involves extracting secrets from a cryptosystem through measurement and analysis of physical parameters. Some examples of such parameters include supply current, execution time, and electromagnetic emission. The underlying id
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

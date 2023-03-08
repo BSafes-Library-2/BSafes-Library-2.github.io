@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Hackers Distribute CapraRAT via Trojanized Messaging Apps<a href="https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Pakistan-aligned advanced persistent threat (APT) group known as&nbsp; Transparent Tribe &nbsp;has been linked to an ongoing cyber espionage campaign targeting Indian and Pakistani Android users with a backdoor called&nbsp; CapraRAT . "Transparent Tribe distributed the Android CapraRAT backdoor via trojanized secure messaging and calling apps branded as MeetsApp and MeetUp," ESET&nbsp; said &nbsp;in a report shared with The Hacker News. As many as 150 victims, likely with military or political leanings, are estimated to have been targeted, with the malware ( com.meetup.app ) available to download from fake websites that masquerade as the official distribution centers of these apps. It's being suspected that the targets are lured through a honeytrap romance scam wherein the threat actor approaches the victims via another platform and persuades them to install the malware-laced apps under the pretext of "secure" messaging and calling. However, the apps, besides offering
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Lures Indian and Pakistani Officials With Romance Scam to Spread Malware<a href="https://www.welivesecurity.com/2023/03/07/love-scam-espionage-transparent-tribe-lures-indian-pakistani-officials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have identified an active Transparent Tribe campaign, targeting mostly Indian and Pakistani Android users – presumably with a military or political orientation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

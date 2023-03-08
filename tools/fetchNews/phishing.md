@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Smoke: Massive Investment Fraud Scam<a href="https://cyware.com/news/digital-smoke-massive-investment-fraud-scam-aff4a512"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified Digital Smoke, one of the largest investment scam networks, that has been defrauding netizens mostly from Europe, Asia, and Australia. The attackers impersonate Fortune 100 firms from the U.S. and the U.K. Most of the fraudulent schemes pertained to financial services, EV and  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Year Spearphihing Campaign Against Maritime Industry<a href="https://cyware.com/news/multi-year-spearphihing-campaign-against-maritime-industry-3dba95d5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EclecticIQ has revealed that a single connected threat cluster is most likely behind an attack campaign targeting the maritime industry with spearphishing emails to distribute different malware threats. In July 2022, the campaign shifted from Agent Tesla to Formbook using CAB file attachments. Howe ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

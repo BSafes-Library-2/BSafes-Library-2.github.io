@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Combating Ransomware: A Roadmap for Progress<a href="https://www.lawfareblog.com/combating-ransomware-roadmap-progress"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new white paper from American University Washington College of Law’s Technology, Law, and Security Program considers how to combat the evolving ransomware threat in line with the Biden administration’s new National Cybersecurity Strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Healthcare Can't Afford to Ignore Digital Identity<a href="https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investing in digital identity can improve security, increase clinical productivity, and boost healthcare's bottom line.&nbsp; —&nbsp; b y Gus Malezis, CEO of Imprivata Digitalization has created immeasurable opportunities for businesses over the past two decades. But the growth of hybrid work and expansion of Internet of Things (IoT) has outpaced traditional 'castle and moat' cybersecurity, introducing unprecedented vulnerabilities, especially in the healthcare industry. Although all organizations have important data to secure, healthcare holds some of the public's most sensitive personal health information (PHI) – not to mention insurance and financial data, as well.&nbsp; We all expect this information to be secured and protected, especially with HIPAA laws in place. However, due to increasing IT fragmentation and the growing sophistication of cyberattacks, this is no longer guaranteed. In fact, the number of individuals affected by health data breaches in the U.S. since 2009 is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Critical Vulnerability in End-of-Life VMware Product Ongoing<a href="https://www.securityweek.com/exploitation-of-critical-vulnerability-in-end-of-life-vmware-product-ongoing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-39144 (CVSS score of 9.8), the issue was disclosed in October 2022, when VMware announced patches for it, although the affected product had reached end-of-life (EOL) status in January 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

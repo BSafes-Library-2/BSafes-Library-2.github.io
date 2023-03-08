@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+March 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US government orders States to conduct cyber security audits of public water systems<a href="https://securityaffairs.com/143065/security/public-water-systems-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government urges cyber security audits of public water systems, highlighting the importance to secure US critical infrastructure.
+The Biden administration announced on Friday that it will make it mandatory for the states to conduct cyber security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

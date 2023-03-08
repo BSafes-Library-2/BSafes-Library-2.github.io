@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Ransomware Group Claims Hamburg University of Applied Sciences as Latest Victim<a href="https://therecord.media/germany-ransomware-haw-hamburg-vice-society?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The university warned that “significant amounts of data from various areas” were copied, including usernames and “cryptographically secured” passwords, email addresses, and mobile phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
