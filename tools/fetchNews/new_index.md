@@ -34,7 +34,284 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SYS01stealer Threat Uses Facebook Ads to Target Critical Infrastructure Firms<a href="https://blog.morphisec.com/sys01stealer-facebook-info-stealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Morphisec has tracked an advanced info-stealer called SYS01stealer since November 2022. It uses similar lures and loading techniques to another information stealer recently named S1deload by Bitdefender, but the actual payload is different.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SYS01stealer: New Threat Using Facebook Ads to Target Critical Infrastructure Firms<a href="https://thehackernews.com/2023/03/sys01stealer-new-threat-using-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new information stealer dubbed SYS01stealer targeting critical government infrastructure employees, manufacturing companies, and other sectors. "The threat actors behind the campaign are targeting Facebook business accounts by using Google ads and fake Facebook profiles that promote things like games, adult content, and cracked software, etc. to lure victims into downloading a malicious file," Morphisec said in a report shared with The Hacker News. "The attack is designed to steal sensitive information, including login data, cookies, and Facebook ad and business account information." The Israeli cybersecurity company said the campaign was initially tied to a financially motivated cybercriminal operation  dubbed Ducktail  by Zscaler. However, WithSecure, which  first documented  the Ducktail activity cluster in July 2022, said the  two intrusion sets  are different from one another, indicating how the threat actors
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Combating Ransomware: A Roadmap for Progress<a href="https://www.lawfareblog.com/combating-ransomware-roadmap-progress"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new white paper from American University Washington College of Law’s Technology, Law, and Security Program considers how to combat the evolving ransomware threat in line with the Biden administration’s new National Cybersecurity Strategy.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SYS01 stealer targets critical government infrastructure<a href="https://securityaffairs.com/143162/cyber-crime/sys01-stealer-targets-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new info stealer dubbed SYS01 stealer targeting critical government infrastructure and manufacturing firms.
+Cybersecurity researchers from Morphisec discovered a new, advanced information stealer, dubbed SYS01 stealer,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Ransomware Group Claims Hamburg University of Applied Sciences as Latest Victim<a href="https://therecord.media/germany-ransomware-haw-hamburg-vice-society?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The university warned that “significant amounts of data from various areas” were copied, including usernames and “cryptographically secured” passwords, email addresses, and mobile phone numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Hackers Distribute CapraRAT via Trojanized Messaging Apps<a href="https://thehackernews.com/2023/03/transparent-tribe-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Pakistan-aligned advanced persistent threat (APT) group known as  Transparent Tribe  has been linked to an ongoing cyber espionage campaign targeting Indian and Pakistani Android users with a backdoor called  CapraRAT . "Transparent Tribe distributed the Android CapraRAT backdoor via trojanized secure messaging and calling apps branded as MeetsApp and MeetUp," ESET  said  in a report shared with The Hacker News. As many as 150 victims, likely with military or political leanings, are estimated to have been targeted, with the malware ( com.meetup.app ) available to download from fake websites that masquerade as the official distribution centers of these apps. It's being suspected that the targets are lured through a honeytrap romance scam wherein the threat actor approaches the victims via another platform and persuades them to install the malware-laced apps under the pretext of "secure" messaging and calling. However, the apps, besides offering
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acer discloses a new data breach, 160 GB of sensitive data available for sale<a href="https://securityaffairs.com/143150/data-breach/acer-data-breach-160-gb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese multinational hardware and electronics corporation Acer discloses a data breach after a threat actor claimed the hack of the company.
+Recently a threat actor announced the availability for sale of 160 GB of data allegedly stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Lures Indian and Pakistani Officials With Romance Scam to Spread Malware<a href="https://www.welivesecurity.com/2023/03/07/love-scam-espionage-transparent-tribe-lures-indian-pakistani-officials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers have identified an active Transparent Tribe campaign, targeting mostly Indian and Pakistani Android users – presumably with a military or political orientation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Healthcare Can't Afford to Ignore Digital Identity<a href="https://thehackernews.com/2023/03/why-healthcare-cant-afford-to-ignore.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investing in digital identity can improve security, increase clinical productivity, and boost healthcare's bottom line.  —  b y Gus Malezis, CEO of Imprivata Digitalization has created immeasurable opportunities for businesses over the past two decades. But the growth of hybrid work and expansion of Internet of Things (IoT) has outpaced traditional 'castle and moat' cybersecurity, introducing unprecedented vulnerabilities, especially in the healthcare industry. Although all organizations have important data to secure, healthcare holds some of the public's most sensitive personal health information (PHI) – not to mention insurance and financial data, as well.  We all expect this information to be secured and protected, especially with HIPAA laws in place. However, due to increasing IT fragmentation and the growing sophistication of cyberattacks, this is no longer guaranteed. In fact, the number of individuals affected by health data breaches in the U.S. since 2009 is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert released PoC exploit code for critical Microsoft Word RCE flaw<a href="https://securityaffairs.com/143139/hacking/microsoft-word-cve-2023-21716-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher released a proof-of-concept exploit code for a critical flaw, tracked as CVE-2023-21716, in Microsoft Word.
+Security researcher Joshua Drake released a proof-of-concept for a critical vulnerability, tracked as CVE-2023-21716 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android’s March 2023 Updates Patch Over 50 Vulnerabilities<a href="https://www.securityweek.com/androids-march-2023-updates-patch-over-50-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of the patched vulnerabilities are two remote code execution (RCE) flaws in the System component, both of which were addressed as part of the 2023-03-01 security patch level.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shein's Android App Caught Transmitting Clipboard Data to Remote Servers<a href="https://thehackernews.com/2023/03/sheins-android-app-caught-transmitting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An older version of Shein's  Android application  suffered from a bug that periodically captured and transmitted clipboard contents to a remote server. The Microsoft 365 Defender Research Team said it  discovered  the problem in  version 7.9.2  of the app that was released on December 16, 2021. The issue has since been addressed as of May 2022. Shein, originally named ZZKKO, is a Chinese online fast fashion retailer based in Singapore. The app, which is currently at version 9.0.0, has over 100 million downloads on the Google Play Store. The tech giant  said  it's not "specifically aware of any malicious intent behind the behavior," but noted that the function isn't necessary to perform tasks on the app. It further pointed out that launching the application after copying any content to the device clipboard automatically triggered an HTTP POST request containing the data to the server "api-service[.]shein[.]com." To mitigate such privacy risks, Goo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass hack caused by an unpatched Plex software on an employee’s PC<a href="https://securityaffairs.com/143129/hacking/lastpass-hack-unpatched-plex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LastPass data breach was caused by the failure to update Plex on the home computer of one of the company updates.
+The security breach suffered by LastPass was caused by the failure to update Plex on the home computer of one of its engineers.
+Recently,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Critical Vulnerability in End-of-Life VMware Product Ongoing<a href="https://www.securityweek.com/exploitation-of-critical-vulnerability-in-end-of-life-vmware-product-ongoing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2021-39144 (CVSS score of 9.8), the issue was disclosed in October 2022, when VMware announced patches for it, although the affected product had reached end-of-life (EOL) status in January 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LastPass Hack: Engineer's Failure to Update Plex Software Led to Massive Data Breach<a href="https://thehackernews.com/2023/03/lastpass-hack-engineers-failure-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The massive breach at LastPass was the result of one of its engineers failing to update Plex on their home computer, in what's a sobering reminder of the dangers of failing to keep software up-to-date. The embattled password management service last week  revealed  how unidentified actors leveraged information stolen from an earlier incident that took place prior to August 12, 2022, along with details "available from a third-party data breach and a vulnerability in a third-party media software package to launch a coordinated second attack" between August and October 2022. The intrusion ultimately enabled the adversary to steal partially encrypted password vault data and customer information. The second attack specifically singled out one of the four DevOps engineers, targeting their home computer with a keylogger malware to obtain the credentials and breach the cloud storage environment. This, in turn, is said to have been made possible by exploiting a nearly three-y
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Sell 160GB Trove of Stolen Confidential Data From Acer<a href="https://www.hackread.com/acer-data-breach-hacker-sell-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The list of stolen data included confidential slides and presentations, technical manuals, Windows Imaging Format files, binaries of various types, backend infrastructure data, product model documentation, and information about various devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHouse Ransomware Attack Hit Hospital Clinic de Barcelona<a href="https://securityaffairs.com/143121/cyber-crime/hospital-clinic-de-barcelona-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The hospital’s press department said that all written work was being done on paper and that the hospital was diverting new urgent cases to other hospitals in the city,” states the Associated Press.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Clasiopa, APT41 Targets Asian Materials Sector<a href="https://cyware.com/news/after-clasiopa-apt41-targets-asian-materials-sector-a9b46ed4"> Full Text</a>
@@ -50,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New HiatusRAT Malware Targets Business-Grade Routers to Covertly Spy on Victims<a href="https://thehackernews.com/2023/03/new-hiatusrat-malware-targets-business.html"> Full Text</a>
@@ -66,7 +343,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Where the New National Cybersecurity Strategy Differs From Past Practice<a href="https://www.lawfareblog.com/where-new-national-cybersecurity-strategy-differs-past-practice"> Full Text</a>
@@ -82,7 +359,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom House ransomware attack hit Hospital Clinic de Barcelona<a href="https://securityaffairs.com/143121/cyber-crime/hospital-clinic-de-barcelona-ransomware.html"> Full Text</a>
@@ -99,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital Smoke: Massive Investment Fraud Scam<a href="https://cyware.com/news/digital-smoke-massive-investment-fraud-scam-aff4a512"> Full Text</a>
@@ -115,7 +392,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Disinformation to Deep Fakes: How Threat Actors Manipulate Reality<a href="https://thehackernews.com/2023/03/from-disinformation-to-deep-fakes-how.html"> Full Text</a>
@@ -131,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European police dismantled the DoppelPaymer ransomware gang<a href="https://securityaffairs.com/143110/cyber-crime/europol-doppelpaymer-ransomware-gang.html"> Full Text</a>
@@ -148,7 +425,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Year Spearphihing Campaign Against Maritime Industry<a href="https://cyware.com/news/multi-year-spearphihing-campaign-against-maritime-industry-3dba95d5"> Full Text</a>
@@ -164,7 +441,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Core Members of DoppelPaymer Ransomware Gang Targeted in Germany and Ukraine<a href="https://thehackernews.com/2023/03/core-members-of-doppelpaymer-ransomware.html"> Full Text</a>
@@ -180,7 +457,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US government orders States to conduct cyber security audits of public water systems<a href="https://securityaffairs.com/143065/security/public-water-systems-cybersecurity.html"> Full Text</a>
@@ -197,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Introduces New Method to Bypass MOTW Protection<a href="https://cyware.com/news/lockbit-introduces-new-method-to-bypass-motw-protection-32a22ae1"> Full Text</a>
@@ -229,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hatch Bank data breach caused by the exploitation of the GoAnywhere MFT zero-day<a href="https://securityaffairs.com/143085/data-breach/hatch-bank-goanywhere-mft-bug.html"> Full Text</a>
@@ -246,7 +523,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Feature-Rich Post-Exploitation Tool 'Exfiltrator-22' Linked With LockBit<a href="https://cyware.com/news/new-feature-rich-post-exploitation-tool-exfiltrator-22-linked-with-lockbit-a8fd7816"> Full Text</a>
@@ -262,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 06, 2023
+March 06, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Discover Flaw in U.S. Govt's Chosen Quantum-Resistant Encryption Algorithm<a href="https://thehackernews.com/2023/03/experts-discover-flaw-in-us-govts.html"> Full Text</a>
@@ -278,7 +555,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colour-Blind, a fully featured info stealer and RAT in PyPI<a href="https://securityaffairs.com/143066/cyber-crime/colour-blind-malware-pypi.html"> Full Text</a>
@@ -295,7 +572,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities of years past haunt organizations, aid attackers<a href="https://www.helpnetsecurity.com/2023/03/03/known-exploitable-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -311,7 +588,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RIG EK Achieves Lifetime High Success Rate with Old IE Bugs<a href="https://cyware.com/news/rig-ek-achieves-lifetime-high-success-rate-with-old-ie-bugs-9e70c4f8"> Full Text</a>
@@ -327,7 +604,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tracking device technology: A double-edged sword for CISOs<a href="https://www.csoonline.com/article/3689016/tracking-device-technology-a-double-edged-sword-for-cisos.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -343,7 +620,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are developing and deploying exploits faster than ever<a href="https://www.helpnetsecurity.com/2023/03/03/attackers-developing-deploying-exploits/?&web_view=true"> Full Text</a>
@@ -359,7 +636,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2023
+March 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Municipal CISOs grapple with challenges as cyber threats soar<a href="https://www.csoonline.com/article/3688958/municipal-cisos-grapple-with-challenges-as-cyber-threats-soar.html#tk.rss_all?&web_view=true"> Full Text</a>
