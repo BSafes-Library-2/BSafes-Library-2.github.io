@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Northern Essex Community College Remains Shuttered After Cyberattack<a href="https://therecord.media/northern-essex-community-college-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A spokesperson for the school told The Record that they did not know if the attack was ransomware, and claimed they “do not have evidence of any personal data being compromised.” On Tuesday, the school confirmed it would not open for the day.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

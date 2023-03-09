@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syxsense Platform: Unified Security and Endpoint Management<a href="https://thehackernews.com/2023/03/syxsense-platform-unified-security-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As threats grow and attack surfaces get more complex, companies continue to struggle with the multitude of tools they utilize to handle endpoint security and management. This can leave gaps in an enterprise's ability to identify devices that are accessing the network and in ensuring that those devices are compliant with security policies. These gaps are often seen in outdated spreadsheets that are used to track and manage asset inventory, configurations, vulnerabilities, and more. Ultimately, this increases organizational risk while stifling efficiency and productivity. That's why unified security and endpoint management has gained ground, as noted in&nbsp; Gartner's Hype Cycle for Endpoint Security, 2022 . As part of the market's need to gain a clearer, real-time picture of their devices and security posture, Syxsense launched its Enterprise platform last year to address the three key elements of endpoint management and security: vulnerabilities, patch, and compliance. Ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Exploits Zero-Day Vulnerability to Hack South Korean Financial Entity<a href="https://thehackernews.com/2023/03/lazarus-group-exploits-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked&nbsp; Lazarus Group &nbsp;has been observed weaponizing flaws in an undisclosed software to breach a financial business entity in South Korea twice within a span of a year. While the first attack in May 2022 entailed the use of a vulnerable version of a certificate software that's widely used by public institutions and universities, the re-infiltration in October 2022 involved the exploitation of a zero-day in the same program. Cybersecurity firm AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;it's refraining from mentioning the software owing to the fact that "the vulnerability has not been fully verified yet and a software patch has not been released." The adversarial collective, after obtaining an initial foothold by an unknown method, abused the zero-day bug to perform lateral movement, shortly after which the AhnLab V3 anti-malware engine was disabled via a&nbsp; BYOVD attack . It's worth noting here that the Bring Your Own Vulnerable Dr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

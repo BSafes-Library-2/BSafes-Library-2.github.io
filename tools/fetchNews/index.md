@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qakbot Strikes Again With New Delivery Method; Puts Millions of Devices at Risk<a href="https://cyberwarzone.com/qakbot-strikes-again-new-delivery-method-puts-millions-of-devices-at-risk/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins Security Alert: New Security Flaws Could Allow Code Execution Attacks<a href="https://thehackernews.com/2023/03/jenkins-security-alert-new-security.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical flaw affects Fortinet FortiOS and FortiProxy, patch it now!<a href="https://securityaffairs.com/143227/security/fortinet-fortios-fortiproxy-critical-bug.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp Panda Targets Southeast Asian Governments Using Evolved Soul Malware Framework<a href="https://cyware.com/news/sharp-panda-targets-southeast-asian-governments-using-evolved-soul-malware-framework-b5630822"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Syxsense Platform: Unified Security and Endpoint Management<a href="https://thehackernews.com/2023/03/syxsense-platform-unified-security-and.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veeam warns to install patches to fix a bug in its Backup & Replication product<a href="https://securityaffairs.com/143218/security/veeam-backup-replication-bug.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SYS01 Campaign Uses Multiple Attack Evasion Tactics; Stayed Invisible for Five Months<a href="https://cyware.com/news/sys01-campaign-uses-multiple-attack-evasion-tactics-stayed-invisible-for-five-months-6171a3ba"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Exploits Zero-Day Vulnerability to Hack South Korean Financial Entity<a href="https://thehackernews.com/2023/03/lazarus-group-exploits-zero-day.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT used a 0-day in a recent attack<a href="https://securityaffairs.com/143210/hacking/lazarus-apt-0-day.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netherlands: Qilin Ransomware Breaches Elderly Care Facility and Leaks Confidential Data Online<a href="https://cyberwarzone.com/qilin-ransomware-attack-elderly-care-facility-breached-and-confidential-data-leaked-online/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp Panda Using New Soul Framework Version to Target Southeast Asian Governments<a href="https://thehackernews.com/2023/03/sharp-panda-using-new-soul-framework.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds three new bugs to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143204/security/cisa-known-exploited-vulnerabilities-catalog-2.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Israel blames state-sponsored Iranian hackers for ransomware attack on university<a href="https://therecord.media/israel-technion-ransomware-attack-iran-darkbit-muddywater?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA's KEV Catalog Updated with 3 New Flaws Threatening IT Management Systems<a href="https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Sharp Panda targets government entities in Southeast Asia<a href="https://securityaffairs.com/143187/apt/sharp-panda-targets-southeast-asia.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senators Aim to Block Foreign Tech That Poses Threat<a href="https://www.bankinfosecurity.com/us-senators-aim-to-block-foreign-tech-that-poses-threat-a-21386?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware NSX Manager bugs actively exploited in the wild since December<a href="https://securityaffairs.com/143172/hacking/vmware-nsx-manager-bugs-attacks.html"> Full Text</a>
@@ -312,7 +312,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Northern Essex Community College Remains Shuttered After Cyberattack<a href="https://therecord.media/northern-essex-community-college-cyberattack?&web_view=true"> Full Text</a>
@@ -328,7 +328,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 111 Patches 40 Vulnerabilities<a href="https://www.securityweek.com/chrome-111-patches-40-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -344,7 +344,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Toyota Management Platform Provided Access to Customer Data<a href="https://www.securityweek.com/vulnerability-in-toyota-management-platform-provided-access-to-customer-data/?&web_view=true"> Full Text</a>

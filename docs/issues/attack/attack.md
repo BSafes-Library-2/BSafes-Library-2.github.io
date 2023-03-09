@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp Panda Using New Soul Framework Version to Target Southeast Asian Governments<a href="https://thehackernews.com/2023/03/sharp-panda-using-new-soul-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile government entities in Southeast Asia are the target of a cyber espionage campaign undertaken by a Chinese threat actor known as Sharp Panda since late last year. The intrusions are characterized by the use of a new version of the Soul modular framework, marking a departure from the group's attack chains observed in 2021. Israeli cybersecurity company Check Point&nbsp; said &nbsp;the "long-running" activities have historically singled out countries such as Vietnam, Thailand, and Indonesia. Sharp Panda was&nbsp; first documented &nbsp;by the firm in June 2021, describing it as a "highly-organized operation that placed significant effort into remaining under the radar." Interestingly, the use of the Soul backdoor was&nbsp; detailed &nbsp;by Broadcom's Symantec in October 2021 in connection to an unattributed espionage operation targeting defense, healthcare, and ICT sectors in Southeast Asia. The implant's origins, according to&nbsp; research &nbsp;published by Fortinet FortiG
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Israel blames state-sponsored Iranian hackers for ransomware attack on university<a href="https://therecord.media/israel-technion-ransomware-attack-iran-darkbit-muddywater?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack in February forced the Israel Institute of Technology (Technion) to postpone exams and shut down its IT systems. The incident followed what Israeli defense officials said were dozens of attempted Iranian cyberattacks over the past year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

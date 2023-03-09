@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds three new bugs to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143204/security/cisa-known-exploited-vulnerabilities-catalog-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited flaws in Teclib GLPI, Apache Spark, and Zoho ManageEngine ADSelfService Plus to its Known Exploited Vulnerabilities Catalog.
+US CISA added the following actively exploited flaws to its&nbsp;Known Exploited Vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA's KEV Catalog Updated with 3 New Flaws Threatening IT Management Systems<a href="https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;three security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. The list of vulnerabilities is below - CVE-2022-35914 &nbsp;(CVSS score: 9.8) - Teclib GLPI Remote Code Execution Vulnerability CVE-2022-33891 &nbsp;(CVSS score: 8.8) - Apache Spark Command Injection Vulnerability CVE-2022-28810 &nbsp;(CVSS score: 6.8) - Zoho ManageEngine ADSelfService Plus Remote Code Execution Vulnerability The most critical of the three is&nbsp; CVE-2022-35914 , which concerns a remote code execution vulnerability in the third-party library htmlawed present in&nbsp; Teclib GLPI , an open source asset and IT management software package. The exact specifics surrounding the nature of attacks are unknown, but the Shadowserver Foundation in October 2022&nbsp; noted &nbsp;that it has seen exploitation attempts against its honeypots. Since then, a cURL-based one-line proof of concept (PoC) has been made a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senators Aim to Block Foreign Tech That Poses Threat<a href="https://www.bankinfosecurity.com/us-senators-aim-to-block-foreign-tech-that-poses-threat-a-21386?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis in 2021 by The Citizen Lab concluded that TikTok collects types of data similar to what other social media platforms collect - and also said that "the general privacy standards for social platforms is not a high bar."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

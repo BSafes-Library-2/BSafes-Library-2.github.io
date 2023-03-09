@@ -8,6 +8,36 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked&nbsp;Lazarus APT used a 0-day in a recent attack<a href="https://securityaffairs.com/143210/hacking/lazarus-apt-0-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked&nbsp;Lazarus APT group&nbsp;exploits a zero-day vulnerability in attacks aimed at a South Korean financial entity.
+ASEC (AhnLab Security Emergency Response Center) observed North Korea-linked&nbsp;Lazarus APT group&nbsp;exploiting a zero-day vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Sharp Panda targets government entities in Southeast Asia<a href="https://securityaffairs.com/143187/apt/sharp-panda-targets-southeast-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Sharp Panda targets high-profile government entities in Southeast Asia with the Soul modular framework.
+CheckPoint researchers observed in late 2022, a campaign attributed to the China-linked APT group Sharp Panda that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
