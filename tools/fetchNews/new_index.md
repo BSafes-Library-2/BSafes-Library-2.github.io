@@ -34,7 +34,317 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OneNote Used as New Distribution Channel for Qakbot Malware<a href="https://cyware.com/news/onenote-used-as-new-distribution-channel-for-qakbot-malware-ac5257d1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a notable spike in emails utilizing malicious OneNote attachments, especially to drop Qakbot or QBot. Operators have apparently reorganized its infrastructure to target specific regions and industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Remote Desktop Software Flaws to Deploy PlugX Malware<a href="https://thehackernews.com/2023/03/hackers-exploiting-remote-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities in remote desktop programs such as Sunlogin and AweSun are being exploited by threat actors to deploy the PlugX malware. AhnLab Security Emergency Response Center (ASEC), in a  new analysis , said it marks the continued abuse of the flaws to deliver a variety of payloads on compromised systems. This  includes  the Sliver post-exploitation framework, XMRig cryptocurrency miner, Gh0st RAT, and Paradise ransomware. PlugX is the latest addition to this list. The  modular malware  has been extensively put to use by threat actors based in China, with new features continuously added to help perform system control and information theft. In the attacks observed by ASEC, successful exploitation of the flaws is followed by the execution of a PowerShell command that retrieves an executable and a DLL file from a remote server. This executable is a legitimate HTTP Server Service from cybersecurity company ESET, which is used to load the DLL file by means of a techniq
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai mitigated a record-breaking DDoS attack that peaked 900Gbps<a href="https://securityaffairs.com/143282/hacking/akamai-mitigates-900gbps-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai has mitigated the largest DDoS (distributed denial of service) attack ever, which peaked at 900.1 gigabits per second.
+Akamai reported that on February 23, 2023, at 10:22 UTC, it mitigated the largest DDoS attack ever. The attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! AI Generates a Truly Polymorphic Malware BlackMamba<a href="https://cyware.com/news/beware-ai-generates-a-truly-polymorphic-malware-blackmamba-d3599eb7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A BlackMamba proof-of-concept attack was demonstrated by researchers. The technology on which ChatGPT is built, the large language model (LLM), was used to create a polymorphic keylogger functionality on the fly. The malware was tested against a renowned EDR system and resulted in absolutely no ale ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IceFire Ransomware Exploits IBM Aspera Faspex to Attack Linux-Powered Enterprise Networks<a href="https://thehackernews.com/2023/03/icefire-linux-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously known Windows-based ransomware strain known as IceFire has expanded its focus to target Linux enterprise networks belonging to several media and entertainment sector organizations across the world. The intrusions entail the exploitation of a recently disclosed deserialization vulnerability in IBM Aspera Faspex file-sharing software ( CVE-2022-47986 , CVSS score: 9.8), according to cybersecurity company SentinelOne. "This strategic shift is a significant move that aligns them with  other   ransomware  groups that also target Linux systems," Alex Delamotte, senior threat researcher at SentinelOne,  said  in a report shared with The Hacker News. A majority of the attacks observed by SentinelOne have been directed against companies located in Turkey, Iran, Pakistan, and the U.A.E., countries that are not typically targeted by organized ransomware crews. IceFire  was first detected in March 2022 by the  MalwareHunterTeam , but it wasn't until August 2022 tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall SMA appliance infected by a custom malware allegedly developed by Chinese hackers<a href="https://securityaffairs.com/143273/hacking/sonicwall-sma-custom-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged China-linked threat actors infected unpatched SonicWall Secure Mobile Access (SMA) appliances with a custom backdoor.
+Mandiant researchers reported that alleged China-linked threat actors, tracked as UNC4540, deployed custom malware on a SonicWall...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked hackers used fake Atlantic Council-affiliated persona to target human rights researchers<a href="https://cyberscoop.com/iran-linked-hackers-used-fake-atlantic-council-persona-to-target-human-rights-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not clear if this particular persona’s efforts resulted in any successful phishing attacks. The Twitter account, created in October 2022, remains active. An Instagram account associated with the name is unavailable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does Your Help Desk Know Who's Calling?<a href="https://thehackernews.com/2023/03/does-your-help-desk-know-whos-calling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing, the theft of users' credentials or sensitive data using social engineering, has been a significant threat since the early days of the internet – and continues to plague organizations today,  accounting for more than 30% of all known breaches . And with the mass migration to remote working during the pandemic, hackers have ramped up their efforts to steal login credentials as they take advantage of the chaos and lack of in-person user verification.  This has led to the revival of the old-school technique of vishing, which, like phishing online, involves using social engineering over the phone to steal sensitive information. Vishing attacks have  been on the rise  as a result, with 69% of companies experiencing them in 2021, up from 54% in 2020. These attacks often take the form of job or tech support scams and can be incredibly convincing. In August 2020, the  FBI along with the CISA  issued a warning regarding remote users being targeted by attackers spoofing organizati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently discovered IceFire Ransomware now also targets Linux systems<a href="https://securityaffairs.com/143261/malware/icefire-ransomware-targets-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Windows ransomware IceFire now also targets Linux enterprise networks in multiple sectors.
+SentinelLabs researchers discovered new Linux versions of the recently discovered IceFire ransomware that was employed in attacks against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Email Threats From Exotic Lily<a href="https://www.reliaquest.com/blog/email-exotic-lily/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exotic Lily is an initial access broker who specializes in gathering credentials from high-value targets through employee impersonation, deep open-source intelligence (OSINT), and by creating convincing malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target Women Involved in Human Rights and Middle East Politics<a href="https://thehackernews.com/2023/03/iranian-hackers-target-women-involved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-sponsored actors are continuing to engage in social engineering campaigns targeting researchers by impersonating a U.S. think tank. "Notably the targets in this instance were all women who are actively involved in political affairs and human rights in the Middle East region," Secureworks Counter Threat Unit (CTU)  said  in a report shared with The Hacker News. The cybersecurity company attributed the activity to a hacking group it tracks as  Cobalt Illusion , and which is also known by the names APT35, Charming Kitten, ITG18, Phosphorus, TA453, and Yellow Garuda. The targeting of academics, activists, diplomats, journalists, politicians, and researchers by the threat actor  has been   well-documented   over  the  years . The group is suspected to be operating on behalf of Iran's Islamic Revolutionary Guard Corps (IRGC) and has exhibited a pattern of using fake personas to establish contact with individuals who are of strategic interest to the governmen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang used new ScrubCrypt crypter in recent cryptojacking attacks<a href="https://securityaffairs.com/143252/hacking/scrubcrypt-crypter-cryptojacking-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked as 8220 Gang has been spotted using a new crypter called ScrubCrypt in cryptojacking campaigns.
+Fortinet researchers observed the mining group 8220 Gang using a new crypter called ScrubCrypt in cryptojacking attacks.
+"Between...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian TA499 Targets North American and European Countries<a href="https://cyware.com/news/russian-ta499-targets-north-american-and-european-countries-c1c37a1b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked TA499 threat actor has been aggressively conducting email campaigns to target high-profile European and North American government authorities and CEOs of reputable organizations. The attack begins with an email or phone call, masquerading as prominent political figures. The phone call ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ScrubCrypt Crypter Used in Cryptojacking Attacks Targeting Oracle WebLogic<a href="https://thehackernews.com/2023/03/new-scrubcrypt-crypter-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous cryptocurrency miner group called 8220 Gang has been observed using a new crypter called ScrubCrypt to carry out cryptojacking operations. According to Fortinet FortiGuard Labs, the attack chain commences with successful exploitation of susceptible Oracle WebLogic servers to download a PowerShell script that contains ScrubCrypt. Crypters are a type of software that can encrypt, obfuscate, and manipulate malware with the goal of evading detection by security programs. ScrubCrypt, which is advertised for sale by its author, comes with features to bypass Windows Defender protections as well as check for the presence of debugging and virtual machine environments. "ScrubCrypt is a crypter used to secure applications with a unique BAT packing method," security researcher Cara Lin  said  in a technical report. "The encrypted data at the top can be split into four parts using backslash '\.'" The crypter, in the final stage, decodes and loads the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudBees flaws in Jenkins server can lead to code execution<a href="https://securityaffairs.com/143237/security/jenkins-cloudbees-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudBees vulnerabilities in the Jenkins open-source automation server can be exploited to achieve code execution on targeted systems.
+Researchers from cloud security firm Aqua discovered a chain of two vulnerabilities in the Jenkins open-source automation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat vectors converging, increasing damage<a href="https://www.techtarget.com/searchsecurity/news/365532111/Flashpoint-Threat-vectors-converging-increasing-damage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat intelligence vendor Flashpoint warned that threat actors are increasingly combining known vulnerabilities, stolen credentials, and exposed data to wreak maximum damage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical Flaw in FortiOS and FortiProxy Could Give Hackers Remote Access<a href="https://thehackernews.com/2023/03/new-critical-flaw-in-fortios-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released fixes to  address 15 security flaws , including one critical vulnerability impacting FortiOS and FortiProxy that could enable a threat actor to take control of affected systems. The issue, tracked as  CVE-2023-25610 , is rated 9.3 out of 10 for severity and was internally discovered and reported by its security teams. "A buffer underwrite ('buffer underflow') vulnerability in FortiOS and FortiProxy administrative interface may allow a remote unauthenticated attacker to execute arbitrary code on the device and/or perform a DoS on the GUI, via specifically crafted requests," Fortinet  said  in an advisory. Underflow bugs , also called  buffer underruns , occur when the input data is shorter than the reserved space, causing unpredictable behavior or leakage of sensitive data from memory. Other possible consequences include memory corruption that could either be weaponized to induce a crash or execute arbitrary code. Fortinet said it's not
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked UNC4540 Hackers Infect Unpatched SonicWall Appliances With Info-Stealer<a href="https://www.theregister.com/2023/03/09/suspected_chinese_cyberspies_target_uppatched/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected Chinese cybercriminals have zeroed in on unpatched SonicWall gateways and are infecting the devices with credential-stealing malware that persists through firmware upgrades, according to Mandiant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cado Security Banks $20M in Series B Funding<a href="https://www.securityweek.com/cado-security-banks-20m-in-series-b-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The London-based company said Series B financing was led by Eurazeo, a French investment and asset management firm. Ten Eleven Ventures, a prior backer, also expanded its equity stake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qakbot Strikes Again With New Delivery Method; Puts Millions of Devices at Risk<a href="https://cyberwarzone.com/qakbot-strikes-again-new-delivery-method-puts-millions-of-devices-at-risk/?&web_view=true"> Full Text</a>
@@ -50,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Jenkins Security Alert: New Security Flaws Could Allow Code Execution Attacks<a href="https://thehackernews.com/2023/03/jenkins-security-alert-new-security.html"> Full Text</a>
@@ -66,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A critical flaw affects Fortinet FortiOS and FortiProxy, patch it now!<a href="https://securityaffairs.com/143227/security/fortinet-fortios-fortiproxy-critical-bug.html"> Full Text</a>
@@ -83,7 +393,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp Panda Targets Southeast Asian Governments Using Evolved Soul Malware Framework<a href="https://cyware.com/news/sharp-panda-targets-southeast-asian-governments-using-evolved-soul-malware-framework-b5630822"> Full Text</a>
@@ -99,7 +409,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Syxsense Platform: Unified Security and Endpoint Management<a href="https://thehackernews.com/2023/03/syxsense-platform-unified-security-and.html"> Full Text</a>
@@ -115,7 +425,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veeam warns to install patches to fix a bug in its Backup & Replication product<a href="https://securityaffairs.com/143218/security/veeam-backup-replication-bug.html"> Full Text</a>
@@ -132,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SYS01 Campaign Uses Multiple Attack Evasion Tactics; Stayed Invisible for Five Months<a href="https://cyware.com/news/sys01-campaign-uses-multiple-attack-evasion-tactics-stayed-invisible-for-five-months-6171a3ba"> Full Text</a>
@@ -148,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Exploits Zero-Day Vulnerability to Hack South Korean Financial Entity<a href="https://thehackernews.com/2023/03/lazarus-group-exploits-zero-day.html"> Full Text</a>
@@ -164,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT used a 0-day in a recent attack<a href="https://securityaffairs.com/143210/hacking/lazarus-apt-0-day.html"> Full Text</a>
@@ -181,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netherlands: Qilin Ransomware Breaches Elderly Care Facility and Leaks Confidential Data Online<a href="https://cyberwarzone.com/qilin-ransomware-attack-elderly-care-facility-breached-and-confidential-data-leaked-online/?&web_view=true"> Full Text</a>
@@ -197,7 +507,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp Panda Using New Soul Framework Version to Target Southeast Asian Governments<a href="https://thehackernews.com/2023/03/sharp-panda-using-new-soul-framework.html"> Full Text</a>
@@ -213,7 +523,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds three new bugs to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143204/security/cisa-known-exploited-vulnerabilities-catalog-2.html"> Full Text</a>
@@ -230,7 +540,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Israel blames state-sponsored Iranian hackers for ransomware attack on university<a href="https://therecord.media/israel-technion-ransomware-attack-iran-darkbit-muddywater?&web_view=true"> Full Text</a>
@@ -246,7 +556,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 08, 2023
+March 08, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA's KEV Catalog Updated with 3 New Flaws Threatening IT Management Systems<a href="https://thehackernews.com/2023/03/cisas-kev-catalog-updated-with-3-new.html"> Full Text</a>
@@ -262,7 +572,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Sharp Panda targets government entities in Southeast Asia<a href="https://securityaffairs.com/143187/apt/sharp-panda-targets-southeast-asia.html"> Full Text</a>
@@ -279,7 +589,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senators Aim to Block Foreign Tech That Poses Threat<a href="https://www.bankinfosecurity.com/us-senators-aim-to-block-foreign-tech-that-poses-threat-a-21386?&web_view=true"> Full Text</a>
@@ -295,7 +605,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware NSX Manager bugs actively exploited in the wild since December<a href="https://securityaffairs.com/143172/hacking/vmware-nsx-manager-bugs-attacks.html"> Full Text</a>
@@ -312,7 +622,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Northern Essex Community College Remains Shuttered After Cyberattack<a href="https://therecord.media/northern-essex-community-college-cyberattack?&web_view=true"> Full Text</a>
@@ -328,7 +638,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 111 Patches 40 Vulnerabilities<a href="https://www.securityweek.com/chrome-111-patches-40-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -344,7 +654,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2023
+March 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Toyota Management Platform Provided Access to Customer Data<a href="https://www.securityweek.com/vulnerability-in-toyota-management-platform-provided-access-to-customer-data/?&web_view=true"> Full Text</a>
