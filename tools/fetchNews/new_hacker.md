@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Remote Desktop Software Flaws to Deploy PlugX Malware<a href="https://thehackernews.com/2023/03/hackers-exploiting-remote-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities in remote desktop programs such as Sunlogin and AweSun are being exploited by threat actors to deploy the PlugX malware. AhnLab Security Emergency Response Center (ASEC), in a&nbsp; new analysis , said it marks the continued abuse of the flaws to deliver a variety of payloads on compromised systems. This&nbsp; includes &nbsp;the Sliver post-exploitation framework, XMRig cryptocurrency miner, Gh0st RAT, and Paradise ransomware. PlugX is the latest addition to this list. The&nbsp; modular malware &nbsp;has been extensively put to use by threat actors based in China, with new features continuously added to help perform system control and information theft. In the attacks observed by ASEC, successful exploitation of the flaws is followed by the execution of a PowerShell command that retrieves an executable and a DLL file from a remote server. This executable is a legitimate HTTP Server Service from cybersecurity company ESET, which is used to load the DLL file by means of a techniq
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked hackers used fake Atlantic Council-affiliated persona to target human rights researchers<a href="https://cyberscoop.com/iran-linked-hackers-used-fake-atlantic-council-persona-to-target-human-rights-researchers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s not clear if this particular persona’s efforts resulted in any successful phishing attacks. The Twitter account, created in October 2022, remains active. An Instagram account associated with the name is unavailable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target Women Involved in Human Rights and Middle East Politics<a href="https://thehackernews.com/2023/03/iranian-hackers-target-women-involved.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian state-sponsored actors are continuing to engage in social engineering campaigns targeting researchers by impersonating a U.S. think tank. "Notably the targets in this instance were all women who are actively involved in political affairs and human rights in the Middle East region," Secureworks Counter Threat Unit (CTU)&nbsp; said &nbsp;in a report shared with The Hacker News. The cybersecurity company attributed the activity to a hacking group it tracks as&nbsp; Cobalt Illusion , and which is also known by the names APT35, Charming Kitten, ITG18, Phosphorus, TA453, and Yellow Garuda. The targeting of academics, activists, diplomats, journalists, politicians, and researchers by the threat actor&nbsp; has been &nbsp; well-documented &nbsp; over &nbsp;the&nbsp; years . The group is suspected to be operating on behalf of Iran's Islamic Revolutionary Guard Corps (IRGC) and has exhibited a pattern of using fake personas to establish contact with individuals who are of strategic interest to the governmen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian TA499 Targets North American and European Countries<a href="https://cyware.com/news/russian-ta499-targets-north-american-and-european-countries-c1c37a1b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked TA499 threat actor has been aggressively conducting email campaigns to target high-profile European and North American government authorities and CEOs of reputable organizations. The attack begins with an email or phone call, masquerading as prominent political figures. The phone call ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

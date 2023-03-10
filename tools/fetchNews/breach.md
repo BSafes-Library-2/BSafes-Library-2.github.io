@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netherlands: Qilin Ransomware Breaches Elderly Care Facility and Leaks Confidential Data Online<a href="https://cyberwarzone.com/qilin-ransomware-attack-elderly-care-facility-breached-and-confidential-data-leaked-online/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack occurred on February 17, causing technical difficulties for the facility. The care institution announced the breach via its website and attributed the problem to a group that had gained unauthorized access to its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

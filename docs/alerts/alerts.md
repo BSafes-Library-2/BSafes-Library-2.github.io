@@ -30,6 +30,7 @@ FBI and CISA Release #StopRansomware: Royal Ransomware <a href="https://www.cisa
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 2, 2023 - WHITE HOUSE 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

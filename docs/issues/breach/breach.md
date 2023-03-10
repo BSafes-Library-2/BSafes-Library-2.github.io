@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked UNC4540 Hackers Infect Unpatched SonicWall Appliances With Info-Stealer<a href="https://www.theregister.com/2023/03/09/suspected_chinese_cyberspies_target_uppatched/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected Chinese cybercriminals have zeroed in on unpatched SonicWall gateways and are infecting the devices with credential-stealing malware that persists through firmware upgrades, according to Mandiant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

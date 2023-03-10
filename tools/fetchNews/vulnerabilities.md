@@ -8,6 +8,93 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jenkins Security Alert: New Security Flaws Could Allow Code Execution Attacks<a href="https://thehackernews.com/2023/03/jenkins-security-alert-new-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pair of severe security vulnerabilities have been disclosed in the Jenkins open source automation server that could lead to code execution on targeted systems. The flaws, tracked as&nbsp; CVE-2023-27898 &nbsp;and&nbsp; CVE-2023-27905 , impact the Jenkins server and Update Center, and have been collectively christened&nbsp; CorePlague &nbsp;by cloud security firm Aqua. All versions of Jenkins versions prior to 2.319.2 are vulnerable and exploitable. "Exploiting these vulnerabilities could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server," the company said in a report shared with The Hacker News. The shortcomings are the result of how Jenkins processes plugins available from the&nbsp; Update Center , thereby potentially enabling a threat actor to upload a plugin with a malicious payload and trigger a cross-site scripting (XSS) attack. "Once the victim opens the ' Available Plug
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A critical flaw affects Fortinet FortiOS and FortiProxy, patch it now!<a href="https://securityaffairs.com/143227/security/fortinet-fortios-fortiproxy-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical heap buffer underflow vulnerability affecting FortiOS and FortiProxy, which can lead to arbitrary code execution.
+Fortinet addressed a critical buffer underwrite ('buffer underflow') vulnerability, tracked as CVE-2023-25610...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam warns to install patches to fix a bug in its Backup &amp; Replication product<a href="https://securityaffairs.com/143218/security/veeam-backup-replication-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam addressed a high-severity vulnerability in the Backup Service that impacts Backup &amp; Replication software.
+Veeam addressed a high-severity vulnerability in the Backup Service, tracked as CVE-2023-27532 (CVSS v3 score:&nbsp;7.5), that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware NSX Manager bugs actively exploited in the wild since December<a href="https://securityaffairs.com/143172/hacking/vmware-nsx-manager-bugs-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn of hacking attempts in the wild exploiting critical vulnerabilities in VMware NSX Manager.
+Cyber security firm Wallarm is warning of ongoing attacks exploiting the critical flaws, tracked as CVE-2021-39144 (CVSS score of 9.8)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 111 Patches 40 Vulnerabilities<a href="https://www.securityweek.com/chrome-111-patches-40-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 24 of the addressed security defects were reported by external researchers. These include eight high-severity flaws, 11 medium-severity bugs, and five low-severity issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Toyota Management Platform Provided Access to Customer Data<a href="https://www.securityweek.com/vulnerability-in-toyota-management-platform-provided-access-to-customer-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe vulnerability in the Toyota Customer 360 customer relationship management (CRM) platform allowed a security researcher to access the personal information of the car maker’s customers in Mexico.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

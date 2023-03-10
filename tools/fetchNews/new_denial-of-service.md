@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai mitigated a record-breaking DDoS attack that peaked 900Gbps<a href="https://securityaffairs.com/143282/hacking/akamai-mitigates-900gbps-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akamai has mitigated the largest DDoS (distributed denial of service) attack ever, which peaked at 900.1 gigabits per second.
+Akamai reported that on February 23, 2023, at 10:22 UTC, it mitigated the largest&nbsp;DDoS attack&nbsp;ever. The attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

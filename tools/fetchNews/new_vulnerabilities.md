@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall SMA appliance infected by a custom malware allegedly developed by Chinese hackers<a href="https://securityaffairs.com/143273/hacking/sonicwall-sma-custom-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged China-linked threat actors infected unpatched SonicWall Secure Mobile Access (SMA) appliances with a custom backdoor.
+Mandiant researchers reported that alleged China-linked threat actors, tracked as UNC4540, deployed custom malware on a SonicWall...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CloudBees flaws in Jenkins server can lead to code execution<a href="https://securityaffairs.com/143237/security/jenkins-cloudbees-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudBees vulnerabilities in the Jenkins open-source automation server can be exploited to achieve code execution on targeted systems.
+Researchers from cloud security firm Aqua discovered a chain of two vulnerabilities in the Jenkins open-source automation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical Flaw in FortiOS and FortiProxy Could Give Hackers Remote Access<a href="https://thehackernews.com/2023/03/new-critical-flaw-in-fortios-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released fixes to&nbsp; address 15 security flaws , including one critical vulnerability impacting FortiOS and FortiProxy that could enable a threat actor to take control of affected systems. The issue, tracked as&nbsp; CVE-2023-25610 , is rated 9.3 out of 10 for severity and was internally discovered and reported by its security teams. "A buffer underwrite ('buffer underflow') vulnerability in FortiOS and FortiProxy administrative interface may allow a remote unauthenticated attacker to execute arbitrary code on the device and/or perform a DoS on the GUI, via specifically crafted requests," Fortinet&nbsp; said &nbsp;in an advisory. Underflow bugs , also called&nbsp; buffer underruns , occur when the input data is shorter than the reserved space, causing unpredictable behavior or leakage of sensitive data from memory. Other possible consequences include memory corruption that could either be weaponized to induce a crash or execute arbitrary code. Fortinet said it's not
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

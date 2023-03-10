@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IceFire Ransomware Exploits IBM Aspera Faspex to Attack Linux-Powered Enterprise Networks<a href="https://thehackernews.com/2023/03/icefire-linux-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously known Windows-based ransomware strain known as IceFire has expanded its focus to target Linux enterprise networks belonging to several media and entertainment sector organizations across the world. The intrusions entail the exploitation of a recently disclosed deserialization vulnerability in IBM Aspera Faspex file-sharing software ( CVE-2022-47986 , CVSS score: 9.8), according to cybersecurity company SentinelOne. "This strategic shift is a significant move that aligns them with&nbsp; other &nbsp; ransomware &nbsp;groups that also target Linux systems," Alex Delamotte, senior threat researcher at SentinelOne,&nbsp; said &nbsp;in a report shared with The Hacker News. A majority of the attacks observed by SentinelOne have been directed against companies located in Turkey, Iran, Pakistan, and the U.A.E., countries that are not typically targeted by organized ransomware crews. IceFire &nbsp;was first detected in March 2022 by the&nbsp; MalwareHunterTeam , but it wasn't until August 2022 tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recently discovered IceFire Ransomware now also targets Linux systems<a href="https://securityaffairs.com/143261/malware/icefire-ransomware-targets-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered Windows ransomware IceFire now also targets Linux enterprise networks in multiple sectors.
+SentinelLabs researchers discovered new Linux versions of the recently discovered IceFire ransomware that was employed in attacks against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
