@@ -46,7 +46,7 @@ Today, the Biden-Harris Administration released the National Cybersecurity Strat
 March 1, 2023 - Department of Defense
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-DOD CYBER WORKFORCE STRATEGY 2023-2027 <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a>
+DOD CYBER WORKFORCE STRATEGY 2023-2027 <a href="https://dodcio.defense.gov/Portals/0/Documents/Library/CWF-Strategy.pdf"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
