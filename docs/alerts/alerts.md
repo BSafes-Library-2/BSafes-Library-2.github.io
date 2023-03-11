@@ -22,7 +22,7 @@ KNOWN EXPLOITED VULNERABILITIES CATALOG
 March 2, 2023 - CISA, FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-FBI and CISA Release #StopRansomware: Royal Ransomware <a href="https://www.cisa.gov/news-events/alerts/2023/03/02/fbi-and-cisa-release-stopransomware-royal-ransomware"> Full Text</a
+FBI and CISA Release #StopRansomware: Royal Ransomware <a href="https://www.cisa.gov/news-events/alerts/2023/03/02/fbi-and-cisa-release-stopransomware-royal-ransomware"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
@@ -34,7 +34,7 @@ FBI and CISA Release #StopRansomware: Royal Ransomware <a href="https://www.cisa
 March 2, 2023 - WHITE HOUSE 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-FACT SHEET: Biden-Harris Administration Announces National Cybersecurity Strategy <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/"> Full Text</a
+FACT SHEET: Biden-Harris Administration Announces National Cybersecurity Strategy <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
@@ -46,7 +46,7 @@ Today, the Biden-Harris Administration released the National Cybersecurity Strat
 March 1, 2023 - Department of Defense
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-DOD CYBER WORKFORCE STRATEGY 2023-2027 <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a
+DOD CYBER WORKFORCE STRATEGY 2023-2027 <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
@@ -58,7 +58,7 @@ DOD CYBER WORKFORCE STRATEGY 2023-2027 <a href="https://www.cisa.gov/news-events
 March 1, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a
+CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>

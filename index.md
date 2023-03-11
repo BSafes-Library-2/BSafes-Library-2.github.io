@@ -34,6 +34,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoBruteforcer: Golang-Based Botnet Actively Harvests Web Servers<a href="https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Go programming language is a newer language that’s becoming more popular with malware programmers. It has proven to be versatile enough to develop all kinds of malware, including ransomware, stealers or remote access trojans (RATs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds VMware’s Cloud Foundation bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143336/hacking/cisa-known-exploited-vulnerabilities-catalog-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added an actively exploited vulnerability in VMware's Cloud Foundation to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in VMware's Cloud Foundation,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Akuvox Smart Intercom Vulnerabilities Can Be Exploited for Spying<a href="https://www.securityweek.com/unpatched-akuvox-smart-intercom-vulnerabilities-can-be-exploited-for-spying/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A smart intercom product made by Chinese company Akuvox is affected by more than a dozen vulnerabilities, including potentially serious flaws that can be exploited for spying.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
