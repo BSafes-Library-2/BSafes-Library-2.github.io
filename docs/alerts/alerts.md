@@ -43,6 +43,18 @@ Today, the Biden-Harris Administration released the National Cybersecurity Strat
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2023 - Department of Defense
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD CYBER WORKFORCE STRATEGY 2023-2027 <a href="https://www.cisa.gov/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping?&web_view=true"> Full Text</a
+</p>
+<details>
+  <summary>Abstract</summary>
+  The Department of Defense's (DoD) cyber workforce plays a prominent role in safeguarding our Nation against current and future threats. To ensure the DoD deploys an agile, capable, and ready cyber workforce, the Office of the Department of Defense Chief Information Officer (DoD CIO) created the 2023-2027 DoD Cyber Workforce Strategy. This strategy establishes a unified direction for DoD cyber workforce management and, as the cyber domain continues to expand, the inclusion of emerging technology workforces. This strategy also provides a roadmap for how the cyber workforce will grow and adapt to guarantee our Nation's security.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 1, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware: Yet Another Nokayawa Variant<a href="https://www.zscaler.com/blogs/security-research/nevada-ransomware-yet-another-nokayawa-variant?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler ThreatLabz has identified significant code similarities between Nevada and Nokoyawa ransomware including debug strings, command-line arguments, and encryption algorithms
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

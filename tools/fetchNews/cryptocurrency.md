@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ScrubCrypt Crypter Used in Cryptojacking Attacks Targeting Oracle WebLogic<a href="https://thehackernews.com/2023/03/new-scrubcrypt-crypter-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous cryptocurrency miner group called 8220 Gang has been observed using a new crypter called ScrubCrypt to carry out cryptojacking operations. According to Fortinet FortiGuard Labs, the attack chain commences with successful exploitation of susceptible Oracle WebLogic servers to download a PowerShell script that contains ScrubCrypt. Crypters are a type of software that can encrypt, obfuscate, and manipulate malware with the goal of evading detection by security programs. ScrubCrypt, which is advertised for sale by its author, comes with features to bypass Windows Defender protections as well as check for the presence of debugging and virtual machine environments. "ScrubCrypt is a crypter used to secure applications with a unique BAT packing method," security researcher Cara Lin&nbsp; said &nbsp;in a technical report. "The encrypted data at the top can be split into four parts using backslash '\.'" The crypter, in the final stage, decodes and loads the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

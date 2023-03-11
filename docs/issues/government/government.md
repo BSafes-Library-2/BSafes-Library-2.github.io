@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Department of Defense Releases Cyber Workforce Strategy, 2023–2027<a href="https://www.lawfareblog.com/department-defense-releases-cyber-workforce-strategy-2023%E2%80%932027"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Workforce Strategy outlines steps to assess and enhance human capital over the next five years.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Budget Seeks to Bolster US Tech Development, Modernize Standards<a href="https://www.nextgov.com/technology-news/2023/03/white-house-budget-seeks-bolster-us-tech-development-modernize-standards/383816/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The budget proposes $3.1 billion for the CISA. This includes “$98 million to implement the Cyber Incident Reporting for Critical Infrastructure Act,” as well as “$425 million to improve CISA’s internal cybersecurity and analytical capabilities.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

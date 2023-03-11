@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement seized the website selling the NetWire RAT and arrested a Croatian man<a href="https://securityaffairs.com/143325/cyber-crime/law-enforcement-seized-netwire-rat-site.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation seized the infrastructure associated with the NetWire RAT and resulted in the arrest of its administrator.
+A coordinated international law enforcement operation resulted in the seizure of the infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Law Enforcement Takes Down Infamous NetWire Cross-Platform RAT<a href="https://thehackernews.com/2023/03/international-law-enforcement-takes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement exercise has taken down the online infrastructure associated with a cross-platform remote access trojan (RAT) known as NetWire . Coinciding with the seizure of the sales website www.worldwiredlabs[.]com, a Croatian national who is suspected to be the website's administrator has been arrested. While the suspect's name was not released, investigative journalist Brian Krebs&nbsp; identified &nbsp;Mario Zanko as the owner of the domain. "NetWire is a licensed commodity RAT offered in underground forums to non-technical users to carry out their own criminal activities," Europol's European Cybercrime Center (EC3)&nbsp; said &nbsp;in a tweet. Advertised&nbsp; since &nbsp; at least 2012 , the malware is typically distributed via&nbsp; malspam campaigns &nbsp;and gives a remote attacker complete control over a Windows, macOS, or Linux system. It also comes with password-stealing and keylogging capabilities. The U.S. Department of Justice (DoJ)&nbsp; said &nbsp;an investiga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

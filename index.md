@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IceFire Operators Introduces Linux Variant, Abuse IBM Flaw<a href="https://cyware.com/news/icefire-operators-introduces-linux-variant-abuse-ibm-flaw-6fd62b24"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Version of Prometei Botnet Infects Over 10,000 Systems Worldwide<a href="https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Department of Defense Releases Cyber Workforce Strategy, 2023–2027<a href="https://www.lawfareblog.com/department-defense-releases-cyber-workforce-strategy-2023%E2%80%932027"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement seized the website selling the NetWire RAT and arrested a Croatian man<a href="https://securityaffairs.com/143325/cyber-crime/law-enforcement-seized-netwire-rat-site.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Revealed OpenSea NFT Market Users’ Identities<a href="https://www.hackread.com/opensea-nft-market-vulnerability/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Hackers Targeting Unpatched SonicWall SMA Devices with Malware<a href="https://thehackernews.com/2023/03/china-linked-hackers-targeting.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest version of Xenomorph Android malware targets 400 banks<a href="https://securityaffairs.com/143316/malware/xenomorph-android-malware-v3.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Budget Seeks to Bolster US Tech Development, Modernize Standards<a href="https://www.nextgov.com/technology-news/2023/03/white-house-budget-seeks-bolster-us-tech-development-modernize-standards/383816/?&web_view=true"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International Law Enforcement Takes Down Infamous NetWire Cross-Platform RAT<a href="https://thehackernews.com/2023/03/international-law-enforcement-takes.html"> Full Text</a>
@@ -181,7 +181,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AT&T is notifying millions of customers of data breach after a third-party vendor hack<a href="https://securityaffairs.com/143303/data-breach/att-warns-data-breach.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BMW exposes data of clients in Italy, experts warn<a href="https://securityaffairs.com/143297/data-breach/bmw-exposes-clients-italy.html?&web_view=true"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Partial Protection is Zero Protection: The MFA Blind Spots No One Talks About<a href="https://thehackernews.com/2023/03/when-partial-protection-is-zero.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BMW exposes data of clients in Italy, experts warn<a href="https://securityaffairs.com/143297/data-breach/bmw-exposes-clients-italy.html"> Full Text</a>
@@ -248,7 +248,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Socure Secures $95 Million Credit Facility with J.P. Morgan, Silicon Valley Bank, and KeyBanc Capital Markets<a href="https://finance.yahoo.com/news/socure-secures-95-million-credit-140000948.html?&web_view=true"> Full Text</a>
@@ -264,7 +264,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xenomorph Android Banking Trojan Returns with a New and More Powerful Variant<a href="https://thehackernews.com/2023/03/xenomorph-android-banking-trojan.html"> Full Text</a>
@@ -280,7 +280,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nevada Ransomware: Yet Another Nokayawa Variant<a href="https://www.zscaler.com/blogs/security-research/nevada-ransomware-yet-another-nokayawa-variant?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean UNC2970 Hackers Expands Operations with New Malware Families<a href="https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html"> Full Text</a>
@@ -312,7 +312,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 10, 2023
+March 10, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI is taking phishing attacks to a whole new level of sophistication<a href="https://www.helpnetsecurity.com/2023/03/08/sophistication-of-phishing-emails/?&web_view=true"> Full Text</a>

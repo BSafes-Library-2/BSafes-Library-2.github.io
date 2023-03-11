@@ -8,6 +8,36 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Email Threats From Exotic Lily<a href="https://www.reliaquest.com/blog/email-exotic-lily/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exotic Lily is an initial access broker who specializes in gathering credentials from high-value targets through employee impersonation, deep open-source intelligence (OSINT), and by creating convincing malicious documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang used new ScrubCrypt crypter in recent cryptojacking attacks<a href="https://securityaffairs.com/143252/hacking/scrubcrypt-crypter-cryptojacking-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor tracked as 8220 Gang has been spotted using a new crypter called ScrubCrypt in cryptojacking campaigns.
+Fortinet researchers observed the mining group 8220 Gang using a new crypter called ScrubCrypt in cryptojacking attacks.
+"Between...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Partial Protection is Zero Protection: The MFA Blind Spots No One Talks About<a href="https://thehackernews.com/2023/03/when-partial-protection-is-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multi-factor Authentication (MFA) has long ago become a standard security practice. With a wide consensus on its ability to fend off more than 99% percent of account takeover attacks, it's no wonder why security architects regard it as a must-have in their environments. However, what seems to be less known are the inherent coverage limitations of traditional MFA solutions. While compatible with RDP connection and local desktop logins,&nbsp; they offer no protection to remote command line access tools like PsExec, Remote PowerShell and their likes. In practice, it means that workstations and servers remain as vulnerable to lateral movement, ransomware spread and other identity threats despite having a fully functioning MFA solution on. For the adversary it's just a matter of taking the command line path instead of the RDP to log in as if there was not protection installed at all. In this article we'll explore this blind spot, understand its root cause and implications, and view
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

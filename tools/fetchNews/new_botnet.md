@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Version of Prometei Botnet Infects Over 10,000 Systems Worldwide<a href="https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a botnet malware called&nbsp; Prometei &nbsp;has infected more than 10,000 systems worldwide since November 2022. The infections are both geographically indiscriminate and opportunistic, with a majority of the victims reported in Brazil, Indonesia, and Turkey. Prometei, first observed in 2016, is a modular botnet that features a large repertoire of components and several proliferation methods, some of which also include the&nbsp; exploitation &nbsp;of ProxyLogon Microsoft Exchange Server flaws. It's also notable for avoiding striking Russia, suggesting that the threat actors behind the operation are likely based in the country. The cross-platform botnet's motivations are financial, primarily leveraging its pool of infected hosts to mine cryptocurrency and harvest credentials. The latest variant of Prometei (called v3) improves upon its existing features to challenge forensic analysis and further burrow its access on victim machines, Cisco Talos&nbsp; said &nbsp;in a report share
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

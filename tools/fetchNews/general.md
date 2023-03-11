@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does Your Help Desk Know Who's Calling?<a href="https://thehackernews.com/2023/03/does-your-help-desk-know-whos-calling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing, the theft of users' credentials or sensitive data using social engineering, has been a significant threat since the early days of the internet – and continues to plague organizations today,&nbsp; accounting for more than 30% of all known breaches . And with the mass migration to remote working during the pandemic, hackers have ramped up their efforts to steal login credentials as they take advantage of the chaos and lack of in-person user verification.&nbsp; This has led to the revival of the old-school technique of vishing, which, like phishing online, involves using social engineering over the phone to steal sensitive information. Vishing attacks have&nbsp; been on the rise &nbsp;as a result, with 69% of companies experiencing them in 2021, up from 54% in 2020. These attacks often take the form of job or tech support scams and can be incredibly convincing. In August 2020, the&nbsp; FBI along with the CISA &nbsp;issued a warning regarding remote users being targeted by attackers spoofing organizati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat vectors converging, increasing damage<a href="https://www.techtarget.com/searchsecurity/news/365532111/Flashpoint-Threat-vectors-converging-increasing-damage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat intelligence vendor Flashpoint warned that threat actors are increasingly combining known vulnerabilities, stolen credentials, and exposed data to wreak maximum damage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

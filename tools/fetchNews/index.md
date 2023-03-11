@@ -34,6 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IceFire Operators Introduces Linux Variant, Abuse IBM Flaw<a href="https://cyware.com/news/icefire-operators-introduces-linux-variant-abuse-ibm-flaw-6fd62b24"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Media and entertainment sector organizations worldwide are under attack by the threat actor using the Linux version of the IceFire ransomware. SentinelLabs first made this observation and found that criminals abused a deserialization bug in IBM Aspera Faspex file sharing software, tracked as CVE-20 ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Version of Prometei Botnet Infects Over 10,000 Systems Worldwide<a href="https://thehackernews.com/2023/03/new-version-of-prometei-botnet-infects.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a botnet malware called  Prometei  has infected more than 10,000 systems worldwide since November 2022. The infections are both geographically indiscriminate and opportunistic, with a majority of the victims reported in Brazil, Indonesia, and Turkey. Prometei, first observed in 2016, is a modular botnet that features a large repertoire of components and several proliferation methods, some of which also include the  exploitation  of ProxyLogon Microsoft Exchange Server flaws. It's also notable for avoiding striking Russia, suggesting that the threat actors behind the operation are likely based in the country. The cross-platform botnet's motivations are financial, primarily leveraging its pool of infected hosts to mine cryptocurrency and harvest credentials. The latest variant of Prometei (called v3) improves upon its existing features to challenge forensic analysis and further burrow its access on victim machines, Cisco Talos  said  in a report share
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Department of Defense Releases Cyber Workforce Strategy, 2023–2027<a href="https://www.lawfareblog.com/department-defense-releases-cyber-workforce-strategy-2023%E2%80%932027"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Workforce Strategy outlines steps to assess and enhance human capital over the next five years.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement seized the website selling the NetWire RAT and arrested a Croatian man<a href="https://securityaffairs.com/143325/cyber-crime/law-enforcement-seized-netwire-rat-site.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation seized the infrastructure associated with the NetWire RAT and resulted in the arrest of its administrator.
+A coordinated international law enforcement operation resulted in the seizure of the infrastructure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Revealed OpenSea NFT Market Users’ Identities<a href="https://www.hackread.com/opensea-nft-market-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Imperva Red Team discovered a vulnerability affecting the world’s largest NFT marketplace, OpenSea. It is a cross-site search (XS-Search) vulnerability that can be exploited by an attacker to obtain a user’s identity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Hackers Targeting Unpatched SonicWall SMA Devices with Malware<a href="https://thehackernews.com/2023/03/china-linked-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspecting China-linked hacking campaign has been observed targeting unpatched SonicWall  Secure Mobile Access (SMA) 100 appliances  to drop malware and establish long-term persistence. "The malware has functionality to steal user credentials, provide shell access, and persist through firmware upgrades," cybersecurity company Mandiant  said  in a technical report published this week. The Google-owned incident response and threat intelligence firm is tracking the activity under its uncategorized moniker  UNC4540 . The malware – a collection of bash scripts and a single ELF binary identified as a TinyShell backdoor – is engineered to grant the attacker privileged access to SonicWall devices. The overall objective behind the custom toolset appears to be credential theft, with the malware permitting the adversary to siphon cryptographically hashed credentials from all logged-in users. It further provides shell access to the compromised device. Mandiant also called out th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest version of Xenomorph Android malware targets 400 banks<a href="https://securityaffairs.com/143316/malware/xenomorph-android-malware-v3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Xenomorph Android malware includes a new automated transfer system framework and targets 400 banks.
+The author of the Xenomorph Android malware, the Hadoken Security Group, continues to improve their malicious code.
+In February...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Budget Seeks to Bolster US Tech Development, Modernize Standards<a href="https://www.nextgov.com/technology-news/2023/03/white-house-budget-seeks-bolster-us-tech-development-modernize-standards/383816/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The budget proposes $3.1 billion for the CISA. This includes “$98 million to implement the Cyber Incident Reporting for Critical Infrastructure Act,” as well as “$425 million to improve CISA’s internal cybersecurity and analytical capabilities.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Law Enforcement Takes Down Infamous NetWire Cross-Platform RAT<a href="https://thehackernews.com/2023/03/international-law-enforcement-takes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement exercise has taken down the online infrastructure associated with a cross-platform remote access trojan (RAT) known as NetWire . Coinciding with the seizure of the sales website www.worldwiredlabs[.]com, a Croatian national who is suspected to be the website's administrator has been arrested. While the suspect's name was not released, investigative journalist Brian Krebs  identified  Mario Zanko as the owner of the domain. "NetWire is a licensed commodity RAT offered in underground forums to non-technical users to carry out their own criminal activities," Europol's European Cybercrime Center (EC3)  said  in a tweet. Advertised  since   at least 2012 , the malware is typically distributed via  malspam campaigns  and gives a remote attacker complete control over a Windows, macOS, or Linux system. It also comes with password-stealing and keylogging capabilities. The U.S. Department of Justice (DoJ)  said  an investiga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T is notifying millions of customers of data breach after a third-party vendor hack<a href="https://securityaffairs.com/143303/data-breach/att-warns-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T is warning some of its customers that some of their information was exposed after the hack of a third-party vendor's system.
+AT&T is notifying millions of customers that some of their information was exposed after a third-party vendor...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BMW exposes data of clients in Italy, experts warn<a href="https://securityaffairs.com/143297/data-breach/bmw-exposes-clients-italy.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If a malicious hacker were to discover the flaw, they could exploit it to access customer data, steal the company’s source code, and look for other vulnerabilities to exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Partial Protection is Zero Protection: The MFA Blind Spots No One Talks About<a href="https://thehackernews.com/2023/03/when-partial-protection-is-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multi-factor Authentication (MFA) has long ago become a standard security practice. With a wide consensus on its ability to fend off more than 99% percent of account takeover attacks, it's no wonder why security architects regard it as a must-have in their environments. However, what seems to be less known are the inherent coverage limitations of traditional MFA solutions. While compatible with RDP connection and local desktop logins,  they offer no protection to remote command line access tools like PsExec, Remote PowerShell and their likes. In practice, it means that workstations and servers remain as vulnerable to lateral movement, ransomware spread and other identity threats despite having a fully functioning MFA solution on. For the adversary it's just a matter of taking the command line path instead of the RDP to log in as if there was not protection installed at all. In this article we'll explore this blind spot, understand its root cause and implications, and view
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BMW exposes data of clients in Italy, experts warn<a href="https://securityaffairs.com/143297/data-breach/bmw-exposes-clients-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybernews researchers discovered that BMW exposed sensitive files that were generated by a framework that BMW Italy relies on.
+Original post at: https://cybernews.com/security/bmw-exposes-italy-clients/
+Hackers have been enjoying their fair share...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socure Secures $95 Million Credit Facility with J.P. Morgan, Silicon Valley Bank, and KeyBanc Capital Markets<a href="https://finance.yahoo.com/news/socure-secures-95-million-credit-140000948.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This line of credit will further strengthen the company's financial position as it continues on its mission to be the first and only solution provider to verify 100% of good identities in real-time and eliminate identity fraud on the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xenomorph Android Banking Trojan Returns with a New and More Powerful Variant<a href="https://thehackernews.com/2023/03/xenomorph-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Android banking trojan named Xenomorph has surfaced in the wild, latest findings from ThreatFabric reveal. Named " Xenomorph 3rd generation " by the Hadoken Security Group, the threat actor behind the operation, the updated version comes with new features that allow it to perform financial fraud in a seamless manner. "This new version of the malware adds many new capabilities to an already feature-rich Android banker, most notably the introduction of a very extensive runtime engine powered by Accessibility services, which is used by actors to implement a complete  ATS framework ," the Dutch security firm  said  in a report shared with The Hacker News. Xenomorph  first came to light  a year ago in February 2022, when it was found to target 56 European banks through  dropper apps  published on the Google Play Store. In contrast, the latest iteration of the banker – which has a dedicated website advertising its features – is designed to targe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nevada Ransomware: Yet Another Nokayawa Variant<a href="https://www.zscaler.com/blogs/security-research/nevada-ransomware-yet-another-nokayawa-variant?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler ThreatLabz has identified significant code similarities between Nevada and Nokoyawa ransomware including debug strings, command-line arguments, and encryption algorithms
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean UNC2970 Hackers Expands Operations with New Malware Families<a href="https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean espionage group tracked as  UNC2970  has been observed employing previously undocumented malware families as part of a spear-phishing campaign targeting U.S. and European media and technology organizations since June 2022. Google-owned Mandiant said the threat cluster shares "multiple overlaps" with a  long-running   operation   dubbed  " Dream Job " that employs job recruitment lures in email messages to trigger the infection sequence. UNC2970 is the new moniker designated by the threat intelligence firm to a set of North Korean cyber activity that maps to UNC577 (aka Temp.Hermit ), and which also comprises another nascent threat cluster tracked as UNC4034. The UNC4034 activity, as  documented  by Mandiant in September 2022, entailed the use of WhatsApp to socially engineer targets into downloading a  backdoor  called AIRDRY.V2 under the pretext of sharing a skills assessment test. "UNC2970 has a concerted effort towards obfuscation and emp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 10, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI is taking phishing attacks to a whole new level of sophistication<a href="https://www.helpnetsecurity.com/2023/03/08/sophistication-of-phishing-emails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 92% of organizations have fallen victim to successful phishing attacks in the last 12 months, while 91% of organizations have admitted to experiencing email data loss, according to Egress.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
