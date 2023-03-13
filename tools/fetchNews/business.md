@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socure Secures $95 Million Credit Facility with J.P. Morgan, Silicon Valley Bank, and KeyBanc Capital Markets<a href="https://finance.yahoo.com/news/socure-secures-95-million-credit-140000948.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This line of credit will further strengthen the company's financial position as it continues on its mission to be the first and only solution provider to verify 100% of good identities in real-time and eliminate identity fraud on the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

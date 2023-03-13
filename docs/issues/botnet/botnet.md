@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei&nbsp;botnet evolves and infected +10,000 systems since November 2022<a href="https://securityaffairs.com/143343/hacking/prometei-botnet-v3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Prometei&nbsp;botnet has infected more than 10,000 systems worldwide since November 2022, experts warn.
+Cisco Talos researchers reported that the Prometei&nbsp;botnet has infected more than 10,000 systems worldwide since November 2022....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoBruteforcer: Golang-Based Botnet Actively Harvests Web Servers<a href="https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Go programming language is a newer language that’s becoming more popular with malware programmers. It has proven to be versatile enough to develop all kinds of malware, including ransomware, stealers or remote access trojans (RATs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

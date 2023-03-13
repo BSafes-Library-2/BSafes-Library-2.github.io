@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Uses New ScrubCrypt Crypter to Evade Detection<a href="https://cyware.com/news/8220-gang-uses-new-scrubcrypt-crypter-to-evade-detection-8ec824a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese 8220 Gang deployed the new ScrubCrypt payload exploiting an Oracle Weblogic Server in a specific URI between January and February 2023, revealed security experts at Fortinet. The ScrubCrypt crypter allows a hacker to secure applications with a unique BAT packing technique. It was found to b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

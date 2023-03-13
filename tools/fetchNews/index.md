@@ -34,7 +34,142 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2023
+March 12, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Email Threats by Exotic Lily<a href="https://cyware.com/news/new-email-threats-by-exotic-lily-e92a6c92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReliaQuest has laid bare the detail of a phishing campaign by IAB Exotic Lily wherein its members pretend to be a potential business opportunity. The attackers follow a well-established procedure that typically commences with initiating an open conversation with the victim. ReliaQuest adv ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 410 by Pierluigi Paganini<a href="https://securityaffairs.com/143398/breaking-news/security-affairs-newsletter-round-410-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+ PlugX...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Uses New ScrubCrypt Crypter to Evade Detection<a href="https://cyware.com/news/8220-gang-uses-new-scrubcrypt-crypter-to-evade-detection-8ec824a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese 8220 Gang deployed the new ScrubCrypt payload exploiting an Oracle Weblogic Server in a specific URI between January and February 2023, revealed security experts at Fortinet. The ScrubCrypt crypter allows a hacker to secure applications with a unique BAT packing technique. It was found to b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis states that only one customer’s account has been compromised. Much ado about nothing<a href="https://securityaffairs.com/143380/hacking/acronis-downplays-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis downplays the severity of the recent security breach explaining that only a single customer’s account was compromised.
+The CISO of Acronis downplayed a recent intrusion, revealing that only one customer was impacted.
+This week a threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed CVE-2023-20049 DoS flaw affecting enterprise routers<a href="https://securityaffairs.com/143366/security/cisco-cve-2023-20049-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a high-severity DoS vulnerability (CVE-2023-20049) in IOS XR software that impacts several enterprise routers.
+Cisco has released security updates to address a high-severity DoS vulnerability, tracked as CVE-2023-20049 (CVSS score of 8.6),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BATLOADER Malware Uses Google Ads to Deliver Vidar Stealer and Ursnif Payloads<a href="https://thehackernews.com/2023/03/batloader-malware-uses-google-ads-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware downloader known as BATLOADER has been observed  abusing Google Ads  to deliver secondary payloads like Vidar Stealer and Ursnif. According to cybersecurity company  eSentire , malicious ads are used to spoof a wide range of legitimate apps and services such as Adobe, OpenAPI's ChatGPT, Spotify, Tableau, and Zoom. BATLOADER , as the name suggests, is a loader that's responsible for distributing next-stage malware such as information stealers, banking malware, Cobalt Strike, and even ransomware. One of the key traits of the BATLOADER operations is the use of software impersonation tactics for malware delivery. This is achieved by setting up lookalike websites that host Windows installer files masquerading as legitimate apps to trigger the infection sequence when a user searching for the software clicks a rogue ad on the Google search results page. These MSI installer files, when launched, execute Python scripts that contain the BATLOADER payload to retrieve t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PlugX malware delivered by exploiting flaws in Chinese programs<a href="https://securityaffairs.com/143360/malware/plugx-malware-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed threat actors deploying PlugX malware by exploiting flaws in Chinese remote control programs Sunlogin and Awesun.
+Researchers at ASEC (AhnLab Security Emergency response Center) observed threat actors deploying the PlugX malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prometei botnet evolves and infected +10,000 systems since November 2022<a href="https://securityaffairs.com/143343/hacking/prometei-botnet-v3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new version of the Prometei botnet has infected more than 10,000 systems worldwide since November 2022, experts warn.
+Cisco Talos researchers reported that the Prometei botnet has infected more than 10,000 systems worldwide since November 2022....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoBruteforcer: Golang-Based Botnet Actively Harvests Web Servers<a href="https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/?&web_view=true"> Full Text</a>
@@ -50,7 +185,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2023
+March 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds VMware’s Cloud Foundation bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143336/hacking/cisa-known-exploited-vulnerabilities-catalog-vmware.html"> Full Text</a>
@@ -67,7 +202,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 11, 2023
+March 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Akuvox Smart Intercom Vulnerabilities Can Be Exploited for Spying<a href="https://www.securityweek.com/unpatched-akuvox-smart-intercom-vulnerabilities-can-be-exploited-for-spying/?&web_view=true"> Full Text</a>

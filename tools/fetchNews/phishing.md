@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI is taking phishing attacks to a whole new level of sophistication<a href="https://www.helpnetsecurity.com/2023/03/08/sophistication-of-phishing-emails/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 92% of organizations have fallen victim to successful phishing attacks in the last 12 months, while 91% of organizations have admitted to experiencing email data loss, according to Egress.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
