@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building From the 2023 National Cybersecurity Strategy: Reshaping the Terrain of Cyberspace<a href="https://www.lawfareblog.com/building-2023-national-cybersecurity-strategy-reshaping-terrain-cyberspace"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If executed well, the strategy will serve as a strong pivot into a better vision for U.S. policy in cyberspace; if not, much of its promise will lack punch.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

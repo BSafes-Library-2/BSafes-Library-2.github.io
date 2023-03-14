@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Plex Media Server bug, exploited in LastPass attack, to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143429/security/cisa-plex-media-server-bug-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added remote code execution vulnerability in Plex Media Server to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a remote code execution (RCE) vulnerability in the Plex Media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

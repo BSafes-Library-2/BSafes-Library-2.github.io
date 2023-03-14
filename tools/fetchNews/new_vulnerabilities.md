@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Over a Dozen Security Flaws in Akuvox E11 Smart Intercom<a href="https://thehackernews.com/2023/03/researchers-uncover-over-dozen-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a dozen security flaws have been disclosed in E11, a smart intercom product made by Chinese company Akuvox . "The vulnerabilities could allow attackers to execute code remotely in order to activate and control the device's camera and microphone, steal video and images, or gain a network foothold," Claroty security researcher Vera Mens&nbsp; said &nbsp;in a technical write-up. Akuvox E11 is described by the company on its website as a " SIP &nbsp;[Session Initiation Protocol] video doorphone specially designed for villas, houses, and apartments." The&nbsp; product listing , however, has been taken down from the website, displaying an error message: "Page does not exist." A&nbsp; snapshot &nbsp;captured by Google shows that the page was live as recently as March 12, 2023, 05:59:51 GMT. The attacks can manifest either through remote code execution within the local area network (LAN) or remote activation of the E11's camera and microphone, allowing the adversary to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

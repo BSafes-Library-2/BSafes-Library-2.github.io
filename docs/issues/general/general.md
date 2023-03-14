@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The risk of pasting confidential company data into ChatGPT<a href="https://securityaffairs.com/143394/security/company-data-chatgpt-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that employees are providing sensitive corporate data to the popular artificial intelligence chatbot model ChatGPT.
+Researchers from Cyberhaven Labs analyzed the use of ChatGPT by 1.6 million workers at companies across industries. They...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The SVB demise is a fraudster’s paradise, so take precautions<a href="https://www.helpnetsecurity.com/2023/03/13/svb-cyber-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frenzy around the SVB collapse presents a huge opportunity for cybercriminals, and it creates a cyber risk for thousands of SVB account holders, and their customers and suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The risk of pasting confidential company data into ChatGPT<a href="https://securityaffairs.com/143394/security/company-data-chatgpt-risks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of ChatGPT is becoming a serious problem in the workspace, it can potentially cause the leak of sensitive and confidential data. Companies like JP Morgan and Verizon are blocking access to the chatbot over concerns about confidential data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

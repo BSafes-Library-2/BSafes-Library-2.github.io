@@ -34,6 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golang-based GoBruteforcer Malware Targets Popular Web Services<a href="https://cyware.com/news/golang-based-gobruteforcer-malware-targets-popular-web-services-243870e0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GoBruteforcer, a new Golang-based botnet, has been seen scanning and infecting well-known web servers including FTP and MySQL, and deploys an IRC bot to communicate. At the time of the attack, GoBruteforcer uses a Classless Inter-Domain Routing (CIDR) block for scanning the network. The best w ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-scale Cyber Attack Hijacks East Asian Websites for Adult Content Redirects<a href="https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread malicious cyber operation has hijacked thousands of websites aimed at East Asian audiences to redirect visitors to adult-themed content since early September 2022. The ongoing campaign entails injecting malicious JavaScript code to the hacked websites, often connecting to the target web server using legitimate FTP credentials the threat actor previously obtained via an unknown method. "In many cases, these were highly secure auto-generated FTP credentials which the attacker was somehow able to acquire and leverage for website hijacking," Wiz  said  in a report published this month. The fact that the breached websites – owned by both small firms and multinational corporations – utilize different tech stacks and hosting service providers has made it difficult to trace a common attack vector, the cloud security company noted. That having said, one of the common denominators between the websites is that a majority of them are either hosted in China or hosted in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building From the 2023 National Cybersecurity Strategy: Reshaping the Terrain of Cyberspace<a href="https://www.lawfareblog.com/building-2023-national-cybersecurity-strategy-reshaping-terrain-cyberspace"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If executed well, the strategy will serve as a strong pivot into a better vision for U.S. policy in cyberspace; if not, much of its promise will lack punch.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golang-Based Botnet GoBruteforcer targets web servers<a href="https://securityaffairs.com/143435/malware/golang-based-botnet-gobruteforcer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered Golang-based botnet, dubbed GoBruteforcer, is targeting web servers running FTP, MySQL, phpMyAdmin, and Postgres services
+Researchers from Palo Alto Networks Unit 42 recently discovered a Golang-based botnet, tracked as GoBruteforcer,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Push BatLoader via Google Search Ads<a href="https://cyware.com/news/hackers-push-batloader-via-google-search-ads-37dcab32"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BATLOADER, the notorious malware loader, was seen exploiting Google Ads to deliver secondary payloads such as Vidar Stealer and Ursnif. In their ads, attackers fake legitimate apps and services such as Adobe, Tableau, ChatGPT, Spotify, and Zoom. Other samples of BATLOADER display enhanced capabilit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake ChatGPT Chrome Extension Hijacking Facebook Accounts for Malicious Advertising<a href="https://thehackernews.com/2023/03/fake-chatgpt-chrome-extension-hijacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake ChatGPT-branded Chrome browser extension has been found to come with capabilities to hijack Facebook accounts and create rogue admin accounts, highlighting one of the different methods cyber criminals are using to distribute malware. "By hijacking high-profile Facebook business accounts, the threat actor creates an elite army of Facebook bots and a malicious paid media apparatus," Guardio Labs researcher Nati Tal  said  in a technical report. "This allows it to push Facebook paid ads at the expense of its victims in a self-propagating worm-like manner." The "Quick access to Chat GPT" extension, which is said to have attracted 2,000 installations per day since March 3, 2023, has since been pulled by Google from the Chrome Web Store as of March 9, 2023. The browser add-on is promoted through Facebook-sponsored posts, and while it offers the ability to connect to the ChatGPT service, it's also engineered to surreptitiously harvest cookies and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Plex Media Server bug, exploited in LastPass attack, to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143429/security/cisa-plex-media-server-bug-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added remote code execution vulnerability in Plex Media Server to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a remote code execution (RCE) vulnerability in the Plex Media...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Hackers Abuse SonicWall SMA Devices<a href="https://cyware.com/news/china-linked-hackers-abuse-sonicwall-sma-devices-1bac1edd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC4540, a China-linked cybercriminal group, was observed deploying a custom backdoor on a SonicWall SMA appliance. Attackers show a thorough understanding of the appliance and use a set of malicious files to obtain privileges. The malware is capable of extracting credentials, achieving persistence ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Apply NIST Principles to SaaS in 2023<a href="https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) is one of the standard-bearers in global cybersecurity. The U.S.-based institute's cybersecurity framework helps organizations of all sizes understand, manage, and reduce their cyber-risk levels and better protect their data. Its importance in the fight against cyberattacks can't be overstated. While NIST hasn't directly developed standards related to securing the SaaS ecosystem, they are instrumental in the way we approach SaaS security. NIST recently released its  Guide to a Secure Enterprise Network Landscape . In it, they discuss the transformation from on-premise networks to multiple cloud servers. Access to these servers, and the accompanying SaaS apps, is through both secure and unsecured devices and locations across disparate geography. The move to the cloud has effectively obliterated the network perimeter. As a result, companies have increased their attack surface and are experiencing an escalation of attacks that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Pink APT targets Govt entities in South Asia<a href="https://securityaffairs.com/143415/apt/dark-pink-apt-south-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that Dark Pink APT employed a malware dubbed KamiKakaBot against Southeast Asian targets.
+In February 2023, EclecticIQ researchers spotted multiple KamiKakaBot malware samples that were employed by the Dark Pink APT group (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian official says parliamentary elections were targeted by cyberattacks<a href="https://therecord.media/estonia-cyberattack-parliamentary-elections?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gert Auväärt, head of the National Cyber Security Centre-Estonia (NCSC-EE), told The Record that his team had been in a “heightened awareness level for two weeks” during the campaign, and that attempts to enter the electoral system were unsuccessful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: AI-generated YouTube Video Tutorials Spreading Infostealer Malware<a href="https://thehackernews.com/2023/03/warning-ai-generated-youtube-video.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been increasingly observed using AI-generated YouTube Videos to spread a variety of stealer malware such as Raccoon, RedLine, and Vidar. "The videos lure users by pretending to be tutorials on how to download cracked versions of software such as Photoshop, Premiere Pro, Autodesk 3ds Max, AutoCAD, and other products that are licensed products available only to paid users," CloudSEK researcher Pavan Karthick M  said . Just as the ransomware landscape comprises core developers and affiliates who are in charge of identifying potential targets and actually carrying out the attacks, the information stealer ecosystem also consists of threat actors known as  traffers  who are recruited to spread the malware using different methods. One of the popular malware distribution channels is YouTube, with CloudSEK witnessing a 200-300% month-over-month increase in videos containing links to stealer malware in the description section. These links are often obfuscated u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The risk of pasting confidential company data into ChatGPT<a href="https://securityaffairs.com/143394/security/company-data-chatgpt-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that employees are providing sensitive corporate data to the popular artificial intelligence chatbot model ChatGPT.
+Researchers from Cyberhaven Labs analyzed the use of ChatGPT by 1.6 million workers at companies across industries. They...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoll Medical Discloses Data Breach Impacting One Million Individuals<a href="https://www.securityweek.com/zoll-medical-data-breach-impacts-1-million-individuals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical technology developer Zoll Medical is notifying roughly one million individuals that their personal information might have been compromised in a recent data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Over a Dozen Security Flaws in Akuvox E11 Smart Intercom<a href="https://thehackernews.com/2023/03/researchers-uncover-over-dozen-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a dozen security flaws have been disclosed in E11, a smart intercom product made by Chinese company Akuvox . "The vulnerabilities could allow attackers to execute code remotely in order to activate and control the device's camera and microphone, steal video and images, or gain a network foothold," Claroty security researcher Vera Mens  said  in a technical write-up. Akuvox E11 is described by the company on its website as a " SIP  [Session Initiation Protocol] video doorphone specially designed for villas, houses, and apartments." The  product listing , however, has been taken down from the website, displaying an error message: "Page does not exist." A  snapshot  captured by Google shows that the page was live as recently as March 12, 2023, 05:59:51 GMT. The attacks can manifest either through remote code execution within the local area network (LAN) or remote activation of the E11's camera and microphone, allowing the adversary to c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The SVB demise is a fraudster’s paradise, so take precautions<a href="https://www.helpnetsecurity.com/2023/03/13/svb-cyber-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frenzy around the SVB collapse presents a huge opportunity for cybercriminals, and it creates a cyber risk for thousands of SVB account holders, and their customers and suppliers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KamiKakaBot Malware Used in Latest Dark Pink APT Attacks on Southeast Asian Targets<a href="https://thehackernews.com/2023/03/kamikakabot-malware-used-in-latest-dark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  Dark Pink  advanced persistent threat (APT) actor has been linked to a fresh set of attacks targeting government and military entities in Southeast Asian countries with a malware called KamiKakaBot. Dark Pink, also called Saaiwc, was extensively profiled by Group-IB earlier this year, describing its use of custom tools such as TelePowerBot and KamiKakaBot to run arbitrary commands and exfiltrate sensitive information. The threat actor is suspected to be of Asia-Pacific origin and has been active since at least mid-2021, with an increased tempo observed in 2022. "The latest attacks, which took place in February 2023, were almost identical to previous attacks," Dutch cybersecurity company EclecticIQ  disclosed  in a new report published last week. "The main difference in the February campaign is that the malware's obfuscation routine has improved to better evade anti-malware measures." The attacks play out in the form of social engineering lures that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The risk of pasting confidential company data into ChatGPT<a href="https://securityaffairs.com/143394/security/company-data-chatgpt-risks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of ChatGPT is becoming a serious problem in the workspace, it can potentially cause the leak of sensitive and confidential data. Companies like JP Morgan and Verizon are blocking access to the chatbot over concerns about confidential data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 12, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

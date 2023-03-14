@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golang-Based Botnet GoBruteforcer targets web servers<a href="https://securityaffairs.com/143435/malware/golang-based-botnet-gobruteforcer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently discovered Golang-based botnet, dubbed GoBruteforcer, is targeting web servers running FTP, MySQL, phpMyAdmin, and Postgres services
+Researchers from Palo Alto Networks Unit 42 recently discovered a Golang-based botnet, tracked as GoBruteforcer,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

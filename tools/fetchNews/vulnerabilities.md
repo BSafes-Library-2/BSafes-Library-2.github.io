@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed CVE-2023-20049 DoS flaw affecting enterprise routers<a href="https://securityaffairs.com/143366/security/cisco-cve-2023-20049-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed a high-severity DoS vulnerability (CVE-2023-20049) in IOS XR software that impacts several enterprise routers.
+Cisco has released security updates to address a high-severity DoS vulnerability, tracked as CVE-2023-20049 (CVSS score of 8.6),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Akuvox Smart Intercom Vulnerabilities Can Be Exploited for Spying<a href="https://www.securityweek.com/unpatched-akuvox-smart-intercom-vulnerabilities-can-be-exploited-for-spying/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A smart intercom product made by Chinese company Akuvox is affected by more than a dozen vulnerabilities, including potentially serious flaws that can be exploited for spying.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

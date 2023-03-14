@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-scale Cyber Attack Hijacks East Asian Websites for Adult Content Redirects<a href="https://thehackernews.com/2023/03/large-scale-cyber-attack-hijacks-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widespread malicious cyber operation has hijacked thousands of websites aimed at East Asian audiences to redirect visitors to adult-themed content since early September 2022. The ongoing campaign entails injecting malicious JavaScript code to the hacked websites, often connecting to the target web server using legitimate FTP credentials the threat actor previously obtained via an unknown method. "In many cases, these were highly secure auto-generated FTP credentials which the attacker was somehow able to acquire and leverage for website hijacking," Wiz&nbsp; said &nbsp;in a report published this month. The fact that the breached websites – owned by both small firms and multinational corporations – utilize different tech stacks and hosting service providers has made it difficult to trace a common attack vector, the cloud security company noted. That having said, one of the common denominators between the websites is that a majority of them are either hosted in China or hosted in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian official says parliamentary elections were targeted by cyberattacks<a href="https://therecord.media/estonia-cyberattack-parliamentary-elections?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gert Auväärt, head of the National Cyber Security Centre-Estonia (NCSC-EE), told The Record that his team had been in a “heightened awareness level for two weeks” during the campaign, and that attempts to enter the electoral system were unsuccessful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KamiKakaBot Malware Used in Latest Dark Pink APT Attacks on Southeast Asian Targets<a href="https://thehackernews.com/2023/03/kamikakabot-malware-used-in-latest-dark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; Dark Pink &nbsp;advanced persistent threat (APT) actor has been linked to a fresh set of attacks targeting government and military entities in Southeast Asian countries with a malware called KamiKakaBot. Dark Pink, also called Saaiwc, was extensively profiled by Group-IB earlier&nbsp;this year, describing its use of custom tools such as TelePowerBot and KamiKakaBot to run arbitrary commands and exfiltrate sensitive information. The threat actor is suspected to be of Asia-Pacific origin and has been active since at least mid-2021, with an increased tempo observed in 2022. "The latest attacks, which took place in February 2023, were almost identical to previous attacks," Dutch cybersecurity company EclecticIQ&nbsp; disclosed &nbsp;in a new report published last week. "The main difference in the February campaign is that the malware's obfuscation routine has improved to better evade anti-malware measures." The attacks play out in the form of social engineering lures that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

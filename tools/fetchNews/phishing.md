@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Email Threats by Exotic Lily<a href="https://cyware.com/news/new-email-threats-by-exotic-lily-e92a6c92"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReliaQuest has laid bare the detail of a phishing campaign by IAB Exotic Lily wherein its members pretend to be a potential business opportunity.&nbsp;The attackers follow a well-established procedure that typically commences with initiating an open conversation with the victim.&nbsp;ReliaQuest adv ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

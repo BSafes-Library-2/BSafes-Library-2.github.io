@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoll Medical Discloses Data Breach Impacting One Million Individuals<a href="https://www.securityweek.com/zoll-medical-data-breach-impacts-1-million-individuals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medical technology developer Zoll Medical is notifying roughly one million individuals that their personal information might have been compromised in a recent data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,22 @@ nav_order: 900029
 
 ## Breach
 ---
+March 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis states that only one customer’s account has been compromised. Much ado about nothing<a href="https://securityaffairs.com/143380/hacking/acronis-downplays-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis downplays the severity of the recent security breach explaining that only a single customer’s account was compromised.
+The CISO of Acronis downplayed a recent intrusion, revealing that only one customer was impacted.
+This week a threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
