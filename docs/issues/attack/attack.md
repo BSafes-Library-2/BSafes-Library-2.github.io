@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital in Brussels latest victim in spate of European healthcare cyberattacks<a href="https://therecord.media/brussels-hospital-cyberattack-belgium-saint-pierre?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ambulances were diverted from the Centre Hospitalier Universitaire (CHU) Saint-Pierre this weekend following the attack in the early hours of Friday morning. Details about the attack and the perpetrators have not yet been disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced actor targets Fortinet FortiOS in attacks on govt entities<a href="https://securityaffairs.com/143458/hacking/attacks-fortinet-fortios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is targeting Government entities and large organizations by exploiting a security flaw in Fortinet FortiOS.
+Fortinet researchers are warning of an advanced threat actor and is targeting governmental or government-related entities.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

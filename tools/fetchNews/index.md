@@ -34,6 +34,303 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-1101 Offers Phishing Kit for High-Volume AiTM Campaigns<a href="https://cyware.com/news/dev-1101-offers-phishing-kit-for-high-volume-aitm-campaigns-b4e4836c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Threat Intelligence stumbled across an open source adversary-in-the-middle (AiTM) phishing kit that furthers the ability of hackers to launch organized attacks and also scale it. The threat actor behind the kit is being tracked under the moniker DEV-1101. The kit’s features include settin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoBruteforcer: New Golang-Based Malware Breaches Web Servers Via Brute-Force Attacks<a href="https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based malware dubbed  GoBruteforcer  has been found targeting web servers running phpMyAdmin, MySQL, FTP, and Postgres to corral the devices into a botnet. "GoBruteforcer chose a Classless Inter-Domain Routing ( CIDR ) block for scanning the network during the attack, and it targeted all IP addresses within that CIDR range," Palo Alto Networks Unit 42 researchers  said . "The threat actor chose CIDR block scanning as a way to get access to a wide range of target hosts on different IPs within a network instead of using a single IP address as a target." The malware is mainly designed to single out Unix-like platforms running x86, x64 and ARM architectures, with GoBruteforcer attempting to obtain access via a brute-force attack using a list of credentials hard-coded into the binary. If the attack proves to be successful, an internet relay chat ( IRC ) bot is deployed on the victim server to establish communications with an actor-controlled server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware gang claims to have stolen SpaceX confidential data from Maximum Industries<a href="https://securityaffairs.com/143495/cyber-crime/lockbit-ransomware-gang-spacex-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group claims to have stolen confidential data belonging to SpaceX from the systems of Maximum Industries.
+The LockBit ransomware gang claims to have stolen confidential data of SpaceX after they hacked the systems of production...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses Over 90 Vulnerabilities for ICS Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-over-100-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has released only seven new advisories, but they describe a total of 92 vulnerabilities. However, a vast majority are introduced by the use of third-party components rather than being specific to Siemens products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Prolificacy of LockBit Ransomware<a href="https://thehackernews.com/2023/03/the-prolificacy-of-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the LockBit ransomware is the most active and successful cybercrime organization in the world. Attributed to a Russian Threat Actor, LockBit has stepped out from the shadows of the Conti ransomware group, who were disbanded in early 2022. LockBit ransomware was first discovered in September 2019 and was previously known as ABCD ransomware because of the ".abcd virus" extension first observed. LockBit operates as a Ransomware-as-a-service (RaaS) model. In short, this means that affiliates make a deposit to use the tool, then split the ransom payment with the LockBit group. It has been reported that some affiliates are receiving a share as high of 75%. LockBit's operators have posted advertisements for their affiliate program on Russian-language criminal forums stating they will not operate in Russia or any CIS countries, nor will they work with English-speaking developers unless a Russian-speaking "guarantor" vouches for them.  Initial attack vectors of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday fix Outlook zero-day actively exploited<a href="https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday updates for March 2023 addressed 74 vulnerabilities, including a Windows zero-day exploited in ransomware attacks.
+Microsoft Patch Tuesday security updates for March 2023 addressed 74 new vulnerabilities in Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital in Brussels latest victim in spate of European healthcare cyberattacks<a href="https://therecord.media/brussels-hospital-cyberattack-belgium-saint-pierre?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ambulances were diverted from the Centre Hospitalier Universitaire (CHU) Saint-Pierre this weekend following the attack in the early hours of Friday morning. Details about the attack and the perpetrators have not yet been disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Large-Scale Use of Phishing Kits to Send Millions of Emails Daily<a href="https://thehackernews.com/2023/03/microsoft-warns-of-large-scale-use-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An open source adversary-in-the-middle ( AiTM ) phishing kit has found a number of takers in the cybercrime world for its ability to orchestrate attacks at scale. Microsoft Threat Intelligence is tracking the threat actor behind the development of the kit under its emerging moniker  DEV-1101 . An  AiTM phishing attack  typically involves a threat actor attempting to steal and intercept a target's password and session cookies by deploying a proxy server between the user and the website. Such attacks are more effective owing to their ability to circumvent multi-factor authentication (MFA) protections. DEV-1101, per the tech giant, is said to be the party behind several phishing kits that can be purchased or rented by other criminal actors, thereby reducing the effort and resources required to launch a phishing campaign. "The availability of such phishing kits for purchase by attackers is part of the industrialization of the cybercriminal economy and lowers the barrier of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixed ColdFusion flaw listed as under active exploit<a href="https://securityaffairs.com/143479/security/adobe-cold-fusion-exploited-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe is warning that a critical zero-day flaw in ColdFusion web app development platform was exploited in very limited attacks.
+Software giant Adobe released security updates for ColdFusion versions 2021 and 2018 to resolve a critical flaw, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grip Security Receives Investment from The Syndicate Group<a href="https://www.finsmes.com/2023/03/grip-security-receives-investment-from-the-syndicate-group.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boston, MA, and Tel Aviv, Israel-based SaaS security company unifying discovery, access control, and data governance, received an investment from The Syndicate Group. The amount of the deal was not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiOS Flaw Exploited in Targeted Cyberattacks on Government Entities<a href="https://thehackernews.com/2023/03/fortinet-fortios-flaw-exploited-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities and large organizations have been targeted by an unknown threat actor by exploiting a security flaw in Fortinet FortiOS software to result in data loss and OS and file corruption. "The complexity of the exploit suggests an advanced actor and that it is highly targeted at governmental or government-related targets," Fortinet researchers Guillaume Lovet and Alex Kong said in an advisory last week. The zero-day flaw in question is CVE-2022-41328 (CVSS score: 6.5), a medium security path traversal bug in FortiOS that could lead to arbitrary code execution. "An improper limitation of a pathname to a restricted directory vulnerability ('path traversal') [CWE-22] in FortiOS may allow a privileged attacker to read and write arbitrary files via crafted CLI commands," the company noted. The shortcoming impacts FortiOS versions 6.0, 6.2, 6.4.0 through 6.4.11, 7.0.0 through 7.0.9, and 7.2.0 through 7.2.3. Fixes are available in versions 6.4.1
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-1101 AiTM phishing kit is fueling large-scale phishing campaigns<a href="https://securityaffairs.com/143466/cyber-crime/dev-1101-phishing-kit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of large-scale phishing attacks orchestrated with an open-source adversary-in-the-middle (AiTM) phishing kit available in the cybercrime ecosystem
+Adversary-in-the-middle (AiTM) phishing kits are becoming an essential technology in the cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Claims it Stole SpaceX Schematics From Parts Supplier, Threatens to Leak Them<a href="https://www.theregister.com/2023/03/13/lockbit_spacex_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang Lockbit has boasted it broke into Maximum Industries, which makes parts for SpaceX, and stole 3,000 proprietary schematics developed by Elon Musk's rocketeers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced actor targets Fortinet FortiOS in attacks on govt entities<a href="https://securityaffairs.com/143458/hacking/attacks-fortinet-fortios.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is targeting Government entities and large organizations by exploiting a security flaw in Fortinet FortiOS.
+Fortinet researchers are warning of an advanced threat actor and is targeting governmental or government-related entities.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Fake ChatGPT Chrome Extension Stealing Facebook Ad Accounts with Thousands of Installs<a href="https://labs.guard.io/fakegpt-new-variant-of-fake-chatgpt-chrome-extension-stealing-facebook-ad-accounts-with-4c9996a8f282?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chrome Extension offering quick access to fake ChatGPT functionality was found to be hijacking Facebook accounts and installing hidden account backdoors. Notably, the Facebook app “backdoor” gives the threat actors super-admin permissions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dissecting the malicious arsenal of the Makop ransomware gang<a href="https://securityaffairs.com/143452/malware/dissecting-makop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber security researcher Luca Mella analyzed the Makop ransomware employed in a recent intrusion.
+Executive summary
+Insights from a recent intrusion authored by Makop ransomware operators show persistence capability through dedicated .NET tools.
+Makop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Counting ICS Vulnerabilities: Examining Variations in Numbers Reported by Security Firms<a href="https://www.securityweek.com/counting-ics-vulnerabilities-examining-variations-in-numbers-reported-by-security-firms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reports published in the past couple of months by various industrial cybersecurity companies provide different numbers when it comes to the vulnerabilities discovered in industrial control system (ICS) products in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hackers Blackmail Ukrainian Developer of S.T.A.L.K.E.R. 2 Game<a href="https://www.theverge.com/2023/3/13/23638020/stalker-2-developers-gsc-game-world-hack-blackmail?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GSC Game World says it has been enduring cyberattacks for ‘more than a year’ and that hackers demand Russia-friendly changes to the game or else they’ll leak tons of the game’s development materials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

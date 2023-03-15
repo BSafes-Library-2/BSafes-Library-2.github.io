@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoBruteforcer: New Golang-Based Malware Breaches Web Servers Via Brute-Force Attacks<a href="https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based malware dubbed&nbsp; GoBruteforcer &nbsp;has been found targeting web servers running phpMyAdmin, MySQL, FTP, and Postgres to corral the devices into a botnet. "GoBruteforcer chose a Classless Inter-Domain Routing ( CIDR ) block for scanning the network during the attack, and it targeted all IP addresses within that CIDR range," Palo Alto Networks Unit 42 researchers&nbsp; said . "The threat actor chose CIDR block scanning as a way to get access to a wide range of target hosts on different IPs within a network instead of using a single IP address as a target." The malware is mainly designed to single out Unix-like platforms running x86, x64 and ARM architectures, with GoBruteforcer attempting to obtain access via a brute-force attack using a list of credentials hard-coded into the binary. If the attack proves to be successful, an internet relay chat ( IRC ) bot is deployed on the victim server to establish communications with an actor-controlled server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

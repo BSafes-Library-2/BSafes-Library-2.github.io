@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hackers Blackmail Ukrainian Developer of S.T.A.L.K.E.R. 2 Game<a href="https://www.theverge.com/2023/3/13/23638020/stalker-2-developers-gsc-game-world-hack-blackmail?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GSC Game World says it has been enduring cyberattacks for ‘more than a year’ and that hackers demand Russia-friendly changes to the game or else they’ll leak tons of the game’s development materials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

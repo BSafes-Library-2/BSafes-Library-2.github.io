@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Prolificacy of LockBit Ransomware<a href="https://thehackernews.com/2023/03/the-prolificacy-of-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the LockBit ransomware is the most active and successful cybercrime organization in the world. Attributed to a Russian Threat Actor, LockBit has stepped out from the shadows of the Conti ransomware group, who were disbanded in early 2022. LockBit ransomware was first discovered in September 2019 and was previously known as ABCD ransomware because of the ".abcd virus" extension first observed. LockBit operates as a Ransomware-as-a-service (RaaS) model. In short, this means that affiliates make a deposit to use the tool, then split the ransom payment with the LockBit group. It has been reported that some affiliates are receiving a share as high of 75%. LockBit's operators have posted advertisements for their affiliate program on Russian-language criminal forums stating they will not operate in Russia or any CIS countries, nor will they work with English-speaking developers unless a Russian-speaking "guarantor" vouches for them.&nbsp; Initial attack vectors of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

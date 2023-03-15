@@ -8,6 +8,52 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware gang claims to have stolen SpaceX confidential data from Maximum Industries<a href="https://securityaffairs.com/143495/cyber-crime/lockbit-ransomware-gang-spacex-files.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group claims to have stolen confidential data belonging to SpaceX from the systems of Maximum Industries.
+The LockBit ransomware gang claims to have stolen confidential data of SpaceX after they hacked the systems of production...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Claims it Stole SpaceX Schematics From Parts Supplier, Threatens to Leak Them<a href="https://www.theregister.com/2023/03/13/lockbit_spacex_ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang Lockbit has boasted it broke into Maximum Industries, which makes parts for SpaceX, and stole 3,000 proprietary schematics developed by Elon Musk's rocketeers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dissecting the malicious arsenal of the Makop ransomware gang<a href="https://securityaffairs.com/143452/malware/dissecting-makop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber security researcher Luca Mella analyzed the Makop ransomware employed in a recent intrusion.
+Executive summary
+Insights from a recent intrusion authored by Makop ransomware operators show persistence capability through dedicated .NET tools.
+Makop...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

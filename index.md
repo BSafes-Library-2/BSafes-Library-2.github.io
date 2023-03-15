@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DEV-1101 Offers Phishing Kit for High-Volume AiTM Campaigns<a href="https://cyware.com/news/dev-1101-offers-phishing-kit-for-high-volume-aitm-campaigns-b4e4836c"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoBruteforcer: New Golang-Based Malware Breaches Web Servers Via Brute-Force Attacks<a href="https://thehackernews.com/2023/03/gobruteforcer-new-golang-based-malware.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware gang claims to have stolen SpaceX confidential data from Maximum Industries<a href="https://securityaffairs.com/143495/cyber-crime/lockbit-ransomware-gang-spacex-files.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Addresses Over 90 Vulnerabilities for ICS Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-over-100-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Prolificacy of LockBit Ransomware<a href="https://thehackernews.com/2023/03/the-prolificacy-of-lockbit-ransomware.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday fix Outlook zero-day actively exploited<a href="https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospital in Brussels latest victim in spate of European healthcare cyberattacks<a href="https://therecord.media/brussels-hospital-cyberattack-belgium-saint-pierre?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Large-Scale Use of Phishing Kits to Send Millions of Emails Daily<a href="https://thehackernews.com/2023/03/microsoft-warns-of-large-scale-use-of.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe fixed ColdFusion flaw listed as under active exploit<a href="https://securityaffairs.com/143479/security/adobe-cold-fusion-exploited-bug.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grip Security Receives Investment from The Syndicate Group<a href="https://www.finsmes.com/2023/03/grip-security-receives-investment-from-the-syndicate-group.html?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet FortiOS Flaw Exploited in Targeted Cyberattacks on Government Entities<a href="https://thehackernews.com/2023/03/fortinet-fortios-flaw-exploited-in.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DEV-1101 AiTM phishing kit is fueling large-scale phishing campaigns<a href="https://securityaffairs.com/143466/cyber-crime/dev-1101-phishing-kit.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Claims it Stole SpaceX Schematics From Parts Supplier, Threatens to Leak Them<a href="https://www.theregister.com/2023/03/13/lockbit_spacex_ransomware/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advanced actor targets Fortinet FortiOS in attacks on govt entities<a href="https://securityaffairs.com/143458/hacking/attacks-fortinet-fortios.html"> Full Text</a>
@@ -264,7 +264,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Fake ChatGPT Chrome Extension Stealing Facebook Ad Accounts with Thousands of Installs<a href="https://labs.guard.io/fakegpt-new-variant-of-fake-chatgpt-chrome-extension-stealing-facebook-ad-accounts-with-4c9996a8f282?&web_view=true"> Full Text</a>
@@ -280,7 +280,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dissecting the malicious arsenal of the Makop ransomware gang<a href="https://securityaffairs.com/143452/malware/dissecting-makop-ransomware.html"> Full Text</a>
@@ -299,7 +299,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Counting ICS Vulnerabilities: Examining Variations in Numbers Reported by Security Firms<a href="https://www.securityweek.com/counting-ics-vulnerabilities-examining-variations-in-numbers-reported-by-security-firms/?&web_view=true"> Full Text</a>
@@ -315,7 +315,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2023
+March 14, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian Hackers Blackmail Ukrainian Developer of S.T.A.L.K.E.R. 2 Game<a href="https://www.theverge.com/2023/3/13/23638020/stalker-2-developers-gsc-game-world-hack-blackmail?&web_view=true"> Full Text</a>

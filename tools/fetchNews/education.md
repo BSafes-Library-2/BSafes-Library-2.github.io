@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Apply NIST Principles to SaaS in 2023<a href="https://thehackernews.com/2023/03/how-to-apply-nist-principles-to-saas-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) is one of the standard-bearers in global cybersecurity. The U.S.-based institute's cybersecurity framework helps organizations of all sizes understand, manage, and reduce their cyber-risk levels and better protect their data. Its importance in the fight against cyberattacks can't be overstated. While NIST hasn't directly developed standards related to securing the SaaS ecosystem, they are instrumental in the way we approach SaaS security. NIST recently released its&nbsp; Guide to a Secure Enterprise Network Landscape . In it, they discuss the transformation from on-premise networks to multiple cloud servers. Access to these servers, and the accompanying SaaS apps, is through both secure and unsecured devices and locations across disparate geography. The move to the cloud has effectively obliterated the network perimeter. As a result, companies have increased their attack surface and are experiencing an escalation of attacks that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

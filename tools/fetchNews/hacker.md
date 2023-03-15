@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Hackers Abuse SonicWall SMA Devices<a href="https://cyware.com/news/china-linked-hackers-abuse-sonicwall-sma-devices-1bac1edd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC4540, a China-linked cybercriminal group, was observed deploying a custom backdoor on a SonicWall SMA appliance. Attackers show a thorough understanding of the appliance and use a set of malicious files to obtain privileges. The malware is capable of extracting credentials, achieving persistence ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

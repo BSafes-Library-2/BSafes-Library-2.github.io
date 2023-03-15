@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Pink APT targets Govt entities in South Asia<a href="https://securityaffairs.com/143415/apt/dark-pink-apt-south-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that Dark Pink APT employed a malware dubbed KamiKakaBot against Southeast Asian targets.
+In February 2023, EclecticIQ researchers spotted multiple KamiKakaBot malware samples that were employed by the Dark Pink APT group (aka...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-1101 Offers Phishing Kit for High-Volume AiTM Campaigns<a href="https://cyware.com/news/dev-1101-offers-phishing-kit-for-high-volume-aitm-campaigns-b4e4836c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Threat Intelligence stumbled across an open source adversary-in-the-middle (AiTM) phishing kit that furthers the ability of hackers to launch organized attacks and also scale it. The threat actor behind the kit is being tracked under the moniker DEV-1101. The kit’s features include settin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Large-Scale Use of Phishing Kits to Send Millions of Emails Daily<a href="https://thehackernews.com/2023/03/microsoft-warns-of-large-scale-use-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An open source adversary-in-the-middle ( AiTM ) phishing kit has found a number of takers in the cybercrime world for its ability to orchestrate attacks at scale. Microsoft Threat Intelligence is tracking the threat actor behind the development of the kit under its emerging moniker&nbsp; DEV-1101 . An&nbsp; AiTM phishing attack &nbsp;typically involves a threat actor attempting to steal and intercept a target's password and session cookies by deploying a proxy server between the user and the website. Such attacks are more effective owing to their ability to circumvent multi-factor authentication (MFA) protections. DEV-1101, per the tech giant, is said to be the party behind several phishing kits that can be purchased or rented by other criminal actors, thereby reducing the effort and resources required to launch a phishing campaign. "The availability of such phishing kits for purchase by attackers is part of the industrialization of the cybercriminal economy and lowers the barrier of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DEV-1101 AiTM phishing kit is fueling large-scale phishing campaigns<a href="https://securityaffairs.com/143466/cyber-crime/dev-1101-phishing-kit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of large-scale phishing attacks orchestrated with an open-source adversary-in-the-middle (AiTM) phishing kit available in the cybercrime ecosystem
+Adversary-in-the-middle (AiTM)&nbsp;phishing kits are becoming an essential technology in the cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
