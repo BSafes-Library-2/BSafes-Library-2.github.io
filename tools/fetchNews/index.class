@@ -34,6 +34,284 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Aerospace Player Safran Group Leaks Sensitive Data<a href="https://securityaffairs.com/143505/security/safran-group-leaks-sensitive-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybernews research team recently discovered that the French-based multinational aviation company, the eighth largest aerospace supplier worldwide, was leaking sensitive data due to a misconfiguration of its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper Stealing Credentials and Information from Government and Energy Organizations<a href="https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor dubbed  YoroTrooper  has been targeting government, energy, and international organizations across Europe as part of a cyber espionage campaign that has been active since at least June 2022. "Information stolen from successful compromises include credentials from multiple applications, browser histories and cookies, system information and screenshots," Cisco Talos researchers Asheer Malhotra and Vitor Ventura  said  in a Tuesday analysis. Prominent countries targeted include Azerbaijan, Tajikistan, Kyrgyzstan, Turkmenistan, and other Commonwealth of Independent States (CIS) nations. The threat actor is believed to be Russian-speaking owing to the victimology patterns and the presence of Cyrillic snippets in some of the implants. That said, the YoroTrooper intrusion set has been found to exhibit tactical overlaps with the  PoetRAT team  that was  documented  in 2020 as leveraging coronavirus-themed baits to strike government and ene
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 abuses EU information exchange systems in recent attacks<a href="https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 group abused the legitimate information exchange systems used by European countries to target government entities.
+Russia-linked APT29 (aka SVR group, Cozy Bear, Nobelium, and The Dukes) was spotted abusing the legitimate information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals already targeting nervous CVB customers<a href="https://www.theregister.com/2023/03/15/rise_in_svb_related_domain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to various researchers and security firms, threat actors are already out hunting for SVB-exposed prey through both passive and active phishing scams, including similar fake domains and business email compromise (BEC) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptojacking Operation Targeting Kubernetes Clusters for Dero Mining<a href="https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered the first-ever illicit cryptocurrency mining campaign used to mint Dero since the start of February 2023. "The novel Dero cryptojacking operation concentrates on locating Kubernetes clusters with anonymous access enabled on a Kubernetes API and listening on non-standard ports accessible from the internet," CrowdStrike  said  in a new report shared with The Hacker News. The development marks a notable shift from Monero, which is a prevalent cryptocurrency used in such campaigns. It's suspected it may have to do with the fact that  Dero  "offers larger rewards and provides the same or better anonymizing features." The attacks, attributed to an unknown financially motivated actor, commence with scanning for Kubernetes clusters with authentication set as  --anonymous-auth=true , which allows anonymous requests to the server, to drop initial payloads from three different U.S.-based IP addresses. This includes deploying
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper APT group targets CIS countries and embassies<a href="https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new APT group, dubbed YoroTrooper, has been targeting government and energy organizations across Europe, experts warn.
+Cisco Talos researchers uncovered a new cyber espionage group targeting CIS countries, embassies and EU health care agency since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISO27001 Updates: Change is afoot<a href="https://www.tripwire.com/state-of-security/iso27001-updates-change-afoot?hss_channel=tw-37711082&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The standard hasn't had a significant update since 2013. There were some minor amendments in 2017, but largely these were structural or grammatical updates. In 2022, things have changed dramatically, but also in very subtle ways.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Different Methods and Stages of Penetration Testing<a href="https://thehackernews.com/2023/03/the-different-methods-and-stages-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stakes could not be higher for cyber defenders. With the vast amounts of sensitive information, intellectual property, and financial data at risk, the consequences of a data breach can be devastating. According to a report released by  Ponemon institute , the cost of data breaches has reached an all-time high, averaging $4.35 million in 2022. Vulnerabilities in web applications are often the primary gateway for attackers. According to  a World Economic Forum report , just one week after discovering a critical security flaw in a widely used software library (Log4j), more than 100 attempts at exploiting the vulnerability were detected every minute. This illustrates how quickly malicious actors can take advantage of vulnerabilities, highlighting the urgency of regularly assessing and monitoring your system for any vulnerabilities or weak points. The complexity of addressing security challenges in today's digital world is further compounded by the rising use of open-source compo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign<a href="https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers discovered the first-ever cryptocurrency mining campaign aimed at Dero mining since February 2023.
+CrowdStrike has discovered the first-ever Dero cryptojacking campaign aimed at Kubernetes infrastructure. Dero is a general-purpose,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ring Denies Falling Victim to Ransomware Attack<a href="https://www.securityweek.com/ring-denies-falling-victim-to-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, the cybergang behind the Alphv ransomware added an entry to their leaks site claiming they breached Ring and threatening to release data supposedly stolen from the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tick APT Targeted High-Value Customers of East Asian Data-Loss Prevention Company<a href="https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage actor known as Tick has been attributed with high confidence to a compromise of an East Asian data-loss prevention (DLP) company that caters to government and military entities. "The attackers compromised the DLP company's internal update servers to deliver malware inside the software developer's network, and trojanized installers of legitimate tools used by the company, which eventually resulted in the execution of malware on the computers of the company's customers," ESET researcher Facundo Muñoz  said . Tick , also known as Bronze Butler, REDBALDKNIGHT , Stalker Panda, and Stalker Taurus, is a suspected China-aligned collective that has primarily gone after government, manufacturing, and biotechnology firms in Japan. It's said to be active  since at least 2006 . Other lesser-known targets include Russian, Singaporean, and Chinese enterprises. Attack chains orchestrated by the group have typically leveraged spear-phishing emails and  str
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data security firm Rubrik discloses a data breach, attackers exploited recent GoAnywhere zero-day to steal its data.
+Cybersecurity firm Rubrik disclosed a data breach, a ransomware group stolen compeny data by exploiting the recently disclosed zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rishi Sunak hints at TikTok ban from UK government devices<a href="https://www.theguardian.com/technology/2023/mar/13/tiktok-would-be-disappointed-if-uk-banned-app-on-official-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rishi Sunak has indicated that the UK could follow the US and Canada in banning TikTok from government devices, saying he will take “whatever steps are necessary” to protect Britain’s security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack<a href="https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Patch Tuesday update for March 2023 is rolling out with remediations for a set of  80 security flaws , two of which have come under active exploitation in the wild. Eight of the 80 bugs are rated Critical, 71 are rated Important, and one is rated Moderate in severity. The updates are in  addition to 29 flaws  the tech giant fixed in its Chromium-based Edge browser in recent weeks. The two vulnerabilities that have come under active attack include a Microsoft Outlook privilege escalation flaw ( CVE-2023-23397 , CVSS score: 9.8) and a Windows SmartScreen security feature bypass ( CVE-2023-24880 , CVSS score: 5.1). CVE-2023-23397 is "triggered when an attacker sends a message with an extended MAPI property with a UNC path to an SMB (TCP 445) share on a threat actor-controlled server," Microsoft  said  in a standalone advisory. A threat actor could leverage this flaw by sending a specially crafted email, activating it automatically when it is retrieved and pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key aerospace player Safran Group leaks sensitive data<a href="https://securityaffairs.com/143505/security/safran-group-leaks-sensitive-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top aviation company Safran Group left itself vulnerable to cyberattacks, likely for well over a year, underlining how vulnerable big aviation firms are to threat actors, according to research by Cybernews.
+Original post at https://cybernews.com/security/key-aerospace-player-leaks-sensitive-data/
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper Espionage Campaigns Targeting CIS Countries, Embassies, and EU Healthcare Agency<a href="https://blog.talosintelligence.com/yorotrooper-espionage-campaign-cis-turkey-europe/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+YoroTrooper’s main tools include Python-based, custom-built, and open-source information stealers, such as the Stink stealer wrapped into executables via the Nuitka framework and PyInstaller.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2023.1 released – and so is Kali Purple!<a href="https://www.helpnetsecurity.com/2023/03/13/kali-linux-2023-1-purple/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OffSec (formerly Offensive Security) released Kali Linux 2023.1, the latest version of its popular penetration testing and digital forensics platform, accompanied by a technical preview of Kali Purple, a “one-stop shop for blue and purple teams.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

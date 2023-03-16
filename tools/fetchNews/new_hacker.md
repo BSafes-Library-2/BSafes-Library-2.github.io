@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper Stealing Credentials and Information from Government and Energy Organizations<a href="https://thehackernews.com/2023/03/yorotrooper-stealing-credentials-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor dubbed&nbsp; YoroTrooper &nbsp;has been targeting government, energy, and international organizations across Europe as part of a cyber espionage campaign that has been active since at least June 2022. "Information stolen from successful compromises include credentials from multiple applications, browser histories and cookies, system information and screenshots," Cisco Talos researchers Asheer Malhotra and Vitor Ventura&nbsp; said &nbsp;in a Tuesday analysis. Prominent countries targeted include Azerbaijan, Tajikistan, Kyrgyzstan, Turkmenistan, and other Commonwealth of Independent States (CIS) nations. The threat actor is believed to be Russian-speaking owing to the victimology patterns and the presence of Cyrillic snippets in some of the implants. That said, the YoroTrooper intrusion set has been found to exhibit tactical overlaps with the&nbsp; PoetRAT team &nbsp;that was&nbsp; documented &nbsp;in 2020 as leveraging coronavirus-themed baits to strike government and ene
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

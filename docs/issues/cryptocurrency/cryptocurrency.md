@@ -8,6 +8,35 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptojacking Operation Targeting Kubernetes Clusters for Dero Mining<a href="https://thehackernews.com/2023/03/new-cryptojacking-operation-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered the first-ever illicit cryptocurrency mining campaign used to mint Dero since the start of February 2023. "The novel Dero cryptojacking operation concentrates on locating Kubernetes clusters with anonymous access enabled on a Kubernetes API and listening on non-standard ports accessible from the internet," CrowdStrike&nbsp; said &nbsp;in a new report shared with The Hacker News. The development marks a notable shift from Monero, which is a prevalent cryptocurrency used in such campaigns. It's suspected it may have to do with the fact that&nbsp; Dero &nbsp;"offers larger rewards and provides the same or better anonymizing features." The attacks, attributed to an unknown financially motivated actor, commence with scanning for Kubernetes clusters with authentication set as&nbsp; --anonymous-auth=true , which allows anonymous requests to the server, to drop initial payloads from three different U.S.-based IP addresses. This includes deploying
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike discovered the first-ever Dero cryptocurrency mining campaign<a href="https://securityaffairs.com/143520/cyber-crime/dero-crypto-mining-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers discovered the first-ever cryptocurrency mining campaign aimed at Dero mining since February 2023.
+CrowdStrike has discovered the first-ever&nbsp;Dero&nbsp;cryptojacking campaign aimed at Kubernetes infrastructure. Dero is a general-purpose,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

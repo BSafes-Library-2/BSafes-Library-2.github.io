@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grip Security Receives Investment from The Syndicate Group<a href="https://www.finsmes.com/2023/03/grip-security-receives-investment-from-the-syndicate-group.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boston, MA, and Tel Aviv, Israel-based SaaS security company unifying discovery, access control, and data governance, received an investment from The Syndicate Group. The amount of the deal was not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

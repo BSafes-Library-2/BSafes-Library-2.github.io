@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rishi Sunak hints at TikTok ban from UK government devices<a href="https://www.theguardian.com/technology/2023/mar/13/tiktok-would-be-disappointed-if-uk-banned-app-on-official-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rishi Sunak has indicated that the UK could follow the US and Canada in banning TikTok from government devices, saying he will take “whatever steps are necessary” to protect Britain’s security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Counting ICS Vulnerabilities: Examining Variations in Numbers Reported by Security Firms<a href="https://www.securityweek.com/counting-ics-vulnerabilities-examining-variations-in-numbers-reported-by-security-firms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reports published in the past couple of months by various industrial cybersecurity companies provide different numbers when it comes to the vulnerabilities discovered in industrial control system (ICS) products in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Addresses Over 90 Vulnerabilities for ICS Patch Tuesday<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-over-100-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has released only seven new advisories, but they describe a total of 92 vulnerabilities. However, a vast majority are introduced by the use of third-party components rather than being specific to Siemens products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday fix Outlook zero-day actively exploited<a href="https://securityaffairs.com/143486/security/microsoft-patch-tuesday-march-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday updates for March 2023 addressed 74 vulnerabilities, including a Windows zero-day exploited in ransomware attacks.
+Microsoft Patch Tuesday security updates for March 2023 addressed 74 new vulnerabilities in Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe fixed ColdFusion flaw listed as under active exploit<a href="https://securityaffairs.com/143479/security/adobe-cold-fusion-exploited-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe is warning that a critical zero-day flaw in ColdFusion web app development platform was exploited in very limited attacks.
+Software giant Adobe released security updates for ColdFusion versions 2021 and 2018 to resolve a critical flaw, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiOS Flaw Exploited in Targeted Cyberattacks on Government Entities<a href="https://thehackernews.com/2023/03/fortinet-fortios-flaw-exploited-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities and large organizations have been targeted by an unknown threat actor by exploiting a security flaw in Fortinet FortiOS software to result in data loss and OS and file corruption. "The complexity of the exploit suggests an advanced actor and that it is highly targeted at governmental or government-related targets," Fortinet researchers Guillaume Lovet and Alex Kong said in an advisory last week. The zero-day flaw in question is CVE-2022-41328 (CVSS score: 6.5), a medium security path traversal bug in FortiOS that could lead to arbitrary code execution. "An improper limitation of a pathname to a restricted directory vulnerability ('path traversal') [CWE-22] in FortiOS may allow a privileged attacker to read and write arbitrary files via crafted CLI commands," the company noted. The shortcoming impacts FortiOS versions 6.0, 6.2, 6.4.0 through 6.4.11, 7.0.0 through 7.0.9, and 7.2.0 through 7.2.3. Fixes are available in versions 6.4.1
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2023.1 released – and so is Kali Purple!<a href="https://www.helpnetsecurity.com/2023/03/13/kali-linux-2023-1-purple/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OffSec (formerly Offensive Security) released Kali Linux 2023.1, the latest version of its popular penetration testing and digital forensics platform, accompanied by a technical preview of Kali Purple, a “one-stop shop for blue and purple teams.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,50 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT29 abuses EU information exchange systems in recent attacks<a href="https://securityaffairs.com/143545/apt/apt29-abused-information-exchange-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 group abused the legitimate information exchange systems used by European countries to target government entities.
+Russia-linked APT29 (aka&nbsp;SVR group,&nbsp;Cozy Bear,&nbsp;Nobelium, and&nbsp;The Dukes) was spotted abusing the legitimate information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper APT group targets&nbsp;CIS countries and embassies<a href="https://securityaffairs.com/143529/apt/yorotrooper-target-govt-energy-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new APT group, dubbed&nbsp;YoroTrooper, has been targeting government and energy organizations across Europe, experts warn.
+Cisco Talos researchers uncovered a new cyber espionage group targeting CIS countries, embassies and EU health care agency since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tick APT Targeted High-Value Customers of East Asian Data-Loss Prevention Company<a href="https://thehackernews.com/2023/03/tick-apt-targeted-high-value-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberespionage actor known as Tick has been attributed with high confidence to a compromise of an East Asian data-loss prevention (DLP) company that caters to government and military entities. "The attackers compromised the DLP company's internal update servers to deliver malware inside the software developer's network, and trojanized installers of legitimate tools used by the company, which eventually resulted in the execution of malware on the computers of the company's customers," ESET researcher Facundo Muñoz&nbsp; said . Tick , also known as Bronze Butler, REDBALDKNIGHT , Stalker Panda, and Stalker Taurus, is&nbsp;a suspected China-aligned collective that has primarily gone after government, manufacturing, and biotechnology firms in Japan. It's said to be active&nbsp; since at least 2006 . Other lesser-known targets include Russian, Singaporean, and Chinese enterprises. Attack chains orchestrated by the group have typically leveraged spear-phishing emails and&nbsp; str
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
