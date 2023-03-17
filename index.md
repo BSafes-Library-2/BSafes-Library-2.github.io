@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New dotRunpeX Malware Injector Spotted in the Wild<a href="https://cyware.com/news/new-dotrunpex-malware-injector-spotted-in-the-wild-65c1ff77"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese and Russian Hackers Using SILKLOADER Malware to Evade Detection<a href="https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Baseband RCE flaws in Samsung’s Exynos chipsets expose devices to remote hack<a href="https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use AI-Generated YouTube Videos to Spread Info-stealers<a href="https://cyware.com/news/hackers-use-ai-generated-youtube-videos-to-spread-info-stealers-8eefc3f6"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojacking Group TeamTNT Suspected of Using Decoy Miner to Conceal Data Exfiltration<a href="https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft sheds light on a year of Russian hybrid warfare in Ukraine<a href="https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Makop Ransomware Gang: A Detailed Look<a href="https://cyware.com/news/makop-ransomware-gang-a-detailed-look-e1316c23"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Shut Down ChipMixer Platform Tied to Crypto Laundering Scheme<a href="https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Polish intelligence dismantled a network of Russian spies<a href="https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Patches High-Severity Vulnerabilities With Release of Firefox 111<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-with-release-of-firefox-111/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's Wrong with Manufacturing?<a href="https://thehackernews.com/2023/03/whats-wrong-with-manufacturing.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency<a href="https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber attribution: Vigilance or distraction?<a href="https://www.helpnetsecurity.com/2023/03/16/cyber-attribution-vigilance-or-distraction/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Hacker Groups Exploit 3-Year-Old Vulnerability to Breach U.S. Federal Agency<a href="https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Hackers Charged With Accessing Federal Law Enforcement Database<a href="https://www.vice.com/en/article/pkae7g/nobody-is-safe-in-wild-hacking-spree-hackers-accessed-federal-law-enforcement-database?&web_view=true"> Full Text</a>
@@ -294,8 +294,8 @@ Cyware
 </div>
 </div>
 
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+<div class="code- example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Urgent Warning: Adobe ColdFusion Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2023/03/cisa-issues-urgent-warning-adobe.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA says federal civilian agency hacked by nation-state and criminal hacking groups<a href="https://cyberscoop.com/cisa-federal-civilian-agency-hacked/?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2023
+March 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Proposes Reducing TLS Cert Life Span to 90 Days<a href="https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days?&web_view=true"> Full Text</a>

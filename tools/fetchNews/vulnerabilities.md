@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Rolls Out Patches for 80 New Security Flaws — Two Under Active Attack<a href="https://thehackernews.com/2023/03/microsoft-rolls-out-patches-for-80-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's Patch Tuesday update for March 2023 is rolling out with remediations for a set of&nbsp; 80 security flaws , two of which have come under active exploitation in the wild. Eight of the 80 bugs are rated Critical, 71 are rated Important, and one is rated Moderate in severity. The updates are in&nbsp; addition to 29 flaws &nbsp;the tech giant fixed in its Chromium-based Edge browser in recent weeks. The two vulnerabilities that have come under active attack include a Microsoft Outlook privilege escalation flaw ( CVE-2023-23397 , CVSS score: 9.8) and a Windows SmartScreen security feature bypass ( CVE-2023-24880 , CVSS score: 5.1). CVE-2023-23397 is "triggered when an attacker sends a message with an extended MAPI property with a UNC path to an SMB (TCP 445) share on a threat actor-controlled server," Microsoft&nbsp; said &nbsp;in a standalone advisory. A threat actor could leverage this flaw by sending a specially crafted email, activating it automatically when it is retrieved and pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

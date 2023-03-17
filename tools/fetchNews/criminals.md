@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals already targeting nervous CVB customers<a href="https://www.theregister.com/2023/03/15/rise_in_svb_related_domain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to various researchers and security firms, threat actors are already out hunting for SVB-exposed prey through both passive and active phishing scams, including similar fake domains and business email compromise (BEC) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

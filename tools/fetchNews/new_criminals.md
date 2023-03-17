@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Makop Ransomware Gang: A Detailed Look<a href="https://cyware.com/news/makop-ransomware-gang-a-detailed-look-e1316c23"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher Luca Mella shared technical insights on the Makop ransomware that attains persistence through dedicated .NET tools. To access victim networks, the gang makes use of internet-facing bugs and exposed remote administrative services. The operators began to work for their crimin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Shut Down ChipMixer Platform Tied to Crypto Laundering Scheme<a href="https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of law enforcement agencies across Europe and the U.S.&nbsp; announced &nbsp;the takedown of ChipMixer, an unlicensed cryptocurrency mixer that began its operations in August 2017. "The ChipMixer software blocked the blockchain trail of the funds, making it attractive for cybercriminals looking to launder illegal proceeds from criminal activities such as drug trafficking, weapons trafficking, ransomware attacks, and payment card fraud," Europol&nbsp; said &nbsp;in a statement. The coordinated exercise, besides dismantling the clearnet and dark web websites associated with ChipMixer, also resulted in the seizure of $47.5 million in Bitcoin and 7 TB of data. Mixers, also called tumblers,&nbsp; offer full anonymity &nbsp;for a fee by commingling cryptocurrency from different users – both legitimate and criminally-derived funds – in a manner that makes it hard to trace the origins. This is achieved by funneling different payments into a single pool before splitting up each amount and transmit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

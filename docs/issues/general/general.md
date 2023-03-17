@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's Wrong with Manufacturing?<a href="https://thehackernews.com/2023/03/whats-wrong-with-manufacturing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In last year's edition of the&nbsp; Security Navigator &nbsp;we noted that the Manufacturing Industry appeared to be totally over-represented in our dataset of Cyber Extortion victims. Neither the number of businesses nor their average revenue particularly stood out to explain this. Manufacturing was also the most represented Industry in our CyberSOC dataset – contributing more Incidents than any other sector.&nbsp; We found this trend confirmed in 2023 – so much in fact that we decided to take a closer look. So let's examine some possible explanations.&nbsp; And debunk them. Hunting for possible explanations Manufacturing is still the most impacted industry in our Cyber Extortion dataset in 2023, as tracked by monitoring double-extortion leak sites. Indeed, this sector now represents more than 20% of all victims since we started observing the leak sites in the beginning of 2020. Approximately 28% of all our clients are from Manufacturing, contributing with an overall share of 31% of all p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attribution: Vigilance or distraction?<a href="https://www.helpnetsecurity.com/2023/03/16/cyber-attribution-vigilance-or-distraction/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The importance of attribution depends on the organization involved and whether it can see an investigation through. With investigations taking lots of time and resources, it shouldn’t be an organization’s priority in the event of a breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Proposes Reducing TLS Cert Life Span to 90 Days<a href="https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By virtue of Chrome's market share, if Google makes this change for Chrome, that makes it a de facto standard that every commercial public certificate authority would have to follow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

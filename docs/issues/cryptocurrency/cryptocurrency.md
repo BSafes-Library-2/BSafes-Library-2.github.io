@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking Group TeamTNT Suspected of Using Decoy Miner to Conceal Data Exfiltration<a href="https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cryptojacking group known as&nbsp; TeamTNT &nbsp;is suspected to be behind a previously undiscovered strain of malware used to mine Monero cryptocurrency on compromised systems. That's according to Cado Security, which&nbsp; found &nbsp;the&nbsp; sample &nbsp;after Sysdig detailed a sophisticated attack known as&nbsp; SCARLETEEL &nbsp;aimed at containerized environments to ultimately steal proprietary data and software. Specifically, the early phase of the attack chain involved the use of a cryptocurrency miner, which the cloud security firm suspected was deployed as a decoy to conceal the detection of data exfiltration. The artifact – uploaded to VirusTotal late last month – "bear[s] several syntactic and semantic similarities to prior TeamTNT payloads, and includes a wallet ID that has previously been attributed to them," a new analysis from Cado Security has&nbsp; revealed . TeamTNT , active since at least 2019, has been documented to repeatedly strike cloud and container environments to deploy cryptocur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

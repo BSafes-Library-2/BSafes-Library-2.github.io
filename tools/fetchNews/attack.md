@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ring Denies Falling Victim to Ransomware Attack<a href="https://www.securityweek.com/ring-denies-falling-victim-to-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday, the cybergang behind the Alphv ransomware added an entry to their leaks site claiming they breached Ring and threatening to release data supposedly stolen from the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper Espionage Campaigns Targeting CIS Countries, Embassies, and EU Healthcare Agency<a href="https://blog.talosintelligence.com/yorotrooper-espionage-campaign-cis-turkey-europe/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+YoroTrooper’s main tools include Python-based, custom-built, and open-source information stealers, such as the Stink stealer wrapped into executables via the Nuitka framework and PyInstaller.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

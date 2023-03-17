@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Different Methods and Stages of Penetration Testing<a href="https://thehackernews.com/2023/03/the-different-methods-and-stages-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stakes could not be higher for cyber defenders. With the vast amounts of sensitive information, intellectual property, and financial data at risk, the consequences of a data breach can be devastating. According to a report released by&nbsp; Ponemon institute , the cost of data breaches has reached an all-time high, averaging $4.35 million in 2022. Vulnerabilities in web applications are often the primary gateway for attackers. According to&nbsp; a World Economic Forum report , just one week after discovering a critical security flaw in a widely used software library (Log4j), more than 100 attempts at exploiting the vulnerability were detected every minute. This illustrates how quickly malicious actors can take advantage of vulnerabilities, highlighting the urgency of regularly assessing and monitoring your system for any vulnerabilities or weak points. The complexity of addressing security challenges in today's digital world is further compounded by the rising use of open-source compo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

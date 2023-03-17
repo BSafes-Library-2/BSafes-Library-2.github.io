@@ -8,6 +8,51 @@ nav_order: 900029
 
 ## Breach
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Aerospace Player Safran Group Leaks Sensitive Data<a href="https://securityaffairs.com/143505/security/safran-group-leaks-sensitive-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybernews research team recently discovered that the French-based multinational aviation company, the eighth largest aerospace supplier worldwide, was leaking sensitive data due to a misconfiguration of its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Firm Rubrik breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143512/cyber-crime/rubrik-breached-goanywhere-zero-day-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data security firm Rubrik discloses a data breach, attackers exploited recent GoAnywhere zero-day to steal its data.
+Cybersecurity firm Rubrik disclosed a data breach, a ransomware group stolen compeny data by exploiting the recently disclosed zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key aerospace player Safran Group leaks sensitive data<a href="https://securityaffairs.com/143505/security/safran-group-leaks-sensitive-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top aviation company Safran Group left itself vulnerable to cyberattacks, likely for well over a year, underlining how vulnerable big aviation firms are to threat actors, according to research by Cybernews.
+Original post at https://cybernews.com/security/key-aerospace-player-leaks-sensitive-data/
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

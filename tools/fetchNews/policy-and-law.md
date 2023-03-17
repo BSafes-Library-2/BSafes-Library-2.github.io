@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISO27001 Updates: Change is afoot<a href="https://www.tripwire.com/state-of-security/iso27001-updates-change-afoot?hss_channel=tw-37711082&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The standard hasn't had a significant update since 2013. There were some minor amendments in 2017, but largely these were structural or grammatical updates. In 2022, things have changed dramatically, but also in very subtle ways.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

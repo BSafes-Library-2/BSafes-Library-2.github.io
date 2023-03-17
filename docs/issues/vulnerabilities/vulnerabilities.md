@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baseband RCE flaws in Samsung’s Exynos chipsets expose devices to remote hack<a href="https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Project Zero hackers found multiple flaws in Samsung ’s Exynos chipsets that expose devices to remote hack with no user interaction.
+White hat hackers at Google's Project Zero unit discovered multiple vulnerabilities Samsung ’s Exynos...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches High-Severity Vulnerabilities With Release of Firefox 111<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-with-release-of-firefox-111/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla announced this week the release of Firefox 111, which patches over a dozen vulnerabilities, including potentially serious issues. Of the 13 CVEs, seven have been assigned a ‘high’ severity rating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

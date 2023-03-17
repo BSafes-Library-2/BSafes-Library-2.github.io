@@ -34,6 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New dotRunpeX Malware Injector Spotted in the Wild<a href="https://cyware.com/news/new-dotrunpex-malware-injector-spotted-in-the-wild-65c1ff77"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Research laid bare tech details of the dotRunpeX injector that delivers a range of known malware families such as AgentTesla,  AsyncRat, AveMaria/WarzoneRAT, BitRAT, Formbook, and more. The first-stage loaders are primarily delivered via phishing emails that contain malicious ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese and Russian Hackers Using SILKLOADER Malware to Evade Detection<a href="https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat activity clusters affiliated with the Chinese and Russian cybercriminal ecosystems have been observed using a new piece of malware that's designed to load Cobalt Strike onto infected machines. Dubbed  SILKLOADER  by Finnish cybersecurity company WithSecure, the malware leverages  DLL side-loading techniques  to deliver commercial adversary simulation software. The development comes as  improved detection capabilities  against Cobalt Strike, a legitimate post-exploitation tool used for red team operations, is forcing threat actors to  seek alternative options  or concoct new ways to propagate the framework to evade detection. "The most common of these include adding complexity to the auto-generated beacon or stager payloads via the utilization of packers, crypters, loaders, or similar techniques," WithSecure researchers  said . SILKLOADER joins other loaders such as KoboldLoader, MagnetLoader, and LithiumLoader that have been  recently discovered  incorporating
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Baseband RCE flaws in Samsung’s Exynos chipsets expose devices to remote hack<a href="https://securityaffairs.com/143582/hacking/baseband-flaws-samsung-exynos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Project Zero hackers found multiple flaws in Samsung ’s Exynos chipsets that expose devices to remote hack with no user interaction.
+White hat hackers at Google's Project Zero unit discovered multiple vulnerabilities Samsung ’s Exynos...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use AI-Generated YouTube Videos to Spread Info-stealers<a href="https://cyware.com/news/hackers-use-ai-generated-youtube-videos-to-spread-info-stealers-8eefc3f6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudSEK witnessed a 200-300% month-on-month surge in AI-generated YouTube videos about software cracks containing malicious links to a variety of stealer malware such as Raccoon, RedLine, and Vidar. To make the videos appear at the top of the results, threat actors employ SEO poisoning techniques. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking Group TeamTNT Suspected of Using Decoy Miner to Conceal Data Exfiltration<a href="https://thehackernews.com/2023/03/cryptojacking-group-teamtnt-suspected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cryptojacking group known as  TeamTNT  is suspected to be behind a previously undiscovered strain of malware used to mine Monero cryptocurrency on compromised systems. That's according to Cado Security, which  found  the  sample  after Sysdig detailed a sophisticated attack known as  SCARLETEEL  aimed at containerized environments to ultimately steal proprietary data and software. Specifically, the early phase of the attack chain involved the use of a cryptocurrency miner, which the cloud security firm suspected was deployed as a decoy to conceal the detection of data exfiltration. The artifact – uploaded to VirusTotal late last month – "bear[s] several syntactic and semantic similarities to prior TeamTNT payloads, and includes a wallet ID that has previously been attributed to them," a new analysis from Cado Security has  revealed . TeamTNT , active since at least 2019, has been documented to repeatedly strike cloud and container environments to deploy cryptocur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft sheds light on a year of Russian hybrid warfare in Ukraine<a href="https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors targeted at least 17 European nations in 2023, and 74 countries since the start of the invasion of Ukraine.
+Microsoft revealed that Russia-linked threat actors targeted at least 17 European nations between January and mid-February...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Makop Ransomware Gang: A Detailed Look<a href="https://cyware.com/news/makop-ransomware-gang-a-detailed-look-e1316c23"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher Luca Mella shared technical insights on the Makop ransomware that attains persistence through dedicated .NET tools. To access victim networks, the gang makes use of internet-facing bugs and exposed remote administrative services. The operators began to work for their crimin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Shut Down ChipMixer Platform Tied to Crypto Laundering Scheme<a href="https://thehackernews.com/2023/03/authorities-shut-down-chipmixer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of law enforcement agencies across Europe and the U.S.  announced  the takedown of ChipMixer, an unlicensed cryptocurrency mixer that began its operations in August 2017. "The ChipMixer software blocked the blockchain trail of the funds, making it attractive for cybercriminals looking to launder illegal proceeds from criminal activities such as drug trafficking, weapons trafficking, ransomware attacks, and payment card fraud," Europol  said  in a statement. The coordinated exercise, besides dismantling the clearnet and dark web websites associated with ChipMixer, also resulted in the seizure of $47.5 million in Bitcoin and 7 TB of data. Mixers, also called tumblers,  offer full anonymity  for a fee by commingling cryptocurrency from different users – both legitimate and criminally-derived funds – in a manner that makes it hard to trace the origins. This is achieved by funneling different payments into a single pool before splitting up each amount and transmit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Polish intelligence dismantled a network of Russian spies<a href="https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish intelligence dismantled a cell of Russian spies that gathered info on military equipment deliveries to Ukraine via the EU member.
+Polish counter-intelligence has dismantled a cell of Russian spies that gathered information on the provisioning...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Patches High-Severity Vulnerabilities With Release of Firefox 111<a href="https://www.securityweek.com/mozilla-patches-high-severity-vulnerabilities-with-release-of-firefox-111/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla announced this week the release of Firefox 111, which patches over a dozen vulnerabilities, including potentially serious issues. Of the 13 CVEs, seven have been assigned a ‘high’ severity rating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's Wrong with Manufacturing?<a href="https://thehackernews.com/2023/03/whats-wrong-with-manufacturing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In last year's edition of the  Security Navigator  we noted that the Manufacturing Industry appeared to be totally over-represented in our dataset of Cyber Extortion victims. Neither the number of businesses nor their average revenue particularly stood out to explain this. Manufacturing was also the most represented Industry in our CyberSOC dataset – contributing more Incidents than any other sector.  We found this trend confirmed in 2023 – so much in fact that we decided to take a closer look. So let's examine some possible explanations.  And debunk them. Hunting for possible explanations Manufacturing is still the most impacted industry in our Cyber Extortion dataset in 2023, as tracked by monitoring double-extortion leak sites. Indeed, this sector now represents more than 20% of all victims since we started observing the leak sites in the beginning of 2020. Approximately 28% of all our clients are from Manufacturing, contributing with an overall share of 31% of all p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency<a href="https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors exploited a critical flaw in Progress Telerik to breach an unnamed US federal agency, said the US government.
+A joint advisory issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber attribution: Vigilance or distraction?<a href="https://www.helpnetsecurity.com/2023/03/16/cyber-attribution-vigilance-or-distraction/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The importance of attribution depends on the organization involved and whether it can see an investigation through. With investigations taking lots of time and resources, it shouldn’t be an organization’s priority in the event of a breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Hacker Groups Exploit 3-Year-Old Vulnerability to Breach U.S. Federal Agency<a href="https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors, including a nation-state group, exploited a critical three-year-old security flaw in Progress Telerik to break into an unnamed federal entity in the U.S. The  disclosure  comes from a  joint advisory  issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC). "Exploitation of this vulnerability allowed malicious actors to successfully execute remote code on a federal civilian executive branch (FCEB) agency's Microsoft Internet Information Services (IIS) web server," the agencies  said . The indicators of compromise (IoCs) associated with the digital break-in were identified from November 2022 through early January 2023. Tracked as  CVE-2019-18935  (CVSS score: 9.8), the issue relates to a .NET  deserialization vulnerability  affecting Progress Telerik UI for ASP.NET AJAX that, if left unpatched, could  lead to remote code exec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added an actively exploited vulnerability in Adobe ColdFusion to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as CVE-2023-26360 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Hackers Charged With Accessing Federal Law Enforcement Database<a href="https://www.vice.com/en/article/pkae7g/nobody-is-safe-in-wild-hacking-spree-hackers-accessed-federal-law-enforcement-database?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two hackers, belonging to the "ViLE" crime group, allegedly broke into a federal law enforcement database. They also used a compromised Bangladeshi police officer's email to fraudulently request user data from a social media company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code- example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Urgent Warning: Adobe ColdFusion Vulnerability Exploited in the Wild<a href="https://thehackernews.com/2023/03/cisa-issues-urgent-warning-adobe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on March 15  added  a security vulnerability impacting Adobe ColdFusion to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The critical flaw in question is  CVE-2023-26360  (CVSS score: 8.6), which could be exploited by a threat actor to achieve arbitrary code execution. "Adobe ColdFusion contains an improper access control vulnerability that allows for remote code execution," CISA  said . The vulnerability impacts ColdFusion 2018 (Update 15 and earlier versions) and ColdFusion 2021 (Update 5 and earlier versions). It has been addressed in versions Update 16 and Update 6, respectively, released on March 14, 2023. It's worth noting that CVE-2023-26360 also affects ColdFusion 2016 and ColdFusion 11 installations, both of which are no longer supported by the software company as they have  reached  end-of-life (EoL). While the exact details surrounding the natu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA says federal civilian agency hacked by nation-state and criminal hacking groups<a href="https://cyberscoop.com/cisa-federal-civilian-agency-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the alert, both the unnamed nation-backed hacking group and the criminal group dubbed XE Group exploited known vulnerabilities in Progress Telerik software located in the unnamed government agency’s Microsoft IIS web server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Proposes Reducing TLS Cert Life Span to 90 Days<a href="https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By virtue of Chrome's market share, if Google makes this change for Chrome, that makes it a de facto standard that every commercial public certificate authority would have to follow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

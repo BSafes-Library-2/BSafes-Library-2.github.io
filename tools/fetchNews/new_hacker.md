@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese and Russian Hackers Using SILKLOADER Malware to Evade Detection<a href="https://thehackernews.com/2023/03/chinese-and-russian-hackers-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat activity clusters affiliated with the Chinese and Russian cybercriminal ecosystems have been observed using a new piece of malware that's designed to load Cobalt Strike onto infected machines. Dubbed&nbsp; SILKLOADER &nbsp;by Finnish cybersecurity company WithSecure, the malware leverages&nbsp; DLL side-loading techniques &nbsp;to deliver commercial adversary simulation software. The development comes as&nbsp; improved detection capabilities &nbsp;against Cobalt Strike, a legitimate post-exploitation tool used for red team operations, is forcing threat actors to&nbsp; seek alternative options &nbsp;or concoct new ways to propagate the framework to evade detection. "The most common of these include adding complexity to the auto-generated beacon or stager payloads via the utilization of packers, crypters, loaders, or similar techniques," WithSecure researchers&nbsp; said . SILKLOADER joins other loaders such as KoboldLoader, MagnetLoader, and LithiumLoader that have been&nbsp; recently discovered &nbsp;incorporating
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use AI-Generated YouTube Videos to Spread Info-stealers<a href="https://cyware.com/news/hackers-use-ai-generated-youtube-videos-to-spread-info-stealers-8eefc3f6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CloudSEK witnessed a 200-300% month-on-month surge in AI-generated YouTube videos about software cracks containing malicious links to a variety of stealer malware such as Raccoon, RedLine, and Vidar. To make the videos appear at the top of the results, threat actors employ SEO poisoning techniques. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
