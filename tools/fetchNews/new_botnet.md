@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HinataBot, a new Go-Based DDoS botnet in the threat landscape<a href="https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based DDoS botnet, tracked as&nbsp;HinataBot,&nbsp;targets routers and servers by exploiting known vulnerabilities.
+Akamai researchers spotted a new DDoS Golang-based botnet, dubbed&nbsp;HinataBot,&nbsp;which has been observed exploiting known flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

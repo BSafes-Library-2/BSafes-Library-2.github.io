@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps<a href="https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps. "FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device," cybersecurity firm Check Point said . FakeCalls was previously documented by Kaspersky in April 2022, describing the malware's capabilities to imitate phone conversations with a bank customer support agent. In the observed attacks, users who install the rogue banking app are enticed into calling the financial institution by offering a fake low-interest loan. At the point where the phone call actually happens, a pre-recorded audio with instructions from the real bank is played. Simultaneously, the malware conceals the phone number with the bank's legitimate number to give the impression that a conversation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SVB account holders targeted with phishing, scams<a href="https://www.helpnetsecurity.com/2023/03/17/svb-account-holders-phishing-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After news broke late last week about Silicon Valley Bank’s bank run and collapse, security researchers started warning SVB account holders about incoming SVB-related scams and phishing attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lookalike Telegram and WhatsApp Websites Distributing Cryptocurrency Stealing Malware<a href="https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Copycat websites for instant messaging apps like Telegram and WhatApp are being used to distribute trojanized versions and infect Android and Windows users with cryptocurrency clipper malware . "All of them are after victims' cryptocurrency funds, with several targeting cryptocurrency wallets," ESET researchers Lukáš Štefanko and Peter Strýček said in a new analysis. While the first instance of clipper malware on the Google Play Store dates back to 2019, the development marks the first time Android-based clipper malware has been built into instant messaging apps. "Moreover, some of these apps use optical character recognition (OCR) to recognize text from screenshots stored on the compromised devices, which is another first for Android malware," the Slovak cybersecurity firm added. The attack chain begins with unsuspecting users clicking on fraudulent ads on Google search results that lead to hundreds of sketchy YouTube channels, which then direct them
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

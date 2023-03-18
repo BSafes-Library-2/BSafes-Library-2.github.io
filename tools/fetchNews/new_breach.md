@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hitachi Energy disclosed a data breach, the Clop ransomware gang stole the company data by exploiting the recent GoAnywhere zero-day flaw.
+Hitachi Energy disclosed a data breach, the company was hacked by the Clop ransomware gang that stole its data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Tuscaloosa's NorthStar Paramedic Services Could Impact 82,000 Patients<a href="https://tuscaloosathread.com/data-breach-at-tuscaloosas-northstar-paramedic-services-could-impact-82000-patients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, NorthStar Emergency Paramedic Services took to its website to report the problem and mailed physical letters to patients who may have been impacted by the breach. The company said they became aware of the potential intrusion in September.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

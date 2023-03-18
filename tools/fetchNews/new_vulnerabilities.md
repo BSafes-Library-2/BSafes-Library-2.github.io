@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoLang-Based HinataBot Exploiting Router and Server Flaws for DDoS Attacks<a href="https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based botnet dubbed&nbsp; HinataBot &nbsp;has been observed to leverage known flaws to compromise routers and servers and use them to stage distributed denial-of-service (DDoS) attacks. "The malware binaries appear to have been named by the malware author after a character from the popular anime series, Naruto, with file name structures such as 'Hinata-<os>-<architecture>,'" Akamai&nbsp; said &nbsp;in a technical report. Among the methods used to distribute the malware are the exploitation of exposed Hadoop YARN servers and security flaws in Realtek SDK devices ( CVE-2014-8361 )and Huawei HG532 routers ( CVE-2017-17215 , CVSS score: 8.8). Unpatched vulnerabilities and weak credentials have been a low-hanging fruit for attackers, representing an easy, well-documented entry point that does not require sophisticated social engineering tactics or other methods. The threat actors behind HinataBot are said to have been active since at least December 2022, with the
+</architecture></os></details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers 18 Severe Security Vulnerabilities in Samsung Exynos Chips<a href="https://thehackernews.com/2023/03/google-uncovers-18-severe-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is calling attention to a set of severe security flaws in Samsung's Exynos chips, some of which could be exploited remotely to completely compromise a phone without requiring any user interaction. The 18 zero-day vulnerabilities affect a wide range of Android smartphones from Samsung, Vivo, Google, wearables using the Exynos W920 chipset, and vehicles equipped with the Exynos Auto T5123 chipset. Four of the 18 flaws make it possible for a threat actor to achieve internet-to-Samsung, Vivo, and Google, as well as wearables using the Exynos W920 chipset and vehicleses in late 2022 and early 2023, said. "[The] four vulnerabilities allow an attacker to remotely compromise a phone at the baseband level with no user interaction, and require only that the attacker know the victim's phone number," Tim Willis, head of Google Project Zero,&nbsp; said . In doing so, a threat actor could gain entrenched access to cellular information passing in and out of the targeted devi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

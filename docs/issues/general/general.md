@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Russia regrouping for renewed cyberwar?<a href="https://blogs.microsoft.com/on-the-issues/2023/03/15/russia-ukraine-cyberwarfare-threat-intelligence-center/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of late November 2022, Microsoft and other security firms identified a new form of ransomware, called “Sullivan”, deployed against Ukrainian targets, in addition to the “Prestige” ransomware Russia deployed in Ukraine and Poland in October 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

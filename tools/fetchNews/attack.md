@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple threat actors exploited Progress Telerik bug to breach U.S. federal agency<a href="https://securityaffairs.com/143557/hacking/progress-telerik-bug-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors exploited a critical flaw in Progress Telerik to breach an unnamed US federal agency, said the US government.
+A&nbsp;joint advisory&nbsp;issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Hacker Groups Exploit 3-Year-Old Vulnerability to Breach U.S. Federal Agency<a href="https://thehackernews.com/2023/03/multiple-hacker-groups-exploit-3-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors, including a nation-state group, exploited a critical three-year-old security flaw in Progress Telerik to break into an unnamed federal entity in the U.S. The&nbsp; disclosure &nbsp;comes from a&nbsp; joint advisory &nbsp;issued by the Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Multi-State Information Sharing and Analysis Center (MS-ISAC). "Exploitation of this vulnerability allowed malicious actors to successfully execute remote code on a federal civilian executive branch (FCEB) agency's Microsoft Internet Information Services (IIS) web server," the agencies&nbsp; said . The indicators of compromise (IoCs) associated with the digital break-in were identified from November 2022 through early January 2023. Tracked as&nbsp; CVE-2019-18935 &nbsp;(CVSS score: 9.8), the issue relates to a .NET&nbsp; deserialization vulnerability &nbsp;affecting Progress Telerik UI for ASP.NET AJAX that, if left unpatched, could&nbsp; lead to remote code exec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

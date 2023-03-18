@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Security Category Addresses Web-borne Threats<a href="https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the modern corporate IT environment, which relies on cloud connectivity, global connections and large volumes of data, the browser is now the most important work interface. The browser connects employees to managed resources, devices to the web, and the on-prem environment to the cloud one. Yet, and probably unsurprisingly, this browser prominence has significantly increased the number of threats that adversaries target the browser with. Attackers are now leveraging the browser's core functionality - rendering and executing web pages for users to access - to perform attacks. The browser is now an attack surface, as well as an attack vector for malicious access to corporate SaaS and web applications through account takeover and the use of compromised credentials. To address this issue, a new guide was recently published ( Download Here ). It analyzes what a solution to these threats would look like. The guide, "Protection from web-borne threats starts with Browser Securit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

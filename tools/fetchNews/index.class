@@ -34,6 +34,330 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bee-Ware of Trigona, An Emerging Ransomware Strain<a href="https://unit42.paloaltonetworks.com/trigona-ransomware-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By analyzing Trigona ransomware binaries and ransom notes from VirusTotal, as well as information from incident response, Unit 42 determined that Trigona was very active during December 2022, with at least 15 potential victims being compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York<a href="https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. law enforcement authorities have arrested a New York man in connection with running the infamous BreachForums hacking forum under the online alias " Pompompurin ." The development, first reported by  Bloomberg Law , comes after News 12 Westchester, earlier this week, said that federal investigators "spent hours inside and outside of a home in Peekskill." "At one point, investigators were seen removing several bags of evidence from the house," the New York-based local news service  added . According  to an  affidavit  filed by the Federal Bureau of Investigation (FBI), the suspect identified himself as Conor Brian Fitzpatrick and that he admitted to being the owner of the BreachForums website. "When I arrested the defendant on March 15, 2023, he stated to me in substance and in part that: a) his name was Conor Brian Fitzpatrick; b) he used the alias 'pompompurin,' and c) he was the owner and administrator of 'BreachForums,'&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Ransomware: Inside the Cyberthreat That's Costing Millions<a href="https://thehackernews.com/2023/03/lockbit-30-ransomware-inside.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. government agencies have released a joint cybersecurity advisory detailing the indicators of compromise (IoCs) and tactics, techniques, and procedures (TTPs) associated with the notorious  LockBit 3.0 ransomware . "The LockBit 3.0 ransomware operations function as a Ransomware-as-a-Service (RaaS) model and is a continuation of previous versions of the ransomware, LockBit 2.0, and LockBit," the authorities  said . The alert comes courtesy of the U.S. Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State Information Sharing & Analysis Center (MS-ISAC). Since emerging in late 2019, the  LockBit actors  have invested significant  technical efforts  to develop and fine-tune its malware, issuing two major updates — LockBit 2.0, released in mid-2021, and  LockBit 3.0 , released in June 2022. The two versions are also known as LockBit Red and LockBit Black, respectively. "LockBit 3.0 accepts addition
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hitachi Energy disclosed a data breach, the Clop ransomware gang stole the company data by exploiting the recent GoAnywhere zero-day flaw.
+Hitachi Energy disclosed a data breach, the company was hacked by the Clop ransomware gang that stole its data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based Tick APT Deploys Custom Malware and Use Other Tools<a href="https://cyware.com/news/china-based-tick-apt-deploys-custom-malware-and-use-other-tools-b4faca0c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers found that the Tick cyberespionage group compromised an East Asian Data-Loss Prevention (DLP) company in 2021 and used a wide range of tools in similar attacks. In one of its campaigns, it used a tampered version of a legitimate app called Q-Dir to drop an open-source VBScript back ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HinataBot, a new Go-Based DDoS botnet in the threat landscape<a href="https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based DDoS botnet, tracked as HinataBot, targets routers and servers by exploiting known vulnerabilities.
+Akamai researchers spotted a new DDoS Golang-based botnet, dubbed HinataBot, which has been observed exploiting known flaws...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Russia regrouping for renewed cyberwar?<a href="https://blogs.microsoft.com/on-the-issues/2023/03/15/russia-ukraine-cyberwarfare-threat-intelligence-center/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of late November 2022, Microsoft and other security firms identified a new form of ransomware, called “Sullivan”, deployed against Ukrainian targets, in addition to the “Prestige” ransomware Russia deployed in Ukraine and Poland in October 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps<a href="https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Android voice phishing (aka vishing) malware campaign known as FakeCalls has reared its head once again to target South Korean users under the guise of over 20 popular financial apps. "FakeCalls malware possesses the functionality of a Swiss army knife, able not only to conduct its primary aim but also to extract private data from the victim's device," cybersecurity firm Check Point said . FakeCalls was previously documented by Kaspersky in April 2022, describing the malware's capabilities to imitate phone conversations with a bank customer support agent. In the observed attacks, users who install the rogue banking app are enticed into calling the financial institution by offering a fake low-interest loan. At the point where the phone call actually happens, a pre-recorded audio with instructions from the real bank is played. Simultaneously, the malware conceals the phone number with the bank's legitimate number to give the impression that a conversation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 Insider Threats to Look Out For in 2023<a href="https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unquestionably, 'insider threats' is one of the most neglected aspects of cybersecurity and some companies fail to recognize associated dangers.
+Cyberattacks are growing more complex as technology advances. Many businesses concentrate their cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SVB account holders targeted with phishing, scams<a href="https://www.helpnetsecurity.com/2023/03/17/svb-account-holders-phishing-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After news broke late last week about Silicon Valley Bank’s bank run and collapse, security researchers started warning SVB account holders about incoming SVB-related scams and phishing attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+THN Webinar: 3 Research-Backed Ways to Secure Your Identity Perimeter<a href="https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Think of the typical portrayal of a cyberattack. Bad guy pounding furiously on a keyboard, his eyes peeking out from under a dark hoodie. At long last, his efforts pay off and he hits the right combination of keys. "I'm in!" he shouts in triumph. Clearly, there are many problems with this scenario – and it's not just the hoodie. What's even more inaccurate is that most cyber attackers today do not rely on unsophisticated methods like brute force. Instead, they target users directly through social engineering, spearphishing and business email compromise (BEC). In light of this, it can be said that cybercriminals no longer break into corporate systems; instead, they log in with valid user credentials. In this landscape of highly targeted cyberattacks, the identity perimeter has emerged as a crucial battlefield. Unfortunately, too many businesses continue to rely on outdated security strategies and tools that leave their users and sensitive systems unprotected. S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT likely linked to Fortinet zero-day attacks<a href="https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Chinese threat actor group is behind attacks on government organizations exploiting a Fortinet zero-day flaw (CVE-2022-41328).
+A suspected China-linked group is exploiting a Fortinet zero-day vulnerability, tracked as CVE-2022-41328, in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Tuscaloosa's NorthStar Paramedic Services Could Impact 82,000 Patients<a href="https://tuscaloosathread.com/data-breach-at-tuscaloosas-northstar-paramedic-services-could-impact-82000-patients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday, NorthStar Emergency Paramedic Services took to its website to report the problem and mailed physical letters to patients who may have been impacted by the breach. The company said they became aware of the potential intrusion in September.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GoLang-Based HinataBot Exploiting Router and Server Flaws for DDoS Attacks<a href="https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based botnet dubbed  HinataBot  has been observed to leverage known flaws to compromise routers and servers and use them to stage distributed denial-of-service (DDoS) attacks. "The malware binaries appear to have been named by the malware author after a character from the popular anime series, Naruto, with file name structures such as 'Hinata-<OS>-<Architecture>,'" Akamai  said  in a technical report. Among the methods used to distribute the malware are the exploitation of exposed Hadoop YARN servers and security flaws in Realtek SDK devices ( CVE-2014-8361 )and Huawei HG532 routers ( CVE-2017-17215 , CVSS score: 8.8). Unpatched vulnerabilities and weak credentials have been a low-hanging fruit for attackers, representing an easy, well-documented entry point that does not require sophisticated social engineering tactics or other methods. The threat actors behind HinataBot are said to have been active since at least December 2022, with the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Develops New Kill Chain Thesis<a href="https://www.securityweek.com/meta-develops-new-kill-chain-thesis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Meta approach starts from the assumption that despite the asynchronous nature of attacks, there are still meaningful commonalities, especially where those commonalities can be abstracted from the platform or hardware being attacked.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Security Category Addresses Web-borne Threats<a href="https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the modern corporate IT environment, which relies on cloud connectivity, global connections and large volumes of data, the browser is now the most important work interface. The browser connects employees to managed resources, devices to the web, and the on-prem environment to the cloud one. Yet, and probably unsurprisingly, this browser prominence has significantly increased the number of threats that adversaries target the browser with. Attackers are now leveraging the browser's core functionality - rendering and executing web pages for users to access - to perform attacks. The browser is now an attack surface, as well as an attack vector for malicious access to corporate SaaS and web applications through account takeover and the use of compromised credentials. To address this issue, a new guide was recently published ( Download Here ). It analyzes what a solution to these threats would look like. The guide, "Protection from web-borne threats starts with Browser Securit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized WhatsApp and Telegram Apps Go After Victims' Cryptocurrency Wallets<a href="https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are going after victims’ cryptocurrency funds using trojanized Telegram and WhatsApp applications for Android and Windows. The malware can switch cryptocurrency wallet addresses sent in chat messages with attackers' wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lookalike Telegram and WhatsApp Websites Distributing Cryptocurrency Stealing Malware<a href="https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Copycat websites for instant messaging apps like Telegram and WhatApp are being used to distribute trojanized versions and infect Android and Windows users with cryptocurrency clipper malware . "All of them are after victims' cryptocurrency funds, with several targeting cryptocurrency wallets," ESET researchers Lukáš Štefanko and Peter Strýček said in a new analysis. While the first instance of clipper malware on the Google Play Store dates back to 2019, the development marks the first time Android-based clipper malware has been built into instant messaging apps. "Moreover, some of these apps use optical character recognition (OCR) to recognize text from screenshots stored on the compromised devices, which is another first for Android malware," the Slovak cybersecurity firm added. The attack chain begins with unsuspecting users clicking on fraudulent ads on Google search results that lead to hundreds of sketchy YouTube channels, which then direct them
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter Vivern APT Group Targeting Indian, Lithuanian, Slovakian, and Vatican Officials<a href="https://thehackernews.com/2023/03/winter-vivern-apt-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat known as  Winter Vivern  has been linked to campaigns targeting government officials in India, Lithuania, Slovakia, and the Vatican since 2021. The activity targeted Polish government agencies, the Ukraine Ministry of Foreign Affairs, the Italy Ministry of Foreign Affairs, and individuals within the Indian government, SentinelOne said in a report shared with The Hacker News. "Of particular interest is the APT's targeting of private businesses, including telecommunications organizations that support Ukraine in the ongoing war," senior threat researcher Tom Hegel  said . Winter Vivern, also tracked as UAC-0114,  drew attention  last month after the Computer Emergency Response Team of Ukraine (CERT-UA) detailed a new malware campaign aimed at state authorities of Ukraine and Poland to deliver a piece of malware dubbed Aperetif. Previous public reports chronicling the group show that it has leveraged weaponized Microsoft Excel documents con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers 18 Severe Security Vulnerabilities in Samsung Exynos Chips<a href="https://thehackernews.com/2023/03/google-uncovers-18-severe-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is calling attention to a set of severe security flaws in Samsung's Exynos chips, some of which could be exploited remotely to completely compromise a phone without requiring any user interaction. The 18 zero-day vulnerabilities affect a wide range of Android smartphones from Samsung, Vivo, Google, wearables using the Exynos W920 chipset, and vehicles equipped with the Exynos Auto T5123 chipset. Four of the 18 flaws make it possible for a threat actor to achieve internet-to-Samsung, Vivo, and Google, as well as wearables using the Exynos W920 chipset and vehicleses in late 2022 and early 2023, said. "[The] four vulnerabilities allow an attacker to remotely compromise a phone at the baseband level with no user interaction, and require only that the attacker know the victim's phone number," Tim Willis, head of Google Project Zero,  said . In doing so, a threat actor could gain entrenched access to cellular information passing in and out of the targeted devi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

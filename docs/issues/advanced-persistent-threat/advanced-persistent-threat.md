@@ -8,6 +8,49 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based Tick APT Deploys Custom Malware and Use Other Tools<a href="https://cyware.com/news/china-based-tick-apt-deploys-custom-malware-and-use-other-tools-b4faca0c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers found that the Tick cyberespionage group compromised an East Asian Data-Loss Prevention (DLP) company in 2021 and used a wide range of tools in similar attacks. In one of its campaigns, it used a tampered version of a legitimate app called Q-Dir to drop an open-source VBScript back ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT likely linked to Fortinet zero-day attacks<a href="https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Chinese threat actor group is behind attacks on government organizations exploiting a Fortinet zero-day flaw (CVE-2022-41328).
+A suspected China-linked group is exploiting a Fortinet zero-day vulnerability, tracked as CVE-2022-41328, in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter Vivern APT Group Targeting Indian, Lithuanian, Slovakian, and Vatican Officials<a href="https://thehackernews.com/2023/03/winter-vivern-apt-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat known as&nbsp; Winter Vivern &nbsp;has been linked to campaigns targeting government officials in India, Lithuania, Slovakia, and the Vatican since 2021. The activity targeted Polish government agencies, the Ukraine Ministry of Foreign Affairs, the Italy Ministry of Foreign Affairs, and individuals within the Indian government, SentinelOne said in a report shared with The Hacker News. "Of particular interest is the APT's targeting of private businesses, including telecommunications organizations that support Ukraine in the ongoing war," senior threat researcher Tom Hegel&nbsp; said . Winter Vivern, also tracked as UAC-0114,&nbsp; drew attention &nbsp;last month after the Computer Emergency Response Team of Ukraine (CERT-UA) detailed a new malware campaign aimed at state authorities of Ukraine and Poland to deliver a piece of malware dubbed Aperetif. Previous public reports chronicling the group show that it has leveraged weaponized Microsoft Excel documents con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

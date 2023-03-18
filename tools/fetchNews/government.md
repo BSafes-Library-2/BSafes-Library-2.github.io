@@ -8,6 +8,65 @@ nav_order: 900075
 
 ## Government
 ---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft sheds light on a year of Russian hybrid warfare in Ukraine<a href="https://securityaffairs.com/143570/cyber-warfare-2/russian-hybrid-warfare-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked threat actors targeted at least 17 European nations in 2023, and 74 countries since the start of the invasion of Ukraine.
+Microsoft revealed that Russia-linked threat actors targeted at least 17 European nations between January and mid-February...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Polish intelligence dismantled a network of Russian spies<a href="https://securityaffairs.com/143564/intelligence/polish-intelligence-russian-spies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish intelligence dismantled a cell of Russian spies that gathered info on military equipment deliveries to Ukraine via the EU member.
+Polish counter-intelligence has dismantled a cell of Russian spies that gathered information on the provisioning...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Adobe ColdFusion bug to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/143553/security/adobe-coldfusion-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added an actively exploited vulnerability in Adobe ColdFusion to its Known Exploited Vulnerabilities Catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical vulnerability in Adobe ColdFusion, tracked as&nbsp;CVE-2023-26360&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA says federal civilian agency hacked by nation-state and criminal hacking groups<a href="https://cyberscoop.com/cisa-federal-civilian-agency-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the alert, both the unnamed nation-backed hacking group and the criminal group dubbed XE Group exploited known vulnerabilities in Progress Telerik software located in the unnamed government agency’s Microsoft IIS web server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
