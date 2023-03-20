@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2023
+March 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 411 by Pierluigi Paganini<a href="https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html"> Full Text</a>
@@ -52,7 +52,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2023
+March 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lowe’s Market chain leaves client data up for grabs<a href="https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2023
+March 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NBA is warning fans of a data breach after a third-party newsletter service hack<a href="https://securityaffairs.com/143693/data-breach/nba-data-breach.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Actively Exploited Microsoft Outlook Vulnerability Imperils Microsoft 365 Apps<a href="https://heimdalsecurity.com/blog/microsoft-outlook-vulnerability/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack<a href="https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot Laying the Foundations for Black Basta Ransomware Activity<a href="https://www.reliaquest.com/blog/qbot-black-basta-ransomware/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html?&web_view=true"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government Warns Organizations of LockBit 3.0 Ransomware Attacks<a href="https://www.securityweek.com/us-government-warns-organizations-of-lockbit-3-0-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky released a new decryptor for Conti-based ransomware<a href="https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html"> Full Text</a>
@@ -183,7 +183,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeting Security and Network Appliances With Custom Backdoors<a href="https://www.bankinfosecurity.com/chinese-hackers-targeting-security-network-appliances-a-21467?&web_view=true"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt agencies released a joint alert on the Lockbit 3.0 ransomware<a href="https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html"> Full Text</a>
@@ -216,7 +216,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds arrested Pompompurin, the alleged owner of BreachForums<a href="https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html"> Full Text</a>

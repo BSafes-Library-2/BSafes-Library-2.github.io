@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Warns Organizations of LockBit 3.0 Ransomware Attacks<a href="https://www.securityweek.com/us-government-warns-organizations-of-lockbit-3-0-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also referred to as LockBit Black, LockBit 3.0 has a more modular architecture compared to its previous variants, and supports various arguments that modify its behavior after deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt agencies released a joint alert on the Lockbit 3.0 ransomware<a href="https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government released a joint advisory that provides technical details about the operation of the Lockbit 3.0 ransomware gang.
+The U.S. Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

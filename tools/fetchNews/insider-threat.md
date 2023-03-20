@@ -8,6 +8,21 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 Insider Threats to Look Out For in 2023<a href="https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unquestionably, 'insider threats' is one of the most neglected aspects of cybersecurity and some companies fail to recognize associated dangers.
+Cyberattacks are growing more complex as technology advances. Many businesses concentrate their cybersecurity...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

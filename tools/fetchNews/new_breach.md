@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+March 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lowe’s Market chain leaves client data up for grabs<a href="https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration on a website owned by the US-based Lowe’s Market grocery store chain could have allowed threat actors to gain control of its systems.
+On February 7, the Cybernews research team discovered a misconfiguration on the Lowe's Market...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NBA is warning fans of a data breach after a third-party newsletter service hack<a href="https://securityaffairs.com/143693/data-breach/nba-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NBA (National Basketball Association) disclosed a data breach after a third-party firm providing a newsletter service was breached.
+The NBA (National Basketball Association) is notifying followers of a data breach after a third-party company providing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

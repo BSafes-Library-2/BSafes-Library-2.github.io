@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York<a href="https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. law enforcement authorities have arrested a New York man in connection with running the infamous BreachForums hacking forum under the online alias " Pompompurin ." The development, first reported by&nbsp; Bloomberg Law , comes after News 12 Westchester, earlier this week, said that federal investigators "spent hours inside and outside of a home in Peekskill." "At one point, investigators were seen removing several bags of evidence from the house," the New York-based local news service&nbsp; added . According &nbsp;to an&nbsp; affidavit &nbsp;filed by the Federal Bureau of Investigation (FBI), the suspect identified himself as Conor Brian Fitzpatrick and that he admitted to being the owner of the BreachForums website. "When I arrested the defendant on March 15, 2023, he stated to me in substance and in part that: a) his name was Conor Brian Fitzpatrick; b) he used the alias 'pompompurin,' and c) he was the owner and administrator of 'BreachForums,'&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

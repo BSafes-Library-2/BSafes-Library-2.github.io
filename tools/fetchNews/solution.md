@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+THN Webinar: 3 Research-Backed Ways to Secure Your Identity Perimeter<a href="https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Think of the typical portrayal of a cyberattack. Bad guy pounding furiously on a keyboard, his eyes peeking out from under a dark hoodie. At long last, his efforts pay off and he hits the right combination of keys. "I'm in!" he shouts in triumph. Clearly, there are many problems with this scenario – and it's not just the hoodie. What's even more inaccurate is that most cyber attackers today do not rely on unsophisticated methods like brute force. Instead, they target users directly through social engineering, spearphishing and business email compromise (BEC). In light of this, it can be said that cybercriminals no longer break into corporate systems; instead, they log in with valid user credentials. In this landscape of highly targeted cyberattacks, the identity perimeter has emerged as a crucial battlefield. Unfortunately, too many businesses continue to rely on outdated security strategies and tools that leave their users and sensitive systems unprotected. S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Develops New Kill Chain Thesis<a href="https://www.securityweek.com/meta-develops-new-kill-chain-thesis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Meta approach starts from the assumption that despite the asynchronous nature of attacks, there are still meaningful commonalities, especially where those commonalities can be abstracted from the platform or hardware being attacked.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
