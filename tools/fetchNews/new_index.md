@@ -34,7 +34,206 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 411 by Pierluigi Paganini<a href="https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+Kaspersky...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lowe’s Market chain leaves client data up for grabs<a href="https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration on a website owned by the US-based Lowe’s Market grocery store chain could have allowed threat actors to gain control of its systems.
+On February 7, the Cybernews research team discovered a misconfiguration on the Lowe's Market...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NBA is warning fans of a data breach after a third-party newsletter service hack<a href="https://securityaffairs.com/143693/data-breach/nba-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NBA (National Basketball Association) disclosed a data breach after a third-party firm providing a newsletter service was breached.
+The NBA (National Basketball Association) is notifying followers of a data breach after a third-party company providing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actively Exploited Microsoft Outlook Vulnerability Imperils Microsoft 365 Apps<a href="https://heimdalsecurity.com/blog/microsoft-outlook-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered in or around the beginning of March, the Microsoft Outlook vulnerability was found to affect several applications from the Microsoft 365 Apps Enterprise stack, including MS Office 2019, 2016, 2013, and LTSC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack<a href="https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The zero-day exploitation of a now-patched medium-severity security flaw in the Fortinet  FortiOS  operating system has been linked to a suspected Chinese hacking group. Threat intelligence firm Mandiant, which made the attribution, said the activity cluster is part of a broader campaign designed to deploy backdoors onto Fortinet and VMware solutions and maintain persistent access to victim environments. The Google-owned threat intelligence and incident response firm is tracking the malicious operation under its uncategorized moniker  UNC3886 , a China-nexus threat actor. "UNC3886 is an advanced cyber espionage group with unique capabilities in how they operate on-network as well as the tools they utilize in their campaigns," Mandiant researchers  said  in a technical analysis. "UNC3886 has been observed targeting firewall and virtualization technologies which lack EDR support. Their ability to manipulate firewall firmware and exploit a zero-day indicates they have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QBot Laying the Foundations for Black Basta Ransomware Activity<a href="https://www.reliaquest.com/blog/qbot-black-basta-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker’s actions had the whiff of a Black Basta affiliate, with Qbot activity widely reported as being a cornerstone of Black Basta intrusions. Black Basta is a splinter group that emerged after the “Conti” ransomware syndicate was quelled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hitachi Energy immediately launched an investigation into the incident and disconnected the compromised system. The company reported the data breach to law enforcement agencies and data protection watchdog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Warns Organizations of LockBit 3.0 Ransomware Attacks<a href="https://www.securityweek.com/us-government-warns-organizations-of-lockbit-3-0-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also referred to as LockBit Black, LockBit 3.0 has a more modular architecture compared to its previous variants, and supports various arguments that modify its behavior after deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky released a new decryptor for Conti-based ransomware<a href="https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky released a new version of the decryptor for the Conti ransomware that is based on the previously leaked source code of the malware.
+Kaspersky has published a new version of a decryption tool for the Conti ransomware based on previously leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting Security and Network Appliances With Custom Backdoors<a href="https://www.bankinfosecurity.com/chinese-hackers-targeting-security-network-appliances-a-21467?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hackers exploited a critical Fortinet bug and used custom networking malware to steal credentials and maintain network access, according to Mandiant. Victims include defense, telecom, and technology firms, as well as government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt agencies released a joint alert on the Lockbit 3.0 ransomware<a href="https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government released a joint advisory that provides technical details about the operation of the Lockbit 3.0 ransomware gang.
+The U.S. Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds arrested Pompompurin, the alleged owner of BreachForums<a href="https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. law enforcement arrested this week a US citizen suspected to be Pompompurin, the notorious owner of the BreachForums cybercrime forum.
+U.S. law enforcement arrested this week a US man that goes online with the moniker "Pompompurin," the US citizen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bee-Ware of Trigona, An Emerging Ransomware Strain<a href="https://unit42.paloaltonetworks.com/trigona-ransomware-update/?&web_view=true"> Full Text</a>
@@ -50,7 +249,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pompompurin Unmasked: Infamous BreachForums Mastermind Arrested in New York<a href="https://thehackernews.com/2023/03/pompompurin-unmasked-infamous.html"> Full Text</a>
@@ -82,7 +281,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html"> Full Text</a>
@@ -99,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-based Tick APT Deploys Custom Malware and Use Other Tools<a href="https://cyware.com/news/china-based-tick-apt-deploys-custom-malware-and-use-other-tools-b4faca0c"> Full Text</a>
@@ -115,7 +314,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HinataBot, a new Go-Based DDoS botnet in the threat landscape<a href="https://securityaffairs.com/143618/cyber-crime/hinatabot-go-based-ddos-botnet.html"> Full Text</a>
@@ -132,7 +331,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Russia regrouping for renewed cyberwar?<a href="https://blogs.microsoft.com/on-the-issues/2023/03/15/russia-ukraine-cyberwarfare-threat-intelligence-center/?&web_view=true"> Full Text</a>
@@ -148,7 +347,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FakeCalls Vishing Malware Targets South Korean Users via Popular Financial Apps<a href="https://thehackernews.com/2023/03/fakecalls-vishing-malware-targets-south.html"> Full Text</a>
@@ -164,7 +363,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 5 Insider Threats to Look Out For in 2023<a href="https://securityaffairs.com/143611/security/top-5-insider-threats-2023.html"> Full Text</a>
@@ -181,7 +380,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SVB account holders targeted with phishing, scams<a href="https://www.helpnetsecurity.com/2023/03/17/svb-account-holders-phishing-scams/?&web_view=true"> Full Text</a>
@@ -197,7 +396,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 THN Webinar: 3 Research-Backed Ways to Secure Your Identity Perimeter<a href="https://thehackernews.com/2023/03/thn-webinar-3-research-backed-ways-to.html"> Full Text</a>
@@ -213,7 +412,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT likely linked to Fortinet zero-day attacks<a href="https://securityaffairs.com/143594/apt/china-fortinet-zero-day-attacks.html"> Full Text</a>
@@ -230,7 +429,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach at Tuscaloosa's NorthStar Paramedic Services Could Impact 82,000 Patients<a href="https://tuscaloosathread.com/data-breach-at-tuscaloosas-northstar-paramedic-services-could-impact-82000-patients/?&web_view=true"> Full Text</a>
@@ -246,7 +445,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GoLang-Based HinataBot Exploiting Router and Server Flaws for DDoS Attacks<a href="https://thehackernews.com/2023/03/new-golang-based-hinatabot-exploiting.html"> Full Text</a>
@@ -262,7 +461,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Develops New Kill Chain Thesis<a href="https://www.securityweek.com/meta-develops-new-kill-chain-thesis/?&web_view=true"> Full Text</a>
@@ -278,7 +477,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Security Category Addresses Web-borne Threats<a href="https://thehackernews.com/2023/03/a-new-security-category-addresses-web.html"> Full Text</a>
@@ -294,7 +493,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized WhatsApp and Telegram Apps Go After Victims' Cryptocurrency Wallets<a href="https://www.welivesecurity.com/2023/03/16/not-so-private-messaging-trojanized-whatsapp-telegram-cryptocurrency-wallets/?&web_view=true"> Full Text</a>
@@ -310,7 +509,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lookalike Telegram and WhatsApp Websites Distributing Cryptocurrency Stealing Malware<a href="https://thehackernews.com/2023/03/lookalike-telegram-and-whatsapp.html"> Full Text</a>
@@ -326,7 +525,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winter Vivern APT Group Targeting Indian, Lithuanian, Slovakian, and Vatican Officials<a href="https://thehackernews.com/2023/03/winter-vivern-apt-group-targeting.html"> Full Text</a>
@@ -342,7 +541,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 17, 2023
+March 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Uncovers 18 Severe Security Vulnerabilities in Samsung Exynos Chips<a href="https://thehackernews.com/2023/03/google-uncovers-18-severe-security.html"> Full Text</a>
