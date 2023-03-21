@@ -34,7 +34,252 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2023
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Allegedly Connected to SCARLETEEL Decoy Attack<a href="https://cyware.com/news/teamtnt-allegedly-connected-to-scarleteel-decoy-attack-3684da62"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SCARLETEEL sophisticated hacking operation, which targets Kubernetes hosted on Amazon to steal confidential proprietary data, also suspect to have a TeamTNT touch. Despite all the similarities, researchers could not connect the two malware with full confidence. According to them, it is possible ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DotRunpeX Malware Delivers Multiple Malware Families via Malicious Ads<a href="https://thehackernews.com/2023/03/new-dotrunpex-malware-delivers-multiple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new piece of malware dubbed  dotRunpeX  is being used to distribute numerous known malware families such as  Agent Tesla ,  Ave Maria ,  BitRAT ,  FormBook ,  LokiBot ,  NetWire ,  Raccoon Stealer ,  RedLine Stealer ,  Remcos ,  Rhadamanthys , and  Vidar . "DotRunpeX is a new injector written in .NET using the Process Hollowing technique and used to infect systems with a variety of known malware families," Check Point  said  in a report published last week. Said to be in active development, dotRunpeX arrives as a second-stage malware in the infection chain, often deployed via a downloader (aka loader) that's transmitted through phishing emails as malicious attachments. Alternatively, it's known to leverage malicious Google Ads on search result pages to direct unsuspecting users searching for popular software such as AnyDesk and LastPass to copycat sites hosting trojanized installers. The latest DotRunpeX artifacts, first spotted in October 2022, add an extra o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acropalypse flaw in Google Pixel’s Markup tool allowed the recovery of edited images<a href="https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Acropalypse flaw in the Markup tool of Google Pixel allowed the partial recovery of edited or redacted screenshots and images.
+Security researchers Simon Aarons and David Buchanan have discovered a vulnerability, named 'Acropalypse,' in the Markup...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Killnet Aggressively Targets Healthcare Organizations<a href="https://cyware.com/news/killnet-aggressively-targets-healthcare-organizations-e97c1565"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KillNet, a cybercriminal collective with ties to Russia, was spotted targeting Microsoft Azure-hosted healthcare apps for more than three months. The highest number of these attacks were launched in February, targeting hospitals, pharma, life science, healthcare insurance, and health services in mo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mispadu Banking Trojan Targets Latin America: 90,000+ Credentials Stolen<a href="https://thehackernews.com/2023/03/mispadu-banking-trojan-targets-latin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A banking trojan dubbed  Mispadu  has been linked to multiple spam campaigns targeting countries like Bolivia, Chile, Mexico, Peru, and Portugal with the goal of stealing credentials and delivering other payloads. The activity, which commenced in August 2022, is currently ongoing, Ocelot Team from Latin American cybersecurity firm Metabase Q said in a report shared with The Hacker News. Mispadu  (aka URSA) was  first documented  by ESET in November 2019, describing its ability to perpetrate monetary and credential theft and act as a backdoor by taking screenshots and capturing keystrokes. "One of their main strategies is to compromise legitimate websites, searching for vulnerable versions of WordPress, to turn them into their command-and-control server to spread malware from there, filtering out countries they do not wish to infect, dropping different type of malware based on the country being infected," researchers Fernando García and Dan Regalado said. It's also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors abuse Adobe Acrobat Sign to distribute RedLine info-stealer<a href="https://securityaffairs.com/143738/hacking/malware-via-adobe-acrobat-sign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are abusing the legitimate Adobe Acrobat Sign service to distribute the RedLine information stealer.
+Avast researchers reported that threat actors are abusing the legitimate Adobe Acrobat Sign service to distribute the RedLine information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Data Breaches, Lawsuits Hit Two Arkansas Hospitals<a href="https://www.arkansasbusiness.com/article/143734/after-data-breaches-lawsuits-hit-two-arkansas-hospitals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since January, four lawsuits have been filed against both Howard Memorial Hospital of Nashville and against the Mena Hospital Commission, which operates as the Mena Regional Health System.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cyber Platform Lab 1 Decodes Dark Web Data to Uncover Hidden Supply Chain Breaches<a href="https://thehackernews.com/2023/03/new-cyber-platform-lab-1-decodes-dark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2022 was the year when inflation hit world economies, except in one corner of the global marketplace – stolen data. Ransomware payments fell by over 40% in 2022 compared to 2021. More organisations chose not to pay ransom demands, according to findings by blockchain firm Chainalysis. Nonetheless, stolen data has value beyond a price tag, and in risky ways you may not expect. Evaluating stolen records is what  Lab 1, a new cyber monitoring platform , believes will make a big difference for long-term cybersecurity resilience. Think of data value this way:  Stolen credentials can become future phishing attacks Logins for adult websites are potential extortion attempts Travel and location data are a risk to VIPs and senior leadership, And so on… Hackers could retaliate for non-payment by simply posting their loot to forums where the data will be available for further enrichment and exploitation.  Shining a light on dark places Even though your company may not have suffered a di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet is back after a three-month hiatus<a href="https://securityaffairs.com/143722/cyber-crime/emotet-microsoft-onenote-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous Emotet malware is back after a short hiatus, threat actors are spreading it via Microsoft OneNote email attachments.
+The Emotet malware returns after a three-month hiatus and threat actors are distributing it via Microsoft OneNote email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin ATM Maker General Bytes Shuts Cloud Service After Security Breach<a href="https://cointelegraph.com/news/bitcoin-atm-maker-shuts-cloud-service-after-user-hot-wallets-compromised?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a patch release bulletin, General Bytes warned that a hacker has been able to remotely upload and run a Java application via the master service interface into its terminals aimed at stealing user information and sending funds from hot wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Shed Light on CatB Ransomware's Evasion Techniques<a href="https://thehackernews.com/2023/03/researchers-shed-light-on-catb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the CatB ransomware operation have been observed using a technique called  DLL search order hijacking  to evade detection and launch the payload. CatB, also referred to as CatB99 and Baxtoy, emerged late last year and is said to be an "evolution or direct rebrand" of another ransomware strain known as Pandora based on code-level similarities. It's worth noting that the use of Pandora has been attributed to  Bronze Starlight  (aka DEV-0401 or Emperor Dragonfly), a China-based threat actor that's known to employ  short-lived ransomware families  as a ruse to likely conceal its true objectives.  One of the key defining characteristics of CatB is its reliance on DLL hijacking via a legitimate service called Microsoft Distributed Transaction Coordinator ( MSDTC ) to extract and launch the ransomware payload. "Upon execution, CatB payloads rely on DLL search order hijacking to drop and load the malicious payload," SentinelOne researc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play ransomware gang hit Dutch shipping firm Royal Dirkzwager<a href="https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch maritime logistics company Royal Dirkzwager suffered a ransomware attack, the company was hit by the Play ransomware gang.
+The Play ransomware group hit the Dutch maritime logistics company Royal Dirkzwager.
+Royal Dirkzwager is specialized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orlando Family Physicians data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/orlando-family-physicians-data-breach-class-action-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement benefits consumers who received a data breach notification from Orlando Family Physicians informing them their personal information or protected health information may have been compromised in a data breach on April 15, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Rises Again: Evades Macro Security via OneNote Attachments<a href="https://thehackernews.com/2023/03/emotet-rises-again-evades-macro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Emotet malware, in its  return after a short hiatus , is now being distributed via  Microsoft OneNote email attachments  in an attempt to bypass macro-based security restrictions and compromise systems. Emotet , linked to a threat actor tracked as Gold Crestwood, Mummy Spider, or TA542, continues to be a potent and resilient threat despite attempts by law enforcement to take it down. A  derivative  of the  Cridex   banking worm  – which was  subsequently   replaced  by  Dridex  around the same time GameOver Zeus was disrupted in 2014 – Emotet has  evolved  into a "monetized platform for other threat actors to run malicious campaigns on a pay-per-install (PPI) model, allowing theft of sensitive data and ransom extortion." While Emotet infections have acted as a  conduit  to deliver Cobalt Strike, IcedID, Qakbot, Quantum ransomware, and TrickBot, its return in late 2021 was  facilitated  by means of TrickBot. "Emotet is known for extended periods of ina
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT security spending to reach nearly $300 billion by 2026<a href="https://www.helpnetsecurity.com/2023/03/20/it-security-spending-2026/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investments in cybersecurity are expected to reach nearly $300 billion in 2026, driven by the ongoing threat of cyberattacks, the demands of providing a secure hybrid work environment, and the need to meet data privacy and governance requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 411 by Pierluigi Paganini<a href="https://securityaffairs.com/143707/breaking-news/security-affairs-newsletter-round-411-by-pierluigi-paganini.html"> Full Text</a>
@@ -52,7 +297,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2023
+March 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lowe’s Market chain leaves client data up for grabs<a href="https://securityaffairs.com/143701/security/lowes-market-chain-data-leak.html"> Full Text</a>
@@ -69,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 19, 2023
+March 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NBA is warning fans of a data breach after a third-party newsletter service hack<a href="https://securityaffairs.com/143693/data-breach/nba-data-breach.html"> Full Text</a>
@@ -86,7 +331,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Actively Exploited Microsoft Outlook Vulnerability Imperils Microsoft 365 Apps<a href="https://heimdalsecurity.com/blog/microsoft-outlook-vulnerability/?&web_view=true"> Full Text</a>
@@ -102,7 +347,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack<a href="https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html"> Full Text</a>
@@ -118,7 +363,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QBot Laying the Foundations for Black Basta Ransomware Activity<a href="https://www.reliaquest.com/blog/qbot-black-basta-ransomware/?&web_view=true"> Full Text</a>
@@ -134,7 +379,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hitachi Energy breached by Clop gang through GoAnywhere Zero-Day exploitation<a href="https://securityaffairs.com/143640/data-breach/hitachi-energy-data-breach.html?&web_view=true"> Full Text</a>
@@ -150,7 +395,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government Warns Organizations of LockBit 3.0 Ransomware Attacks<a href="https://www.securityweek.com/us-government-warns-organizations-of-lockbit-3-0-ransomware-attacks/?&web_view=true"> Full Text</a>
@@ -166,7 +411,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky released a new decryptor for Conti-based ransomware<a href="https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html"> Full Text</a>
@@ -183,7 +428,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Targeting Security and Network Appliances With Custom Backdoors<a href="https://www.bankinfosecurity.com/chinese-hackers-targeting-security-network-appliances-a-21467?&web_view=true"> Full Text</a>
@@ -199,7 +444,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt agencies released a joint alert on the Lockbit 3.0 ransomware<a href="https://securityaffairs.com/143668/breaking-news/lockbit-3-0-ransomware-joint-alert.html"> Full Text</a>
@@ -216,7 +461,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 18, 2023
+March 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds arrested Pompompurin, the alleged owner of BreachForums<a href="https://securityaffairs.com/143656/cyber-crime/breachforums-owner-pompompurin-arrested.html"> Full Text</a>
