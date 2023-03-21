@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploit Fortinet Zero-Day Flaw for Cyber Espionage Attack<a href="https://thehackernews.com/2023/03/chinese-hackers-exploit-fortinet-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The zero-day exploitation of a now-patched medium-severity security flaw in the Fortinet&nbsp; FortiOS &nbsp;operating system has been linked to a suspected Chinese hacking group. Threat intelligence firm Mandiant, which made the attribution, said the activity cluster is part of a broader campaign designed to deploy backdoors onto Fortinet and VMware solutions and maintain persistent access to victim environments. The Google-owned threat intelligence and incident response firm is tracking the malicious operation under its uncategorized moniker&nbsp; UNC3886 , a China-nexus threat actor. "UNC3886 is an advanced cyber espionage group with unique capabilities in how they operate on-network as well as the tools they utilize in their campaigns," Mandiant researchers&nbsp; said &nbsp;in a technical analysis. "UNC3886 has been observed targeting firewall and virtualization technologies which lack EDR support. Their ability to manipulate firewall firmware and exploit a zero-day indicates they have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Targeting Security and Network Appliances With Custom Backdoors<a href="https://www.bankinfosecurity.com/chinese-hackers-targeting-security-network-appliances-a-21467?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hackers exploited a critical Fortinet bug and used custom networking malware to steal credentials and maintain network access, according to Mandiant. Victims include defense, telecom, and technology firms, as well as government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

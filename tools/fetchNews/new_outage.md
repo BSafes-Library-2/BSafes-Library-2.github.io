@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitcoin ATM Maker General Bytes Shuts Cloud Service After Security Breach<a href="https://cointelegraph.com/news/bitcoin-atm-maker-shuts-cloud-service-after-user-hot-wallets-compromised?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a patch release bulletin, General Bytes warned that a hacker has been able to remotely upload and run a Java application via the master service interface into its terminals aimed at stealing user information and sending funds from hot wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

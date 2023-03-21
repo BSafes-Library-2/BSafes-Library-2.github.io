@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Killnet Aggressively Targets Healthcare Organizations<a href="https://cyware.com/news/killnet-aggressively-targets-healthcare-organizations-e97c1565"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KillNet, a cybercriminal collective with ties to Russia, was spotted targeting Microsoft Azure-hosted healthcare apps for more than three months. The highest number of these attacks were launched in February, targeting hospitals, pharma, life science, healthcare insurance, and health services in mo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

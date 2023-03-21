@@ -11,6 +11,35 @@ nav_order: 900180
 March 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+QBot Laying the Foundations for Black Basta Ransomware Activity<a href="https://www.reliaquest.com/blog/qbot-black-basta-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker’s actions had the whiff of a Black Basta affiliate, with Qbot activity widely reported as being a cornerstone of Black Basta intrusions. Black Basta is a splinter group that emerged after the “Conti” ransomware syndicate was quelled.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky released a new decryptor for Conti-based ransomware<a href="https://securityaffairs.com/143687/cyber-crime/kaspersky-decryptor-conti-based-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky released a new version of the decryptor for the Conti ransomware that is based on the previously leaked source code of the malware.
+Kaspersky has published a new version of a decryption tool for the Conti ransomware based on previously leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Bee-Ware of Trigona, An Emerging Ransomware Strain<a href="https://unit42.paloaltonetworks.com/trigona-ransomware-update/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

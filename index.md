@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Allegedly Connected to SCARLETEEL Decoy Attack<a href="https://cyware.com/news/teamtnt-allegedly-connected-to-scarleteel-decoy-attack-3684da62"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DotRunpeX Malware Delivers Multiple Malware Families via Malicious Ads<a href="https://thehackernews.com/2023/03/new-dotrunpex-malware-delivers-multiple.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acropalypse flaw in Google Pixel’s Markup tool allowed the recovery of edited images<a href="https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Killnet Aggressively Targets Healthcare Organizations<a href="https://cyware.com/news/killnet-aggressively-targets-healthcare-organizations-e97c1565"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mispadu Banking Trojan Targets Latin America: 90,000+ Credentials Stolen<a href="https://thehackernews.com/2023/03/mispadu-banking-trojan-targets-latin.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors abuse Adobe Acrobat Sign to distribute RedLine info-stealer<a href="https://securityaffairs.com/143738/hacking/malware-via-adobe-acrobat-sign.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Data Breaches, Lawsuits Hit Two Arkansas Hospitals<a href="https://www.arkansasbusiness.com/article/143734/after-data-breaches-lawsuits-hit-two-arkansas-hospitals?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cyber Platform Lab 1 Decodes Dark Web Data to Uncover Hidden Supply Chain Breaches<a href="https://thehackernews.com/2023/03/new-cyber-platform-lab-1-decodes-dark.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet is back after a three-month hiatus<a href="https://securityaffairs.com/143722/cyber-crime/emotet-microsoft-onenote-campaign.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin ATM Maker General Bytes Shuts Cloud Service After Security Breach<a href="https://cointelegraph.com/news/bitcoin-atm-maker-shuts-cloud-service-after-user-hot-wallets-compromised?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Shed Light on CatB Ransomware's Evasion Techniques<a href="https://thehackernews.com/2023/03/researchers-shed-light-on-catb.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play ransomware gang hit Dutch shipping firm Royal Dirkzwager<a href="https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Orlando Family Physicians data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/orlando-family-physicians-data-breach-class-action-settlement/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Rises Again: Evades Macro Security via OneNote Attachments<a href="https://thehackernews.com/2023/03/emotet-rises-again-evades-macro.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT security spending to reach nearly $300 billion by 2026<a href="https://www.helpnetsecurity.com/2023/03/20/it-security-spending-2026/?&web_view=true"> Full Text</a>

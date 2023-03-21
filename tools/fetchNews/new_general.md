@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT security spending to reach nearly $300 billion by 2026<a href="https://www.helpnetsecurity.com/2023/03/20/it-security-spending-2026/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investments in cybersecurity are expected to reach nearly $300 billion in 2026, driven by the ongoing threat of cyberattacks, the demands of providing a secure hybrid work environment, and the need to meet data privacy and governance requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

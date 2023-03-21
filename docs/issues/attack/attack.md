@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT Allegedly Connected to SCARLETEEL Decoy Attack<a href="https://cyware.com/news/teamtnt-allegedly-connected-to-scarleteel-decoy-attack-3684da62"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SCARLETEEL sophisticated hacking operation, which targets Kubernetes hosted on Amazon to steal confidential proprietary data, also suspect to have a TeamTNT touch. Despite all the similarities, researchers could not connect the two malware with full confidence. According to them, it is possible ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play ransomware gang hit Dutch shipping firm Royal Dirkzwager<a href="https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dutch maritime logistics company Royal Dirkzwager suffered a ransomware attack, the company was hit by the Play ransomware gang.
+The Play ransomware group hit the Dutch maritime logistics company Royal Dirkzwager.
+Royal Dirkzwager is specialized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
