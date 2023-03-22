@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Bad Magic' Cyber Threat Disrupt Ukraine's Key Sectors Amid War<a href="https://thehackernews.com/2023/03/new-bad-magic-cyber-threat-disrupt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid the&nbsp; ongoing war &nbsp;between Russia and Ukraine, government, agriculture, and transportation organizations located in Donetsk, Lugansk, and Crimea have been attacked as part of an active campaign that drops a previously unseen, modular framework dubbed&nbsp; CommonMagic . "Although the initial vector of compromise is unclear, the details of the next stage imply the use of spear phishing or similar methods," Kaspersky&nbsp; said &nbsp;in a new report. The Russian cybersecurity company, which detected the attacks in October 2022, is tracking the activity cluster under the name "Bad Magic." Attack chains entail the use of booby-trapped URLS pointing to a ZIP archive hosted on a malicious web server. The file, when opened, contains a decoy document and a malicious LNK file that culminates in the deployment of a backdoor named PowerMagic. Written in PowerShell, PowerMagic establishes contact with a remote server and executes arbitrary commands, the results of which are exfiltra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

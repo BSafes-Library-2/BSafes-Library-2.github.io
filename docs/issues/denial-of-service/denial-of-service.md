@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ShellBot DDoS Malware Variants Targeting Poorly Managed Linux Servers<a href="https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly managed Linux SSH servers are being targeted as part of a new campaign that deploys different variants of a malware called ShellBot. "ShellBot, also known as&nbsp; PerlBot , is a DDoS Bot malware developed in Perl and characteristically uses IRC protocol to communicate with the C&amp;C server," AhnLab Security Emergency response Center (ASEC)&nbsp; said &nbsp;in a report. ShellBot is installed on servers that have weak credentials, but only after threat actors make use of scanner malware to identify systems that have SSH port 22 open. A list of known SSH credentials is used to initiate a dictionary attack to breach the server and deploy the payload, after which it leverages the Internet Relay Chat ( IRC ) protocol to communicate with a remote server. This encompasses the ability to receive commands that allows ShellBot to carry out DDoS attacks and exfiltrate harvested information. ASEC said it identified three different ShellBot versions – LiGhT's Modded perlbot v2, DDoS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

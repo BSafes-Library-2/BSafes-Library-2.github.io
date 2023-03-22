@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Shed Light on CatB Ransomware's Evasion Techniques<a href="https://thehackernews.com/2023/03/researchers-shed-light-on-catb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the CatB ransomware operation have been observed using a technique called&nbsp; DLL search order hijacking &nbsp;to evade detection and launch the payload. CatB, also referred to as CatB99 and Baxtoy, emerged late last year and is said to be an "evolution or direct rebrand" of another ransomware strain known as Pandora based on code-level similarities. It's worth noting that the use of Pandora has been attributed to&nbsp; Bronze Starlight &nbsp;(aka DEV-0401 or Emperor Dragonfly), a China-based threat actor that's known to employ&nbsp; short-lived ransomware families &nbsp;as a ruse to likely conceal its true objectives.&nbsp; One of the key defining characteristics of CatB is its reliance on DLL hijacking via a legitimate service called Microsoft Distributed Transaction Coordinator ( MSDTC ) to extract and launch the ransomware payload. "Upon execution, CatB payloads rely on DLL search order hijacking to drop and load the malicious payload," SentinelOne researc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

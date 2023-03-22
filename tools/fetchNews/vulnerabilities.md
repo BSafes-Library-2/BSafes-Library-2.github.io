@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acropalypse flaw in Google Pixel’s Markup tool allowed the recovery of edited images<a href="https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Acropalypse flaw in the Markup tool of Google Pixel allowed the partial recovery of edited or redacted screenshots and images.
+Security researchers Simon Aarons and David Buchanan have discovered a vulnerability, named 'Acropalypse,' in the Markup...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

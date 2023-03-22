@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferrari confirms data breach after receiving a ransom demand from an unnamed extortion group<a href="https://securityaffairs.com/143784/data-breach/ferrari-confirms-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ferrari disclosed a data breach after receiving a ransom demand from an unnamed extortion group that gained access to some of its IT systems.
+Ferrari disclosed a data breach after it received a ransom demand from an unnamed extortion group that breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOP lawmakers want additional details on CMS subcontractor breach timeline<a href="https://fedscoop.com/cms-subcontractor-breach-timeline/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of Medicare beneficiaries that were exposed during the incident included names, addresses, dates of birth, phone numbers, social security numbers, and Medicare Beneficiary Identifiers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

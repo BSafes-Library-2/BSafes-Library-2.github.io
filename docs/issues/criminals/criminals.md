@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks stole more than $1.5M worth of Bitcoin from General Bytes ATMs<a href="https://securityaffairs.com/143769/cyber-crime/general-bytes-bitcoin-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency ATM maker General Bytes suffered a security breach over the weekend, the hackers stole $1.5M worth of cryptocurrency.
+Cryptocurrency ATM manufacturers General Bytes suffered a security incident that resulted in the theft of $1.5M worth...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

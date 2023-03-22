@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mispadu Banking Trojan Targets Latin America: 90,000+ Credentials Stolen<a href="https://thehackernews.com/2023/03/mispadu-banking-trojan-targets-latin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A banking trojan dubbed&nbsp; Mispadu &nbsp;has been linked to multiple spam campaigns targeting countries like Bolivia, Chile, Mexico, Peru, and Portugal with the goal of stealing credentials and delivering other payloads. The activity, which commenced in August 2022, is currently ongoing, Ocelot Team from Latin American cybersecurity firm Metabase Q said in a report shared with The Hacker News. Mispadu &nbsp;(aka URSA) was&nbsp; first documented &nbsp;by ESET in November 2019, describing its ability to perpetrate monetary and credential theft and act as a backdoor by taking screenshots and capturing keystrokes. "One of their main strategies is to compromise legitimate websites, searching for vulnerable versions of WordPress, to turn them into their command-and-control server to spread malware from there, filtering out countries they do not wish to infect, dropping different type of malware based on the country being infected," researchers Fernando García and Dan Regalado said. It's also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Data Breaches, Lawsuits Hit Two Arkansas Hospitals<a href="https://www.arkansasbusiness.com/article/143734/after-data-breaches-lawsuits-hit-two-arkansas-hospitals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since January, four lawsuits have been filed against both Howard Memorial Hospital of Nashville and against the Mena Hospital Commission, which operates as the Mena Regional Health System.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cyber Platform Lab 1 Decodes Dark Web Data to Uncover Hidden Supply Chain Breaches<a href="https://thehackernews.com/2023/03/new-cyber-platform-lab-1-decodes-dark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2022 was the year when inflation hit world economies, except in one corner of the global marketplace – stolen data. Ransomware payments fell by over 40% in 2022 compared to 2021. More organisations chose not to pay ransom demands, according to findings by blockchain firm Chainalysis. Nonetheless, stolen data has value beyond a price tag, and in risky ways you may not expect. Evaluating stolen records is what&nbsp; Lab 1, a new cyber monitoring platform , believes will make a big difference for long-term cybersecurity resilience. Think of data value this way:&nbsp; Stolen credentials can become future phishing attacks Logins for adult websites are potential extortion attempts Travel and location data are a risk to VIPs and senior leadership, And so on… Hackers could retaliate for non-payment by simply posting their loot to forums where the data will be available for further enrichment and exploitation.&nbsp; Shining a light on dark places Even though your company may not have suffered a di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orlando Family Physicians data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/orlando-family-physicians-data-breach-class-action-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement benefits consumers who received a data breach notification from Orlando Family Physicians informing them their personal information or protected health information may have been compromised in a data breach on April 15, 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

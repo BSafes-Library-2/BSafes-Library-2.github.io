@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bad Magic APT used CommonMagic framework in the area of Russo-Ukrainian conflict<a href="https://securityaffairs.com/143816/apt/apt-uses-commonmagic-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting organizations located in Donetsk, Lugansk, and Crimea with a previously undetected framework dubbed&nbsp;CommonMagic.
+In October 2022, Kaspersky researchers uncovered a malware campaign aimed at infecting government, agriculture...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Found Actively Using PowerMagic Backdoor and CommonMagic Framework<a href="https://securelist.com/bad-magic-apt/109087/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2022, Kaspersky researchers identified an active infection of government, agriculture, and transportation organizations located in the Donetsk, Lugansk, and Crimea regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

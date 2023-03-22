@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ShellBot bot targets poorly managed Linux SSH Servers<a href="https://securityaffairs.com/143807/cyber-crime/shellbot-targets-linux-ssh-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ShellBot DDoS bot malware, aka&nbsp;PerlBot, is targeting poorly managed Linux SSH servers, ASEC researchers warn.
+AhnLab Security Emergency response Center (ASEC)&nbsp;discovered a new variant of the ShellBot malware that was employed in a campaign that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
