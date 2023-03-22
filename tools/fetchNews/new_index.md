@@ -34,7 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are experimenting with QR codes<a href="https://www.helpnetsecurity.com/2023/03/21/qr-scan-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data collected by the HP Threat Research team shows that from Q2 2022, attackers have been diversifying their techniques to find new ways to breach devices and steal data using QR code scam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Bad Magic' Cyber Threat Disrupt Ukraine's Key Sectors Amid War<a href="https://thehackernews.com/2023/03/new-bad-magic-cyber-threat-disrupt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amid the  ongoing war  between Russia and Ukraine, government, agriculture, and transportation organizations located in Donetsk, Lugansk, and Crimea have been attacked as part of an active campaign that drops a previously unseen, modular framework dubbed  CommonMagic . "Although the initial vector of compromise is unclear, the details of the next stage imply the use of spear phishing or similar methods," Kaspersky  said  in a new report. The Russian cybersecurity company, which detected the attacks in October 2022, is tracking the activity cluster under the name "Bad Magic." Attack chains entail the use of booby-trapped URLS pointing to a ZIP archive hosted on a malicious web server. The file, when opened, contains a decoy document and a malicious LNK file that culminates in the deployment of a backdoor named PowerMagic. Written in PowerShell, PowerMagic establishes contact with a remote server and executes arbitrary commands, the results of which are exfiltra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call for Papers: Cybersecurity Law and Policy Scholars Conference 2023<a href="https://www.lawfareblog.com/call-papers-cybersecurity-law-and-policy-scholars-conference-2023"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The third annual Cybersecurity Law and Policy Scholars Conference (CLPSC) will take place at the Fletcher School of Law & Diplomacy at Tufts University on September 29-30, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bad Magic APT used CommonMagic framework in the area of Russo-Ukrainian conflict<a href="https://securityaffairs.com/143816/apt/apt-uses-commonmagic-framework.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting organizations located in Donetsk, Lugansk, and Crimea with a previously undetected framework dubbed CommonMagic.
+In October 2022, Kaspersky researchers uncovered a malware campaign aimed at infecting government, agriculture...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Notified of Remotely Exploitable Vulnerabilities in Aveva HMI, SCADA Products<a href="https://www.securityweek.com/organizations-notified-of-remotely-exploitable-vulnerabilities-in-aveva-hmi-scada-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations that use human-machine interface (HMI) and supervisory control and data acquisition (SCADA) products from UK-based industrial software maker Aveva have been informed about the existence of several potentially serious vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ShellBot DDoS Malware Variants Targeting Poorly Managed Linux Servers<a href="https://thehackernews.com/2023/03/new-shellbot-ddos-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly managed Linux SSH servers are being targeted as part of a new campaign that deploys different variants of a malware called ShellBot. "ShellBot, also known as  PerlBot , is a DDoS Bot malware developed in Perl and characteristically uses IRC protocol to communicate with the C&C server," AhnLab Security Emergency response Center (ASEC)  said  in a report. ShellBot is installed on servers that have weak credentials, but only after threat actors make use of scanner malware to identify systems that have SSH port 22 open. A list of known SSH credentials is used to initiate a dictionary attack to breach the server and deploy the payload, after which it leverages the Internet Relay Chat ( IRC ) protocol to communicate with a remote server. This encompasses the ability to receive commands that allows ShellBot to carry out DDoS attacks and exfiltrate harvested information. ASEC said it identified three different ShellBot versions – LiGhT's Modded perlbot v2, DDoS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ShellBot bot targets poorly managed Linux SSH Servers<a href="https://securityaffairs.com/143807/cyber-crime/shellbot-targets-linux-ssh-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New ShellBot DDoS bot malware, aka PerlBot, is targeting poorly managed Linux SSH servers, ASEC researchers warn.
+AhnLab Security Emergency response Center (ASEC) discovered a new variant of the ShellBot malware that was employed in a campaign that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Role of Finance Departments in Cybersecurity<a href="https://securityintelligence.com/articles/role-finance-departments-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A company’s finance department holds the company’s crown jewels: They ensure financial transactions and systems are secure. The finance department is a key component of a company’s overall security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Best Defense Against Cyber Threats for Lean Security Teams<a href="https://thehackernews.com/2023/03/the-best-defense-against-cyber-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+H0lyGh0st, Magecart, and a slew of state-sponsored hacker groups are diversifying their tactics and shifting their focus to… You. That is, if you're in charge of cybersecurity for a small-to-midsize enterprise (SME). Why? Bad actors know that SMEs typically have a smaller security budget, less infosec manpower, and possibly weak or missing security controls to protect their data and infrastructure. So, how can you prepare for the imminent onslaught from new and emerging threat groups?  You need a plan. Start with the NIST Cyber Security Framework The good news is you don't have to create your security strategy from scratch. The National Institute of Standards and Technology Cyber Security Framework (NIST CSF) is one of the most respected and widely used standards in the world. While originally designed for critical infrastructure industries, the NIST CSF is flexible enough for organizations of all sizes, sectors, and maturities to use in large part because the framewor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022 Zero-Day exploitation continues at a worrisome pace<a href="https://securityaffairs.com/143798/apt/2022-zero-day-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that 55 zero-day vulnerabilities were exploited in attacks carried out by ransomware and cyberespionage groups in 2022.
+Cybersecurity firm Mandiant reported that ransomware and cyberespionage groups exploited 55 zero-day flaws in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aembit Scores $16.6M Seed Funding for Workload IAM Technology<a href="https://www.securityweek.com/aembit-scores-16-6m-seed-funding-for-workload-iam-technology/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maryland-based cybersecurity company said the seed-stage financing was provided by Ballistic Ventures and Ten Eleven Ventures, two firms active in funding cybersecurity companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Ransomware to Cyber Espionage: 55 Zero-Day Vulnerabilities Weaponized in 2022<a href="https://thehackernews.com/2023/03/from-ransomware-to-cyber-espionage-55.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 55 zero-day vulnerabilities were exploited in the wild in 2022, with most of the flaws discovered in software from Microsoft, Google, and Apple. While this figure represents a decrease from the year before, when a staggering 81 zero-days were weaponized, it still represents a significant uptick in recent years of threat actors leveraging unknown security flaws to their advantage. The  findings  come from threat intelligence firm Mandiant, which noted that desktop operating systems (19), web browsers (11), IT and network management products (10), and mobile operating systems (six) accounted for the most exploited product types. Of the 55 zero-day bugs, 13 are estimated to have been abused by cyber espionage groups, with four others exploited by financially motivated threat actors for ransomware-related operations. Commercial spyware vendors were linked to the exploitation of three zero-days. Among state-sponsored groups, those attributed to China have emerged as the most
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ferrari confirms data breach after receiving a ransom demand from an unnamed extortion group<a href="https://securityaffairs.com/143784/data-breach/ferrari-confirms-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ferrari disclosed a data breach after receiving a ransom demand from an unnamed extortion group that gained access to some of its IT systems.
+Ferrari disclosed a data breach after it received a ransom demand from an unnamed extortion group that breached...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard acquires Baffin Bay Networks to improve customer security<a href="https://www.helpnetsecurity.com/2023/03/21/mastercard-baffin-bay-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baffin Bay Networks, based in Sweden, adds to Mastercard’s multi-layered approach to cybersecurity and helps to stop attacks, while mitigating exposure to risk across the ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Over $1.6 Million in Crypto from General Bytes Bitcoin ATMs Using Zero-Day Flaw<a href="https://thehackernews.com/2023/03/hackers-steal-over-16-million-in-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin ATM maker General Bytes disclosed that unidentified threat actors stole cryptocurrency from hot wallets by exploiting a zero-day security flaw in its software. "The attacker was able to upload his own java application remotely via the master service interface used by terminals to upload videos and run it using 'batm' user privileges," the company  said  in an advisory published over the weekend. "The attacker scanned the Digital Ocean cloud hosting IP address space and identified running CAS services on ports 7741, including the General Bytes Cloud service and other GB ATM operators running their servers on Digital Ocean," it further added. The company said that the server to which the malicious Java application was uploaded was by default configured to start applications present in the deployment folder ("/batm/app/admin/standalone/deployments/"). In doing so, the attack allowed the threat actor to access the database; read and decry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks stole more than $1.5M worth of Bitcoin from General Bytes ATMs<a href="https://securityaffairs.com/143769/cyber-crime/general-bytes-bitcoin-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency ATM maker General Bytes suffered a security breach over the weekend, the hackers stole $1.5M worth of cryptocurrency.
+Cryptocurrency ATM manufacturers General Bytes suffered a security incident that resulted in the theft of $1.5M worth...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Found Actively Using PowerMagic Backdoor and CommonMagic Framework<a href="https://securelist.com/bad-magic-apt/109087/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2022, Kaspersky researchers identified an active infection of government, agriculture, and transportation organizations located in the Donetsk, Lugansk, and Crimea regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GOP lawmakers want additional details on CMS subcontractor breach timeline<a href="https://fedscoop.com/cms-subcontractor-breach-timeline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of Medicare beneficiaries that were exposed during the incident included names, addresses, dates of birth, phone numbers, social security numbers, and Medicare Beneficiary Identifiers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT Allegedly Connected to SCARLETEEL Decoy Attack<a href="https://cyware.com/news/teamtnt-allegedly-connected-to-scarleteel-decoy-attack-3684da62"> Full Text</a>
@@ -50,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DotRunpeX Malware Delivers Multiple Malware Families via Malicious Ads<a href="https://thehackernews.com/2023/03/new-dotrunpex-malware-delivers-multiple.html"> Full Text</a>
@@ -66,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acropalypse flaw in Google Pixel’s Markup tool allowed the recovery of edited images<a href="https://securityaffairs.com/143748/hacking/google-pixel-acropalypse-flaw.html"> Full Text</a>
@@ -83,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Killnet Aggressively Targets Healthcare Organizations<a href="https://cyware.com/news/killnet-aggressively-targets-healthcare-organizations-e97c1565"> Full Text</a>
@@ -99,7 +392,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mispadu Banking Trojan Targets Latin America: 90,000+ Credentials Stolen<a href="https://thehackernews.com/2023/03/mispadu-banking-trojan-targets-latin.html"> Full Text</a>
@@ -115,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors abuse Adobe Acrobat Sign to distribute RedLine info-stealer<a href="https://securityaffairs.com/143738/hacking/malware-via-adobe-acrobat-sign.html"> Full Text</a>
@@ -132,7 +425,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Data Breaches, Lawsuits Hit Two Arkansas Hospitals<a href="https://www.arkansasbusiness.com/article/143734/after-data-breaches-lawsuits-hit-two-arkansas-hospitals?&web_view=true"> Full Text</a>
@@ -148,7 +441,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cyber Platform Lab 1 Decodes Dark Web Data to Uncover Hidden Supply Chain Breaches<a href="https://thehackernews.com/2023/03/new-cyber-platform-lab-1-decodes-dark.html"> Full Text</a>
@@ -164,7 +457,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet is back after a three-month hiatus<a href="https://securityaffairs.com/143722/cyber-crime/emotet-microsoft-onenote-campaign.html"> Full Text</a>
@@ -181,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitcoin ATM Maker General Bytes Shuts Cloud Service After Security Breach<a href="https://cointelegraph.com/news/bitcoin-atm-maker-shuts-cloud-service-after-user-hot-wallets-compromised?&web_view=true"> Full Text</a>
@@ -197,7 +490,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Shed Light on CatB Ransomware's Evasion Techniques<a href="https://thehackernews.com/2023/03/researchers-shed-light-on-catb.html"> Full Text</a>
@@ -213,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play ransomware gang hit Dutch shipping firm Royal Dirkzwager<a href="https://securityaffairs.com/143714/cyber-crime/play-ransomware-royal-dirkzwager.html"> Full Text</a>
@@ -231,7 +524,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Orlando Family Physicians data breach class action settlement<a href="https://topclassactions.com/lawsuit-settlements/privacy/data-breach/orlando-family-physicians-data-breach-class-action-settlement/?&web_view=true"> Full Text</a>
@@ -247,7 +540,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Rises Again: Evades Macro Security via OneNote Attachments<a href="https://thehackernews.com/2023/03/emotet-rises-again-evades-macro.html"> Full Text</a>
@@ -263,7 +556,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2023
+March 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT security spending to reach nearly $300 billion by 2026<a href="https://www.helpnetsecurity.com/2023/03/20/it-security-spending-2026/?&web_view=true"> Full Text</a>
