@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 22, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter Vivern APT Targets European Government Entities With Aperetif<a href="https://cyware.com/news/winter-vivern-apt-targets-european-government-entities-with-aperetif-d027069c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne spotted the Winter Vivern APT group targeting Polish government agencies, Indian government entities, the Ukraine Ministry of Foreign Affairs, and the Italy Ministry of Foreign Affairs in cyberespionage campaigns since 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

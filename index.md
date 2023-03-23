@@ -1,4 +1,4 @@
----
+
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Orbi router vulnerable to arbitrary command execution<a href="https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Alerts on Critical Security Vulnerabilities in Industrial Control Systems<a href="https://thehackernews.com/2023/03/cisa-alerts-on-critical-security.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcement of Cybersecurity Regulations: Part 1<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-1"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lionsgate streaming platform with 37m subscribers leaks user data<a href="https://securityaffairs.com/143886/security/lionsgate-data-leak.html"> Full Text</a>
@@ -100,7 +100,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Adopts the Trend for OneNote Infection<a href="https://cyware.com/news/emotet-adopts-the-trend-for-onenote-infection-14dda4d4"> Full Text</a>
@@ -116,7 +116,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScarCruft's Evolving Arsenal: Researchers Reveal New Malware Distribution Techniques<a href="https://thehackernews.com/2023/03/scarcrufts-evolving-arsenal-researchers.html"> Full Text</a>
@@ -132,7 +132,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue ChatGPT extension FakeGPT hijacked Facebook accounts<a href="https://securityaffairs.com/143873/cyber-crime/malicious-chatgpt-extension-for-chrome.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYC Special Needs Students' Records Found Exposed on Web<a href="https://www.bankinfosecurity.com/nyc-special-needs-students-records-found-exposed-on-web-a-21489?&web_view=true"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Preventing Insider Threats in Your Active Directory<a href="https://thehackernews.com/2023/03/preventing-insider-threats-in-your.html"> Full Text</a>
@@ -181,7 +181,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC exploits for severe flaws in Netgear Orbi routers<a href="https://securityaffairs.com/143863/hacking/netgear-orbi-routers-flaws.html"> Full Text</a>
@@ -198,7 +198,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trigona Evolves TTPs, Targets Orgs Worldwide<a href="https://cyware.com/news/trigona-evolves-ttps-targets-orgs-worldwide-195c80dc"> Full Text</a>
@@ -214,7 +214,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue NuGet Packages Infect .NET Developers with Crypto-Stealing Malware<a href="https://thehackernews.com/2023/03/rogue-nuget-packages-infect-net.html"> Full Text</a>
@@ -230,7 +230,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ENISA: Ransomware became a prominent threat against the transport sector in 2022<a href="https://securityaffairs.com/143853/security/enisa-report-transport-sector.html"> Full Text</a>
@@ -247,7 +247,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to combat hardware Trojans by detecting microchip manipulations<a href="https://www.helpnetsecurity.com/2023/03/22/hardware-trojans-detecting-microchip-manipulations/?&web_view=true"> Full Text</a>
@@ -263,7 +263,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NAPLISTENER: New Malware in REF2924 Group's Arsenal for Bypassing Detection<a href="https://thehackernews.com/2023/03/new-naplistener-malware-used-by-ref2924.html"> Full Text</a>
@@ -279,7 +279,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums current Admin Baphomet shuts down BreachForums<a href="https://securityaffairs.com/143845/hacking/breachforums-officially-taken-down.html"> Full Text</a>
@@ -296,7 +296,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winter Vivern APT Targets European Government Entities With Aperetif<a href="https://cyware.com/news/winter-vivern-apt-targets-european-government-entities-with-aperetif-d027069c"> Full Text</a>
@@ -312,7 +312,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Administrator Baphomet Shuts Down Infamous Hacking Forum<a href="https://thehackernews.com/2023/03/breachforums-administrator-baphomet.html"> Full Text</a>
@@ -328,7 +328,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Independent Living Systems data breach impacts more than 4M individuals<a href="https://securityaffairs.com/143832/data-breach/independent-living-systems-data-breach.html"> Full Text</a>

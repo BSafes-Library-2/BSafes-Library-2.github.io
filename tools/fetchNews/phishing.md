@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are experimenting with QR codes<a href="https://www.helpnetsecurity.com/2023/03/21/qr-scan-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data collected by the HP Threat Research team shows that from Q2 2022, attackers have been diversifying their techniques to find new ways to breach devices and steal data using QR code scam campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

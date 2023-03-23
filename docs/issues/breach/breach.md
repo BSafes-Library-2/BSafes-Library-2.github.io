@@ -8,6 +8,51 @@ nav_order: 900029
 
 ## Breach
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lionsgate streaming platform with 37m subscribers leaks user data<a href="https://securityaffairs.com/143886/security/lionsgate-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entertainment industry giant Lionsgate leaked users' IP addresses and information about what content they watch on its movie-streaming platform, according to research from Cybernews.
+Original post at https://cybernews.com/security/lionsgate-data-leak/
+During...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYC Special Needs Students' Records Found Exposed on Web<a href="https://www.bankinfosecurity.com/nyc-special-needs-students-records-found-exposed-on-web-a-21489?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of documents containing personal information of special education students within New York City's public school system were held in an unsecured database exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Independent Living Systems data breach impacts more than 4M individuals<a href="https://securityaffairs.com/143832/data-breach/independent-living-systems-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US health services company Independent Living Systems (ILS) discloses a data breach that impacted more than 4 million individuals.
+US health services company Independent Living Systems (ILS) disclosed a data breach that exposed personal and medical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

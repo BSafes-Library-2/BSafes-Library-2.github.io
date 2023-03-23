@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement of Cybersecurity Regulations: Part 1<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As government policy moves toward more binding rules for cybersecurity, how should they be enforced? Self-assessment and self-certification are not likely to suffice.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

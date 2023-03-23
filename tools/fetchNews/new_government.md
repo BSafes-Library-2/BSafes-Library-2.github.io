@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alerts on Critical Security Vulnerabilities in Industrial Control Systems<a href="https://thehackernews.com/2023/03/cisa-alerts-on-critical-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released eight Industrial Control Systems (ICS)&nbsp; advisories &nbsp;on Tuesday, warning of critical flaws affecting equipment from Delta Electronics and Rockwell Automation. This includes 13 security vulnerabilities in Delta Electronics' InfraSuite Device Master, a real-time device monitoring software. All versions prior to 1.0.5 are affected by the issues. "Successful exploitation of these vulnerabilities could allow an unauthenticated attacker to obtain access to files and credentials, escalate privileges, and remotely execute arbitrary code," CISA&nbsp; said . Top of the list is&nbsp; CVE-2023-1133 &nbsp;(CVSS score: 9.8), a critical flaw that arises from the fact that InfraSuite Device Master accepts unverified UDP packets and&nbsp; deserializes the content , thereby allowing an unauthenticated remote attacker to execute arbitrary code. Two other deserialization flaws,&nbsp; CVE-2023-1139 &nbsp;(CVSS score: 8.8) and&nbsp; CVE-2023-1145
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

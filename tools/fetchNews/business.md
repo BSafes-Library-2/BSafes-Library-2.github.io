@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aembit Scores $16.6M Seed Funding for Workload IAM Technology<a href="https://www.securityweek.com/aembit-scores-16-6m-seed-funding-for-workload-iam-technology/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Maryland-based cybersecurity company said the seed-stage financing was provided by Ballistic Ventures and Ten Eleven Ventures, two firms active in funding cybersecurity companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastercard acquires Baffin Bay Networks to improve customer security<a href="https://www.helpnetsecurity.com/2023/03/21/mastercard-baffin-bay-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baffin Bay Networks, based in Sweden, adds to Mastercard’s multi-layered approach to cybersecurity and helps to stop attacks, while mitigating exposure to risk across the ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

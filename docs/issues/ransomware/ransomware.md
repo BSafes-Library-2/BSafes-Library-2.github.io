@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trigona Evolves TTPs, Targets Orgs Worldwide<a href="https://cyware.com/news/trigona-evolves-ttps-targets-orgs-worldwide-195c80dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trigona ransomware, which surfaced in December 2022, targeted at least 15 organizations across different sectors in the U.S., Australia, Italy, France, New Zealand, and Germany. The malware is capable of getting initial access, performing reconnaissance, transferring malware via a remote monitoring ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

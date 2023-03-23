@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Over $1.6 Million in Crypto from General Bytes Bitcoin ATMs Using Zero-Day Flaw<a href="https://thehackernews.com/2023/03/hackers-steal-over-16-million-in-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin ATM maker General Bytes disclosed that unidentified threat actors stole cryptocurrency from hot wallets by exploiting a zero-day security flaw in its software. "The attacker was able to upload his own java application remotely via the master service interface used by terminals to upload videos and run it using 'batm' user privileges," the company&nbsp; said &nbsp;in an advisory published over the weekend. "The attacker scanned the Digital Ocean cloud hosting IP address space and identified running CAS services on ports 7741, including the General Bytes Cloud service and other GB ATM operators running their servers on Digital Ocean," it further added. The company said that the server to which the malicious Java application was uploaded was by default configured to start applications present in the deployment folder ("/batm/app/admin/standalone/deployments/"). In doing so, the attack allowed the threat actor to access the database; read and decry
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums current Admin Baphomet shuts down BreachForums<a href="https://securityaffairs.com/143845/hacking/breachforums-officially-taken-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baphomet, the current administrator of BreachForums, announced that the popular hacking forum has been officially taken down.
+U.S. law enforcement arrested last week a US man that goes online with the moniker “Pompompurin,” the US citizen is accused...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Administrator Baphomet Shuts Down Infamous Hacking Forum<a href="https://thehackernews.com/2023/03/breachforums-administrator-baphomet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sudden turn of events, Baphomet, the current administrator of BreachForums, said in an update on March 21, 2023, that the hacking forum has been officially taken down but emphasized that "it's not the end." "You are allowed to hate me, and disagree with my decision but I promise what is to come will be better for us all," Baphomet noted in a message posted on the BreachForums Telegram channel. The&nbsp; shutdown &nbsp;is suspected to have been prompted by suspicions that law enforcement may have obtained access to the site's configurations, source code, and information about the forum's users. The development follows the&nbsp; arrest of its administrator &nbsp;Conor Brian Fitzpatrick (aka "pompompurin"), who has been charged with a single count of conspiracy to commit access device fraud. Over the past few months, BreachForums filled the void left by RaidForums last year, becoming a lucrative destination to purchase and sell stolen databases from variou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

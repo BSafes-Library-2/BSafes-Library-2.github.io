@@ -8,6 +8,77 @@ nav_order: 900072
 
 ## General
 ---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Call for Papers: Cybersecurity Law and Policy Scholars Conference 2023<a href="https://www.lawfareblog.com/call-papers-cybersecurity-law-and-policy-scholars-conference-2023"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The third annual Cybersecurity Law and Policy Scholars Conference (CLPSC) will take place at the&nbsp;Fletcher School of Law &amp; Diplomacy at Tufts University&nbsp;on September&nbsp;29-30, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Role of Finance Departments in Cybersecurity<a href="https://securityintelligence.com/articles/role-finance-departments-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A company’s finance department holds the company’s crown jewels: They ensure financial transactions and systems are secure. The finance department is a key component of a company’s overall security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Best Defense Against Cyber Threats for Lean Security Teams<a href="https://thehackernews.com/2023/03/the-best-defense-against-cyber-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+H0lyGh0st, Magecart, and a slew of state-sponsored hacker groups are diversifying their tactics and shifting their focus to… You. That is, if you're in charge of cybersecurity for a small-to-midsize enterprise (SME). Why? Bad actors know that SMEs typically have a smaller security budget, less infosec manpower, and possibly weak or missing security controls to protect their data and infrastructure. So, how can you prepare for the imminent onslaught from new and emerging threat groups?&nbsp; You need a plan. Start with the NIST Cyber Security Framework The good news is you don't have to create your security strategy from scratch. The National Institute of Standards and Technology Cyber Security Framework (NIST CSF) is one of the most respected and widely used standards in the world. While originally designed for critical infrastructure industries, the NIST CSF is flexible enough for organizations of all sizes, sectors, and maturities to use in large part because the framewor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2022 Zero-Day exploitation continues at a worrisome pace<a href="https://securityaffairs.com/143798/apt/2022-zero-day-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that 55 zero-day vulnerabilities were exploited in attacks carried out by ransomware and cyberespionage groups in 2022.
+Cybersecurity firm Mandiant reported that ransomware and cyberespionage groups exploited 55 zero-day flaws in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Ransomware to Cyber Espionage: 55 Zero-Day Vulnerabilities Weaponized in 2022<a href="https://thehackernews.com/2023/03/from-ransomware-to-cyber-espionage-55.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 55 zero-day vulnerabilities were exploited in the wild in 2022, with most of the flaws discovered in software from Microsoft, Google, and Apple. While this figure represents a decrease from the year before, when a staggering 81 zero-days were weaponized, it still represents a significant uptick in recent years of threat actors leveraging unknown security flaws to their advantage. The&nbsp; findings &nbsp;come from threat intelligence firm Mandiant, which noted that desktop operating systems (19), web browsers (11), IT and network management products (10), and mobile operating systems (six) accounted for the most exploited product types. Of the 55 zero-day bugs, 13 are estimated to have been abused by cyber espionage groups, with four others exploited by financially motivated threat actors for ransomware-related operations. Commercial spyware vendors were linked to the exploitation of three zero-days. Among state-sponsored groups, those attributed to China have emerged as the most
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
