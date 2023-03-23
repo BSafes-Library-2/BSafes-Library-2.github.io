@@ -1,4 +1,4 @@
----
+
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Updates its Tactics to Target South Korean Experts<a href="https://cyware.com/news/kimsuky-updates-its-tactics-to-target-south-korean-experts-b91c5c6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German and South Korean government agencies warned about a new spear-phishing campaign by the North Korean APT, Kimsuky. The campaign targets experts on issues related to the Korean peninsula. Attackers send a spear-phishing email to the targeted victims, asking them to install a malicious Chrome e ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake ChatGPT Chrome Browser Extension Caught Hijacking Facebook Accounts<a href="https://thehackernews.com/2023/03/fake-chatgpt-chrome-browser-extension.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has stepped in to remove a bogus Chrome browser extension from the official Web Store that masqueraded as OpenAI's ChatGPT service to harvest Facebook session cookies and hijack the accounts. The "ChatGPT For Google" extension, a trojanized version of a  legitimate open source browser add-on , attracted over 9,000 installations since March 14, 2023, prior to its removal. It was originally uploaded to the Chrome Web Store on February 14, 2023. According to  Guardio Labs  researcher Nati Tal, the extension is propagated through  malicious   sponsored Google search results  that are designed to redirect unsuspecting users searching for "Chat GPT-4" to fraudulent landing pages that point to the fake add-on. Installing the extension adds the promised functionality – i.e., enhancing search engines with ChatGPT – but it also stealthily activates the ability to capture Facebook-related cookies and exfiltrate it to a remote server in an encrypted manner. Onc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A million at risk from user data leak at Korean beauty platform PowderRoom<a href="https://securityaffairs.com/143940/data-breach/korean-beauty-platform-powderroom-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean beauty content platform, PowderRoom, has leaked the personal information of nearly one million people.
+Established in 2003, PowderRoom is a South Korean beauty content platform connecting 3.5 million members and thousands of beauty brands
+It...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Magic APT Targets Ukraine with CommonMagic and PowerMagic<a href="https://cyware.com/news/black-magic-apt-targets-ukraine-with-commonmagic-and-powermagic-20a39894"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers have identified cyberattacks targeting government, agriculture, and transportation organizations in Donetsk, Lugansk, and Crimea, conducted by the new Bad Magic APT. The campaign leverages old artifacts created as early as September 2021, along with a previously unseen malicio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexus: A New Rising Android Banking Trojan Targeting 450 Financial Apps<a href="https://thehackernews.com/2023/03/nexus-new-rising-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging Android banking trojan dubbed  Nexus  has already been adopted by several threat actors to target 450 financial applications and conduct fraud. "Nexus appears to be in its early stages of development," Italian cybersecurity firm Cleafy  said  in a report published this week. "Nexus provides all the main features to perform ATO attacks (Account Takeover) against banking portals and cryptocurrency services, such as credentials stealing and SMS interception." The trojan, which appeared in various hacking forums at the start of the year, is advertised as a subscription service to its clientele for a monthly fee of $3,000. Details of the malware were  first documented  by Cyble earlier this month. However, there are indications that the malware may have been used in real-world attacks as early as June 2022, at least six months before its official announcement on darknet portals. According to security researcher Rohit Bansal ( @0xrb ) and confirmed by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts published PoC exploit code for Veeam Backup & Replication bug<a href="https://securityaffairs.com/143930/hacking/veeam-backup-replication-poc-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers released a PoC exploit code for a high-severity vulnerability in Veeam Backup & Replication (VBR) software.
+Veeam recently addressed a high-severity flaw, tracked as CVE-2023-27532, in Veeam Backup and Replication (VBR) software....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Skylink hit by hacker attack<a href="https://www.broadbandtvnews.com/2023/03/22/skylink-hit-by-hacker-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M7 Group’s Czech and Slovak operator Skylink has reportedly fallen victim to a hacker attack. Skylink offers DTH and internet TV services in the Czech Republic and Slovakia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2023 Cybersecurity Maturity Report Reveals Organizational Unpreparedness for Cyberattacks<a href="https://thehackernews.com/2023/03/2023-cybersecurity-maturity-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022 alone, global cyberattacks increased by 38%, resulting in substantial business loss, including financial and reputational damage. Meanwhile, corporate security budgets have risen significantly because of the growing sophistication of attacks and the number of cybersecurity solutions introduced into the market. With this rise in threats, budgets, and solutions, how prepared are industries and countries to effectively address today's cyber risk?  CYE's new  Cybersecurity Maturity Report 2023  tackles this question by shedding light on the strength of cybersecurity in different sectors, company sizes, and countries. It highlights which industries and countries have the most robust cyber postures and which are lagging, as well as the most prevalent vulnerabilities in today's cyber threat landscape. The analysis is based on two years' worth of data, collected from over 500 organizations in 15 countries, and spanning 11 industries and a range of company sizes. It measures cybersec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed multiple severe vulnerabilities in its IOS and IOS XE software<a href="https://securityaffairs.com/143922/security/cisco-vulnerabilities-ios-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed tens of vulnerabilities in its IOS and IOS XE software, six of these issues have been rated ‘high severity’.
+Cisco published the March 2023 Semiannual IOS and IOS XE Software Security Advisory that addresses several vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists Increasingly Claim Targeting of OT Systems<a href="https://www.mandiant.com/resources/blog/hacktivists-targeting-ot-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of false claims is at times challenging to debunk. However, despite the inaccuracy of most claims, when hacktivist activity targeting OT becomes commonplace, the likelihood of actual and even substantial OT incidents increases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Soft Cell: Chinese Hackers Breach Middle East Telecom Providers<a href="https://thehackernews.com/2023/03/operation-soft-cell-chinese-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication providers in the Middle East are the subject of new cyber attacks that commenced in the first quarter of 2023. The intrusion set has been attributed to a Chinese cyber espionage actor associated with a long-running campaign dubbed  Operation Soft Cell  based on tooling overlaps. "The initial attack phase involves infiltrating Internet-facing Microsoft Exchange servers to deploy web shells used for command execution," researchers from SentinelOne and QGroup said in a  new technical report  shared with The Hacker News. "Once a foothold is established, the attackers conduct a variety of reconnaissance, credential theft, lateral movement, and data exfiltration activities." Operation Soft Cell, according to  Cybereason , refers to malicious activities undertaken by China-affiliated actors targeting telecommunications providers since at least 2012. The Soft Cell threat actor, also tracked by Microsoft as  Gallium , is known to target unpatched int
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexus, an emerging Android banking Trojan targets 450 financial apps<a href="https://securityaffairs.com/143910/malware/nexus-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of an emerging Android banking trojan dubbed Nexus that was employed in attacks against 450 financial applications.
+Cybersecurity firm experts from Cleafy warn of an emerging Android banking trojan, named Nexus, that was employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in IOS Software<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-ios-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco published its semiannual IOS and IOS XE software security advisory bundle, which addresses ten vulnerabilities, including six 'high-severity’ ones. The most important three security bugs can be exploited remotely to cause a DoS condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German and South Korean Agencies Warn of Kimsuky's Expanding Cyber Attack Tactics<a href="https://thehackernews.com/2023/03/german-and-south-korean-agencies-warn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German and South Korean government agencies have warned about cyber attacks mounted by a threat actor tracked as  Kimsuky  using rogue browser extensions to steal users' Gmail inboxes. The  joint advisory   comes  from Germany's domestic intelligence apparatus, the Federal Office for the Protection of the Constitution (BfV), and South Korea's National Intelligence Service of the Republic of Korea (NIS). The intrusions are designed to strike "experts on the Korean Peninsula and North Korea issues" through spear-phishing campaigns, the agencies noted. Kimsuky , also known Black Banshee, Thallium, and Velvet Chollima, refers to a  subordinate element  within North Korea's Reconnaissance General Bureau and is known to "collect strategic intelligence on geopolitical events and negotiations affecting the DPRK's interests." Primary targets of interest include entities in the U.S. and South Korea, particularly singling out individuals working within
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dole discloses data breach after February ransomware attack<a href="https://securityaffairs.com/143902/data-breach/dole-food-company-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dole Food Company confirmed that threat actors behind the recent ransomware attack had access to employees' data.
+Dole Food Company is an Irish agricultural multinational corporation, it is one of the world’s largest producers of...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splashtop Buys Foxpass to Bring Enterprise IAM to the Masses<a href="https://www.bankinfosecurity.com/splashtop-buys-foxpass-to-bring-enterprise-iam-to-masses-a-21497?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access provider Splashtop has acquired the server and network access management vendor Foxpass to get better visibility across co-managed and multi-tenant environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 Day 1: Windows 11 and Tesla hacked<a href="https://securityaffairs.com/143892/hacking/pwn2own-vancouver-2023-day-1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the first day of Pwn2Own Vancouver 2023, the organization awarded $375,000 (and a Tesla Model 3) for 12 zero-day flaws.
+The Pwn2Own Vancouver 2023 has begun, this hacking competition has 19 entries targeting nine different targets - including two Tesla...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backslash Snags $8M Seed Financing for AppSec Tech<a href="https://www.securityweek.com/backslash-snags-8m-seed-financing-for-appsec-tech/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli startup said the financing was provided by StageOne Ventures, First Rays Venture Partners, and D. E. Shaw & Co. A roster of prominent security practitioners and entrepreneurs also joined the round.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Orbi router vulnerable to arbitrary command execution<a href="https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/?&web_view=true"> Full Text</a>
@@ -50,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Alerts on Critical Security Vulnerabilities in Industrial Control Systems<a href="https://thehackernews.com/2023/03/cisa-alerts-on-critical-security.html"> Full Text</a>
@@ -66,7 +361,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcement of Cybersecurity Regulations: Part 1<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-1"> Full Text</a>
@@ -82,7 +377,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lionsgate streaming platform with 37m subscribers leaks user data<a href="https://securityaffairs.com/143886/security/lionsgate-data-leak.html"> Full Text</a>
@@ -100,7 +395,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emotet Adopts the Trend for OneNote Infection<a href="https://cyware.com/news/emotet-adopts-the-trend-for-onenote-infection-14dda4d4"> Full Text</a>
@@ -116,7 +411,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScarCruft's Evolving Arsenal: Researchers Reveal New Malware Distribution Techniques<a href="https://thehackernews.com/2023/03/scarcrufts-evolving-arsenal-researchers.html"> Full Text</a>
@@ -132,7 +427,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue ChatGPT extension FakeGPT hijacked Facebook accounts<a href="https://securityaffairs.com/143873/cyber-crime/malicious-chatgpt-extension-for-chrome.html"> Full Text</a>
@@ -149,7 +444,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYC Special Needs Students' Records Found Exposed on Web<a href="https://www.bankinfosecurity.com/nyc-special-needs-students-records-found-exposed-on-web-a-21489?&web_view=true"> Full Text</a>
@@ -165,7 +460,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Preventing Insider Threats in Your Active Directory<a href="https://thehackernews.com/2023/03/preventing-insider-threats-in-your.html"> Full Text</a>
@@ -181,7 +476,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC exploits for severe flaws in Netgear Orbi routers<a href="https://securityaffairs.com/143863/hacking/netgear-orbi-routers-flaws.html"> Full Text</a>
@@ -198,7 +493,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trigona Evolves TTPs, Targets Orgs Worldwide<a href="https://cyware.com/news/trigona-evolves-ttps-targets-orgs-worldwide-195c80dc"> Full Text</a>
@@ -214,7 +509,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue NuGet Packages Infect .NET Developers with Crypto-Stealing Malware<a href="https://thehackernews.com/2023/03/rogue-nuget-packages-infect-net.html"> Full Text</a>
@@ -230,7 +525,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ENISA: Ransomware became a prominent threat against the transport sector in 2022<a href="https://securityaffairs.com/143853/security/enisa-report-transport-sector.html"> Full Text</a>
@@ -247,7 +542,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to combat hardware Trojans by detecting microchip manipulations<a href="https://www.helpnetsecurity.com/2023/03/22/hardware-trojans-detecting-microchip-manipulations/?&web_view=true"> Full Text</a>
@@ -263,7 +558,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NAPLISTENER: New Malware in REF2924 Group's Arsenal for Bypassing Detection<a href="https://thehackernews.com/2023/03/new-naplistener-malware-used-by-ref2924.html"> Full Text</a>
@@ -279,7 +574,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums current Admin Baphomet shuts down BreachForums<a href="https://securityaffairs.com/143845/hacking/breachforums-officially-taken-down.html"> Full Text</a>
@@ -296,7 +591,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winter Vivern APT Targets European Government Entities With Aperetif<a href="https://cyware.com/news/winter-vivern-apt-targets-european-government-entities-with-aperetif-d027069c"> Full Text</a>
@@ -312,7 +607,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Administrator Baphomet Shuts Down Infamous Hacking Forum<a href="https://thehackernews.com/2023/03/breachforums-administrator-baphomet.html"> Full Text</a>
@@ -328,7 +623,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 22, 2023
+March 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Independent Living Systems data breach impacts more than 4M individuals<a href="https://securityaffairs.com/143832/data-breach/independent-living-systems-data-breach.html"> Full Text</a>
