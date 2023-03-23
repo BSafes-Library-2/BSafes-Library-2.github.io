@@ -34,6 +34,317 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Orbi router vulnerable to arbitrary command execution<a href="https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered four vulnerabilities in the Netgear Orbi mesh wireless system, including the main hub router and satellite routers that extend the network’s range.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alerts on Critical Security Vulnerabilities in Industrial Control Systems<a href="https://thehackernews.com/2023/03/cisa-alerts-on-critical-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released eight Industrial Control Systems (ICS)  advisories  on Tuesday, warning of critical flaws affecting equipment from Delta Electronics and Rockwell Automation. This includes 13 security vulnerabilities in Delta Electronics' InfraSuite Device Master, a real-time device monitoring software. All versions prior to 1.0.5 are affected by the issues. "Successful exploitation of these vulnerabilities could allow an unauthenticated attacker to obtain access to files and credentials, escalate privileges, and remotely execute arbitrary code," CISA  said . Top of the list is  CVE-2023-1133  (CVSS score: 9.8), a critical flaw that arises from the fact that InfraSuite Device Master accepts unverified UDP packets and  deserializes the content , thereby allowing an unauthenticated remote attacker to execute arbitrary code. Two other deserialization flaws,  CVE-2023-1139  (CVSS score: 8.8) and  CVE-2023-1145
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement of Cybersecurity Regulations: Part 1<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As government policy moves toward more binding rules for cybersecurity, how should they be enforced? Self-assessment and self-certification are not likely to suffice.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lionsgate streaming platform with 37m subscribers leaks user data<a href="https://securityaffairs.com/143886/security/lionsgate-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Entertainment industry giant Lionsgate leaked users' IP addresses and information about what content they watch on its movie-streaming platform, according to research from Cybernews.
+Original post at https://cybernews.com/security/lionsgate-data-leak/
+During...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emotet Adopts the Trend for OneNote Infection<a href="https://cyware.com/news/emotet-adopts-the-trend-for-onenote-infection-14dda4d4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researcher abel took the wraps off Emotet’s new distribution technique that allows it to propagate through Microsoft OneNote email attachments. The operators have a history of deploying malicious macros on infected systems via Microsoft Word and Excel attachments. This new method of infect ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScarCruft's Evolving Arsenal: Researchers Reveal New Malware Distribution Techniques<a href="https://thehackernews.com/2023/03/scarcrufts-evolving-arsenal-researchers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean advanced persistent threat (APT) actor dubbed ScarCruft is using weaponized Microsoft Compiled HTML Help (CHM) files to download additional malware. According to multiple reports from  AhnLab Security Emergency response Center  ( ASEC ),  SEKOIA.IO , and  Zscaler , the development is illustrative of the group's continuous efforts to refine and retool its tactics to sidestep detection. "The group is constantly evolving its tools, techniques, and procedures while experimenting with new file formats and methods to bypass security vendors," Zscaler researchers Sudeep Singh and Naveen Selvan said in a new analysis published Tuesday.  ScarCruft, also tracked under the names APT37, Reaper, RedEyes, and Ricochet Chollima, has exhibited an increased operational tempo since the start of the year, targeting various South Korean entities for espionage purposes. It is known to be active since at least 2012. Last month, ASEC  disclosed  a campaign that employed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue ChatGPT extension FakeGPT hijacked Facebook accounts<a href="https://securityaffairs.com/143873/cyber-crime/malicious-chatgpt-extension-for-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A tainted version of the legitimate ChatGPT extension for Chrome, designed to steal Facebook accounts, has thousands of downloads.
+Guardio’s security team uncovered a new variant of a malicious Chat-GPT Chrome Extension that was already downloaded...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYC Special Needs Students' Records Found Exposed on Web<a href="https://www.bankinfosecurity.com/nyc-special-needs-students-records-found-exposed-on-web-a-21489?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tens of thousands of documents containing personal information of special education students within New York City's public school system were held in an unsecured database exposed to the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing Insider Threats in Your Active Directory<a href="https://thehackernews.com/2023/03/preventing-insider-threats-in-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active Directory (AD) is a powerful authentication and directory service used by organizations worldwide. With this ubiquity and power comes the potential for abuse. Insider threats offer some of the most potentials for destruction. Many internal users have over-provisioned access and visibility into the internal network. Insiders' level of access and trust in a network leads to unique vulnerabilities. Network security often focuses on keeping a threat actor out, not on existing users' security and potential vulnerabilities. Staying on top of potential threats means protecting against inside and outside threats. Active Directory Vulnerabilities From the outside, a properly configured AD domain offers a secure authentication and authorization solution. But with complex social engineering and phishing email attacks, an existing AD user can become compromised. Once inside, threat actors have many options to attack Active Directory. Insecure Devices With "Bring Your Own
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploits for severe flaws in Netgear Orbi routers<a href="https://securityaffairs.com/143863/hacking/netgear-orbi-routers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos researchers published PoC exploits for vulnerabilities in Netgear Orbi 750 series router and extender satellites.
+Netgear Orbi is a line of mesh Wi-Fi systems designed to provide high-speed, reliable Wi-Fi coverage throughout a home or business....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trigona Evolves TTPs, Targets Orgs Worldwide<a href="https://cyware.com/news/trigona-evolves-ttps-targets-orgs-worldwide-195c80dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trigona ransomware, which surfaced in December 2022, targeted at least 15 organizations across different sectors in the U.S., Australia, Italy, France, New Zealand, and Germany. The malware is capable of getting initial access, performing reconnaissance, transferring malware via a remote monitoring ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue NuGet Packages Infect .NET Developers with Crypto-Stealing Malware<a href="https://thehackernews.com/2023/03/rogue-nuget-packages-infect-net.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  NuGet  repository is the target of a new "sophisticated and highly-malicious attack" aiming to infect .NET developer systems with cryptocurrency stealer malware. The 13 rogue packages, which were downloaded more than 160,000 times over the past month, have since been taken down. "The packages contained a PowerShell script that would execute upon installation and trigger a download of a 'second stage' payload, which could be remotely executed," JFrog researchers Natan Nehorai and Brian Moussalli  said . While NuGet packages have been in the past found to  contain vulnerabilities  and be abused to  propagate phishing links , the development marks the first-ever discovery of packages with malicious code. Three of the most downloaded packages – Coinbase.Core, Anarchy.Wrapper.Net, and DiscordRichPresence.API – alone accounted for 166,000 downloads, although it's also possible that the threat actors artificially inflated the download counts using bo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA: Ransomware became a prominent threat against the transport sector in 2022<a href="https://securityaffairs.com/143853/security/enisa-report-transport-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity (ENISA) published its first cyber threat landscape report for the transport sector.
+A new report published by the European Union Agency for Cybersecurity (ENISA) analyzes threats and incidents in the transport...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to combat hardware Trojans by detecting microchip manipulations<a href="https://www.helpnetsecurity.com/2023/03/22/hardware-trojans-detecting-microchip-manipulations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Ruhr University Bochum, Germany, and the Max Planck Institute for Security and Privacy (MPI-SP) are pioneering innovative detection techniques to combat these hardware Trojans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NAPLISTENER: New Malware in REF2924 Group's Arsenal for Bypassing Detection<a href="https://thehackernews.com/2023/03/new-naplistener-malware-used-by-ref2924.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group tracked as  REF2924  has been observed deploying previously unseen malware in its attacks aimed at entities in South and Southeast Asia. The malware, dubbed  NAPLISTENER  by Elastic Security Labs, is an HTTP listener programmed in C# and is designed to evade "network-based forms of detection." REF2924  is the moniker assigned to an activity cluster linked to attacks against an entity in Afghanistan as well as the Foreign Affairs Office of an ASEAN member in 2022. The threat actor's modus operandi suggests overlaps with another hacking group dubbed  ChamelGang , which was documented by Russian cybersecurity company Positive Technologies in October 2021. Attacks orchestrated by the group are said to have exploited internet-exposed Microsoft Exchange servers to  deploy backdoors  such as DOORME, SIESTAGRAPH, and ShadowPad. DOORME, an Internet Information Services ( IIS ) backdoor module, provides remote access to a contested network and executes addit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums current Admin Baphomet shuts down BreachForums<a href="https://securityaffairs.com/143845/hacking/breachforums-officially-taken-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Baphomet, the current administrator of BreachForums, announced that the popular hacking forum has been officially taken down.
+U.S. law enforcement arrested last week a US man that goes online with the moniker “Pompompurin,” the US citizen is accused...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter Vivern APT Targets European Government Entities With Aperetif<a href="https://cyware.com/news/winter-vivern-apt-targets-european-government-entities-with-aperetif-d027069c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne spotted the Winter Vivern APT group targeting Polish government agencies, Indian government entities, the Ukraine Ministry of Foreign Affairs, and the Italy Ministry of Foreign Affairs in cyberespionage campaigns since 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Administrator Baphomet Shuts Down Infamous Hacking Forum<a href="https://thehackernews.com/2023/03/breachforums-administrator-baphomet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sudden turn of events, Baphomet, the current administrator of BreachForums, said in an update on March 21, 2023, that the hacking forum has been officially taken down but emphasized that "it's not the end." "You are allowed to hate me, and disagree with my decision but I promise what is to come will be better for us all," Baphomet noted in a message posted on the BreachForums Telegram channel. The  shutdown  is suspected to have been prompted by suspicions that law enforcement may have obtained access to the site's configurations, source code, and information about the forum's users. The development follows the  arrest of its administrator  Conor Brian Fitzpatrick (aka "pompompurin"), who has been charged with a single count of conspiracy to commit access device fraud. Over the past few months, BreachForums filled the void left by RaidForums last year, becoming a lucrative destination to purchase and sell stolen databases from variou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Independent Living Systems data breach impacts more than 4M individuals<a href="https://securityaffairs.com/143832/data-breach/independent-living-systems-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US health services company Independent Living Systems (ILS) discloses a data breach that impacted more than 4 million individuals.
+US health services company Independent Living Systems (ILS) disclosed a data breach that exposed personal and medical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 21, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
