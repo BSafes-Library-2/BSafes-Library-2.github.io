@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Updates its Tactics to Target South Korean Experts<a href="https://cyware.com/news/kimsuky-updates-its-tactics-to-target-south-korean-experts-b91c5c6d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German and South Korean government agencies warned about a new spear-phishing campaign by the North Korean APT, Kimsuky. The campaign targets experts on issues related to the Korean peninsula. Attackers send a spear-phishing email to the targeted victims, asking them to install a malicious Chrome e ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Magic APT Targets Ukraine with CommonMagic and PowerMagic<a href="https://cyware.com/news/black-magic-apt-targets-ukraine-with-commonmagic-and-powermagic-20a39894"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers have identified cyberattacks targeting government, agriculture, and transportation organizations in Donetsk, Lugansk, and Crimea, conducted by the new Bad Magic APT. The campaign leverages old artifacts created as early as September 2021, along with a previously unseen malicio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German and South Korean Agencies Warn of Kimsuky's Expanding Cyber Attack Tactics<a href="https://thehackernews.com/2023/03/german-and-south-korean-agencies-warn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German and South Korean government agencies have warned about cyber attacks mounted by a threat actor tracked as&nbsp; Kimsuky &nbsp;using rogue browser extensions to steal users' Gmail inboxes. The&nbsp; joint advisory &nbsp; comes &nbsp;from Germany's domestic intelligence apparatus, the Federal Office for the Protection of the Constitution (BfV), and South Korea's National Intelligence Service of the Republic of Korea (NIS). The intrusions are designed to strike "experts on the Korean Peninsula and North Korea issues" through spear-phishing campaigns, the agencies noted. Kimsuky , also known Black Banshee, Thallium, and Velvet Chollima, refers to a&nbsp; subordinate element &nbsp;within North Korea's Reconnaissance General Bureau and is known to "collect strategic intelligence on geopolitical events and negotiations affecting the DPRK's interests." Primary targets of interest include entities in the U.S. and South Korea, particularly singling out individuals working within
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

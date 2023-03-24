@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Skylink hit by hacker attack<a href="https://www.broadbandtvnews.com/2023/03/22/skylink-hit-by-hacker-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+M7 Group’s Czech and Slovak operator Skylink has reportedly fallen victim to a hacker attack. Skylink offers DTH and internet TV services in the Czech Republic and Slovakia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

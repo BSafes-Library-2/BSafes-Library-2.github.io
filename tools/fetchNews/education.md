@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing Insider Threats in Your Active Directory<a href="https://thehackernews.com/2023/03/preventing-insider-threats-in-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active Directory (AD) is a powerful authentication and directory service used by organizations worldwide. With this ubiquity and power comes the potential for abuse. Insider threats offer some of the most potentials for destruction. Many internal users have over-provisioned access and visibility into the internal network. Insiders' level of access and trust in a network leads to unique vulnerabilities. Network security often focuses on keeping a threat actor out, not on existing users' security and potential vulnerabilities. Staying on top of potential threats means protecting against inside and outside threats. Active Directory Vulnerabilities From the outside, a properly configured AD domain offers a secure authentication and authorization solution. But with complex social engineering and phishing email attacks, an existing AD user can become compromised. Once inside, threat actors have many options to attack Active Directory. Insecure Devices With "Bring Your Own
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to combat hardware Trojans by detecting microchip manipulations<a href="https://www.helpnetsecurity.com/2023/03/22/hardware-trojans-detecting-microchip-manipulations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Ruhr University Bochum, Germany, and the Max Planck Institute for Security and Privacy (MPI-SP) are pioneering innovative detection techniques to combat these hardware Trojans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

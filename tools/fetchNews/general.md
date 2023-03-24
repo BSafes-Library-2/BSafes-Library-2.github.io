@@ -8,6 +8,21 @@ nav_order: 900072
 
 ## General
 ---
+March 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ENISA: Ransomware became a prominent threat against the transport sector in 2022<a href="https://securityaffairs.com/143853/security/enisa-report-transport-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity (ENISA) published its first cyber threat landscape report for the transport sector.
+A new report published by the European Union Agency for Cybersecurity (ENISA) analyzes threats and incidents in the transport...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

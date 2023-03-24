@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed multiple severe vulnerabilities in its IOS and IOS XE software<a href="https://securityaffairs.com/143922/security/cisco-vulnerabilities-ios-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed tens of vulnerabilities in its IOS and IOS XE software, six of these issues have been rated ‘high severity’.
+Cisco published the March 2023 Semiannual IOS and IOS XE Software Security Advisory that addresses several vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches High-Severity Vulnerabilities in IOS Software<a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-ios-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco published its semiannual IOS and IOS XE software security advisory bundle, which addresses ten vulnerabilities, including six 'high-severity’ ones. The most important three security bugs can be exploited remotely to cause a DoS condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

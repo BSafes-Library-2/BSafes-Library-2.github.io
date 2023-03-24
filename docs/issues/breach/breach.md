@@ -8,6 +8,51 @@ nav_order: 900029
 
 ## Breach
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A million at risk from user data leak at Korean beauty platform PowderRoom<a href="https://securityaffairs.com/143940/data-breach/korean-beauty-platform-powderroom-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean beauty content platform, PowderRoom, has leaked the personal information of nearly one million people.
+Established in 2003, PowderRoom is a South Korean beauty content platform connecting 3.5 million members and thousands of beauty brands
+It...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Soft Cell: Chinese Hackers Breach Middle East Telecom Providers<a href="https://thehackernews.com/2023/03/operation-soft-cell-chinese-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication providers in the Middle East are the subject of new cyber attacks that commenced in the first quarter of 2023. The intrusion set has been attributed to a Chinese cyber espionage actor associated with a long-running campaign dubbed&nbsp; Operation Soft Cell &nbsp;based on tooling overlaps. "The initial attack phase involves infiltrating Internet-facing Microsoft Exchange servers to deploy web shells used for command execution," researchers from SentinelOne and QGroup said in a&nbsp; new technical report &nbsp;shared with The Hacker News. "Once a foothold is established, the attackers conduct a variety of reconnaissance, credential theft, lateral movement, and data exfiltration activities." Operation Soft Cell, according to&nbsp; Cybereason , refers to malicious activities undertaken by China-affiliated actors targeting telecommunications providers since at least 2012. The Soft Cell threat actor, also tracked by Microsoft as&nbsp; Gallium , is known to target unpatched int
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dole discloses data breach after February ransomware attack<a href="https://securityaffairs.com/143902/data-breach/dole-food-company-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dole Food Company confirmed that threat actors behind the recent ransomware attack had access to employees' data.
+Dole Food Company&nbsp;is an&nbsp;Irish agricultural multinational corporation, it is one of the world’s largest&nbsp;producers&nbsp;of...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
