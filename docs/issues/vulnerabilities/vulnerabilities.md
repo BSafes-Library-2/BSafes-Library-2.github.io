@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in WooCommerce Payments plugin allows site takeover<a href="https://securityaffairs.com/143959/security/woocommerce-payments-plugin-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A patch for a critical vulnerability in the WooCommerce Payments plugin for WordPress has been released for over 500,000 websites.
+On March 23, 2023, researchers from Wordfence observed that the “WooCommerce Payments – Fully Integrated Solution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WooCommerce Payments Plugin Flaw Patched for 500,000+ WordPress Sites<a href="https://thehackernews.com/2023/03/critical-woocommerce-payments-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been released for a critical security flaw impacting the WooCommerce Payments plugin for WordPress, which is installed on over 500,000 websites. The flaw, if left unresolved, could enable a bad actor to gain unauthorized admin access to impacted stores, the company said in an advisory on March 23, 2023. It impacts versions 4.8.0 through 5.6.1. Put differently, the issue could permit an "unauthenticated attacker to impersonate an administrator and completely take over a website without any user interaction or social engineering required," WordPress security company Wordfence&nbsp; said . The vulnerability appears to reside in a PHP file called "class-platform-checkout-session.php," Sucuri researcher Ben Martin&nbsp; noted . Credited with discovering and reporting the vulnerability is Michael Mazzolini of Swiss penetration testing company GoldNetwork. WooCommerce also&nbsp; said &nbsp;it worked with WordPress to auto-update sites using affected versions of the softwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Found in WellinTech Industrial Data Historian<a href="https://www.securityweek.com/high-severity-vulnerabilities-found-in-wellintech-industrial-data-historian/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco’s Talos threat intelligence and research unit this week disclosed the details of two high-severity vulnerabilities discovered last year in WellinTech’s KingHistorian industrial data historian software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

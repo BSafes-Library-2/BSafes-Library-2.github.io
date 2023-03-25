@@ -34,6 +34,316 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious JavaScript Injection Campaign Infects 51,000 Websites<a href="https://unit42.paloaltonetworks.com/malicious-javascript-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers have been tracking a widespread malicious JavaScript (JS) injection campaign that redirects victims to malicious content such as adware and scam pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Python Package Uses Unicode Trickery to Evade Detection and Steal Data<a href="https://thehackernews.com/2023/03/malicious-python-package-uses-unicode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious Python package on the Python Package Index (PyPI) repository has been found to use Unicode as a trick to evade detection and deploy an info-stealing malware. The package in question, named  onyxproxy , was uploaded to PyPI on March 15, 2023, and comes with capabilities to harvest and exfiltrate credentials and other valuable data. It has since been taken down, but not before attracting a total of  183 downloads . According to software supply chain security firm Phylum, the package incorporates its malicious behavior in a setup script that's packed with thousands of seemingly legitimate code strings. These strings include a mix of bold and italic fonts and are still readable and can be parsed by the Python interpreter, only to activate the execution of the stealer malware upon installation of the package.  "An obvious and immediate benefit of this strange scheme is readability," the company  noted . "Moreover, these visible differences do not prevent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Export Control is Not a Magic Bullet for Cyber Mercenaries<a href="https://www.lawfareblog.com/export-control-not-magic-bullet-cyber-mercenaries"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and the EU need to do more to limit the damage to their intelligence and law enforcement capabilities caused by cyber mercenaries.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA announced the Pre-Ransomware Notifications initiative<a href="https://securityaffairs.com/143990/security/cisa-pre-ransomware-notifications-intiative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) announced the Pre-Ransomware Notifications service to help organizations stop ransomware attacks before damage occurs.
+The US Cybersecurity and Infrastructure Security Agency announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake IRS tax email delivers Emotet malware<a href="https://www.malwarebytes.com/blog/news/2023/03/beware-fake-irs-tax-email-delivers-emotet-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this case, Form W-9 is being used as a lure for people to download something sinister. The attachment, W-9 form.zip, is 709 KB in size. Opening the attachment reveals a Word document called W-9 form.doc that is over 500MB in size.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+THN Webinar: Inside the High Risk of 3rd-Party SaaS Apps<a href="https://thehackernews.com/2023/03/thn-webinar-inside-high-risk-of-3rd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any app that can improve business operations is quickly added to the SaaS stack. However, employees don't realize that this SaaS-to-SaaS connectivity, which typically takes place outside the view of the security team, significantly increases risk. Whether employees connect through Microsoft 365, Google Workspace, Slack, Salesforce, or any other app, security teams have no way to quantify their exposure. These 'secondary' apps can be requesting an intrusive set of permissions or be malicious. Every click authorizing access may grant the right to edit or delete company files, send emails on behalf of the user, create new files, or otherwise handle data in a way that poses a profound threat to the organization's security. To handle the SaaS Security challenges, security teams need to address the entire SaaS ecosystem.  Today's SaaS security evolution has expanded SaaS security beyond simply preventing access. It extends far beyond securing the app. Today's orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked hackers target telecommunication providers in the Middle East<a href="https://securityaffairs.com/143928/apt/operation-soft-cell-china-telecom-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that China-linked hackers targeted telecommunication providers in the Middle East in the first quarter of 2023.
+In the first quarter of 2023, SentinelLabs researchers spotted the initial phases of attacks against telecommunication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A look at a Magecart skimmer using the Hunter obfuscator<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/03/hunter-skimmer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a victim who is shopping at a compromised online store goes to the checkout page, there will be additional fields injected in the contact form that aren't normally there.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [General](/docs/issues/general/general/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Swiftly Replaces Exposed RSA SSH Key to Protect Git Operations<a href="https://thehackernews.com/2023/03/github-swiftly-replaces-exposed-rsa-ssh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub said it took the step of replacing its RSA SSH host key used to secure Git operations "out of an abundance of caution" after it was briefly exposed in a public repository. The activity, which was carried out at 05:00 UTC on March 24, 2023, is said to have been undertaken as a measure to prevent any bad actor from impersonating the service or eavesdropping on users' operations over SSH. "This key does not grant access to GitHub's infrastructure or customer data," Mike Hanley, chief security officer and SVP of engineering at GitHub,  said  in a post. "This change only impacts Git operations over SSH using RSA." The move does not impact Web traffic to GitHub.com and Git operations performed via HTTPS. No change is required for ECDSA or Ed25519 users. The Microsoft-owned company said there is no evidence that the exposed SSH private key was exploited by adversaries. It further emphasized that the &qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Toronto is one of the victims hacked by Clop gang using GoAnywhere zero-day<a href="https://securityaffairs.com/143938/breaking-news/city-of-toronto-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware gang added the City of Toronto to the list of its victims, it is another organization compromised by exploiting GoAnywhere zero-day.
+Clop ransomware gang added the City of Toronto to the list of victims published on its Tor leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Deploy New AresLoader Malware via Decoy Installers<a href="https://www.csoonline.com/article/3691633/russian-hacktivists-deploy-new-aresloader-malware-via-decoy-installers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious program appears to be developed and used by several members of a pro-Russia hacktivist group and is typically distributed inside decoy installers for legitimate software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Chinese Nation State Hackers' Deceptive Attack Strategies<a href="https://thehackernews.com/2023/03/researchers-uncover-chinese-nation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign undertaken by  Earth Preta  indicates that nation-state groups aligned with China are getting increasingly proficient at bypassing security solutions. The  threat actor , active since at least 2012, is tracked by the broader cybersecurity community under Bronze President, HoneyMyte, Mustang Panda, RedDelta, and Red Lich. Attack chains mounted by the group commence with a spear-phishing email to deploy a wide range of tools for backdoor access, command-and-control (C2), and data exfiltration. These messages come bearing with malicious lure archives distributed via Dropbox or Google Drive links that employ DLL side-loading, LNK shortcut files, and fake file extensions as arrival vectors to obtain a foothold and drop backdoors like  TONEINS, TONESHELL, PUBLOAD , and  MQsTTang  (aka QMAGENT). Similar infection chains utilizing Google Drive links have been observed  delivering Cobalt Strike  as early as April 2021. "Earth Preta tends to hide malicious payloads
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in WooCommerce Payments plugin allows site takeover<a href="https://securityaffairs.com/143959/security/woocommerce-payments-plugin-critical-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A patch for a critical vulnerability in the WooCommerce Payments plugin for WordPress has been released for over 500,000 websites.
+On March 23, 2023, researchers from Wordfence observed that the “WooCommerce Payments – Fully Integrated Solution...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Toronto and Financing Firm Investissement Québec
+Confirm Being Hit by Ransomware Attack<a href="https://techcrunch.com/2023/03/22/fortra-goanywhere-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Today, the City of Toronto has confirmed that unauthorized access to City data did occur through a third party vendor. The access is limited to files that were unable to be processed through the third-party secure file transfer system,” it said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WooCommerce Payments Plugin Flaw Patched for 500,000+ WordPress Sites<a href="https://thehackernews.com/2023/03/critical-woocommerce-payments-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been released for a critical security flaw impacting the WooCommerce Payments plugin for WordPress, which is installed on over 500,000 websites. The flaw, if left unresolved, could enable a bad actor to gain unauthorized admin access to impacted stores, the company said in an advisory on March 23, 2023. It impacts versions 4.8.0 through 5.6.1. Put differently, the issue could permit an "unauthenticated attacker to impersonate an administrator and completely take over a website without any user interaction or social engineering required," WordPress security company Wordfence  said . The vulnerability appears to reside in a PHP file called "class-platform-checkout-session.php," Sucuri researcher Ben Martin  noted . Credited with discovering and reporting the vulnerability is Michael Mazzolini of Swiss penetration testing company GoldNetwork. WooCommerce also  said  it worked with WordPress to auto-update sites using affected versions of the softwar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 Day 2: Microsoft Teams, Oracle VirtualBox, and Tesla hacked<a href="https://securityaffairs.com/143950/hacking/pwn2own-vancouver-2023-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the second day of Pwn2Own Vancouver 2023, the organization awarded $475,000 for 10 unique zero-day vulnerabilities.
+On the second day of Pwn2Own Vancouver 2023, the organization awarded $475,000 for 10 unique zero-day vulnerabilities, bringing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Found in WellinTech Industrial Data Historian<a href="https://www.securityweek.com/high-severity-vulnerabilities-found-in-wellintech-industrial-data-historian/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco’s Talos threat intelligence and research unit this week disclosed the details of two high-severity vulnerabilities discovered last year in WellinTech’s KingHistorian industrial data historian software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy APT Targets India's Premier Defense Research Agency<a href="https://www.bankinfosecurity.com/sidecopy-apt-targets-indias-premier-defense-research-agency-a-21512?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideCopy APT traditionally uses spear phishing as its method to gain initial entry. Emails in the latest campaign purportedly contain research material about military technologies sent as attachments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+User Data Leak at Korean Beauty Platform PowderRoom Impacts One Million People<a href="https://securityaffairs.com/143940/data-breach/korean-beauty-platform-powderroom-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybernews research team discovered that the South Korean social platform, powderroom.co.kr – which markets itself as the nation’s biggest beauty community – was leaking the private data of a million users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 23, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

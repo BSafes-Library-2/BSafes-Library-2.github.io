@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake IRS tax email delivers Emotet malware<a href="https://www.malwarebytes.com/blog/news/2023/03/beware-fake-irs-tax-email-delivers-emotet-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this case, Form W-9 is being used as a lure for people to download something sinister. The attachment, W-9 form.zip, is 709 KB in size. Opening the attachment reveals a Word document called W-9 form.doc that is over 500MB in size.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

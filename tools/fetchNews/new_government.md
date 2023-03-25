@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA announced the Pre-Ransomware Notifications&nbsp;initiative<a href="https://securityaffairs.com/143990/security/cisa-pre-ransomware-notifications-intiative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) announced the Pre-Ransomware Notifications service to help organizations stop ransomware attacks before damage occurs.
+The US Cybersecurity and Infrastructure Security Agency announced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

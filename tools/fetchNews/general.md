@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2023 Cybersecurity Maturity Report Reveals Organizational Unpreparedness for Cyberattacks<a href="https://thehackernews.com/2023/03/2023-cybersecurity-maturity-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022 alone, global cyberattacks increased by 38%, resulting in substantial business loss, including financial and reputational damage. Meanwhile, corporate security budgets have risen significantly because of the growing sophistication of attacks and the number of cybersecurity solutions introduced into the market. With this rise in threats, budgets, and solutions, how prepared are industries and countries to effectively address today's cyber risk?&nbsp; CYE's new&nbsp; Cybersecurity Maturity Report 2023 &nbsp;tackles this question by shedding light on the strength of cybersecurity in different sectors, company sizes, and countries. It highlights which industries and countries have the most robust cyber postures and which are lagging, as well as the most prevalent vulnerabilities in today's cyber threat landscape. The analysis is based on two years' worth of data, collected from over 500 organizations in 15 countries, and spanning 11 industries and a range of company sizes. It measures cybersec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists Increasingly Claim Targeting of OT Systems<a href="https://www.mandiant.com/resources/blog/hacktivists-targeting-ot-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of false claims is at times challenging to debunk. However, despite the inaccuracy of most claims, when hacktivist activity targeting OT becomes commonplace, the likelihood of actual and even substantial OT incidents increases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 Day 1: Windows 11 and Tesla hacked<a href="https://securityaffairs.com/143892/hacking/pwn2own-vancouver-2023-day-1.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the first day of Pwn2Own Vancouver 2023, the organization awarded $375,000 (and a Tesla Model 3) for 12 zero-day flaws.
+The Pwn2Own Vancouver 2023 has begun, this hacking competition has 19 entries targeting nine different targets - including two Tesla...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

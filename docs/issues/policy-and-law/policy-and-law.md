@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Export Control is Not a Magic Bullet for Cyber Mercenaries<a href="https://www.lawfareblog.com/export-control-not-magic-bullet-cyber-mercenaries"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. and the EU need to do more to limit the damage to their intelligence and law enforcement capabilities caused by cyber mercenaries.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

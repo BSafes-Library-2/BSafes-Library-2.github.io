@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splashtop Buys Foxpass to Bring Enterprise IAM to the Masses<a href="https://www.bankinfosecurity.com/splashtop-buys-foxpass-to-bring-enterprise-iam-to-masses-a-21497?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access provider Splashtop has acquired the server and network access management vendor Foxpass to get better visibility across co-managed and multi-tenant environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backslash Snags $8M Seed Financing for AppSec Tech<a href="https://www.securityweek.com/backslash-snags-8m-seed-financing-for-appsec-tech/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli startup said the financing was provided by StageOne Ventures, First Rays Venture Partners, and D. E. Shaw &amp; Co. A roster of prominent security practitioners and entrepreneurs also joined the round.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

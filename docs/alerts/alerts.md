@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Mar 23, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Getting Ahead of the Ransomware Epidemic: CISA’s Pre-Ransomware Notifications Help Organizations Stop Attacks Before Damage Occurs <a href="https://www.cisa.gov/news-events/news/getting-ahead-ransomware-epidemic-cisas-pre-ransomware-notifications-help-organizations-stop-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past several years, ransomware attacks have caused extraordinary harm to American organizations: schools forced to close, hospitals required to divert patients, companies across all sectors facing operational disruption and expending untold sums on mitigation and recovery. At CISA, we are working with partners to take every possible step to reduce the prevalence and impact of ransomware attacks. We recently announced an important initiative to help organizations more quickly fix vulnerabilities that are targeted by ransomware actors. Today, we’re excited to announce a related effort that is already showing impact in actually reducing the harm from ransomware intrusions: our Pre-Ransomware Notification Initiative. Like our work to reduce the prevalence of vulnerabilities, this effort is coordinated as part of our interagency Joint Ransomware Task Force.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 Mar 21, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

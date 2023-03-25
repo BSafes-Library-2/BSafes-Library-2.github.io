@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious JavaScript Injection Campaign Infects 51,000 Websites<a href="https://unit42.paloaltonetworks.com/malicious-javascript-injection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers have been tracking a widespread malicious JavaScript (JS) injection campaign that redirects victims to malicious content such as adware and scam pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
