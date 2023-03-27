@@ -34,7 +34,286 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI: A Redis bug caused a recent ChatGPT data exposure incident<a href="https://securityaffairs.com/144057/data-breach/openai-chatgpt-redis-bug-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI revealed that a Redis bug was the root cause of the recent exposure of users' personal information and chat titles in ChatGPT service.
+On Friday, OpenAI revealed that the recent exposure of users' personal information and chat titles in its chatbot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 412 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144054/breaking-news/security-affairs-newsletter-round-412-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the international press subscribe here.
+NCA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares guidance for investigating attacks exploiting CVE-2023-23397<a href="https://securityaffairs.com/144040/apt/detecting-cve-2023-23397-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of cyber attacks exploiting a recently patched Outlook vulnerability tracked as CVE-2023-23397 (CVSS score: 9.8).
+Microsoft published guidance for investigating attacks exploiting recently patched Outlook vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society claims attack on Puerto Rico Aqueduct and Sewer Authority<a href="https://securityaffairs.com/144022/hacking/puerto-rico-aqueduct-and-sewer-authority-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Puerto Rico Aqueduct and Sewer Authority (PRASA) is investigating a cyber attack with the help of the FBI and US CISA.
+The Puerto Rico Aqueduct and Sewer Authority (PRASA) is investigating a cyberattack that last week hit the agency. The agency quickly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in AI testing framework MLflow can lead to server and data compromise<a href="https://www.csoonline.com/article/3691612/critical-flaw-in-ai-testing-framework-mlflow-can-lead-to-server-and-data-compromise.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability found by Dan McInerney is tracked as CVE-2023-1177 and is rated 10 (critical) on the CVSS scale. It is described as a local and remote file inclusion (LFI/RFI) via the API.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. National Crime Agency Sets Up Fake DDoS-For-Hire Sites to Catch Cybercriminals<a href="https://thehackernews.com/2023/03/uk-national-crime-agency-sets-up-fake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a case of setting a thief to catch a thief, the U.K. National Crime Agency (NCA) revealed that it has created a network of fake DDoS-for-hire websites to infiltrate the online criminal underground. "All of the NCA-run sites, which have so far been accessed by around several thousand people, have been created to look like they offer the tools and services that enable cyber criminals to execute these attacks," the law enforcement agency  said . "However, after users register, rather than being given access to cyber crime tools, their data is collated by investigators." The effort is part of an ongoing international joint effort called Operation PowerOFF in collaboration with authorities from the U.S., the Netherlands, Germany, Poland, and Europol aimed at dismantling criminal DDoS-for-hire infrastructures worldwide. DDoS-for-hire (aka "Booter" or "Stresser") services rent out access to a network of infected devices to other crim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cork-based Dope Security lands $16m investment<a href="https://www.siliconrepublic.com/start-ups/dope-security-startup-funding-cybersecurity-google-ventures?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round was led by Google Ventures (GV), with participation from existing investors Boldstart Ventures and Preface. The company plans to use some of the funding to expand its engineering team in Cork.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Stealthy Outlook Vulnerability Exploited by Russian Hackers<a href="https://thehackernews.com/2023/03/microsoft-warns-of-stealthy-outlook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday shared guidance to help customers discover indicators of compromise (IoCs) associated with a recently patched Outlook vulnerability. Tracked as CVE-2023-23397 (CVSS score: 9.8), the  critical flaw  relates to a case of privilege escalation that could be exploited to steal NT Lan Manager (NTLM) hashes and stage a  relay attack  without requiring any user interaction. "External attackers could send specially crafted emails that will cause a connection from the victim to an untrusted location of attackers' control," the company  noted  in an advisory released this month. "This will leak the  Net-NTLMv2 hash  of the victim to the untrusted network which an attacker can then relay to another service and authenticate as the victim." The vulnerability was resolved by Microsoft as part of its  Patch Tuesday updates  for March 2023, but not before Russia-based threat actors weaponized the flaw in attacks targeting government, transportation, ene
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Instagram scam uses fake SHEIN gift cards as lure<a href="https://blog.avast.com/shein-instagram-scam?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This social media scam begins with a comment from a random account on a user’s post, which congratulates the victim saying they’re one of the 2023 lucky ones selected to receive a SHEIN gift card.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI Reveals Redis Bug Behind ChatGPT User Data Exposure Incident<a href="https://thehackernews.com/2023/03/openai-reveals-redis-bug-behind-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI on Friday disclosed that a bug in the Redis open source library was responsible for the exposure of other users' personal information and chat titles in the upstart's ChatGPT service earlier this week. The  glitch , which came to light on March 20, 2023, enabled certain users to view brief descriptions of other users' conversations from the chat history sidebar, prompting the company to temporarily shut down the chatbot. "It's also possible that the first message of a newly-created conversation was visible in someone else's chat history if both users were active around the same time," the company  said . The bug, it further added, originated in the  redis-py library , leading to a scenario where canceled requests could cause connections to be corrupted and return unexpected data from the database cache, in this case, information belonging to an unrelated user. To make matters worse, the San Francisco-based AI research company said it introduce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok CEO got grilled by lawmakers from both parties on whether the Chinese-owned app can protect American privacy<a href="https://www.cnbc.com/2023/03/23/tiktok-ceo-grilled-by-lawmakers-from-both-parties-over-china-ties.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok CEO Shou Zi Chew’s testimony did not seem to quell many concerns that lawmakers had about the company’s connections to China or the adequacy of its risk-mitigation plan, Project Texas.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroger Postal Prescription Services Files Notice of Data Breach Impacting 82,466 Consumers<a href="https://www.jdsupra.com/legalnews/kroger-postal-prescription-services-4845634/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upon discovering that sensitive consumer data was made available to an unauthorized party, Kroger Postal Prescription Services began to review the affected files to determine what information was compromised and which consumers were impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCA infiltrates the cybercriminal underground with fake DDoS-for-hire sites<a href="https://securityaffairs.com/144011/cyber-crime/nca-fake-ddos-for-hire-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Crime Agency (NCA) revealed that it has set up a number of fake DDoS-for-hire sites to infiltrate the online criminal underground.
+The UK National Crime Agency announced it has infiltrated the online criminal marketplace by setting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britive, which helps secure public clouds, lands $20.5M investment<a href="https://techcrunch.com/2023/03/23/britive-which-helps-secure-public-clouds-lands-20-5m-investment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Led by Pelion Venture Partners with participation from Liberty Global Ventures, Crosslink Capital and One Way Ventures, the new brings Britive’s total raised to $36 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 awarded $1,035,000 and a Tesla for 27 0-days<a href="https://securityaffairs.com/144001/hacking/pwn2own-vancouver-2023-results.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third day of the Pwn2Own Vancouver 2023 hacking contest, the organization awarded $185,000 for 10 zero-day exploits.
+Pwn2Own Vancouver 2023 is ended, contestants disclosed 27 unique zero-days and the organization awarded a total of $1,035,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 Day 2: Microsoft Teams, Oracle VirtualBox, and Tesla hacked<a href="https://securityaffairs.com/143950/hacking/pwn2own-vancouver-2023-day-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the second day of Pwn2Own Vancouver 2023, the bug hunters demonstrated zero-day attacks against the Oracle VirtualBox virtualization platform, Microsoft Teams, Tesla Model 3, and the Ubuntu Desktop OS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 Day 1: Windows 11 and Tesla hacked<a href="https://securityaffairs.com/143892/hacking/pwn2own-vancouver-2023-day-1.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pwn2Own Vancouver 2023 has begun, this hacking competition has 19 entries targeting nine different targets – including two Tesla attempts. On the first day, it awarded $375,000 (and a Tesla Model 3) for 12 zero-day vulnerabilities discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious JavaScript Injection Campaign Infects 51,000 Websites<a href="https://unit42.paloaltonetworks.com/malicious-javascript-injection/?&web_view=true"> Full Text</a>
@@ -50,7 +329,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Python Package Uses Unicode Trickery to Evade Detection and Steal Data<a href="https://thehackernews.com/2023/03/malicious-python-package-uses-unicode.html"> Full Text</a>
@@ -66,7 +345,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Export Control is Not a Magic Bullet for Cyber Mercenaries<a href="https://www.lawfareblog.com/export-control-not-magic-bullet-cyber-mercenaries"> Full Text</a>
@@ -82,7 +361,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA announced the Pre-Ransomware Notifications initiative<a href="https://securityaffairs.com/143990/security/cisa-pre-ransomware-notifications-intiative.html"> Full Text</a>
@@ -99,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake IRS tax email delivers Emotet malware<a href="https://www.malwarebytes.com/blog/news/2023/03/beware-fake-irs-tax-email-delivers-emotet-malware?&web_view=true"> Full Text</a>
@@ -115,7 +394,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 THN Webinar: Inside the High Risk of 3rd-Party SaaS Apps<a href="https://thehackernews.com/2023/03/thn-webinar-inside-high-risk-of-3rd.html"> Full Text</a>
@@ -131,7 +410,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked hackers target telecommunication providers in the Middle East<a href="https://securityaffairs.com/143928/apt/operation-soft-cell-china-telecom-providers.html"> Full Text</a>
@@ -148,7 +427,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A look at a Magecart skimmer using the Hunter obfuscator<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/03/hunter-skimmer?&web_view=true"> Full Text</a>
@@ -164,7 +443,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [General](/docs/issues/general/general/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Swiftly Replaces Exposed RSA SSH Key to Protect Git Operations<a href="https://thehackernews.com/2023/03/github-swiftly-replaces-exposed-rsa-ssh.html"> Full Text</a>
@@ -180,7 +459,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Toronto is one of the victims hacked by Clop gang using GoAnywhere zero-day<a href="https://securityaffairs.com/143938/breaking-news/city-of-toronto-clop-ransomware.html"> Full Text</a>
@@ -197,7 +476,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Deploy New AresLoader Malware via Decoy Installers<a href="https://www.csoonline.com/article/3691633/russian-hacktivists-deploy-new-aresloader-malware-via-decoy-installers.html?&web_view=true"> Full Text</a>
@@ -213,7 +492,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Chinese Nation State Hackers' Deceptive Attack Strategies<a href="https://thehackernews.com/2023/03/researchers-uncover-chinese-nation.html"> Full Text</a>
@@ -229,7 +508,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical flaw in WooCommerce Payments plugin allows site takeover<a href="https://securityaffairs.com/143959/security/woocommerce-payments-plugin-critical-bugs.html"> Full Text</a>
@@ -246,7 +525,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Toronto and Financing Firm Investissement Québec
@@ -263,7 +542,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical WooCommerce Payments Plugin Flaw Patched for 500,000+ WordPress Sites<a href="https://thehackernews.com/2023/03/critical-woocommerce-payments-plugin.html"> Full Text</a>
@@ -279,7 +558,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pwn2Own Vancouver 2023 Day 2: Microsoft Teams, Oracle VirtualBox, and Tesla hacked<a href="https://securityaffairs.com/143950/hacking/pwn2own-vancouver-2023-day-2.html"> Full Text</a>
@@ -296,7 +575,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Vulnerabilities Found in WellinTech Industrial Data Historian<a href="https://www.securityweek.com/high-severity-vulnerabilities-found-in-wellintech-industrial-data-historian/?&web_view=true"> Full Text</a>
@@ -312,7 +591,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy APT Targets India's Premier Defense Research Agency<a href="https://www.bankinfosecurity.com/sidecopy-apt-targets-indias-premier-defense-research-agency-a-21512?&web_view=true"> Full Text</a>
@@ -328,7 +607,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 24, 2023
+March 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 User Data Leak at Korean Beauty Platform PowderRoom Impacts One Million People<a href="https://securityaffairs.com/143940/data-breach/korean-beauty-platform-powderroom-data-leak.html?&web_view=true"> Full Text</a>
