@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+March 24, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Swiftly Replaces Exposed RSA SSH Key to Protect Git Operations<a href="https://thehackernews.com/2023/03/github-swiftly-replaces-exposed-rsa-ssh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-based repository hosting service GitHub said it took the step of replacing its RSA SSH host key used to secure Git operations "out of an abundance of caution" after it was briefly exposed in a public repository. The activity, which was carried out at 05:00 UTC on March 24, 2023, is said to have been undertaken as a measure to prevent any bad actor from impersonating the service or eavesdropping on users' operations over SSH. "This key does not grant access to GitHub's infrastructure or customer data," Mike Hanley, chief security officer and SVP of engineering at GitHub,&nbsp; said &nbsp;in a post. "This change only impacts Git operations over SSH using RSA." The move does not impact Web traffic to GitHub.com and Git operations performed via HTTPS. No change is required for ECDSA or Ed25519 users. The Microsoft-owned company said there is no evidence that the exposed SSH private key was exploited by adversaries. It further emphasized that the &amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 Day 2: Microsoft Teams, Oracle VirtualBox, and Tesla hacked<a href="https://securityaffairs.com/143950/hacking/pwn2own-vancouver-2023-day-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the second day of Pwn2Own Vancouver 2023, the organization awarded $475,000 for 10 unique zero-day vulnerabilities.
+On the second day of Pwn2Own Vancouver 2023, the organization awarded $475,000 for 10 unique zero-day vulnerabilities, bringing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

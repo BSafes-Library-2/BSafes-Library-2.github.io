@@ -8,6 +8,49 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked hackers target telecommunication providers in the Middle East<a href="https://securityaffairs.com/143928/apt/operation-soft-cell-china-telecom-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that China-linked hackers targeted telecommunication providers in the Middle East in the first quarter of 2023.
+In the first quarter of 2023, SentinelLabs researchers spotted the initial phases of attacks against telecommunication...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Deploy New AresLoader Malware via Decoy Installers<a href="https://www.csoonline.com/article/3691633/russian-hacktivists-deploy-new-aresloader-malware-via-decoy-installers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious program appears to be developed and used by several members of a pro-Russia hacktivist group and is typically distributed inside decoy installers for legitimate software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Chinese Nation State Hackers' Deceptive Attack Strategies<a href="https://thehackernews.com/2023/03/researchers-uncover-chinese-nation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent campaign undertaken by&nbsp; Earth Preta &nbsp;indicates that nation-state groups aligned with China are getting increasingly proficient at bypassing security solutions. The&nbsp; threat actor , active since at least 2012, is tracked by the broader cybersecurity community under Bronze President, HoneyMyte, Mustang Panda, RedDelta, and Red Lich. Attack chains mounted by the group commence with a spear-phishing email to deploy a wide range of tools for backdoor access, command-and-control (C2), and data exfiltration. These messages come bearing with malicious lure archives distributed via Dropbox or Google Drive links that employ DLL side-loading, LNK shortcut files, and fake file extensions as arrival vectors to obtain a foothold and drop backdoors like&nbsp; TONEINS, TONESHELL, PUBLOAD , and&nbsp; MQsTTang &nbsp;(aka QMAGENT). Similar infection chains utilizing Google Drive links have been observed&nbsp; delivering Cobalt Strike &nbsp;as early as April 2021. "Earth Preta tends to hide malicious payloads
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

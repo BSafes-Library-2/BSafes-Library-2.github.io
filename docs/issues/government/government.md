@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok CEO got grilled by lawmakers from both parties on whether the Chinese-owned app can protect American privacy<a href="https://www.cnbc.com/2023/03/23/tiktok-ceo-grilled-by-lawmakers-from-both-parties-over-china-ties.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TikTok CEO Shou Zi Chew’s testimony did not seem to quell many concerns that lawmakers had about the company’s connections to China or the adequacy of its risk-mitigation plan, Project Texas.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

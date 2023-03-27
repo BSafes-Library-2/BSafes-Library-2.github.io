@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A look at a Magecart skimmer using the Hunter obfuscator<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/03/hunter-skimmer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a victim who is shopping at a compromised online store goes to the checkout page, there will be additional fields injected in the contact form that aren't normally there.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

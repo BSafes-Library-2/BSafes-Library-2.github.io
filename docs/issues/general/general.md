@@ -8,6 +8,37 @@ nav_order: 900072
 
 ## General
 ---
+March 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 412 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144054/breaking-news/security-affairs-newsletter-round-412-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+NCA...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 awarded $1,035,000 and a Tesla for 27 0-days<a href="https://securityaffairs.com/144001/hacking/pwn2own-vancouver-2023-results.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third day of the Pwn2Own Vancouver 2023 hacking contest, the organization awarded $185,000 for 10 zero-day exploits.
+Pwn2Own Vancouver 2023 is ended, contestants disclosed 27 unique zero-days and the organization awarded a total of $1,035,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

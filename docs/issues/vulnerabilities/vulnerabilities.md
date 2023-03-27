@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft shares guidance for investigating attacks exploiting CVE-2023-23397<a href="https://securityaffairs.com/144040/apt/detecting-cve-2023-23397-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of cyber attacks exploiting a recently patched Outlook vulnerability tracked as CVE-2023-23397 (CVSS score: 9.8).
+Microsoft published guidance for investigating attacks exploiting recently patched Outlook vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw in AI testing framework MLflow can lead to server and data compromise<a href="https://www.csoonline.com/article/3691612/critical-flaw-in-ai-testing-framework-mlflow-can-lead-to-server-and-data-compromise.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability found by Dan McInerney is tracked as CVE-2023-1177 and is rated 10 (critical) on the CVSS scale. It is described as a local and remote file inclusion (LFI/RFI) via the API.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Stealthy Outlook Vulnerability Exploited by Russian Hackers<a href="https://thehackernews.com/2023/03/microsoft-warns-of-stealthy-outlook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday shared guidance to help customers discover indicators of compromise (IoCs) associated with a recently patched Outlook vulnerability. Tracked as CVE-2023-23397 (CVSS score: 9.8), the&nbsp; critical flaw &nbsp;relates to a case of privilege escalation that could be exploited to steal NT Lan Manager (NTLM) hashes and stage a&nbsp; relay attack &nbsp;without requiring any user interaction. "External attackers could send specially crafted emails that will cause a connection from the victim to an untrusted location of attackers' control," the company&nbsp; noted &nbsp;in an advisory released this month. "This will leak the&nbsp; Net-NTLMv2 hash &nbsp;of the victim to the untrusted network which an attacker can then relay to another service and authenticate as the victim." The vulnerability was resolved by Microsoft as part of its&nbsp; Patch Tuesday updates &nbsp;for March 2023, but not before Russia-based threat actors weaponized the flaw in attacks targeting government, transportation, ene
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

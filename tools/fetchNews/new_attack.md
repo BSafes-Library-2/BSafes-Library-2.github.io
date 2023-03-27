@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+March 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society claims attack on Puerto Rico Aqueduct and Sewer Authority<a href="https://securityaffairs.com/144022/hacking/puerto-rico-aqueduct-and-sewer-authority-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Puerto Rico Aqueduct and Sewer Authority (PRASA) is investigating a cyber attack with the help of the FBI and US CISA.
+The Puerto Rico Aqueduct and Sewer Authority (PRASA) is investigating a cyberattack that last week hit the agency. The agency quickly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

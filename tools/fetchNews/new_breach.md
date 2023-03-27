@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+March 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI: A Redis bug caused a recent ChatGPT data exposure incident<a href="https://securityaffairs.com/144057/data-breach/openai-chatgpt-redis-bug-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI revealed that a Redis bug was the root cause of the recent exposure of users' personal information and chat titles in ChatGPT service.
+On Friday, OpenAI revealed that the recent exposure of users' personal information and chat titles in its chatbot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI Reveals Redis Bug Behind ChatGPT User Data Exposure Incident<a href="https://thehackernews.com/2023/03/openai-reveals-redis-bug-behind-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI on Friday disclosed that a bug in the Redis open source library was responsible for the exposure of other users' personal information and chat titles in the upstart's ChatGPT service earlier this week. The&nbsp; glitch , which came to light on March 20, 2023, enabled certain users to view brief descriptions of other users' conversations from the chat history sidebar, prompting the company to temporarily shut down the chatbot. "It's also possible that the first message of a newly-created conversation was visible in someone else's chat history if both users were active around the same time," the company&nbsp; said . The bug, it further added, originated in the&nbsp; redis-py library , leading to a scenario where canceled requests could cause connections to be corrupted and return unexpected data from the database cache, in this case, information belonging to an unrelated user. To make matters worse, the San Francisco-based AI research company said it introduce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroger Postal Prescription Services Files Notice of Data Breach Impacting 82,466 Consumers<a href="https://www.jdsupra.com/legalnews/kroger-postal-prescription-services-4845634/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upon discovering that sensitive consumer data was made available to an unauthorized party, Kroger Postal Prescription Services began to review the affected files to determine what information was compromised and which consumers were impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

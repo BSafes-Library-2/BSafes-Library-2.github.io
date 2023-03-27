@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Toronto is one of the victims hacked by Clop gang using GoAnywhere&nbsp;zero-day<a href="https://securityaffairs.com/143938/breaking-news/city-of-toronto-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware gang added the City of Toronto to the list of its victims, it is another organization compromised by exploiting&nbsp;GoAnywhere&nbsp;zero-day.
+Clop ransomware gang added the City of Toronto to the list of victims published on its Tor leak...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Toronto and Financing Firm Investissement Québec
+Confirm Being Hit by Ransomware Attack<a href="https://techcrunch.com/2023/03/22/fortra-goanywhere-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Today, the City of Toronto has confirmed that unauthorized access to City data did occur through a third party vendor. The access is limited to files that were unable to be processed through the third-party secure file transfer system,” it said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

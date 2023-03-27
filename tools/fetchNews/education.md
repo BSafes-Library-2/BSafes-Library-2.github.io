@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+THN Webinar: Inside the High Risk of 3rd-Party SaaS Apps<a href="https://thehackernews.com/2023/03/thn-webinar-inside-high-risk-of-3rd.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any app that can improve business operations is quickly added to the SaaS stack. However, employees don't realize that this SaaS-to-SaaS connectivity, which typically takes place outside the view of the security team, significantly increases risk. Whether employees connect through Microsoft 365, Google Workspace, Slack, Salesforce, or any other app, security teams have no way to quantify their exposure. These 'secondary' apps can be requesting an intrusive set of permissions or be malicious. Every click authorizing access may grant the right to edit or delete company files, send emails on behalf of the user, create new files, or otherwise handle data in a way that poses a profound threat to the organization's security. To handle the SaaS Security challenges, security teams need to address the entire SaaS ecosystem.&nbsp; Today's SaaS security evolution has expanded SaaS security beyond simply preventing access. It extends far beyond securing the app. Today's orga
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
