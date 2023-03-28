@@ -34,6 +34,268 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Tainted Love: New Cyberespionage Campaign by Chinese<a href="https://cyware.com/news/operation-tainted-love-new-cyberespionage-campaign-by-chinese-b57107a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese cyber-espionage campaign, named Operation Tainted Love—associated with Operation Soft Cell—has been found hitting telecommunications providers in the Middle East since Q1 2023. Operation Soft Cell relies heavily on a custom credential theft malware, mim221.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+20-Year-Old BreachForums Founder Faces Up to 5 Years in Prison<a href="https://thehackernews.com/2023/03/20-year-old-breachforums-founder-faces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Brian Fitzpatrick, the 20-year-old founder and the administrator of the now-defunct BreachForums has been  formally charged  in the U.S. with conspiracy to commit access device fraud. If proven guilty, Fitzpatrick, who went by the online moniker "pompompurin," faces a maximum penalty of up to five years in prison. He was  arrested  on March 15, 2023. "Cybercrime victimizes and steals financial and personal information from millions of innocent people," said U.S. Attorney Jessica D. Aber for the Eastern District of Virginia. "This arrest sends a direct message to cybercriminals: your exploitative and illegal conduct will be discovered, and you will be brought to justice." The development comes days after Baphomet, the individual who had taken over the responsibilities of BreachForums,  shut down the website , citing concerns that law enforcement may have obtained access to its backend. The Department of Justice (DoJ) has since confirmed that it co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes recently disclosed CVE-2023-23529 zero-day on older devices<a href="https://securityaffairs.com/144114/hacking/cve-2023-23529-apple-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released updates to backport security patches that address actively exploited CVE-2023-23529 WebKit zero-day for older iPhones and iPads.
+Apple released security updates to backport patches that address an actively exploited zero-day flaw (CVE-2023-23529)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REF2924 Brings a New Weapon NAPLISTENER to the Table<a href="https://cyware.com/news/ref2924-brings-a-new-weapon-naplistener-to-the-table-8ca09ac5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The REF2924 threat cluster was observed dropping a previously-unseen malware, dubbed NAPLISTENER, on entities in Southeast and South Asia. The malware evades network-based forms of detection. Actors target Microsoft Exchange Servers exposed to the internet to deploy several backdoors, includin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where SSO Falls Short in Protecting SaaS<a href="https://thehackernews.com/2023/03/where-sso-falls-short-in-protecting-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Single sign-on (SSO) is an authentication method that allows users to authenticate their identity for multiple applications with just one set of credentials. From a security standpoint, SSO is the gold standard. It ensures access without forcing users to remember multiple passwords and can be further secured with MFA. Furthermore, an estimated 61% of attacks stem from stolen credentials. By removing usernames and passwords, the attack surface is reduced as well. SSO helps companies meet strict compliance regulations by not only enabling businesses to secure their accounts, but by helping them demonstrate that they've taken the necessary steps to meet regulatory requirements. While SSO is an important step in securing SaaS apps and their data, having just SSOs in place to secure the SaaS stack in its entirety is not enough. SSO alone won't prevent a threat actor from accessing a SaaS app. It also won't protect SaaS apps that are onboarded without the IT team's knowledg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MacStealer macOS malware appears in the cybercrime underground<a href="https://securityaffairs.com/144099/malware/macstealer-macos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new MacStealer macOS malware allows operators to steal iCloud Keychain data and passwords from infected systems.
+Uptycs researchers team discovered a new macOS information stealer, called MacStealer, which allows operators to steal iCloud Keychain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pwn2Own Vancouver 2023 awarded $1,035,000 and a Tesla for 27 0-days<a href="https://securityaffairs.com/144001/hacking/pwn2own-vancouver-2023-results.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the third day, contestants were awarded $185,000 after demonstrating 5 zero-day exploits targeting the Ubuntu Desktop, Windows 11, and the VMware Workstation software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MacStealer macOS Malware Steals iCloud Keychain Data and Passwords<a href="https://thehackernews.com/2023/03/new-macstealer-macos-malware-steals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information-stealing malware has set its sights on Apple's macOS operating system to siphon sensitive information from compromised devices. Dubbed  MacStealer , it's the latest example of a threat that uses Telegram as a command-and-control (C2) platform to exfiltrate data. It primarily affects devices running macOS versions Catalina and later running on M1 and M2 CPUs. "MacStealer has the ability to steal documents, cookies from the victim's browser, and login information," Uptycs researchers Shilpesh Trivedi and Pratik Jeware  said  in a new report. First advertised on online hacking forums at the start of the month, it is still a work in progress, with the malware authors planning to add features to capture data from Apple's Safari browser and the Notes app. In its current form, MacStealer is designed to extract iCloud Keychain data, passwords and credit card information from browsers like Google Chrome, Mozilla Firefox, and Brave. It also featur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updates from the MaaS: new threats delivered through NullMixer<a href="https://securityaffairs.com/144092/malware/maas-threats-delivered-through-nullmixer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A technical analysis of NullMixer malware operation revealed Italy and France are the favorite European countries from the attackers’ perspective.
+Executive Summary
+Our insights into a recent NullMixer malware operation revealed Italy and France...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter says source code was leaked on GitHub, now it’s trying to find the culprit<a href="https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parts of Twitter’s source code were recently leaked online via GitHub, the New York Times reports, but were taken down after the social media platform filed a DMCA request.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Patch for aCropalypse Privacy Flaw in Windows Screenshot Tools<a href="https://thehackernews.com/2023/03/microsoft-issues-patch-for-acropalypse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an out-of-band update to address a privacy-defeating flaw in its screenshot editing tool for Windows 10 and Windows 11. The  issue , dubbed  aCropalypse , could enable malicious actors to recover edited portions of screenshots, potentially revealing sensitive information that may have been cropped out. Tracked as  CVE-2023-28303 , the vulnerability is rated 3.3 on the CVSS scoring system. It affects both the Snip & Sketch app on Windows 10 and the Snipping Tool on Windows 11. "The severity of this vulnerability is Low because successful exploitation requires uncommon user interaction and several factors outside of an attacker's control," Microsoft  said  in an advisory released on March 24, 2023. Successful exploitation requires that the following two prerequisites are met - The user must take a screenshot, save it to a file, modify the file (for example, crop it), and then save the modified file to the same location. The user must open
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical analysis of China-linked Earth Preta APT’s infection chain<a href="https://securityaffairs.com/144078/apt/earth-preta-infection-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Earth Preta cyberespionage group has been observed adopting new techniques to bypass security solutions.
+Trend Micro researchers reported that the China-linked Earth Preta group (aka Mustang Panda) is actively changing its tools, tactics,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI's BreachForums bust is causing 'chaos in the cybercrime underground'<a href="https://cyberscoop.com/breachforums-arrest-cybercrime-underground/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On March 16, 2022, about a month after the FBI took down a popular online forum for buying and selling stolen data known as RaidForums, another criminal marketplace quickly sprung up to take its place.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Python Package uses Unicode support to evade detection<a href="https://securityaffairs.com/144070/malware/malicious-python-package-uses-unicode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a malicious package on PyPI that uses Unicode to evade detection while stealing sensitive data.
+Supply chain security firm Phylum discovered a malicious Python package on the Python Package Index (PyPI) repository that uses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Ships ‘Untitled Goose Tool’ to Hunt for Microsoft Azure Cloud Infections<a href="https://www.securityweek.com/cisa-ships-untitled-goose-tool-to-hunt-for-microsoft-azure-cloud-infections/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure network defenders can use the tool to export and review sign-in audit logs and activity alerts from a range of Azure and Microsoft Defender environments to pinpoint signs of suspicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Attack Wisconsin Court System Computer Network<a href="https://madison.com/news/state-and-regional/crime-and-courts/hackers-attack-wisconsin-court-system-computer-network/article_d2d36eee-a0c6-588e-a0d6-f94ffa776b3d.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack has not resulted in the breach of any data and court operations are continuing as usual statewide, state Supreme Court Chief Justice Annette Ziegler said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
