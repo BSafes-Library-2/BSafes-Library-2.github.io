@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI's BreachForums bust is causing 'chaos in the cybercrime underground'<a href="https://cyberscoop.com/breachforums-arrest-cybercrime-underground/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On March 16, 2022, about a month after the FBI took down a popular online forum for buying and selling stolen data known as RaidForums, another criminal marketplace quickly sprung up to take its place.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

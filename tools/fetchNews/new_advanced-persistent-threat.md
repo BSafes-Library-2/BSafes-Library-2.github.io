@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Technical analysis of China-linked Earth Preta APT’s infection chain<a href="https://securityaffairs.com/144078/apt/earth-preta-infection-chain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked Earth Preta&nbsp;cyberespionage group has been observed adopting new techniques to bypass security solutions.
+Trend Micro researchers reported that the China-linked Earth Preta group (aka Mustang Panda) is actively changing its tools, tactics,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

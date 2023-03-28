@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+20-Year-Old BreachForums Founder Faces Up to 5 Years in Prison<a href="https://thehackernews.com/2023/03/20-year-old-breachforums-founder-faces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Brian Fitzpatrick, the 20-year-old founder and the administrator of the now-defunct BreachForums has been&nbsp; formally charged &nbsp;in the U.S. with conspiracy to commit access device fraud. If proven guilty, Fitzpatrick, who went by the online moniker "pompompurin," faces a maximum penalty of up to five years in prison. He was&nbsp; arrested &nbsp;on March 15, 2023. "Cybercrime victimizes and steals financial and personal information from millions of innocent people," said U.S. Attorney Jessica D. Aber for the Eastern District of Virginia. "This arrest sends a direct message to cybercriminals: your exploitative and illegal conduct will be discovered, and you will be brought to justice." The development comes days after Baphomet, the individual who had taken over the responsibilities of BreachForums,&nbsp; shut down the website , citing concerns that law enforcement may have obtained access to its backend. The Department of Justice (DoJ) has since confirmed that it co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -10,6 +10,18 @@ nav_order: 150
 Mar 23, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments <a href="https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, CISA released the Untitled Goose Tool to help network defenders detect potentially malicious activity in Microsoft Azure, Azure Active Directory (AAD), and Microsoft 365 (M365) environments. The Untitled Goose Tool offers novel authentication and data gathering methods for network defenders to use as they interrogate and analyze their Microsoft cloud services. The tool enables users to:
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+Mar 23, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Getting Ahead of the Ransomware Epidemic: CISA’s Pre-Ransomware Notifications Help Organizations Stop Attacks Before Damage Occurs <a href="https://www.cisa.gov/news-events/news/getting-ahead-ransomware-epidemic-cisas-pre-ransomware-notifications-help-organizations-stop-attacks"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cork-based Dope Security lands $16m investment<a href="https://www.siliconrepublic.com/start-ups/dope-security-startup-funding-cybersecurity-google-ventures?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding round was led by Google Ventures (GV), with participation from existing investors Boldstart Ventures and Preface. The company plans to use some of the funding to expand its engineering team in Cork.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britive, which helps secure public clouds, lands $20.5M investment<a href="https://techcrunch.com/2023/03/23/britive-which-helps-secure-public-clouds-lands-20-5m-investment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Led by Pelion Venture Partners with participation from Liberty Global Ventures, Crosslink Capital and One Way Ventures, the new brings Britive’s total raised to $36 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

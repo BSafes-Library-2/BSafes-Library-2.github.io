@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. National Crime Agency Sets Up Fake DDoS-For-Hire Sites to Catch Cybercriminals<a href="https://thehackernews.com/2023/03/uk-national-crime-agency-sets-up-fake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a case of setting a thief to catch a thief, the U.K. National Crime Agency (NCA) revealed that it has created a network of fake DDoS-for-hire websites to infiltrate the online criminal underground. "All of the NCA-run sites, which have so far been accessed by around several thousand people, have been created to look like they offer the tools and services that enable cyber criminals to execute these attacks," the law enforcement agency&nbsp; said . "However, after users register, rather than being given access to cyber crime tools, their data is collated by investigators." The effort is part of an ongoing international joint effort called Operation PowerOFF in collaboration with authorities from the U.S., the Netherlands, Germany, Poland, and Europol aimed at dismantling criminal DDoS-for-hire infrastructures worldwide. DDoS-for-hire (aka "Booter" or "Stresser") services rent out access to a network of infected devices to other crim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCA infiltrates the cybercriminal underground with fake DDoS-for-hire sites<a href="https://securityaffairs.com/144011/cyber-crime/nca-fake-ddos-for-hire-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Crime Agency (NCA) revealed that it has set up a number of fake DDoS-for-hire sites to infiltrate the online criminal underground.
+The UK National Crime Agency announced it has infiltrated the online criminal marketplace by setting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

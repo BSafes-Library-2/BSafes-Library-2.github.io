@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter says source code was leaked on GitHub, now it’s trying to find the culprit<a href="https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Parts of Twitter’s source code were recently leaked online via GitHub, the New York Times reports, but were taken down after the social media platform filed a DMCA request.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

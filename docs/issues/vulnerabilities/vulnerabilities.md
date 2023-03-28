@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixes recently disclosed CVE-2023-23529 zero-day on older devices<a href="https://securityaffairs.com/144114/hacking/cve-2023-23529-apple-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released updates to backport security patches that address actively exploited CVE-2023-23529 WebKit zero-day for older iPhones and iPads.
+Apple released security updates to backport patches that address an actively exploited zero-day flaw (CVE-2023-23529)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Issues Patch for aCropalypse Privacy Flaw in Windows Screenshot Tools<a href="https://thehackernews.com/2023/03/microsoft-issues-patch-for-acropalypse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released an out-of-band update to address a privacy-defeating flaw in its screenshot editing tool for Windows 10 and Windows 11. The&nbsp; issue , dubbed&nbsp; aCropalypse , could enable malicious actors to recover edited portions of screenshots, potentially revealing sensitive information that may have been cropped out. Tracked as&nbsp; CVE-2023-28303 , the vulnerability is rated 3.3 on the CVSS scoring system. It affects both the Snip &amp; Sketch app on Windows 10 and the Snipping Tool on Windows 11. "The severity of this vulnerability is Low because successful exploitation requires uncommon user interaction and several factors outside of an attacker's control," Microsoft&nbsp; said &nbsp;in an advisory released on March 24, 2023. Successful exploitation requires that the following two prerequisites are met - The user must take a screenshot, save it to a file, modify the file (for example, crop it), and then save the modified file to the same location. The user must open
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
