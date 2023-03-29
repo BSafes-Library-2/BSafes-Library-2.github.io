@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden Signs Executive Order Restricting Use of Commercial Spyware<a href="https://thehackernews.com/2023/03/president-biden-signs-executive-order.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden on Monday&nbsp; signed an executive order &nbsp;that restricts the use of commercial spyware by federal government agencies. The order said the spyware ecosystem "poses significant counterintelligence or security risks to the United States Government or significant risks of improper use by a foreign government or foreign person." It also seeks to ensure that the government's use of such tools is done in a manner that's "consistent with respect for the rule of law, human rights, and democratic norms and values." To that end, the order lays out the various criteria under which commercial spyware could be disqualified for use by U.S. government agencies. They include - The purchase of commercial spyware by a foreign government or person to target the U.S. government, A commercial spyware vendor that uses or discloses sensitive data obtained from the cyber surveillance tool without authorization and operates under the control of a foreign g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

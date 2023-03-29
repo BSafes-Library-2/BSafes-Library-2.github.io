@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian BEC Scammer Sentenced to Prison in US<a href="https://www.securityweek.com/nigerian-bec-scammer-sentenced-to-prison-in-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The man from Lagos participated in multiple BEC, credit card, work-from-home, check-cashing, and romance scams targeting banks, businesses, and individuals in the US and abroad, including First American Holding Company and MidFirst Bank.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

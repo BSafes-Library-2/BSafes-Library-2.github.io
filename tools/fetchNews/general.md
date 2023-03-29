@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where SSO Falls Short in Protecting SaaS<a href="https://thehackernews.com/2023/03/where-sso-falls-short-in-protecting-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Single sign-on (SSO) is an authentication method that allows users to authenticate their identity for multiple applications with just one set of credentials. From a security standpoint, SSO is the gold standard. It ensures access without forcing users to remember multiple passwords and can be further secured with MFA. Furthermore, an estimated 61% of attacks stem from stolen credentials. By removing usernames and passwords, the attack surface is reduced as well. SSO helps companies meet strict compliance regulations by not only enabling businesses to secure their accounts, but by helping them demonstrate that they've taken the necessary steps to meet regulatory requirements. While SSO is an important step in securing SaaS apps and their data, having just SSOs in place to secure the SaaS stack in its entirety is not enough. SSO alone won't prevent a threat actor from accessing a SaaS app. It also won't protect SaaS apps that are onboarded without the IT team's knowledg
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

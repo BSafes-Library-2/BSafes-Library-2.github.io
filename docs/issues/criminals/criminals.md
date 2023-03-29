@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol warns of criminal use of ChatGPT<a href="https://securityaffairs.com/144132/cyber-crime/europol-warns-cybercrime-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol warns of cybercriminal organizations can take advantage of systems based on artificial intelligence like ChatGPT.
+EU police body Europol warned about the potential abuse of systems based on artificial intelligence, such as the popular chatbot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol details ChatGPT’s potential for criminal abuse<a href="https://www.helpnetsecurity.com/2023/03/28/europol-chatgpt-criminal-abuse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT’s ability to draft highly realistic text makes it a useful tool for phishing purposes. In addition to generating human-like language, ChatGPT is capable of producing code in a number of different programming languages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

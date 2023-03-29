@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Introduces GPT-4 AI-Powered Security Copilot Tool to Empower Defenders<a href="https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday&nbsp; unveiled &nbsp; Security Copilot &nbsp;in preview, marking its continued push to embed AI-oriented features in an attempt to offer "end-to-end defense at machine speed and scale." Powered by OpenAI's GPT-4 generative AI and its own security-specific model, it's billed as a&nbsp; security analysis tool &nbsp;that enables cybersecurity analysts to quickly respond to threats, process signals, and assess risk exposure. To that end, it collates insights and data from various products like Microsoft Sentinel, Defender, and Intune to help security teams better understand their environment; determine if they are susceptible to known vulnerabilities and exploits; identify ongoing attacks their scale, and receive remediation instructions; and summarize incidents. Users, for instance, can ask Security Copilot about suspicious user logins over a specific time period, or even employ it to create a PowerPoint presentation outlining an incident and its attack chain. It can al
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking the Mold: Pen Testing Solutions That Challenge the Status Quo<a href="https://thehackernews.com/2023/03/breaking-mold-pen-testing-solutions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are constantly adapting their tactics, techniques, and procedures (TTPs) to adapt to political, technological, and regulatory changes quickly. A few emerging threats that organizations of all sizes should be aware of include the following: Increased use of Artificial Intelligence and Machine Learning : Malicious actors are increasingly leveraging AI and machine learning to automate their attacks, allowing them to scale their operations faster than ever before. The exploitation of cloud-based technologies: &nbsp;Cloud-based services are increasingly being targeted by malicious actors due to the lack of visibility and control over these platforms. Increased use of ransomware: &nbsp;Ransomware is becoming a more popular method of attack, allowing malicious actors to monetize their operations quickly. According to&nbsp; CompTIA , ransomware attacks grew by 41% in 2022, while identification and remediation for a breach took 49 days longer than average. Phishing attacks &nbsp;also increas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balancing security risks and innovation potential of shadow IT teams<a href="https://www.helpnetsecurity.com/2023/03/28/shadow-it-teams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shadow IT teams, also known as rogue IT teams, have grown in popularity in recent years due to the rise of cloud-based apps and remote work. However, this has led to operational tension and security risks within many businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

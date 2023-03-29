@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More School Closings Coast-to-Coast Due to Ransomware<a href="https://securityintelligence.com/news/schools-closing-due-to-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of snow days, students now get cyber days off. Cyberattacks are affecting school districts of all sizes from coast-to-coast. Some schools even completely shut down due to the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Faces Further Bans in Europe<a href="https://www.bankinfosecurity.com/tiktok-faces-further-bans-in-europe-a-21540?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French Ministry of Transformation and Public Service on Friday announced a ban on all "recreational apps" from government-issued mobile devices, to take effect immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
