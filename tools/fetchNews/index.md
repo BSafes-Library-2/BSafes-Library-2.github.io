@@ -34,6 +34,347 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Lawsuits Filed Against BetterHelp in Wake of FTC Action<a href="https://www.bankinfosecurity.com/3-lawsuits-filed-against-betterhelp-in-wake-ftc-action-a-21542?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BetterHelp is facing at least three proposed class action lawsuits after earlier this month settling allegations with the FTC that it violated users' privacy by sharing identifying information with social media platforms including Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Introduces GPT-4 AI-Powered Security Copilot Tool to Empower Defenders<a href="https://thehackernews.com/2023/03/microsoft-introduces-gpt-4-ai-powered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday  unveiled   Security Copilot  in preview, marking its continued push to embed AI-oriented features in an attempt to offer "end-to-end defense at machine speed and scale." Powered by OpenAI's GPT-4 generative AI and its own security-specific model, it's billed as a  security analysis tool  that enables cybersecurity analysts to quickly respond to threats, process signals, and assess risk exposure. To that end, it collates insights and data from various products like Microsoft Sentinel, Defender, and Intune to help security teams better understand their environment; determine if they are susceptible to known vulnerabilities and exploits; identify ongoing attacks their scale, and receive remediation instructions; and summarize incidents. Users, for instance, can ask Security Copilot about suspicious user logins over a specific time period, or even employ it to create a PowerPoint presentation outlining an incident and its attack chain. It can al
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota Italy accidentally leaked sensitive data<a href="https://securityaffairs.com/144151/hacking/toyota-customer-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Italy accidentally leaked sensitive data for more than one-and-a-half years, until this March, CyberNews reported.
+A Japanese multinational accidentally leaked access to its marketing tools, enabling attackers to launch phishing campaigns against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lumen Technologies hit with two separate security incidents<a href="https://www.cybersecuritydive.com/news/lumen-ransomware-attack/646135/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company has notified law enforcement and is working with outside firms to contain the incidents, according to the filing. It has begun business continuity efforts to restore functionality to its customers’ systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Origin SideCopy Linked to New Cyberattack on India's Ministry of Defence<a href="https://thehackernews.com/2023/03/pakistan-origin-sidecopy-linked-to-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group that has a track record of targeting India and Afghanistan has been linked to a new phishing campaign that delivers Action RAT. According to Cyble, which  attributed  the operation to  SideCopy , the activity cluster is designed to target the Defence Research and Development Organization ( DRDO ), the research and development wing of India's Ministry of Defence. Known for emulating the infection chains associated with  SideWinder  to deliver its own malware, SideCopy is a threat group of Pakistani origin that shares overlaps with  Transparent Tribe . It has been active since at least 2019. Attack chains mounted by the group involve using spear-phishing emails to gain initial access. These messages come bearing a ZIP archive file that contains a Windows shortcut file (.LNK) masquerading as information about the  K-4 ballistic missile  developed by DRDO. Executing the .LNK file leads to the retrieval of an HTML application from a remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT group targets China’s nuclear energy sector<a href="https://securityaffairs.com/144144/apt/bitter-apt-china-nuclear-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intezer researchers reported that a South Asian espionage group, tracked as Bitter, is targeting the Chinese nuclear energy industry.
+Intezer researchers uncovered a cyberespionage campaign targeting the Chinese nuclear energy sector, they linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More School Closings Coast-to-Coast Due to Ransomware<a href="https://securityintelligence.com/news/schools-closing-due-to-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of snow days, students now get cyber days off. Cyberattacks are affecting school districts of all sizes from coast-to-coast. Some schools even completely shut down due to the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Malware Shifts Focus from Banking Fraud to Ransomware Delivery<a href="https://thehackernews.com/2023/03/icedid-malware-shifts-focus-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors have been observed using two new variants of the  IcedID malware  in the wild with more limited functionality that removes functionality related to online banking fraud. IcedID, also known as BokBot, started off as a banking trojan in 2017. It's also capable of delivering additional malware, including ransomware. "The well-known IcedID version consists of an initial loader which contacts a Loader [command-and-control] server, downloads the standard DLL Loader, which then delivers the standard IcedID Bot," Proofpoint  said  in a new report published Monday. One of the new versions is a Lite variant that was  previously highlighted  as being dropped as a follow-on payload by the  Emotet malware  in November 2022. Also newly observed in February 2023 is a Forked variant of IcedID. Both these variants are designed to drop what's called a Forked version of IcedID Bot that leaves out the web injects and backconnect functionality that would typic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latitude Data breach is worse than initially estimated. 14 million individuals impacted<a href="https://securityaffairs.com/144137/data-breach/latitude-data-breach-14m-individuals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian loan giant Latitude Financial Services (Latitude) revealed that a data breach its has suffered impacted 14 million customers.
+The data breach suffered by Latitude Financial Services (Latitude) is much more serious than initially estimated....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Faces Further Bans in Europe<a href="https://www.bankinfosecurity.com/tiktok-faces-further-bans-in-europe-a-21540?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French Ministry of Transformation and Public Service on Friday announced a ban on all "recreational apps" from government-issued mobile devices, to take effect immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breaking the Mold: Pen Testing Solutions That Challenge the Status Quo<a href="https://thehackernews.com/2023/03/breaking-mold-pen-testing-solutions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are constantly adapting their tactics, techniques, and procedures (TTPs) to adapt to political, technological, and regulatory changes quickly. A few emerging threats that organizations of all sizes should be aware of include the following: Increased use of Artificial Intelligence and Machine Learning : Malicious actors are increasingly leveraging AI and machine learning to automate their attacks, allowing them to scale their operations faster than ever before. The exploitation of cloud-based technologies:  Cloud-based services are increasingly being targeted by malicious actors due to the lack of visibility and control over these platforms. Increased use of ransomware:  Ransomware is becoming a more popular method of attack, allowing malicious actors to monetize their operations quickly. According to  CompTIA , ransomware attacks grew by 41% in 2022, while identification and remediation for a breach took 49 days longer than average. Phishing attacks  also increas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol warns of criminal use of ChatGPT<a href="https://securityaffairs.com/144132/cyber-crime/europol-warns-cybercrime-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol warns of cybercriminal organizations can take advantage of systems based on artificial intelligence like ChatGPT.
+EU police body Europol warned about the potential abuse of systems based on artificial intelligence, such as the popular chatbot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian BEC Scammer Sentenced to Prison in US<a href="https://www.securityweek.com/nigerian-bec-scammer-sentenced-to-prison-in-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The man from Lagos participated in multiple BEC, credit card, work-from-home, check-cashing, and romance scams targeting banks, businesses, and individuals in the US and abroad, including First American Holding Company and MidFirst Bank.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy DBatLoader Malware Loader Spreading Remcos RAT and Formbook in Europe<a href="https://thehackernews.com/2023/03/stealthy-dbatloader-malware-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has set its sights on European entities to distribute Remcos RAT and Formbook via a malware loader dubbed  DBatLoader . "The malware payload is distributed through WordPress websites that have authorized SSL certificates, which is a common tactic used by threat actors to evade detection engines," Zscaler researchers Meghraj Nandanwar and Satyam Singh  said  in a report published Monday. The findings build upon a previous report from SentinelOne last month that detailed phishing emails containing malicious attachments that masquerade as financial documents to activate the infection chain. Some of the file formats used to distribute the DBatLoader payload concern the use of a multi-layered obfuscated HTML file and OneNote attachments. The development adds to  growing abuse  of  OneNote files  as an initial vector for malware distribution since late last year in response to Microsoft's decision to block macros by default in files downloaded f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom giant Lumen suffered a ransomware attack and disclose a second incident<a href="https://securityaffairs.com/144113/hacking/lumen-suffered-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunications giant Lumen Technologies discovered two cybersecurity incidents, including a ransomware attack.
+In a filing to the Securities and Exchange Commission, on March 27, 2023, Lumen announced two cybersecurity incidents. One of the incidents...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crown Resorts says ransomware group claims accessing some of its files<a href="https://www.reuters.com/technology/crown-resorts-data-vendor-hacked-limited-number-its-files-impacted-2023-03-27/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We were recently contacted by a ransomware group who claimed they have illegally obtained a limited number of Crown files," a spokesperson of the formerly listed firm said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden Signs Executive Order Restricting Use of Commercial Spyware<a href="https://thehackernews.com/2023/03/president-biden-signs-executive-order.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. President Joe Biden on Monday  signed an executive order  that restricts the use of commercial spyware by federal government agencies. The order said the spyware ecosystem "poses significant counterintelligence or security risks to the United States Government or significant risks of improper use by a foreign government or foreign person." It also seeks to ensure that the government's use of such tools is done in a manner that's "consistent with respect for the rule of law, human rights, and democratic norms and values." To that end, the order lays out the various criteria under which commercial spyware could be disqualified for use by U.S. government agencies. They include - The purchase of commercial spyware by a foreign government or person to target the U.S. government, A commercial spyware vendor that uses or discloses sensitive data obtained from the cyber surveillance tool without authorization and operates under the control of a foreign g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol details ChatGPT’s potential for criminal abuse<a href="https://www.helpnetsecurity.com/2023/03/28/europol-chatgpt-criminal-abuse/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT’s ability to draft highly realistic text makes it a useful tool for phishing purposes. In addition to generating human-like language, ChatGPT is capable of producing code in a number of different programming languages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Security Update for Older iOS and iPadOS Models<a href="https://thehackernews.com/2023/03/apple-issues-urgent-security-update-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday backported fixes for an actively exploited security flaw to older iPhone and iPad models. The issue, tracked as  CVE-2023-23529 , concerns a type confusion bug in the WebKit browser engine that could lead to arbitrary code execution. It was  originally addressed  by the tech giant with improved checks as part of updates released on February 13, 2023. An anonymous researcher has been credited with reporting the bug. "Processing maliciously crafted web content may lead to arbitrary code execution," Apple  said  in a new advisory, adding it's "aware of a report that this issue may have been actively exploited." Details surrounding the exact nature of exploitation are currently not known, but withholding technical specifics is standard procedure as it helps prevent additional in-the-wild abuse targeting susceptible devices.  The update is available in versions iOS 15.7.4 and iPadOS 15.7.4 for iPhone 6s (all models), iPhone 7 (all models), iPho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBatLoader Actively Distributing Malware Targeting European Businesses<a href="https://www.zscaler.com/blogs/security-research/dbatloader-actively-distributing-malwares-targeting-european-businesses?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign targets manufacturing companies and multiple businesses in European countries through phishing emails. The malicious payload is distributed through WordPress sites with authorized SSL certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balancing security risks and innovation potential of shadow IT teams<a href="https://www.helpnetsecurity.com/2023/03/28/shadow-it-teams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shadow IT teams, also known as rogue IT teams, have grown in popularity in recent years due to the rise of cloud-based apps and remote work. However, this has led to operational tension and security risks within many businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
