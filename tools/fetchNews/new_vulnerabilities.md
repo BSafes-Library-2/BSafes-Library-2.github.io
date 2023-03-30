@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixed Sudo privilege escalation bug in NAS devices<a href="https://securityaffairs.com/144200/security/qnap-sudo-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warns customers to patch a high-severity Sudo privilege escalation bug affecting NAS devices.
+Taiwanese vendor QNAP warns customers to update their network-attached storage (NAS) devices to address a high-severity Sudo privilege...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns customers to patch Linux Sudo flaw in NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-customers-to-patch-linux-sudo-flaw-in-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese hardware vendor QNAP warns customers to secure their Linux-powered network-attached storage (NAS) devices against a high-severity Sudo privilege escalation vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI quickly fixed account takeover bugs in ChatGPT<a href="https://securityaffairs.com/144184/hacking/chatgpt-account-takeover-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI addressed multiple severe vulnerabilities in the popular chatbot ChatGPT that could have been exploited to take over accounts.
+OpenAI addressed multiple severe vulnerabilities in ChatGPT that could have allowed attackers to take over user accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender mistakenly tagging URLs as malicious<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-tagging-urls-as-malicious/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender is mistakenly flagging legitimate links as malicious, with some&nbsp;customers having&nbsp;already received dozens of alert emails since the issues began over five hours ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFi protocol flaw allows attackers to hijack network traffic<a href="https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a fundamental security flaw in the design of the IEEE 802.11 WiFi protocol standard, allowing attackers to trick access points into leaking network frames in plaintext form.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

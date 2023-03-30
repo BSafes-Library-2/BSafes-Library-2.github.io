@@ -8,6 +8,50 @@ nav_order: 900029
 
 ## Breach
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toyota Italy accidentally leaked sensitive data<a href="https://securityaffairs.com/144151/hacking/toyota-customer-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Toyota Italy accidentally leaked sensitive data for more than one-and-a-half years, until this March, CyberNews reported.
+A Japanese multinational accidentally leaked access to its marketing tools, enabling attackers to launch phishing campaigns against...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latitude Data breach is worse than initially estimated. 14 million individuals impacted<a href="https://securityaffairs.com/144137/data-breach/latitude-data-breach-14m-individuals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian loan giant Latitude Financial Services (Latitude) revealed that a data breach its has suffered impacted 14 million customers.
+The data breach suffered by Latitude Financial Services (Latitude) is much more serious than initially estimated....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crown Resorts says ransomware group claims accessing some of its files<a href="https://www.reuters.com/technology/crown-resorts-data-vendor-hacked-limited-number-its-files-impacted-2023-03-27/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We were recently contacted by a ransomware group who claimed they have illegally obtained a limited number of Crown files," a spokesperson of the formerly listed firm said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

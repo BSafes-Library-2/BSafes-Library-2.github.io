@@ -34,6 +34,539 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromise 3CX desktop app in a supply chain attack<a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-3cx-desktop-app-in-a-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A digitally signed and trojanized version of the 3CX Voice Over Internet Protocol (VOIP) desktop client is reportedly being used to target the company's customers in an ongoing supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Espionage Group Targets Nuclear Energy Firms in China<a href="https://cyware.com/news/bitter-apt-espionage-group-targets-nuclear-energy-firms-in-china-969bd858"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nuclear energy sector of China is reportedly facing threats from Bitter, a South Asian APT. The group specializes in using Excel exploits, Windows Installer (MSI) files, and Microsoft Compiled HTML Help (CHM) files. Besides, the group is infamous for targeting energy and government organization ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Vendors Caught Exploiting Zero-Day Vulnerabilities on Android and iOS Devices<a href="https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of zero-day vulnerabilities that were addressed last year were exploited by commercial spyware vendors to target Android and iOS devices, Google's Threat Analysis Group (TAG) has revealed. The two distinct campaigns were both limited and highly targeted, taking advantage of the patch gap between the release of a fix and when it was actually deployed on the targeted devices. "These vendors are enabling the proliferation of dangerous hacking tools, arming governments that would not be able to develop these capabilities in-house," TAG's Clement Lecigne  said  in a new report. "While use of surveillance technologies may be legal under national or international laws, they are often found to be used by governments to target dissidents, journalists, human rights workers, and opposition party politicians." The first of the two operations took place in November 2022 and involved sending shortened links over SMS messages to users located in Italy, Malays
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement of Cybersecurity Regulations: Part 2<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While a valuable part of a cybersecurity program, “third-party audits” are too often not audits and not done by true third parties.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP fixed Sudo privilege escalation bug in NAS devices<a href="https://securityaffairs.com/144200/security/qnap-sudo-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese vendor QNAP warns customers to patch a high-severity Sudo privilege escalation bug affecting NAS devices.
+Taiwanese vendor QNAP warns customers to update their network-attached storage (NAS) devices to address a high-severity Sudo privilege...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeMoon ‘burn’ bug abused to drain $8.9 million from liquidity pool<a href="https://www.bleepingcomputer.com/news/cryptocurrency/safemoon-burn-bug-abused-to-drain-89-million-from-liquidity-pool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SafeMoon token liquidity pool lost $8.9 million after a hacker exploited a newly created 'burn' smart contract function that artificially inflated the price, allowing the actors to sell SafeMoon at a much higher price.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Distribute MacStealer MaaS to Target Mac Users<a href="https://cyware.com/news/hackers-distribute-macstealer-maas-to-target-mac-users-3bdfbdf5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MacStealer is a new information-stealing malware threat attempting to pilfer sensitive information from compromised macOS devices. The malware uses Telegram as its C2 channel and specifically affects devices running Catalina and later versions on M1 and M2 CPUs. It can harvest documents, browser co ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mélofée: Researchers Uncover New Linux Malware Linked to Chinese APT Groups<a href="https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown Chinese state-sponsored hacking group has been linked to a novel piece of malware aimed at Linux servers. French cybersecurity firm ExaTrack, which found three samples of the previously documented malicious software that date back to early 2022, dubbed it  Mélofée . One of the artifacts is designed to drop a kernel-mode rootkit that's based on an open source project referred to as  Reptile . "According to the vermagic metadata, it is compiled for a kernel version 5.10.112-108.499.amzn2.x86_64," the company  said  in a report. "The rootkit has a limited set of features, mainly installing a hook designed for hiding itself." Both the implant and the rootkit are said to be deployed using shell commands that download an installer and a custom binary package from a remote server. The installer takes the binary package as an argument and then extracts the rootkit as well as a server implant module that's currently under active development. Mélofé
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia’s Casino Giant Crown Resorts disclosed data breach after Clop ransomware attack<a href="https://securityaffairs.com/144193/data-breach/crown-resorts-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's gambling and entertainment giant Crown Resorts, disclosed a data breach caused by the exploitation of recently discovered GoAnywhere zero-day.
+Australian casino giant Crown Resorts disclosed a data breach after the attack of the Cl0p ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP warns customers to patch Linux Sudo flaw in NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-customers-to-patch-linux-sudo-flaw-in-nas-devices/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese hardware vendor QNAP warns customers to secure their Linux-powered network-attached storage (NAS) devices against a high-severity Sudo privilege escalation vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Killnet and AnonymousSudan DDoS attack Australian University websites; Threaten More Attacks<a href="https://blog.cloudflare.com/ddos-attacks-on-australian-universities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As seen with past attacks from this group, these most recent attacks do not seem to be originating from a single botnet, and the attack methods and sources seem to vary, suggesting the involvement of multiple individual threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build a Research Lab for Reverse Engineering — 4 Ways<a href="https://thehackernews.com/2023/03/how-to-build-research-lab-for-reverse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware analysis is an essential part of security researcher's work. But working with malicious samples can be dangerous — it requires specialized tools to record their activity, and a secure environment to prevent unintended damage. However, manual lab setup and configuration can prove to be a laborious and time-consuming process. In this article, we'll look at 4 ways to create a reverse engineering lab, discuss how to save time, and, potentially, improve the detection rate using a cloud service, and a recommended list of tools for a comprehensive setup. What is a malware analysis lab? In essence, a malware analysis lab provides a safe, isolated space for examining malware. The setup can range from a straightforward virtual machine using VirtualBox to a more intricate network of interconnected machines and actual networking hardware. But in this article, we'll look at building a lab tailored for static analysis, so what we will need is a secure environment where we
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI quickly fixed account takeover bugs in ChatGPT<a href="https://securityaffairs.com/144184/hacking/chatgpt-account-takeover-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI addressed multiple severe vulnerabilities in the popular chatbot ChatGPT that could have been exploited to take over accounts.
+OpenAI addressed multiple severe vulnerabilities in ChatGPT that could have allowed attackers to take over user accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender mistakenly tagging URLs as malicious<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-tagging-urls-as-malicious/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Defender is mistakenly flagging legitimate links as malicious, with some customers having already received dozens of alert emails since the issues began over five hours ago.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New API Report Shows 400% Increase in Attackers<a href="https://www.itsecurityguru.org/2023/03/29/new-api-report-shows-400-increase-in-attackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also found that 80% of attacks happened over authenticated APIs, making it a widespread problem for all. Given that it is one of the easiest types of attack to execute, it is no surprise that attackers are increasingly taking this route.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smart Mobility has a Blindspot When it Comes to API Security<a href="https://thehackernews.com/2023/03/smart-mobility-has-blindspot-when-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergence of smart mobility services and applications has led to a sharp increase in the use of APIs in the automotive industry. However, this increased reliance on APIs has also made them one of the most common attack vectors. According to Gartner, APIs account for 90% of the web application attack surface areas.  With no surprise, similar trends are emerging also in the smart mobility space. A recent  Automotive and Smart Mobility Cybersecurity Report  by Upstream Security indicates that the automotive and smart mobility ecosystem has seen a 380% increase in API-based incidents in 2022, compared to 2021. Additionally, APIs accounted for 12% of total cyber incidents in 2022, up from only 2% in 2021.  When examining smart mobility applications and services, Upstream's threat intelligence team reported that black-hat actors were found to be behind 53% of incidents, indicating malicious intent as the driving force of the majority of API-related attacks. The impact of these in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG shares details about exploit chains used to install commercial spyware<a href="https://securityaffairs.com/144174/hacking/exploit-chains-zero-day-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) discovered several exploit chains targeting Android, iOS, and Chrome to install commercial spyware.
+Google's Threat Analysis Group (TAG) shared details about two distinct campaigns which used several zero-day exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google finds more Android, iOS zero-days used to install spyware<a href="https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) discovered several exploit chains using Android, iOS, and Chrome zero-day and n-day vulnerabilities to install commercial spyware and malicious apps on targets' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gunning for transport sector's OT systems next<a href="https://www.malwarebytes.com/blog/news/2023/03/ransomware-gunning-for-transport-sectors-ot-systems-next?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA says the three dominant threats to the transportation sector are ransomware (38 percent), data-related threats (30 percent), and malware (17 percent). However, each subgroup has reported experiencing other attack types than ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized TOR Browser Installers Spreading Crypto-Stealing Clipper Malware<a href="https://thehackernews.com/2023/03/trojanized-tor-browser-installers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojanized installers for the TOR anonymity browser are being used to target users in Russia and Eastern Europe with  clipper malware  designed to siphon cryptocurrencies since September 2022. "Clipboard injectors [...] can be silent for years, show no network activity or any other signs of presence until the disastrous day when they replace a crypto wallet address," Vitaly Kamluk, director of global research and analysis team (GReAT) for APAC at Kaspersky,  said . Another notable aspect of clipper malware is that its nefarious functions are not triggered unless the clipboard data meet specific criteria, making it more evasive. It's not immediately clear how the installers are distributed, but evidence points to the use of torrent downloads or some unknown third-party source since the Tor Project's website has been  subjected  to  blockades  in  Russia  in recent years. Regardless of the method used, the installer launches the legitimate executable, while also s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipper attacks use Trojanized TOR Browser installers<a href="https://securityaffairs.com/144158/hacking/tor-browser-installers-clipper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered malware-laced installers for the TOR browser that is spreading clipper malware in Russia and Eastern Europe.
+Kaspersky researchers discovered a Trojanized version of the Tor Browser that is spreading a clipper malware in Russia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Vendors Use 0-days and n-days Against Popular Platforms<a href="https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this blog, researchers have shared details about two distinct campaigns that used various 0-day exploits against Android, iOS, and Chrome and were both limited and highly targeted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT43 Group Uses Cybercrime to Fund Espionage Operations<a href="https://thehackernews.com/2023/03/north-korean-apt43-group-uses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new North Korean nation-state cyber operator has been attributed to a series of campaigns orchestrated to gather strategic intelligence that aligns with Pyongyang's geopolitical interests since 2018. Google-owned Mandiant, which is tracking the activity cluster under the moniker  APT43 , said the group's motives are both espionage- and financially-motivated, leveraging techniques like  credential harvesting  and social engineering to further its objectives. The monetary angle to its attack campaigns is an attempt on the part of the threat actor to generate funds to meet its "primary mission of collecting strategic intelligence." Victimology patterns suggest that targeting is focused on South Korea, the U.S., Japan, and Europe, spanning government, education, research, policy institutes, business services, and manufacturing sectors. The threat actor was also observed straying off course by striking health-related verticals and pharma companies from October 2020
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBit puts data from Israel’s Technion university on sale<a href="https://www.csoonline.com/article/3691823/darkbit-puts-data-from-israel-s-technion-university-on-sale.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack hit Technion on February 12, forcing the university to block all communication networks. DarkBit originally demanded 80 bitcoins as ransom from the university.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Security Copilot is a new GPT-4 AI assistant for cybersecurity<a href="https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Powered by OpenAI’s GPT-4 generative AI and Microsoft’s security-specific model, Security Copilot looks like a simple prompt box like any other chatbot. You can ask “what are all the security incidents in my enterprise?”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Found Two Spyware Campaigns Targeting Apple and Android Devices<a href="https://cyberscoop.com/google-tag-spyware-android-ios-chrome/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company did not reveal the spyware vendors involved but said one of the campaigns used a link directing targets to a landing page identical to one Google revealed in November 2022 from Spanish spyware firm Variston IT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized Tor browsers target Russians with crypto-stealing malware<a href="https://www.bleepingcomputer.com/news/security/trojanized-tor-browsers-target-russians-with-crypto-stealing-malware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge of trojanized Tor Browser installers targets Russians and Eastern Europeans with clipboard-hijacking malware that steals infected users' cryptocurrency transactions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WiFi protocol flaw allows attackers to hijack network traffic<a href="https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a fundamental security flaw in the design of the IEEE 802.11 WiFi protocol standard, allowing attackers to trick access points into leaking network frames in plaintext form.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft brings GPT-4-powered Security Copilot to incident response<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-brings-gpt-4-powered-security-copilot-to-incident-response/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today announced Security Copilot, a new ChatGPT-like assistant powered by artificial intelligence that takes advantage of Microsoft's threat intelligence footprint to make faster decisions during incident response and to help with threat hunting and security reporting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crown Resorts confirms ransom demand after GoAnywhere breach<a href="https://www.bleepingcomputer.com/news/security/crown-resorts-confirms-ransom-demand-after-goanywhere-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crown Resorts, Australia's largest gambling and entertainment company, has confirmed that it suffered a data breach after its GoAnywhere secure file-sharing server was breached using a zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly exposed APT43 hacking group targeting US orgs since 2018<a href="https://www.bleepingcomputer.com/news/security/newly-exposed-apt43-hacking-group-targeting-us-orgs-since-2018/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new North Korean hacking group has been revealed to be targeting government organizations, academics, and think tanks in the United States, Europe, Japan, and South Korea for the past five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The End-User Password Mistakes Putting Your Organization at Risk<a href="https://www.bleepingcomputer.com/news/security/the-end-user-password-mistakes-putting-your-organization-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though there are many ways to create passwords, not all are equally effective. It is important to consider the various ways a password-protected system can fail.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latitude Financial data breach now impacts 14 million customers<a href="https://www.bleepingcomputer.com/news/security/latitude-financial-data-breach-now-impacts-14-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian loan giant Latitude Financial Services (Latitude) is warning customers that its data breach is much more significant than initially stated, taking the number of affected individuals from 328,000 to 14 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

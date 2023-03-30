@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Lawsuits Filed Against BetterHelp in Wake of FTC Action<a href="https://www.bankinfosecurity.com/3-lawsuits-filed-against-betterhelp-in-wake-ftc-action-a-21542?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BetterHelp is facing at least three proposed class action lawsuits after earlier this month settling allegations with the FTC that it violated users' privacy by sharing identifying information with social media platforms including Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Security Update for Older iOS and iPadOS Models<a href="https://thehackernews.com/2023/03/apple-issues-urgent-security-update-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday backported fixes for an actively exploited security flaw to older iPhone and iPad models. The issue, tracked as&nbsp; CVE-2023-23529 , concerns a type confusion bug in the WebKit browser engine that could lead to arbitrary code execution. It was&nbsp; originally addressed &nbsp;by the tech giant with improved checks as part of updates released on February 13, 2023. An anonymous researcher has been credited with reporting the bug. "Processing maliciously crafted web content may lead to arbitrary code execution," Apple&nbsp; said &nbsp;in a new advisory, adding it's "aware of a report that this issue may have been actively exploited." Details surrounding the exact nature of exploitation are currently not known, but withholding technical specifics is standard procedure as it helps prevent additional in-the-wild abuse targeting susceptible devices.&nbsp; The update is available in versions iOS 15.7.4 and iPadOS 15.7.4 for iPhone 6s (all models), iPhone 7 (all models), iPho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

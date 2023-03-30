@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lumen Technologies hit with two separate security incidents<a href="https://www.cybersecuritydive.com/news/lumen-ransomware-attack/646135/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company has notified law enforcement and is working with outside firms to contain the incidents, according to the filing. It has begun business continuity efforts to restore functionality to its customers’ systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telecom giant Lumen suffered a ransomware attack and disclose a second incident<a href="https://securityaffairs.com/144113/hacking/lumen-suffered-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunications giant Lumen Technologies discovered two cybersecurity incidents, including a ransomware attack.
+In a filing to the Securities and Exchange Commission, on March 27, 2023, Lumen announced two cybersecurity incidents. One of the incidents...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

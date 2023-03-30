@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers compromise 3CX desktop app in a supply chain attack<a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-3cx-desktop-app-in-a-supply-chain-attack/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitter APT Espionage Group Targets Nuclear Energy Firms in China<a href="https://cyware.com/news/bitter-apt-espionage-group-targets-nuclear-energy-firms-in-china-969bd858"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware Vendors Caught Exploiting Zero-Day Vulnerabilities on Android and iOS Devices<a href="https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcement of Cybersecurity Regulations: Part 2<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-2"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP fixed Sudo privilege escalation bug in NAS devices<a href="https://securityaffairs.com/144200/security/qnap-sudo-flaw.html"> Full Text</a>
@@ -115,7 +115,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SafeMoon ‘burn’ bug abused to drain $8.9 million from liquidity pool<a href="https://www.bleepingcomputer.com/news/cryptocurrency/safemoon-burn-bug-abused-to-drain-89-million-from-liquidity-pool/"> Full Text</a>
@@ -131,7 +131,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Distribute MacStealer MaaS to Target Mac Users<a href="https://cyware.com/news/hackers-distribute-macstealer-maas-to-target-mac-users-3bdfbdf5"> Full Text</a>
@@ -147,7 +147,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mélofée: Researchers Uncover New Linux Malware Linked to Chinese APT Groups<a href="https://thehackernews.com/2023/03/melofee-researchers-uncover-new-linux.html"> Full Text</a>
@@ -163,7 +163,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia’s Casino Giant Crown Resorts disclosed data breach after Clop ransomware attack<a href="https://securityaffairs.com/144193/data-breach/crown-resorts-clop-ransomware.html"> Full Text</a>
@@ -180,7 +180,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP warns customers to patch Linux Sudo flaw in NAS devices<a href="https://www.bleepingcomputer.com/news/security/qnap-warns-customers-to-patch-linux-sudo-flaw-in-nas-devices/"> Full Text</a>
@@ -196,7 +196,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Killnet and AnonymousSudan DDoS attack Australian University websites; Threaten More Attacks<a href="https://blog.cloudflare.com/ddos-attacks-on-australian-universities/?&web_view=true"> Full Text</a>
@@ -212,7 +212,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Build a Research Lab for Reverse Engineering — 4 Ways<a href="https://thehackernews.com/2023/03/how-to-build-research-lab-for-reverse.html"> Full Text</a>
@@ -228,7 +228,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenAI quickly fixed account takeover bugs in ChatGPT<a href="https://securityaffairs.com/144184/hacking/chatgpt-account-takeover-bugs.html"> Full Text</a>
@@ -245,7 +245,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Defender mistakenly tagging URLs as malicious<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-tagging-urls-as-malicious/"> Full Text</a>
@@ -261,7 +261,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New API Report Shows 400% Increase in Attackers<a href="https://www.itsecurityguru.org/2023/03/29/new-api-report-shows-400-increase-in-attackers/?&web_view=true"> Full Text</a>
@@ -277,7 +277,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smart Mobility has a Blindspot When it Comes to API Security<a href="https://thehackernews.com/2023/03/smart-mobility-has-blindspot-when-it.html"> Full Text</a>
@@ -293,7 +293,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG shares details about exploit chains used to install commercial spyware<a href="https://securityaffairs.com/144174/hacking/exploit-chains-zero-day-spyware.html"> Full Text</a>
@@ -310,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google finds more Android, iOS zero-days used to install spyware<a href="https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/"> Full Text</a>
@@ -326,7 +326,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware gunning for transport sector's OT systems next<a href="https://www.malwarebytes.com/blog/news/2023/03/ransomware-gunning-for-transport-sectors-ot-systems-next?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized TOR Browser Installers Spreading Crypto-Stealing Clipper Malware<a href="https://thehackernews.com/2023/03/trojanized-tor-browser-installers.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clipper attacks use Trojanized TOR Browser installers<a href="https://securityaffairs.com/144158/hacking/tor-browser-installers-clipper.html"> Full Text</a>
@@ -375,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware Vendors Use 0-days and n-days Against Popular Platforms<a href="https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/?&web_view=true"> Full Text</a>
@@ -391,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean APT43 Group Uses Cybercrime to Fund Espionage Operations<a href="https://thehackernews.com/2023/03/north-korean-apt43-group-uses.html"> Full Text</a>
@@ -407,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkBit puts data from Israel’s Technion university on sale<a href="https://www.csoonline.com/article/3691823/darkbit-puts-data-from-israel-s-technion-university-on-sale.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -423,7 +423,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Security Copilot is a new GPT-4 AI assistant for cybersecurity<a href="https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features?&web_view=true"> Full Text</a>
@@ -439,7 +439,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2023
+March 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Found Two Spyware Campaigns Targeting Apple and Android Devices<a href="https://cyberscoop.com/google-tag-spyware-android-ios-chrome/?&web_view=true"> Full Text</a>
@@ -455,7 +455,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized Tor browsers target Russians with crypto-stealing malware<a href="https://www.bleepingcomputer.com/news/security/trojanized-tor-browsers-target-russians-with-crypto-stealing-malware/"> Full Text</a>
@@ -471,7 +471,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WiFi protocol flaw allows attackers to hijack network traffic<a href="https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/"> Full Text</a>
@@ -487,7 +487,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft brings GPT-4-powered Security Copilot to incident response<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-brings-gpt-4-powered-security-copilot-to-incident-response/"> Full Text</a>
@@ -503,7 +503,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crown Resorts confirms ransom demand after GoAnywhere breach<a href="https://www.bleepingcomputer.com/news/security/crown-resorts-confirms-ransom-demand-after-goanywhere-breach/"> Full Text</a>
@@ -519,7 +519,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly exposed APT43 hacking group targeting US orgs since 2018<a href="https://www.bleepingcomputer.com/news/security/newly-exposed-apt43-hacking-group-targeting-us-orgs-since-2018/"> Full Text</a>
@@ -535,7 +535,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The End-User Password Mistakes Putting Your Organization at Risk<a href="https://www.bleepingcomputer.com/news/security/the-end-user-password-mistakes-putting-your-organization-at-risk/"> Full Text</a>
@@ -551,7 +551,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2023
+March 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latitude Financial data breach now impacts 14 million customers<a href="https://www.bleepingcomputer.com/news/security/latitude-financial-data-breach-now-impacts-14-million-customers/"> Full Text</a>

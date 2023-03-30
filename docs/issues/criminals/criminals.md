@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBit puts data from Israel’s Technion university on sale<a href="https://www.csoonline.com/article/3691823/darkbit-puts-data-from-israel-s-technion-university-on-sale.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack hit Technion on February 12, forcing the university to block all communication networks. DarkBit originally demanded 80 bitcoins as ransom from the university.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Origin SideCopy Linked to New Cyberattack on India's Ministry of Defence<a href="https://thehackernews.com/2023/03/pakistan-origin-sidecopy-linked-to-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group that has a track record of targeting India and Afghanistan has been linked to a new phishing campaign that delivers Action RAT. According to Cyble, which&nbsp; attributed &nbsp;the operation to&nbsp; SideCopy , the activity cluster is designed to target the Defence Research and Development Organization ( DRDO ), the research and development wing of India's Ministry of Defence. Known for emulating the infection chains associated with&nbsp; SideWinder &nbsp;to deliver its own malware, SideCopy is a threat group of Pakistani origin that shares overlaps with&nbsp; Transparent Tribe . It has been active since at least 2019. Attack chains mounted by the group involve using spear-phishing emails to gain initial access. These messages come bearing a ZIP archive file that contains a Windows shortcut file (.LNK) masquerading as information about the&nbsp; K-4 ballistic missile &nbsp;developed by DRDO. Executing the .LNK file leads to the retrieval of an HTML application from a remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT group targets China’s nuclear energy sector<a href="https://securityaffairs.com/144144/apt/bitter-apt-china-nuclear-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intezer researchers reported that a South Asian espionage group, tracked as Bitter, is targeting the Chinese nuclear energy industry.
+Intezer researchers uncovered a cyberespionage campaign targeting the Chinese nuclear energy sector, they linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

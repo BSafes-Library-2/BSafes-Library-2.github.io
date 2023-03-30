@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Distribute MacStealer MaaS to Target Mac Users<a href="https://cyware.com/news/hackers-distribute-macstealer-maas-to-target-mac-users-3bdfbdf5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MacStealer is a new information-stealing malware threat attempting to pilfer sensitive information from compromised macOS devices. The malware uses Telegram as its C2 channel and specifically affects devices running Catalina and later versions on M1 and M2 CPUs. It can harvest documents, browser co ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

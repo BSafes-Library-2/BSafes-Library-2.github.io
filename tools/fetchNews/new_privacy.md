@@ -8,6 +8,49 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Vendors Caught Exploiting Zero-Day Vulnerabilities on Android and iOS Devices<a href="https://thehackernews.com/2023/03/spyware-vendors-caught-exploiting-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of zero-day vulnerabilities that were addressed last year were exploited by commercial spyware vendors to target Android and iOS devices, Google's Threat Analysis Group (TAG) has revealed. The two distinct campaigns were both limited and highly targeted, taking advantage of the patch gap between the release of a fix and when it was actually deployed on the targeted devices. "These vendors are enabling the proliferation of dangerous hacking tools, arming governments that would not be able to develop these capabilities in-house," TAG's Clement Lecigne&nbsp; said &nbsp;in a new report. "While use of surveillance technologies may be legal under national or international laws, they are often found to be used by governments to target dissidents, journalists, human rights workers, and opposition party politicians." The first of the two operations took place in November 2022 and involved sending shortened links over SMS messages to users located in Italy, Malays
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG shares details about exploit chains used to install commercial spyware<a href="https://securityaffairs.com/144174/hacking/exploit-chains-zero-day-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) discovered several exploit chains targeting Android, iOS, and Chrome to install commercial spyware.
+Google's Threat Analysis Group (TAG) shared details about two distinct campaigns which used several zero-day exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google finds more Android, iOS zero-days used to install spyware<a href="https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) discovered several exploit chains using Android, iOS, and Chrome zero-day and n-day vulnerabilities to install commercial spyware and malicious apps on targets' devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Build a Research Lab for Reverse Engineering — 4 Ways<a href="https://thehackernews.com/2023/03/how-to-build-research-lab-for-reverse.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware analysis is an essential part of security researcher's work. But working with malicious samples can be dangerous — it requires specialized tools to record their activity, and a secure environment to prevent unintended damage. However, manual lab setup and configuration can prove to be a laborious and time-consuming process. In this article, we'll look at 4 ways to create a reverse engineering lab, discuss how to save time, and, potentially, improve the detection rate using a cloud service, and a recommended list of tools for a comprehensive setup. What is a malware analysis lab? In essence, a malware analysis lab provides a safe, isolated space for examining malware. The setup can range from a straightforward virtual machine using VirtualBox to a more intricate network of interconnected machines and actual networking hardware. But in this article, we'll look at building a lab tailored for static analysis, so what we will need is a secure environment where we
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The End-User Password Mistakes Putting Your Organization at Risk<a href="https://www.bleepingcomputer.com/news/security/the-end-user-password-mistakes-putting-your-organization-at-risk/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Though there are many ways to create passwords, not all are equally effective. It is important to consider the various ways a password-protected system can fail.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

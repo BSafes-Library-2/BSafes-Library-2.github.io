@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clipper attacks use Trojanized TOR Browser installers<a href="https://securityaffairs.com/144158/hacking/tor-browser-installers-clipper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered malware-laced installers for the TOR browser that is spreading clipper malware in Russia and Eastern Europe.
+Kaspersky researchers discovered a Trojanized version of the Tor Browser that is spreading a clipper malware in Russia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Found Two Spyware Campaigns Targeting Apple and Android Devices<a href="https://cyberscoop.com/google-tag-spyware-android-ios-chrome/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company did not reveal the spyware vendors involved but said one of the campaigns used a link directing targets to a landing page identical to one Google revealed in November 2022 from Spanish spyware firm Variston IT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
