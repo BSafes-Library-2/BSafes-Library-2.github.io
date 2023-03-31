@@ -34,6 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Goes Wrong: Malware Steals $400k in Cryptocurrency<a href="https://cyware.com/news/tor-goes-wrong-malware-steals-400k-in-cryptocurrency-aecbfe33"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you a crypto user addicted to Tor? Tor browser users across the world are under attack with trojanized versions of Tor browser installers, especially those in Russia and nearby regions. These infected browsers were being promoted as "security-strengthened" versions of the browser. Kaspersky war ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Severe "Super FabriXss" Vulnerability in Microsoft Azure SFX<a href="https://thehackernews.com/2023/03/researchers-detail-severe-super.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched vulnerability in Azure Service Fabric Explorer ( SFX ) that could lead to unauthenticated remote code execution. Tracked as  CVE-2023-23383  (CVSS score: 8.2), the issue has been dubbed "Super FabriXss" by Orca Security, a nod to the  FabriXss flaw  (CVE-2022-35829, CVSS score: 6.2) that was fixed by Microsoft in October 2022. "The Super FabriXss vulnerability enables remote attackers to leverage an XSS vulnerability to achieve remote code execution on a container hosted on a Service Fabric node without the need for authentication," security researcher Lidor Ben Shitrit  said  in a report shared with The Hacker News. XSS refers to a kind of  client-side code injection  attack that makes it possible to upload malicious scripts into otherwise trusted websites. The scripts then get executed every time a victim visits the compromised website, thereby leading to unintended consequences. While both FabriXss and Super FabriXss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Super FabriXss vulnerability in Microsoft Azure SFX could lead to RCE<a href="https://securityaffairs.com/144251/hacking/azure-service-fabric-explorer-super-fabrixss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared details about a flaw, dubbed Super FabriXss, in Azure Service Fabric Explorer (SFX) that could lead to unauthenticated remote code execution.
+Researchers from Orca Security shared details about a new vulnerability, dubbed Super...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBatLoader Sweeps European Countries With Multiple Malware Payloads<a href="https://cyware.com/news/dbatloader-sweeps-european-countries-with-multiple-malware-payloads-73173685"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign has surfaced to drop Remcos RAT and Formbook malware through DBatLoader malware loader, revealed Zscaler researchers. The campaign is aimed at compromising systems in Europe. Actors also leverage a multi-layered obfuscated HTML file and OneNote attachments to propagate the D ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese RedGolf Group Targeting Windows and Linux Systems with KEYPLUG Backdoor<a href="https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat activity group tracked as  RedGolf  has been  attributed  to the use of a custom Windows and Linux backdoor called KEYPLUG. "RedGolf is a particularly prolific Chinese state-sponsored threat actor group that has likely been active for many years against a wide range of industries globally," Recorded Future told The Hacker News. "The group has shown the ability to rapidly weaponize  newly reported vulnerabilities (e.g. Log4Shell and  ProxyLogon ) and has a history of developing and using a large range of custom malware families." The use of KEYPLUG by Chinese threat actors was  first disclosed  by Google-owned Manidant in March 2022 in attacks targeting multiple U.S. state government networks between May 2021 and February 2022. Then in October 2022, Malwarebytes  detailed  a separate set of attacks targeting government entities in Sri Lanka in early August that leveraged a novel implant dubbed DBoxAgent to deploy KEYPLUG. Bot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AlienFox toolkit harvests credentials for tens of cloud services<a href="https://securityaffairs.com/144239/cyber-crime/alienfox-toolset-cloud-service-providers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AlienFox is a novel comprehensive toolset for harvesting credentials for multiple cloud service providers, SentinelLabs reported.
+AlienFox is a new modular toolkit that allows threat actors to harvest credentials for multiple cloud service providers.
+AlienFox...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI chatbots making it harder to spot phishing emails, say experts<a href="https://www.theguardian.com/technology/2023/mar/29/ai-chatbots-making-it-harder-to-spot-phishing-emails-say-experts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI allows you to craft very believable ‘spear-phishing’ emails and other written communication with very little effort, especially compared to what you have to do before.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wi-Fi Protocol Security Flaw Affecting Linux, Android and iOS Devices<a href="https://thehackernews.com/2023/03/new-wi-fi-protocol-security-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from Northeastern University and KU Leuven has disclosed a fundamental design flaw in the IEEE 802.11 Wi-Fi protocol standard, impacting a wide range of devices running Linux, FreeBSD, Android, and iOS. Successful exploitation of the shortcoming could be abused to hijack TCP connections or intercept client and web traffic, researchers Domien Schepers, Aanjhan Ranganathan, and Mathy Vanhoef said in a paper published this week. The  approach  exploits  power-save mechanisms  in endpoint devices to trick access points into leaking  data frames  in plaintext, or encrypt them using  an all-zero key . "The unprotected nature of the power-save bit in a frame's header [...] also allows an adversary to force queue frames intended for a specific client resulting in its disconnection and trivially executing a denial-of-service attack," the researchers noted. In other words, the goal is to leak frames from the access point destined to a victim client station
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX voice and video conferencing software victim of a supply chain attack<a href="https://securityaffairs.com/144224/hacking/3cx-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular voice and video conferencing software 3CX was the victim of a supply chain attack, SentinelOne researchers reported.
+As of Mar 22, 2023, SentinelOne observed a spike in behavioral detections of the 3CXDesktopApp, which is a popular voice and video...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DataDome, which uses AI to protect against bot-based attacks, raises $42M<a href="https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Benjamin Fabre founded DataDome in 2015 with Fabien Grenier, a longtime business partner, after the pair made the observation that most companies weren’t able to detect and block bots.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberstorage: Leveraging the Multi-Cloud to Combat Data Exfiltration<a href="https://thehackernews.com/2023/03/cyberstorage-leveraging-multi-cloud-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multi-cloud data storage, once merely a byproduct of the great cloud migration, has now become a strategy for data management. "Multi-cloud by design," and its companion the supercloud, is an ecosystem in which several cloud systems work together to provide many organizational benefits, including increased scale and overall resiliency. And now, even security teams who have long been the holdout on wide-scale cloud adoption, may find a reason to rejoice. Born out of the multi-cloud approach, cyberstorage enables companies to not only enjoy the benefits that multi-cloud brings but also eliminate the risk of data exposure at the same time, marking the beginning of the multi-cloud maturity era. What Is The Supercloud? While many organizations ended up with multiple cloud services as a byproduct of interdepartmental needs, today organizations are intentionally building multi-cloud environments. And rather than manage the various cloud services individually, many are implementin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mélofée Linux malware linked to Chinese APT groups<a href="https://securityaffairs.com/144210/apt/melofee-malware-linked-to-china.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exatrack researchers warn of an unknown China-linked hacking group that has been linked to a new Linux malware, dubbed Mélofée.
+Cybersecurity researchers from ExaTrack recently discovered a previously undetected malware family, dubbed Mélofée,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Pipelines vulnerability spotlights supply chain threats<a href="https://www.techtarget.com/searchsecurity/news/365534205/Azure-Pipelines-vulnerability-spotlights-supply-chain-threats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Azure Pipelines flaw affected both the SaaS version of Azure DevOps Server and the self-hosted, on-premises version. Customers running the on-premises version need to patch their instances to remediate the RCE vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AlienFox Malware Targets API Keys and Secrets from AWS, Google, and Microsoft Cloud Services<a href="https://thehackernews.com/2023/03/alienfox-malware-targets-api-keys-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new "comprehensive toolset" called  AlienFox  is being distributed on Telegram as a way for threat actors to harvest credentials from API keys and secrets from popular cloud service providers. "The spread of AlienFox represents an unreported trend towards attacking more minimal cloud services, unsuitable for crypto mining, in order to enable and expand subsequent campaigns," SentinelOne security researcher Alex Delamotte  said  in a report shared with The Hacker News. The cybersecurity company characterized the malware as highly modular and constantly evolving to accommodate new features and performance improvements. The primary use of AlienFox is to enumerate misconfigured hosts via scanning platforms like  LeakIX  and  SecurityTrails , and subsequently leverage various scripts in the toolkit to extract credentials from configuration files exposed on the servers. Specifically, it entails searching for susceptible servers associated with popular web framewor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NullMixer Campaign Delivers New Polymorphic Loaders<a href="https://cyware.com/news/nullmixer-campaign-delivers-new-polymorphic-loaders-09654e34"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new malware operation, named NullMixer, that hit over 8,000 targets within a week, with a special focus on North America, Italy, and France. The attackers use SEO poisoning, along with social engineering tactics to lure their potential victims, consisting mostly of IT personne ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX Desktop App Supply Chain Attack Leaves Millions at Risk - Urgent Update on the Way!<a href="https://thehackernews.com/2023/03/3cx-desktop-app-targeted-in-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+3CX said it's  working on a software update  for its desktop app after multiple cybersecurity vendors sounded the alarm on what appears to be an active supply chain attack that's using digitally signed and rigged installers of the popular voice and video conferencing software to target downstream customers. "The trojanized 3CX desktop app is the first stage in a multi-stage attack chain that pulls ICO files appended with Base64 data from GitHub and ultimately leads to a third-stage infostealer DLL," SentinelOne researchers  said . The cybersecurity firm is tracking the activity under the name SmoothOperator , stating the threat actor registered a massive attack infrastructure as far back as February 2022. There are indications that the attack may have commenced around March 22, 2023. 3CX, the company behind 3CXDesktopApp,  claims  to have more than 600,000 customers and 12 million users in 190 countries, some of which include well-known names like American Expres
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Emails Up a Whopping 569% in 2022<a href="https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of credential phishing emails sent spiked by 478%. Emotet and QakBot are the top malware families observed. For the eighth consecutive year, business email compromise (BEC) ranked as the top cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Storm Predicted at the 2023 World Economic Forum<a href="https://securityintelligence.com/articles/cyber-storm-predicted-at-the-2023-world-economic-forum/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of organizations reported that global geopolitical instability has influenced their cyber strategy “moderately” or “substantially”. Their biggest concerns regarding cyberattacks are business continuity (67%) and reputational damage (65%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
