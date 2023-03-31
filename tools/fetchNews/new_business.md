@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DataDome, which uses AI to protect against bot-based attacks, raises $42M<a href="https://techcrunch.com/2023/03/30/datadome-raises-42m-series-c-bot-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Benjamin Fabre founded DataDome in 2015 with Fabien Grenier, a longtime business partner, after the pair made the observation that most companies weren’t able to detect and block bots.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberstorage: Leveraging the Multi-Cloud to Combat Data Exfiltration<a href="https://thehackernews.com/2023/03/cyberstorage-leveraging-multi-cloud-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multi-cloud data storage, once merely a byproduct of the great cloud migration, has now become a strategy for data management. "Multi-cloud by design," and its companion the supercloud, is an ecosystem in which several cloud systems work together to provide many organizational benefits, including increased scale and overall resiliency. And now, even security teams who have long been the holdout on wide-scale cloud adoption, may find a reason to rejoice. Born out of the multi-cloud approach, cyberstorage enables companies to not only enjoy the benefits that multi-cloud brings but also eliminate the risk of data exposure at the same time, marking the beginning of the multi-cloud maturity era. What Is The Supercloud? While many organizations ended up with multiple cloud services as a byproduct of interdepartmental needs, today organizations are intentionally building multi-cloud environments. And rather than manage the various cloud services individually, many are implementin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

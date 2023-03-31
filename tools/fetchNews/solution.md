@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Security Copilot is a new GPT-4 AI assistant for cybersecurity<a href="https://www.theverge.com/2023/3/28/23659711/microsoft-security-copilot-gpt-4-ai-tool-features?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Powered by OpenAI’s GPT-4 generative AI and Microsoft’s security-specific model, Security Copilot looks like a simple prompt box like any other chatbot. You can ask “what are all the security incidents in my enterprise?”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitter APT Espionage Group Targets Nuclear Energy Firms in China<a href="https://cyware.com/news/bitter-apt-espionage-group-targets-nuclear-energy-firms-in-china-969bd858"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The nuclear energy sector of China is reportedly facing threats from Bitter, a South Asian APT. The group specializes in using Excel exploits, Windows Installer (MSI) files, and Microsoft Compiled HTML Help (CHM) files. Besides, the group is infamous for targeting energy and government organization ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean APT43 Group Uses Cybercrime to Fund Espionage Operations<a href="https://thehackernews.com/2023/03/north-korean-apt43-group-uses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new North Korean nation-state cyber operator has been attributed to a series of campaigns orchestrated to gather strategic intelligence that aligns with Pyongyang's geopolitical interests since 2018. Google-owned Mandiant, which is tracking the activity cluster under the moniker&nbsp; APT43 , said the group's motives are both espionage- and financially-motivated, leveraging techniques like&nbsp; credential harvesting &nbsp;and social engineering to further its objectives. The monetary angle to its attack campaigns is an attempt on the part of the threat actor to generate funds to meet its "primary mission of collecting strategic intelligence." Victimology patterns suggest that targeting is focused on South Korea, the U.S., Japan, and Europe, spanning government, education, research, policy institutes, business services, and manufacturing sectors. The threat actor was also observed straying off course by striking health-related verticals and pharma companies from October 2020
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly exposed APT43 hacking group targeting US orgs since 2018<a href="https://www.bleepingcomputer.com/news/security/newly-exposed-apt43-hacking-group-targeting-us-orgs-since-2018/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new North Korean hacking group has been revealed to be targeting government organizations, academics, and think tanks in the United States, Europe, Japan, and South Korea for the past five years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

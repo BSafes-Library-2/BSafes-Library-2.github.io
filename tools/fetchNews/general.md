@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New API Report Shows 400% Increase in Attackers<a href="https://www.itsecurityguru.org/2023/03/29/new-api-report-shows-400-increase-in-attackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report also found that 80% of attacks happened over authenticated APIs, making it a widespread problem for all. Given that it is one of the easiest types of attack to execute, it is no surprise that attackers are increasingly taking this route.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smart Mobility has a Blindspot When it Comes to API Security<a href="https://thehackernews.com/2023/03/smart-mobility-has-blindspot-when-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The emergence of smart mobility services and applications has led to a sharp increase in the use of APIs in the automotive industry. However, this increased reliance on APIs has also made them one of the most common attack vectors. According to Gartner, APIs account for 90% of the web application attack surface areas.&nbsp; With no surprise, similar trends are emerging also in the smart mobility space. A recent&nbsp; Automotive and Smart Mobility Cybersecurity Report &nbsp;by Upstream Security indicates that the automotive and smart mobility ecosystem has seen a 380% increase in API-based incidents in 2022, compared to 2021. Additionally, APIs accounted for 12% of total cyber incidents in 2022, up from only 2% in 2021.&nbsp; When examining smart mobility applications and services, Upstream's threat intelligence team reported that black-hat actors were found to be behind 53% of incidents, indicating malicious intent as the driving force of the majority of API-related attacks. The impact of these in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gunning for transport sector's OT systems next<a href="https://www.malwarebytes.com/blog/news/2023/03/ransomware-gunning-for-transport-sectors-ot-systems-next?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ENISA says the three dominant threats to the transportation sector are ransomware (38 percent), data-related threats (30 percent), and malware (17 percent). However, each subgroup has reported experiencing other attack types than ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft brings GPT-4-powered Security Copilot to incident response<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-brings-gpt-4-powered-security-copilot-to-incident-response/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft today announced Security Copilot, a new ChatGPT-like assistant powered by artificial intelligence that takes advantage of Microsoft's threat intelligence footprint to make faster decisions during incident response and to help with threat hunting and security reporting.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

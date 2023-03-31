@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized TOR Browser Installers Spreading Crypto-Stealing Clipper Malware<a href="https://thehackernews.com/2023/03/trojanized-tor-browser-installers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trojanized installers for the TOR anonymity browser are being used to target users in Russia and Eastern Europe with&nbsp; clipper malware &nbsp;designed to siphon cryptocurrencies since September 2022. "Clipboard injectors [...] can be silent for years, show no network activity or any other signs of presence until the disastrous day when they replace a crypto wallet address," Vitaly Kamluk, director of global research and analysis team (GReAT) for APAC at Kaspersky,&nbsp; said . Another notable aspect of clipper malware is that its nefarious functions are not triggered unless the clipboard data meet specific criteria, making it more evasive. It's not immediately clear how the installers are distributed, but evidence points to the use of torrent downloads or some unknown third-party source since the Tor Project's website has been&nbsp; subjected &nbsp;to&nbsp; blockades &nbsp;in&nbsp; Russia &nbsp;in recent years. Regardless of the method used, the installer launches the legitimate executable, while also s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

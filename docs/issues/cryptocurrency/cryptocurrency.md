@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Goes Wrong: Malware Steals $400k in Cryptocurrency<a href="https://cyware.com/news/tor-goes-wrong-malware-steals-400k-in-cryptocurrency-aecbfe33"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you a crypto user addicted to Tor? Tor browser users across the world are under attack with trojanized versions of Tor browser installers, especially those in Russia and nearby regions. These infected browsers were being promoted as "security-strengthened" versions of the browser. Kaspersky war ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

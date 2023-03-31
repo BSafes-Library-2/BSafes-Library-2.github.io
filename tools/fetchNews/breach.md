@@ -8,6 +8,77 @@ nav_order: 900029
 
 ## Breach
 ---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers compromise 3CX desktop app in a supply chain attack<a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-3cx-desktop-app-in-a-supply-chain-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A digitally signed and trojanized version of the 3CX Voice Over Internet Protocol (VOIP) desktop client is reportedly being used to target the company's customers in an ongoing supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeMoon ‘burn’ bug abused to drain $8.9 million from liquidity pool<a href="https://www.bleepingcomputer.com/news/cryptocurrency/safemoon-burn-bug-abused-to-drain-89-million-from-liquidity-pool/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SafeMoon token liquidity pool lost $8.9 million after a hacker exploited a newly created 'burn' smart contract function that artificially inflated the price, allowing the actors to sell SafeMoon at a much higher price.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia’s Casino Giant Crown Resorts disclosed data breach after Clop ransomware attack<a href="https://securityaffairs.com/144193/data-breach/crown-resorts-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's gambling and entertainment giant Crown Resorts, disclosed a data breach caused by the exploitation of recently discovered GoAnywhere zero-day.
+Australian casino giant Crown Resorts disclosed a data breach after the attack of the Cl0p ransomware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crown Resorts confirms ransom demand after GoAnywhere breach<a href="https://www.bleepingcomputer.com/news/security/crown-resorts-confirms-ransom-demand-after-goanywhere-breach/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crown Resorts, Australia's largest gambling and entertainment company, has confirmed that it suffered a data breach after its GoAnywhere secure file-sharing server was breached using a zero-day vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latitude Financial data breach now impacts 14 million customers<a href="https://www.bleepingcomputer.com/news/security/latitude-financial-data-breach-now-impacts-14-million-customers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian loan giant Latitude Financial Services (Latitude) is warning customers that its data breach is much more significant than initially stated, taking the number of affected individuals from 328,000 to 14 million.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese RedGolf Group Targeting Windows and Linux Systems with KEYPLUG Backdoor<a href="https://thehackernews.com/2023/03/chinese-redgolf-group-targeting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored threat activity group tracked as&nbsp; RedGolf &nbsp;has been&nbsp; attributed &nbsp;to the use of a custom Windows and Linux backdoor called KEYPLUG. "RedGolf is a particularly prolific Chinese state-sponsored threat actor group that has likely been active for many years against a wide range of industries globally," Recorded Future told The Hacker News. "The group has shown the ability to rapidly weaponize&nbsp; newly reported vulnerabilities (e.g. Log4Shell and&nbsp; ProxyLogon ) and has a history of developing and using a large range of custom malware families." The use of KEYPLUG by Chinese threat actors was&nbsp; first disclosed &nbsp;by Google-owned Manidant in March 2022 in attacks targeting multiple U.S. state government networks between May 2021 and February 2022. Then in October 2022, Malwarebytes&nbsp; detailed &nbsp;a separate set of attacks targeting government entities in Sri Lanka in early August that leveraged a novel implant dubbed DBoxAgent to deploy KEYPLUG. Bot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
