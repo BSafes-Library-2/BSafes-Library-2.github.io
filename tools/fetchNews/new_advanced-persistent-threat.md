@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+March 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter Vivern APT Targets European Government Entities with Zimbra Vulnerability<a href="https://thehackernews.com/2023/03/winter-vivern-apt-targets-european.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as Winter Vivern is now targeting officials in Europe and the U.S. as part of an ongoing cyber espionage campaign. "TA473 since at least February 2023 has continuously leveraged an unpatched Zimbra vulnerability in publicly facing webmail portals that allows them to gain access to the email mailboxes of government entities in Europe," Proofpoint&nbsp; said &nbsp;in a new report. The enterprise security firm is tracking the activity under its own moniker&nbsp; TA473 &nbsp;(aka UAC-0114), describing it as an adversarial crew whose operations align with that of Russian and Belarussian geopolitical objectives. What it lacks in sophistication, it makes up for in persistence. In recent months, the group has been linked to attacks targeting&nbsp; state authorities of Ukraine and Poland &nbsp;as well as&nbsp; government officials in India, Lithuania, Slovakia, and the Vatican . The NATO-related intrusion wave entails the exploitation of CVE-2022-27926 (CVSS score:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

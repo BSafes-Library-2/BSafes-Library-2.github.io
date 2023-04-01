@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cacti, Realtek, and IBM Aspera Faspex Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security flaws in Cacti, Realtek, and IBM Aspera Faspex are being exploited by various threat actors in hacks targeting unpatched systems. This entails the abuse of&nbsp; CVE-2022-46169 &nbsp;(CVSS score: 9.8) and&nbsp; CVE-2021-35394 &nbsp;(CVSS score: 9.8) to deliver&nbsp; MooBot &nbsp;and&nbsp; ShellBot &nbsp;(aka PerlBot), Fortinet FortiGuard Labs&nbsp; said &nbsp;in a report published this week. CVE-2022-46169 &nbsp;relates to a critical authentication bypass and command injection flaw in Cacti servers that allows an unauthenticated user to execute arbitrary code.&nbsp; CVE-2021-35394 &nbsp;also concerns an arbitrary command injection vulnerability impacting the Realtek Jungle SDK that was patched in 2021. While the latter has been previously exploited to distribute botnets like Mirai, Gafgyt, Mozi, and RedGoBot, the development marks the first time it has been utilized to deploy MooBot, a Mirai variant known to be active since 2019. The Cacti flaw, besides being leveraged for MooBot attacks, has also been observed serving ShellB
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are actively exploiting a flaw in the Elementor Pro WordPress plugin<a href="https://securityaffairs.com/144290/hacking/elementor-pro-wordpress-plugin-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a high-severity flaw in the Elementor Pro WordPress plugin used by more than eleven million websites
+WordPress security firm&nbsp;PatchStack&nbsp;warns of a high-severity vulnerability in the Elementor Pro WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's how attackers could have changed Bing search results<a href="https://www.theregister.com/2023/03/30/wiz_bing_takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Azure Active Directory (AAD) misconfiguration by Microsoft in one of its own cloud-hosted applications could have allowed miscreants to subvert the IT giant's Bing search engine – even changing search results.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

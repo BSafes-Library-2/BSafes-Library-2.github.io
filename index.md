@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LeapXpert Banks $22M Funding to Secure Corporate Messaging With Consumer Apps<a href="https://www.securityweek.com/leapxpert-banks-22m-funding-to-secure-corporate-messaging-with-consumer-apps/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2023
+April 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cacti, Realtek, and IBM Aspera Faspex Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2023
+April 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting WordPress Elementor Pro Vulnerability: Millions of Sites at Risk!<a href="https://thehackernews.com/2023/04/hackers-exploiting-wordpress-elementor.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2023
+March 31, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Role of International Assistance in Cyber Incident Response<a href="https://www.lawfareblog.com/role-international-assistance-cyber-incident-response"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2023
+March 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are actively exploiting a flaw in the Elementor Pro WordPress plugin<a href="https://securityaffairs.com/144290/hacking/elementor-pro-wordpress-plugin-critical-bug.html"> Full Text</a>
@@ -115,7 +115,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2023
+March 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Here's how attackers could have changed Bing search results<a href="https://www.theregister.com/2023/03/30/wiz_bing_takeover/?&web_view=true"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2023
+March 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Police of Ukraine arrested members of a gang that defrauded EU citizens of $4.33M<a href="https://securityaffairs.com/144279/cyber-crime/cyber-police-of-ukraine-cybercrime-gang.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2023
+March 31, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden administration goes global in effort to constrain spyware use<a href="https://cyberscoop.com/spyware-biden-administration-democracy-summit/?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 31, 2023
+March 31, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winter Vivern APT Targets European Government Entities with Zimbra Vulnerability<a href="https://thehackernews.com/2023/03/winter-vivern-apt-targets-european.html"> Full Text</a>

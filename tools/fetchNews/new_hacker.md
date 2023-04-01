@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting WordPress Elementor Pro Vulnerability: Millions of Sites at Risk!<a href="https://thehackernews.com/2023/04/hackers-exploiting-wordpress-elementor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown threat actors are actively exploiting a recently patched security vulnerability in the Elementor Pro website builder plugin for WordPress. The flaw, described as a case of broken access control, impacts versions 3.11.6 and earlier. It was addressed by the plugin maintainers in version 3.11.7 released on March 22. "Improved code security enforcement in WooCommerce components," the Elementor&nbsp; said &nbsp;in its release notes. The premium plugin is&nbsp; estimated &nbsp;to be used on over 12 million sites. Successful exploitation of the high-severity flaw allows an authenticated attacker to complete a takeover of a WordPress site that has WooCommerce enabled. "This makes it possible for a malicious user to turn on the registration page (if disabled) and set the default user role to administrator so they can create an account that instantly has the administrator privileges," Patchstack&nbsp; said &nbsp;in an alert of March 30, 2023. "After this, they are likely to either redi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

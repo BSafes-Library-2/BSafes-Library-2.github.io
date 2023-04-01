@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Severe "Super FabriXss" Vulnerability in Microsoft Azure SFX<a href="https://thehackernews.com/2023/03/researchers-detail-severe-super.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched vulnerability in Azure Service Fabric Explorer ( SFX ) that could lead to unauthenticated remote code execution. Tracked as&nbsp; CVE-2023-23383 &nbsp;(CVSS score: 8.2), the issue has been dubbed "Super FabriXss" by Orca Security, a nod to the&nbsp; FabriXss flaw &nbsp;(CVE-2022-35829, CVSS score: 6.2) that was fixed by Microsoft in October 2022. "The Super FabriXss vulnerability enables remote attackers to leverage an XSS vulnerability to achieve remote code execution on a container hosted on a Service Fabric node without the need for authentication," security researcher Lidor Ben Shitrit&nbsp; said &nbsp;in a report shared with The Hacker News. XSS refers to a kind of&nbsp; client-side code injection &nbsp;attack that makes it possible to upload malicious scripts into otherwise trusted websites. The scripts then get executed every time a victim visits the compromised website, thereby leading to unintended consequences. While both FabriXss and Super FabriXss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Super FabriXss vulnerability in Microsoft Azure SFX could lead to RCE<a href="https://securityaffairs.com/144251/hacking/azure-service-fabric-explorer-super-fabrixss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shared details about a flaw, dubbed Super FabriXss, in Azure Service Fabric Explorer (SFX) that could lead to unauthenticated remote code execution.
+Researchers from Orca Security shared details about a new vulnerability, dubbed Super...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wi-Fi Protocol Security Flaw Affecting Linux, Android and iOS Devices<a href="https://thehackernews.com/2023/03/new-wi-fi-protocol-security-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics from Northeastern University and KU Leuven has disclosed a fundamental design flaw in the IEEE 802.11 Wi-Fi protocol standard, impacting a wide range of devices running Linux, FreeBSD, Android, and iOS. Successful exploitation of the shortcoming could be abused to hijack TCP connections or intercept client and web traffic, researchers Domien Schepers, Aanjhan Ranganathan, and Mathy Vanhoef said in a paper published this week. The&nbsp; approach &nbsp;exploits&nbsp; power-save mechanisms &nbsp;in endpoint devices to trick access points into leaking&nbsp; data frames &nbsp;in plaintext, or encrypt them using&nbsp; an all-zero key . "The unprotected nature of the power-save bit in a frame's header [...] also allows an adversary to force queue frames intended for a specific client resulting in its disconnection and trivially executing a denial-of-service attack," the researchers noted. In other words, the goal is to leak frames from the access point destined to a victim client station
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Pipelines vulnerability spotlights supply chain threats<a href="https://www.techtarget.com/searchsecurity/news/365534205/Azure-Pipelines-vulnerability-spotlights-supply-chain-threats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Azure Pipelines flaw affected both the SaaS version of Azure DevOps Server and the self-hosted, on-premises version. Customers running the on-premises version need to patch their instances to remediate the RCE vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

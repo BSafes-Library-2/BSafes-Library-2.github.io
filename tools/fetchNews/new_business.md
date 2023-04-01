@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LeapXpert Banks $22M Funding to Secure Corporate Messaging With Consumer Apps<a href="https://www.securityweek.com/leapxpert-banks-22m-funding-to-secure-corporate-messaging-with-consumer-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said the Series A financing was led by Rockefeller Asset Management through its Technology Ventures Group with equity investments from Uncorrelated Ventures, the Partnership Fund for New York City.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

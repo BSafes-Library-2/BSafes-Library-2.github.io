@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Emails Up a Whopping 569% in 2022<a href="https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of credential phishing emails sent spiked by 478%. Emotet and QakBot are the top malware families observed. For the eighth consecutive year, business email compromise (BEC) ranked as the top cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Storm Predicted at the 2023 World Economic Forum<a href="https://securityintelligence.com/articles/cyber-storm-predicted-at-the-2023-world-economic-forum/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A majority of organizations reported that global geopolitical instability has influenced their cyber strategy “moderately” or “substantially”. Their biggest concerns regarding cyberattacks are business continuity (67%) and reputational damage (65%).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX voice and video conferencing software victim of a supply chain attack<a href="https://securityaffairs.com/144224/hacking/3cx-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular voice and video conferencing software 3CX was the victim of a supply chain attack, SentinelOne researchers reported.
+As of Mar 22, 2023, SentinelOne observed a spike in behavioral detections of the 3CXDesktopApp, which is a popular voice and video...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX Desktop App Supply Chain Attack Leaves Millions at Risk - Urgent Update on the Way!<a href="https://thehackernews.com/2023/03/3cx-desktop-app-targeted-in-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+3CX said it's&nbsp; working on a software update &nbsp;for its desktop app after multiple cybersecurity vendors sounded the alarm on what appears to be an active supply chain attack that's using digitally signed and rigged installers of the popular voice and video conferencing software to target downstream customers. "The trojanized 3CX desktop app is the first stage in a multi-stage attack chain that pulls ICO files appended with Base64 data from GitHub and ultimately leads to a third-stage infostealer DLL," SentinelOne researchers&nbsp; said . The cybersecurity firm is tracking the activity under the name SmoothOperator , stating the threat actor registered a massive attack infrastructure as far back as February 2022. There are indications that the attack may have commenced around March 22, 2023. 3CX, the company behind 3CXDesktopApp,&nbsp; claims &nbsp;to have more than 600,000 customers and 12 million users in 190 countries, some of which include well-known names like American Expres
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Police of Ukraine arrested members of a gang that defrauded EU citizens of $4.33M<a href="https://securityaffairs.com/144279/cyber-crime/cyber-police-of-ukraine-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine, with law enforcement officials from Czechia, has arrested several members of a gang responsible for $4.33 million scam.
+The Cyber Police of Ukraine, with the support of law enforcement officials from the Czech Republic,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Role of International Assistance in Cyber Incident Response<a href="https://www.lawfareblog.com/role-international-assistance-cyber-incident-response"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some cybersecurity incidents can render crucial government services inaccessible, like recent events in Costa Rica and Vanuatu exemplify. In these cases, international assistance can be a key part of the response.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

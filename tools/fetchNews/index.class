@@ -34,6 +34,281 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LeapXpert Banks $22M Funding to Secure Corporate Messaging With Consumer Apps<a href="https://www.securityweek.com/leapxpert-banks-22m-funding-to-secure-corporate-messaging-with-consumer-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company said the Series A financing was led by Rockefeller Asset Management through its Technology Ventures Group with equity investments from Uncorrelated Ventures, the Partnership Fund for New York City.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cacti, Realtek, and IBM Aspera Faspex Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security flaws in Cacti, Realtek, and IBM Aspera Faspex are being exploited by various threat actors in hacks targeting unpatched systems. This entails the abuse of  CVE-2022-46169  (CVSS score: 9.8) and  CVE-2021-35394  (CVSS score: 9.8) to deliver  MooBot  and  ShellBot  (aka PerlBot), Fortinet FortiGuard Labs  said  in a report published this week. CVE-2022-46169  relates to a critical authentication bypass and command injection flaw in Cacti servers that allows an unauthenticated user to execute arbitrary code.  CVE-2021-35394  also concerns an arbitrary command injection vulnerability impacting the Realtek Jungle SDK that was patched in 2021. While the latter has been previously exploited to distribute botnets like Mirai, Gafgyt, Mozi, and RedGoBot, the development marks the first time it has been utilized to deploy MooBot, a Mirai variant known to be active since 2019. The Cacti flaw, besides being leveraged for MooBot attacks, has also been observed serving ShellB
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting WordPress Elementor Pro Vulnerability: Millions of Sites at Risk!<a href="https://thehackernews.com/2023/04/hackers-exploiting-wordpress-elementor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unknown threat actors are actively exploiting a recently patched security vulnerability in the Elementor Pro website builder plugin for WordPress. The flaw, described as a case of broken access control, impacts versions 3.11.6 and earlier. It was addressed by the plugin maintainers in version 3.11.7 released on March 22. "Improved code security enforcement in WooCommerce components," the Elementor  said  in its release notes. The premium plugin is  estimated  to be used on over 12 million sites. Successful exploitation of the high-severity flaw allows an authenticated attacker to complete a takeover of a WordPress site that has WooCommerce enabled. "This makes it possible for a malicious user to turn on the registration page (if disabled) and set the default user role to administrator so they can create an account that instantly has the administrator privileges," Patchstack  said  in an alert of March 30, 2023. "After this, they are likely to either redi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Role of International Assistance in Cyber Incident Response<a href="https://www.lawfareblog.com/role-international-assistance-cyber-incident-response"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some cybersecurity incidents can render crucial government services inaccessible, like recent events in Costa Rica and Vanuatu exemplify. In these cases, international assistance can be a key part of the response.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are actively exploiting a flaw in the Elementor Pro WordPress plugin<a href="https://securityaffairs.com/144290/hacking/elementor-pro-wordpress-plugin-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a high-severity flaw in the Elementor Pro WordPress plugin used by more than eleven million websites
+WordPress security firm PatchStack warns of a high-severity vulnerability in the Elementor Pro WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Here's how attackers could have changed Bing search results<a href="https://www.theregister.com/2023/03/30/wiz_bing_takeover/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Azure Active Directory (AAD) misconfiguration by Microsoft in one of its own cloud-hosted applications could have allowed miscreants to subvert the IT giant's Bing search engine – even changing search results.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Police of Ukraine arrested members of a gang that defrauded EU citizens of $4.33M<a href="https://securityaffairs.com/144279/cyber-crime/cyber-police-of-ukraine-cybercrime-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine, with law enforcement officials from Czechia, has arrested several members of a gang responsible for $4.33 million scam.
+The Cyber Police of Ukraine, with the support of law enforcement officials from the Czech Republic,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration goes global in effort to constrain spyware use<a href="https://cyberscoop.com/spyware-biden-administration-democracy-summit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acoalition of 11 countries committed on Thursday to counter the misuse of commercial spyware, a step toward building an international agreement to curb technology deployed by authoritarian countries to spy on dissidents and journalists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winter Vivern APT Targets European Government Entities with Zimbra Vulnerability<a href="https://thehackernews.com/2023/03/winter-vivern-apt-targets-european.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as Winter Vivern is now targeting officials in Europe and the U.S. as part of an ongoing cyber espionage campaign. "TA473 since at least February 2023 has continuously leveraged an unpatched Zimbra vulnerability in publicly facing webmail portals that allows them to gain access to the email mailboxes of government entities in Europe," Proofpoint  said  in a new report. The enterprise security firm is tracking the activity under its own moniker  TA473  (aka UAC-0114), describing it as an adversarial crew whose operations align with that of Russian and Belarussian geopolitical objectives. What it lacks in sophistication, it makes up for in persistence. In recent months, the group has been linked to attacks targeting  state authorities of Ukraine and Poland  as well as  government officials in India, Lithuania, Slovakia, and the Vatican . The NATO-related intrusion wave entails the exploitation of CVE-2022-27926 (CVSS score:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT group Winter Vivern targets email portals of NATO and diplomats<a href="https://securityaffairs.com/144263/intelligence/winter-vivern-email-portals-nato.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian hacking group Winter Vivern has been actively exploiting Zimbra flaws to steal the emails of NATO and diplomats.
+A Russian hacking group, tracked Winter Vivern (aka TA473), has been actively exploiting vulnerabilities (CVE-2022-27926) in unpatched...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked Documents Detail Russia’s Cyberwarfare Tools, Including for OT Attacks<a href="https://www.securityweek.com/leaked-documents-detail-russias-cyberwarfare-tools-including-for-ot-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked documents, referred to as The Vulkan Files, were obtained by a whistleblower and analyzed by Mandiant in collaboration with several major media outlets in Europe and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Police of Ukraine Busted Phishing Gang Responsible for $4.33 Million Scam<a href="https://thehackernews.com/2023/03/cyber-police-of-ukraine-busted-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Police of Ukraine, in collaboration with law enforcement officials from Czechia, has arrested several members of a cybercriminal gang that set up phishing sites to target European users. Two of the apprehended affiliates are believed to be organizers, with 10 others detained in other territories across the European Union. The suspects are alleged to have created more than 100 phishing portals aimed at users in France, Spain, Poland, Czechia, Portugal, and other nations in the region. These websites masqueraded as online portals offering heavily discounted products below market prices to lure unsuspecting users into placing fake "orders." In reality, the financial information entered on those websites to complete the payments were used to siphon money from the victims' accounts. "For the fraudulent scheme, the participants also created two call centers, in Vinnytsia and in Lviv, and involved operators in their work," the Cyber Police  said . &quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: DXC Technology says global network is not compromised following Latitude Financial breach<a href="https://www.csoonline.com/article/3692292/dxc-technology-says-global-network-is-not-compromised-following-latitude-financial-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Soon after Latitude Financial revealed it suffered a cyberattack, DXC Technology quietly published a note on its website stating its global network and customer support networks were not compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep Dive Into 6 Key Steps to Accelerate Your Incident Response<a href="https://thehackernews.com/2023/03/deep-dive-into-6-key-steps-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations rely on Incident response to ensure they are immediately aware of security incidents, allowing for quick action to minimize damage. They also aim to avoid follow on attacks or future related incidents. The SANS Institute provides research and education on information security. In the upcoming webinar, we'll outline , in detail, six components of a SANS incident response plan, including elements such as preparation, identification, containment, and eradication. The 6 steps of a complete IR Preparation:  This is the first phase and involves reviewing existing security measures and policies; performing risk assessments to find potential vulnerabilities; and establishing a communication plan that lays out protocols and alerts staff to potential security risks. During the holidays, the preparation stage of your IR plan is crucial as it gives you the opportunity to communicate holiday-specific threats and put the wheels in motion to address such threats as they are identif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack-for-Hire Groups Provide Corporate Espionage<a href="https://securityintelligence.com/news/hack-for-hire-groups-new-face-of-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While hack-for-hire groups may advertise, they aren’t usually helping clients get a cryptocurrency payout. And you can’t sign up for a subscription service. It’s more than likely that hack-for-hire clients have a specific target and goal in mind.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX Supply Chain Attack — Here's What We Know So Far<a href="https://thehackernews.com/2023/03/3cx-supply-chain-attack-heres-what-we.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise communications software maker 3CX on Thursday confirmed that multiple versions of its desktop app for Windows and macOS are affected by a  supply chain attack . The version numbers include  18.12.407 and 18.12.416  for Windows and  18.11.1213, 18.12.402, 18.12.407, and 18.12.416  for macOS. The company said it's engaging the services of Google-owned Mandiant to review the incident. In the interim, it's urging its customers of self-hosted and on-premise versions of the software to update to version 18.12.422. "3CX Hosted and StartUP users do not need to update their servers as we will be updating them over the night automatically," 3CX CEO Nick Galea  said  in a blog post. "Servers will be restarted and the new Electron App MSI/DMG will be installed on the server." Evidence available so far points to either a compromise of 3CX's software build pipeline to distribute Windows and macOS versions of the app package, or alternatively, the poiso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The US Is Sending Money to Countries Devastated by Cyberattacks<a href="https://www.wired.com/story/white-house-costa-rica-albania-ransomware-aid/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost a year after the crisis began, a senior White House official told reporters today that the United States plans to provide $25 million in cybersecurity assistance to help Costa Rica strengthen its digital infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 30, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
