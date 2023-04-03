@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit leaks data stolen from the South Korean National Tax Service<a href="https://securityaffairs.com/144342/cyber-crime/lockbit-south-korean-national-tax-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang announced the publishing of data stolen from the South Korean National Tax Service.
+On March 29, 2023, The Lock Bit ransomware gang announced the hack of the South Korean National Tax Service. The group added the South...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

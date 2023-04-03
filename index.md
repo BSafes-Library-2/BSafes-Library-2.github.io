@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hook, Line, and Sinker: Phishing Landscape in 2022<a href="https://cyware.com/news/hook-line-and-sinker-phishing-landscape-in-2022-dab8a0dc"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda Cyberespionage Strikes Over 200 Targets<a href="https://cyware.com/news/mustang-panda-cyberespionage-strikes-over-200-targets-7e062b67"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2023
+April 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 413 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144366/breaking-news/security-affairs-newsletter-round-413-by-pierluigi-paganini.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2023
+April 2, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaked documents from Russian firm NTC Vulkan show Sandworm cyberwarfare arsenal<a href="https://securityaffairs.com/144340/apt/ntc-vulkan-sandworm-cyberwarfare-arsenal.html"> Full Text</a>
@@ -101,7 +101,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 01, 2023
+April 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fixes New Azure AD Vulnerability Impacting Bing Search and Major Apps<a href="https://thehackernews.com/2023/04/microsoft-fixes-new-azure-ad.html"> Full Text</a>
@@ -117,7 +117,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Henhouse: Hundreds of arrests and millions in assets seized in month tackling fraud<a href="https://www.nationalcrimeagency.gov.uk/news/operation-henhouse-hundreds-of-arrests-and-millions-in-assets-seized-in-month-tackling-fraud?&web_view=true"> Full Text</a>
@@ -133,7 +133,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit leaks data stolen from the South Korean National Tax Service<a href="https://securityaffairs.com/144342/cyber-crime/lockbit-south-korean-national-tax-service.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy Temporarily Blocks ChatGPT Over Privacy Concerns<a href="https://www.securityweek.com/italy-temporarily-blocks-chatgpt-over-privacy-concerns/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy’s Data Protection Authority temporarily blocks ChatGPT over privacy concerns<a href="https://securityaffairs.com/144325/laws-and-regulations/italy-blocks-chatgpt.html"> Full Text</a>
@@ -183,7 +183,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cylance Ransomware Targets Linux and Windows, Warn Researchers<a href="https://www.hackread.com/cylance-ransomware-linux-windows/?&web_view=true"> Full Text</a>
@@ -199,7 +199,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds bugs exploited by commercial surveillance spyware to Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144315/breaking-news/cisa-known-exploited-vulnerabilities-catalog-spyware-bugs.html"> Full Text</a>
@@ -216,7 +216,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SCADAfence raises $16 million, adds Fujitsu and Mitsubishi Electric as new investors<a href="https://www.calcalistech.com/ctechnews/article/hkmgqtbz3?&web_view=true"> Full Text</a>
@@ -232,7 +232,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 1, 2023
+April 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Roundup – Dark Power and PayMe100USD Ransomware<a href="https://www.fortinet.com/blog/threat-research/dark-power-and-payme100usd-ransomware?&web_view=true"> Full Text</a>

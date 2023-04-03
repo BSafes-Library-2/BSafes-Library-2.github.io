@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden administration goes global in effort to constrain spyware use<a href="https://cyberscoop.com/spyware-biden-administration-democracy-summit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acoalition of 11 countries committed on Thursday to counter the misuse of commercial spyware, a step toward building an international agreement to curb technology deployed by authoritarian countries to spy on dissidents and journalists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked documents from Russian firm NTC Vulkan show Sandworm cyberwarfare arsenal<a href="https://securityaffairs.com/144340/apt/ntc-vulkan-sandworm-cyberwarfare-arsenal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Files leaked by Russian IT contractor NTC Vulkan show that Russia-linked Sandworm APT requested it to develop offensive tools.
+Documents leaked from Russian IT contractor NTC Vulkan show it was likely involved in the development of offensive tools....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

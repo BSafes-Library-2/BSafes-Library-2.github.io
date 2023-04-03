@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cylance Ransomware Targets Linux and Windows, Warn Researchers<a href="https://www.hackread.com/cylance-ransomware-linux-windows/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Palo Alto Networks Unit 42 discovered the new Cylance ransomware, which has already claimed several victims. Researchers noticed it early Friday morning, and further probing revealed that it is targeting Linux and Windows devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Roundup – Dark Power and PayMe100USD Ransomware<a href="https://www.fortinet.com/blog/threat-research/dark-power-and-payme100usd-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark Power is a relatively new ransomware written in the Nim programming language and launched in early February 2023. PayMe100USD is a new ransomware written in Python that was discovered in March 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

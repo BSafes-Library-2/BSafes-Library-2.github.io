@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy Temporarily Blocks ChatGPT Over Privacy Concerns<a href="https://www.securityweek.com/italy-temporarily-blocks-chatgpt-over-privacy-concerns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy is temporarily blocking the artificial intelligence software ChatGPT in the wake of a data breach as it investigates a possible violation of stringent European Union data protection rules, the government’s privacy watchdog said Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
