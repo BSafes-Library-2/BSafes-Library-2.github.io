@@ -11,6 +11,20 @@ nav_order: 900027
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+SCADAfence raises $16 million, adds Fujitsu and Mitsubishi Electric as new investors<a href="https://www.calcalistech.com/ctechnews/article/hkmgqtbz3?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new funding round will enable SCADAfence to continue scaling its global reach into new markets, increasing sales and support teams in key regions, and building stronger collaborative relationships with its strategic partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 LeapXpert Banks $22M Funding to Secure Corporate Messaging With Consumer Apps<a href="https://www.securityweek.com/leapxpert-banks-22m-funding-to-secure-corporate-messaging-with-consumer-apps/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

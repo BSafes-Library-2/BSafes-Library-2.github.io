@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixed Azure AD bug that led to Bing.com results manipulation and account takeover<a href="https://securityaffairs.com/144379/hacking/microsoft-fixed-azure-ad-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft addressed a misconfiguration flaw in the Azure Active Directory (AAD) identity and access management service.
+Microsoft has addressed a misconfiguration issue impacting the Azure Active Directory (AAD) identity and access management service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

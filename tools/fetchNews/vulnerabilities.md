@@ -11,6 +11,20 @@ nav_order: 900220
 April 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes New Azure AD Vulnerability Impacting Bing Search and Major Apps<a href="https://thehackernews.com/2023/04/microsoft-fixes-new-azure-ad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a misconfiguration issue impacting the Azure Active Directory ( AAD ) identity and access management service that exposed several "high-impact" applications to unauthorized access. "One of these apps is a content management system (CMS) that powers Bing.com and allowed us to not only modify search results, but also launch high-impact XSS attacks on Bing users," cloud security firm Wiz&nbsp; said &nbsp;in a report. "Those attacks could compromise users' personal data, including Outlook emails and SharePoint documents." The issues were reported to Microsoft in January and February 2022, following which the tech giant applied fixes and awarded Wiz a $40,000 bug bounty. Redmond&nbsp; said &nbsp;it found no evidence that the misconfigurations were exploited in the wild. The crux of the vulnerability stems from what's called "Shared Responsibility confusion," wherein an Azure app can be incorrectly configured to allow users from any Micro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cacti, Realtek, and IBM Aspera Faspex Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/cacti-realtek-and-ibm-aspera-faspex.html"> Full Text</a>
 </p>
 <details>

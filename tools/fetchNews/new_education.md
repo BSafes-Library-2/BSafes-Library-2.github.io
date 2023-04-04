@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing the risks of unstructured data growth<a href="https://www.helpnetsecurity.com/2023/04/03/unstructured-data-growth/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Much of the data in the cloud is unstructured and highly vulnerable to cyber threats. Unstructured data can include anything from emails and FedEx receipts to sensor data and social media feeds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

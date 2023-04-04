@@ -5,7 +5,7 @@ has_children: true
 nav_order: 150 
 ---
 
-## Alerts
+## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 3, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
@@ -15,6 +15,18 @@ Updated: KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://www.cisa.gov/k
 <details>
   <summary>Abstract</summary>
 KNOWN EXPLOITED VULNERABILITIES CATALOG
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2023 - Bank of England
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bank of England demands cyber crackdown after Russia-linked attacks <a href="https://www.telegraph.co.uk/business/2023/04/02/bank-of-england-demands-cyber-crackdown-after-russia-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bank of England has ordered lenders to bolster their defences against a major cyber attack amid fears Russian-linked hackers will attempt to plunge the financial system into crisis.
 </details>
 </div>
 

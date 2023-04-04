@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Watchdog Bans OpenAI's ChatGPT Over Data Protection Concerns<a href="https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian data protection watchdog, Garante per la Protezione dei Dati Personali (aka Garante), has imposed a temporary ban of OpenAI's ChatGPT service in the country, citing data protection concerns. To that end, it has ordered the company to stop processing users' data with immediate effect, stating it intends to investigate the company over whether it's unlawfully processing such data in violation of the E.U. General Data Protection Regulation ( GDPR ) laws. "No information is provided to users and data subjects whose data are collected by Open AI," the Garante&nbsp; noted . "More importantly, there appears to be no legal basis underpinning the massive collection and processing of personal data in order to 'train' the algorithms on which the platform relies." ChatGPT, which is estimated to have reached over 100 million monthly active users since its release late last year,&nbsp; has not &nbsp; disclosed &nbsp; what it used &nbsp;to train its latest large languag
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

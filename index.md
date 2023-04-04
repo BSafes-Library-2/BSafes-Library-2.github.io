@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Service NSW Breach Exposes Data of Thousands of Customers<a href="https://7news.com.au/news/nsw/service-nsw-breach-exposes-personal-data-affecting-thousands-of-customers-c-10240008?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital Hit by Network Security Breach - Critical Services Disrupted!<a href="https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK outsourcing services provider Capita suffered a cyber incident<a href="https://securityaffairs.com/144398/hacking/capita-suffered-cyber-incident.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft OneNote Starts Blocking Dangerous File Extensions<a href="https://www.securityweek.com/microsoft-onenote-starts-blocking-dangerous-file-extensions/?&web_view=true"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian Watchdog Bans OpenAI's ChatGPT Over Data Protection Concerns<a href="https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital took its services offline due to a security breach<a href="https://securityaffairs.com/144393/hacking/western-digital-security-breach.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Managing the risks of unstructured data growth<a href="https://www.helpnetsecurity.com/2023/04/03/unstructured-data-growth/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "It's The Service Accounts, Stupid": Why Do PAM Deployments Take (almost) Forever To Complete?<a href="https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixed Azure AD bug that led to Bing.com results manipulation and account takeover<a href="https://securityaffairs.com/144379/hacking/microsoft-fixed-azure-ad-bug.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bank of England Warns of Potential Cyberattacks on Financial System<a href="https://cyberwarzone.com/bank-of-england-warns-of-potential-cyber-attacks-on-financial-system/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto-Stealing OpcJacker Malware Targets Users with Fake VPN Service<a href="https://thehackernews.com/2023/04/crypto-stealing-opcjacker-malware.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet spreads by targeting Cacti and RealTek flaws<a href="https://securityaffairs.com/144368/malware/moobot-botnet-cacti-realtek-bugs.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese E-Commerce Giant Pinduoduo Allegedly Spys on Users<a href="https://www.bankinfosecurity.com/chinese-e-commerce-giant-pinduoduo-allegedly-spys-on-users-a-21599?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Police Raid DDoS-Friendly Host ‘FlyHosting’ – Krebs on Security<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/?&web_view=true"> Full Text</a>

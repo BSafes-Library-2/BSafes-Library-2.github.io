@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Henhouse: Hundreds of arrests and millions in assets seized in month tackling fraud<a href="https://www.nationalcrimeagency.gov.uk/news/operation-henhouse-hundreds-of-arrests-and-millions-in-assets-seized-in-month-tackling-fraud?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCA’s National Economic Crime Centre has led a successful operation working closely with the City of London Police and other policing partners against suspected fraudsters across the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

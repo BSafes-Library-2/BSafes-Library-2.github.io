@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Cyberespionage Strikes Over 200 Targets<a href="https://cyware.com/news/mustang-panda-cyberespionage-strikes-over-200-targets-7e062b67"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that a series of cyberespionage attacks launched by the subgroups of Earth Preta APT has affected over 200 organizations. While part of these subgroups is focused on stealing intellectual property and business information, others target government and diplomatic entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

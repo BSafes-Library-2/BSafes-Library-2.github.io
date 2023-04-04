@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital took its services offline due to a security breach<a href="https://securityaffairs.com/144393/hacking/western-digital-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital disclosed a security breach, according to the company an unauthorized party gained access to multiple systems.
+Western Digital has shut down several of its services after discovering a security breach, the company disclosed that an unauthorized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

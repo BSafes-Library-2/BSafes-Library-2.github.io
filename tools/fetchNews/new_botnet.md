@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet spreads by targeting Cacti and RealTek flaws<a href="https://securityaffairs.com/144368/malware/moobot-botnet-cacti-realtek-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Moobot botnet is actively exploiting critical vulnerabilities in Cacti, and Realtek in attacks in the wild.
+FortiGuard Labs researchers observed an ongoing hacking campaign targeting Cacti (CVE-2022-46169) and Realtek (CVE-2021-35394) vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,51 @@ nav_order: 900072
 
 ## General
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hook, Line, and Sinker: Phishing Landscape in 2022<a href="https://cyware.com/news/hook-line-and-sinker-phishing-landscape-in-2022-dab8a0dc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cofense released a report around the top phishing trends from 2022 and found that attackers largely preferred credential phishing as their primary attack method. The use of malware in these attacks increased by 44%, with Emotet and Qakbot being the most used malware families.&nbsp;Moreover, the tot ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 413 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144366/breaking-news/security-affairs-newsletter-round-413-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+If you want to also receive for free the newsletter with the&nbsp;international press subscribe&nbsp;here.
+LockBit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy’s Data Protection Authority temporarily blocks ChatGPT over privacy concerns<a href="https://securityaffairs.com/144325/laws-and-regulations/italy-blocks-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy’s data protection agency is temporarily blocking the&nbsp;popular chatbot ChatGPT&nbsp;due to a possible violation of the European data privacy regulation.
+The Italian Data Protection Authority, Garante Privacy, has temporarily banned ChatGPT due to the illegal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
