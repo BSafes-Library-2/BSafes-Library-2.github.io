@@ -34,6 +34,235 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Service NSW Breach Exposes Data of Thousands of Customers<a href="https://7news.com.au/news/nsw/service-nsw-breach-exposes-personal-data-affecting-thousands-of-customers-c-10240008?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update released to the “My services” dashboard on March 20 resulted in the data breach, Service NSW chief executive officer Greg Wells said in an email to affected customers shared with AAP on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Hit by Network Security Breach - Critical Services Disrupted!<a href="https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data storage devices maker Western Digital on Monday disclosed a "network security incident" that involved unauthorized access to its systems. The  breach  is said to have occurred on March 26, 2023, enabling an unnamed third party to gain access to a "number of the company's systems." Following the discovery of the hack, Western Digital said it has initiated incident response efforts and enlisted the help of cybersecurity and forensic experts to conduct an investigation. It also said it's coordinating with law enforcement agencies on the matter, adding the probe is in its initial stages. The company has taken several of its services offline, noting that the threat actor may have obtained "certain data from its systems" and that it's working on estimating the nature and scope of the data accessed. While Western Digital did not reveal the exact services that are impacted, the  My Cloud status page  shows that cloud, proxy, web, authentic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK outsourcing services provider Capita suffered a cyber incident<a href="https://securityaffairs.com/144398/hacking/capita-suffered-cyber-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK outsourcing services provider Capita confirmed that the outage suffered on Friday was caused by a cyberattack.
+Capita, the UK outsourcing giant, confirmed that its staff was locked out of their accounts on Friday after a cyber incident.
+Capita...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft OneNote Starts Blocking Dangerous File Extensions<a href="https://www.securityweek.com/microsoft-onenote-starts-blocking-dangerous-file-extensions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just like other Office applications, OneNote has been abused for malware delivery, especially since OneNote documents allow attackers to attach files that would be executed with few warnings to the user.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Watchdog Bans OpenAI's ChatGPT Over Data Protection Concerns<a href="https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian data protection watchdog, Garante per la Protezione dei Dati Personali (aka Garante), has imposed a temporary ban of OpenAI's ChatGPT service in the country, citing data protection concerns. To that end, it has ordered the company to stop processing users' data with immediate effect, stating it intends to investigate the company over whether it's unlawfully processing such data in violation of the E.U. General Data Protection Regulation ( GDPR ) laws. "No information is provided to users and data subjects whose data are collected by Open AI," the Garante  noted . "More importantly, there appears to be no legal basis underpinning the massive collection and processing of personal data in order to 'train' the algorithms on which the platform relies." ChatGPT, which is estimated to have reached over 100 million monthly active users since its release late last year,  has not   disclosed   what it used  to train its latest large languag
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital took its services offline due to a security breach<a href="https://securityaffairs.com/144393/hacking/western-digital-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital disclosed a security breach, according to the company an unauthorized party gained access to multiple systems.
+Western Digital has shut down several of its services after discovering a security breach, the company disclosed that an unauthorized...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Managing the risks of unstructured data growth<a href="https://www.helpnetsecurity.com/2023/04/03/unstructured-data-growth/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Much of the data in the cloud is unstructured and highly vulnerable to cyber threats. Unstructured data can include anything from emails and FedEx receipts to sensor data and social media feeds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"It's The Service Accounts, Stupid": Why Do PAM Deployments Take (almost) Forever To Complete?<a href="https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privileged Access Management (PAM) solutions are regarded as the common practice to prevent identity threats to administrative accounts. In theory, the PAM concept makes absolute sense: place admin credentials in a vault, rotate their passwords, and closely monitor their sessions. However, the harsh reality is that the vast majority of PAM projects either become a years-long project, or even come to a halt altogether, preventing them from delivering their promised security value. In this article, we explore what makes  service accounts a key obstacle in PAM onboarding . We'll learn why vaulting and password rotation of service accounts are an almost impossible task, resulting in leaving them exposed to compromise. We'll then conclude with introducing how Silverfort enables identity teams, for the first time, to overcome these challenges with automated discovery, monitoring, and protection of service accounts, and streamline PAM onboarding process in mere weeks. The PAM Promi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixed Azure AD bug that led to Bing.com results manipulation and account takeover<a href="https://securityaffairs.com/144379/hacking/microsoft-fixed-azure-ad-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft addressed a misconfiguration flaw in the Azure Active Directory (AAD) identity and access management service.
+Microsoft has addressed a misconfiguration issue impacting the Azure Active Directory (AAD) identity and access management service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bank of England Warns of Potential Cyberattacks on Financial System<a href="https://cyberwarzone.com/bank-of-england-warns-of-potential-cyber-attacks-on-financial-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bank of England has issued a stern warning to banks, insurers, and market infrastructure companies to take immediate steps to bolster their defenses against a potential major cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto-Stealing OpcJacker Malware Targets Users with Fake VPN Service<a href="https://thehackernews.com/2023/04/crypto-stealing-opcjacker-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A piece of new information-stealing malware called  OpcJacker  has been spotted in the wild since the second half of 2022 as part of a malvertising campaign. "OpcJacker's main functions include keylogging, taking screenshots, stealing sensitive data from browsers, loading additional modules, and replacing cryptocurrency addresses in the clipboard for hijacking purposes," Trend Micro researchers Jaromir Horejsi and Joseph C. Chen  said . The initial vector of the campaign involves a network of fake websites advertising seemingly innocuous software and cryptocurrency-related applications. The February 2023 campaign specifically singled out users in Iran under the pretext of offering a VPN service. The installer files act as a conduit to deploy OpcJacker, which is also capable of delivering next-stage payloads such as  NetSupport RAT  and a hidden virtual network computing ( hVNC ) variant for remote access. OpcJacker is concealed using a  crypter  known as Babadeda an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moobot botnet spreads by targeting Cacti and RealTek flaws<a href="https://securityaffairs.com/144368/malware/moobot-botnet-cacti-realtek-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Moobot botnet is actively exploiting critical vulnerabilities in Cacti, and Realtek in attacks in the wild.
+FortiGuard Labs researchers observed an ongoing hacking campaign targeting Cacti (CVE-2022-46169) and Realtek (CVE-2021-35394) vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese E-Commerce Giant Pinduoduo Allegedly Spys on Users<a href="https://www.bankinfosecurity.com/chinese-e-commerce-giant-pinduoduo-allegedly-spys-on-users-a-21599?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"E-commerce giant Pinduoduo has taken violations of privacy and data security to the next level," CNN reported, citing multiple cybersecurity experts from Asia, Europe, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Police Raid DDoS-Friendly Host ‘FlyHosting’ – Krebs on Security<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News of a raid on FlyHosting first surfaced Thursday in a Telegram chat channel that is frequented by people interested or involved in the DDoS-for-hire industry, where a user by the name Dstatcc broke the news to Fly Hosting customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
