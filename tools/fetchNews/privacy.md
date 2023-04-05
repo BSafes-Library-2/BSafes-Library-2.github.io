@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese E-Commerce Giant Pinduoduo Allegedly Spys on Users<a href="https://www.bankinfosecurity.com/chinese-e-commerce-giant-pinduoduo-allegedly-spys-on-users-a-21599?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"E-commerce giant Pinduoduo has taken violations of privacy and data security to the next level," CNN reported, citing multiple cybersecurity experts from Asia, Europe, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

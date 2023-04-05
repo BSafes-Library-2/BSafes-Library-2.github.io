@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sorting Through Haystacks to Find CTI Needles<a href="https://thehackernews.com/2023/04/sorting-through-haystacks-to-find-cti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clouded vision CTI systems are confronted with some major issues ranging from the size of the collection networks to their diversity, which ultimately influence the degree of confidence they can put on their signals. Are they fresh enough and sufficiently reliable to avoid any false positives or any poisoning? Do I risk acting on outdated data? This difference is major since a piece of information is just a decision helper, whereas a piece of actionable information can directly be weaponized against an aggressor. If raw data are the hayfields, information is the haystacks, and needles are the actionable signal. To illustrate the collection networks' size &amp; variety point, without naming anyone in particular, let's imagine a large CDN provider. Your role is to deliver, on a massive scale, content over HTTP(s). This attracts a lot of "attention" and signals, but only on the HTTP layer. Also, any smart attacker will probably avoid probing your IP ranges (which are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China to probe Micron over cybersecurity, in chip war’s latest battle<a href="https://www.computerworld.com/article/3692435/china-to-probe-micron-over-cybersecurity-in-chip-war-s-latest-battle.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A statement by Chinese government said that the review is being undertaken to ensure the security of the key information infrastructure supply chain, prevent network security risks caused by hidden product problems, and maintain national security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Think Before You Share the Link: SaaS in the Real World<a href="https://thehackernews.com/2023/04/think-before-you-share-link-saas-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration sits at the essence of SaaS applications. The word, or some form of it, appears in the top two headlines on Google Workspace's homepage. It can be found six times on Microsoft 365's homepage, three times on Box, and once on Workday. Visit nearly any SaaS site, and odds are 'collaboration' will appear as part of the app's key selling point.&nbsp; By sitting on the cloud, content within the applications is immediately shareable, making it easier than ever to work with others.&nbsp; However, that shareability is a two-sided coin. On the flip side are often sensitive links sitting on public-facing websites that can be easily accessed. The exposure caused by leaked documents can cause tremendous harm, from competitors trying to gather corporate secrets to whistleblowers sharing internal information with reporters or legislators. As integral as collaboration is to SaaS, sharing links creates a high-risk situation, and real-life breaches, that can be mitigated through the right process
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT, the AI Revolution, and the Security, Privacy and Ethical Implications<a href="https://www.securityweek.com/chatgpt-the-ai-revolution-and-the-security-privacy-and-ethical-implications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For AI, security is a two-way street: It can be used by malicious actors to abuse victims, while its own security can be abused by those same malicious actors. ChatGPT has already suffered at least one breach that is known.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

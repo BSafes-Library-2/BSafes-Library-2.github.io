@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Service NSW Breach Exposes Data of Thousands of Customers<a href="https://7news.com.au/news/nsw/service-nsw-breach-exposes-personal-data-affecting-thousands-of-customers-c-10240008?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An update released to the “My services” dashboard on March 20 resulted in the data breach, Service NSW chief executive officer Greg Wells said in an email to affected customers shared with AAP on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Hit by Network Security Breach - Critical Services Disrupted!<a href="https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data storage devices maker Western Digital on Monday disclosed a "network security incident" that involved unauthorized access to its systems. The&nbsp; breach &nbsp;is said to have occurred on March 26, 2023, enabling an unnamed third party to gain access to a "number of the company's systems." Following the discovery of the hack, Western Digital said it has initiated incident response efforts and enlisted the help of cybersecurity and forensic experts to conduct an investigation. It also said it's coordinating with law enforcement agencies on the matter, adding the probe is in its initial stages. The company has taken several of its services offline, noting that the threat actor may have obtained "certain data from its systems" and that it's working on estimating the nature and scope of the data accessed. While Western Digital did not reveal the exact services that are impacted, the&nbsp; My Cloud status page &nbsp;shows that cloud, proxy, web, authentic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

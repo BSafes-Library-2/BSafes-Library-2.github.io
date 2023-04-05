@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Hacking Group Using Upgraded Malware in Middle East Cyber Attacks<a href="https://thehackernews.com/2023/04/arid-viper-hacking-group-using-upgraded.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; Arid Viper &nbsp;has been observed using refreshed variants of its malware toolkit in its attacks targeting Palestinian entities since September 2022. Symantec, which is tracking the group under its insect-themed moniker Mantis,&nbsp; said &nbsp;the adversary is "going to great lengths to maintain a persistent presence on targeted networks." Also known by the names&nbsp; APT-C-23 and Desert Falcon , the hacking group has been linked to attacks aimed at Palestine and the Middle East at least since 2014. Mantis has used an arsenal of homemade malware tools such as&nbsp; ViperRat ,&nbsp; FrozenCell &nbsp;(aka VolatileVenom), and&nbsp; Micropsia &nbsp;to execute and conceal its campaigns across Windows, Android, and iOS platforms. The threat actors are believed to be native Arabic speakers and based in Palestine, Egypt, and Turkey, according to a&nbsp; report &nbsp;published by Kaspersky in February 2015. Prior public reporting has also&nbsp; tied the group &nbsp;to the cyber warfare division of Hamas. In Apri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Companies Targeted in Sophisticated 3CX Supply Chain Attack<a href="https://thehackernews.com/2023/04/cryptocurrency-companies-targeted-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary behind the&nbsp; supply chain attack targeting 3CX &nbsp;deployed a second-stage implant specifically singling out a small number of cryptocurrency companies. Russian cybersecurity firm Kaspersky, which has been&nbsp; internally tracking &nbsp;the versatile backdoor under the name&nbsp; Gopuram &nbsp;since 2020, said it observed an increase in the number of infections in March 2023 coinciding with the 3CX breach. Gopuram's primary function is to connect to a command-and-control (C2) server and await further instructions that allow the attackers to interact with the victim's file system, create processes, and launch as many as eight in-memory modules. The backdoor's links to North Korea stem from the fact that it "co-existed on victim machines with&nbsp; AppleJeus , a backdoor attributed to the Korean-speaking threat actor Lazarus," detailing an attack on an unnamed crypto firm located in Southeast Asia in 2020. The targeting of cryptocurrency companies is another telltale sign of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

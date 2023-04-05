@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"It's The Service Accounts, Stupid": Why Do PAM Deployments Take (almost) Forever To Complete?<a href="https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privileged Access Management (PAM) solutions are regarded as the common practice to prevent identity threats to administrative accounts. In theory, the PAM concept makes absolute sense: place admin credentials in a vault, rotate their passwords, and closely monitor their sessions. However, the harsh reality is that the vast majority of PAM projects either become a years-long project, or even come to a halt altogether, preventing them from delivering their promised security value. In this article, we explore what makes&nbsp; service accounts a key obstacle in PAM onboarding . We'll learn why vaulting and password rotation of service accounts are an almost impossible task, resulting in leaving them exposed to compromise. We'll then conclude with introducing how Silverfort enables identity teams, for the first time, to overcome these challenges with automated discovery, monitoring, and protection of service accounts, and streamline PAM onboarding process in mere weeks. The PAM Promi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

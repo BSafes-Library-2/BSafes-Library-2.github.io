@@ -11,6 +11,22 @@ nav_order: 900015
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+UK outsourcing services provider Capita suffered a cyber incident<a href="https://securityaffairs.com/144398/hacking/capita-suffered-cyber-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK outsourcing services provider Capita confirmed that the outage suffered on Friday was caused by a cyberattack.
+Capita, the UK outsourcing giant, confirmed that its staff was locked out of their accounts on Friday after a cyber incident.
+Capita...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda Cyberespionage Strikes Over 200 Targets<a href="https://cyware.com/news/mustang-panda-cyberespionage-strikes-over-200-targets-7e062b67"> Full Text</a>
 </p>
 <details>

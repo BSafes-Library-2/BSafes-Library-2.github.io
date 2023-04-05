@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bank of England Warns of Potential Cyberattacks on Financial System<a href="https://cyberwarzone.com/bank-of-england-warns-of-potential-cyber-attacks-on-financial-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Bank of England has issued a stern warning to banks, insurers, and market infrastructure companies to take immediate steps to bolster their defenses against a potential major cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

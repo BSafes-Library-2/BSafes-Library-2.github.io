@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft OneNote Starts Blocking Dangerous File Extensions<a href="https://www.securityweek.com/microsoft-onenote-starts-blocking-dangerous-file-extensions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just like other Office applications, OneNote has been abused for malware delivery, especially since OneNote documents allow attackers to attach files that would be executed with few warnings to the user.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

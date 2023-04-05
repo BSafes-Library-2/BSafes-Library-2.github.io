@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat ransomware&nbsp;affiliate targets Veritas Backup solution bugs<a href="https://securityaffairs.com/144438/cyber-crime/alphv-blackcat-ransomware-veritas-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ALPHV/BlackCat ransomware&nbsp;affiliate was spotted exploiting vulnerabilities in the Veritas Backup solution.
+An affiliate of the ALPHV/BlackCat ransomware&nbsp;gang, tracked as UNC4466, was observed exploiting three vulnerabilities in the Veritas Backup...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
