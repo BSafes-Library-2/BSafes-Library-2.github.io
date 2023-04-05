@@ -34,7 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britain's data watchdog fines TikTok $15.9 million for alleged misuse of children's data<a href="https://cyberscoop.com/uk-data-watchdog-fines-tiktok/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ICO estimated the app allowed up to 1.4 million U.K. children under 13 to use the platform in 2020. The regulator accused TikTok of failing to take the necessary steps to verify user identity and remove children under 13 from the platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sorting Through Haystacks to Find CTI Needles<a href="https://thehackernews.com/2023/04/sorting-through-haystacks-to-find-cti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clouded vision CTI systems are confronted with some major issues ranging from the size of the collection networks to their diversity, which ultimately influence the degree of confidence they can put on their signals. Are they fresh enough and sufficiently reliable to avoid any false positives or any poisoning? Do I risk acting on outdated data? This difference is major since a piece of information is just a decision helper, whereas a piece of actionable information can directly be weaponized against an aggressor. If raw data are the hayfields, information is the haystacks, and needles are the actionable signal. To illustrate the collection networks' size & variety point, without naming anyone in particular, let's imagine a large CDN provider. Your role is to deliver, on a massive scale, content over HTTP(s). This attracts a lot of "attention" and signals, but only on the HTTP layer. Also, any smart attacker will probably avoid probing your IP ranges (which are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat ransomware affiliate targets Veritas Backup solution bugs<a href="https://securityaffairs.com/144438/cyber-crime/alphv-blackcat-ransomware-veritas-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ALPHV/BlackCat ransomware affiliate was spotted exploiting vulnerabilities in the Veritas Backup solution.
+An affiliate of the ALPHV/BlackCat ransomware gang, tracked as UNC4466, was observed exploiting three vulnerabilities in the Veritas Backup...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Flaw Exploited by Russia Against NATO Countries Added to CISA ‘Must Patch’ List<a href="https://www.securityweek.com/zimbra-flaw-exploited-by-russian-hackers-against-nato-added-to-cisa-must-patch-list/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Because of this issue, an endpoint URL may accept parameters without sanitization, which could allow an unauthenticated attacker to provide crafted request parameters leading to the execution of arbitrary web scripts or HTML code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rorschach Ransomware Emerges: Experts Warn of Advanced Evasion Strategies<a href="https://thehackernews.com/2023/04/rorschach-ransomware-emerges-experts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps off a previously undocumented ransomware strain called  Rorschach  that's both sophisticated and fast. "What makes Rorschach stand out from other ransomware strains is its high level of customization and its technically unique features that have not been seen before in ransomware," Check Point Research  said  in a new report. "In fact, Rorschach is one of the  fastest ransomware strains  ever observed, in terms of the speed of its encryption." The cybersecurity firm said it observed the ransomware deployed against an unnamed U.S.-based company, adding it found no branding or overlaps that connect it to any previously known ransomware actors. However, further analysis of Rorschach's source code reveals similarities to  Babuk ransomware , which suffered a leak in September 2021, and  LockBit 2.0 . On top of that, the ransom notes sent out to the victims appear to be inspired by that of  Yanluowang  and  DarkSi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rorschach ransomware has the fastest file-encrypting routine to date<a href="https://securityaffairs.com/144425/cyber-crime/rorschach-ransomware-fast-encryption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain named Rorschach ransomware supports the fastest file-encrypting routine observed to date.
+Check Point Research (CPR) and Check Point Incident Response Team (CPIRT) researchers detected a previously unknown ransomware strain,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason Raises $100 Million, Appoints New CEO<a href="https://www.securityweek.com/cybereason-raises-100-million-appoints-new-ceo/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding, Cybereason says, will help it advance its XDR, EDR, and EPP solutions and support global growth. In addition to the investment, Cybereason also announced that SoftBank’s executive vice president, Eric Gan, will become its new CEO.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rilide Malware Targeting Chromium-Based Browsers to Steal Cryptocurrency<a href="https://thehackernews.com/2023/04/new-rilide-malware-targeting-chromium.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chromium-based web browsers are the target of a new malware called Rilide that masquerades itself as a seemingly legitimate extension to harvest sensitive data and siphon cryptocurrency. "Rilide malware is disguised as a legitimate Google Drive extension and enables threat actors to carry out a broad spectrum of malicious activities, including monitoring  browsing history, taking screenshots, and injecting malicious scripts to withdraw funds from various cryptocurrency exchanges," Trustwave SpiderLabs Research said in a report shared with The Hacker News. What's more, the stealer malware can display forged dialogs to deceive users into entering a two-factor authentication code to withdraw digital assets. Trustwave said it identified two different campaigns involving  Ekipa RAT  and  Aurora Stealer  that led to the installation of the malicious browser extension. While Ekipa RAT is distributed via booby-trapped Microsoft Publisher files, rogue Google Ads act as t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zimbra bug exploited in attacks against NATO countries to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144416/hacking/known-exploited-vulnerabilities-catalog-zimbra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA has added a Zimbra flaw, which was exploited in attacks targeting NATO countries, to its Known Exploited Vulnerabilities catalog
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a Zimbra flaw, tracked as CVE-2022-27926,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Websites of Israeli Universities and Cybersecurity Company Briefly Taken Down in Cyberattack<a href="https://www.jpost.com/breaking-news/article-736351?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the websites affected were Tel Aviv University, the Hebrew University of Jerusalem, Ben-Gurion University of the Negev, Haifa University, Weizmann Institute of Science, Open University of Israel, and Reichman University.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Hacking Group Using Upgraded Malware in Middle East Cyber Attacks<a href="https://thehackernews.com/2023/04/arid-viper-hacking-group-using-upgraded.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Arid Viper  has been observed using refreshed variants of its malware toolkit in its attacks targeting Palestinian entities since September 2022. Symantec, which is tracking the group under its insect-themed moniker Mantis,  said  the adversary is "going to great lengths to maintain a persistent presence on targeted networks." Also known by the names  APT-C-23 and Desert Falcon , the hacking group has been linked to attacks aimed at Palestine and the Middle East at least since 2014. Mantis has used an arsenal of homemade malware tools such as  ViperRat ,  FrozenCell  (aka VolatileVenom), and  Micropsia  to execute and conceal its campaigns across Windows, Android, and iOS platforms. The threat actors are believed to be native Arabic speakers and based in Palestine, Egypt, and Turkey, according to a  report  published by Kaspersky in February 2015. Prior public reporting has also  tied the group  to the cyber warfare division of Hamas. In Apri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX Supply chain attack allowed targeting cryptocurrency companies<a href="https://securityaffairs.com/144411/apt/3cx-supply-chain-attack-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the 3CX supply chain attack have targeted a limited number of cryptocurrency companies with a second-state implant.
+As of Mar 22, 2023, SentinelOne observed a spike in behavioral detections of the 3CXDesktopApp, which is a popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China to probe Micron over cybersecurity, in chip war’s latest battle<a href="https://www.computerworld.com/article/3692435/china-to-probe-micron-over-cybersecurity-in-chip-war-s-latest-battle.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A statement by Chinese government said that the review is being undertaken to ensure the security of the key information infrastructure supply chain, prevent network security risks caused by hidden product problems, and maintain national security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Think Before You Share the Link: SaaS in the Real World<a href="https://thehackernews.com/2023/04/think-before-you-share-link-saas-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration sits at the essence of SaaS applications. The word, or some form of it, appears in the top two headlines on Google Workspace's homepage. It can be found six times on Microsoft 365's homepage, three times on Box, and once on Workday. Visit nearly any SaaS site, and odds are 'collaboration' will appear as part of the app's key selling point.  By sitting on the cloud, content within the applications is immediately shareable, making it easier than ever to work with others.  However, that shareability is a two-sided coin. On the flip side are often sensitive links sitting on public-facing websites that can be easily accessed. The exposure caused by leaked documents can cause tremendous harm, from competitors trying to gather corporate secrets to whistleblowers sharing internal information with reporters or legislators. As integral as collaboration is to SaaS, sharing links creates a high-risk situation, and real-life breaches, that can be mitigated through the right process
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rilide Stealer Delivered via Malicious Browser Extension to Siphon Cryptocurrency<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rilide-a-new-malicious-browser-extension-for-stealing-cryptocurrencies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trustwave SpiderLabs uncovered a new strain of malware that it dubbed Rilide, which targets Chromium-based browsers such as Google Chrome, Microsoft Edge, Brave, and Opera.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Tightens OneNote Security by Auto-Blocking 120 Risky File Extensions<a href="https://thehackernews.com/2023/04/microsoft-tightens-onenote-security-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced plans to automatically block embedded files with "dangerous extensions" in OneNote following reports that the note-taking service is being  increasingly abused  for malware delivery. Up until now, users were shown a dialog warning them that opening such attachments could harm their computer and data, but it was possible to dismiss the prompt and open the files. That's going to change going forward. Microsoft said it intends to prevent users from directly opening an embedded file with a dangerous extension and display the message: "Your administrator has blocked your ability to open this file type in OneNote." The update is expected to start rolling out with Version 2304 later this month and only impacts OneNote for Microsoft 365 on devices running Windows. It does not affect other platforms, including macOS, Android, and iOS, as well as OneNote versions available on the web and for Windows 10. "By default, OneNote blocks the sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia takes its turn to kick TikTok off government kit<a href="https://www.theregister.com/2023/04/04/australia_tiktok_ban/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia has joined the growing list of nations that have decided TikTok represents an unacceptable risk when running on government-owned devices, so has decided not to allow it onto those machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Companies Targeted in Sophisticated 3CX Supply Chain Attack<a href="https://thehackernews.com/2023/04/cryptocurrency-companies-targeted-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary behind the  supply chain attack targeting 3CX  deployed a second-stage implant specifically singling out a small number of cryptocurrency companies. Russian cybersecurity firm Kaspersky, which has been  internally tracking  the versatile backdoor under the name  Gopuram  since 2020, said it observed an increase in the number of infections in March 2023 coinciding with the 3CX breach. Gopuram's primary function is to connect to a command-and-control (C2) server and await further instructions that allow the attackers to interact with the victim's file system, create processes, and launch as many as eight in-memory modules. The backdoor's links to North Korea stem from the fact that it "co-existed on victim machines with  AppleJeus , a backdoor attributed to the Korean-speaking threat actor Lazarus," detailing an attack on an unnamed crypto firm located in Southeast Asia in 2020. The targeting of cryptocurrency companies is another telltale sign of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT, the AI Revolution, and the Security, Privacy and Ethical Implications<a href="https://www.securityweek.com/chatgpt-the-ai-revolution-and-the-security-privacy-and-ethical-implications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For AI, security is a two-way street: It can be used by malicious actors to abuse victims, while its own security can be abused by those same malicious actors. ChatGPT has already suffered at least one breach that is known.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Service NSW Breach Exposes Data of Thousands of Customers<a href="https://7news.com.au/news/nsw/service-nsw-breach-exposes-personal-data-affecting-thousands-of-customers-c-10240008?&web_view=true"> Full Text</a>
@@ -50,7 +358,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital Hit by Network Security Breach - Critical Services Disrupted!<a href="https://thehackernews.com/2023/04/western-digital-hit-by-network-security.html"> Full Text</a>
@@ -66,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK outsourcing services provider Capita suffered a cyber incident<a href="https://securityaffairs.com/144398/hacking/capita-suffered-cyber-incident.html"> Full Text</a>
@@ -84,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft OneNote Starts Blocking Dangerous File Extensions<a href="https://www.securityweek.com/microsoft-onenote-starts-blocking-dangerous-file-extensions/?&web_view=true"> Full Text</a>
@@ -100,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian Watchdog Bans OpenAI's ChatGPT Over Data Protection Concerns<a href="https://thehackernews.com/2023/04/italian-watchdog-bans-openais-chatgpt.html"> Full Text</a>
@@ -116,7 +424,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital took its services offline due to a security breach<a href="https://securityaffairs.com/144393/hacking/western-digital-security-breach.html"> Full Text</a>
@@ -133,7 +441,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Managing the risks of unstructured data growth<a href="https://www.helpnetsecurity.com/2023/04/03/unstructured-data-growth/?&web_view=true"> Full Text</a>
@@ -149,7 +457,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "It's The Service Accounts, Stupid": Why Do PAM Deployments Take (almost) Forever To Complete?<a href="https://thehackernews.com/2023/04/its-service-accounts-stupid-why-do-pam.html"> Full Text</a>
@@ -165,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixed Azure AD bug that led to Bing.com results manipulation and account takeover<a href="https://securityaffairs.com/144379/hacking/microsoft-fixed-azure-ad-bug.html"> Full Text</a>
@@ -182,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bank of England Warns of Potential Cyberattacks on Financial System<a href="https://cyberwarzone.com/bank-of-england-warns-of-potential-cyber-attacks-on-financial-system/?&web_view=true"> Full Text</a>
@@ -198,7 +506,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 03, 2023
+April 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto-Stealing OpcJacker Malware Targets Users with Fake VPN Service<a href="https://thehackernews.com/2023/04/crypto-stealing-opcjacker-malware.html"> Full Text</a>
@@ -214,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moobot botnet spreads by targeting Cacti and RealTek flaws<a href="https://securityaffairs.com/144368/malware/moobot-botnet-cacti-realtek-bugs.html"> Full Text</a>
@@ -231,7 +539,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese E-Commerce Giant Pinduoduo Allegedly Spys on Users<a href="https://www.bankinfosecurity.com/chinese-e-commerce-giant-pinduoduo-allegedly-spys-on-users-a-21599?&web_view=true"> Full Text</a>
@@ -247,7 +555,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 3, 2023
+April 3, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Police Raid DDoS-Friendly Host ‘FlyHosting’ – Krebs on Security<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/?&web_view=true"> Full Text</a>
