@@ -34,6 +34,364 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Proxyjacking Attack Exploits Log4j for Initial Access<a href="https://cyware.com/news/new-proxyjacking-attack-exploits-log4j-for-initial-access-dd6e5d8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Sysdig highlight that the new Proxyjacking attack, which is much like cryptojacking, is abusing the infamous Log4j vulnerability to gain initial access to victims’ systems. On a broader scale, researchers note that a modest compromise of 100 IPs can enable attackers to make a profit  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoClippy: New Clipper Malware Targeting Portuguese Cryptocurrency Users<a href="https://thehackernews.com/2023/04/cryptoclippy-new-clipper-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Portuguese users are being targeted by a new malware codenamed  CryptoClippy  that's capable of stealing cryptocurrency as part of a malvertising campaign. The activity leverages SEO poisoning techniques to entice users searching for "WhatsApp web" to rogue domains hosting the malware, Palo Alto Networks Unit 42  said  in a new report published today.  CryptoClippy, a C-based executable, is a type of  cryware  known as  clipper   malware  that monitors a victim's clipboard for content matching cryptocurrency addresses and substituting them with a wallet address under the threat actor's control. "The clipper malware uses regular expressions (regexes) to identify what type of cryptocurrency the address pertains to," Unit 42 researchers said. "It then replaces the clipboard entry with a visually similar but adversary-controlled wallet address for the appropriate cryptocurrency. Later, when the victim pastes the address from the clipboard to condu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Civilianization of Digital Operations: A Risky Trend<a href="https://www.lawfareblog.com/civilianization-digital-operations-risky-trend"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing involvement of civilians in activities on the digital battlefield puts individuals at risk of harm and contributes to the erosion of the principle of distinction, an edifice on which the rest of the law applicable in armed conflicts is built.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. National Cyber Force, Responsible Cyber Power, and Cyber Persistence Theory<a href="https://www.lawfareblog.com/uk-national-cyber-force-responsible-cyber-power-and-cyber-persistence-theory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Cyber Force’s operating document offers a framework for responsible cyber behavior in the highly contested cyber strategic environment and further validates cyber persistence theory.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexx bugs allow to open garage doors, and take control of alarms and plugs<a href="https://securityaffairs.com/144488/iot/nexx-smart-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of vulnerabilities in multiple smart devices manufactured by Nexx can be exploited to remotely open garage doors, and take control of alarms and plugs.
+In late 2022, the researcher Sam Sabetan discovered a series of critical vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rorschach - New Ransomware with Highest-Ever Encryption Speed<a href="https://cyware.com/news/rorschach-new-ransomware-with-highest-ever-encryption-speed-98e58256"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain, named Rorschach, was unveiled by Check Point Research. The ransomware boasts an advanced level of customization and fast encryption, which sets it apart from other strains. Furthermore, an in-depth examination of Rorschach's source code indicates similarities with the Babuk ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks<a href="https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor used a malicious self-extracting archive ( SFX ) file in an attempt to establish persistent backdoor access to a victim's environment, new findings from CrowdStrike show. SFX files are capable of extracting the data contained within them without the need for dedicated software to display the file contents. It achieves this by including a decompressor stub, a piece of code that's executed to unpack the archive. "However, SFX archive files can also contain hidden malicious functionality that may not be immediately visible to the file's recipient, and could be missed by technology-based detections alone," CrowdStrike researcher Jai Minton  said . In the case investigated by the cybersecurity firm, compromised credentials to a system were used to run a legitimate Windows accessibility application called Utility Manager (utilman.exe) and subsequently launch a password-protected SFX file. This, in turn, is made possible by  configuring a de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax preparation and e-file service eFile.com compromised to serve malware<a href="https://securityaffairs.com/144477/malware/efile-com-compromised-serve-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The eFile.com online service, which is authorized by the US Internal Revenue Service (IRS), was spotted serving malicious malware to visitors.
+eFile.com, the personal online tax preparation and e-file service authorized by the US Internal Revenue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited Elementor Pro Plugin Under Attack; Affects Over 11 Million Sites<a href="https://cyware.com/news/exploited-elementor-pro-plugin-under-attack-affects-over-11-million-sites-7fa2b825"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in the Elementor Pro website builder plugin for WordPress is under active exploitation by a threat actor. An authenticated user can take advantage of this to take full control over a WordPress site having WooCommerce enabled. The bug in the plugin, roughly deployed on over  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG Warns of North Korean-linked ARCHIPELAGO Cyberattacks<a href="https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean government-backed threat actor has been linked to attacks targeting government and military personnel, think tanks, policy makers, academics, and researchers in South Korea and the U.S. Google's Threat Analysis Group (TAG) is  tracking  the cluster under the name  ARCHIPELAGO , which it said is a subset of another threat group tracked by Mandiant under the name  APT43 . The tech giant said it began monitoring the hacking crew in 2012, adding it has "observed the group target individuals with expertise in North Korea policy issues such as sanctions, human rights, and non-proliferation issues." The priorities of APT43, and by extension ARCHIPELAGO, are said to align with North Korea's Reconnaissance General Bureau (RGB), the primary foreign intelligence service, suggesting overlaps with a group broadly known as  Kimsuky . Attack chains mounted by ARCHIPELAGO involve the use of phishing emails containing malicious links that, when clicked by the reci
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP would take up to 90 days to fix a critical bug in some business-grade printers<a href="https://securityaffairs.com/144470/security/hp-printers-critical-flaw-cve-2023-1707.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP would take up to 90 days to address a critical flaw, tracked as CVE-2023-1707, that resides in the firmware of some business-grade printers.
+HP is aware of a critical vulnerability, tracked as CVE-2023-1707 (CVSS v3.1 score 9.1), that affects tens...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can Remotely Open Smart Garage Doors Across the World<a href="https://www.vice.com/en/article/pkadqy/hackers-can-remotely-open-smart-garage-doors-across-the-world-simpaltek?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found a series of vulnerabilities with the Nexx brand of smart garage openers. He says he could remotely find garages to target, and then open them across the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect Your Company: Ransomware Prevention Made Easy<a href="https://thehackernews.com/2023/04/protect-your-company-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year hundreds of millions of malware attacks occur worldwide, and every year businesses deal with the impact of viruses, worms, keyloggers, and ransomware. Malware is a pernicious threat and the biggest driver for businesses to look for cybersecurity solutions.  Naturally, businesses want to find products that will stop malware in its tracks, and so they search for solutions to do that. But  malware protection  alone is not enough, instead what's needed is a more holistic approach. Businesses need to defend against malware entering the network, and then on top of that have systems and processes in place to restrict the damage that malware can do if it infects a user device.  This approach will not only help stop and mitigate the damage from malware, but defend against other types of threats too, such as credential theft as a result of phishing, insider threats, and supply-chain attacks.  Element 1: Malware Protection and Web Filtering The first and most sensible place to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA JCDC Will Focus on Energy Sector<a href="https://securityaffairs.com/144466/security/cisa-jddc-energy-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA 's Joint Cyber Defense Collective (JCDC) initiative is going to build operation plans for protecting and responding to cyber threats.
+What comes to mind when you think of cyber criminals? Depending on who you ask, you’ll get a variety of answers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Hospital Begins Breach Notification Post-Attack<a href="https://www.bankinfosecurity.com/florida-hospital-begins-breach-notification-post-attack-a-21616?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tallahassee Memorial HealthCare says its investigation into the February incident determined that an "unauthorized person" had gained access to its computer network and obtained certain files from its systems between January 26 and February 2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typhon Reborn Stealer Malware Resurfaces with Advanced Evasion Techniques<a href="https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the information-stealing malware known as  Typhon Reborn  has resurfaced with an updated version (V2) that packs in improved capabilities to evade detection and resist analysis. The new version is offered for sale on the criminal underground for $59 per month, $360 per year, or alternatively, for $540 for a lifetime subscription. "The stealer can harvest and exfiltrate sensitive information and uses the Telegram API to send stolen data to attackers," Cisco Talos researcher Edmund Brumaghin  said  in a Tuesday report. Typhon was  first documented  by Cyble in August 2022, detailing its myriad features, including hijacking clipboard content, capturing screenshots, logging keystrokes, and stealing data from crypto wallet, messaging, FTP, VPN, browser, and gaming apps. Based on another stealer malware called  Prynt Stealer , Typhon is also capable of delivering the XMRig cryptocurrency miner. In November 2022, Palo Alto Networks Unit 42  unearthed  an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement seized the Genesis Market cybercrime marketplace<a href="https://securityaffairs.com/144449/cyber-crime/fbi-seized-genesis-market.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement seized the Genesis Market black marketplace, a platform focused on the sale of stolen credentials, as part of Operation Cookie Monster.
+The FBI seized the Genesis Market, a black marketplace for stolen credentials that was launched...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STYX Marketplace emerged in Dark Web focused on Financial Fraud<a href="https://securityaffairs.com/144446/cyber-crime/styx-marketplace-dark-web.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The STYX marketplace was launched at the beginning of 2023. This discovery illustrates the post-pandemic menace of cyber-enabled financial crime and the threat it poses to financial institutions and their customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STYX Marketplace emerged in Dark Web focused on Financial Fraud<a href="https://securityaffairs.com/144446/cyber-crime/styx-marketplace-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity has recently identified the STYX Marketplace, a new cybercriminal e-commerce platform with a specialized focus on financial fraud and money laundering.
+The STYX marketplace was launched at the beginning of 2023. This platform is specifically...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Genesis Market cybercrime forum seized in international law enforcement operation<a href="https://cyberscoop.com/fbi-seizure-genesis-market-cybercrime/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI-led effort known as “Operation Cookie Monster” took down a notorious cybercrime marketplace known for selling compromised credentials and biometric data for digital fraudsters to carry out attacks or commit identity theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: TAFE data breach uncovered by SA Police<a href="https://www.itnews.com.au/news/tafe-data-breach-uncovered-by-sa-police-592945/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TAFE South Australia has revealed a data breach that was discovered when SA Police seized “devices containing electronic scanned copies of TAFE SA student identification forms”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alcohol Recovery Startups Monument and Tempest Shared Patients' Private Data With Advertisers<a href="https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its disclosure, the companies confirmed their use of website trackers, which are small snippets of code that share with tech giants information about visitors to their websites and are often used for analytics and advertising.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 4, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
