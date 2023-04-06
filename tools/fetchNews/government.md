@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Flaw Exploited by Russia Against NATO Countries Added to CISA ‘Must Patch’ List<a href="https://www.securityweek.com/zimbra-flaw-exploited-by-russian-hackers-against-nato-added-to-cisa-must-patch-list/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Because of this issue, an endpoint URL may accept parameters without sanitization, which could allow an unauthenticated attacker to provide crafted request parameters leading to the execution of arbitrary web scripts or HTML code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Zimbra bug exploited in attacks against NATO countries to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144416/hacking/known-exploited-vulnerabilities-catalog-zimbra.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA has added a Zimbra flaw, which was exploited in attacks targeting NATO countries, to its Known Exploited Vulnerabilities catalog
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a Zimbra flaw, tracked as CVE-2022-27926,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia takes its turn to kick TikTok off government kit<a href="https://www.theregister.com/2023/04/04/australia_tiktok_ban/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia has joined the growing list of nations that have decided TikTok represents an unacceptable risk when running on government-owned devices, so has decided not to allow it onto those machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

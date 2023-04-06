@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement seized the Genesis Market cybercrime marketplace<a href="https://securityaffairs.com/144449/cyber-crime/fbi-seized-genesis-market.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement seized the Genesis Market black marketplace, a platform focused on the sale of stolen credentials, as part of&nbsp;Operation Cookie Monster.
+The FBI seized the Genesis Market, a black marketplace for stolen credentials that was launched...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STYX Marketplace emerged in Dark Web focused on Financial Fraud<a href="https://securityaffairs.com/144446/cyber-crime/styx-marketplace-dark-web.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The STYX marketplace was launched at the beginning of 2023. This discovery illustrates the post-pandemic menace of cyber-enabled financial crime and the threat it poses to financial institutions and their customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. National Cyber Force, Responsible Cyber Power, and Cyber Persistence Theory<a href="https://www.lawfareblog.com/uk-national-cyber-force-responsible-cyber-power-and-cyber-persistence-theory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. National Cyber Force’s operating document offers a framework for responsible cyber behavior in the highly contested cyber strategic environment and further validates cyber persistence theory.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA JCDC Will Focus on Energy Sector<a href="https://securityaffairs.com/144466/security/cisa-jddc-energy-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA 's Joint Cyber Defense Collective (JCDC) initiative is going to build operation plans for protecting and responding to cyber threats.
+What comes to mind when you think of cyber criminals? Depending on who you ask, you’ll get a variety of answers....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

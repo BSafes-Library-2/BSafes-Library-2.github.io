@@ -8,6 +8,36 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nexx bugs allow to open garage doors, and take control of alarms and plugs<a href="https://securityaffairs.com/144488/iot/nexx-smart-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A series of vulnerabilities in multiple smart devices manufactured by Nexx can be exploited to remotely open garage doors, and take control of alarms and plugs.
+In late 2022, the researcher Sam Sabetan discovered a series of critical vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HP would take up to 90 days to fix a critical bug in some business-grade printers<a href="https://securityaffairs.com/144470/security/hp-printers-critical-flaw-cve-2023-1707.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HP would take up to 90 days to address a critical flaw, tracked as CVE-2023-1707, that resides in the firmware of some business-grade printers.
+HP is aware of a critical vulnerability, tracked as CVE-2023-1707 (CVSS v3.1 score 9.1), that affects tens...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

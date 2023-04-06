@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Proxyjacking Attack Exploits Log4j for Initial Access<a href="https://cyware.com/news/new-proxyjacking-attack-exploits-log4j-for-initial-access-dd6e5d8e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Sysdig highlight that the new Proxyjacking attack, which is much like cryptojacking, is abusing the infamous Log4j vulnerability to gain initial access to victims’ systems. On a broader scale, researchers note that a modest compromise of 100 IPs can enable attackers to make a profit  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited Elementor Pro Plugin Under Attack; Affects Over 11 Million Sites<a href="https://cyware.com/news/exploited-elementor-pro-plugin-under-attack-affects-over-11-million-sites-7fa2b825"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability in the Elementor Pro website builder plugin for WordPress is under active exploitation by a threat actor. An authenticated user can take advantage of this to take full control over a WordPress site having WooCommerce enabled. The bug in the plugin, roughly deployed on over  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG Warns of North Korean-linked ARCHIPELAGO Cyberattacks<a href="https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean government-backed threat actor has been linked to attacks targeting government and military personnel, think tanks, policy makers, academics, and researchers in South Korea and the U.S. Google's Threat Analysis Group (TAG) is&nbsp; tracking &nbsp;the cluster under the name&nbsp; ARCHIPELAGO , which it said is a subset of another threat group tracked by Mandiant under the name&nbsp; APT43 . The tech giant said it began monitoring the hacking crew in 2012, adding it has "observed the group target individuals with expertise in North Korea policy issues such as sanctions, human rights, and non-proliferation issues." The priorities of APT43, and by extension ARCHIPELAGO, are said to align with North Korea's Reconnaissance General Bureau (RGB), the primary foreign intelligence service, suggesting overlaps with a group broadly known as&nbsp; Kimsuky . Attack chains mounted by ARCHIPELAGO involve the use of phishing emails containing malicious links that, when clicked by the reci
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybereason Raises $100 Million, Appoints New CEO<a href="https://www.securityweek.com/cybereason-raises-100-million-appoints-new-ceo/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding, Cybereason says, will help it advance its XDR, EDR, and EPP solutions and support global growth. In addition to the investment, Cybereason also announced that SoftBank’s executive vice president, Eric Gan, will become its new CEO.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

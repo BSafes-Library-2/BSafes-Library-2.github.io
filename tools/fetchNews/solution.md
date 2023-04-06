@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Tightens OneNote Security by Auto-Blocking 120 Risky File Extensions<a href="https://thehackernews.com/2023/04/microsoft-tightens-onenote-security-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced plans to automatically block embedded files with "dangerous extensions" in OneNote following reports that the note-taking service is being&nbsp; increasingly abused &nbsp;for malware delivery. Up until now, users were shown a dialog warning them that opening such attachments could harm their computer and data, but it was possible to dismiss the prompt and open the files. That's going to change going forward. Microsoft said it intends to prevent users from directly opening an embedded file with a dangerous extension and display the message: "Your administrator has blocked your ability to open this file type in OneNote." The update is expected to start rolling out with Version 2304 later this month and only impacts OneNote for Microsoft 365 on devices running Windows. It does not affect other platforms, including macOS, Android, and iOS, as well as OneNote versions available on the web and for Windows 10. "By default, OneNote blocks the sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

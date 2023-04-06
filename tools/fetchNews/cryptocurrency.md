@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX Supply chain attack allowed targeting cryptocurrency companies<a href="https://securityaffairs.com/144411/apt/3cx-supply-chain-attack-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the 3CX supply chain attack have targeted a limited number of cryptocurrency companies with a second-state implant.
+As of Mar 22, 2023, SentinelOne observed a spike in behavioral detections of the 3CXDesktopApp, which is a popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rorschach Ransomware Emerges: Experts Warn of Advanced Evasion Strategies<a href="https://thehackernews.com/2023/04/rorschach-ransomware-emerges-experts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have taken the wraps off a previously undocumented ransomware strain called&nbsp; Rorschach &nbsp;that's both sophisticated and fast. "What makes Rorschach stand out from other ransomware strains is its high level of customization and its technically unique features that have not been seen before in ransomware," Check Point Research&nbsp; said &nbsp;in a new report. "In fact, Rorschach is one of the&nbsp; fastest ransomware strains &nbsp;ever observed, in terms of the speed of its encryption." The cybersecurity firm said it observed the ransomware deployed against an unnamed U.S.-based company, adding it found no branding or overlaps that connect it to any previously known ransomware actors. However, further analysis of Rorschach's source code reveals similarities to&nbsp; Babuk ransomware , which suffered a leak in September 2021, and&nbsp; LockBit 2.0 . On top of that, the ransom notes sent out to the victims appear to be inspired by that of&nbsp; Yanluowang &nbsp;and&nbsp; DarkSi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rorschach ransomware has the fastest file-encrypting routine to date<a href="https://securityaffairs.com/144425/cyber-crime/rorschach-ransomware-fast-encryption.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain named Rorschach ransomware supports the fastest file-encrypting routine observed to date.
+Check Point Research (CPR) and Check Point Incident Response Team (CPIRT) researchers detected a previously unknown ransomware strain,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

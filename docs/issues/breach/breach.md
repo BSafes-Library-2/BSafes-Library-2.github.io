@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax preparation and e-file service eFile.com compromised to serve malware<a href="https://securityaffairs.com/144477/malware/efile-com-compromised-serve-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The eFile.com online service, which is authorized by the US Internal Revenue Service (IRS), was spotted serving malicious malware to visitors.
+eFile.com, the personal online tax preparation and e-file service authorized by the US Internal Revenue...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Hospital Begins Breach Notification Post-Attack<a href="https://www.bankinfosecurity.com/florida-hospital-begins-breach-notification-post-attack-a-21616?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tallahassee Memorial HealthCare says its investigation into the February incident determined that an "unauthorized person" had gained access to its computer network and obtained certain files from its systems between January 26 and February 2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: TAFE data breach uncovered by SA Police<a href="https://www.itnews.com.au/news/tafe-data-breach-uncovered-by-sa-police-592945/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TAFE South Australia has revealed a data breach that was discovered when SA Police seized “devices containing electronic scanned copies of TAFE SA student identification forms”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

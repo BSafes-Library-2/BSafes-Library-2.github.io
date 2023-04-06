@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britain's data watchdog fines TikTok $15.9 million for alleged misuse of children's data<a href="https://cyberscoop.com/uk-data-watchdog-fines-tiktok/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ICO estimated the app allowed up to 1.4 million U.K. children under 13 to use the platform in 2020. The regulator accused TikTok of failing to take the necessary steps to verify user identity and remove children under 13 from the platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

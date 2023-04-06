@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks<a href="https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor used a malicious self-extracting archive ( SFX ) file in an attempt to establish persistent backdoor access to a victim's environment, new findings from CrowdStrike show. SFX files are capable of extracting the data contained within them without the need for dedicated software to display the file contents. It achieves this by including a decompressor stub, a piece of code that's executed to unpack the archive. "However, SFX archive files can also contain hidden malicious functionality that may not be immediately visible to the file's recipient, and could be missed by technology-based detections alone," CrowdStrike researcher Jai Minton&nbsp; said . In the case investigated by the cybersecurity firm, compromised credentials to a system were used to run a legitimate Windows accessibility application called Utility Manager (utilman.exe) and subsequently launch a password-protected SFX file. This, in turn, is made possible by&nbsp; configuring a de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can Remotely Open Smart Garage Doors Across the World<a href="https://www.vice.com/en/article/pkadqy/hackers-can-remotely-open-smart-garage-doors-across-the-world-simpaltek?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher found a series of vulnerabilities with the Nexx brand of smart garage openers. He says he could remotely find garages to target, and then open them across the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

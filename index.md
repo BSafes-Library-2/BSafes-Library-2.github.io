@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Proxyjacking Attack Exploits Log4j for Initial Access<a href="https://cyware.com/news/new-proxyjacking-attack-exploits-log4j-for-initial-access-dd6e5d8e"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2023
+April 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CryptoClippy: New Clipper Malware Targeting Portuguese Cryptocurrency Users<a href="https://thehackernews.com/2023/04/cryptoclippy-new-clipper-malware.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Civilianization of Digital Operations: A Risky Trend<a href="https://www.lawfareblog.com/civilianization-digital-operations-risky-trend"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K. National Cyber Force, Responsible Cyber Power, and Cyber Persistence Theory<a href="https://www.lawfareblog.com/uk-national-cyber-force-responsible-cyber-power-and-cyber-persistence-theory"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nexx bugs allow to open garage doors, and take control of alarms and plugs<a href="https://securityaffairs.com/144488/iot/nexx-smart-devices-flaws.html"> Full Text</a>
@@ -115,7 +115,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rorschach - New Ransomware with Highest-Ever Encryption Speed<a href="https://cyware.com/news/rorschach-new-ransomware-with-highest-ever-encryption-speed-98e58256"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2023
+April 05, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Self-Extracting Archives Exploit for Stealthy Backdoor Attacks<a href="https://thehackernews.com/2023/04/hackers-using-self-extracting-archives.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax preparation and e-file service eFile.com compromised to serve malware<a href="https://securityaffairs.com/144477/malware/efile-com-compromised-serve-malware.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploited Elementor Pro Plugin Under Attack; Affects Over 11 Million Sites<a href="https://cyware.com/news/exploited-elementor-pro-plugin-under-attack-affects-over-11-million-sites-7fa2b825"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2023
+April 05, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG Warns of North Korean-linked ARCHIPELAGO Cyberattacks<a href="https://thehackernews.com/2023/04/google-tag-warns-of-north-korean-linked.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HP would take up to 90 days to fix a critical bug in some business-grade printers<a href="https://securityaffairs.com/144470/security/hp-printers-critical-flaw-cve-2023-1707.html"> Full Text</a>
@@ -213,7 +213,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can Remotely Open Smart Garage Doors Across the World<a href="https://www.vice.com/en/article/pkadqy/hackers-can-remotely-open-smart-garage-doors-across-the-world-simpaltek?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2023
+April 05, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protect Your Company: Ransomware Prevention Made Easy<a href="https://thehackernews.com/2023/04/protect-your-company-ransomware.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA JCDC Will Focus on Energy Sector<a href="https://securityaffairs.com/144466/security/cisa-jddc-energy-sector.html"> Full Text</a>
@@ -262,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida Hospital Begins Breach Notification Post-Attack<a href="https://www.bankinfosecurity.com/florida-hospital-begins-breach-notification-post-attack-a-21616?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 05, 2023
+April 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Typhon Reborn Stealer Malware Resurfaces with Advanced Evasion Techniques<a href="https://thehackernews.com/2023/04/typhon-reborn-stealer-malware.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement seized the Genesis Market cybercrime marketplace<a href="https://securityaffairs.com/144449/cyber-crime/fbi-seized-genesis-market.html"> Full Text</a>
@@ -311,7 +311,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 STYX Marketplace emerged in Dark Web focused on Financial Fraud<a href="https://securityaffairs.com/144446/cyber-crime/styx-marketplace-dark-web.html?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 STYX Marketplace emerged in Dark Web focused on Financial Fraud<a href="https://securityaffairs.com/144446/cyber-crime/styx-marketplace-dark-web.html"> Full Text</a>
@@ -344,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notorious Genesis Market cybercrime forum seized in international law enforcement operation<a href="https://cyberscoop.com/fbi-seizure-genesis-market-cybercrime/?&web_view=true"> Full Text</a>
@@ -360,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: TAFE data breach uncovered by SA Police<a href="https://www.itnews.com.au/news/tafe-data-breach-uncovered-by-sa-police-592945/?&web_view=true"> Full Text</a>
@@ -376,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2023
+April 5, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alcohol Recovery Startups Monument and Tempest Shared Patients' Private Data With Advertisers<a href="https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?&web_view=true"> Full Text</a>

@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Civilianization of Digital Operations: A Risky Trend<a href="https://www.lawfareblog.com/civilianization-digital-operations-risky-trend"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing involvement of civilians in activities on the digital battlefield puts individuals at risk of harm and contributes to the erosion of the principle of distinction, an edifice on which the rest of the law applicable in armed conflicts is built.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STYX Marketplace emerged in Dark Web focused on Financial Fraud<a href="https://securityaffairs.com/144446/cyber-crime/styx-marketplace-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity has recently identified the STYX Marketplace, a new cybercriminal e-commerce platform with a specialized focus on financial fraud and money laundering.
+The STYX marketplace was launched at the beginning of 2023. This platform is specifically...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
