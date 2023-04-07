@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alcohol Recovery Startups Monument and Tempest Shared Patients' Private Data With Advertisers<a href="https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its disclosure, the companies confirmed their use of website trackers, which are small snippets of code that share with tech giants information about visitors to their websites and are often used for analytics and advertising.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

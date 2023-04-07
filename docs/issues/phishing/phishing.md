@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers migrate to Telegram<a href="https://securityaffairs.com/144525/cyber-crime/phishers-migrate-to-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that Telegram is becoming a privileged platform for phishers that use it to automate their activities and for providing various services.
+Kaspersky researchers have published an analysis of phishers’ Telegram channels used to promote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of New YouTube Phishing Scam Using Authentic Email Address<a href="https://www.hackread.com/youtube-phishing-scam-authentic-email-address/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email content is similar to those seen in previous phishing scams, containing a YouTube video and a message informing users about YouTube’s new monetization policy and new rules.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

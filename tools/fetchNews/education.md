@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect Your Company: Ransomware Prevention Made Easy<a href="https://thehackernews.com/2023/04/protect-your-company-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every year hundreds of millions of malware attacks occur worldwide, and every year businesses deal with the impact of viruses, worms, keyloggers, and ransomware. Malware is a pernicious threat and the biggest driver for businesses to look for cybersecurity solutions.&nbsp; Naturally, businesses want to find products that will stop malware in its tracks, and so they search for solutions to do that. But&nbsp; malware protection &nbsp;alone is not enough, instead what's needed is a more holistic approach. Businesses need to defend against malware entering the network, and then on top of that have systems and processes in place to restrict the damage that malware can do if it infects a user device.&nbsp; This approach will not only help stop and mitigate the damage from malware, but defend against other types of threats too, such as credential theft as a result of phishing, insider threats, and supply-chain attacks.&nbsp; Element 1: Malware Protection and Web Filtering The first and most sensible place to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Method to Steal Cars Using Vehicle CAN Bus<a href="https://www.theregister.com/2023/04/06/can_injection_attack_car_theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automotive security experts say they have uncovered a method of car theft relying on direct access to the vehicle's Controller Area Network (CAN) bus via a smart headlamp's wiring.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in popular Japanese word processing software could lead to arbitrary code execution, other issues<a href="https://blog.talosintelligence.com/vuln-spotlight-justsystems-ichitaro/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered four vulnerabilities in Ichitaro, a popular word processing software in Japan produced by JustSystems that could lead to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

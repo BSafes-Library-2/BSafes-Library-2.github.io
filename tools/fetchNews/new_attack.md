@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money Message ransomware group claims to have hacked IT giant MSI<a href="https://securityaffairs.com/144519/cyber-crime/money-message-claims-msi-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang Money Message&nbsp;claims to have hacked the Taiwanese&nbsp;multinational&nbsp;IT corporation MSI (Micro-Star International).
+Ransomware gang Money Message announced to have hacked the Taiwanese multinational IT corporation MSI (Micro-Star International)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 3CX makes progress in restoring Windows app from state-linked supply chain attack<a href="https://www.cybersecuritydive.com/news/3cx-restoring-windows-supply-chain-attack/646896/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The business communications company restored its Windows Electron app, making progress in its ongoing recovery from a recent supply chain attack, CEO Nick Galea said in a forum post on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

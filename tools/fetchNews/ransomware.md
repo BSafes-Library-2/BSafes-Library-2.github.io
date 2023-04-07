@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rorschach - New Ransomware with Highest-Ever Encryption Speed<a href="https://cyware.com/news/rorschach-new-ransomware-with-highest-ever-encryption-speed-98e58256"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware strain, named Rorschach, was unveiled by Check Point Research. The ransomware boasts an advanced level of customization and fast encryption, which sets it apart from other strains. Furthermore, an in-depth examination of Rorschach's source code indicates similarities with the Babuk ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
