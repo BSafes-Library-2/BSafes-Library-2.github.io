@@ -34,6 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BatLoader Malware Dropper Continues to Pose a Threat to Organizations in 2023<a href="https://cyberwarzone.com/batloader-malware-dropper-continues-to-pose-a-threat-to-organizations-in-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BatLoader can modify Windows UAC prompt, disable Windows Defender notifications, disable Task Manager, prevent users from accessing Windows registry tools, disable the Run command, and modify the display timeout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attacks and Critical Infrastructure: How CISA Helps Secure a Nation's Crown Jewels<a href="https://thehackernews.com/2023/04/supply-chain-attacks-and-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure attacks are a preferred target for cyber criminals. Here's why and what's being done to protect them. What is Critical Infrastructure and Why is It Attacked? Critical infrastructure is the physical and digital assets, systems and networks that are vital to national security, the economy, public health, or safety. It can be government- or privately-owned. According to Etay Maor, Senior Director Security Strategy at  Cato Networks , "It's interesting to note critical infrastructure doesn't necessarily have to be power plants or electricity. A nation's monetary system or even a global monetary system can be and should be considered a critical infrastructure as well." These qualities make critical infrastructure a preferred target for cyber attacks. If critical infrastructure is disrupted, the impact is significant. In some cases, such cyber attacks on critical infrastructure have become another means of modern warfare. But unlike
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers migrate to Telegram<a href="https://securityaffairs.com/144525/cyber-crime/phishers-migrate-to-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that Telegram is becoming a privileged platform for phishers that use it to automate their activities and for providing various services.
+Kaspersky researchers have published an analysis of phishers’ Telegram channels used to promote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OCR Labs Exposes Sensitive Credentials Due to Misconfiguration of its Systems<a href="https://securityaffairs.com/144514/data-breach/ocr-labs-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data leak affected QBANK, Defence Bank, Bloom Money, Admiral Money, MA Money, and Reed. Using leaked data, threat actors could potentially breach banks’ backend infrastructure and consequently the infrastructure of their clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Cracks Down on Genesis Market: 119 Arrested in Cybercrime Crackdown<a href="https://thehackernews.com/2023/04/fbi-cracks-down-on-genesis-market-119.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement operation has dismantled Genesis Market, an illegal online marketplace that specialized in the sale of stolen credentials associated with email, bank accounts, and social media platforms. Coinciding with the infrastructure seizure, the major crackdown, which involved authorities from 17 countries, culminated in 119 arrests and 208 property searches in 13 nations. However, the  .onion mirror of the market  appears to be still up and running . The "unprecedented"  law   enforcement   exercise  has been codenamed  Operation Cookie Monster . Genesis Market, since its inception in March 2018, evolved into a major hub for criminal activities, offering access to data stolen from over 1.5 million compromised computers across the world totaling more than 80 million credentials. A majority of infections associated with Genesis Market related malware have been detected in the U.S., Mexico, Germany, Turkey, Sweden, Italy, France, Spain, Po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money Message ransomware group claims to have hacked IT giant MSI<a href="https://securityaffairs.com/144519/cyber-crime/money-message-claims-msi-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang Money Message claims to have hacked the Taiwanese multinational IT corporation MSI (Micro-Star International).
+Ransomware gang Money Message announced to have hacked the Taiwanese multinational IT corporation MSI (Micro-Star International)....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says it Obtained Details on 59,000 Users of Hacking Site Genesis Market<a href="https://www.pcmag.com/news/fbi-we-obtained-details-on-59000-users-of-hacking-site-genesis-market?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US official says the server copies include information about approximately 59,000 individual user accounts, such as usernames, passwords, email accounts, and secure messenger accounts, in addition to a history of user activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Mandates Android Apps to Offer Easy Account Deletion In-App and Online<a href="https://thehackernews.com/2023/04/google-mandates-android-apps-to-offer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is enacting a new data deletion policy for Android apps that allow account creation to also offer users with a setting to delete their accounts in an attempt to provide more transparency and control over their data. "For apps that enable app account creation, developers will soon need to provide an option to initiate account and data deletion from within the app and online," Bethel Otuteye, senior director of product management for Android App Safety,  said . "This web requirement, which you will link in your  Data safety form , is especially important so that a user can request account and data deletion without having to reinstall an app." The goal, the search behemoth said, is to have a "readily discoverable option" to initiate an app account deletion process from both within an app and outside of it. To that end, developers are to provide users with an in-app path as well as a web link resource to request app account deletion and associated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OCR Labs exposes its systems, jeopardizing major banking clients<a href="https://securityaffairs.com/144514/data-breach/ocr-labs-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A digital identification tool provided by OCR Labs to major banks and government agencies leaked sensitive credentials, putting clients at severe risk.
+London-based OCR Labs is a major provider of digital ID verification tools. Its services are used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of New YouTube Phishing Scam Using Authentic Email Address<a href="https://www.hackread.com/youtube-phishing-scam-authentic-email-address/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email content is similar to those seen in previous phishing scams, containing a YouTube video and a message informing users about YouTube’s new monetization policy and new rules.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q3 & Q4 2022<a href="https://securityaffairs.com/144508/malware/threat-report-portugal-q3-q4-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: H2 2022 compiles data collected on the malicious campaigns that occurred from July to December, H2, 2022.
+The Portuguese Abuse Open Feed 0xSI_f33d is an open-sharing database with the ability to collect indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks hit almost all companies last year, Sophos says<a href="https://www.cybersecuritydive.com/news/cyberattacks-hit-most-companies-sophos/646583/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks aren’t a roll of the dice for organizations, but rather a near certainty. Almost all organizations, 94%,  experienced a cyberattack of some form during the last year, according to research Sophos released Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing attacks conducted by North Korea-linked ARCHIPELAGO APT group<a href="https://securityaffairs.com/144499/apt/north-korea-archipelago-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Threat Analysis Group (TAG) warns of a North Korea-linked cyberespionage group tracked as ARCHIPELAGO.
+Google's Threat Analysis Group (TAG) is warning of the North Korea-linked ARCHIPELAGO group that is targeting government and military personnel,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Method to Steal Cars Using Vehicle CAN Bus<a href="https://www.theregister.com/2023/04/06/can_injection_attack_car_theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automotive security experts say they have uncovered a method of car theft relying on direct access to the vehicle's Controller Area Network (CAN) bus via a smart headlamp's wiring.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 3CX makes progress in restoring Windows app from state-linked supply chain attack<a href="https://www.cybersecuritydive.com/news/3cx-restoring-windows-supply-chain-attack/646896/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The business communications company restored its Windows Electron app, making progress in its ongoing recovery from a recent supply chain attack, CEO Nick Galea said in a forum post on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in popular Japanese word processing software could lead to arbitrary code execution, other issues<a href="https://blog.talosintelligence.com/vuln-spotlight-justsystems-ichitaro/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos recently discovered four vulnerabilities in Ichitaro, a popular word processing software in Japan produced by JustSystems that could lead to arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Criminal Records Office's Customer Portal Offline Amid Cybersecurity Incident<a href="https://www.theregister.com/2023/04/06/acro_security_incident/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the name implies, the government agency manages people's criminal record information, running checks as needed on individuals for any convictions, cautions, or ongoing prosecutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
