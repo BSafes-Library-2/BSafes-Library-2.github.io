@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Hacker Group Launches DDoS Attacks Against Finnish Parliament, Technical Research Center<a href="https://www.techrepublic.com/article/ddos-attacks-finland-israel/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NoName057(16) reportedly claimed it was behind DoS attacks against the Finnish parliament’s website on Tuesday, the day the country joined NATO. The country’s Technical Research Centre of Finland was also hacked, according to Finnish news site, YLE.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+April 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Mandates Android Apps to Offer Easy Account Deletion In-App and Online<a href="https://thehackernews.com/2023/04/google-mandates-android-apps-to-offer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is enacting a new data deletion policy for Android apps that allow account creation to also offer users with a setting to delete their accounts in an attempt to provide more transparency and control over their data. "For apps that enable app account creation, developers will soon need to provide an option to initiate account and data deletion from within the app and online," Bethel Otuteye, senior director of product management for Android App Safety,&nbsp; said . "This web requirement, which you will link in your&nbsp; Data safety form , is especially important so that a user can request account and data deletion without having to reinstall an app." The goal, the search behemoth said, is to have a "readily discoverable option" to initiate an app account deletion process from both within an app and outside of it. To that end, developers are to provide users with an in-app path as well as a web link resource to request app account deletion and associated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report Portugal: Q3 &amp; Q4 2022<a href="https://securityaffairs.com/144508/malware/threat-report-portugal-q3-q4-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Threat Report Portugal: H2 2022 compiles data collected on the malicious campaigns that occurred from July to December, H2, 2022.
+The Portuguese Abuse Open Feed&nbsp;0xSI_f33d&nbsp;is an open-sharing database with the ability to collect indicators...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks hit almost all companies last year, Sophos says<a href="https://www.cybersecuritydive.com/news/cyberattacks-hit-most-companies-sophos/646583/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattacks aren’t a roll of the dice for organizations, but rather a near certainty. Almost all organizations, 94%,  experienced a cyberattack of some form during the last year, according to research Sophos released Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

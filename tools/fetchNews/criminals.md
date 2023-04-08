@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Cracks Down on Genesis Market: 119 Arrested in Cybercrime Crackdown<a href="https://thehackernews.com/2023/04/fbi-cracks-down-on-genesis-market-119.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated international law enforcement operation has dismantled Genesis Market, an illegal online marketplace that specialized in the sale of stolen credentials associated with email, bank accounts, and social media platforms. Coinciding with the infrastructure seizure, the major crackdown, which involved authorities from 17 countries, culminated in 119 arrests and 208 property searches in 13 nations. However, the&nbsp; .onion mirror of the market &nbsp;appears to be still up and running . The "unprecedented"&nbsp; law &nbsp; enforcement &nbsp; exercise &nbsp;has been codenamed&nbsp; Operation Cookie Monster . Genesis Market, since its inception in March 2018, evolved into a major hub for criminal activities, offering access to data stolen from over 1.5 million compromised computers across the world totaling more than 80 million credentials. A majority of infections associated with Genesis Market related malware have been detected in the U.S., Mexico, Germany, Turkey, Sweden, Italy, France, Spain, Po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says it Obtained Details on 59,000 Users of Hacking Site Genesis Market<a href="https://www.pcmag.com/news/fbi-we-obtained-details-on-59000-users-of-hacking-site-genesis-market?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US official says the server copies include information about approximately 59,000 individual user accounts, such as usernames, passwords, email accounts, and secure messenger accounts, in addition to a history of user activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,91 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Retail Tool Vulnerability Led to Account Takeover<a href="https://www.securityweek.com/tesla-retail-tool-vulnerability-led-to-account-takeover/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The application allows both internal and external account logins and uses for authentication a JSON Web Token (JWT) that specifies an email address cleared for manually defined user accounts, security researcher Evan Connelly explains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari<a href="https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Friday released security updates for&nbsp; iOS, iPadOS ,&nbsp; macOS , and&nbsp; Safari web browser &nbsp;to address a pair of zero-day flaws that are being exploited in the wild. The two vulnerabilities are as follows - CVE-2023-28205 &nbsp;- A&nbsp; use after free issue &nbsp;in WebKit that could lead to arbitrary code execution when processing specially crafted web content. CVE-2023-28206 &nbsp;- An&nbsp; out-of-bounds write issue &nbsp;in IOSurfaceAccelerator that could enable an app to execute arbitrary code with kernel privileges. Apple said it addressed CVE-2023-28205 with improved memory management and the second with better input validation, adding it's aware the bugs "may have been actively exploited." Credited with discovering and reporting the flaws are Clément Lecigne of Google's Threat Analysis Group (TAG) and Donncha Ó Cearbhaill of Amnesty International's Security Lab. Details about the two vulnerabilities have been withheld in light of active exploitation and to prevent more
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Critical Remote Code Execution Flaw in vm2 Sandbox Library<a href="https://thehackernews.com/2023/04/researchers-discover-critical-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the vm2 JavaScript sandbox module have shipped a patch to address a critical flaw that could be abused to break out of security boundaries and execute arbitrary shellcode. The flaw, which affects all versions, including and prior to 3.9.14, was&nbsp; reported &nbsp;by researchers from South Korea-based&nbsp; KAIST WSP Lab &nbsp;on April 6, 2023, prompting vm2 to release a fix with&nbsp; version 3.9.15 &nbsp;on Friday. "A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," vm2&nbsp; disclosed &nbsp;in an advisory. The vulnerability has been assigned the identified&nbsp; CVE-2023-29017 &nbsp;and is rated 9.8 on the CVSS scoring system. The issue stems from the fact that it does not properly handle errors that occur in asynchronous functions. vm2 is a&nbsp; popular library &nbsp;that's used to run untrusted code in an isolated environment on Node.js. It has nearly four million weekly downloads and is used in 721 packages . KAIST security res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed two actively exploited zero-day flaws<a href="https://securityaffairs.com/144551/hacking/apple-zero-day-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released emergency security updates to address two actively exploited zero-day vulnerabilities impacting iPhones, Macs, and iPads.
+Apple has released emergency security updates to address two actively exploited zero-day vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Patches Critical Code Execution Vulnerability in Web Security Appliance<a href="https://www.securityweek.com/sophos-patches-critical-code-execution-vulnerability-in-web-security-appliance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical issue, tracked as CVE-2023-1671 (CVSS score of 9.8), was identified in the warning page handler of the appliance and it could be exploited without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Default static key in ThingsBoard IoT platform can give attackers admin access<a href="https://www.csoonline.com/article/3692818/default-static-key-in-thingsboard-iot-platform-can-give-attackers-admin-access.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw was fixed in ThingsBoard version 3.4.2 by generating a random key for every new installation or upgrade to version 3.4.2 or later. If admins can't upgrade immediately, they can manually change the default signing key for older versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Takes Legal Action to Disrupt Cybercriminals' Illegal Use of Cobalt Strike Tool<a href="https://thehackernews.com/2023/04/microsoft-takes-legal-action-to-disrupt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it teamed up with Fortra and Health Information Sharing and Analysis Center (Health-ISAC) to tackle the abuse of Cobalt Strike by cybercriminals to distribute malware, including ransomware. To that end, the tech giant's Digital Crimes Unit (DCU) revealed that it secured a&nbsp; court order &nbsp;in the U.S. to "remove illegal, legacy copies of Cobalt Strike so they can no longer be used by cybercriminals." While Cobalt Strike, developed and maintained by Fortra (formerly HelpSystems), is a legitimate post-exploitation tool used for adversary simulation, illegal cracked versions of the software have been weaponized by threat actors over the years. Ransomware groups, in particular, have leveraged Cobalt Strike after obtaining initial access to a target environment to escalate privileges, lateral move across the network, and deploy file-encrypting malware. "The ransomware families associated with or deployed by cracked copies of Cobalt Strike have been link
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

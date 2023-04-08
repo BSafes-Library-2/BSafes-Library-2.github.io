@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OCR Labs Exposes Sensitive Credentials Due to Misconfiguration of its Systems<a href="https://securityaffairs.com/144514/data-breach/ocr-labs-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data leak affected QBANK, Defence Bank, Bloom Money, Admiral Money, MA Money, and Reed. Using leaked data, threat actors could potentially breach banks’ backend infrastructure and consequently the infrastructure of their clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OCR Labs exposes its systems, jeopardizing major banking clients<a href="https://securityaffairs.com/144514/data-breach/ocr-labs-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A digital identification tool provided by OCR Labs to major banks and government agencies leaked sensitive credentials, putting clients at severe risk.
+London-based OCR Labs is a major provider of digital ID verification tools. Its services are used...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

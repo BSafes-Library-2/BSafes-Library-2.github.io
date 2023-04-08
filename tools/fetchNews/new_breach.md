@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSI confirms security breach after Money Message ransomware attack<a href="https://securityaffairs.com/144546/data-breach/msi-confirms-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multinational&nbsp;IT corporation MSI (Micro-Star International) confirms security breach after Money Message ransomware gang claimed the hack.
+This week the ransomware gang Money Message announced to have hacked the Taiwanese multinational IT corporation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Reset User Passwords as Precaution Against Data Breach Risks<a href="https://www.hackread.com/adobe-resets-user-passwords-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The email states that Adobe has reset the password for the account associated with the users’ Adobe ID, as it may have been compromised in data breaches from other online services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak info on 16,000 Aussie school kids<a href="https://www.afr.com/politics/federal/hackers-leak-16-000-aussie-school-kids-info-20230407-p5cyyl?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have released 16,000 Tasmanian education department documents on the dark web including school children’s personal information, the state government has confirmed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,297 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Retail Tool Vulnerability Led to Account Takeover<a href="https://www.securityweek.com/tesla-retail-tool-vulnerability-led-to-account-takeover/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The application allows both internal and external account logins and uses for authentication a JSON Web Token (JWT) that specifies an email address cleared for manually defined user accounts, security researcher Evan Connelly explains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Based Hackers Caught Carrying Out Destructive Attacks Under Ransomware Guise<a href="https://thehackernews.com/2023/04/iran-based-hackers-caught-carrying-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state group known as  MuddyWater  has been observed carrying out destructive attacks on hybrid environments under the guise of a ransomware operation. That's according to new findings from the Microsoft Threat Intelligence team, which discovered the threat actor targeting both on-premises and cloud infrastructures in partnership with another emerging activity cluster dubbed  DEV-1084 . "While the threat actors attempted to masquerade the activity as a standard ransomware campaign, the unrecoverable actions show destruction and disruption were the ultimate goals of the operation," the tech giant  revealed  Friday. MuddyWater  is the name assigned to an  Iran-based actor  that the U.S. government has publicly connected to the country's Ministry of Intelligence and Security (MOIS). It's been known to be active since at least 2017. It's also tracked by the cybersecurity community under various names, including Boggy Serpens, Cobalt Ulster,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium's Herselt Municipality Hit by Cyberattack<a href="https://cyberwarzone.com/herselt-municipality-hit-by-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack was detected on Friday evening (07-04-2023), and security measures were immediately heightened. Currently, experts are combing through the municipality’s servers to determine whether any sensitive information has been accessed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari<a href="https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Friday released security updates for  iOS, iPadOS ,  macOS , and  Safari web browser  to address a pair of zero-day flaws that are being exploited in the wild. The two vulnerabilities are as follows - CVE-2023-28205  - A  use after free issue  in WebKit that could lead to arbitrary code execution when processing specially crafted web content. CVE-2023-28206  - An  out-of-bounds write issue  in IOSurfaceAccelerator that could enable an app to execute arbitrary code with kernel privileges. Apple said it addressed CVE-2023-28205 with improved memory management and the second with better input validation, adding it's aware the bugs "may have been actively exploited." Credited with discovering and reporting the flaws are Clément Lecigne of Google's Threat Analysis Group (TAG) and Donncha Ó Cearbhaill of Amnesty International's Security Lab. Details about the two vulnerabilities have been withheld in light of active exploitation and to prevent more
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Critical Remote Code Execution Flaw in vm2 Sandbox Library<a href="https://thehackernews.com/2023/04/researchers-discover-critical-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the vm2 JavaScript sandbox module have shipped a patch to address a critical flaw that could be abused to break out of security boundaries and execute arbitrary shellcode. The flaw, which affects all versions, including and prior to 3.9.14, was  reported  by researchers from South Korea-based  KAIST WSP Lab  on April 6, 2023, prompting vm2 to release a fix with  version 3.9.15  on Friday. "A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," vm2  disclosed  in an advisory. The vulnerability has been assigned the identified  CVE-2023-29017  and is rated 9.8 on the CVSS scoring system. The issue stems from the fact that it does not properly handle errors that occur in asynchronous functions. vm2 is a  popular library  that's used to run untrusted code in an isolated environment on Node.js. It has nearly four million weekly downloads and is used in 721 packages . KAIST security res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed two actively exploited zero-day flaws<a href="https://securityaffairs.com/144551/hacking/apple-zero-day-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released emergency security updates to address two actively exploited zero-day vulnerabilities impacting iPhones, Macs, and iPads.
+Apple has released emergency security updates to address two actively exploited zero-day vulnerabilities, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSI confirms security breach after Money Message ransomware attack<a href="https://securityaffairs.com/144546/data-breach/msi-confirms-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multinational IT corporation MSI (Micro-Star International) confirms security breach after Money Message ransomware gang claimed the hack.
+This week the ransomware gang Money Message announced to have hacked the Taiwanese multinational IT corporation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typhon Reborn V2 Enhances Evasion Capabilities<a href="https://cyware.com/news/typhon-reborn-v2-enhances-evasion-capabilities-8871f0bf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto miner/stealer for hire, Typhon Stealer, received a new update, disclosed Palo Alto Networks. The new variant boasts enhanced anti-analysis techniques, as well as other stealing and file-grabber features. The malware leverages Telegram’s API and infrastructure to exfiltrate all stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft aims at stopping cybercriminals from using cracked copies of Cobalt Strike<a href="https://securityaffairs.com/144537/hacking/microsoft-vs-cracked-copies-cobalt-strike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced it has taken legal action to disrupt the illegal use of copies of the post-exploitation tool Cobalt Strike by cybercriminals.
+Cobalt Strike is a paid penetration testing product that allows an attacker to deploy an agent named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Reset User Passwords as Precaution Against Data Breach Risks<a href="https://www.hackread.com/adobe-resets-user-passwords-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The email states that Adobe has reset the password for the account associated with the users’ Adobe ID, as it may have been compromised in data breaches from other online services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Thriving Phishing Kit Market on Telegram Channels<a href="https://thehackernews.com/2023/04/researchers-uncover-thriving-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another sign that Telegram is increasingly becoming a  thriving hub  for cybercrime, researchers have found that threat actors are using the messaging platform to peddle phishing kits and help set up phishing campaigns. "To promote their 'goods,' phishers create Telegram channels through which they educate their audience about phishing and entertain subscribers with polls like, 'What type of personal data do you prefer?'," Kaspersky web content analyst Olga Svistunova  said  in a report published this week. The links to these Telegram channels are distributed via YouTube, GitHub, and the phishing kits that are developed by the crooks themselves. The Russian cybersecurity firm said it detected over 2.5 million malicious URLs generated using phishing kits in the past six months. One of the prominent services offered is to provide threat actors with Telegram bots that automate the process of generating phishing pages and collecting user data. Although
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Patches Critical Code Execution Vulnerability in Web Security Appliance<a href="https://www.securityweek.com/sophos-patches-critical-code-execution-vulnerability-in-web-security-appliance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical issue, tracked as CVE-2023-1671 (CVSS score of 9.8), was identified in the warning page handler of the appliance and it could be exploited without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Takes Legal Action to Disrupt Cybercriminals' Illegal Use of Cobalt Strike Tool<a href="https://thehackernews.com/2023/04/microsoft-takes-legal-action-to-disrupt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said it teamed up with Fortra and Health Information Sharing and Analysis Center (Health-ISAC) to tackle the abuse of Cobalt Strike by cybercriminals to distribute malware, including ransomware. To that end, the tech giant's Digital Crimes Unit (DCU) revealed that it secured a  court order  in the U.S. to "remove illegal, legacy copies of Cobalt Strike so they can no longer be used by cybercriminals." While Cobalt Strike, developed and maintained by Fortra (formerly HelpSystems), is a legitimate post-exploitation tool used for adversary simulation, illegal cracked versions of the software have been weaponized by threat actors over the years. Ransomware groups, in particular, have leveraged Cobalt Strike after obtaining initial access to a target environment to escalate privileges, lateral move across the network, and deploy file-encrypting malware. "The ransomware families associated with or deployed by cracked copies of Cobalt Strike have been link
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers leak info on 16,000 Aussie school kids<a href="https://www.afr.com/politics/federal/hackers-leak-16-000-aussie-school-kids-info-20230407-p5cyyl?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have released 16,000 Tasmanian education department documents on the dark web including school children’s personal information, the state government has confirmed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Source Code Leaks the New Threat Software vendors Should Care About?<a href="https://thehackernews.com/2023/04/are-source-code-leaks-new-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Less than a month ago, Twitter indirectly acknowledged that some of its source code had been leaked on the code-sharing platform GitHub by sending a copyright infringement notice to take down the incriminated repository. The latter is now inaccessible, but according to the media, it was accessible to the public for several months. A user going by the name FreeSpeechEnthousiast committed thousands of documents belonging to the social media platform over several months.  While there is no concrete evidence to support this hypothesis, the timing of the leak and the ironic username used by the perpetrator suggest that the leak was a deliberate act aimed at causing harm to the company. Although it is still too early to measure the impact of this leak on the health of Twitter, this incident should be an opportunity for all software vendors to ask a simple question:  what if this happened to us? Protecting sensitive information in the software industry is becoming increasingly critical as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Default static key in ThingsBoard IoT platform can give attackers admin access<a href="https://www.csoonline.com/article/3692818/default-static-key-in-thingsboard-iot-platform-can-give-attackers-admin-access.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw was fixed in ThingsBoard version 3.4.2 by generating a random key for every new installation or upgrade to version 3.4.2 or later. If admins can't upgrade immediately, they can manually change the default signing key for older versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 07, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical ICS Flaws in Hitachi, mySCADA, ICL, and Nexx Products<a href="https://thehackernews.com/2023/04/cisa-warns-of-critical-ics-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  published   eight  Industrial Control Systems (ICS) advisories warning of critical flaws affecting products from Hitachi Energy, mySCADA Technologies, Industrial Control Links, and Nexx. Topping the list is  CVE-2022-3682  (CVSS score: 9.9), impacting Hitachi Energy's MicroSCADA System Data Manager SDM600 that could allow an attacker to take remote control of the product. The flaw stems from an issue with file permission validation, thereby permitting an adversary to upload a specially crafted message to the system, leading to arbitrary code execution. Hitachi Energy has released SDM600 1.3.0.1339 to  mitigate  the issue for SDM600 versions prior to version 1.2 FP3 HF4 (Build Nr. 1.2.23000.291). Another set of five critical vulnerabilities –  CVE-2023-28400 ,  CVE-2023-28716 ,  CVE-2023-28384 ,  CVE-2023-29169 , and  CVE-2023-29150  (CVSS scores: 9.9) – relate to command injection bugs present in mySCADA my
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 7, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Hacker Group Launches DDoS Attacks Against Finnish Parliament, Technical Research Center<a href="https://www.techrepublic.com/article/ddos-attacks-finland-israel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NoName057(16) reportedly claimed it was behind DoS attacks against the Finnish parliament’s website on Tuesday, the day the country joined NATO. The country’s Technical Research Centre of Finland was also hacked, according to Finnish news site, YLE.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

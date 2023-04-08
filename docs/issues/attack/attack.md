@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Based Hackers Caught Carrying Out Destructive Attacks Under Ransomware Guise<a href="https://thehackernews.com/2023/04/iran-based-hackers-caught-carrying-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state group known as&nbsp; MuddyWater &nbsp;has been observed carrying out destructive attacks on hybrid environments under the guise of a ransomware operation. That's according to new findings from the Microsoft Threat Intelligence team, which discovered the threat actor targeting both on-premises and cloud infrastructures in partnership with another emerging activity cluster dubbed&nbsp; DEV-1084 . "While the threat actors attempted to masquerade the activity as a standard ransomware campaign, the unrecoverable actions show destruction and disruption were the ultimate goals of the operation," the tech giant&nbsp; revealed &nbsp;Friday. MuddyWater &nbsp;is the name assigned to an&nbsp; Iran-based actor &nbsp;that the U.S. government has publicly connected to the country's Ministry of Intelligence and Security (MOIS). It's been known to be active since at least 2017. It's also tracked by the cybersecurity community under various names, including Boggy Serpens, Cobalt Ulster,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium's Herselt Municipality Hit by Cyberattack<a href="https://cyberwarzone.com/herselt-municipality-hit-by-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack was detected on Friday evening (07-04-2023), and security measures were immediately heightened. Currently, experts are combing through the municipality’s servers to determine whether any sensitive information has been accessed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

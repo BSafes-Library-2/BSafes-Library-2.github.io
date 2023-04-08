@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attacks and Critical Infrastructure: How CISA Helps Secure a Nation's Crown Jewels<a href="https://thehackernews.com/2023/04/supply-chain-attacks-and-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure attacks are a preferred target for cyber criminals. Here's why and what's being done to protect them. What is Critical Infrastructure and Why is It Attacked? Critical infrastructure is the physical and digital assets, systems and networks that are vital to national security, the economy, public health, or safety. It can be government- or privately-owned. According to Etay Maor, Senior Director Security Strategy at&nbsp; Cato Networks , "It's interesting to note critical infrastructure doesn't necessarily have to be power plants or electricity. A nation's monetary system or even a global monetary system can be and should be considered a critical infrastructure as well." These qualities make critical infrastructure a preferred target for cyber attacks. If critical infrastructure is disrupted, the impact is significant. In some cases, such cyber attacks on critical infrastructure have become another means of modern warfare. But unlike
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
