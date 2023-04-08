@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2023
+April 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tesla Retail Tool Vulnerability Led to Account Takeover<a href="https://www.securityweek.com/tesla-retail-tool-vulnerability-led-to-account-takeover/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2023
+April 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-Based Hackers Caught Carrying Out Destructive Attacks Under Ransomware Guise<a href="https://thehackernews.com/2023/04/iran-based-hackers-caught-carrying-out.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2023
+April 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium's Herselt Municipality Hit by Cyberattack<a href="https://cyberwarzone.com/herselt-municipality-hit-by-cyberattack/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2023
+April 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari<a href="https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2023
+April 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Critical Remote Code Execution Flaw in vm2 Sandbox Library<a href="https://thehackernews.com/2023/04/researchers-discover-critical-remote.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addressed two actively exploited zero-day flaws<a href="https://securityaffairs.com/144551/hacking/apple-zero-day-flaws-3.html"> Full Text</a>
@@ -131,7 +131,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MSI confirms security breach after Money Message ransomware attack<a href="https://securityaffairs.com/144546/data-breach/msi-confirms-security-breach.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Typhon Reborn V2 Enhances Evasion Capabilities<a href="https://cyware.com/news/typhon-reborn-v2-enhances-evasion-capabilities-8871f0bf"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft aims at stopping cybercriminals from using cracked copies of Cobalt Strike<a href="https://securityaffairs.com/144537/hacking/microsoft-vs-cracked-copies-cobalt-strike.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Reset User Passwords as Precaution Against Data Breach Risks<a href="https://www.hackread.com/adobe-resets-user-passwords-data-breach/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2023
+April 07, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Thriving Phishing Kit Market on Telegram Channels<a href="https://thehackernews.com/2023/04/researchers-uncover-thriving-phishing.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos Patches Critical Code Execution Vulnerability in Web Security Appliance<a href="https://www.securityweek.com/sophos-patches-critical-code-execution-vulnerability-in-web-security-appliance/?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2023
+April 07, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Takes Legal Action to Disrupt Cybercriminals' Illegal Use of Cobalt Strike Tool<a href="https://thehackernews.com/2023/04/microsoft-takes-legal-action-to-disrupt.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers leak info on 16,000 Aussie school kids<a href="https://www.afr.com/politics/federal/hackers-leak-16-000-aussie-school-kids-info-20230407-p5cyyl?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2023
+April 07, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Source Code Leaks the New Threat Software vendors Should Care About?<a href="https://thehackernews.com/2023/04/are-source-code-leaks-new-threat.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Default static key in ThingsBoard IoT platform can give attackers admin access<a href="https://www.csoonline.com/article/3692818/default-static-key-in-thingsboard-iot-platform-can-give-attackers-admin-access.html?&web_view=true"> Full Text</a>
@@ -293,7 +293,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 07, 2023
+April 07, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical ICS Flaws in Hitachi, mySCADA, ICL, and Nexx Products<a href="https://thehackernews.com/2023/04/cisa-warns-of-critical-ics-flaws-in.html"> Full Text</a>
@@ -309,7 +309,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 7, 2023
+April 7, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia Hacker Group Launches DDoS Attacks Against Finnish Parliament, Technical Research Center<a href="https://www.techrepublic.com/article/ddos-attacks-finland-israel/?&web_view=true"> Full Text</a>
