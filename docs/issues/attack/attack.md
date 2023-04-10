@@ -11,6 +11,34 @@ nav_order: 900015
 April 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Taiwanese PC Company MSI Falls Victim to Ransomware Attack<a href="https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese PC company MSI (short for Micro-Star International) officially confirmed it was the victim of a cyber attack on its systems. The company said it "promptly" initiated incident response and recovery measures after detecting "network anomalies." It also said it alerted law enforcement agencies of the matter. That said, MSI did not disclose any specifics about when the attack took place and if it entailed the exfiltration of any proprietary information, including source code. "Currently, the affected systems have gradually resumed normal operations, with no significant impact on financial business," the company said in a&nbsp; brief notice &nbsp;shared on Friday. In a&nbsp; regulatory filing &nbsp;with the Taiwan Stock Exchange, it said that it's setting up enhanced controls of its network and infrastructure to ensure the security of data. MSI is further urging users to obtain firmware/BIOS updates only from its official website, and refrain from downloading
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Color1337: Linux Cryptomining Attack Campaign Used uhQCCSpB Bot<a href="https://cyberwarzone.com/linux-cryptomining-attack-color1337/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use a bot called uhQCCSpB that installs and launches a Monero miner on the infected machine. After killing all other miners on the device, the attacker uses two different strategies to maximize access to the compromised Linux machine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iran-Based Hackers Caught Carrying Out Destructive Attacks Under Ransomware Guise<a href="https://thehackernews.com/2023/04/iran-based-hackers-caught-carrying-out.html"> Full Text</a>
 </p>
 <details>

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mastodon Vulnerability Exposes Sensitive Information: Data Leak Alert<a href="https://www.parisbeacon.com/mastodon-vulnerability-exposes-sensitive-information-data-leak-alert/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required<a href="https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers disclose critical sandbox escape bug in vm2 sandbox library<a href="https://securityaffairs.com/144582/hacking/vm2-rce-sandbox-escape.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Hide Backdoors Behind Malicious Self-Extracting Archives<a href="https://cyware.com/news/hackers-hide-backdoors-behind-malicious-self-extracting-archives-345b1e28"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 414 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144578/breaking-news/security-affairs-newsletter-round-414-by-pierluigi-paganini.html"> Full Text</a>
@@ -116,7 +116,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Scam Alerts Users About YouTube Altering Policy<a href="https://cyware.com/news/new-scam-alerts-users-about-youtube-altering-policy-d158f61b"> Full Text</a>
@@ -132,7 +132,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonian National charged with helping Russia acquire U.S. hacking tools and electronics<a href="https://securityaffairs.com/144567/cyber-crime/estonian-national-helped-russia-acquire-us-electronics.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CryptoClippy: New Clipper Malware That Targets Portuguese Users<a href="https://cyware.com/news/cryptoclippy-new-clipper-malware-that-targets-portuguese-users-0b2c1dda"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FusionCore - An Emerging Malware-as-a-Service Group in Europe<a href="https://cyware.com/news/fusioncore-an-emerging-malware-as-a-service-group-in-europe-dfa545c6"> Full Text</a>
@@ -181,7 +181,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2023
+April 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Almost Every Organization Suffered a Cyberattack, Says Sophos<a href="https://cyware.com/news/almost-every-organization-suffered-a-cyberattack-says-sophos-75fe16c4"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 08, 2023
+April 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwanese PC Company MSI Falls Victim to Ransomware Attack<a href="https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2023
+April 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Veritas Backup Exec flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144561/security/veritas-backup-exec-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2023
+April 8, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google: North Korea-Linked Hackers Target Subject Experts and Think Tanks<a href="https://cyware.com/news/google-north-korea-linked-hackers-target-subject-experts-and-think-tanks-68508ff1"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2023
+April 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Color1337: Linux Cryptomining Attack Campaign Used uhQCCSpB Bot<a href="https://cyberwarzone.com/linux-cryptomining-attack-color1337/?&web_view=true"> Full Text</a>

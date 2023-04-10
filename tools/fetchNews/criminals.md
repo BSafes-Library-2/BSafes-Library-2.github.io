@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft aims at stopping cybercriminals from using cracked copies of Cobalt Strike<a href="https://securityaffairs.com/144537/hacking/microsoft-vs-cracked-copies-cobalt-strike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced it has taken legal action to disrupt the illegal use of copies of the post-exploitation tool Cobalt Strike by cybercriminals.
+Cobalt Strike&nbsp;is a paid penetration testing product that allows an attacker to deploy an agent named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

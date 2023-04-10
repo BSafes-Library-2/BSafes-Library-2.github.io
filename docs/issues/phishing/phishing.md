@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Scam Alerts Users About YouTube Altering Policy<a href="https://cyware.com/news/new-scam-alerts-users-about-youtube-altering-policy-d158f61b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing scam has come to light that uses YouTube's genuine no-reply@youtube[.]com email address to trick users into revealing their login details. The phishing email write-up contains a YouTube video and text informing users about YouTube’s new monetization policy and new rules. Meanwhile, YouTu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

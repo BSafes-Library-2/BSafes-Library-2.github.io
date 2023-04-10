@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Source Code Leaks the New Threat Software vendors Should Care About?<a href="https://thehackernews.com/2023/04/are-source-code-leaks-new-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Less than a month ago, Twitter indirectly acknowledged that some of its source code had been leaked on the code-sharing platform GitHub by sending a copyright infringement notice to take down the incriminated repository. The latter is now inaccessible, but according to the media, it was accessible to the public for several months. A user going by the name FreeSpeechEnthousiast committed thousands of documents belonging to the social media platform over several months.&nbsp; While there is no concrete evidence to support this hypothesis, the timing of the leak and the ironic username used by the perpetrator suggest that the leak was a deliberate act aimed at causing harm to the company. Although it is still too early to measure the impact of this leak on the health of Twitter, this incident should be an opportunity for all software vendors to ask a simple question:&nbsp; what if this happened to us? Protecting sensitive information in the software industry is becoming increasingly critical as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

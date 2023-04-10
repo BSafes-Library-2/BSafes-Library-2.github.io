@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical ICS Flaws in Hitachi, mySCADA, ICL, and Nexx Products<a href="https://thehackernews.com/2023/04/cisa-warns-of-critical-ics-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; published &nbsp; eight &nbsp;Industrial Control Systems (ICS) advisories warning of critical flaws affecting products from Hitachi Energy, mySCADA Technologies, Industrial Control Links, and Nexx. Topping the list is&nbsp; CVE-2022-3682 &nbsp;(CVSS score: 9.9), impacting Hitachi Energy's MicroSCADA System Data Manager SDM600 that could allow an attacker to take remote control of the product. The flaw stems from an issue with file permission validation, thereby permitting an adversary to upload a specially crafted message to the system, leading to arbitrary code execution. Hitachi Energy has released SDM600 1.3.0.1339 to&nbsp; mitigate &nbsp;the issue for SDM600 versions prior to version 1.2 FP3 HF4 (Build Nr. 1.2.23000.291). Another set of five critical vulnerabilities –&nbsp; CVE-2023-28400 ,&nbsp; CVE-2023-28716 ,&nbsp; CVE-2023-28384 ,&nbsp; CVE-2023-29169 , and&nbsp; CVE-2023-29150 &nbsp;(CVSS scores: 9.9) – relate to command injection bugs present in mySCADA my
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

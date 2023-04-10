@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Thriving Phishing Kit Market on Telegram Channels<a href="https://thehackernews.com/2023/04/researchers-uncover-thriving-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another sign that Telegram is increasingly becoming a&nbsp; thriving hub &nbsp;for cybercrime, researchers have found that threat actors are using the messaging platform to peddle phishing kits and help set up phishing campaigns. "To promote their 'goods,' phishers create Telegram channels through which they educate their audience about phishing and entertain subscribers with polls like, 'What type of personal data do you prefer?'," Kaspersky web content analyst Olga Svistunova&nbsp; said &nbsp;in a report published this week. The links to these Telegram channels are distributed via YouTube, GitHub, and the phishing kits that are developed by the crooks themselves. The Russian cybersecurity firm said it detected over 2.5 million malicious URLs generated using phishing kits in the past six months. One of the prominent services offered is to provide threat actors with Telegram bots that automate the process of generating phishing pages and collecting user data. Although
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

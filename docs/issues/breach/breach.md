@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon Vulnerability Exposes Sensitive Information: Data Leak Alert<a href="https://www.parisbeacon.com/mastodon-vulnerability-exposes-sensitive-information-data-leak-alert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability has been labeled CVE-2023-28853, with a " high " risk assessment. Mastodon versions from 2.5.0 were affected, but the developers have since closed the security gaps in versions 4.1.2, 4.0.4, and 3.5.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

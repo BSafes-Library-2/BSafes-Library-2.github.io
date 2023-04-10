@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian National charged with helping Russia acquire U.S. hacking tools and electronics<a href="https://securityaffairs.com/144567/cyber-crime/estonian-national-helped-russia-acquire-us-electronics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Andrey Shevlyakov, an Estonian national, was charged in the US with conspiracy and other charges related to acquiring U.S.-made electronics on behalf of the Russian government and military.
+The Estonian man is accused of having helped the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

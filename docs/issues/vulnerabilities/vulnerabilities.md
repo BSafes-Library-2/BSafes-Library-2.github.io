@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers disclose critical sandbox escape bug in vm2 sandbox library<a href="https://securityaffairs.com/144582/hacking/vm2-rce-sandbox-escape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the vm2 JavaScript sandbox library addressed a critical Remote Code Execution vulnerability.
+The developers behind the vm2 JavaScript sandbox module have addressed a critical vulnerability, tracked as CVE-2023-29017&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

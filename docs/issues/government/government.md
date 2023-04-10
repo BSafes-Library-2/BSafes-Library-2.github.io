@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required<a href="https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added&nbsp; five security flaws &nbsp;to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation in the wild. This includes three high-severity flaws in the Veritas Backup Exec Agent software (CVE-2021-27876, CVE-2021-27877, and CVE-2021-27878) that could lead to the execution of privileged commands on the underlying system. The flaws were&nbsp; fixed &nbsp;in a patch released by Veritas in March 2021. CVE-2021-27876 &nbsp;(CVSS score: 8.1) - Veritas Backup Exec Agent File Access Vulnerability CVE-2021-27877 &nbsp;(CVSS score: 8.2) - Veritas Backup Exec Agent Improper Authentication Vulnerability CVE-2021-27878 &nbsp;(CVSS score: 8.8) - Veritas Backup Exec Agent Command Execution Vulnerability Google-owned Mandiant, in a&nbsp; report &nbsp;published last week, revealed that an affiliate associated with the&nbsp; BlackCat &nbsp;(aka ALPHV and Noberus) ransomware operation is targeting publicly exposed Veritas Backup Exec in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Veritas Backup Exec flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144561/security/veritas-backup-exec-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA has added Veritas Backup Exec flaws, which were exploited in ransomware attacks, to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following five new issues to its&nbsp;Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
