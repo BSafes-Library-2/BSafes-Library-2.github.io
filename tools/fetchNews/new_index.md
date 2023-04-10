@@ -34,6 +34,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon Vulnerability Exposes Sensitive Information: Data Leak Alert<a href="https://www.parisbeacon.com/mastodon-vulnerability-exposes-sensitive-information-data-leak-alert/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability has been labeled CVE-2023-28853, with a " high " risk assessment. Mastodon versions from 2.5.0 were affected, but the developers have since closed the security gaps in versions 4.1.2, 4.0.4, and 3.5.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required<a href="https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added  five security flaws  to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation in the wild. This includes three high-severity flaws in the Veritas Backup Exec Agent software (CVE-2021-27876, CVE-2021-27877, and CVE-2021-27878) that could lead to the execution of privileged commands on the underlying system. The flaws were  fixed  in a patch released by Veritas in March 2021. CVE-2021-27876  (CVSS score: 8.1) - Veritas Backup Exec Agent File Access Vulnerability CVE-2021-27877  (CVSS score: 8.2) - Veritas Backup Exec Agent Improper Authentication Vulnerability CVE-2021-27878  (CVSS score: 8.8) - Veritas Backup Exec Agent Command Execution Vulnerability Google-owned Mandiant, in a  report  published last week, revealed that an affiliate associated with the  BlackCat  (aka ALPHV and Noberus) ransomware operation is targeting publicly exposed Veritas Backup Exec in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers disclose critical sandbox escape bug in vm2 sandbox library<a href="https://securityaffairs.com/144582/hacking/vm2-rce-sandbox-escape.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The development team behind the vm2 JavaScript sandbox library addressed a critical Remote Code Execution vulnerability.
+The developers behind the vm2 JavaScript sandbox module have addressed a critical vulnerability, tracked as CVE-2023-29017 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hide Backdoors Behind Malicious Self-Extracting Archives<a href="https://cyware.com/news/hackers-hide-backdoors-behind-malicious-self-extracting-archives-345b1e28"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are incorporating harmful features into self-extracting archives created with WinRAR, which contain benign decoy files. This tactic enables them to implant backdoors on the targeted system without arousing any suspicion. An apparently empty SFX archive file can be missed by technol ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 414 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144578/breaking-news/security-affairs-newsletter-round-414-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+ CISA adds Veritas Backup Exec flaws to its Known Exploited Vulnerabilities catalogApple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Scam Alerts Users About YouTube Altering Policy<a href="https://cyware.com/news/new-scam-alerts-users-about-youtube-altering-policy-d158f61b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing scam has come to light that uses YouTube's genuine no-reply@youtube[.]com email address to trick users into revealing their login details. The phishing email write-up contains a YouTube video and text informing users about YouTube’s new monetization policy and new rules. Meanwhile, YouTu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian National charged with helping Russia acquire U.S. hacking tools and electronics<a href="https://securityaffairs.com/144567/cyber-crime/estonian-national-helped-russia-acquire-us-electronics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Andrey Shevlyakov, an Estonian national, was charged in the US with conspiracy and other charges related to acquiring U.S.-made electronics on behalf of the Russian government and military.
+The Estonian man is accused of having helped the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoClippy: New Clipper Malware That Targets Portuguese Users<a href="https://cyware.com/news/cryptoclippy-new-clipper-malware-that-targets-portuguese-users-0b2c1dda"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals launched a malvertising campaign involving malware named CryptoClippy to pilfer cryptocurrency from users in Portugal. Discovered by Palo Alto Networks Unit 42, the campaign uses SEO poisoning techniques to push users looking for "WhatsApp web" to fake domains containing malicious so ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FusionCore - An Emerging Malware-as-a-Service Group in Europe<a href="https://cyware.com/news/fusioncore-an-emerging-malware-as-a-service-group-in-europe-dfa545c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active since November, FusionCore acts as a one-stop-shop for cybercriminals; it offers services such as malware-as-a-subscription, hacking for hire, and ransomware. It has rolled out a ransomware affiliate program as well called AnthraXXXLocker. Typhon Reborn is one example of the group's propriet ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost Every Organization Suffered a Cyberattack, Says Sophos<a href="https://cyware.com/news/almost-every-organization-suffered-a-cyberattack-says-sophos-75fe16c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last year, almost all organizations, at 94%, have faced some type of cyberattack. The survey data presented below is derived from responses provided by 3,000 cybersecurity and IT leaders from 14 countries and was collected between January and February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwanese PC Company MSI Falls Victim to Ransomware Attack<a href="https://thehackernews.com/2023/04/taiwanese-pc-company-msi-falls-victim.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese PC company MSI (short for Micro-Star International) officially confirmed it was the victim of a cyber attack on its systems. The company said it "promptly" initiated incident response and recovery measures after detecting "network anomalies." It also said it alerted law enforcement agencies of the matter. That said, MSI did not disclose any specifics about when the attack took place and if it entailed the exfiltration of any proprietary information, including source code. "Currently, the affected systems have gradually resumed normal operations, with no significant impact on financial business," the company said in a  brief notice  shared on Friday. In a  regulatory filing  with the Taiwan Stock Exchange, it said that it's setting up enhanced controls of its network and infrastructure to ensure the security of data. MSI is further urging users to obtain firmware/BIOS updates only from its official website, and refrain from downloading
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Veritas Backup Exec flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144561/security/veritas-backup-exec-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA has added Veritas Backup Exec flaws, which were exploited in ransomware attacks, to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following five new issues to its Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: North Korea-Linked Hackers Target Subject Experts and Think Tanks<a href="https://cyware.com/news/google-north-korea-linked-hackers-target-subject-experts-and-think-tanks-68508ff1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s TAG identified a new campaign by the North Korean ARCHIPELAGO threat cluster (aka APT43) targeting U.S. and South Korean governments, think tanks, military personnel, academics, policymakers, and researchers. Most notably, ARCHIPELAGO used fraudulent Google Chrome extensions in combination ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Color1337: Linux Cryptomining Attack Campaign Used uhQCCSpB Bot<a href="https://cyberwarzone.com/linux-cryptomining-attack-color1337/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use a bot called uhQCCSpB that installs and launches a Monero miner on the infected machine. After killing all other miners on the device, the attacker uses two different strategies to maximize access to the compromised Linux machine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
