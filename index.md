@@ -34,6 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Darknet Market Styx Offers a Variety of Frauds and Services<a href="https://cyware.com/news/new-darknet-market-styx-offers-a-variety-of-frauds-and-services-ad2753e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new dark web marketplace identified as Styx is gaining popularity among cybercriminals for providing access to a wide range of illegal services such as DDoS attacks, banking trojans, stolen IDs, and 2FA/MFA bypass solutions. It uses Telegram channels where various automated bots interact wit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian National Charged in U.S. for Acquiring Electronics and Metasploit Pro for Russian Military<a href="https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Estonian national has been  charged  in the U.S. for purchasing U.S.-made electronics on behalf of the Russian government and military. The 45-year-old individual, Andrey Shevlyakov, was arrested on March 28, 2023, in Tallinn. He has been indicted with 18 counts of conspiracy and other charges. If found guilty, he faces up to 20 years in prison. Court documents allege that Shevlyakov operated front companies that were used to import sensitive electronics from U.S. manufacturers. The goods were then shipped to Russia, bypassing export restrictions. The purchased items included analog-to-digital converters and low-noise pre-scalers and synthesizers that are found in defense systems. Shevlyakov is also accused of attempting to acquire hacking tools like Rapid7 Metasploit Pro, a legitimate penetration testing and adversary simulation software. Although Shevlyakov was placed in Entity List in 2012 by the U.S. government for acting as a procurement agent for Russia, he is said to ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds zero-day bugs in iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144638/security/apple-flaws-cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added two flaws in iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following five new issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the sting operation to catch North Korean crypto hackers<a href="https://www.ctvnews.ca/sci-tech/inside-the-international-sting-operation-to-catch-north-korean-crypto-hackers-1.6348162?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late January, the hackers moved a fraction of their loot to a crypto account pegged to the dollar, temporarily relinquishing control of it. The investigators pounced, flagging the transaction to U.S. law enforcement officials to freeze the money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Flood NPM with Bogus Packages Causing a DoS Attack<a href="https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are flooding the npm open source package repository with bogus packages that briefly even resulted in a denial-of-service (DoS) attack. "The threat actors create malicious websites and publish empty packages with links to those malicious websites, taking advantage of open-source ecosystems' good reputation on search engines," Checkmarx's Jossef Harush Kadouri  said  in a report published last week. "The attacks caused a denial-of-service (DoS) that made NPM unstable with sporadic 'Service Unavailable' errors." While  similar campaigns  were recently observed propagating phishing links, the latest wave pushed the number of package versions to 1.42 million, a dramatic uptick from the approximate 800,000 packages released on npm. The attack technique leverages the fact that open source repositories are ranked higher on search engine results to create rogue websites and upload empty npm modules with links to those sites in the README.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SD Worx shuts down UK and Ireland services after cyberattack<a href="https://securityaffairs.com/144629/hacking/sd-worx-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgian HR giant SD Worx was forced to shut down its IT infrastructure for its UK and Ireland services after a cyber attack.
+HR and payroll management firm SD Worx shut down its IT systems for its UK and Ireland services after a cyber attack. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How LockBit Changed Cybersecurity Forever<a href="https://securityintelligence.com/articles/how-lockbit-changed-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operating as a Ransomware-as-a-Service, the group consists of a central team that crafts the malware and manages its website. Meanwhile, the group also grants access to its code to affiliates who help execute the cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Cybersecurity Trends for 2023: From Zero Trust to Cyber Insurance<a href="https://thehackernews.com/2023/04/top-10-cybersecurity-trends-for-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology advances, cyberattacks are becoming more sophisticated. With the increasing use of technology in our daily lives, cybercrime is on the rise, as evidenced by the fact that cyberattacks caused  92% of all data breaches  in the first quarter of 2022. Staying current with cybersecurity trends and laws is crucial to combat these threats, which can significantly impact business development.  In 2023, the cybersecurity market is expected to see new trends, and businesses must be adequately prepared for any developments. Andrey Slastenov, Head of Web Security at Gcore, shares his insights on these trends in this article. 1 —  Application security As businesses shifted online to stay afloat during the pandemic, the forecast for application security spending is projected to surpass $7.5 billion, according to  Statista . Source However, every application might be susceptible to hacking, zero-day attacks, and identity theft. Ensuring application security demands professionals w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos patches three issues in the Sophos Web Security appliance, one of them rated as critical<a href="https://securityaffairs.com/144623/security/sophos-web-appliance-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos addressed three vulnerabilities in Sophos Web Appliance, including a critical flaw that can lead to code execution.
+Cybersecurity vendor Sophos addressed three vulnerabilities in Sophos Web Appliance, including a critical flaw, tracked as CVE-2023-1671...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden cyber officials see auto, food safety as models for security overhaul<a href="https://www.cybersecuritydive.com/news/biden-cyber-auto-food-safety-models-cybersecurity/647206/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The blueprint for holding the technology industry accountable for product security is based on similar efforts that resulted in the automobile industry creating safer cars, Acting National Cyber Director Kemba Walden said last week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1 Million WordPress Sites Infected by Balada Injector Malware Campaign<a href="https://thehackernews.com/2023/04/over-1-million-wordpress-sites-infected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over one million WordPress websites are estimated to have been infected by an ongoing campaign to deploy malware called  Balada Injector   since 2017 . The massive campaign, per GoDaddy's Sucuri, "leverages all known and recently discovered theme and plugin vulnerabilities" to breach WordPress sites. The attacks are known to play out in waves once every few weeks. "This campaign is easily identified by its preference for  String.fromCharCode  obfuscation, the use of freshly registered domain names hosting malicious scripts on random subdomains, and by redirects to various scam sites," security researcher Denis Sinegubko  said . The websites include  fake tech support , fraudulent lottery wins, and rogue CAPTCHA pages urging users to turn on notifications to 'Please Allow to verify, that you are not a robot,' thereby enabling the actors to send spam ads. The report builds on  recent findings  from Doctor Web, which detailed a Linux malware family th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked MERCURY APT behind destructive attacks on hybrid environments<a href="https://securityaffairs.com/144606/apt/mercury-apt-destructive-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group MERCURY is behind destructive attacks on hybrid environments masquerading as a ransomware operation.
+The Microsoft Threat Intelligence team observed a series of destructive attacks on hybrid environments that were carried out by MuddyWater...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leftover data lurks across the enterprise, creating a business risk<a href="https://www.cybersecuritydive.com/news/data-retention-cyber-risk/647131/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing makes data storage scalable and readily accessible. More than 85% of companies store some or all of their data in the cloud, according to a Blancco study.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting your business with Wazuh: The open source security platform<a href="https://thehackernews.com/2023/04/protecting-your-business-with-wazuh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, businesses face a variety of security challenges like cyber attacks, compliance requirements, and endpoint security administration. The threat landscape constantly evolves, and it can be overwhelming for businesses to keep up with the latest security trends. Security teams use processes and security solutions to curb these challenges. These solutions include firewalls, antiviruses, data loss prevention services, and XDRs (Extended Detection and Response). Wazuh is a free and open source security platform that unifies XDR and SIEM (System Information and Event Management) capabilities. It comprises a universal security agent for event data collection from various sources and the central components for event analysis, correlation, and alerting. The central components include the Wazuh server, dashboard, and indexer. Wazuh offers a suite of modules capable of providing extended threat detection and response for on-premises and cloud workloads.  In this article, we emphasize the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung employees unwittingly leaked company secret data by using ChatGPT<a href="https://securityaffairs.com/144597/security/samsung-data-leak-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung employees have unwittingly leaked top secret data by providing them to the popular chatbot service ChatGPT.
+Samsung employees have shared internal documents, including meeting notes and source code, with the popular chatbot service ChatGPT....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Elmbrook School District exposes personal information about former and current employees<a href="https://www.jsonline.com/story/communities/west/2023/04/10/names-social-security-numbers-exposed-in-data-breach-at-elmbrook/70077855007/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once it learned of the breach, the district investigated, with the help of cybersecurity professionals. The initial group of employees affected was informed in late September and October 2022, Chief Strategy Officer Chris Thompson said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rochester Public Schools to close Monday after possible cyberattack<a href="https://www.fox9.com/news/rochester-schools-hacking-investigation-district-to-close-monday-after-possible-cyber-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The school district detected "unusual activity on the district’s network," Thursday, and responded by shutting down the network and "almost all core technology systems," while staff began an investigation, as per an update posted on its website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung employees unwittingly leaked company's secret data by using ChatGPT<a href="https://securityaffairs.com/144597/security/samsung-data-leak-chatgpt.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung Electronics is warning its employees of the potential risks associated with the use of ChatGPT, explaining that there is no way to prevent the leak of the data provided to OpenAI’s chatbot service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
