@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estonian National Charged in U.S. for Acquiring Electronics and Metasploit Pro for Russian Military<a href="https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Estonian national has been&nbsp; charged &nbsp;in the U.S. for purchasing U.S.-made electronics on behalf of the Russian government and military. The 45-year-old individual, Andrey Shevlyakov, was arrested on March 28, 2023, in Tallinn. He has been indicted with 18 counts of conspiracy and other charges. If found guilty, he faces up to 20 years in prison. Court documents allege that Shevlyakov operated front companies that were used to import sensitive electronics from U.S. manufacturers. The goods were then shipped to Russia, bypassing export restrictions. The purchased items included analog-to-digital converters and low-noise pre-scalers and synthesizers that are found in defense systems. Shevlyakov is also accused of attempting to acquire hacking tools like Rapid7 Metasploit Pro, a legitimate penetration testing and adversary simulation software. Although Shevlyakov was placed in Entity List in 2012 by the U.S. government for acting as a procurement agent for Russia, he is said to ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

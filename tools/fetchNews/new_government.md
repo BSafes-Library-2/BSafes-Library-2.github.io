@@ -11,6 +11,35 @@ nav_order: 900075
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA adds zero-day bugs in iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144638/security/apple-flaws-cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added two flaws in iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following five new issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden cyber officials see auto, food safety as models for security overhaul<a href="https://www.cybersecuritydive.com/news/biden-cyber-auto-food-safety-models-cybersecurity/647206/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The blueprint for holding the technology industry accountable for product security is based on similar efforts that resulted in the automobile industry creating safer cars, Acting National Cyber Director Kemba Walden said last week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required<a href="https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html"> Full Text</a>
 </p>
 <details>

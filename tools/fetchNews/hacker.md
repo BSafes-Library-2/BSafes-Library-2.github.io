@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google: North Korea-Linked Hackers Target Subject Experts and Think Tanks<a href="https://cyware.com/news/google-north-korea-linked-hackers-target-subject-experts-and-think-tanks-68508ff1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s TAG identified a new campaign by the North Korean ARCHIPELAGO threat cluster (aka APT43) targeting U.S. and South Korean governments, think tanks, military personnel, academics, policymakers, and researchers. Most notably, ARCHIPELAGO used fraudulent Google Chrome extensions in combination ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,49 @@ nav_order: 900029
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Samsung employees unwittingly leaked company secret data by using ChatGPT<a href="https://securityaffairs.com/144597/security/samsung-data-leak-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung employees have unwittingly leaked top secret data by providing them to the popular chatbot service ChatGPT.
+Samsung employees have shared internal documents, including meeting notes and source code, with the popular chatbot service ChatGPT....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data breach at Elmbrook School District exposes personal information about former and current employees<a href="https://www.jsonline.com/story/communities/west/2023/04/10/names-social-security-numbers-exposed-in-data-breach-at-elmbrook/70077855007/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once it learned of the breach, the district investigated, with the help of cybersecurity professionals. The initial group of employees affected was informed in late September and October 2022, Chief Strategy Officer Chris Thompson said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung employees unwittingly leaked company's secret data by using ChatGPT<a href="https://securityaffairs.com/144597/security/samsung-data-leak-chatgpt.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Samsung Electronics is warning its employees of the potential risks associated with the use of ChatGPT, explaining that there is no way to prevent the leak of the data provided to OpenAI’s chatbot service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Mastodon Vulnerability Exposes Sensitive Information: Data Leak Alert<a href="https://www.parisbeacon.com/mastodon-vulnerability-exposes-sensitive-information-data-leak-alert/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

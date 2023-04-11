@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the sting operation to catch North Korean crypto hackers<a href="https://www.ctvnews.ca/sci-tech/inside-the-international-sting-operation-to-catch-north-korean-crypto-hackers-1.6348162?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late January, the hackers moved a fraction of their loot to a crypto account pegged to the dollar, temporarily relinquishing control of it. The investigators pounced, flagging the transaction to U.S. law enforcement officials to freeze the money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

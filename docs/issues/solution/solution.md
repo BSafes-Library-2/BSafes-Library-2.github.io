@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting your business with Wazuh: The open source security platform<a href="https://thehackernews.com/2023/04/protecting-your-business-with-wazuh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, businesses face a variety of security challenges like cyber attacks, compliance requirements, and endpoint security administration. The threat landscape constantly evolves, and it can be overwhelming for businesses to keep up with the latest security trends. Security teams use processes and security solutions to curb these challenges. These solutions include firewalls, antiviruses, data loss prevention services, and XDRs (Extended Detection and Response). Wazuh is a free and open source security platform that unifies XDR and SIEM (System Information and Event Management) capabilities. It comprises a universal security agent for event data collection from various sources and the central components for event analysis, correlation, and alerting. The central components include the Wazuh server, dashboard, and indexer. Wazuh offers a suite of modules capable of providing extended threat detection and response for on-premises and cloud workloads.&nbsp; In this article, we emphasize the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

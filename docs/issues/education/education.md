@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How LockBit Changed Cybersecurity Forever<a href="https://securityintelligence.com/articles/how-lockbit-changed-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operating as a Ransomware-as-a-Service, the group consists of a central team that crafts the malware and manages its website. Meanwhile, the group also grants access to its code to affiliates who help execute the cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

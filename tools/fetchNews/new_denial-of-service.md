@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Flood NPM with Bogus Packages Causing a DoS Attack<a href="https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are flooding the npm open source package repository with bogus packages that briefly even resulted in a denial-of-service (DoS) attack. "The threat actors create malicious websites and publish empty packages with links to those malicious websites, taking advantage of open-source ecosystems' good reputation on search engines," Checkmarx's Jossef Harush Kadouri&nbsp; said &nbsp;in a report published last week. "The attacks caused a denial-of-service (DoS) that made NPM unstable with sporadic 'Service Unavailable' errors." While&nbsp; similar campaigns &nbsp;were recently observed propagating phishing links, the latest wave pushed the number of package versions to 1.42 million, a dramatic uptick from the approximate 800,000 packages released on npm. The attack technique leverages the fact that open source repositories are ranked higher on search engine results to create rogue websites and upload empty npm modules with links to those sites in the README.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

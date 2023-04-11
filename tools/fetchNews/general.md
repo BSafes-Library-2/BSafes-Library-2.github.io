@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+April 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 414 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144578/breaking-news/security-affairs-newsletter-round-414-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+&nbsp;CISA adds Veritas Backup Exec flaws to its Known Exploited Vulnerabilities catalogApple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost Every Organization Suffered a Cyberattack, Says Sophos<a href="https://cyware.com/news/almost-every-organization-suffered-a-cyberattack-says-sophos-75fe16c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the last year, almost all organizations, at 94%, have faced some type of cyberattack. The survey data presented below is derived from responses provided by 3,000 cybersecurity and IT leaders from 14 countries and was collected between January and February.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
