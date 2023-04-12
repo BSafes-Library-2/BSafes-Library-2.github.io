@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Color1337 Cryptojacking Campaign Churns Juices From Linux Servers<a href="https://cyware.com/news/color1337-cryptojacking-campaign-churns-juices-from-linux-servers-e882448f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Tehtris analyzed a cryptojacking campaign targeting Linux systems and infecting those with a malware bot called uhQCCSpB. With the bot, attackers use two strategies to launch a Monero miner on the infected machine. The "diicot" cryptominer is activated on machines that have mo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered "By-Design" Flaw in Microsoft Azure Could Expose Storage Accounts to Hackers<a href="https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "by-design flaw" uncovered in Microsoft Azure could be exploited by attackers to gain access to storage accounts, move laterally in the environment, and even execute remote code. "It is possible to abuse and leverage Microsoft Storage Accounts by manipulating Azure Functions to steal access-tokens of higher privilege identities, move laterally, potentially access critical business assets, and execute remote code (RCE)," Orca said in a new  report  shared with The Hacker News. The exploitation path that underpins this attack is a mechanism called  Shared Key authorization , which is enabled by default on storage accounts. According to Microsoft, Azure generates two 512-bit storage account access keys when creating a storage account. These keys can be used to authorize access to data via Shared Key authorization, or via SAS tokens that are signed with the shared key. "Storage account access keys provide full access to the configuration of a storage accoun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Addressing the Security Risks of AI<a href="https://www.lawfareblog.com/addressing-security-risks-ai"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI’s vulnerability to adversarial attack is not futuristic, and there are reasonable measures that should be taken now to address the risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A “By-Design” flaw in Microsoft Azure can allow storage accounts takeover<a href="https://securityaffairs.com/144682/hacking/microsoft-azure-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Microsoft Azure could be exploited by attackers to gain access to storage accounts, perform lateral movements, and even execute remote code.
+Researchers from the security firm Orca demonstrated how to abuse Microsoft Azure Shared Key authorization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Address Dozens of ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-dozens-of-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The total number of vulnerabilities patched this month is significantly smaller than in February and March, when the industrial giants addressed roughly 100 security issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Turn to Android Loaders on Dark Web to Evade Google Play Security<a href="https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious loader programs capable of trojanizing Android applications are being traded on the criminal underground for up to $20,000 as a way to evade Google Play Store defenses. "The most popular application categories to hide malware and unwanted software include cryptocurrency trackers, financial apps, QR-code scanners, and even dating apps," Kaspersky  said  in a new report based on messages posted on online forums between 2019 and 2023. Dropper apps  are the primary means for threat actors looking to sneak malware via the Google Play Store. Such apps often masquerade as seemingly innocuous apps, with malicious updates introduced upon clearing the review process and the applications have amassed a significant user base. This is achieved by using a loader program that's responsible for injecting malware into a clean app, which is then made available for download from the app marketplace. Users who install the tampered app are prompted to grant it intrusive permiss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yum! Brands, the owner of KFC, Taco Bell and Pizza Hut, discloses data breach<a href="https://securityaffairs.com/144676/data-breach/yum-brands-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yum! Brands, the company that owns the KFC, Pizza Hut, and Taco Bell brands, disclosed a data breach after the January ransomware attack.
+On January 13, 2023, Yum! Brands suffered a cyberattack that forced the company to take its systems offline closing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Disguised as Document from Ukraine's Energoatom Delivers Havoc Demon Backdoor<a href="https://www.fortinet.com/blog/threat-research/malware-disguised-as-document-ukraine-energoatom-delivers-havoc-demon-backdoor?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When opened, it displays an image instructing the user to enable Word’s macro code execution to reveal information supposedly protected by M.E. Doc (My Electronic Document).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] A Step-by-Step Guide to Cyber Risk Assessment<a href="https://thehackernews.com/2023/04/ebook-step-by-step-guide-to-cyber-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's perilous cyber risk landscape, CISOs and CIOs must defend their organizations against relentless cyber threats, including ransomware, phishing, attacks on infrastructure, supply chain breaches, malicious insiders, and much more. Yet at the same time, security leaders are also under tremendous pressure to reduce costs and invest wisely.  One of the most effective ways for CISOs and CIOs to make the best use of their limited resources to protect their organizations is by conducting a cyber risk assessment. A comprehensive cyber risk assessment can help: Identify vulnerabilities and threats Prioritize security investments Assess cybersecurity maturity Communicate cyber risk to executives Provide the basis for cyber risk quantification A new guide by cybersecurity optimization provider CYE ( download here ) explains how this can be accomplished. The guide outlines several approaches to cyber risk assessments and describes the necessary steps that can yield solid in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released emergency updates to fix recently disclosed zero-day bugs on older devices<a href="https://securityaffairs.com/144667/hacking/apple-released-emergency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released updates to backport patches addressing two actively exploited zero-day vulnerabilities in older iPhones, iPads, and Macs.
+Apple has released emergency updates to backport security patches that address two actively exploited zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium Anti-Phishing Shield (BAPS) Stops 14 Million Dangerous Clicks in 2022<a href="https://cyberwarzone.com/belgium-anti-phishing-shield-baps-stops-14-million-dangerous-clicks-in-2022/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgium Anti-Phishing Shield (BAPS) has prevented a staggering 14 million clicks to suspicious websites in 2022, thanks to the unique collaboration between the Centre for Cybersecurity Belgium (CCB) and the general public.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Stealer Malware Distributed via 13 NuGet Packages<a href="https://thehackernews.com/2023/04/cryptocurrency-stealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the inner workings of the cryptocurrency stealer malware that was distributed via 13 malicious NuGet packages as part of a supply chain attack targeting .NET developers. The sophisticated typosquatting campaign, which was  detailed  by JFrog late last month, impersonated legitimate packages to execute PowerShell code designed to retrieve a follow-on binary from a hard-coded server. The  two-stage attack  culminates in the deployment of a .NET-based persistent backdoor, called Impala Stealer, which is capable of gaining unauthorized access to users' cryptocurrency accounts. "The payload used a very rare obfuscation technique, called '.NET AoT compilation,' which is a lot more stealthy than using 'off the shelf' obfuscators while still making the binary hard to reverse engineer," JFrog told The Hacker News in a statement. .NET  AoT compilation  is an  optimization technique  that allows apps to be ahead-of-time c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack hit the water controllers for irrigating fields in the Jordan Valley<a href="https://securityaffairs.com/144643/hacking/cyber-attacks-controllers-for-irrigating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack paralyzed the water controllers for irrigating fields in the Jordan Valley that are operated by the Galil Sewage Corporation.
+A cyberattack blocked several controllers for irrigating fields in the Jordan Valley. The systems operated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Battle could be brewing over new FCC data breach reporting rules<a href="https://www.csoonline.com/article/3692823/battle-could-be-brewing-over-new-fcc-data-breach-reporting-rules.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An expanded data breach definition and the telcos’ desire to link notifications to “concrete harm” are among the most controversial aspects of the proposed FCC data breach reporting rules.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miscreants could use Azure access keys as backdoors<a href="https://www.theregister.com/2023/04/11/orca_azure_access_keys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A design flaw in Microsoft Azure – that shared key authorization is enabled by default when creating storage accounts – could give attackers full access to your environment, according to Orca Security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fivecast Completes Series A Raise With New US and Existing Australian VC Investors<a href="https://finance.yahoo.com/news/fivecast-completes-us-20m-au-000000577.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian open-source intelligence (OSINT) software company has closed its Series A funding round with almost US$20 million raised to fuel its expansion and service contracts in key markets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Advisories on Critical ICS and SCADA Vulnerabilities<a href="https://cyware.com/news/cisa-issues-advisories-on-critical-ics-and-scada-vulnerabilities-8a9b5452"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple advisories have been released by the CISA covering bugs found in ICS and SCADA software from several vendors including Rockwell Automation, Hitachi Energy, JTEKT Electronics, Korenix, mySCADA Technologies, and Industrial Control Links. ScadaFlex II series controllers by Industrial Control  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why reporting an incident only makes the cybersecurity community stronger<a href="https://www.csoonline.com/article/3692815/why-reporting-an-incident-only-makes-the-cybersecurity-community-stronger.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs and cyber leaders may not see reporting a breach as the most pleasant of tasks, but experts say mandatory and voluntary sharing of intelligence around incidents can only improve the readiness and resilience of responders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Darknet Market Styx Offers a Variety of Frauds and Services<a href="https://cyware.com/news/new-darknet-market-styx-offers-a-variety-of-frauds-and-services-ad2753e9"> Full Text</a>
@@ -50,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estonian National Charged in U.S. for Acquiring Electronics and Metasploit Pro for Russian Military<a href="https://thehackernews.com/2023/04/estonian-national-charged-in-us-for.html"> Full Text</a>
@@ -66,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds zero-day bugs in iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144638/security/apple-flaws-cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -83,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the sting operation to catch North Korean crypto hackers<a href="https://www.ctvnews.ca/sci-tech/inside-the-international-sting-operation-to-catch-north-korean-crypto-hackers-1.6348162?&web_view=true"> Full Text</a>
@@ -99,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Flood NPM with Bogus Packages Causing a DoS Attack<a href="https://thehackernews.com/2023/04/hackers-flood-npm-with-bogus-packages.html"> Full Text</a>
@@ -115,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SD Worx shuts down UK and Ireland services after cyberattack<a href="https://securityaffairs.com/144629/hacking/sd-worx-suffered-cyberattack.html"> Full Text</a>
@@ -132,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How LockBit Changed Cybersecurity Forever<a href="https://securityintelligence.com/articles/how-lockbit-changed-cybersecurity/?&web_view=true"> Full Text</a>
@@ -148,7 +440,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 10 Cybersecurity Trends for 2023: From Zero Trust to Cyber Insurance<a href="https://thehackernews.com/2023/04/top-10-cybersecurity-trends-for-2023.html"> Full Text</a>
@@ -164,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos patches three issues in the Sophos Web Security appliance, one of them rated as critical<a href="https://securityaffairs.com/144623/security/sophos-web-appliance-flaws.html"> Full Text</a>
@@ -181,7 +473,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden cyber officials see auto, food safety as models for security overhaul<a href="https://www.cybersecuritydive.com/news/biden-cyber-auto-food-safety-models-cybersecurity/647206/?&web_view=true"> Full Text</a>
@@ -197,7 +489,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 1 Million WordPress Sites Infected by Balada Injector Malware Campaign<a href="https://thehackernews.com/2023/04/over-1-million-wordpress-sites-infected.html"> Full Text</a>
@@ -213,7 +505,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked MERCURY APT behind destructive attacks on hybrid environments<a href="https://securityaffairs.com/144606/apt/mercury-apt-destructive-attacks.html"> Full Text</a>
@@ -230,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leftover data lurks across the enterprise, creating a business risk<a href="https://www.cybersecuritydive.com/news/data-retention-cyber-risk/647131/?&web_view=true"> Full Text</a>
@@ -246,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protecting your business with Wazuh: The open source security platform<a href="https://thehackernews.com/2023/04/protecting-your-business-with-wazuh.html"> Full Text</a>
@@ -262,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung employees unwittingly leaked company secret data by using ChatGPT<a href="https://securityaffairs.com/144597/security/samsung-data-leak-chatgpt.html"> Full Text</a>
@@ -279,7 +571,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data breach at Elmbrook School District exposes personal information about former and current employees<a href="https://www.jsonline.com/story/communities/west/2023/04/10/names-social-security-numbers-exposed-in-data-breach-at-elmbrook/70077855007/?&web_view=true"> Full Text</a>
@@ -295,7 +587,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rochester Public Schools to close Monday after possible cyberattack<a href="https://www.fox9.com/news/rochester-schools-hacking-investigation-district-to-close-monday-after-possible-cyber-attack?&web_view=true"> Full Text</a>
@@ -311,7 +603,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 10, 2023
+April 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Samsung employees unwittingly leaked company's secret data by using ChatGPT<a href="https://securityaffairs.com/144597/security/samsung-data-leak-chatgpt.html?&web_view=true"> Full Text</a>
