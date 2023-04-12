@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yum! Brands, the owner of KFC, Taco Bell and Pizza Hut, discloses data breach<a href="https://securityaffairs.com/144676/data-breach/yum-brands-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yum! Brands, the company that owns the KFC, Pizza Hut, and Taco Bell brands, disclosed a data breach after the January ransomware attack.
+On January 13, 2023, Yum! Brands suffered a cyberattack that forced the company to take its systems offline&nbsp;closing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

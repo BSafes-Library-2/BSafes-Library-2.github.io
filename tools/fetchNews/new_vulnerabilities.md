@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered "By-Design" Flaw in Microsoft Azure Could Expose Storage Accounts to Hackers<a href="https://thehackernews.com/2023/04/newly-discovered-by-design-flaw-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "by-design flaw" uncovered in Microsoft Azure could be exploited by attackers to gain access to storage accounts, move laterally in the environment, and even execute remote code. "It is possible to abuse and leverage Microsoft Storage Accounts by manipulating Azure Functions to steal access-tokens of higher privilege identities, move laterally, potentially access critical business assets, and execute remote code (RCE)," Orca said in a new&nbsp; report &nbsp;shared with The Hacker News. The exploitation path that underpins this attack is a mechanism called&nbsp; Shared Key authorization , which is enabled by default on storage accounts. According to Microsoft, Azure generates two 512-bit storage account access keys when creating a storage account. These keys can be used to authorize access to data via Shared Key authorization, or via SAS tokens that are signed with the shared key. "Storage account access keys provide full access to the configuration of a storage accoun
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A “By-Design” flaw in Microsoft Azure can allow storage accounts takeover<a href="https://securityaffairs.com/144682/hacking/microsoft-azure-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in Microsoft Azure could be exploited by attackers to gain access to storage accounts, perform lateral movements, and even execute remote code.
+Researchers from the security firm Orca demonstrated how to abuse Microsoft Azure Shared Key authorization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Address Dozens of ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-dozens-of-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The total number of vulnerabilities patched this month is significantly smaller than in February and March, when the industrial giants addressed roughly 100 security issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple released emergency updates to fix recently disclosed zero-day bugs on older devices<a href="https://securityaffairs.com/144667/hacking/apple-released-emergency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released updates to backport patches&nbsp;addressing two actively exploited zero-day vulnerabilities in older iPhones, iPads, and Macs.
+Apple has released emergency updates to backport security patches&nbsp;that address two actively exploited zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Miscreants could use Azure access keys as backdoors<a href="https://www.theregister.com/2023/04/11/orca_azure_access_keys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A design flaw in Microsoft Azure – that shared key authorization is enabled by default when creating storage accounts – could give attackers full access to your environment, according to Orca Security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

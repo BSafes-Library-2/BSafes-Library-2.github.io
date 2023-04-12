@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos patches three issues in the Sophos Web Security appliance, one of them rated as critical<a href="https://securityaffairs.com/144623/security/sophos-web-appliance-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos addressed three vulnerabilities in Sophos Web Appliance, including a critical flaw that can lead to code execution.
+Cybersecurity vendor Sophos addressed three vulnerabilities in Sophos Web Appliance, including a critical flaw, tracked as CVE-2023-1671...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

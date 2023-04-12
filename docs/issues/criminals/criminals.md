@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Turn to Android Loaders on Dark Web to Evade Google Play Security<a href="https://thehackernews.com/2023/04/cybercriminals-turn-to-android-loaders.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious loader programs capable of trojanizing Android applications are being traded on the criminal underground for up to $20,000 as a way to evade Google Play Store defenses. "The most popular application categories to hide malware and unwanted software include cryptocurrency trackers, financial apps, QR-code scanners, and even dating apps," Kaspersky&nbsp; said &nbsp;in a new report based on messages posted on online forums between 2019 and 2023. Dropper apps &nbsp;are the primary means for threat actors looking to sneak malware via the Google Play Store. Such apps often masquerade as seemingly innocuous apps, with malicious updates introduced upon clearing the review process and the applications have amassed a significant user base. This is achieved by using a loader program that's responsible for injecting malware into a clean app, which is then made available for download from the app marketplace. Users who install the tampered app are prompted to grant it intrusive permiss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

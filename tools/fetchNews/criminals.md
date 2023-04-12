@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Darknet Market Styx Offers a Variety of Frauds and Services<a href="https://cyware.com/news/new-darknet-market-styx-offers-a-variety-of-frauds-and-services-ad2753e9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new dark web marketplace identified as Styx is gaining popularity among cybercriminals for providing access to a wide range of illegal services such as DDoS attacks, banking trojans, stolen IDs, and 2FA/MFA bypass solutions.&nbsp;It uses Telegram channels where various automated bots interact wit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

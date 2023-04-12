@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 1 Million WordPress Sites Infected by Balada Injector Malware Campaign<a href="https://thehackernews.com/2023/04/over-1-million-wordpress-sites-infected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over one million WordPress websites are estimated to have been infected by an ongoing campaign to deploy malware called&nbsp; Balada Injector &nbsp; since 2017 . The massive campaign, per GoDaddy's Sucuri, "leverages all known and recently discovered theme and plugin vulnerabilities" to breach WordPress sites. The attacks are known to play out in waves once every few weeks. "This campaign is easily identified by its preference for&nbsp; String.fromCharCode &nbsp;obfuscation, the use of freshly registered domain names hosting malicious scripts on random subdomains, and by redirects to various scam sites," security researcher Denis Sinegubko&nbsp; said . The websites include&nbsp; fake tech support , fraudulent lottery wins, and rogue CAPTCHA pages urging users to turn on notifications to 'Please Allow to verify, that you are not a robot,' thereby enabling the actors to send spam ads. The report builds on&nbsp; recent findings &nbsp;from Doctor Web, which detailed a Linux malware family th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

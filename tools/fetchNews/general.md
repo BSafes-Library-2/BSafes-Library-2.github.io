@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 10 Cybersecurity Trends for 2023: From Zero Trust to Cyber Insurance<a href="https://thehackernews.com/2023/04/top-10-cybersecurity-trends-for-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology advances, cyberattacks are becoming more sophisticated. With the increasing use of technology in our daily lives, cybercrime is on the rise, as evidenced by the fact that cyberattacks caused&nbsp; 92% of all data breaches &nbsp;in the first quarter of 2022. Staying current with cybersecurity trends and laws is crucial to combat these threats, which can significantly impact business development.&nbsp; In 2023, the cybersecurity market is expected to see new trends, and businesses must be adequately prepared for any developments. Andrey Slastenov, Head of Web Security at Gcore, shares his insights on these trends in this article. 1 —&nbsp; Application security As businesses shifted online to stay afloat during the pandemic, the forecast for application security spending is projected to surpass $7.5 billion, according to&nbsp; Statista . Source However, every application might be susceptible to hacking, zero-day attacks, and identity theft. Ensuring application security demands professionals w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leftover data lurks across the enterprise, creating a business risk<a href="https://www.cybersecuritydive.com/news/data-retention-cyber-risk/647131/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing makes data storage scalable and readily accessible. More than 85% of companies store some or all of their data in the cloud, according to a Blancco study.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

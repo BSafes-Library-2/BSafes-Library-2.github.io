@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+[eBook] A Step-by-Step Guide to Cyber Risk Assessment<a href="https://thehackernews.com/2023/04/ebook-step-by-step-guide-to-cyber-risk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's perilous cyber risk landscape, CISOs and CIOs must defend their organizations against relentless cyber threats, including ransomware, phishing, attacks on infrastructure, supply chain breaches, malicious insiders, and much more. Yet at the same time, security leaders are also under tremendous pressure to reduce costs and invest wisely.&nbsp; One of the most effective ways for CISOs and CIOs to make the best use of their limited resources to protect their organizations is by conducting a cyber risk assessment. A comprehensive cyber risk assessment can help: Identify vulnerabilities and threats Prioritize security investments Assess cybersecurity maturity Communicate cyber risk to executives Provide the basis for cyber risk quantification A new guide by cybersecurity optimization provider CYE ( download here ) explains how this can be accomplished. The guide outlines several approaches to cyber risk assessments and describes the necessary steps that can yield solid in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

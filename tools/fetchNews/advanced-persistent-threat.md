@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked MERCURY APT behind destructive attacks on hybrid environments<a href="https://securityaffairs.com/144606/apt/mercury-apt-destructive-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group&nbsp;MERCURY is behind destructive attacks on hybrid environments masquerading as a ransomware operation.
+The Microsoft Threat Intelligence team observed a series of destructive attacks on hybrid environments that were carried out by MuddyWater...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

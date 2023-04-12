@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SD Worx shuts down UK and Ireland services after cyberattack<a href="https://securityaffairs.com/144629/hacking/sd-worx-suffered-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belgian HR giant SD Worx was forced to shut down its IT infrastructure for its UK and Ireland services after a cyber attack.
+HR and payroll management firm SD Worx shut down its IT systems for its UK and Ireland services after a cyber attack. The company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rochester Public Schools to close Monday after possible cyberattack<a href="https://www.fox9.com/news/rochester-schools-hacking-investigation-district-to-close-monday-after-possible-cyber-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The school district detected "unusual activity on the district’s network," Thursday, and responded by shutting down the network and "almost all core technology systems," while staff began an investigation, as per an update posted on its website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
