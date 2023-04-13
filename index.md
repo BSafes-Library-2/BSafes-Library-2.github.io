@@ -34,6 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A leak of files could be America’s worst intelligence breach in a decade<a href="https://www.economist.com/united-states/2023/04/10/a-leak-of-files-could-be-americas-worst-intelligence-breach-in-a-decade?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked files, which include military assessments on the war in Ukraine and CIA reports on a range of global issues, came to widespread attention when some appeared on Telegram, a messaging app widely used in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel-based Spyware Firm QuaDream Targets High-Risk iPhones with Zero-Click Exploit<a href="https://thehackernews.com/2023/04/israel-based-spyware-firm-quadream.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors using hacking tools from an Israeli surveillanceware vendor named QuaDream targeted at least five members of civil society in North America, Central Asia, Southeast Asia, Europe, and the Middle East. According to findings from a group of researchers from the Citizen Lab, the spyware campaign was directed against journalists, political opposition figures, and an NGO worker in 2021. The names of the victims were not disclosed. It's also suspected that the company abused a zero-click exploit dubbed  ENDOFDAYS  in iOS 14 to deploy spyware as a zero-day in version 14.4 and 14.4.2. There is no evidence that the exploit has been used after March 2021. ENDOFDAYS "appears to make use of invisible iCloud calendar invitations sent from the spyware's operator to victims," the researchers said , adding the .ics files contain invites to two backdated and overlapping events so as to not alert the users.  The attacks are suspected to have leveraged a quirk in iOS 1
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyundai suffered a data breach that impacted customers in France and Italy<a href="https://securityaffairs.com/144732/data-breach/hyundai-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyundai disclosed a data breach that impacted Italian and French car owners and clients who booked a test drive.
+Hyundai has suffered a data breach that impacted Italian and French car owners and customers who booked a test drive.
+Threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the EU Should Stop Talking About Digital Sovereignty<a href="https://www.cfr.org/blog/why-eu-should-stop-talking-about-digital-sovereignty?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of pursuing digital sovereignty, the EU should adopt the concept of digital responsibility, which emphasizes fostering cybersecurity partnerships with trusted organizations outside of government.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Service Accounts Challenge: Can't See or Secure Them Until It's Too Late<a href="https://thehackernews.com/2023/04/the-service-accounts-challenge-cant-see.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Here's a hard question to answer: 'How many service accounts do you have in your environment?'. A harder one is: 'Do you know what these accounts are doing?'. And the hardest is probably: 'If any of your service account was compromised and used to access resources would you be able to detect and stop that in real-time?'.  Since most identity and security teams would provide a negative reply, it's no wonder that  one of the immediate actions today's attackers are doing following an initial endpoint compromised is hunting down unwatched service accounts.  And it's even less of a wonder that in most cases, they would succeed in finding one and leveraging it to spread within the entire environment, getting noticed only when it's too late – after workstations and server got encrypted by ransomware or sensitive data was stolen.  In this article, we unfold the reasons that have caused service accounts to become one of the most dangerous weaknesse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QuaDream surveillance firm’s spyware targeted iPhones with zero-click exploit<a href="https://securityaffairs.com/144723/malware/quadream-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least five members of civil society worldwide have been targeted with spyware and exploits developed by surveillance firm QuaDream.
+Citizen Lab researchers reported that at least five civil society members were victims of spyware and exploits developed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches Critical Vulnerability in Data Analytics Solution<a href="https://www.securityweek.com/fortinet-patches-critical-vulnerability-in-data-analytics-solution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity solutions provider Fortinet this week announced the release of security updates across multiple products, including patches for a critical vulnerability in FortiPresence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent: Microsoft Issues Patches for 97 Flaws, Including Active Ransomware Exploit<a href="https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's the second Tuesday of the month, and Microsoft has released another set of security updates to fix  a total of 97 flaws  impacting its software, one of which has been actively exploited in ransomware attacks in the wild. Seven of the 97 bugs are rated Critical and 90 are rated Important in severity. Interestingly, 45 of the shortcomings are remote code execution flaws, followed by 20 elevation of privilege vulnerabilities. The updates also follow fixes for 26 vulnerabilities in its Edge browser that were released over the past month. The security flaw that's come under active exploitation is  CVE-2023-28252  (CVSS score: 7.8), a privilege escalation bug in the Windows Common Log File System (CLFS) Driver. "An attacker who successfully exploited this vulnerability could gain SYSTEM privileges," Microsoft said in an advisory, crediting researchers Boris Larin, Genwei Jiang, and Quan Jin for reporting the issue. CVE-2023-28252 is the fourth privilege escalation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP April 2023 security updates fix critical vulnerabilities<a href="https://securityaffairs.com/144716/security/sap-april-2023-notes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP fixed two critical bugs that affect the Diagnostics Agent and the BusinessObjects Business Intelligence Platform.
+SAP April 2023 security updates include a total of 24 notes, 19 of which are new vulnerabilities. The most critical vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Announcing the deps.dev API: critical dependency data for secure supply chains<a href="https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of Google’s ongoing efforts to improve open-source security, the Open Source Insights team has built a reliable view of software metadata across five packaging ecosystems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Uncovered as Mastermind in 3CX Supply Chain Attack<a href="https://thehackernews.com/2023/04/lazarus-sub-group-labyrinth-chollima.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise communications service provider 3CX confirmed that the  supply chain attack  targeting its desktop application for Windows and macOS was the handiwork of a threat actor with North Korean nexus. The findings are the result of an interim assessment conducted by Google-owned Mandiant, whose services were enlisted after the intrusion came to light late last month. The threat intelligence and incident response unit is tracking the activity under its uncategorized moniker  UNC4736 . It's worth noting that cybersecurity firm CrowdStrike has attributed the attack to a Lazarus sub-group dubbed Labyrinth Chollima, citing tactical overlaps. The  attack chain , based on analyses from multiple security vendors, entailed the use of DLL side-loading techniques to load an information stealer known as ICONIC Stealer, followed by a second-stage called  Gopuram  in selective attacks aimed at crypto companies. Mandiant's forensic investigation has now revealed that the threat acto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI launched a bug bounty program<a href="https://securityaffairs.com/144707/security/openai-launched-bug-bounty-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI company OpenAI launched a bug bounty program and announced payouts of up to $20,000 for security flaws in its ChatGPT chatbot service.
+OpenAI launched a bug bounty program and it is offering up to $20,000 to bug hunters that will report vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Following the Lazarus group by tracking DeathNote campaign<a href="https://securelist.com/the-lazarus-group-deathnote-campaign/109490/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This threat cluster linked to the North Korean threat actor Lazarus is also known as Operation DreamJob or NukeSped. It's dubbed DeathNote after its malware payloads named Dn.dll or Dn64.dll.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime group exploits Windows zero-day in ransomware attacks<a href="https://securityaffairs.com/144692/hacking/windows-zero-day-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a zero-day in the Windows Common Log File System (CLFS) actively exploited in ransomware attacks.
+Microsoft has addressed a zero-day vulnerability, tracked as CVE-2023-28252, in the Windows Common Log File System (CLFS), which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTX bankruptcy filing highlights security failures<a href="https://www.techtarget.com/searchsecurity/news/365535116/FTX-bankruptcy-filing-highlights-security-failures?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Debtors claim that the defunct cryptocurrency exchange FTX lacked any dedicated security personnel and failed to implement critical access controls for billions of dollars in assets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Pose as Chinese Authorities to Target US-based Chinese Community<a href="https://www.ic3.gov/Media/Y2023/PSA230410?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals exploit widely publicized efforts by the People’s Republic of China government to harass and facilitate the repatriation of individuals living in the United States to build plausibility for their fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS acting CIO: Securing software supply chain remains a challenge for agencies<a href="https://fedscoop.com/irs-cio-securing-software-supply-chain-remains-a-challenge-for-agencies/?hss_channel=tw-1477949676&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finding the right balance between encouraging innovation within development teams and securing the software supply chain remains a challenge for federal agencies, according to the acting chief information officer of the IRS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Breach Email of APT28 Leader, Who’s Wanted by FBI<a href="https://www.hackread.com/ukraine-hackers-breach-apt28-fbi-wanted-hacker/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian hacker group Cyber Resistance, aka Ukrainian Cyber Alliance, has claimed to have hacked the email, social media, and personal accounts of Russian GRU officer Lieutenant Colonel Sergey Alexandrovich Morgachev, the leader of APT28.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 11, 2023 - [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
