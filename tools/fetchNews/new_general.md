@@ -8,6 +8,63 @@ nav_order: 900072
 
 ## General
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the EU Should Stop Talking About Digital Sovereignty<a href="https://www.cfr.org/blog/why-eu-should-stop-talking-about-digital-sovereignty?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instead of pursuing digital sovereignty, the EU should adopt the concept of digital responsibility, which emphasizes fostering cybersecurity partnerships with trusted organizations outside of government.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Service Accounts Challenge: Can't See or Secure Them Until It's Too Late<a href="https://thehackernews.com/2023/04/the-service-accounts-challenge-cant-see.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Here's a hard question to answer: 'How many service accounts do you have in your environment?'. A harder one is: 'Do you know what these accounts are doing?'. And the hardest is probably: 'If any of your service account was compromised and used to access resources would you be able to detect and stop that in real-time?'.&nbsp; Since most identity and security teams would provide a negative reply, it's no wonder that&nbsp; one of the immediate actions today's attackers are doing following an initial endpoint compromised is hunting down unwatched service accounts. &nbsp;And it's even less of a wonder that in most cases, they would succeed in finding one and leveraging it to spread within the entire environment, getting noticed only when it's too late – after workstations and server got encrypted by ransomware or sensitive data was stolen.&nbsp; In this article, we unfold the reasons that have caused service accounts to become one of the most dangerous weaknesse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI launched a bug bounty program<a href="https://securityaffairs.com/144707/security/openai-launched-bug-bounty-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI company OpenAI launched a bug bounty program and announced payouts of up to $20,000 for security flaws in its ChatGPT chatbot service.
+OpenAI launched a bug bounty program and it is offering up to $20,000 to bug hunters that will report vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTX bankruptcy filing highlights security failures<a href="https://www.techtarget.com/searchsecurity/news/365535116/FTX-bankruptcy-filing-highlights-security-failures?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Debtors claim that the defunct cryptocurrency exchange FTX lacked any dedicated security personnel and failed to implement critical access controls for billions of dollars in assets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

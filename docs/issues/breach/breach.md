@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A leak of files could be America’s worst intelligence breach in a decade<a href="https://www.economist.com/united-states/2023/04/10/a-leak-of-files-could-be-americas-worst-intelligence-breach-in-a-decade?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked files, which include military assessments on the war in Ukraine and CIA reports on a range of global issues, came to widespread attention when some appeared on Telegram, a messaging app widely used in Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hyundai suffered a data breach that impacted customers in France and Italy<a href="https://securityaffairs.com/144732/data-breach/hyundai-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyundai disclosed a data breach that impacted Italian and French car owners and clients who booked a test drive.
+Hyundai has suffered a data breach that impacted Italian and French car owners and customers who booked a test drive.
+Threat actors...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

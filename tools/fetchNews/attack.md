@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack hit the water controllers for irrigating fields in the Jordan Valley<a href="https://securityaffairs.com/144643/hacking/cyber-attacks-controllers-for-irrigating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber attack paralyzed the water controllers for irrigating fields in the Jordan Valley that are operated by the Galil Sewage Corporation.
+A cyberattack blocked several controllers for irrigating fields in the Jordan Valley. The systems operated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

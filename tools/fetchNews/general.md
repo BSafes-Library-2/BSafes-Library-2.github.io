@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Addressing the Security Risks of AI<a href="https://www.lawfareblog.com/addressing-security-risks-ai"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI’s vulnerability to adversarial attack is not futuristic, and there are reasonable measures that should be taken now to address the risk.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium Anti-Phishing Shield (BAPS) Stops 14 Million Dangerous Clicks in 2022<a href="https://cyberwarzone.com/belgium-anti-phishing-shield-baps-stops-14-million-dangerous-clicks-in-2022/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgium Anti-Phishing Shield (BAPS) has prevented a staggering 14 million clicks to suspicious websites in 2022, thanks to the unique collaboration between the Centre for Cybersecurity Belgium (CCB) and the general public.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why reporting an incident only makes the cybersecurity community stronger<a href="https://www.csoonline.com/article/3692815/why-reporting-an-incident-only-makes-the-cybersecurity-community-stronger.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs and cyber leaders may not see reporting a breach as the most pleasant of tasks, but experts say mandatory and voluntary sharing of intelligence around incidents can only improve the readiness and resilience of responders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

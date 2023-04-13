@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Uncovered as Mastermind in 3CX Supply Chain Attack<a href="https://thehackernews.com/2023/04/lazarus-sub-group-labyrinth-chollima.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise communications service provider 3CX confirmed that the&nbsp; supply chain attack &nbsp;targeting its desktop application for Windows and macOS was the handiwork of a threat actor with North Korean nexus. The findings are the result of an interim assessment conducted by Google-owned Mandiant, whose services were enlisted after the intrusion came to light late last month. The threat intelligence and incident response unit is tracking the activity under its uncategorized moniker&nbsp; UNC4736 . It's worth noting that cybersecurity firm CrowdStrike has attributed the attack to a Lazarus sub-group dubbed Labyrinth Chollima, citing tactical overlaps. The&nbsp; attack chain , based on analyses from multiple security vendors, entailed the use of DLL side-loading techniques to load an information stealer known as ICONIC Stealer, followed by a second-stage called&nbsp; Gopuram &nbsp;in selective attacks aimed at crypto companies. Mandiant's forensic investigation has now revealed that the threat acto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

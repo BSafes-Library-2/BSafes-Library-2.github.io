@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches Critical Vulnerability in Data Analytics Solution<a href="https://www.securityweek.com/fortinet-patches-critical-vulnerability-in-data-analytics-solution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity solutions provider Fortinet this week announced the release of security updates across multiple products, including patches for a critical vulnerability in FortiPresence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent: Microsoft Issues Patches for 97 Flaws, Including Active Ransomware Exploit<a href="https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's the second Tuesday of the month, and Microsoft has released another set of security updates to fix&nbsp; a total of 97 flaws &nbsp;impacting its software, one of which has been actively exploited in ransomware attacks in the wild. Seven of the 97 bugs are rated Critical and 90 are rated Important in severity. Interestingly, 45 of the shortcomings are remote code execution flaws, followed by 20 elevation of privilege vulnerabilities. The updates also follow fixes for 26 vulnerabilities in its Edge browser that were released over the past month. The security flaw that's come under active exploitation is&nbsp; CVE-2023-28252 &nbsp;(CVSS score: 7.8), a privilege escalation bug in the Windows Common Log File System (CLFS) Driver. "An attacker who successfully exploited this vulnerability could gain SYSTEM privileges," Microsoft said in an advisory, crediting researchers Boris Larin, Genwei Jiang, and Quan Jin for reporting the issue. CVE-2023-28252 is the fourth privilege escalation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP April 2023 security updates fix critical vulnerabilities<a href="https://securityaffairs.com/144716/security/sap-april-2023-notes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SAP fixed two critical bugs that affect the Diagnostics Agent and the BusinessObjects Business Intelligence Platform.
+SAP April 2023 security updates include a total of 24 notes, 19 of which are new vulnerabilities. The most critical vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

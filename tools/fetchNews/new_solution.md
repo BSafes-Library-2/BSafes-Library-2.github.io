@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Announcing the deps.dev API: critical dependency data for secure supply chains<a href="https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of Google’s ongoing efforts to improve open-source security, the Open Source Insights team has built a reliable view of software metadata across five packaging ecosystems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
