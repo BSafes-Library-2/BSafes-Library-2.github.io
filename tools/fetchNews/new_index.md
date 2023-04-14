@@ -34,7 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qbot Takes New Distribution Method to Infect Korean Users<a href="https://cyware.com/news/qbot-takes-new-distribution-method-to-infect-korean-users-7a5265a9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AhnLab has discovered a fresh attack strategy that spreads Qbot malware through malevolent PDF attachments added to replies or forwarded messages in already-existing emails. Qbot or Qakbot follows a destructive attack pattern, shifting from one tactic to another for maximum profits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches New Cybersecurity Initiatives to Strengthen Vulnerability Management<a href="https://thehackernews.com/2023/04/google-launches-new-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday outlined a set of initiatives aimed at improving the vulnerability management ecosystem and establishing greater transparency measures around exploitation. "While the notoriety of zero-day vulnerabilities typically makes headlines, risks remain even after they're known and fixed, which is the real story," the company said in an announcement. "Those risks span everything from lag time in OEM adoption, patch testing pain points, end user update issues and more." Security threats also stem from incomplete patches applied by vendors, with a chunk of the zero-days exploited in the wild turning out to be variants of previously patched vulnerabilities. Mitigating such risks requires addressing the root cause of the vulnerabilities and prioritizing modern secure software development practices to eliminate entire classes of threats and block potential attack avenues. Taking these factors into consideration, Google said it's forming a Hacking
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling Software Supply Chain Security: A Toolbox for Policymakers<a href="https://www.lawfareblog.com/tackling-software-supply-chain-security-toolbox-policymakers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws keep software and entire supply chains vulnerable. It is critical that policymakers work to set regulatory lanes for companies to build safe and secure technology.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Russia-linked APT29 is behind recent attacks targeting NATO and EU<a href="https://securityaffairs.com/144763/apt/apt29-behind-nato-eu-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland intelligence linked the Russian APT29 group to a series of attacks targeting NATO and European Union countries.
+Poland's Military Counterintelligence Service and its Computer Emergency Response Team linked a recent string of attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal email from Dutch Police warns ex-Raidforums users<a href="https://cyberwarzone.com/personal-email-from-dutch-police-warns-ex-raidforums-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch Police, in collaboration with international police organizations, has launched an investigation into Raidforums.com, leading to the platform’s shutdown and the seizure of a dataset containing user information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker: Emerging Cybercrime Group Targeting Businesses with Ransomware<a href="https://thehackernews.com/2023/04/rtm-locker-emerging-cybercrime-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the tactics of a "rising" cybercriminal gang called "Read The Manual" (RTM) Locker that functions as a private ransomware-as-a-service (RaaS) provider and carries out opportunistic attacks to generate illicit profit. "The 'Read The Manual' Locker gang uses affiliates to ransom victims, all of whom are forced to abide by the gang's strict rules," cybersecurity firm Trellix said in a report shared with The Hacker News. "The business-like set up of the group, where affiliates are required to remain active or notify the gang of their leave, shows the organizational maturity of the group, as has also been observed in other groups, such as  Conti ." RTM , first documented by ESET in February 2017,  started off  in 2015 as a banking malware targeting businesses in Russia via drive-by downloads, spam, and phishing emails. Attack chains mounted by the group have since  evolved  to deploy a ransomwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the Kyocera Android printing app can be abused to drop malware<a href="https://securityaffairs.com/144759/hacking/kyocera-android-printing-app-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts warn that a Kyocera Android printing app is vulnerable to improper intent handling and can be abused to drop malware.
+An improper intent handling issue affecting the Kyocera Android printing app can allow malicious applications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious ChatGPT & Google Bard Installers Distribute RedLine Stealer<a href="https://www.hackread.com/chatgpt-google-bard-installers-redline-stealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When a victim installs a malicious file from one of these sponsored ads, their device is hijacked by the RedLine infostealer, which can then steal confidential data, disrupt critical infrastructure, and compromise financial accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Introduces New Device Verification Feature to Prevent Account Takeover Attacks<a href="https://thehackernews.com/2023/04/whatsapp-introduces-new-device.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular instant messaging app WhatsApp on Thursday announced a new account verification feature that ensures that malware running on a user's mobile device doesn't impact their account. "Mobile device malware is one of the biggest threats to people's privacy and security today because it can take advantage of your phone without your permission and use your WhatsApp to send unwanted messages," the Meta-owned company said in an announcement. Called  Device Verification , the security measure is designed to help prevent account takeover (ATO) attacks by blocking the threat actor's connection and allowing targets of the malware infection to use the app without any interruption. In other words, the goal is to deter attackers' use of malware to steal WhatsApp authentication keys and hijack victim accounts, and subsequently impersonate them to distribute spam and phishing links to other contacts. This, in turn, is achieved by introducing a security-token th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed a critical vulnerability in its Data Analytics product<a href="https://securityaffairs.com/144750/security/fortinet-critical-vulnerability-data-analytics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical vulnerability that can lead to remote, unauthenticated access to Redis and MongoDB instances.
+Fortinet has addressed a critical vulnerability, tracked as CVE-2022-41331 (CVSS score of 9.3), in its Fortinet FortiPresence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Hikvision Storage Solutions Exposes Video Security Data<a href="https://www.securityweek.com/critical-vulnerability-in-hikvision-storage-solutions-exposes-video-security-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-28808, has been described by the vendor as an access control issue that can be exploited to obtain administrator permissions by sending specially crafted messages to the targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python-Based "Legion" Hacking Tool Emerges on Telegram<a href="https://thehackernews.com/2023/04/new-python-based-legion-hacking-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging Python-based credential harvester and a hacking tool named Legion is being marketed via Telegram as a way for threat actors to break into various online services for further exploitation. Legion, according to  Cado Labs , includes modules to enumerate vulnerable SMTP servers, conduct remote code execution (RCE) attacks, exploit unpatched versions of Apache, and brute-force cPanel and WebHost Manager (WHM) accounts. The malware is said to bear similarities to another malware family called AndroxGh0st that was first documented by cloud security services provider Lacework in December 2022. Cybersecurity firm SentinelOne, in an analysis published late last month, revealed that AndroxGh0st is part of a comprehensive toolset called AlienFox that's offered to threat actors to steal API keys and secrets from cloud services. "Legion appears to be part of an emerging generation of cloud-focused credential harvester/spam utilities," security researcher Matt Muir
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Combat Insider Threats<a href="https://securityaffairs.com/144746/security/how-to-combat-insider-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Knowing that insider threats are a risk is one thing. Knowing how to fight them off is entirely another.
+Dealing with issues of insider cyber risk can be different and nuanced. It’s hard to admit that someone from within the company could ‘not...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zelle Phishing Campaign Sends Spoofed Emails<a href="https://www.avanan.com/blog/zelle-phishing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zelle, the widely used and highly acclaimed money-transfer service, is now a prime target for cybercriminals. The simplicity of sending funds to friends or businesses through Zelle has made it appealing for hackers looking to cash in.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-based Transparent Tribe Hackers Targeting Indian Educational Institutions<a href="https://thehackernews.com/2023/04/pakistan-based-transparent-tribe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  Transparent Tribe  threat actor has been linked to a set of weaponized Microsoft Office documents in intrusions directed against the Indian education sector to deploy a continuously maintained piece of malware called Crimson RAT. While the suspected Pakistan-based threat group is known to target  military and government entities  in the country, the activities have since expanded to include the  education vertical . The hacking group, also called APT36, Operation C-Major, PROJECTM, and Mythic Leopard, has been active as far back as 2013. Educational institutions have been at the receiving end of the adversary's attacks since late 2021. "Crimson RAT is a  consistent   staple  in the group's  malware arsenal  the adversary uses in its campaigns," SentinelOne researcher Aleksandar Milenkoski  said  in a report shared with The Hacker News. The .NET malware has the functionality to exfiltrate files and system data to an actor-controlled server. It's also bui
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Aligned Transparent Tribe APT Expands Interest in Indian Education Sector<a href="https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs has been tracking a recently disclosed cluster of malicious Office documents that distribute Crimson RAT, used by the APT36 group (aka Transparent Tribe) targeting the education sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Shadow APIs are More Dangerous than You Think<a href="https://thehackernews.com/2023/04/why-shadow-apis-are-more-dangerous-than.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shadow APIs are a growing risk for organizations of all sizes as they can mask malicious behavior and induce substantial data loss. For those that aren't familiar with the term, shadow APIs are a type of application programming interface (API) that isn't officially documented or supported.  Contrary to popular belief, it's unfortunately all too common to have APIs in production that no one on your operations or security teams knows about. Enterprises manage thousands of APIs, many of which are not routed through a proxy such as an API gateway or web application firewall. This means they aren't monitored, are rarely audited, and are most vulnerable.  Since they aren't visible to security teams, shadow APIs provide hackers with a defenseless path to exploit vulnerabilities. These APIs can potentially be manipulated by malicious actors to gain access to a range of sensitive information, from customer addresses to company financial records. Considering the potential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Hacker Group Evolves Tactics, Tools, and Targets in DeathNote Campaign<a href="https://thehackernews.com/2023/04/lazarus-hacker-group-evolves-tactics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as the Lazarus Group has been observed shifting its focus and rapidly evolving its tools and tactics as part of a long-running campaign called  DeathNote . While the nation-state adversary is known for persistently singling out the cryptocurrency sector, recent attacks have also targeted automotive, academic, and defense sectors in Eastern Europe and other parts of the world, in what's perceived as a "significant" pivot.  "At this point, the actor switched all the decoy documents to job descriptions related to defense contractors and diplomatic services," Kaspersky researcher Seongsu Park  said  in an analysis published Wednesday. The deviation in targeting, along with the use of updated infection vectors, is said to have occurred in April 2020. It's worth noting that the DeathNote cluster is also tracked under the monikers  Operation Dream Job  or  NukeSped . Google-owned Mandiant has also tied a subset of the activit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT Security: OpenAI's Bug Bounty Program Offers Up to $20,000 Prizes<a href="https://thehackernews.com/2023/04/chatgpt-security-openais-bug-bounty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI, the company behind the massively popular ChatGPT AI chatbot, has launched a  bug bounty program  in an attempt to ensure its systems are "safe and secure." To that end, it has partnered with the crowdsourced security platform  Bugcrowd  for independent researchers to report vulnerabilities discovered in its product in exchange for rewards ranging from "$200 for low-severity findings to up to $20,000 for exceptional discoveries." It's worth noting that the program does not cover  model safety or hallucination issues , wherein the chatbot is prompted to generate malicious code or other faulty outputs. The company noted that "addressing these issues often involves substantial research and a broader approach." Other prohibited categories are denial-of-service (DoS) attacks, brute-forcing OpenAI APIs, and demonstrations that aim to destroy data or gain unauthorized access to sensitive information beyond what's necessary to highlight the prob
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A leak of files could be America’s worst intelligence breach in a decade<a href="https://www.economist.com/united-states/2023/04/10/a-leak-of-files-could-be-americas-worst-intelligence-breach-in-a-decade?&web_view=true"> Full Text</a>
@@ -50,7 +358,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel-based Spyware Firm QuaDream Targets High-Risk iPhones with Zero-Click Exploit<a href="https://thehackernews.com/2023/04/israel-based-spyware-firm-quadream.html"> Full Text</a>
@@ -66,7 +374,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hyundai suffered a data breach that impacted customers in France and Italy<a href="https://securityaffairs.com/144732/data-breach/hyundai-suffered-data-breach.html"> Full Text</a>
@@ -84,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why the EU Should Stop Talking About Digital Sovereignty<a href="https://www.cfr.org/blog/why-eu-should-stop-talking-about-digital-sovereignty?&web_view=true"> Full Text</a>
@@ -100,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Service Accounts Challenge: Can't See or Secure Them Until It's Too Late<a href="https://thehackernews.com/2023/04/the-service-accounts-challenge-cant-see.html"> Full Text</a>
@@ -116,7 +424,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QuaDream surveillance firm’s spyware targeted iPhones with zero-click exploit<a href="https://securityaffairs.com/144723/malware/quadream-spyware.html"> Full Text</a>
@@ -133,7 +441,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Patches Critical Vulnerability in Data Analytics Solution<a href="https://www.securityweek.com/fortinet-patches-critical-vulnerability-in-data-analytics-solution/?&web_view=true"> Full Text</a>
@@ -149,7 +457,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent: Microsoft Issues Patches for 97 Flaws, Including Active Ransomware Exploit<a href="https://thehackernews.com/2023/04/urgent-microsoft-issues-patches-for-97.html"> Full Text</a>
@@ -165,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SAP April 2023 security updates fix critical vulnerabilities<a href="https://securityaffairs.com/144716/security/sap-april-2023-notes.html"> Full Text</a>
@@ -182,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Announcing the deps.dev API: critical dependency data for secure supply chains<a href="https://security.googleblog.com/2023/04/announcing-depsdev-api-critical.html?&web_view=true"> Full Text</a>
@@ -198,7 +506,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Uncovered as Mastermind in 3CX Supply Chain Attack<a href="https://thehackernews.com/2023/04/lazarus-sub-group-labyrinth-chollima.html"> Full Text</a>
@@ -214,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenAI launched a bug bounty program<a href="https://securityaffairs.com/144707/security/openai-launched-bug-bounty-program.html"> Full Text</a>
@@ -231,7 +539,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Following the Lazarus group by tracking DeathNote campaign<a href="https://securelist.com/the-lazarus-group-deathnote-campaign/109490/?&web_view=true"> Full Text</a>
@@ -247,7 +555,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime group exploits Windows zero-day in ransomware attacks<a href="https://securityaffairs.com/144692/hacking/windows-zero-day-ransomware-attacks.html"> Full Text</a>
@@ -264,7 +572,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTX bankruptcy filing highlights security failures<a href="https://www.techtarget.com/searchsecurity/news/365535116/FTX-bankruptcy-filing-highlights-security-failures?&web_view=true"> Full Text</a>
@@ -280,7 +588,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminals Pose as Chinese Authorities to Target US-based Chinese Community<a href="https://www.ic3.gov/Media/Y2023/PSA230410?&web_view=true"> Full Text</a>
@@ -296,7 +604,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IRS acting CIO: Securing software supply chain remains a challenge for agencies<a href="https://fedscoop.com/irs-cio-securing-software-supply-chain-remains-a-challenge-for-agencies/?hss_channel=tw-1477949676&web_view=true"> Full Text</a>
@@ -312,7 +620,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2023
+April 12, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Hackers Breach Email of APT28 Leader, Who’s Wanted by FBI<a href="https://www.hackread.com/ukraine-hackers-breach-apt28-fbi-wanted-hacker/?&web_view=true"> Full Text</a>
