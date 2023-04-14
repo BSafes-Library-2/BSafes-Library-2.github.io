@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Russia-linked APT29 is behind recent attacks targeting NATO and EU<a href="https://securityaffairs.com/144763/apt/apt29-behind-nato-eu-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland intelligence linked the Russian APT29 group to a series of attacks targeting NATO and European Union countries.
+Poland's Military Counterintelligence Service and its Computer Emergency Response Team linked a recent string of attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-Aligned Transparent Tribe APT Expands Interest in Indian Education Sector<a href="https://www.sentinelone.com/labs/transparent-tribe-apt36-pakistan-aligned-threat-actor-expands-interest-in-indian-education-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs has been tracking a recently disclosed cluster of malicious Office documents that distribute Crimson RAT, used by the APT36 group (aka Transparent Tribe) targeting the education sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

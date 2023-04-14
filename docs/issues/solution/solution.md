@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Launches New Cybersecurity Initiatives to Strengthen Vulnerability Management<a href="https://thehackernews.com/2023/04/google-launches-new-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday outlined a set of initiatives aimed at improving the vulnerability management ecosystem and establishing greater transparency measures around exploitation. "While the notoriety of zero-day vulnerabilities typically makes headlines, risks remain even after they're known and fixed, which is the real story," the company said in an announcement. "Those risks span everything from lag time in OEM adoption, patch testing pain points, end user update issues and more." Security threats also stem from incomplete patches applied by vendors, with a chunk of the zero-days exploited in the wild turning out to be variants of previously patched vulnerabilities. Mitigating such risks requires addressing the root cause of the vulnerabilities and prioritizing modern secure software development practices to eliminate entire classes of threats and block potential attack avenues. Taking these factors into consideration, Google said it's forming a Hacking
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Introduces New Device Verification Feature to Prevent Account Takeover Attacks<a href="https://thehackernews.com/2023/04/whatsapp-introduces-new-device.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular instant messaging app WhatsApp on Thursday announced a new account verification feature that ensures that malware running on a user's mobile device doesn't impact their account. "Mobile device malware is one of the biggest threats to people's privacy and security today because it can take advantage of your phone without your permission and use your WhatsApp to send unwanted messages," the Meta-owned company said in an announcement. Called&nbsp; Device Verification , the security measure is designed to help prevent account takeover (ATO) attacks by blocking the threat actor's connection and allowing targets of the malware infection to use the app without any interruption. In other words, the goal is to deter attackers' use of malware to steal WhatsApp authentication keys and hijack victim accounts, and subsequently impersonate them to distribute spam and phishing links to other contacts. This, in turn, is achieved by introducing a security-token th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

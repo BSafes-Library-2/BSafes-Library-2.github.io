@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling Software Supply Chain Security: A Toolbox for Policymakers<a href="https://www.lawfareblog.com/tackling-software-supply-chain-security-toolbox-policymakers"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security flaws keep software and entire supply chains vulnerable. It is critical that policymakers work to set regulatory lanes for companies to build safe and secure technology.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Shadow APIs are More Dangerous than You Think<a href="https://thehackernews.com/2023/04/why-shadow-apis-are-more-dangerous-than.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Shadow APIs are a growing risk for organizations of all sizes as they can mask malicious behavior and induce substantial data loss. For those that aren't familiar with the term, shadow APIs are a type of application programming interface (API) that isn't officially documented or supported.&nbsp; Contrary to popular belief, it's unfortunately all too common to have APIs in production that no one on your operations or security teams knows about. Enterprises manage thousands of APIs, many of which are not routed through a proxy such as an API gateway or web application firewall. This means they aren't monitored, are rarely audited, and are most vulnerable.&nbsp; Since they aren't visible to security teams, shadow APIs provide hackers with a defenseless path to exploit vulnerabilities. These APIs can potentially be manipulated by malicious actors to gain access to a range of sensitive information, from customer addresses to company financial records. Considering the potential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

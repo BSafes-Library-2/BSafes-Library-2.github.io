@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker: Emerging Cybercrime Group Targeting Businesses with Ransomware<a href="https://thehackernews.com/2023/04/rtm-locker-emerging-cybercrime-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the tactics of a "rising" cybercriminal gang called "Read The Manual" (RTM) Locker that functions as a private ransomware-as-a-service (RaaS) provider and carries out opportunistic attacks to generate illicit profit. "The 'Read The Manual' Locker gang uses affiliates to ransom victims, all of whom are forced to abide by the gang's strict rules," cybersecurity firm Trellix said in a report shared with The Hacker News. "The business-like set up of the group, where affiliates are required to remain active or notify the gang of their leave, shows the organizational maturity of the group, as has also been observed in other groups, such as&nbsp; Conti ." RTM , first documented by ESET in February 2017,&nbsp; started off &nbsp;in 2015 as a banking malware targeting businesses in Russia via drive-by downloads, spam, and phishing emails. Attack chains mounted by the group have since&nbsp; evolved &nbsp;to deploy a ransomwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

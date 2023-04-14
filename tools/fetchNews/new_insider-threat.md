@@ -8,6 +8,21 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Combat Insider Threats<a href="https://securityaffairs.com/144746/security/how-to-combat-insider-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Knowing that insider threats are a risk is one thing. Knowing how to fight them off is entirely another.
+Dealing with issues of insider cyber risk can be different and nuanced. It’s hard to admit that someone from within the company could ‘not...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

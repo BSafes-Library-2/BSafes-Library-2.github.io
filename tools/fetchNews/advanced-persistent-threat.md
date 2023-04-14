@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Breach Email of APT28 Leader, Who’s Wanted by FBI<a href="https://www.hackread.com/ukraine-hackers-breach-apt28-fbi-wanted-hacker/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian hacker group Cyber Resistance, aka Ukrainian Cyber Alliance, has claimed to have hacked the email, social media, and personal accounts of Russian GRU officer Lieutenant Colonel Sergey Alexandrovich Morgachev, the leader of APT28.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

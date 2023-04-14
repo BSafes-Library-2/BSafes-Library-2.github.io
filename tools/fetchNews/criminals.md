@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Following the Lazarus group by tracking DeathNote campaign<a href="https://securelist.com/the-lazarus-group-deathnote-campaign/109490/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This threat cluster linked to the North Korean threat actor Lazarus is also known as Operation DreamJob or NukeSped. It's dubbed DeathNote after its malware payloads named Dn.dll or Dn64.dll.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime group exploits Windows zero-day in ransomware attacks<a href="https://securityaffairs.com/144692/hacking/windows-zero-day-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a zero-day in the Windows Common Log File System (CLFS) actively exploited in ransomware attacks.
+Microsoft has addressed a zero-day vulnerability, tracked as CVE-2023-28252, in the Windows Common Log File System (CLFS), which...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Pose as Chinese Authorities to Target US-based Chinese Community<a href="https://www.ic3.gov/Media/Y2023/PSA230410?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminals exploit widely publicized efforts by the People’s Republic of China government to harass and facilitate the repatriation of individuals living in the United States to build plausibility for their fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

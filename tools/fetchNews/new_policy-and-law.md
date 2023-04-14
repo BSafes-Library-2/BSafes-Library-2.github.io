@@ -8,6 +8,18 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 13, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+Personal email from Dutch Police warns ex-Raidforums users<a href="https://cyberwarzone.com/personal-email-from-dutch-police-warns-ex-raidforums-users/?&amp;web_view=true"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+The Dutch Police, in collaboration with international police organizations, has launched an investigation into Raidforums.com, leading to the platform’s shutdown and the seizure of a dataset containing user information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
