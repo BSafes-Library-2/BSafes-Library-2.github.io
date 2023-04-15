@@ -34,6 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclosure Cisco ISE Broken Access Control Issue<a href="https://yoroi.company/research/cve-advisory-full-disclosure-cisco-ise-broken-access-control/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the web-based management interface of Cisco Identity Services Engine (ISE) could allow an authenticated, remote attacker to bypass authorization and access system files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked Hackers Launches Espionage Attacks on Foreign Diplomatic Entities<a href="https://thehackernews.com/2023/04/russia-linked-hackers-launches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked  APT29  (aka Cozy Bear) threat actor has been attributed to an ongoing cyber espionage campaign targeting foreign ministries and diplomatic entities located in NATO member states, the European Union, and Africa. According to Poland's Military Counterintelligence Service and the CERT Polska team, the observed activity shares tactical overlaps with a cluster tracked by Microsoft as  Nobelium , which is known for its high-profile  attack on SolarWinds  in 2020. Nobelium's operations have been attributed to Russia's Foreign Intelligence Service ( SVR ), an organization that's tasked with protecting "individuals, society, and the state from foreign threats." That said, the campaign represents an evolution of the Kremlin-backed hacking group's tactics, indicating  persistent attempts  at improving its cyber weaponry to infiltrate victim systems for intelligence gathering. "New tools were used at the same time and independently of eac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement of Cybersecurity Regulations: Part 3<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity enforcement will likely require an expansion of government inspections of critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack on the Cornwall Community Hospital in Ontario is causing treatment delays<a href="https://securityaffairs.com/144811/cyber-crime/cyberattack-cornwall-community-hospital-ontario.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cornwall Community Hospital in Ontario, Canada, is under a cyber attack that is causing delays to scheduled and non-urgent care.
+A cyberattack on the Cornwall Community Hospital in Ontario, Canada, is causing delays to scheduled and non-urgent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches Critical Third-Party Component Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-critical-third-party-component-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking, cloud, and cybersecurity solutions provider Juniper Networks this week published advisories detailing tens of vulnerabilities found across its product portfolio, including critical bugs in third-party components of Junos OS and STRM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kodi Confirms Data Breach: 400K User Records and Private Messages Stolen<a href="https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open source media player software provider Kodi has confirmed a data breach after threat actors stole the company's MyBB forum database containing user data and private messages. What's more, the unknown threat actors  attempted to sell  the data dump  comprising 400,635 Kodi users  on the now-defunct  BreachForums  cybercrime marketplace. "MyBB admin logs show the account of a trusted but currently inactive member of the forum admin team was used to access the web-based MyBB admin console twice: on 16 February and again on 21 February," Kodi  said  in an advisory. The threat actors then abused the account to create database backups that were then downloaded and deleted. Also downloaded were existing nightly full backups of the database. The account in question has now been disabled. The nightly backups contained all public forum posts, team forum posts, messages sent through the user-to-user messaging system, and user information such as forum username, email a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the first Chrome zero-day of 2023<a href="https://securityaffairs.com/144805/security/google-chrome-zero-day-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released an emergency security update to address a zero-day vulnerability in Chrome which is actively exploited in the wild.
+Google released an emergency security update to address the first Chrome zero-day vulnerability (CVE-2023-2033)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy-invasive and Clicker Android Adware found in popular apps in South Korea<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/goldoson-privacy-invasive-and-clicker-android-adware-found-in-popular-apps-in-south-korea/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some apps were removed from Google Play while others were updated by the official developers. Users are encouraged to update the apps to the latest version to remove the identified threat from their devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Android and Novi Survey Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/severe-android-and-novi-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  two vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The two flaws are listed below - CVE-2023-20963  (CVSS score: 7.8) - Android Framework Privilege Escalation Vulnerability CVE-2023-29492  (CVSS score: TBD) - Novi Survey Insecure Deserialization Vulnerability "Android Framework contains an unspecified vulnerability that allows for privilege escalation after updating an app to a higher Target SDK with no additional execution privileges needed," CISA  said  in an advisory for CVE-2023-20963. Google, in its monthly Android Security Bulletin for March 2023,  acknowledged  "there are indications that CVE-2023-20963 may be under limited, targeted exploitation." The development comes as tech news site Ars Technica  disclosed  late last month that Android apps digitally signed by China's e-commerce company Pinduoduo weap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kodi discloses data breach after its forum was compromised<a href="https://securityaffairs.com/144793/data-breach/kodi-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source media player software provider Kodi discloses a data breach after threat actors stole its MyBB forum database.
+Kodi has disclosed a data breach, threat actors have stolen the company's MyBB forum database that contained data for over 400K...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+12,000 Indian Government Websites on Alert for Indonesian Hacking Threat<a href="https://www.deccanchronicle.com/nation/crime/130423/indonesian-hackers-threaten-to-attack-12000-government-websites.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-In issued an ‘Urgent- High Alert’ warning to all Central and state agencies and departments to be alert of potential attacks by Indonesian hackers and report any such incidents to them immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Tips from MSSPs to MSSPs – Building a Profitable vCISO Practice<a href="https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's fast-paced and ever-changing digital landscape, businesses of all sizes face a myriad of cybersecurity threats. Putting in place the right people, technological tools and services, MSSPs are in a great position to ensure their customers' cyber resilience.  The growing need of SMEs and SMBs for structured cybersecurity services can be leveraged by MSPs and MSSPs to provide strategic cybersecurity services such as virtual CISO (vCISO) services, leading to recurring revenues and high margins while differentiating service provider from their competitors.  There is a consensus among MSPs and MSSPs that starting a vCISO practice poses a great business opportunity, but how can you successfully pull it off?  Cynomi has leveraged its network of top-notch vCISO service providers and invited three of them to a panel discussion, where they shared tips on how to start and scale a vCISO practice, and most importantly –  how to keep it profitable.  This panel discussion is aim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker, a new RaaS gains notorieties in the threat landscape<a href="https://securityaffairs.com/144783/cyber-crime/rtm-locker-ransomware-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Trellix analyzed the activity of an emerging cybercriminal group called 'Read The Manual' RTM Locker.
+Researchers from cybersecurity firm Trellix have detailed the tactics, techniques, and procedures of an emerging cybercriminal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state actors are taking advantage of weak passwords to go after cloud customers, Google says<a href="https://cyberscoop.com/google-cloud-threat-password-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weak passwords and other comprises of user identity continue to drive security incidents for Google Cloud customers, with weak passwords accounting for nearly half of the incidents affecting its clients, according to a report released by the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hikvision fixed a critical flaw in Hybrid SAN and cluster storage products<a href="https://securityaffairs.com/144775/security/hikvision-hybrid-san-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese video surveillance giant Hikvision addressed a critical vulnerability in its Hybrid SAN and cluster storage products.
+Chinese video surveillance giant Hikvision addressed an access control vulnerability, tracked as CVE-2023-28808, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitrue Hot Wallet Exploit Results in $23M Cryptocurrency Theft<a href="https://cyberwarzone.com/bitrue-hot-wallet-exploit-results-in-23m-cryptocurrency-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exchange said it will suspend all withdrawals temporarily to conduct additional security checks, and withdrawals are expected to resume on April 18, 2023. The exchange explained that they will compensate all identified users affected in full.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former TSB chief information officer fined $101,000 over IT meltdown in 2018<a href="https://www.theguardian.com/business/2023/apr/13/former-tsb-bank-chief-information-officer-fined-2018?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK regulators have imposed an £81,000 (~$101,000) fine on a former TSB information officer over the bank’s IT meltdown in 2018 that left millions of customers locked out of their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
