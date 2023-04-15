@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistan-based Transparent Tribe Hackers Targeting Indian Educational Institutions<a href="https://thehackernews.com/2023/04/pakistan-based-transparent-tribe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; Transparent Tribe &nbsp;threat actor has been linked to a set of weaponized Microsoft Office documents in intrusions directed against the Indian education sector to deploy a continuously maintained piece of malware called Crimson RAT. While the suspected Pakistan-based threat group is known to target&nbsp; military and government entities &nbsp;in the country, the activities have since expanded to include the&nbsp; education vertical . The hacking group, also called APT36, Operation C-Major, PROJECTM, and Mythic Leopard, has been active as far back as 2013. Educational institutions have been at the receiving end of the adversary's attacks since late 2021. "Crimson RAT is a&nbsp; consistent &nbsp; staple &nbsp;in the group's&nbsp; malware arsenal &nbsp;the adversary uses in its campaigns," SentinelOne researcher Aleksandar Milenkoski&nbsp; said &nbsp;in a report shared with The Hacker News. The .NET malware has the functionality to exfiltrate files and system data to an actor-controlled server. It's also bui
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Hacker Group Evolves Tactics, Tools, and Targets in DeathNote Campaign<a href="https://thehackernews.com/2023/04/lazarus-hacker-group-evolves-tactics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as the Lazarus Group has been observed shifting its focus and rapidly evolving its tools and tactics as part of a long-running campaign called&nbsp; DeathNote . While the nation-state adversary is known for persistently singling out the cryptocurrency sector, recent attacks have also targeted automotive, academic, and defense sectors in Eastern Europe and other parts of the world, in what's perceived as a "significant" pivot.&nbsp; "At this point, the actor switched all the decoy documents to job descriptions related to defense contractors and diplomatic services," Kaspersky researcher Seongsu Park&nbsp; said &nbsp;in an analysis published Wednesday. The deviation in targeting, along with the use of updated infection vectors, is said to have occurred in April 2020. It's worth noting that the DeathNote cluster is also tracked under the monikers&nbsp; Operation Dream Job &nbsp;or&nbsp; NukeSped . Google-owned Mandiant has also tied a subset of the activit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zelle Phishing Campaign Sends Spoofed Emails<a href="https://www.avanan.com/blog/zelle-phishing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zelle, the widely used and highly acclaimed money-transfer service, is now a prime target for cybercriminals. The simplicity of sending funds to friends or businesses through Zelle has made it appealing for hackers looking to cash in.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+12,000 Indian Government Websites on Alert for Indonesian Hacking Threat<a href="https://www.deccanchronicle.com/nation/crime/130423/indonesian-hackers-threaten-to-attack-12000-government-websites.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-In issued an ‘Urgent- High Alert’ warning to all Central and state agencies and departments to be alert of potential attacks by Indonesian hackers and report any such incidents to them immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

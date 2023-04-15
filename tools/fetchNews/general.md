@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT Security: OpenAI's Bug Bounty Program Offers Up to $20,000 Prizes<a href="https://thehackernews.com/2023/04/chatgpt-security-openais-bug-bounty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI, the company behind the massively popular ChatGPT AI chatbot, has launched a&nbsp; bug bounty program &nbsp;in an attempt to ensure its systems are "safe and secure." To that end, it has partnered with the crowdsourced security platform&nbsp; Bugcrowd &nbsp;for independent researchers to report vulnerabilities discovered in its product in exchange for rewards ranging from "$200 for low-severity findings to up to $20,000 for exceptional discoveries." It's worth noting that the program does not cover&nbsp; model safety or hallucination issues , wherein the chatbot is prompted to generate malicious code or other faulty outputs. The company noted that "addressing these issues often involves substantial research and a broader approach." Other prohibited categories are denial-of-service (DoS) attacks, brute-forcing OpenAI APIs, and demonstrations that aim to destroy data or gain unauthorized access to sensitive information beyond what's necessary to highlight the prob
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

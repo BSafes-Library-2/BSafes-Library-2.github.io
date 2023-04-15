@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the Kyocera Android printing app can be abused to drop malware<a href="https://securityaffairs.com/144759/hacking/kyocera-android-printing-app-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts warn that a Kyocera Android printing app&nbsp;is vulnerable to improper intent handling and can be abused to drop malware.
+An improper intent handling issue affecting the Kyocera Android printing app&nbsp;can allow malicious applications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed a critical vulnerability in its Data Analytics product<a href="https://securityaffairs.com/144750/security/fortinet-critical-vulnerability-data-analytics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical vulnerability that can lead to remote, unauthenticated access to Redis and MongoDB instances.
+Fortinet has addressed a critical vulnerability, tracked as CVE-2022-41331 (CVSS score of 9.3), in its Fortinet FortiPresence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Hikvision Storage Solutions Exposes Video Security Data<a href="https://www.securityweek.com/critical-vulnerability-in-hikvision-storage-solutions-exposes-video-security-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-28808, has been described by the vendor as an access control issue that can be exploited to obtain administrator permissions by sending specially crafted messages to the targeted device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

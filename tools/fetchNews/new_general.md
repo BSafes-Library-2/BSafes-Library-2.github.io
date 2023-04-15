@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-state actors are taking advantage of weak passwords to go after cloud customers, Google says<a href="https://cyberscoop.com/google-cloud-threat-password-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weak passwords and other comprises of user identity continue to drive security incidents for Google Cloud customers, with weak passwords accounting for nearly half of the incidents affecting its clients, according to a report released by the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

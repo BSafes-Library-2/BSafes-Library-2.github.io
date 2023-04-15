@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclosure Cisco ISE Broken Access Control Issue<a href="https://yoroi.company/research/cve-advisory-full-disclosure-cisco-ise-broken-access-control/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked Hackers Launches Espionage Attacks on Foreign Diplomatic Entities<a href="https://thehackernews.com/2023/04/russia-linked-hackers-launches.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcement of Cybersecurity Regulations: Part 3<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-3"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyberattack on the Cornwall Community Hospital in Ontario is causing treatment delays<a href="https://securityaffairs.com/144811/cyber-crime/cyberattack-cornwall-community-hospital-ontario.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks Patches Critical Third-Party Component Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-critical-third-party-component-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kodi Confirms Data Breach: 400K User Records and Private Messages Stolen<a href="https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed the first Chrome zero-day of 2023<a href="https://securityaffairs.com/144805/security/google-chrome-zero-day-2023.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy-invasive and Clicker Android Adware found in popular apps in South Korea<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/goldoson-privacy-invasive-and-clicker-android-adware-found-in-popular-apps-in-south-korea/?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe Android and Novi Survey Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/severe-android-and-novi-survey.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kodi discloses data breach after its forum was compromised<a href="https://securityaffairs.com/144793/data-breach/kodi-discloses-data-breach.html"> Full Text</a>
@@ -197,7 +197,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 12,000 Indian Government Websites on Alert for Indonesian Hacking Threat<a href="https://www.deccanchronicle.com/nation/crime/130423/indonesian-hackers-threaten-to-attack-12000-government-websites.html?&web_view=true"> Full Text</a>
@@ -213,7 +213,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: Tips from MSSPs to MSSPs – Building a Profitable vCISO Practice<a href="https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RTM Locker, a new RaaS gains notorieties in the threat landscape<a href="https://securityaffairs.com/144783/cyber-crime/rtm-locker-ransomware-group.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-state actors are taking advantage of weak passwords to go after cloud customers, Google says<a href="https://cyberscoop.com/google-cloud-threat-password-report/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hikvision fixed a critical flaw in Hybrid SAN and cluster storage products<a href="https://securityaffairs.com/144775/security/hikvision-hybrid-san-critical-bug.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitrue Hot Wallet Exploit Results in $23M Cryptocurrency Theft<a href="https://cyberwarzone.com/bitrue-hot-wallet-exploit-results-in-23m-cryptocurrency-theft/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former TSB chief information officer fined $101,000 over IT meltdown in 2018<a href="https://www.theguardian.com/business/2023/apr/13/former-tsb-bank-chief-information-officer-fined-2018?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Tips from MSSPs to MSSPs – Building a Profitable vCISO Practice<a href="https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's fast-paced and ever-changing digital landscape, businesses of all sizes face a myriad of cybersecurity threats. Putting in place the right people, technological tools and services, MSSPs are in a great position to ensure their customers' cyber resilience.&nbsp; The growing need of SMEs and SMBs for structured cybersecurity services can be leveraged by MSPs and MSSPs to provide strategic cybersecurity services such as virtual CISO (vCISO) services, leading to recurring revenues and high margins while differentiating service provider from their competitors.&nbsp; There is a consensus among MSPs and MSSPs that starting a vCISO practice poses a great business opportunity, but how can you successfully pull it off?&nbsp; Cynomi has leveraged its network of top-notch vCISO service providers and invited three of them to a panel discussion, where they shared tips on how to start and scale a vCISO practice, and most importantly –&nbsp; how to keep it profitable.&nbsp; This panel discussion is aim
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

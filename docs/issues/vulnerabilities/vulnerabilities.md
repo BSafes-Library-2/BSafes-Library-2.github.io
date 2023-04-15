@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Disclosure Cisco ISE Broken Access Control Issue<a href="https://yoroi.company/research/cve-advisory-full-disclosure-cisco-ise-broken-access-control/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in the web-based management interface of Cisco Identity Services Engine (ISE) could allow an authenticated, remote attacker to bypass authorization and access system files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches Critical Third-Party Component Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-critical-third-party-component-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking, cloud, and cybersecurity solutions provider Juniper Networks this week published advisories detailing tens of vulnerabilities found across its product portfolio, including critical bugs in third-party components of Junos OS and STRM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the first Chrome zero-day of 2023<a href="https://securityaffairs.com/144805/security/google-chrome-zero-day-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released an emergency security update&nbsp;to&nbsp;address&nbsp;a zero-day vulnerability in Chrome which is actively exploited in the wild.
+Google released an emergency security update&nbsp;to&nbsp;address&nbsp;the first Chrome zero-day vulnerability (CVE-2023-2033)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Android and Novi Survey Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/severe-android-and-novi-survey.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;two vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The two flaws are listed below - CVE-2023-20963 &nbsp;(CVSS score: 7.8) - Android Framework Privilege Escalation Vulnerability CVE-2023-29492 &nbsp;(CVSS score: TBD) - Novi Survey Insecure Deserialization Vulnerability "Android Framework contains an unspecified vulnerability that allows for privilege escalation after updating an app to a higher Target SDK with no additional execution privileges needed," CISA&nbsp; said &nbsp;in an advisory for CVE-2023-20963. Google, in its monthly Android Security Bulletin for March 2023,&nbsp; acknowledged &nbsp;"there are indications that CVE-2023-20963 may be under limited, targeted exploitation." The development comes as tech news site Ars Technica&nbsp; disclosed &nbsp;late last month that Android apps digitally signed by China's e-commerce company Pinduoduo weap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hikvision fixed a critical flaw in Hybrid SAN and cluster storage products<a href="https://securityaffairs.com/144775/security/hikvision-hybrid-san-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese video surveillance giant Hikvision addressed a critical vulnerability in its Hybrid SAN and cluster storage products.
+Chinese video surveillance giant Hikvision addressed an access control vulnerability, tracked as CVE-2023-28808, affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
