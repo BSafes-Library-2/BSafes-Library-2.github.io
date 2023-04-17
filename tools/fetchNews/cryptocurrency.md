@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bitrue Hot Wallet Exploit Results in $23M Cryptocurrency Theft<a href="https://cyberwarzone.com/bitrue-hot-wallet-exploit-results-in-23m-cryptocurrency-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exchange said it will suspend all withdrawals temporarily to conduct additional security checks, and withdrawals are expected to resume on April 18, 2023. The exchange explained that they will compensate all identified users affected in full.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

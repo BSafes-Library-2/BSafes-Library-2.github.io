@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked Hackers Launches Espionage Attacks on Foreign Diplomatic Entities<a href="https://thehackernews.com/2023/04/russia-linked-hackers-launches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked&nbsp; APT29 &nbsp;(aka Cozy Bear) threat actor has been attributed to an ongoing cyber espionage campaign targeting foreign ministries and diplomatic entities located in NATO member states, the European Union, and Africa. According to Poland's Military Counterintelligence Service and the CERT Polska team, the observed activity shares tactical overlaps with a cluster tracked by Microsoft as&nbsp; Nobelium , which is known for its high-profile&nbsp; attack on SolarWinds &nbsp;in 2020. Nobelium's operations have been attributed to Russia's Foreign Intelligence Service ( SVR ), an organization that's tasked with protecting "individuals, society, and the state from foreign threats." That said, the campaign represents an evolution of the Kremlin-backed hacking group's tactics, indicating&nbsp; persistent attempts &nbsp;at improving its cyber weaponry to infiltrate victim systems for intelligence gathering. "New tools were used at the same time and independently of eac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack on the Cornwall Community Hospital in Ontario is causing treatment delays<a href="https://securityaffairs.com/144811/cyber-crime/cyberattack-cornwall-community-hospital-ontario.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cornwall Community Hospital in Ontario, Canada, is under a cyber attack that is causing delays to scheduled and non-urgent care.
+A cyberattack on the Cornwall Community Hospital in Ontario, Canada, is causing delays to scheduled and non-urgent...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

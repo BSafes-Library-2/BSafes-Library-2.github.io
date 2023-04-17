@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Urgent Chrome Update to Fix Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2023/04/google-releases-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday released out-of-band updates to resolve an actively exploited zero-day flaw in its Chrome web browser, making it the first such bug to be addressed since the start of the year. Tracked as&nbsp; CVE-2023-2033 , the high-severity vulnerability has been described as a&nbsp; type confusion issue &nbsp;in the V8 JavaScript engine. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the issue on April 11, 2023. "Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page,"&nbsp; according &nbsp;to the NIST's National Vulnerability Database (NVD). The tech giant&nbsp; acknowledged &nbsp;that "an exploit for CVE-2023-2033 exists in the wild," but stopped short of sharing additional technical specifics or indicators of compromise (IoCs) to prevent further exploitation by threat actors. CVE-2023-2033 also appears to share similarities with&nbsp; CVE-2022-1096
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

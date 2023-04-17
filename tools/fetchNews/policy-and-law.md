@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enforcement of Cybersecurity Regulations: Part 3<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity enforcement will likely require an expansion of government inspections of critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former TSB chief information officer fined $101,000 over IT meltdown in 2018<a href="https://www.theguardian.com/business/2023/apr/13/former-tsb-bank-chief-information-officer-fined-2018?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK regulators have imposed an £81,000 (~$101,000) fine on a former TSB information officer over the bank’s IT meltdown in 2018 that left millions of customers locked out of their accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
 Personal email from Dutch Police warns ex-Raidforums users<a href="https://cyberwarzone.com/personal-email-from-dutch-police-warns-ex-raidforums-users/?&amp;web_view=true"> Full Text</a>
 <p></p>

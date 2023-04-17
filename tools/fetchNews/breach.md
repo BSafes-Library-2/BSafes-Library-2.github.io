@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kodi Confirms Data Breach: 400K User Records and Private Messages Stolen<a href="https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open source media player software provider Kodi has confirmed a data breach after threat actors stole the company's MyBB forum database containing user data and private messages. What's more, the unknown threat actors&nbsp; attempted to sell &nbsp;the data dump&nbsp; comprising 400,635 Kodi users &nbsp;on the now-defunct&nbsp; BreachForums &nbsp;cybercrime marketplace. "MyBB admin logs show the account of a trusted but currently inactive member of the forum admin team was used to access the web-based MyBB admin console twice: on 16 February and again on 21 February," Kodi&nbsp; said &nbsp;in an advisory. The threat actors then abused the account to create database backups that were then downloaded and deleted. Also downloaded were existing nightly full backups of the database. The account in question has now been disabled. The nightly backups contained all public forum posts, team forum posts, messages sent through the user-to-user messaging system, and user information such as forum username, email a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kodi discloses data breach after its forum was compromised<a href="https://securityaffairs.com/144793/data-breach/kodi-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Open-source media player software provider Kodi discloses a data breach after threat actors stole its MyBB forum database.
+Kodi has disclosed a data breach, threat actors have stolen the company's MyBB forum database that contained data for over 400K...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

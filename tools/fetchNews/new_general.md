@@ -8,6 +8,21 @@ nav_order: 900072
 
 ## General
 ---
+April 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 415 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144863/breaking-news/security-affairs-newsletter-round-415-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+New Android malicious library Goldoson found in 60 apps +100M downloadsSiemens Metaverse...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

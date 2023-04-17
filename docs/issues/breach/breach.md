@@ -8,6 +8,51 @@ nav_order: 900029
 
 ## Breach
 ---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhones Hacked to Drop QuaDream’s KingsPawn Spyware<a href="https://cyware.com/news/iphones-hacked-to-drop-quadreams-kingspawn-spyware-250d113a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QuaDream, an Israeli company best known for its malware Reign, has launched the new commercial spyware KingsPawn (a Pegasus-like threat). To begin the attack, iCloud calendar invitations with backdated timestamps are sent to targeted iOS devices.&nbsp;Experts recommend following best practices, suc ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Metaverse exposes sensitive corporate data<a href="https://securityaffairs.com/144832/security/siemens-metaverse-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens Metaverse, a virtual space built to mirror real machines, factories, and other highly complex systems, has exposed sensitive data, including the company’s office plans and internet of things (IoT) devices.
+While metaverse is no longer a buzzword,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo retailer leaks sensitive files<a href="https://securityaffairs.com/144816/breaking-news/volvo-retailer-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian retail arm of car manufacturing giant Volvo leaked sensitive files, putting its clientele in the vast South American country in peril.
+Volvo’s retailer in Brazil, Dimas Volvo, leaked sensitive files through its website.
+The leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Eyes Indian Education Sector<a href="https://cyware.com/news/transparent-tribe-eyes-indian-education-sector-3abad8a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs identified a campaign by the Transparent Tribe that targets the Indian education sector via education-themed malicious Office documents propagating Crimson RAT.&nbsp;The group has long been targeting different sectors in India. Hence, vigilance and robust cyber defense strategies are n ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

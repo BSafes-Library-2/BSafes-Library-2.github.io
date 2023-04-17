@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker, a new RaaS gains notorieties in the threat landscape<a href="https://securityaffairs.com/144783/cyber-crime/rtm-locker-ransomware-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Trellix analyzed the activity of an emerging cybercriminal group called 'Read The Manual' RTM Locker.
+Researchers from cybersecurity firm Trellix have detailed the tactics, techniques, and procedures of an emerging cybercriminal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

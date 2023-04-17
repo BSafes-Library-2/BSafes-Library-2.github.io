@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+April 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remcos RAT campaign targets US accounting and tax return preparation firms<a href="https://securityaffairs.com/144851/cyber-crime/remcos-rat-tax-day-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a new Remcos RAT campaign targeting US accounting and tax return preparation firms ahead of Tax Day.
+Ahead of the U.S. Tax Day, Microsoft has observed a new Remcos RAT campaign targeting US accounting and tax return preparation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forensic Analysis Confirms Involvement of North Korean Attackers in 3CX Supply Chain Attack<a href="https://cyware.com/news/forensic-analysis-confirms-involvement-of-north-korean-attackers-in-3cx-supply-chain-attack-4b65471b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+3CX confirmed that the software supply chain attack was the work of a North Korean hacker group, UNC4736. The group used the Taxhaul and Simplesea malware for infecting Windows and macOS, respectively. Attackers used Taxhaul (or TxRLoader) to target Windows machines, which was further used to deplo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
