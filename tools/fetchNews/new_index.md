@@ -34,7 +34,273 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found the first LockBit encryptor that targets macOS systems<a href="https://securityaffairs.com/144879/cyber-crime/lockbit-encryptor-targets-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the LockBit ransomware gang has developed encryptors to target macOS devices.
+The LockBit group is the first ransomware gang of all time that has created encryptors to target macOS systems, MalwareHunterTeam team warn.
+MalwareHunterTeam...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCR was the victim of BlackCat/ALPHV ransomware gang<a href="https://securityaffairs.com/144866/cyber-crime/ncr-blackcat-alphv-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCR was the victim of the BlackCat/ALPHV ransomware gang, the attack caused an outage on the company's Aloha PoS platform.
+NCR Corporation, previously known as National Cash Register, is an American software, consulting and technology company providing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 415 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/144863/breaking-news/security-affairs-newsletter-round-415-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+New Android malicious library Goldoson found in 60 apps +100M downloadsSiemens Metaverse...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remcos RAT campaign targets US accounting and tax return preparation firms<a href="https://securityaffairs.com/144851/cyber-crime/remcos-rat-tax-day-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of a new Remcos RAT campaign targeting US accounting and tax return preparation firms ahead of Tax Day.
+Ahead of the U.S. Tax Day, Microsoft has observed a new Remcos RAT campaign targeting US accounting and tax return preparation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker Enforces Strict Rules on Affiliates to Avoid Public Attention<a href="https://cyware.com/news/rtm-locker-enforces-strict-rules-on-affiliates-to-avoid-public-attention-2e256c40"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix detected a new private RaaS group, named Read The Manual (RTM) Locker, that has been leveraging affiliates for ransom. Also, it flies under the radar by avoiding high-profile targets. Moreover, the self-destructive nature of RTM Locker and the wipeout of logs make it a tough game to cr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Urgent Chrome Update to Fix Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2023/04/google-releases-urgent-chrome-update-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Friday released out-of-band updates to resolve an actively exploited zero-day flaw in its Chrome web browser, making it the first such bug to be addressed since the start of the year. Tracked as  CVE-2023-2033 , the high-severity vulnerability has been described as a  type confusion issue  in the V8 JavaScript engine. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the issue on April 11, 2023. "Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page,"  according  to the NIST's National Vulnerability Database (NVD). The tech giant  acknowledged  that "an exploit for CVE-2023-2033 exists in the wild," but stopped short of sharing additional technical specifics or indicators of compromise (IoCs) to prevent further exploitation by threat actors. CVE-2023-2033 also appears to share similarities with  CVE-2022-1096
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Eyes Indian Education Sector<a href="https://cyware.com/news/transparent-tribe-eyes-indian-education-sector-3abad8a8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs identified a campaign by the Transparent Tribe that targets the Indian education sector via education-themed malicious Office documents propagating Crimson RAT. The group has long been targeting different sectors in India. Hence, vigilance and robust cyber defense strategies are n ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forensic Analysis Confirms Involvement of North Korean Attackers in 3CX Supply Chain Attack<a href="https://cyware.com/news/forensic-analysis-confirms-involvement-of-north-korean-attackers-in-3cx-supply-chain-attack-4b65471b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+3CX confirmed that the software supply chain attack was the work of a North Korean hacker group, UNC4736. The group used the Taxhaul and Simplesea malware for infecting Windows and macOS, respectively. Attackers used Taxhaul (or TxRLoader) to target Windows machines, which was further used to deplo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Leader’s Email Breached by Ukrainian Hackers<a href="https://cyware.com/news/apt28-leaders-email-breached-by-ukrainian-hackers-1378e67c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian hacker group Cyber Resistance claimed to have hacked the personal accounts, emails, and social media of a Russian GRU officer, who is also the leader of APT28. The email hack allowed the hackers to extract sensitive documents along with personal information and photos, and then leak them  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legion: A Python-Based Hacking Tool Targets Websites and Web Services<a href="https://cyware.com/news/legion-a-python-based-hacking-tool-targets-websites-and-web-services-4f9eb4fe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercriminal group, which goes by the moniker “Forza Tools,” was seen offering Legion - a Python-based credential harvester and SMTP hijacking tool. The malware targets online email services for phishing and spam attacks. Experts suggest it is likely based on the AndroxGhOst malware and has se ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android malicious library Goldoson found in 60 apps +100M downloads<a href="https://securityaffairs.com/144838/malware/goldoson-malicious-library-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware named Goldoson was distributed through 60 legitimate apps on the official Google Play store.
+The Goldoson library was discovered by researchers from McAfee’s Mobile Research Team, it collects lists of applications installed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iPhones Hacked to Drop QuaDream’s KingsPawn Spyware<a href="https://cyware.com/news/iphones-hacked-to-drop-quadreams-kingspawn-spyware-250d113a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QuaDream, an Israeli company best known for its malware Reign, has launched the new commercial spyware KingsPawn (a Pegasus-like threat). To begin the attack, iCloud calendar invitations with backdated timestamps are sent to targeted iOS devices. Experts recommend following best practices, suc ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Metaverse exposes sensitive corporate data<a href="https://securityaffairs.com/144832/security/siemens-metaverse-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens Metaverse, a virtual space built to mirror real machines, factories, and other highly complex systems, has exposed sensitive data, including the company’s office plans and internet of things (IoT) devices.
+While metaverse is no longer a buzzword,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive malvertising campaign targets seniors via fake Weebly sites<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/04/massive-malvertising-campaign-targets-seniors-via-fake-weebly-sites?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malvertising campaign is run via Google ads aimed at seniors. The threat actor is creating hundreds of fake websites via Weebly to host decoy content to fool search engines and crawlers while redirecting victims to a fake computer alert.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds bugs in Android and Novi Survey to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144822/security/android-flaws-cisa-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added Android and Novi Survey flaws to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following five new issues to its Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volvo retailer leaks sensitive files<a href="https://securityaffairs.com/144816/breaking-news/volvo-retailer-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian retail arm of car manufacturing giant Volvo leaked sensitive files, putting its clientele in the vast South American country in peril.
+Volvo’s retailer in Brazil, Dimas Volvo, leaked sensitive files through its website.
+The leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Disclosure Cisco ISE Broken Access Control Issue<a href="https://yoroi.company/research/cve-advisory-full-disclosure-cisco-ise-broken-access-control/?&web_view=true"> Full Text</a>
@@ -50,7 +316,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked Hackers Launches Espionage Attacks on Foreign Diplomatic Entities<a href="https://thehackernews.com/2023/04/russia-linked-hackers-launches.html"> Full Text</a>
@@ -66,7 +332,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enforcement of Cybersecurity Regulations: Part 3<a href="https://www.lawfareblog.com/enforcement-cybersecurity-regulations-part-3"> Full Text</a>
@@ -82,7 +348,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyberattack on the Cornwall Community Hospital in Ontario is causing treatment delays<a href="https://securityaffairs.com/144811/cyber-crime/cyberattack-cornwall-community-hospital-ontario.html"> Full Text</a>
@@ -99,7 +365,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks Patches Critical Third-Party Component Vulnerabilities<a href="https://www.securityweek.com/juniper-networks-patches-critical-third-party-component-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -115,7 +381,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kodi Confirms Data Breach: 400K User Records and Private Messages Stolen<a href="https://thehackernews.com/2023/04/kodi-confirms-data-breach-400k-user.html"> Full Text</a>
@@ -131,7 +397,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google fixed the first Chrome zero-day of 2023<a href="https://securityaffairs.com/144805/security/google-chrome-zero-day-2023.html"> Full Text</a>
@@ -148,7 +414,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy-invasive and Clicker Android Adware found in popular apps in South Korea<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/goldoson-privacy-invasive-and-clicker-android-adware-found-in-popular-apps-in-south-korea/?&web_view=true"> Full Text</a>
@@ -164,7 +430,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe Android and Novi Survey Vulnerabilities Under Active Exploitation<a href="https://thehackernews.com/2023/04/severe-android-and-novi-survey.html"> Full Text</a>
@@ -180,7 +446,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kodi discloses data breach after its forum was compromised<a href="https://securityaffairs.com/144793/data-breach/kodi-discloses-data-breach.html"> Full Text</a>
@@ -197,7 +463,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 12,000 Indian Government Websites on Alert for Indonesian Hacking Threat<a href="https://www.deccanchronicle.com/nation/crime/130423/indonesian-hackers-threaten-to-attack-12000-government-websites.html?&web_view=true"> Full Text</a>
@@ -213,7 +479,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: Tips from MSSPs to MSSPs – Building a Profitable vCISO Practice<a href="https://thehackernews.com/2023/04/webinar-tips-from-mssps-to-mssps.html"> Full Text</a>
@@ -229,7 +495,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RTM Locker, a new RaaS gains notorieties in the threat landscape<a href="https://securityaffairs.com/144783/cyber-crime/rtm-locker-ransomware-group.html"> Full Text</a>
@@ -246,7 +512,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation-state actors are taking advantage of weak passwords to go after cloud customers, Google says<a href="https://cyberscoop.com/google-cloud-threat-password-report/?&web_view=true"> Full Text</a>
@@ -262,7 +528,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hikvision fixed a critical flaw in Hybrid SAN and cluster storage products<a href="https://securityaffairs.com/144775/security/hikvision-hybrid-san-critical-bug.html"> Full Text</a>
@@ -279,7 +545,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bitrue Hot Wallet Exploit Results in $23M Cryptocurrency Theft<a href="https://cyberwarzone.com/bitrue-hot-wallet-exploit-results-in-23m-cryptocurrency-theft/?&web_view=true"> Full Text</a>
@@ -295,7 +561,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 14, 2023
+April 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former TSB chief information officer fined $101,000 over IT meltdown in 2018<a href="https://www.theguardian.com/business/2023/apr/13/former-tsb-bank-chief-information-officer-fined-2018?&web_view=true"> Full Text</a>
