@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Arms Manufacturer Rheinmetall Targeted in Cyberattack<a href="https://cyberwarzone.com/german-arms-manufacturer-rheinmetall-targeted-in-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the weekend, Rheinmetall, a leading German armaments and technology company, was the victim of a cyberattack that targeted all three of its divisions. However, company officials have stated that the attack did not impact operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCR Says it was hit by BlackCat Ransomware Attack<a href="https://securityaffairs.com/144866/cyber-crime/ncr-blackcat-alphv-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCR is suffering an outage on its Aloha point of sale (PoS) platform since Wednesday after it was hit by a ransomware attack conducted by the BlackCat/ALPHV ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,36 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found the first LockBit encryptor that targets macOS systems<a href="https://securityaffairs.com/144879/cyber-crime/lockbit-encryptor-targets-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the LockBit ransomware gang has developed encryptors to target macOS devices.
+The LockBit group is the first ransomware gang of all time that has created encryptors to target macOS systems, MalwareHunterTeam team warn.
+MalwareHunterTeam...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker Enforces Strict Rules on Affiliates to Avoid Public Attention<a href="https://cyware.com/news/rtm-locker-enforces-strict-rules-on-affiliates-to-avoid-public-attention-2e256c40"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix detected a new private RaaS group, named Read The Manual (RTM) Locker, that has been leveraging affiliates for ransom. Also, it flies under the radar by avoiding high-profile targets.&nbsp;Moreover, the self-destructive nature of RTM Locker and the wipeout of logs make it a tough game to cr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New QBot campaign delivered hijacking business correspondence<a href="https://securityaffairs.com/144927/cyber-crime/qbot-campaign-april-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky researchers warn of a new QBot campaign leveraging hijacked business emails to deliver malware.
+In early April, Kaspersky experts observed a surge in attacks that QBot malware attacks (aka Qakbot, QuackBot, and Pinkslipbot). QBot has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Captcha Protected Phishing Attack Targets Access to Payroll Files<a href="https://cyberwarzone.com/new-captcha-protected-phishing-attack-targets-access-to-payroll-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing attack is hosted on a landing page at payroll-microsoft365-access-panel-2023[.]softr[.]app/ which redirects to azaleastays[.]com/devr365web2023/ once a button is clicked.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

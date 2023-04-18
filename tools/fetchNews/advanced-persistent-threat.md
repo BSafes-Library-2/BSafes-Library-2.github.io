@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Leader’s Email Breached by Ukrainian Hackers<a href="https://cyware.com/news/apt28-leaders-email-breached-by-ukrainian-hackers-1378e67c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian hacker group Cyber Resistance claimed to have hacked the personal accounts, emails, and social media of a Russian GRU officer, who is also the leader of APT28. The email hack allowed the hackers to extract sensitive documents along with personal information and photos, and then leak them  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

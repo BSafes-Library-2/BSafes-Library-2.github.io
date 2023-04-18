@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ZeroFox to Acquire Threat Intelligence Firm LookingGlass for $26 Million<a href="https://www.securityweek.com/zerofox-to-acquire-threat-intelligence-firm-lookingglass-for-26-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ZeroFox (ZFOX), which advertises itself as an external cybersecurity solutions provider, on Monday, announced that it’s in the process of acquiring threat intelligence and attack surface management company LookingGlass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

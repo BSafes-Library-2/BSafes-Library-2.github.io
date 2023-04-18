@@ -8,6 +8,48 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT41 group spotted using open-source red teaming tool GC2<a href="https://securityaffairs.com/144915/apt/china-apt41-tool-gc2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In October 2022, threat actors sent phishing emails that contained links to a password-protected file hosted in Drive. The final payload was the Go-written GC2 tool that gets commands from Google Sheets and exfiltrates data to Google Drive.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vixen Panda APT Group suspected of targeting foreign ministry in cyberattack<a href="https://cyberwarzone.com/vixen-panda-apt-group-suspected-of-targeting-foreign-ministry-in-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese hacker group, Vixen Panda, is suspected of targeting the Foreign Ministry in a recent cyberattack. As per a new report by Euractiv, the hackers showed a keen interest in policy documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Uncovers APT41's Use of Open Source GC2 Tool to Target Media and Job Sites<a href="https://thehackernews.com/2023/04/google-uncovers-apt41s-use-of-open.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese nation-state group targeted an unnamed Taiwanese media organization to deliver an open source red teaming tool known as Google Command and Control ( GC2 ) amid broader abuse of Google's infrastructure for malicious ends. The tech giant's Threat Analysis Group (TAG) attributed the campaign to a threat actor it tracks under the&nbsp; geological &nbsp;and&nbsp; geographical-themed &nbsp;moniker&nbsp; HOODOO , which is also known by the names&nbsp; APT41 , Barium, Bronze Atlas, Wicked Panda, and&nbsp; Winnti . The starting point of the attack is a phishing email that contains links to a password-protected file hosted on Google Drive, which, in turn, incorporates the GC2 tool to read commands from Google Sheets and exfiltrate data using the cloud storage service. "After installation on the victim machine, the malware queries Google Sheets to obtain attacker commands," Google's cloud division&nbsp; said &nbsp;in its sixth Threat Horizons Report. "In addition to exfiltration via Drive, GC2 enabl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

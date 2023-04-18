@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive malvertising campaign targets seniors via fake Weebly sites<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/04/massive-malvertising-campaign-targets-seniors-via-fake-weebly-sites?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malvertising campaign is run via Google ads aimed at seniors. The threat actor is creating hundreds of fake websites via Weebly to host decoy content to fool search engines and crawlers while redirecting victims to a fake computer alert.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

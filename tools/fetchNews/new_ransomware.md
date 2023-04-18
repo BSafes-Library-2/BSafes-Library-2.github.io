@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society Ransomware Using Stealthy PowerShell Tool for Data Exfiltration<a href="https://thehackernews.com/2023/04/vice-society-ransomware-using-stealthy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the Vice Society ransomware gang have been observed using a bespoke PowerShell-based tool to fly under the radar and automate the process of exfiltrating data from compromised networks. "Threat actors (TAs) using built-in&nbsp; data exfiltration &nbsp; methods &nbsp;like [living off the land binaries and scripts] negate the need to bring in external tools that might be flagged by security software and/or human-based security detection mechanisms," Palo Alto Networks Unit 42 researcher Ryan Chapman&nbsp; said . "These methods can also hide within the general operating environment, providing subversion to the threat actor." Vice Society , tracked by Microsoft under the name DEV-0832, is an extortion-focused hacking group that emerged on the scene in May 2021. It's known to rely on ransomware binaries sold on the criminal underground to meet its goals. In December 2022, SentinelOne detailed the group's use of a ransomware variant, dubbed&nbsp; PolyVi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

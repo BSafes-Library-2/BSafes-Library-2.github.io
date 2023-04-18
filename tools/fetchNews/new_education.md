@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's the Difference Between CSPM &amp; SSPM?<a href="https://thehackernews.com/2023/04/whats-difference-between-cspm-sspm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud Security Posture Management (CSPM) and&nbsp; SaaS Security Posture Management (SSPM) &nbsp;are frequently confused. The similarity of the acronyms notwithstanding, both security solutions focus on securing data in the cloud. In a world where the terms cloud and SaaS are used interchangeably, this confusion is understandable. This confusion, though, is dangerous to organizations that need to secure data that exists within cloud infrastructures like AWS, Google Cloud, and Microsoft Azure, as well as data within SaaS applications like Salesforce, Microsoft 365, Google Workspace, Jira, Zoom, Slack and more. Assuming that either your CSPM or SSPM will secure your company resources that live off-premises is misplaced trust in a security tool that was only designed to secure either your cloud or your SaaS stack.&nbsp; It's absolutely vital for decision makers to understand the difference between CSPM and SSPM, the value derived from each solution, and that both complement each other. What Do
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tour of the Underground: Master the Art of Dark Web Intelligence Gathering<a href="https://thehackernews.com/2023/04/tour-of-underground-master-art-of-dark.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Deep, Dark Web – The Underground – is a haven for cybercriminals, teeming with tools and resources to launch attacks for financial gain, political motives, and other causes. But did you know that the underground also offers a goldmine of threat intelligence and information that can be harnessed to bolster your cyber defense strategies? The challenge lies in continuously monitoring the right dark web sources and gathering actionable intelligence through manual methods, which can lead to analyst fatigue and delayed action. Traditional methods of unearthing dark web intelligence can be time-consuming, exhausting, and often fruitless. Discover how to pierce the veil of darkness and illuminate the path to a more secure cyber landscape in our exclusive, high-impact webinar. Register now to secure your spot ! In this enlightening session, you will: Gain practical insights on how to access the dark web Uncover the various types of underground sources that threat actors use Learn how
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

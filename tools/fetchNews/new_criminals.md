@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 and Ex-Conti Cybercrime Gangs Join Forces in Domino Malware Attacks<a href="https://thehackernews.com/2023/04/fin7-and-ex-conti-cybercrime-gangs-join.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new strain of malware developed by threat actors likely affiliated with the FIN7 cybercrime group has been put to use by the members of the now-defunct Conti ransomware gang, indicating collaboration between the two crews. The malware, dubbed&nbsp; Domino , is primarily designed to facilitate follow-on exploitation on compromised systems, including delivering a lesser-known information stealer that has been advertised for sale on the dark web since December 2021. "Former members of the&nbsp; TrickBot/Conti syndicate &nbsp;[...] have been using Domino since at least late February 2023 to deliver either the Project Nemesis information stealer or more capable backdoors such as Cobalt Strike," IBM Security X-Force security researcher Charlotte Hammond&nbsp; said &nbsp;in a report published last week. FIN7 , also called Carbanak and ITG14, is a prolific&nbsp; Russian-speaking cybercriminal syndicate &nbsp;that's known to employ an array of custom malware to deploy additional malware and broaden its monet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vice Society gang is using a custom PowerShell tool for data exfiltration<a href="https://securityaffairs.com/144898/breaking-news/vice-society-powershell-tool-exfiltration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vice Society ransomware operators have been spotted using a PowerShell tool to exfiltrate data from compromised networks.
+Palo Alto Unit 42 team identified observed the&nbsp;Vice Society ransomware gang&nbsp;exfiltrating data from a victim network using a custom-built&nbsp;Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
