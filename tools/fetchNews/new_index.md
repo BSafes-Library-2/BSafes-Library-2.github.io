@@ -34,7 +34,284 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Conti Members and Fin7 APT Join Hands for New Domino Backdoor<a href="https://cyware.com/news/ex-conti-members-and-fin7-apt-join-hands-for-new-domino-backdoor-cd03fbf6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-defunct Conti ransomware gang members were observed deploying a new malware strain, dubbed Domino, that appears to have been developed by the FIN7 cybercrime organization. Domino has been active in the wild since at least October 2022. Organizations and security teams need a robust Threat I ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube Videos Distributing Aurora Stealer Malware via Highly Evasive Loader<a href="https://thehackernews.com/2023/04/youtube-videos-distributing-aurora.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed the inner workings of a highly evasive loader named " in2al5d p3in4er " (read: invalid printer) that's used to deliver the Aurora information stealer malware. "The in2al5d p3in4er loader is compiled with  Embarcadero RAD Studio  and targets endpoint workstations using advanced anti-VM (virtual machine) technique," cybersecurity firm Morphisec  said  in a report shared with The Hacker News. Aurora  is a Go-based information stealer that emerged on the threat landscape in late 2022. Offered as a commodity malware to other actors, it's distributed through  YouTube videos  and SEO-poised fake cracked software download websites. Clicking the links present in YouTube video descriptions redirects the victim to decoy websites where they are enticed into downloading the malware under the garb of a seemingly-legitimate utility. The loader analyzed by Morphisec is designed to query the vendor ID of the graphics card install
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts temporarily disrupted the RedLine Stealer operations<a href="https://securityaffairs.com/144974/cyber-crime/experts-temporary-distrupted-redline-stealer-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts from ESET, have temporarily disrupted the operations of the RedLine Stealer with the help of GitHub.
+ESET researchers announced to have temporarily disrupted the operations of the RedLine Stealer with the help of GitHub.
+The two companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing DevOpt: A Multifunctional Backdoor Arsenal<a href="https://www.zscaler.com/blogs/security-research/introducing-devopt-multifunctional-backdoor-arsenal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is currently still in development and is receiving continuous improvement updates designed to make it a more potent and effective tool for attackers and a threat to defenders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Goldoson Android Malware Infects Over 100 Million Google Play Store Downloads<a href="https://thehackernews.com/2023/04/goldoson-android-malware-infects-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware strain named  Goldoson  has been detected in the official Google Play Store spanning more than 60 legitimate apps that collectively have over 100 million downloads. An additional eight million installations have been tracked through ONE store, a leading third-party app storefront in South Korea. The rogue component is part of a third-party software library used by the apps in question and is capable of gathering information about installed apps, Wi-Fi and Bluetooth-connected devices, and GPS locations. "Moreover, the library is armed with the functionality to perform ad fraud by clicking advertisements in the background without the user's consent," McAfee security researcher SangRyol Ryu  said  in a report published last week. What's more, it includes the ability to stealthily load web pages, a feature that could be abused to load ads for financial profit. It achieves this by loading HTML code in a hidden  WebView  and driving traffic to th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds bugs in Chrome and macOS to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144967/security/cisa-chrome-macos-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added Chrome and macOS vulnerabilities to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following five new issues...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+in2al5d p3in4er is Almost Completely Undetectable<a href="https://blog.morphisec.com/in2al5d-p3in4er?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The component that makes Aurora’s delivery stealthy and dangerous is a highly evasive loader we named “in2al5d p3in4er.” It is compiled with Embarcadero RAD Studio and targets endpoint workstations using an advanced anti-VM technique.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DFIR via XDR: How to expedite your investigations with a DFIRent approach<a href="https://thehackernews.com/2023/04/dfir-via-xdr-how-to-expedite-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid technological evolution requires security that is resilient, up to date and adaptable. In this article, we will cover the transformation in the field of DFIR (digital forensics and incident response) in the last couple years, focusing on the digital forensics' aspect and how XDR fits into the picture. Before we dive into the details, let's first break down the main components of DFIR and define the differences between them. Digital Forensics vs Incident Response Digital forensics:  the practice of using scientific techniques and tools to identify, preserve, and analyze digital evidence from various sources, such as computers, smartphones, and other electronic devices, in a way that is admissible in a court of law. Incident response:  the process of responding to and managing the aftermath of a security breach or cyberattack. This involves identifying the nature and scope of the incident, containing the damage, eradicating the threat, and restoring the affected syst
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The intricate relationships between the FIN7 group and members of the Conti ransomware gang<a href="https://securityaffairs.com/144943/cyber-crime/relationships-fin7-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware, dubbed Domino, developed by the FIN7 cybercrime group has been used by the now-defunct Conti ransomware gang.
+IBM Security X-Force researchers recently discovered a new malware family, called Domino, which was created by developers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI tools like ChatGPT expected to fuel BEC attacks<a href="https://www.helpnetsecurity.com/2023/04/17/bec-attacks-language-attack-vector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Across all BEC attacks seen over the past year, 57% of them relied on language as the main attack vector to get them in front of unsuspecting employees, according to Armorblox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using SimpleHelp Remote Support Software for Persistent Access<a href="https://thehackernews.com/2023/04/iranian-hackers-using-simplehelp-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as MuddyWater is continuing its time-tested tradition of relying on legitimate remote administration tools to commandeer targeted systems. While the nation-state group has previously employed  ScreenConnect, RemoteUtilities, and Syncro , a  new analysis  from Group-IB has revealed the adversary's use of the SimpleHelp remote support software in June 2022. MuddyWater, active since at least 2017, is assessed to be a subordinate element within Iran's Ministry of Intelligence and Security (MOIS). Some of the top targets include Turkey, Pakistan, the U.A.E., Iraq, Israel, Saudi Arabia, Jordan, the U.S., Azerbaijan, and Afghanistan. "MuddyWater uses SimpleHelp, a legitimate remote device control and management tool, to ensure persistence on victim devices," Nikita Rostovtsev, senior threat analyst at Group-IB, said. "SimpleHelp is not compromised and is used as intended. The threat actors found a way to download the tool from the of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli surveillance firm QuaDream is shutting down amidst spyware accusations<a href="https://securityaffairs.com/144935/security/quadream-is-shutting-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli surveillance firm QuaDream is allegedly shutting down its operations after Citizen Lab and Microsoft uncovered their spyware.
+Last week Citizen Lab researchers reported that at least five civil society members were victims of spyware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Publish Sensitive Employee Data Stolen During CommScope Ransomware Attack<a href="https://techcrunch.com/2023/04/17/hackers-publish-sensitive-employee-data-stolen-during-commscope-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Carolina–based company, which designs and manufactures network infrastructure products for a range of customers, including hospitals, schools, and U.S. federal agencies, was listed on the data leak site of the Vice Society ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Now Targeting Apple macOS Devices<a href="https://thehackernews.com/2023/04/lockbit-ransomware-now-targeting-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the LockBit ransomware operation have developed new artifacts that can encrypt files on devices running Apple's macOS operating system. The development, which was  reported  by the MalwareHunterTeam over the weekend, appears to be the first time a big-game ransomware crew has created a macOS-based payload. Additional samples identified by  vx-underground  show that the macOS variant has been available since November 11, 2022, and has managed to evade detection by anti-malware engines until now. LockBit is a  prolific cybercrime crew  with ties to Russia that has been active since late 2019, with the threat actors releasing two major updates to the locker in 2021 and 2022. According to statistics  released by Malwarebytes  last week, LockBit emerged as the second most used ransomware in March 2023 after Cl0p, accounting for 93 successful attacks. An analysis of the new macOS version ("locker_Apple_M1_64"_ reveals that it's still a work in pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerShell Data Theft: Vice Society Ransomware's Latest Weapon<a href="https://cyware.com/news/powershell-data-theft-vice-society-ransomwares-latest-weapon-82661086"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that the Vice Society ransomware group is utilizing a specialized tool based on PowerShell to escape detection and automate the data extraction process. With the adoption of increasingly sophisticated tools, Vice Society has become a formidable threat to organizations globally. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi Protocol Hundred Finance Loses $7M in Latest Exploit<a href="https://cryptopotato.com/defi-protocol-hundred-finance-loses-7m-in-latest-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundred Finance confirmed the exploit on April 15, noting that it had contacted the hacker for negotiations. The platform is also working with security teams to resolve the issue and has urged anyone with information on the incident to reach out.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber venture capital funding slows to a trickle, a sharp decline from 2022 investment<a href="https://www.cybersecuritydive.com/news/cyber-venture-capital-funding-declines/647759/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flow of venture capital funding to cybersecurity firms hit a steep decline in the first quarter of 2023 compared with year-ago figures, lending more credence to the notion the industry may be oversaturated with vendors and overlapping tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Understanding the Threat of Titan Stealer Malware<a href="https://cyberwarzone.com/understanding-the-threat-of-titan-stealer-malware/?&web_view=true"> Full Text</a>
@@ -50,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Spyware Vendor QuaDream to Shut Down Following Citizen Lab and Microsoft Expose<a href="https://thehackernews.com/2023/04/israeli-spyware-vendor-quadream-to-shut.html"> Full Text</a>
@@ -66,7 +343,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New QBot campaign delivered hijacking business correspondence<a href="https://securityaffairs.com/144927/cyber-crime/qbot-campaign-april-2023.html"> Full Text</a>
@@ -83,7 +360,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT41 group spotted using open-source red teaming tool GC2<a href="https://securityaffairs.com/144915/apt/china-apt41-tool-gc2.html?&web_view=true"> Full Text</a>
@@ -99,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New QBot Banking Trojan Campaign Hijacks Business Emails to Spread Malware<a href="https://thehackernews.com/2023/04/new-qbot-banking-trojan-campaign.html"> Full Text</a>
@@ -115,7 +392,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT41 group spotted using open-source red teaming tool GC2<a href="https://securityaffairs.com/144915/apt/china-apt41-tool-gc2.html"> Full Text</a>
@@ -132,7 +409,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ZeroFox to Acquire Threat Intelligence Firm LookingGlass for $26 Million<a href="https://www.securityweek.com/zerofox-to-acquire-threat-intelligence-firm-lookingglass-for-26-million/?&web_view=true"> Full Text</a>
@@ -148,7 +425,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 and Ex-Conti Cybercrime Gangs Join Forces in Domino Malware Attacks<a href="https://thehackernews.com/2023/04/fin7-and-ex-conti-cybercrime-gangs-join.html"> Full Text</a>
@@ -164,7 +441,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society gang is using a custom PowerShell tool for data exfiltration<a href="https://securityaffairs.com/144898/breaking-news/vice-society-powershell-tool-exfiltration.html"> Full Text</a>
@@ -181,7 +458,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Captcha Protected Phishing Attack Targets Access to Payroll Files<a href="https://cyberwarzone.com/new-captcha-protected-phishing-attack-targets-access-to-payroll-files/?&web_view=true"> Full Text</a>
@@ -197,7 +474,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's the Difference Between CSPM & SSPM?<a href="https://thehackernews.com/2023/04/whats-difference-between-cspm-sspm.html"> Full Text</a>
@@ -213,7 +490,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of an emerging Python-based credential harvester named Legion<a href="https://securityaffairs.com/144888/hacking/legion-python-tool-credential-harvester.html"> Full Text</a>
@@ -230,7 +507,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vixen Panda APT Group suspected of targeting foreign ministry in cyberattack<a href="https://cyberwarzone.com/vixen-panda-apt-group-suspected-of-targeting-foreign-ministry-in-cyberattack/?&web_view=true"> Full Text</a>
@@ -246,7 +523,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Uncovers APT41's Use of Open Source GC2 Tool to Target Media and Job Sites<a href="https://thehackernews.com/2023/04/google-uncovers-apt41s-use-of-open.html"> Full Text</a>
@@ -262,7 +539,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Arms Manufacturer Rheinmetall Targeted in Cyberattack<a href="https://cyberwarzone.com/german-arms-manufacturer-rheinmetall-targeted-in-cyberattack/?&web_view=true"> Full Text</a>
@@ -278,7 +555,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tour of the Underground: Master the Art of Dark Web Intelligence Gathering<a href="https://thehackernews.com/2023/04/tour-of-underground-master-art-of-dark.html"> Full Text</a>
@@ -294,7 +571,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCR Says it was hit by BlackCat Ransomware Attack<a href="https://securityaffairs.com/144866/cyber-crime/ncr-blackcat-alphv-ransomware.html?&web_view=true"> Full Text</a>
@@ -310,7 +587,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vice Society Ransomware Using Stealthy PowerShell Tool for Data Exfiltration<a href="https://thehackernews.com/2023/04/vice-society-ransomware-using-stealthy.html"> Full Text</a>
@@ -326,7 +603,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US extradites Nigerian charged over $6m email fraud scam<a href="https://www.theregister.com/2023/04/14/nigerian_bec_scam/?&web_view=true"> Full Text</a>
@@ -342,7 +619,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2023
+April 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zaraza Bot Credential-Stealer Sold on Telegram Targeting 38 Web Browsers<a href="https://thehackernews.com/2023/04/new-zaraza-bot-credential-stealer-sold.html"> Full Text</a>
