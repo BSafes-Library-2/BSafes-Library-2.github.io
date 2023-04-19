@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Government-Backed Hackers Targeting U.S. Energy and Transit Systems<a href="https://thehackernews.com/2023/04/iranian-government-backed-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian government-backed actor known as&nbsp; Mint Sandstorm &nbsp;has been linked to attacks aimed at critical infrastructure in the U.S. between late 2021 to mid-2022. "This Mint Sandstorm subgroup is technically and operationally mature, capable of developing bespoke tooling and quickly weaponizing N-day vulnerabilities, and has demonstrated agility in its operational focus, which appears to align with Iran's national priorities," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in an analysis. Targeted entities consist of seaports, energy companies, transit systems, and a major U.S. utility and gas company. The activity is suspected to be retaliatory and in response to attacks targeting its maritime,&nbsp; railway , and&nbsp; gas station payment systems &nbsp;that took place between May 2020 and late 2021. It's worth noting here that Iran subsequently&nbsp; accused &nbsp;Israel and the U.S. of masterminding the attacks on the gas stations in a bid to create unrest in the nation. Mint Sandsto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using SimpleHelp Remote Support Software for Persistent Access<a href="https://thehackernews.com/2023/04/iranian-hackers-using-simplehelp-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as MuddyWater is continuing its time-tested tradition of relying on legitimate remote administration tools to commandeer targeted systems. While the nation-state group has previously employed&nbsp; ScreenConnect, RemoteUtilities, and Syncro , a&nbsp; new analysis &nbsp;from Group-IB has revealed the adversary's use of the SimpleHelp remote support software in June 2022. MuddyWater, active since at least 2017, is assessed to be a subordinate element within Iran's Ministry of Intelligence and Security (MOIS). Some of the top targets include Turkey, Pakistan, the U.A.E., Iraq, Israel, Saudi Arabia, Jordan, the U.S., Azerbaijan, and Afghanistan. "MuddyWater uses SimpleHelp, a legitimate remote device control and management tool, to ensure persistence on victim devices," Nikita Rostovtsev, senior threat analyst at Group-IB, said. "SimpleHelp is not compromised and is used as intended. The threat actors found a way to download the tool from the of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

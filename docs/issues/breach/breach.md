@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Publish Sensitive Employee Data Stolen During CommScope Ransomware Attack<a href="https://techcrunch.com/2023/04/17/hackers-publish-sensitive-employee-data-stolen-during-commscope-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Carolina–based company, which designs and manufactures network infrastructure products for a range of customers, including hospitals, schools, and U.S. federal agencies, was listed on the data leak site of the Vice Society ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi Protocol Hundred Finance Loses $7M in Latest Exploit<a href="https://cryptopotato.com/defi-protocol-hundred-finance-loses-7m-in-latest-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundred Finance confirmed the exploit on April 15, noting that it had contacted the hacker for negotiations. The platform is also working with security teams to resolve the issue and has urged anyone with information on the incident to reach out.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

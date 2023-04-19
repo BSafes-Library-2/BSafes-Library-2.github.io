@@ -8,6 +8,35 @@ nav_order: 900027
 
 ## Business
 ---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli surveillance firm QuaDream is shutting down amidst spyware accusations<a href="https://securityaffairs.com/144935/security/quadream-is-shutting-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli surveillance firm QuaDream&nbsp;is allegedly shutting down its operations after Citizen Lab and Microsoft uncovered their spyware.
+Last week Citizen Lab researchers reported that at least five civil society members were victims of spyware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber venture capital funding slows to a trickle, a sharp decline from 2022 investment<a href="https://www.cybersecuritydive.com/news/cyber-venture-capital-funding-declines/647759/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flow of venture capital funding to cybersecurity firms hit a steep decline in the first quarter of 2023 compared with year-ago figures, lending more credence to the notion the industry may be oversaturated with vendors and overlapping tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2023
+April 19, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Living Off the Land (LOTL) attacks: Detecting ransomware gangs hiding in plain sight<a href="https://www.malwarebytes.com/blog/business/2023/04/living-off-the-land-lotl-attacks-detecting-ransomware-gangs-hiding-in-plain-sight?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2023
+April 19, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Government-Backed Hackers Targeting U.S. Energy and Transit Systems<a href="https://thehackernews.com/2023/04/iranian-government-backed-hackers.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2023
+April 19, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PWNYOURHOME, FINDMYPWN, LATENTIMAGE: 3 iOS Zero-Click exploits used by NSO Group in 2022<a href="https://securityaffairs.com/144981/hacking/nso-group-zero-click-exploits-2022.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2023
+April 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discarded, not destroyed: Old routers reveal corporate secrets<a href="https://www.welivesecurity.com/2023/04/18/discarded-not-destroyed-old-routers-reveal-corporate-secrets/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2023
+April 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in vm2 JavaScript Library Can Lead to Remote Code Execution<a href="https://thehackernews.com/2023/04/critical-flaws-in-vm2-javascript.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-Conti Members and Fin7 APT Join Hands for New Domino Backdoor<a href="https://cyware.com/news/ex-conti-members-and-fin7-apt-join-hands-for-new-domino-backdoor-cd03fbf6"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YouTube Videos Distributing Aurora Stealer Malware via Highly Evasive Loader<a href="https://thehackernews.com/2023/04/youtube-videos-distributing-aurora.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts temporarily disrupted the RedLine Stealer operations<a href="https://securityaffairs.com/144974/cyber-crime/experts-temporary-distrupted-redline-stealer-op.html"> Full Text</a>
@@ -165,7 +165,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Introducing DevOpt: A Multifunctional Backdoor Arsenal<a href="https://www.zscaler.com/blogs/security-research/introducing-devopt-multifunctional-backdoor-arsenal?&web_view=true"> Full Text</a>
@@ -181,7 +181,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Goldoson Android Malware Infects Over 100 Million Google Play Store Downloads<a href="https://thehackernews.com/2023/04/goldoson-android-malware-infects-over.html"> Full Text</a>
@@ -197,7 +197,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds bugs in Chrome and macOS to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/144967/security/cisa-chrome-macos-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -214,7 +214,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 in2al5d p3in4er is Almost Completely Undetectable<a href="https://blog.morphisec.com/in2al5d-p3in4er?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DFIR via XDR: How to expedite your investigations with a DFIRent approach<a href="https://thehackernews.com/2023/04/dfir-via-xdr-how-to-expedite-your.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The intricate relationships between the FIN7 group and members of the Conti ransomware gang<a href="https://securityaffairs.com/144943/cyber-crime/relationships-fin7-conti-ransomware.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI tools like ChatGPT expected to fuel BEC attacks<a href="https://www.helpnetsecurity.com/2023/04/17/bec-attacks-language-attack-vector/?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Using SimpleHelp Remote Support Software for Persistent Access<a href="https://thehackernews.com/2023/04/iranian-hackers-using-simplehelp-remote.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli surveillance firm QuaDream is shutting down amidst spyware accusations<a href="https://securityaffairs.com/144935/security/quadream-is-shutting-down.html"> Full Text</a>
@@ -312,7 +312,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Publish Sensitive Employee Data Stolen During CommScope Ransomware Attack<a href="https://techcrunch.com/2023/04/17/hackers-publish-sensitive-employee-data-stolen-during-commscope-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -328,7 +328,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Now Targeting Apple macOS Devices<a href="https://thehackernews.com/2023/04/lockbit-ransomware-now-targeting-apple.html"> Full Text</a>
@@ -344,7 +344,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PowerShell Data Theft: Vice Society Ransomware's Latest Weapon<a href="https://cyware.com/news/powershell-data-theft-vice-society-ransomwares-latest-weapon-82661086"> Full Text</a>
@@ -360,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeFi Protocol Hundred Finance Loses $7M in Latest Exploit<a href="https://cryptopotato.com/defi-protocol-hundred-finance-loses-7m-in-latest-exploit/?&web_view=true"> Full Text</a>
@@ -376,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2023
+April 18, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber venture capital funding slows to a trickle, a sharp decline from 2022 investment<a href="https://www.cybersecuritydive.com/news/cyber-venture-capital-funding-declines/647759/?&web_view=true"> Full Text</a>

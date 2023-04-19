@@ -8,6 +8,37 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts temporarily disrupted the RedLine Stealer operations<a href="https://securityaffairs.com/144974/cyber-crime/experts-temporary-distrupted-redline-stealer-op.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts from ESET, have temporarily disrupted the operations of the RedLine Stealer with the help of GitHub.
+ESET researchers announced to have temporarily disrupted the operations of the RedLine Stealer with the help of GitHub.
+The two companies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The intricate relationships between the FIN7 group and members of the Conti ransomware gang<a href="https://securityaffairs.com/144943/cyber-crime/relationships-fin7-conti-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware, dubbed Domino, developed by the FIN7 cybercrime group has been used by the now-defunct Conti ransomware gang.
+IBM Security X-Force researchers recently discovered a new malware family, called Domino, which was created by developers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

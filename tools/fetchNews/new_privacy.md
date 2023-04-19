@@ -8,6 +8,21 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PWNYOURHOME, FINDMYPWN, LATENTIMAGE: 3 iOS Zero-Click exploits used by NSO Group in 2022<a href="https://securityaffairs.com/144981/hacking/nso-group-zero-click-exploits-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citizen Lab reported that Israeli surveillance firm NSO Group used at least three iOS zero-click exploits in 2022.
+A new report from Citizen Lab states that the Israeli surveillance firm NSO Group used at least three&nbsp;zero-click zero-day exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

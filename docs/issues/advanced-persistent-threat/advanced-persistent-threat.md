@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-Conti Members and Fin7 APT Join Hands for New Domino Backdoor<a href="https://cyware.com/news/ex-conti-members-and-fin7-apt-join-hands-for-new-domino-backdoor-cd03fbf6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The now-defunct Conti ransomware gang members were observed deploying a new malware strain, dubbed Domino, that appears to have been developed by the FIN7 cybercrime organization. Domino has been active in the wild since at least October 2022. Organizations and security teams need a robust Threat I ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

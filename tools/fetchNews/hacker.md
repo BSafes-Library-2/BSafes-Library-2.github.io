@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT41 group spotted using open-source red teaming tool GC2<a href="https://securityaffairs.com/144915/apt/china-apt41-tool-gc2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT41 group used the open-source red teaming tool GC2 in an attack against a Taiwanese media organization.
+Google Threat Analysis Group (TAG) team reported that the China-linked APT41 group used the open-source red teaming tool Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

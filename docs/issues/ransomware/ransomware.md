@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Now Targeting Apple macOS Devices<a href="https://thehackernews.com/2023/04/lockbit-ransomware-now-targeting-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors behind the LockBit ransomware operation have developed new artifacts that can encrypt files on devices running Apple's macOS operating system. The development, which was&nbsp; reported &nbsp;by the MalwareHunterTeam over the weekend, appears to be the first time a big-game ransomware crew has created a macOS-based payload. Additional samples identified by&nbsp; vx-underground &nbsp;show that the macOS variant has been available since November 11, 2022, and has managed to evade detection by anti-malware engines until now. LockBit is a&nbsp; prolific cybercrime crew &nbsp;with ties to Russia that has been active since late 2019, with the threat actors releasing two major updates to the locker in 2021 and 2022. According to statistics&nbsp; released by Malwarebytes &nbsp;last week, LockBit emerged as the second most used ransomware in March 2023 after Cl0p, accounting for 93 successful attacks. An analysis of the new macOS version ("locker_Apple_M1_64"_ reveals that it's still a work in pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PowerShell Data Theft: Vice Society Ransomware's Latest Weapon<a href="https://cyware.com/news/powershell-data-theft-vice-society-ransomwares-latest-weapon-82661086"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers revealed that the Vice Society ransomware group is utilizing a specialized tool based on PowerShell to escape detection and automate the data extraction process. With the adoption of increasingly sophisticated tools, Vice Society has become a formidable threat to organizations globally. ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
