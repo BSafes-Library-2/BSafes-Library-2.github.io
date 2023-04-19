@@ -34,6 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Living Off the Land (LOTL) attacks: Detecting ransomware gangs hiding in plain sight<a href="https://www.malwarebytes.com/blog/business/2023/04/living-off-the-land-lotl-attacks-detecting-ransomware-gangs-hiding-in-plain-sight?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By mimicking normal behavior, LOTL attacks make it extremely difficult for IT teams and security solutions to detect any signs of malicious activities. Experienced analysts, however, might be able to pick up on subindicate an LOTL attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Government-Backed Hackers Targeting U.S. Energy and Transit Systems<a href="https://thehackernews.com/2023/04/iranian-government-backed-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian government-backed actor known as  Mint Sandstorm  has been linked to attacks aimed at critical infrastructure in the U.S. between late 2021 to mid-2022. "This Mint Sandstorm subgroup is technically and operationally mature, capable of developing bespoke tooling and quickly weaponizing N-day vulnerabilities, and has demonstrated agility in its operational focus, which appears to align with Iran's national priorities," the Microsoft Threat Intelligence team  said  in an analysis. Targeted entities consist of seaports, energy companies, transit systems, and a major U.S. utility and gas company. The activity is suspected to be retaliatory and in response to attacks targeting its maritime,  railway , and  gas station payment systems  that took place between May 2020 and late 2021. It's worth noting here that Iran subsequently  accused  Israel and the U.S. of masterminding the attacks on the gas stations in a bid to create unrest in the nation. Mint Sandsto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PWNYOURHOME, FINDMYPWN, LATENTIMAGE: 3 iOS Zero-Click exploits used by NSO Group in 2022<a href="https://securityaffairs.com/144981/hacking/nso-group-zero-click-exploits-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citizen Lab reported that Israeli surveillance firm NSO Group used at least three iOS zero-click exploits in 2022.
+A new report from Citizen Lab states that the Israeli surveillance firm NSO Group used at least three zero-click zero-day exploits...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discarded, not destroyed: Old routers reveal corporate secrets<a href="https://www.welivesecurity.com/2023/04/18/discarded-not-destroyed-old-routers-reveal-corporate-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wrong hands, the data gleaned from the devices – including customer data, router-to-router authentication keys, application lists, and much more – is enough to launch a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in vm2 JavaScript Library Can Lead to Remote Code Execution<a href="https://thehackernews.com/2023/04/critical-flaws-in-vm2-javascript.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fresh round of patches has been made available for the vm2 JavaScript library to address two critical flaws that could be exploited to break out of the sandbox protections. Both the flaws –  CVE-2023-29199  and  CVE-2023-30547  – are rated 9.8 out of 10 on the CVSS scoring system and have been addressed in versions 3.9.16 and 3.9.17, respectively. Successful  exploitation  of the  bugs , which allow an attacker to raise an unsanitized host exception, could be weaponized to escape the sandbox and run arbitrary code in the host context. "A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," the maintainers of the vm2 library said in an alert. Credited with discovering and reporting the vulnerabilities is security researcher  SeungHyun Lee , who has also  released   proof-of-concept  (PoC) exploits for the two issues in question. The disclosure comes a little over a week after vm2 remediated another sand
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 18, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
