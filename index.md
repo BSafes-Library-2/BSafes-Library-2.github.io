@@ -34,6 +34,314 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp and Signal unite against online safety bill amid privacy concerns<a href="https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rival chat apps WhatsApp and Signal have joined forces in a rare show of unity to protest against the online safety bill, which they say could undermine the UK’s privacy and safety.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG Warns of Russian Hackers Conducting Phishing Attacks in Ukraine<a href="https://thehackernews.com/2023/04/google-tag-warns-of-russian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elite hackers associated with  Russia's military intelligence service  have been linked to large-volume phishing campaigns aimed at hundreds of users in Ukraine to extract intelligence and influence public discourse related to the war. Google's Threat Analysis Group (TAG), which is  monitoring  the activities of the actor under the name  FROZENLAKE , said the  attacks   continue  the "group's 2022 focus on targeting webmail users in Eastern Europe." The state-sponsored cyber actor, also tracked as APT28, Fancy Bear, Forest Blizzard, Iron Twilight, Sednit, and Sofacy, is both highly active and proficient. It has been active since at least 2009, targeting media, governments, and military entities for espionage. The latest intrusion set, starting in early February 2023, involved the use of reflected cross-site scripting ( XSS ) attacks in various Ukrainian government websites to redirect users to phishing domains and capture their credentials. The disclosure co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian national sentenced to time served for committing money laundering for the Ryuk ransomware operation<a href="https://securityaffairs.com/145029/cyber-crime/russian-national-sentenced-money-laundering-ryuk-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national Denis Mihaqlovic Dubnikov has been sentenced to time served for committing money laundering for the Ryuk ransomware operation.
+Russian national Denis Dubnikov (30) has been sentenced to time served for committing money laundering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.2 Million Records and 800 GB of Data From Philippine Police Impacted in Data Breach<a href="https://www.bworldonline.com/the-nation/2023/04/18/517660/philippine-police-employee-records-leaked-in-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A database containing more than 1.2 million police records and 800 GB of information on people who work or applied for employment in law enforcement in the Philippines appears to have been breached, according to a cybersecurity researcher.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle Cyber Espionage Group Strikes Again: New Attack Chain Uncovered<a href="https://thehackernews.com/2023/04/blind-eagle-cyber-espionage-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber espionage actor tracked as  Blind Eagle  has been linked to a new multi-stage attack chain that leads to the deployment of the NjRAT remote access trojan on compromised systems. "The group is known for using a variety of sophisticated attack techniques, including custom malware, social engineering tactics, and spear-phishing attacks," ThreatMon  said  in a Tuesday report. Blind Eagle, also referred to as APT-C-36, is a suspected Spanish-speaking group that chiefly strikes private and public sector entities in Colombian. Attacks orchestrated by the group have also targeted Ecuador, Chile, and Spain. Infection chains documented by  Check Point  and  BlackBerry  this year have revealed the use of spear-phishing lures to deliver commodity malware families like BitRAT, AsyncRAT, and in-memory Python loaders capable of launching a Meterpreter payload. The latest discovery from ThreatMon entails the use of a JavaScript downloader to execute a PowerShell script hosted
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the second actively exploited Chrome zero-day of 2023<a href="https://securityaffairs.com/145019/security/google-second-chrome-zero-day-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google rolled out emergency security patches to address another actively exploited high-severity zero-day flaw in the Chrome browser.
+Google rolled out emergency fixes to address another actively exploited high-severity zero-day flaw, tracked as CVE-2023-2136,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSC 2.0 Report: Space Systems Should Be Designated Critical Infrastructure<a href="https://www.meritalk.com/articles/report-space-systems-should-be-designated-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of today’s space systems were developed under the premise that space was a sanctuary from conflict, but according to the CSC 2.0 commission, this is no longer the case.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Hit by Second Zero-Day Attack - Urgent Patch Update Released<a href="https://thehackernews.com/2023/04/google-chrome-hit-by-second-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday rolled out emergency fixes to address another actively exploited high-severity zero-day flaw in its Chrome web browser. The flaw, tracked as  CVE-2023-2136 , is  described  as a case of  integer overflow  in  Skia , an open source 2D graphics library. Clément Lecigne of Google's Threat Analysis Group (TAG) has been credited with discovering and reporting the flaw on April 12, 2023. "Integer overflow in Skia in Google Chrome prior to 112.0.5615.137 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page,"  according  to the NIST's National Vulnerability Database (NVD). The tech giant, which also fixed seven other security issues with the latest update, said it's aware of active exploitation of the flaw, but did not disclose additional details to prevent further abuse. The development marks the second Chrome zero-day vulnerability to be exploited by malicious actors th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and UK agencies warn of Russia-linked APT28 exploiting Cisco router flaws<a href="https://securityaffairs.com/145007/apt/apt28-targets-cisco-networking-equipment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US agencies are warning of Russia-linked APT28 group exploiting vulnerabilities in Cisco networking equipment.
+Russia-linked APT28 group accesses unpatched Cisco routers to deploy malware exploiting the not patched CVE-2017-6742 vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dasera Scores $12M Funding for Cloud Data Security<a href="https://www.securityweek.com/dasera-scores-12m-funding-for-cloud-data-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Silicon Valley startup has banked $12 million in venture capital funding to drive innovation in the data security and governance space. The Series A funding round was led by Storm Ventures and brings the total raised by Dasera to $20 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uncovering (and Understanding) the Hidden Risks of SaaS Apps<a href="https://thehackernews.com/2023/04/uncovering-and-understanding-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent data breaches across CircleCI, LastPass, and Okta underscore a common theme: The enterprise SaaS stacks connected to these industry-leading apps can be at serious risk for compromise. CircleCI, for example, plays an integral, SaaS-to-SaaS role for SaaS app development. Similarly, tens of thousands of organizations rely on Okta and LastPass security roles for SaaS identity and access management. Enterprise and niche SaaS apps alike have effectively introduced multitudes of unmonitored endpoints into organizations of all sizes.  While  spending for SaaS security  is trending up, it lags behind categories such as cloud infrastructure protection and network security. According to Statista, the average organization employs 100+ SaaS apps, many of which are unsanctioned by IT, creating a glaring gap in SaaS security.  Why Users Flock to SaaS Apps — And Often Bypass IT in the Process As productivity tools for tasks such as marketing automation, document signature, and sales foreca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Mint Sandstorm APT targeted US critical infrastructure<a href="https://securityaffairs.com/144996/apt/mint-sandstorm-targeted-us-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked APT group tracked as Mint Sandstorm is behind a string of attacks aimed at US critical infrastructure between late 2021 to mid-2022.
+Microsoft has linked the Iranian Mint Sandstorm APT (previously tracked by Microsoft as PHOSPHORUS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Action1 RMM Abused by Threat Actors for Ransomware Attacks<a href="https://cyware.com/news/action1-rmm-abused-by-threat-actors-for-ransomware-attacks-0b7a0bec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rising trend has been identified among cybercriminals; they are using Action1 remote access software for reconnaissance activity and to run code with system privileges on network hosts. In fact, it was observed in at least three ransomware attacks by threat actor groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies<a href="https://thehackernews.com/2023/04/pakistani-hackers-use-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan-based advanced persistent threat (APT) actor known as  Transparent Tribe  used a two-factor authentication (2FA) tool used by Indian government agencies as a ruse to deliver a new Linux backdoor called Poseidon. "Poseidon is a second-stage payload malware associated with Transparent Tribe," Uptycs security researcher Tejaswini Sandapolla said in a technical report published this week. "It is a general-purpose backdoor that provides attackers with a wide range of capabilities to hijack an infected host. Its functionalities include logging keystrokes, taking screen captures, uploading and downloading files, and remotely administering the system in various ways." Transparent Tribe  is also tracked as APT36, Operation C-Major, PROJECTM, and Mythic Leopard, and has a track record of targeting Indian government organizations, military personnel, defense contractors, and educational entities. It has also repeatedly leveraged trojanized versions of Kavac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Facing Phishing Attacks, Information Operations<a href="https://www.bankinfosecurity.com/ukraine-facing-phishing-attacks-information-operations-a-21704?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government continues to use an array of phishing attacks and information operations, including hack-and-leak efforts, to support its invasion of Ukraine, researchers reported.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and U.K. Warn of Russian Hackers Exploiting Cisco Router Flaws for Espionage<a href="https://thehackernews.com/2023/04/us-and-uk-warn-of-russian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.K. and U.S. cybersecurity and intelligence agencies have  warned  of Russian nation-state actors exploiting now-patched flaws in networking equipment from Cisco to conduct reconnaissance and deploy malware against targets. The  intrusions , per the authorities, took place in 2021 and targeted a small number of entities in Europe, U.S. government institutions, and about 250 Ukrainian victims. The activity has been attributed to a threat actor tracked as  APT28 , which is also known as Fancy Bear, Forest Blizzard (formerly Strontium), FROZENLAKE, and Sofacy, and is affiliated with the Russian General Staff Main Intelligence Directorate (GRU). "APT28 has been known to access vulnerable routers by using default and weak SNMP community strings, and by exploiting CVE-2017-6742," the National Cyber Security Centre (NCSC) said. CVE-2017-6742  (CVSS score: 8.8) is part of a set of remote code execution flaws that stem from a  buffer overflow condition  in the Simple Network Ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle Releases 433 New Security Patches With April 2023 CPU<a href="https://www.securityweek.com/oracle-releases-433-new-security-patches-with-april-2023-cpu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle on Tuesday announced the release of 433 new patches as part of its quarterly set of security updates, including more than 70 fixes for critical-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfiguration leaves thousands of servers vulnerable to attack, researchers find<a href="https://cyberscoop.com/misconfiguration-servers-vulnerable-censys/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured web servers remain a “major problem” with thousands left exposed online waiting for hackers to gain access to valuable information that’s left up for grabs, according to a recent report from the security company Censys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Goldoson Library Infects Popular Apps with Adware<a href="https://cyware.com/news/goldoson-library-infects-popular-apps-with-adware-10d88510"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently detected Android malware named 'Goldoson' has made its way into Google Play and has been found in 60 legitimate applications, which have been downloaded a total of 100 million times. Users are suggested to always perform due diligence, especially for new apps without good reviews.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 19, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
