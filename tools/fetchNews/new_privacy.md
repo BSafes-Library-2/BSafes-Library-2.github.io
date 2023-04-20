@@ -11,6 +11,20 @@ nav_order: 900165
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp and Signal unite against online safety bill amid privacy concerns<a href="https://www.theguardian.com/technology/2023/apr/18/whatsapp-signal-unite-against-online-safety-bill-privacy-messaging-apps-safety-security-uk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rival chat apps WhatsApp and Signal have joined forces in a rare show of unity to protest against the online safety bill, which they say could undermine the UK’s privacy and safety.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 PWNYOURHOME, FINDMYPWN, LATENTIMAGE: 3 iOS Zero-Click exploits used by NSO Group in 2022<a href="https://securityaffairs.com/144981/hacking/nso-group-zero-click-exploits-2022.html"> Full Text</a>
 </p>
 <details>

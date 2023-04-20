@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dasera Scores $12M Funding for Cloud Data Security<a href="https://www.securityweek.com/dasera-scores-12m-funding-for-cloud-data-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Silicon Valley startup has banked $12 million in venture capital funding to drive innovation in the data security and governance space. The Series A funding round was led by Storm Ventures and brings the total raised by Dasera to $20 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

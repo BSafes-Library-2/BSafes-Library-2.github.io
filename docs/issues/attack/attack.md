@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blind Eagle Cyber Espionage Group Strikes Again: New Attack Chain Uncovered<a href="https://thehackernews.com/2023/04/blind-eagle-cyber-espionage-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber espionage actor tracked as&nbsp; Blind Eagle &nbsp;has been linked to a new multi-stage attack chain that leads to the deployment of the NjRAT remote access trojan on compromised systems. "The group is known for using a variety of sophisticated attack techniques, including custom malware, social engineering tactics, and spear-phishing attacks," ThreatMon&nbsp; said &nbsp;in a Tuesday report. Blind Eagle, also referred to as APT-C-36, is a suspected Spanish-speaking group that chiefly strikes private and public sector entities in Colombian. Attacks orchestrated by the group have also targeted Ecuador, Chile, and Spain. Infection chains documented by&nbsp; Check Point &nbsp;and&nbsp; BlackBerry &nbsp;this year have revealed the use of spear-phishing lures to deliver commodity malware families like BitRAT, AsyncRAT, and in-memory Python loaders capable of launching a Meterpreter payload. The latest discovery from ThreatMon entails the use of a JavaScript downloader to execute a PowerShell script hosted
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

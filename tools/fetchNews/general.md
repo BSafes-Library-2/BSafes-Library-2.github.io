@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI tools like ChatGPT expected to fuel BEC attacks<a href="https://www.helpnetsecurity.com/2023/04/17/bec-attacks-language-attack-vector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Across all BEC attacks seen over the past year, 57% of them relied on language as the main attack vector to get them in front of unsuspecting employees, according to Armorblox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

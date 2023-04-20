@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CSC 2.0 Report: Space Systems Should Be Designated Critical Infrastructure<a href="https://www.meritalk.com/articles/report-space-systems-should-be-designated-critical-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most of today’s space systems were developed under the premise that space was a sanctuary from conflict, but according to the CSC 2.0 commission, this is no longer the case.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uncovering (and Understanding) the Hidden Risks of SaaS Apps<a href="https://thehackernews.com/2023/04/uncovering-and-understanding-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent data breaches across CircleCI, LastPass, and Okta underscore a common theme: The enterprise SaaS stacks connected to these industry-leading apps can be at serious risk for compromise. CircleCI, for example, plays an integral, SaaS-to-SaaS role for SaaS app development. Similarly, tens of thousands of organizations rely on Okta and LastPass security roles for SaaS identity and access management. Enterprise and niche SaaS apps alike have effectively introduced multitudes of unmonitored endpoints into organizations of all sizes.&nbsp; While&nbsp; spending for SaaS security &nbsp;is trending up, it lags behind categories such as cloud infrastructure protection and network security. According to Statista, the average organization employs 100+ SaaS apps, many of which are unsanctioned by IT, creating a glaring gap in SaaS security.&nbsp; Why Users Flock to SaaS Apps — And Often Bypass IT in the Process As productivity tools for tasks such as marketing automation, document signature, and sales foreca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

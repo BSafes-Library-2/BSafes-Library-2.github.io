@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfiguration leaves thousands of servers vulnerable to attack, researchers find<a href="https://cyberscoop.com/misconfiguration-servers-vulnerable-censys/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured web servers remain a “major problem” with thousands left exposed online waiting for hackers to gain access to valuable information that’s left up for grabs, according to a recent report from the security company Censys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

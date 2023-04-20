@@ -11,6 +11,49 @@ nav_order: 900220
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the second actively exploited Chrome zero-day of 2023<a href="https://securityaffairs.com/145019/security/google-second-chrome-zero-day-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google rolled out emergency security patches to address another actively exploited high-severity zero-day flaw in the Chrome browser.
+Google rolled out emergency fixes to address another actively exploited high-severity zero-day flaw, tracked as CVE-2023-2136,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Hit by Second Zero-Day Attack - Urgent Patch Update Released<a href="https://thehackernews.com/2023/04/google-chrome-hit-by-second-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday rolled out emergency fixes to address another actively exploited high-severity zero-day flaw in its Chrome web browser. The flaw, tracked as&nbsp; CVE-2023-2136 , is&nbsp; described &nbsp;as a case of&nbsp; integer overflow &nbsp;in&nbsp; Skia , an open source 2D graphics library. Clément Lecigne of Google's Threat Analysis Group (TAG) has been credited with discovering and reporting the flaw on April 12, 2023. "Integer overflow in Skia in Google Chrome prior to 112.0.5615.137 allowed a remote attacker who had compromised the renderer process to potentially perform a sandbox escape via a crafted HTML page,"&nbsp; according &nbsp;to the NIST's National Vulnerability Database (NVD). The tech giant, which also fixed seven other security issues with the latest update, said it's aware of active exploitation of the flaw, but did not disclose additional details to prevent further abuse. The development marks the second Chrome zero-day vulnerability to be exploited by malicious actors th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oracle Releases 433 New Security Patches With April 2023 CPU<a href="https://www.securityweek.com/oracle-releases-433-new-security-patches-with-april-2023-cpu/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oracle on Tuesday announced the release of 433 new patches as part of its quarterly set of security updates, including more than 70 fixes for critical-severity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Discarded, not destroyed: Old routers reveal corporate secrets<a href="https://www.welivesecurity.com/2023/04/18/discarded-not-destroyed-old-routers-reveal-corporate-secrets/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

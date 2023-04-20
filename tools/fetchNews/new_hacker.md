@@ -11,6 +11,34 @@ nav_order: 900080
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Hackers Use Linux Malware Poseidon to Target Indian Government Agencies<a href="https://thehackernews.com/2023/04/pakistani-hackers-use-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan-based advanced persistent threat (APT) actor known as&nbsp; Transparent Tribe &nbsp;used a two-factor authentication (2FA) tool used by Indian government agencies as a ruse to deliver a new Linux backdoor called Poseidon. "Poseidon is a second-stage payload malware associated with Transparent Tribe," Uptycs security researcher Tejaswini Sandapolla said in a technical report published this week. "It is a general-purpose backdoor that provides attackers with a wide range of capabilities to hijack an infected host. Its functionalities include logging keystrokes, taking screen captures, uploading and downloading files, and remotely administering the system in various ways." Transparent Tribe &nbsp;is also tracked as APT36, Operation C-Major, PROJECTM, and Mythic Leopard, and has a track record of targeting Indian government organizations, military personnel, defense contractors, and educational entities. It has also repeatedly leveraged trojanized versions of Kavac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and U.K. Warn of Russian Hackers Exploiting Cisco Router Flaws for Espionage<a href="https://thehackernews.com/2023/04/us-and-uk-warn-of-russian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.K. and U.S. cybersecurity and intelligence agencies have&nbsp; warned &nbsp;of Russian nation-state actors exploiting now-patched flaws in networking equipment from Cisco to conduct reconnaissance and deploy malware against targets. The&nbsp; intrusions , per the authorities, took place in 2021 and targeted a small number of entities in Europe, U.S. government institutions, and about 250 Ukrainian victims. The activity has been attributed to a threat actor tracked as&nbsp; APT28 , which is also known as Fancy Bear, Forest Blizzard (formerly Strontium), FROZENLAKE, and Sofacy, and is affiliated with the Russian General Staff Main Intelligence Directorate (GRU). "APT28 has been known to access vulnerable routers by using default and weak SNMP community strings, and by exploiting CVE-2017-6742," the National Cyber Security Centre (NCSC) said. CVE-2017-6742 &nbsp;(CVSS score: 8.8) is part of a set of remote code execution flaws that stem from a&nbsp; buffer overflow condition &nbsp;in the Simple Network Ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian Government-Backed Hackers Targeting U.S. Energy and Transit Systems<a href="https://thehackernews.com/2023/04/iranian-government-backed-hackers.html"> Full Text</a>
 </p>
 <details>

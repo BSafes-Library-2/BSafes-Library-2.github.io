@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Living Off the Land (LOTL) attacks: Detecting ransomware gangs hiding in plain sight<a href="https://www.malwarebytes.com/blog/business/2023/04/living-off-the-land-lotl-attacks-detecting-ransomware-gangs-hiding-in-plain-sight?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By mimicking normal behavior, LOTL attacks make it extremely difficult for IT teams and security solutions to detect any signs of malicious activities. Experienced analysts, however, might be able to pick up on subindicate an LOTL attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing DevOpt: A Multifunctional Backdoor Arsenal<a href="https://www.zscaler.com/blogs/security-research/introducing-devopt-multifunctional-backdoor-arsenal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is currently still in development and is receiving continuous improvement updates designed to make it a more potent and effective tool for attackers and a threat to defenders.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DFIR via XDR: How to expedite your investigations with a DFIRent approach<a href="https://thehackernews.com/2023/04/dfir-via-xdr-how-to-expedite-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid technological evolution requires security that is resilient, up to date and adaptable. In this article, we will cover the transformation in the field of DFIR (digital forensics and incident response) in the last couple years, focusing on the digital forensics' aspect and how XDR fits into the picture. Before we dive into the details, let's first break down the main components of DFIR and define the differences between them. Digital Forensics vs Incident Response Digital forensics: &nbsp;the practice of using scientific techniques and tools to identify, preserve, and analyze digital evidence from various sources, such as computers, smartphones, and other electronic devices, in a way that is admissible in a court of law. Incident response: &nbsp;the process of responding to and managing the aftermath of a security breach or cyberattack. This involves identifying the nature and scope of the incident, containing the damage, eradicating the threat, and restoring the affected syst
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

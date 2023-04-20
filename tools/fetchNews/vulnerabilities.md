@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discarded, not destroyed: Old routers reveal corporate secrets<a href="https://www.welivesecurity.com/2023/04/18/discarded-not-destroyed-old-routers-reveal-corporate-secrets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wrong hands, the data gleaned from the devices – including customer data, router-to-router authentication keys, application lists, and much more – is enough to launch a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in vm2 JavaScript Library Can Lead to Remote Code Execution<a href="https://thehackernews.com/2023/04/critical-flaws-in-vm2-javascript.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fresh round of patches has been made available for the vm2 JavaScript library to address two critical flaws that could be exploited to break out of the sandbox protections. Both the flaws –&nbsp; CVE-2023-29199 &nbsp;and&nbsp; CVE-2023-30547 &nbsp;– are rated 9.8 out of 10 on the CVSS scoring system and have been addressed in versions 3.9.16 and 3.9.17, respectively. Successful&nbsp; exploitation &nbsp;of the&nbsp; bugs , which allow an attacker to raise an unsanitized host exception, could be weaponized to escape the sandbox and run arbitrary code in the host context. "A threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox," the maintainers of the vm2 library said in an alert. Credited with discovering and reporting the vulnerabilities is security researcher&nbsp; SeungHyun Lee , who has also&nbsp; released &nbsp; proof-of-concept &nbsp;(PoC) exploits for the two issues in question. The disclosure comes a little over a week after vm2 remediated another sand
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

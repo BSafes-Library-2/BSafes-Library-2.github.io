@@ -8,6 +8,36 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and UK agencies warn of Russia-linked APT28 exploiting Cisco router flaws<a href="https://securityaffairs.com/145007/apt/apt28-targets-cisco-networking-equipment.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US agencies are&nbsp;warning&nbsp;of Russia-linked APT28 group exploiting vulnerabilities in Cisco networking equipment.
+Russia-linked APT28 group accesses unpatched Cisco routers to deploy malware exploiting the not patched CVE-2017-6742&nbsp;vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Mint Sandstorm APT targeted US critical infrastructure<a href="https://securityaffairs.com/144996/apt/mint-sandstorm-targeted-us-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iran-linked APT group tracked as&nbsp;Mint Sandstorm&nbsp;is behind a string of attacks aimed at US critical infrastructure between late 2021 to mid-2022.
+Microsoft has linked the Iranian Mint Sandstorm&nbsp;APT (previously tracked by Microsoft as PHOSPHORUS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
