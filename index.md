@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Scams Abusing Microsoft Teams and More<a href="https://cyware.com/news/phishing-scams-abusing-microsoft-teams-and-more-c4a119df"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Critical Flaws Found in Alibaba Cloud's PostgreSQL Databases<a href="https://thehackernews.com/2023/04/two-critical-flaws-found-in-alibaba.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multinational ICICI Bank leaks passports and credit card numbers<a href="https://securityaffairs.com/145094/uncategorized/icici-bank-data-leak.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Uses Vulnerability in Cisco Routers to Deploy Malware<a href="https://cyware.com/news/apt28-uses-vulnerability-in-cisco-routers-to-deploy-malware-82515ab9"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beyond Traditional Security: NDR's Pivotal Role in Safeguarding OT Networks<a href="https://thehackernews.com/2023/04/beyond-traditional-security-ndrs.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a critical flaw in vRealize that allows executing arbitrary code as root<a href="https://securityaffairs.com/145087/security/critical-flaw-vmware-vrealize.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Eyes macOS; Test Version of macOS Encryptor Revealed<a href="https://cyware.com/news/lockbit-eyes-macos-test-version-of-macos-encryptor-revealed-53a7e8c3"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Adds Linux Malware to Arsenal in Operation Dream Job<a href="https://thehackernews.com/2023/04/lazarus-group-adds-linux-malware-to.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT group employed Linux Malware in recent attacks and was linked to 3CX supply chain attack<a href="https://securityaffairs.com/145073/apt/lazarus-apt-linux-malware-3cx-attack.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax-Themed Phishing Attacks Proliferate During Tax Filing Season<a href="https://cyware.com/news/tax-themed-phishing-attacks-proliferate-during-tax-filing-season-1d938b33"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortra Sheds Light on GoAnywhere MFT Zero-Day Exploit Used in Ransomware Attacks<a href="https://thehackernews.com/2023/04/fortra-sheds-light-on-goanywhere-mft.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts disclosed two critical flaws in Alibaba cloud database services<a href="https://securityaffairs.com/145061/hacking/brokensesame-alibaba-cloud-flaws.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Infrastructure of MuddyWater APT Group Uncovered<a href="https://cyware.com/news/new-infrastructure-of-muddywater-apt-group-uncovered-cea75478"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT's Data Protection Blind Spots and How Security Teams Can Solve Them<a href="https://thehackernews.com/2023/04/chatgpts-data-protection-blind-spots.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG warns of Russia-linked APT groups targeting Ukraine<a href="https://securityaffairs.com/145050/apt/russia-linked-apt-targeting-ukraine.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wargaming an effective data breach playbook<a href="https://www.helpnetsecurity.com/2023/04/18/effective-data-breach-playbook/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Daggerfly Cyberattack Campaign Hits African Telecom Services Providers<a href="https://thehackernews.com/2023/04/daggerfly-cyberattack-campaign-hits.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trigona Ransomware targets Microsoft SQL servers<a href="https://securityaffairs.com/145036/cyber-crime/trigona-ransomware-targets-microsoft-sql-servers.html"> Full Text</a>
@@ -329,7 +329,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Storing Malware in Google Drive as Encrypted ZIP Files To Evade Detection<a href="https://gbhackers.com/hackers-storing-malware-in-google-drive/?&web_view=true"> Full Text</a>
@@ -345,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSO Group Used 3 Zero-Click iPhone Exploits Against Human Rights Defenders<a href="https://thehackernews.com/2023/04/nso-group-used-3-zero-click-iphone.html"> Full Text</a>
@@ -361,7 +361,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber insurance premium hikes slowed in 2022, Fitch says<a href="https://www.cybersecuritydive.com/news/cyber-premiums-spike-slower-pace-2022-fitch/647942/?&web_view=true"> Full Text</a>
@@ -377,7 +377,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘AuKill’ EDR killer malware abuses Process Explorer driver<a href="https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/?&web_view=true"> Full Text</a>
@@ -393,7 +393,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Giving a Face to the Malware Proxy Service ‘Faceless’ – Krebs on Security<a href="https://krebsonsecurity.com/2023/04/giving-a-face-to-the-malware-proxy-service-faceless/?&web_view=true"> Full Text</a>

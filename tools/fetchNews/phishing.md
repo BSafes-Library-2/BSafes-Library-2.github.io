@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG Warns of Russian Hackers Conducting Phishing Attacks in Ukraine<a href="https://thehackernews.com/2023/04/google-tag-warns-of-russian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elite hackers associated with&nbsp; Russia's military intelligence service &nbsp;have been linked to large-volume phishing campaigns aimed at hundreds of users in Ukraine to extract intelligence and influence public discourse related to the war. Google's Threat Analysis Group (TAG), which is&nbsp; monitoring &nbsp;the activities of the actor under the name&nbsp; FROZENLAKE , said the&nbsp; attacks &nbsp; continue &nbsp;the "group's 2022 focus on targeting webmail users in Eastern Europe." The state-sponsored cyber actor, also tracked as APT28, Fancy Bear, Forest Blizzard, Iron Twilight, Sednit, and Sofacy, is both highly active and proficient. It has been active since at least 2009, targeting media, governments, and military entities for espionage. The latest intrusion set, starting in early February 2023, involved the use of reflected cross-site scripting ( XSS ) attacks in various Ukrainian government websites to redirect users to phishing domains and capture their credentials. The disclosure co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Facing Phishing Attacks, Information Operations<a href="https://www.bankinfosecurity.com/ukraine-facing-phishing-attacks-information-operations-a-21704?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government continues to use an array of phishing attacks and information operations, including hack-and-leak efforts, to support its invasion of Ukraine, researchers reported.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

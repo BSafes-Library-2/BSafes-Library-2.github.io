@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian national sentenced to time served for committing money laundering for the&nbsp;Ryuk ransomware operation<a href="https://securityaffairs.com/145029/cyber-crime/russian-national-sentenced-money-laundering-ryuk-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian national Denis Mihaqlovic Dubnikov has been sentenced to time served for committing money laundering for the&nbsp;Ryuk ransomware operation.
+Russian national Denis Dubnikov (30) has been sentenced to time served for committing money laundering...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

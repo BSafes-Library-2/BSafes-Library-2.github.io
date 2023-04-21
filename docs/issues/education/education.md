@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond Traditional Security: NDR's Pivotal Role in Safeguarding OT Networks<a href="https://thehackernews.com/2023/04/beyond-traditional-security-ndrs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why is Visibility into OT Environments Crucial? The significance of Operational Technology (OT) for businesses is undeniable as the OT sector flourishes alongside the already thriving IT sector. OT includes industrial control systems, manufacturing equipment, and devices that oversee and manage industrial environments and critical infrastructures. In recent years, adversaries have recognized the lack of detection and protection in many industrial systems and are actively exploiting these vulnerabilities. In response, IT security leaders have become more aware of the need to protect their OT environments with security monitoring and response capabilities. This development was accelerated by severe past cyber incidents targeting critical OT environments and even causing physical damage to infrastructures. Given the pivotal role these systems play in business operations and modern society, ensuring their security is of utmost importance. The underlying trend is clear: OT and IoT networ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT's Data Protection Blind Spots and How Security Teams Can Solve Them<a href="https://thehackernews.com/2023/04/chatgpts-data-protection-blind-spots.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the short time since their inception, ChatGPT and other generative AI platforms have rightfully gained the reputation of ultimate productivity boosters. However, the very same technology that enables rapid production of high-quality text on demand, can at the same time expose sensitive corporate data. A recent&nbsp; incident , in which Samsung software engineers pasted proprietary code into ChatGPT, clearly demonstrates that this tool can easily become a potential data leakage channel. This vulnerability introduces a demanding challenge for security stakeholders, since none of the existing data protection tools can ensure no sensitive data is exposed to ChatGPT. In this article we'll explore this security challenge in detail and show how browser security solutions can provide a solution. All while enabling organizations to fully realize ChatGPT's productivity potential and without having to compromise on data security.&nbsp; The ChatGPT data protection blind spot: How can you govern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wargaming an effective data breach playbook<a href="https://www.helpnetsecurity.com/2023/04/18/effective-data-breach-playbook/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foreseeing every possible twist and turn of a breach may be impossible, but through extensive wargaming, security teams can simulate diverse situations to give them a proactive edge.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

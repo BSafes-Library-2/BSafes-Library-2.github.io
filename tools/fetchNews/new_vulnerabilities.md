@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Critical Flaws Found in Alibaba Cloud's PostgreSQL Databases<a href="https://thehackernews.com/2023/04/two-critical-flaws-found-in-alibaba.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A chain of two critical flaws has been disclosed in Alibaba Cloud's ApsaraDB RDS for PostgreSQL and AnalyticDB for PostgreSQL that could be exploited to breach tenant isolation protections and access sensitive data belonging to other customers. "The vulnerabilities potentially allowed unauthorized access to Alibaba Cloud customers' PostgreSQL databases and the ability to perform a supply chain attack on both Alibaba database services, leading to an RCE on Alibaba database services," cloud security firm Wiz&nbsp; said &nbsp;in a new report shared with The Hacker News. The&nbsp; issues , dubbed&nbsp; BrokenSesame , were reported to Alibaba Cloud in December 2022, following mitigations were deployed by the company on April 12, 2023. There is no evidence to suggest that the weaknesses were exploited in the wild. In a nutshell, the vulnerabilities – a privilege escalation flaw in AnalyticDB and a remote code execution bug in ApsaraDB RDS – made it possible to elevate privileges to root w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a critical flaw in vRealize that allows executing arbitrary code as root<a href="https://securityaffairs.com/145087/security/critical-flaw-vmware-vrealize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed two severe flaws, tracked as CVE-2023-20864 and CVE-2023-20865, impacting the VMware Aria Operations for Logs product.
+The virtualization giant VMware released security updates to address two critical vulnerabilities, tracked as CVE-2023-20864...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclosed two critical flaws in Alibaba cloud database services<a href="https://securityaffairs.com/145061/hacking/brokensesame-alibaba-cloud-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two critical flaws in Alibaba Cloud's ApsaraDB RDS for PostgreSQL and AnalyticDB for PostgreSQL.
+Researchers from cloud security firm Wiz discovered two critical flaws, collectively dubbed BrokenSesame, in Alibaba Cloud's ApsaraDB...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

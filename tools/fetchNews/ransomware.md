@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Action1 RMM Abused by Threat Actors for Ransomware Attacks<a href="https://cyware.com/news/action1-rmm-abused-by-threat-actors-for-ransomware-attacks-0b7a0bec"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rising trend has been identified among cybercriminals; they are using Action1 remote access software for reconnaissance activity and to run code with system privileges on network hosts. In fact, it was observed in at least three ransomware attacks by threat actor groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

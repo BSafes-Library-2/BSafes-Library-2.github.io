@@ -8,6 +8,50 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Eyes macOS; Test Version of macOS Encryptor Revealed<a href="https://cyware.com/news/lockbit-eyes-macos-test-version-of-macos-encryptor-revealed-53a7e8c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam discovered a ZIP archive—belonging to the LockBit ransomware group—uploaded to VirusTotal containing previously unknown encryptors for macOS, ARM, FreeBSD, MIPS, and SPARC. Security analysts from BleepingComputer assert that the discovered builds could have been created for testin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortra Sheds Light on GoAnywhere MFT Zero-Day Exploit Used in Ransomware Attacks<a href="https://thehackernews.com/2023/04/fortra-sheds-light-on-goanywhere-mft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortra, the company behind Cobalt Strike, shed light on a zero-day remote code execution (RCE) vulnerability in its GoAnywhere MFT tool that has come under&nbsp; active &nbsp; exploitation &nbsp;by ransomware actors to steal sensitive data. The high-severity flaw, tracked as&nbsp; CVE-2023-0669 &nbsp;(CVSS score: 7.2), concerns a case of pre-authenticated command injection that could be abused to achieve code execution. The issue was patched by the company in version 7.1.2 of the software in February 2023, but not before it was weaponized as a zero-day since January 18. Fortra, which worked with Palo Alto Networks Unit 42, said it was made aware of suspicious activity associated with some of the file transfer instances on January 30, 2023. "The unauthorized party used CVE-2023-0669 to create unauthorized user accounts in some MFTaaS customer environments," the company&nbsp; said . "For a subset of these customers, the unauthorized party leveraged these user accounts to download files from their h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trigona Ransomware targets Microsoft SQL servers<a href="https://securityaffairs.com/145036/cyber-crime/trigona-ransomware-targets-microsoft-sql-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are hacking poorly secured and Interned-exposed Microsoft SQL servers to deploy the Trigona ransomware.
+Threat actors are hacking into poorly secured and public-facing Microsoft SQL servers to deploy Trigona ransomware.
+Trigona is a malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

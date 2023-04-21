@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1.2 Million Records and 800 GB of Data From Philippine Police Impacted in Data Breach<a href="https://www.bworldonline.com/the-nation/2023/04/18/517660/philippine-police-employee-records-leaked-in-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A database containing more than 1.2 million police records and 800 GB of information on people who work or applied for employment in law enforcement in the Philippines appears to have been breached, according to a cybersecurity researcher.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,64 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Uses Vulnerability in Cisco Routers to Deploy Malware<a href="https://cyware.com/news/apt28-uses-vulnerability-in-cisco-routers-to-deploy-malware-82515ab9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government agencies in the U.S. and the U.K. issued a joint advisory to warn organizations about attacks exploiting an old vulnerability in Cisco routers. The attacks are attributed to the Fancy Bear threat group and the flaw in question is CVE-2017-6742. The attackers are exploiting the vulnerabil ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT group employed Linux Malware in recent attacks and was linked to 3CX supply chain attack<a href="https://securityaffairs.com/145073/apt/lazarus-apt-linux-malware-3cx-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group&nbsp;Lazarus employed new Linux malware in attacks that are part of Operation Dream Job.
+North Korea-linked APT group&nbsp;Lazarus is behind a new campaign tracked as Operation DreamJob (aka DeathNote or NukeSped) that employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Infrastructure of MuddyWater APT Group Uncovered<a href="https://cyware.com/news/new-infrastructure-of-muddywater-apt-group-uncovered-cea75478"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MuddyWater has been employing SimpleHelp, a lawful tool used for managing and controlling remote devices, to establish persistence on compromised devices, revealed researchers. The attackers send phishing emails containing links to file storage systems such as OneDrive, Dropbox, or OneHub to downlo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG warns of Russia-linked APT groups targeting Ukraine<a href="https://securityaffairs.com/145050/apt/russia-linked-apt-targeting-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers from Google TAG are warning of Russia-linked threat actors targeting Ukraine with phishing campaigns.
+Russia-linked threat actors launched large-volume phishing campaigns against hundreds of users in Ukraine to gather intelligence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

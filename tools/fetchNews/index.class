@@ -34,6 +34,381 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Scams Abusing Microsoft Teams and More<a href="https://cyware.com/news/phishing-scams-abusing-microsoft-teams-and-more-c4a119df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have become increasingly adept at designing new phishing tactics. Lately, a scam was found camouflaging as the legitimate Microsoft Teams login with the goal of tricking users into entering their login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Critical Flaws Found in Alibaba Cloud's PostgreSQL Databases<a href="https://thehackernews.com/2023/04/two-critical-flaws-found-in-alibaba.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A chain of two critical flaws has been disclosed in Alibaba Cloud's ApsaraDB RDS for PostgreSQL and AnalyticDB for PostgreSQL that could be exploited to breach tenant isolation protections and access sensitive data belonging to other customers. "The vulnerabilities potentially allowed unauthorized access to Alibaba Cloud customers' PostgreSQL databases and the ability to perform a supply chain attack on both Alibaba database services, leading to an RCE on Alibaba database services," cloud security firm Wiz  said  in a new report shared with The Hacker News. The  issues , dubbed  BrokenSesame , were reported to Alibaba Cloud in December 2022, following mitigations were deployed by the company on April 12, 2023. There is no evidence to suggest that the weaknesses were exploited in the wild. In a nutshell, the vulnerabilities – a privilege escalation flaw in AnalyticDB and a remote code execution bug in ApsaraDB RDS – made it possible to elevate privileges to root w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multinational ICICI Bank leaks passports and credit card numbers<a href="https://securityaffairs.com/145094/uncategorized/icici-bank-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ICICI Bank leaked millions of records with sensitive data, including financial information and personal documents of the bank's clients.
+ICICI Bank, an Indian multinational valued at more than $76 billion, has more than 5,000 branches across India...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Uses Vulnerability in Cisco Routers to Deploy Malware<a href="https://cyware.com/news/apt28-uses-vulnerability-in-cisco-routers-to-deploy-malware-82515ab9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government agencies in the U.S. and the U.K. issued a joint advisory to warn organizations about attacks exploiting an old vulnerability in Cisco routers. The attacks are attributed to the Fancy Bear threat group and the flaw in question is CVE-2017-6742. The attackers are exploiting the vulnerabil ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond Traditional Security: NDR's Pivotal Role in Safeguarding OT Networks<a href="https://thehackernews.com/2023/04/beyond-traditional-security-ndrs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why is Visibility into OT Environments Crucial? The significance of Operational Technology (OT) for businesses is undeniable as the OT sector flourishes alongside the already thriving IT sector. OT includes industrial control systems, manufacturing equipment, and devices that oversee and manage industrial environments and critical infrastructures. In recent years, adversaries have recognized the lack of detection and protection in many industrial systems and are actively exploiting these vulnerabilities. In response, IT security leaders have become more aware of the need to protect their OT environments with security monitoring and response capabilities. This development was accelerated by severe past cyber incidents targeting critical OT environments and even causing physical damage to infrastructures. Given the pivotal role these systems play in business operations and modern society, ensuring their security is of utmost importance. The underlying trend is clear: OT and IoT networ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed a critical flaw in vRealize that allows executing arbitrary code as root<a href="https://securityaffairs.com/145087/security/critical-flaw-vmware-vrealize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed two severe flaws, tracked as CVE-2023-20864 and CVE-2023-20865, impacting the VMware Aria Operations for Logs product.
+The virtualization giant VMware released security updates to address two critical vulnerabilities, tracked as CVE-2023-20864...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Eyes macOS; Test Version of macOS Encryptor Revealed<a href="https://cyware.com/news/lockbit-eyes-macos-test-version-of-macos-encryptor-revealed-53a7e8c3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam discovered a ZIP archive—belonging to the LockBit ransomware group—uploaded to VirusTotal containing previously unknown encryptors for macOS, ARM, FreeBSD, MIPS, and SPARC. Security analysts from BleepingComputer assert that the discovered builds could have been created for testin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Adds Linux Malware to Arsenal in Operation Dream Job<a href="https://thehackernews.com/2023/04/lazarus-group-adds-linux-malware-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korea-aligned state-sponsored actor known as the  Lazarus Group  has been attributed to a new campaign aimed at Linux users. The attacks are part of a persistent and long-running activity tracked under the name  Operation Dream Job , ESET said in a  new report  published today. The findings are crucial, not least because it marks the first publicly documented example of the adversary using Linux malware as part of this social engineering scheme. Operation Dream Job , also known as  DeathNote or NukeSped , refers to multiple attack waves wherein the group leverages fraudulent job offers as a lure to trick unsuspecting targets into downloading malware. It also  exhibits overlaps  with two other Lazarus clusters known as Operation In(ter)ception and Operation North Star. The attack chain discovered by ESET is no different in that it delivers a fake HSBC job offer as a decoy within a ZIP archive file that's then used to launch a Linux backdoor named SimplexTea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT group employed Linux Malware in recent attacks and was linked to 3CX supply chain attack<a href="https://securityaffairs.com/145073/apt/lazarus-apt-linux-malware-3cx-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Lazarus employed new Linux malware in attacks that are part of Operation Dream Job.
+North Korea-linked APT group Lazarus is behind a new campaign tracked as Operation DreamJob (aka DeathNote or NukeSped) that employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax-Themed Phishing Attacks Proliferate During Tax Filing Season<a href="https://cyware.com/news/tax-themed-phishing-attacks-proliferate-during-tax-filing-season-1d938b33"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the tax reason around, the frequency of campaigns related to taxes and accounting has increased with threats like Remcos RAT, Emotet, and GuLoader hovering to scam users. The IRS issued an advisory, urging taxpayers to be wary and vigilant of new tax-related scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortra Sheds Light on GoAnywhere MFT Zero-Day Exploit Used in Ransomware Attacks<a href="https://thehackernews.com/2023/04/fortra-sheds-light-on-goanywhere-mft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortra, the company behind Cobalt Strike, shed light on a zero-day remote code execution (RCE) vulnerability in its GoAnywhere MFT tool that has come under  active   exploitation  by ransomware actors to steal sensitive data. The high-severity flaw, tracked as  CVE-2023-0669  (CVSS score: 7.2), concerns a case of pre-authenticated command injection that could be abused to achieve code execution. The issue was patched by the company in version 7.1.2 of the software in February 2023, but not before it was weaponized as a zero-day since January 18. Fortra, which worked with Palo Alto Networks Unit 42, said it was made aware of suspicious activity associated with some of the file transfer instances on January 30, 2023. "The unauthorized party used CVE-2023-0669 to create unauthorized user accounts in some MFTaaS customer environments," the company  said . "For a subset of these customers, the unauthorized party leveraged these user accounts to download files from their h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts disclosed two critical flaws in Alibaba cloud database services<a href="https://securityaffairs.com/145061/hacking/brokensesame-alibaba-cloud-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed two critical flaws in Alibaba Cloud's ApsaraDB RDS for PostgreSQL and AnalyticDB for PostgreSQL.
+Researchers from cloud security firm Wiz discovered two critical flaws, collectively dubbed BrokenSesame, in Alibaba Cloud's ApsaraDB...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Infrastructure of MuddyWater APT Group Uncovered<a href="https://cyware.com/news/new-infrastructure-of-muddywater-apt-group-uncovered-cea75478"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MuddyWater has been employing SimpleHelp, a lawful tool used for managing and controlling remote devices, to establish persistence on compromised devices, revealed researchers. The attackers send phishing emails containing links to file storage systems such as OneDrive, Dropbox, or OneHub to downlo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT's Data Protection Blind Spots and How Security Teams Can Solve Them<a href="https://thehackernews.com/2023/04/chatgpts-data-protection-blind-spots.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the short time since their inception, ChatGPT and other generative AI platforms have rightfully gained the reputation of ultimate productivity boosters. However, the very same technology that enables rapid production of high-quality text on demand, can at the same time expose sensitive corporate data. A recent  incident , in which Samsung software engineers pasted proprietary code into ChatGPT, clearly demonstrates that this tool can easily become a potential data leakage channel. This vulnerability introduces a demanding challenge for security stakeholders, since none of the existing data protection tools can ensure no sensitive data is exposed to ChatGPT. In this article we'll explore this security challenge in detail and show how browser security solutions can provide a solution. All while enabling organizations to fully realize ChatGPT's productivity potential and without having to compromise on data security.  The ChatGPT data protection blind spot: How can you govern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG warns of Russia-linked APT groups targeting Ukraine<a href="https://securityaffairs.com/145050/apt/russia-linked-apt-targeting-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers from Google TAG are warning of Russia-linked threat actors targeting Ukraine with phishing campaigns.
+Russia-linked threat actors launched large-volume phishing campaigns against hundreds of users in Ukraine to gather intelligence...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wargaming an effective data breach playbook<a href="https://www.helpnetsecurity.com/2023/04/18/effective-data-breach-playbook/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foreseeing every possible twist and turn of a breach may be impossible, but through extensive wargaming, security teams can simulate diverse situations to give them a proactive edge.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daggerfly Cyberattack Campaign Hits African Telecom Services Providers<a href="https://thehackernews.com/2023/04/daggerfly-cyberattack-campaign-hits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication services providers in Africa are the target of a new campaign orchestrated by a China-linked threat actor at least since November 2022. The intrusions have been pinned on a hacking crew tracked by Symantec as  Daggerfly , and which is also tracked by the broader cybersecurity community as Bronze Highland and Evasive Panda. The campaign makes use of "previously unseen plugins from the MgBot malware framework," the cybersecurity company  said  in a report shared with The Hacker News. "The attackers were also seen using a  PlugX loader  and abusing the legitimate AnyDesk remote desktop software." Daggerfly's use of the  MgBot loader  (aka BLame or MgmBot) was  spotlighted  by Malwarebytes in July 2020 as part of phishing attacks aimed at Indian government personnel and individuals in Hong Kong. According to a profile published by Secureworks, the threat actor uses spear-phishing as an initial infection vector to drop MgBot as well as other
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trigona Ransomware targets Microsoft SQL servers<a href="https://securityaffairs.com/145036/cyber-crime/trigona-ransomware-targets-microsoft-sql-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are hacking poorly secured and Interned-exposed Microsoft SQL servers to deploy the Trigona ransomware.
+Threat actors are hacking into poorly secured and public-facing Microsoft SQL servers to deploy Trigona ransomware.
+Trigona is a malware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Storing Malware in Google Drive as Encrypted ZIP Files To Evade Detection<a href="https://gbhackers.com/hackers-storing-malware-in-google-drive/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Cybersecurity Action Team (GCAT) and Mandiant researched a list of techniques and methods used by threat actors over the period for penetrating the environments and other malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group Used 3 Zero-Click iPhone Exploits Against Human Rights Defenders<a href="https://thehackernews.com/2023/04/nso-group-used-3-zero-click-iphone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli spyware maker NSO Group deployed at least three novel "zero-click" exploits against iPhones in 2022 to infiltrate defenses erected by Apple and deploy Pegasus, according to the latest findings from Citizen Lab. "NSO Group customers widely deployed at least three iOS 15 and iOS 16 zero-click exploit chains against civil society targets around the world," the interdisciplinary laboratory based at the University of Toronto  said . NSO Group is the manufacturer of  Pegasus , a sophisticated cyber weapon that's capable of extracting sensitive information stored in a device – e.g., messages, locations, photos, and call logs, among others — in real-time. It's typically delivered to targeted iPhones using zero-click and/or zero-day exploits. While it has been pitched as a tool for law enforcement agencies to combat serious crimes such as child sexual abuse and terrorism, it has also been deployed illegally by authoritarian governments to spy on human rig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber insurance premium hikes slowed in 2022, Fitch says<a href="https://www.cybersecuritydive.com/news/cyber-premiums-spike-slower-pace-2022-fitch/647942/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts say insurance companies’ demand for stronger cybersecurity practices from policyholders contributed toward fewer ransomware claims and decelerating premiums in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘AuKill’ EDR killer malware abuses Process Explorer driver<a href="https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AuKill tool abuses an outdated version of the driver used by version 16.32 of the Microsoft utility, Process Explorer, to disable EDR processes before deploying either a backdoor or ransomware on the target system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Giving a Face to the Malware Proxy Service ‘Faceless’ – Krebs on Security<a href="https://krebsonsecurity.com/2023/04/giving-a-face-to-the-malware-proxy-service-faceless/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For less than a dollar per day, Faceless customers can route their malicious web traffic through tens of thousands of compromised systems advertised on the proxy service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 19, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
