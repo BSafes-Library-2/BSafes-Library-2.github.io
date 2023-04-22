@@ -34,7 +34,253 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multinational ICICI Bank leaks passports and credit card numbers<a href="https://securityaffairs.com/145094/uncategorized/icici-bank-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among the leaked data were bank account details, bank statements, credit card numbers, full names, dates of birth, home addresses, phone numbers, emails, personal identification documents, and employees’ and candidates’ CVs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes RBAC Exploited in Large-Scale Campaign for Cryptocurrency Mining<a href="https://thehackernews.com/2023/04/kubernetes-rbac-exploited-in-large.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale attack campaign discovered in the wild has been exploiting Kubernetes (K8s) Role-Based Access Control ( RBAC ) to create backdoors and run cryptocurrency miners. "The attackers also deployed DaemonSets to take over and hijack resources of the K8s clusters they attack," cloud security firm Aqua said in a report shared with The Hacker News. The Israeli company, which dubbed the attack  RBAC Buster , said it found 60 exposed K8s clusters that have been exploited by the threat actor behind this campaign. The attack chain commenced with the attacker gaining initial access via a misconfigured API server, followed by checking for evidence of competing miner malware on the compromised server and then using RBAC to set up persistence. "The attacker created a new ClusterRole with near admin-level privileges," the company said. "Next, the attacker created a 'ServiceAccount', 'kube-controller' in the 'kube-system' namespace. Last
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Bar Association (ABA) suffered a data breach,1.4 million members impacted<a href="https://securityaffairs.com/145125/data-breach/american-bar-association-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Bar Association (ABA) disclosed a data breach, threat actors gained access to older credentials for 1,466,000 members.
+The American Bar Association (ABA) is a voluntary bar association of lawyers and law students; it is not specific to any jurisdiction...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT-Themed Scam Attacks Are on the Rise<a href="https://unit42.paloaltonetworks.com/chatgpt-scam-attacks-increasing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark side of this popularity is that ChatGPT is also attracting the attention of scammers seeking to benefit from using wording and domain names that appear related to the site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostToken Flaw Could Let Attackers Hide Malicious Apps in Google Cloud Platform<a href="https://thehackernews.com/2023/04/ghosttoken-flaw-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a now-patched zero-day flaw in Google Cloud Platform (GCP) that could have enabled threat actors to conceal an unremovable, malicious application inside a victim's Google account. Dubbed GhostToken by Israeli cybersecurity startup Astrix Security, the shortcoming impacts all Google accounts, including enterprise-focused Workspace accounts. It was discovered and reported to Google on June 19, 2022. The company deployed a global-patch more than nine months later on April 7, 2023. "The vulnerability [...] allows attackers to gain permanent and unremovable access to a victim's Google account by converting an already authorized third-party application into a malicious trojan app, leaving the victim's personal data exposed forever," Astrix  said  in a report. In a nutshell, the flaw makes it possible for an attacker to hide their malicious app from a victim's Google account  application management page , the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia hackers launched a massive attack against the EUROCONTROL agency<a href="https://securityaffairs.com/145114/hacktivism/pro-russia-hackers-ddos-eurocontrol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia hackers KillNet launched a massive DDoS attack against Europe’s air-traffic agency EUROCONTROL.
+Europe’s air-traffic control agency EUROCONTROL announced that it was under attack from pro-Russian hackers.
+The European Organisation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Pre-Auth Code Execution Flaw in Logging Product<a href="https://www.securityweek.com/vmware-patches-pre-auth-code-execution-flaw-in-logging-product/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company shipped urgent patches on Thursday to cover critical security defects in the VMware Aria Operations for Logs (formerly vRealize Log Insight) product line and warned of the risk of pre-authentication remote root exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 Kubernetes and Cloud Security Challenges and How to Solve Them<a href="https://thehackernews.com/2023/04/14-kubernetes-and-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Andrew Martin, founder and CEO of ControlPlane, released a report entitled Cloud Native and Kubernetes Security Predictions 2023. These predictions underscore the rapidly evolving landscape of Kubernetes and cloud security, emphasizing the need for organizations to stay informed and adopt comprehensive security solutions to protect their digital assets. In response,  Uptycs , the first unified CNAPP and XDR platform, released a whitepaper, " 14 Kubernetes and Cloud Security Predictions for 2023 and How Uptycs Meets Them Head-On " addressing the most pressing challenges and trends in Kubernetes and cloud security for 2023. Uptycs explains how their unified CNAPP and XDR solution is designed to tackle these emerging challenges head-on.  Read on for key takeaways from the whitepaper and learn how Uptycs helps modern organizations successfully navigate the evolving landscape of Kubernetes and cloud security.  14 Kubernetes and Cloud Security Predictions for 2023 C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed critical flaws in the Industrial Network Director and Modeling Labs solutions<a href="https://securityaffairs.com/145108/security/industrial-network-director-and-modeling-labs-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released security updates to address critical security flaws in its Industrial Network Director and Modeling Labs solutions.
+Cisco released security updates to address critical security vulnerabilities in the Industrial Network Director and Modeling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security beyond software: The open source hardware security evolution<a href="https://www.helpnetsecurity.com/2023/04/19/open-source-hardware-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some ISAs include built-in security features to mitigate vulnerabilities and attacks, such as hardware-based encryption, memory protection, and data execution prevention.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N.K. Hackers Employ Matryoshka Doll-Style Cascading Supply Chain Attack on 3CX<a href="https://thehackernews.com/2023/04/nk-hackers-employ-matryoshka-doll-style.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The supply chain attack targeting 3CX was the result of a prior supply chain compromise associated with a different company, demonstrating a new level of sophistication with North Korean threat actors. Google-owned Mandiant, which is  tracking  the attack event under the moniker  UNC4736 ,  said  the incident marks the first time it has seen a "software supply chain attack lead to another software supply chain attack." The Matryoshka doll-style cascading attack against 3CX first came to light on March 29, 2023, when it  emerged  that Windows and macOS versions of its communication software were trojanized to deliver a C/C++-based data miner named ICONIC Stealer by means of a downloader, SUDDENICON, that used icon files hosted on GitHub to extract the server containing the stealer. "The malicious application next attempts to steal sensitive information from the victim user's web browser," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intro to phishing: simulating attacks to build resiliency<a href="https://securityaffairs.com/145100/hacking/phishing-simulating-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attacks are a major threat to organizations, they remain a perennial choice of cybercriminals when it comes to hacking their victims.
+Original post at https://cybernews.com/security/phishing-intro-to-build-resiliency/
+While organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Teams Up With Partner Nations to Release Smart City Cyber Guidance<a href="https://www.nextgov.com/cybersecurity/2023/04/us-teams-partner-nations-release-smart-city-cyber-guidance/385412/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These guidelines, developed by a group of agencies—including the U.S. CISA, the ACSC, and the U.K NCSC—aim to help communities transitioning into "smart cities" fortify the digital networks crucial to delivering basic utilities and services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco and VMware Release Security Updates to Patch Critical Flaws in their Products<a href="https://thehackernews.com/2023/04/cisco-and-vmware-release-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco and VMware have released security updates to address critical security flaws in their products that could be exploited by malicious actors to execute arbitrary code on affected systems. The most severe of the vulnerabilities is a command injection flaw  in Cisco Industrial Network Director  (CVE-2023-20036, CVSS score: 9.9), which resides in the web UI component and arises as a result of improper input validation when  uploading a Device Pack . "A successful exploit could allow the attacker to execute arbitrary commands as NT AUTHORITY\SYSTEM on the underlying operating system of an affected device," Cisco  said  in an advisory released on April 19, 2023. The networking equipment major also resolved a medium-severity file permissions vulnerability in the same product (CVE-2023-20039, CVSS score: 5.5) that an authenticated, local attacker could abuse to view sensitive information. Patches have been made available in  version 1.11.3 , with Cisco crediting an unnamed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive MitID SMS Phishing Campaign Tries to Phish Nordea Bank Customers<a href="https://heimdalsecurity.com/blog/mitid-smishing-nordea-bank/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data analyzed so far suggests that the threat actor takes advantage of the MitID authentication mechanism in order to redirect the customer to a fake webpage for various malicious actions on target.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Scams Abusing Microsoft Teams and More<a href="https://cyware.com/news/phishing-scams-abusing-microsoft-teams-and-more-c4a119df"> Full Text</a>
@@ -50,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Critical Flaws Found in Alibaba Cloud's PostgreSQL Databases<a href="https://thehackernews.com/2023/04/two-critical-flaws-found-in-alibaba.html"> Full Text</a>
@@ -66,7 +312,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multinational ICICI Bank leaks passports and credit card numbers<a href="https://securityaffairs.com/145094/uncategorized/icici-bank-data-leak.html"> Full Text</a>
@@ -83,7 +329,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Uses Vulnerability in Cisco Routers to Deploy Malware<a href="https://cyware.com/news/apt28-uses-vulnerability-in-cisco-routers-to-deploy-malware-82515ab9"> Full Text</a>
@@ -99,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beyond Traditional Security: NDR's Pivotal Role in Safeguarding OT Networks<a href="https://thehackernews.com/2023/04/beyond-traditional-security-ndrs.html"> Full Text</a>
@@ -115,7 +361,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixed a critical flaw in vRealize that allows executing arbitrary code as root<a href="https://securityaffairs.com/145087/security/critical-flaw-vmware-vrealize.html"> Full Text</a>
@@ -132,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Eyes macOS; Test Version of macOS Encryptor Revealed<a href="https://cyware.com/news/lockbit-eyes-macos-test-version-of-macos-encryptor-revealed-53a7e8c3"> Full Text</a>
@@ -148,7 +394,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Adds Linux Malware to Arsenal in Operation Dream Job<a href="https://thehackernews.com/2023/04/lazarus-group-adds-linux-malware-to.html"> Full Text</a>
@@ -164,7 +410,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT group employed Linux Malware in recent attacks and was linked to 3CX supply chain attack<a href="https://securityaffairs.com/145073/apt/lazarus-apt-linux-malware-3cx-attack.html"> Full Text</a>
@@ -181,7 +427,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax-Themed Phishing Attacks Proliferate During Tax Filing Season<a href="https://cyware.com/news/tax-themed-phishing-attacks-proliferate-during-tax-filing-season-1d938b33"> Full Text</a>
@@ -197,7 +443,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortra Sheds Light on GoAnywhere MFT Zero-Day Exploit Used in Ransomware Attacks<a href="https://thehackernews.com/2023/04/fortra-sheds-light-on-goanywhere-mft.html"> Full Text</a>
@@ -213,7 +459,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts disclosed two critical flaws in Alibaba cloud database services<a href="https://securityaffairs.com/145061/hacking/brokensesame-alibaba-cloud-flaws.html"> Full Text</a>
@@ -230,7 +476,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Infrastructure of MuddyWater APT Group Uncovered<a href="https://cyware.com/news/new-infrastructure-of-muddywater-apt-group-uncovered-cea75478"> Full Text</a>
@@ -246,7 +492,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT's Data Protection Blind Spots and How Security Teams Can Solve Them<a href="https://thehackernews.com/2023/04/chatgpts-data-protection-blind-spots.html"> Full Text</a>
@@ -262,7 +508,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG warns of Russia-linked APT groups targeting Ukraine<a href="https://securityaffairs.com/145050/apt/russia-linked-apt-targeting-ukraine.html"> Full Text</a>
@@ -279,7 +525,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wargaming an effective data breach playbook<a href="https://www.helpnetsecurity.com/2023/04/18/effective-data-breach-playbook/?&web_view=true"> Full Text</a>
@@ -295,7 +541,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Daggerfly Cyberattack Campaign Hits African Telecom Services Providers<a href="https://thehackernews.com/2023/04/daggerfly-cyberattack-campaign-hits.html"> Full Text</a>
@@ -311,7 +557,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trigona Ransomware targets Microsoft SQL servers<a href="https://securityaffairs.com/145036/cyber-crime/trigona-ransomware-targets-microsoft-sql-servers.html"> Full Text</a>
@@ -329,7 +575,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Storing Malware in Google Drive as Encrypted ZIP Files To Evade Detection<a href="https://gbhackers.com/hackers-storing-malware-in-google-drive/?&web_view=true"> Full Text</a>
@@ -345,7 +591,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSO Group Used 3 Zero-Click iPhone Exploits Against Human Rights Defenders<a href="https://thehackernews.com/2023/04/nso-group-used-3-zero-click-iphone.html"> Full Text</a>
@@ -361,7 +607,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber insurance premium hikes slowed in 2022, Fitch says<a href="https://www.cybersecuritydive.com/news/cyber-premiums-spike-slower-pace-2022-fitch/647942/?&web_view=true"> Full Text</a>
@@ -377,7 +623,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘AuKill’ EDR killer malware abuses Process Explorer driver<a href="https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/?&web_view=true"> Full Text</a>
@@ -393,7 +639,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2023
+April 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Giving a Face to the Malware Proxy Service ‘Faceless’ – Krebs on Security<a href="https://krebsonsecurity.com/2023/04/giving-a-face-to-the-malware-proxy-service-faceless/?&web_view=true"> Full Text</a>
