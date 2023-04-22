@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Scams Abusing Microsoft Teams and More<a href="https://cyware.com/news/phishing-scams-abusing-microsoft-teams-and-more-c4a119df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have become increasingly adept at designing new phishing tactics. Lately, a scam was found camouflaging as the legitimate Microsoft Teams login with the goal of tricking users into entering their login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax-Themed Phishing Attacks Proliferate During Tax Filing Season<a href="https://cyware.com/news/tax-themed-phishing-attacks-proliferate-during-tax-filing-season-1d938b33"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the tax reason around, the frequency of campaigns related to taxes and accounting has increased with threats like Remcos RAT, Emotet, and GuLoader hovering to scam users.&nbsp;The IRS issued an advisory, urging taxpayers to be wary and vigilant of new tax-related scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

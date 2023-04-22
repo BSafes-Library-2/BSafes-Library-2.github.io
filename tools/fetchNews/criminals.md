@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Adds Linux Malware to Arsenal in Operation Dream Job<a href="https://thehackernews.com/2023/04/lazarus-group-adds-linux-malware-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korea-aligned state-sponsored actor known as the&nbsp; Lazarus Group &nbsp;has been attributed to a new campaign aimed at Linux users. The attacks are part of a persistent and long-running activity tracked under the name&nbsp; Operation Dream Job , ESET said in a&nbsp; new report &nbsp;published today. The findings are crucial, not least because it marks the first publicly documented example of the adversary using Linux malware as part of this social engineering scheme. Operation Dream Job , also known as&nbsp; DeathNote or NukeSped , refers to multiple attack waves wherein the group leverages fraudulent job offers as a lure to trick unsuspecting targets into downloading malware. It also&nbsp; exhibits overlaps &nbsp;with two other Lazarus clusters known as Operation In(ter)ception and Operation North Star. The attack chain discovered by ESET is no different in that it delivers a fake HSBC job offer as a decoy within a ZIP archive file that's then used to launch a Linux backdoor named SimplexTea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

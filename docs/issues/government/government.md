@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Teams Up With Partner Nations to Release Smart City Cyber Guidance<a href="https://www.nextgov.com/cybersecurity/2023/04/us-teams-partner-nations-release-smart-city-cyber-guidance/385412/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These guidelines, developed by a group of agencies—including the U.S. CISA, the ACSC, and the U.K NCSC—aim to help communities transitioning into "smart cities" fortify the digital networks crucial to delivering basic utilities and services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostToken Flaw Could Let Attackers Hide Malicious Apps in Google Cloud Platform<a href="https://thehackernews.com/2023/04/ghosttoken-flaw-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a now-patched zero-day flaw in Google Cloud Platform (GCP) that could have enabled threat actors to conceal an unremovable, malicious application inside a victim's Google account. Dubbed GhostToken by Israeli cybersecurity startup Astrix Security, the shortcoming impacts all Google accounts, including enterprise-focused Workspace accounts. It was discovered and reported to Google on June 19, 2022. The company deployed a global-patch more than nine months later on April 7, 2023. "The vulnerability [...] allows attackers to gain permanent and unremovable access to a victim's Google account by converting an already authorized third-party application into a malicious trojan app, leaving the victim's personal data exposed forever," Astrix&nbsp; said &nbsp;in a report. In a nutshell, the flaw makes it possible for an attacker to hide their malicious app from a victim's Google account&nbsp; application management page , the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Patches Pre-Auth Code Execution Flaw in Logging Product<a href="https://www.securityweek.com/vmware-patches-pre-auth-code-execution-flaw-in-logging-product/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company shipped urgent patches on Thursday to cover critical security defects in the VMware Aria Operations for Logs (formerly vRealize Log Insight) product line and warned of the risk of pre-authentication remote root exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed critical flaws in the Industrial Network Director and Modeling Labs solutions<a href="https://securityaffairs.com/145108/security/industrial-network-director-and-modeling-labs-critical-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco released security updates to address critical security flaws in its Industrial Network Director and Modeling Labs solutions.
+Cisco released security updates to address critical security vulnerabilities in the Industrial Network Director and Modeling...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco and VMware Release Security Updates to Patch Critical Flaws in their Products<a href="https://thehackernews.com/2023/04/cisco-and-vmware-release-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco and VMware have released security updates to address critical security flaws in their products that could be exploited by malicious actors to execute arbitrary code on affected systems. The most severe of the vulnerabilities is a command injection flaw&nbsp; in Cisco Industrial Network Director &nbsp;(CVE-2023-20036, CVSS score: 9.9), which resides in the web UI component and arises as a result of improper input validation when&nbsp; uploading a Device Pack . "A successful exploit could allow the attacker to execute arbitrary commands as NT AUTHORITY\SYSTEM on the underlying operating system of an affected device," Cisco&nbsp; said &nbsp;in an advisory released on April 19, 2023. The networking equipment major also resolved a medium-severity file permissions vulnerability in the same product (CVE-2023-20039, CVSS score: 5.5) that an authenticated, local attacker could abuse to view sensitive information. Patches have been made available in&nbsp; version 1.11.3 , with Cisco crediting an unnamed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

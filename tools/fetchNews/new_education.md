@@ -8,6 +8,36 @@ nav_order: 900053
 
 ## Education
 ---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 Kubernetes and Cloud Security Challenges and How to Solve Them<a href="https://thehackernews.com/2023/04/14-kubernetes-and-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Andrew Martin, founder and CEO of ControlPlane, released a report entitled Cloud Native and Kubernetes Security Predictions 2023. These predictions underscore the rapidly evolving landscape of Kubernetes and cloud security, emphasizing the need for organizations to stay informed and adopt comprehensive security solutions to protect their digital assets. In response,&nbsp; Uptycs , the first unified CNAPP and XDR platform, released a whitepaper, " 14 Kubernetes and Cloud Security Predictions for 2023 and How Uptycs Meets Them Head-On " addressing the most pressing challenges and trends in Kubernetes and cloud security for 2023. Uptycs explains how their unified CNAPP and XDR solution is designed to tackle these emerging challenges head-on.&nbsp; Read on for key takeaways from the whitepaper and learn how Uptycs helps modern organizations successfully navigate the evolving landscape of Kubernetes and cloud security.&nbsp; 14 Kubernetes and Cloud Security Predictions for 2023 C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intro to phishing: simulating attacks to build resiliency<a href="https://securityaffairs.com/145100/hacking/phishing-simulating-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attacks are a major threat to organizations, they remain a perennial choice of cybercriminals when it comes to hacking their victims.
+Original post at https://cybernews.com/security/phishing-intro-to-build-resiliency/
+While organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group Used 3 Zero-Click iPhone Exploits Against Human Rights Defenders<a href="https://thehackernews.com/2023/04/nso-group-used-3-zero-click-iphone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli spyware maker NSO Group deployed at least three novel "zero-click" exploits against iPhones in 2022 to infiltrate defenses erected by Apple and deploy Pegasus, according to the latest findings from Citizen Lab. "NSO Group customers widely deployed at least three iOS 15 and iOS 16 zero-click exploit chains against civil society targets around the world," the interdisciplinary laboratory based at the University of Toronto&nbsp; said . NSO Group is the manufacturer of&nbsp; Pegasus , a sophisticated cyber weapon that's capable of extracting sensitive information stored in a device – e.g., messages, locations, photos, and call logs, among others — in real-time. It's typically delivered to targeted iPhones using zero-click and/or zero-day exploits. While it has been pitched as a tool for law enforcement agencies to combat serious crimes such as child sexual abuse and terrorism, it has also been deployed illegally by authoritarian governments to spy on human rig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

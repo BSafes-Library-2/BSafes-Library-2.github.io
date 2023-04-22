@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Daggerfly Cyberattack Campaign Hits African Telecom Services Providers<a href="https://thehackernews.com/2023/04/daggerfly-cyberattack-campaign-hits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication services providers in Africa are the target of a new campaign orchestrated by a China-linked threat actor at least since November 2022. The intrusions have been pinned on a hacking crew tracked by Symantec as&nbsp; Daggerfly , and which is also tracked by the broader cybersecurity community as Bronze Highland and Evasive Panda. The campaign makes use of "previously unseen plugins from the MgBot malware framework," the cybersecurity company&nbsp; said &nbsp;in a report shared with The Hacker News. "The attackers were also seen using a&nbsp; PlugX loader &nbsp;and abusing the legitimate AnyDesk remote desktop software." Daggerfly's use of the&nbsp; MgBot loader &nbsp;(aka BLame or MgmBot) was&nbsp; spotlighted &nbsp;by Malwarebytes in July 2020 as part of phishing attacks aimed at Indian government personnel and individuals in Hong Kong. According to a profile published by Secureworks, the threat actor uses spear-phishing as an initial infection vector to drop MgBot as well as other
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

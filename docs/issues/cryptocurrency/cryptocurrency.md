@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes RBAC Exploited in Large-Scale Campaign for Cryptocurrency Mining<a href="https://thehackernews.com/2023/04/kubernetes-rbac-exploited-in-large.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A large-scale attack campaign discovered in the wild has been exploiting Kubernetes (K8s) Role-Based Access Control ( RBAC ) to create backdoors and run cryptocurrency miners. "The attackers also deployed DaemonSets to take over and hijack resources of the K8s clusters they attack," cloud security firm Aqua said in a report shared with The Hacker News. The Israeli company, which dubbed the attack&nbsp; RBAC Buster , said it found 60 exposed K8s clusters that have been exploited by the threat actor behind this campaign. The attack chain commenced with the attacker gaining initial access via a misconfigured API server, followed by checking for evidence of competing miner malware on the compromised server and then using RBAC to set up persistence. "The attacker created a new ClusterRole with near admin-level privileges," the company said. "Next, the attacker created a 'ServiceAccount', 'kube-controller' in the 'kube-system' namespace. Last
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
