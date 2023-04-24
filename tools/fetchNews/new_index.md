@@ -34,7 +34,173 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health insurer Point32Health suffered a ransomware attack<a href="https://securityaffairs.com/145183/cyber-crime/point32health-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Non-profit health insurer Point32Health suffered a ransomware attack and has taken systems offline in response to the incident.
+Non-profit health insurer Point32Health has taken systems offline in response to a ransomware attack that took place on April...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted first-ever crypto mining campaign leveraging Kubernetes RBAC<a href="https://securityaffairs.com/145155/breaking-news/cryptomining-campaign-kubernetes-rbac.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a large-scale cryptocurrency mining campaign exploiting Kubernetes (K8s) Role-Based Access Control (RBAC).
+Cloud security firm Aqua discovered a large-scale cryptocurrency mining campaign exploiting Kubernetes (K8s) Role-Based Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 416 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145152/breaking-news/security-affairs-newsletter-round-416-by-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CFPB says employee sent confidential data of 256,000 consumers to personal email<a href="https://edition.cnn.com/2023/04/20/business/cfpb-confidential-data/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An employee at the Consumer Financial Protection Bureau sent confidential data about hundreds of thousands of consumer accounts to their personal email, the agency told CNN on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus X_TRADER Hack Impacts Critical Infrastructure Beyond 3CX Breach<a href="https://thehackernews.com/2023/04/lazarus-xtrader-hack-impacts-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus, the prolific North Korean hacking group behind the cascading  supply chain attack targeting 3CX , also breached two critical infrastructure organizations in the power and energy sector and two other businesses involved in financial trading using the trojanized X_TRADER application. The new findings, which come courtesy of  Symantec's Threat Hunter Team , confirm earlier suspicions that the X_TRADER application compromise affected more organizations than 3CX. The names of the organizations were not revealed. Eric Chien, director of security response at Broadcom-owned Symantec, told The Hacker News in a statement that the attacks took place between September 2022 and November 2022. "The impact from these infections is unknown at this time – more investigation is required and is on-going," Chien said, adding it's possible that there's "likely more to this story and possibly even other packages that are trojanized." The development comes as Ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infoblox Uncovers DNS Malware Toolkit & Urges Companies to Block Malicious Domains<a href="https://finance.yahoo.com/news/infoblox-uncovers-dns-malware-toolkit-230100979.html?guccounter=1&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infoblox discovered activity from the remote access trojan (RAT) Pupy active in multiple enterprise networks in early April 2023. This C2 communication went undiscovered since April 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 3 Actively Exploited Flaws to KEV Catalog, including Critical PaperCut Bug<a href="https://thehackernews.com/2023/04/cisa-adds-3-actively-exploited-flaws-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The  three vulnerabilities  are as follows - CVE-2023-28432  (CVSS score - 7.5) - MinIO Information Disclosure Vulnerability  CVE-2023-27350  (CVSS score - 9.8) - PaperCut MF/NG Improper Access Control Vulnerability CVE-2023-2136  (CVSS score - TBD) - Google Chrome Skia Integer Overflow Vulnerability "In a cluster deployment, MinIO returns all environment variables, including MINIO_SECRET_KEY and MINIO_ROOT_PASSWORD, resulting in information disclosure," MinIO maintainers  said  in an advisory published on March 21, 2023. Data gathered by GreyNoise shows that as many as  18 unique malicious IP addresses  from the U.S., the Netherlands, France, Japan, and Finland have  attempted to exploit  the flaw over the past 30 days. The threat intelligence company, in an  alert  p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abandoned Eval PHP WordPress plugin abused to backdoor websites<a href="https://securityaffairs.com/145146/hacking/eval-php-wordpress-plugin-abused-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors were observed installing the abandoned Eval PHP plugin on compromised WordPress sites for backdoor deployment.
+Researchers from Sucuri warned that threat actors are installing the abandoned Eval PHP plugin on compromised WordPress sites...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds MinIO, PaperCut, and Chrome bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/145139/security/known-exploited-vulnerabilities-catalog-minio-papercut-and-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added MinIO, PaperCut, and Chrome vulnerabilities to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following three...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+At least 2 critical infrastructure orgs breached by North Korea-linked hackers behind 3CX attack<a href="https://securityaffairs.com/145133/breaking-news/north-korea-apt-3cx-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group behind the 3CX supply chain attack also broke into two critical infrastructure organizations in the energy sector.
+Symantec researchers reported that the campaign conducted by North Korea-linked threat actors that included...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multinational ICICI Bank leaks passports and credit card numbers<a href="https://securityaffairs.com/145094/uncategorized/icici-bank-data-leak.html?&web_view=true"> Full Text</a>
@@ -50,7 +216,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes RBAC Exploited in Large-Scale Campaign for Cryptocurrency Mining<a href="https://thehackernews.com/2023/04/kubernetes-rbac-exploited-in-large.html"> Full Text</a>
@@ -66,7 +232,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Bar Association (ABA) suffered a data breach,1.4 million members impacted<a href="https://securityaffairs.com/145125/data-breach/american-bar-association-data-breach.html"> Full Text</a>
@@ -83,7 +249,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT-Themed Scam Attacks Are on the Rise<a href="https://unit42.paloaltonetworks.com/chatgpt-scam-attacks-increasing/?&web_view=true"> Full Text</a>
@@ -99,7 +265,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostToken Flaw Could Let Attackers Hide Malicious Apps in Google Cloud Platform<a href="https://thehackernews.com/2023/04/ghosttoken-flaw-could-let-attackers.html"> Full Text</a>
@@ -115,7 +281,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia hackers launched a massive attack against the EUROCONTROL agency<a href="https://securityaffairs.com/145114/hacktivism/pro-russia-hackers-ddos-eurocontrol.html"> Full Text</a>
@@ -133,7 +299,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Patches Pre-Auth Code Execution Flaw in Logging Product<a href="https://www.securityweek.com/vmware-patches-pre-auth-code-execution-flaw-in-logging-product/?&web_view=true"> Full Text</a>
@@ -149,7 +315,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 14 Kubernetes and Cloud Security Challenges and How to Solve Them<a href="https://thehackernews.com/2023/04/14-kubernetes-and-cloud-security.html"> Full Text</a>
@@ -165,7 +331,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed critical flaws in the Industrial Network Director and Modeling Labs solutions<a href="https://securityaffairs.com/145108/security/industrial-network-director-and-modeling-labs-critical-flaws.html"> Full Text</a>
@@ -182,7 +348,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security beyond software: The open source hardware security evolution<a href="https://www.helpnetsecurity.com/2023/04/19/open-source-hardware-security/?&web_view=true"> Full Text</a>
@@ -198,7 +364,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N.K. Hackers Employ Matryoshka Doll-Style Cascading Supply Chain Attack on 3CX<a href="https://thehackernews.com/2023/04/nk-hackers-employ-matryoshka-doll-style.html"> Full Text</a>
@@ -214,7 +380,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intro to phishing: simulating attacks to build resiliency<a href="https://securityaffairs.com/145100/hacking/phishing-simulating-attacks.html"> Full Text</a>
@@ -232,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Teams Up With Partner Nations to Release Smart City Cyber Guidance<a href="https://www.nextgov.com/cybersecurity/2023/04/us-teams-partner-nations-release-smart-city-cyber-guidance/385412/?&web_view=true"> Full Text</a>
@@ -248,7 +414,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco and VMware Release Security Updates to Patch Critical Flaws in their Products<a href="https://thehackernews.com/2023/04/cisco-and-vmware-release-security.html"> Full Text</a>
@@ -264,7 +430,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 21, 2023
+April 21, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive MitID SMS Phishing Campaign Tries to Phish Nordea Bank Customers<a href="https://heimdalsecurity.com/blog/mitid-smishing-nordea-bank/?&web_view=true"> Full Text</a>
