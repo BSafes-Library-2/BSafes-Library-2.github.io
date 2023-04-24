@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2023
+April 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Health insurer Point32Health suffered a ransomware attack<a href="https://securityaffairs.com/145183/cyber-crime/point32health-ransomware-attack.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2023
+April 23, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted first-ever crypto mining campaign leveraging Kubernetes RBAC<a href="https://securityaffairs.com/145155/breaking-news/cryptomining-campaign-kubernetes-rbac.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 23, 2023
+April 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 416 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145152/breaking-news/security-affairs-newsletter-round-416-by-pierluigi-paganini.html"> Full Text</a>
@@ -85,7 +85,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CFPB says employee sent confidential data of 256,000 consumers to personal email<a href="https://edition.cnn.com/2023/04/20/business/cfpb-confidential-data/index.html?&web_view=true"> Full Text</a>
@@ -101,7 +101,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus X_TRADER Hack Impacts Critical Infrastructure Beyond 3CX Breach<a href="https://thehackernews.com/2023/04/lazarus-xtrader-hack-impacts-critical.html"> Full Text</a>
@@ -117,7 +117,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infoblox Uncovers DNS Malware Toolkit & Urges Companies to Block Malicious Domains<a href="https://finance.yahoo.com/news/infoblox-uncovers-dns-malware-toolkit-230100979.html?guccounter=1&web_view=true"> Full Text</a>
@@ -133,7 +133,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds 3 Actively Exploited Flaws to KEV Catalog, including Critical PaperCut Bug<a href="https://thehackernews.com/2023/04/cisa-adds-3-actively-exploited-flaws-to.html"> Full Text</a>
@@ -149,7 +149,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abandoned Eval PHP WordPress plugin abused to backdoor websites<a href="https://securityaffairs.com/145146/hacking/eval-php-wordpress-plugin-abused-backdoor.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds MinIO, PaperCut, and Chrome bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/145139/security/known-exploited-vulnerabilities-catalog-minio-papercut-and-chrome.html"> Full Text</a>
@@ -183,7 +183,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 22, 2023
+April 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 At least 2 critical infrastructure orgs breached by North Korea-linked hackers behind 3CX attack<a href="https://securityaffairs.com/145133/breaking-news/north-korea-apt-3cx-critical-infrastructure.html"> Full Text</a>

@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia hackers launched a massive attack against the EUROCONTROL&nbsp;agency<a href="https://securityaffairs.com/145114/hacktivism/pro-russia-hackers-ddos-eurocontrol.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia hackers KillNet launched a massive DDoS attack against Europe’s air-traffic agency EUROCONTROL.
+Europe’s air-traffic control agency EUROCONTROL announced that it was under attack from pro-Russian hackers.
+The European Organisation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N.K. Hackers Employ Matryoshka Doll-Style Cascading Supply Chain Attack on 3CX<a href="https://thehackernews.com/2023/04/nk-hackers-employ-matryoshka-doll-style.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The supply chain attack targeting 3CX was the result of a prior supply chain compromise associated with a different company, demonstrating a new level of sophistication with North Korean threat actors. Google-owned Mandiant, which is&nbsp; tracking &nbsp;the attack event under the moniker&nbsp; UNC4736 ,&nbsp; said &nbsp;the incident marks the first time it has seen a "software supply chain attack lead to another software supply chain attack." The Matryoshka doll-style cascading attack against 3CX first came to light on March 29, 2023, when it&nbsp; emerged &nbsp;that Windows and macOS versions of its communication software were trojanized to deliver a C/C++-based data miner named ICONIC Stealer by means of a downloader, SUDDENICON, that used icon files hosted on GitHub to extract the server containing the stealer. "The malicious application next attempts to steal sensitive information from the victim user's web browser," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT-Themed Scam Attacks Are on the Rise<a href="https://unit42.paloaltonetworks.com/chatgpt-scam-attacks-increasing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The dark side of this popularity is that ChatGPT is also attracting the attention of scammers seeking to benefit from using wording and domain names that appear related to the site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security beyond software: The open source hardware security evolution<a href="https://www.helpnetsecurity.com/2023/04/19/open-source-hardware-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some ISAs include built-in security features to mitigate vulnerabilities and attacks, such as hardware-based encryption, memory protection, and data execution prevention.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

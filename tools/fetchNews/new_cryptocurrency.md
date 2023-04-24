@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted first-ever crypto mining campaign leveraging Kubernetes RBAC<a href="https://securityaffairs.com/145155/breaking-news/cryptomining-campaign-kubernetes-rbac.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a large-scale cryptocurrency mining campaign exploiting Kubernetes (K8s) Role-Based Access Control (RBAC).
+Cloud security firm Aqua discovered a large-scale cryptocurrency mining campaign exploiting Kubernetes (K8s) Role-Based Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
