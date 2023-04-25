@@ -34,6 +34,347 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang of Cryptojackers Exploit Log4Shell to Mint Coins<a href="https://cyware.com/news/8220-gang-of-cryptojackers-exploit-log4shell-to-mint-coins-dc4e6f17"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 8220 Gang exploiting the Log4Shell vulnerability to install CoinMiner in VMware Horizon servers of Korean energy-related companies. The gang uses a PowerShell script to download ScrubCrypt and establish persistence by making edits to the registry entries. System administrators are ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Tomiris Targeting Central Asia for Intelligence Gathering<a href="https://thehackernews.com/2023/04/russian-hackers-tomiris-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-speaking threat actor behind a backdoor known as Tomiris is primarily focused on gathering intelligence in Central Asia, fresh findings from Kaspersky reveal. "Tomiris's endgame consistently appears to be the regular theft of internal documents," security researchers Pierre Delcher and Ivan Kwiatkowski  said  in an analysis published today. "The threat actor targets government and diplomatic entities in the CIS." The Russian cybersecurity firm's latest assessment is based on three new attack campaigns mounted by the hacking crew between 2021 and 2023. Tomiris first came to light in September 2021 when Kaspersky  highlighted  its potential connections to  Nobelium  (aka APT29, Cozy Bear, or Midnight Blizzard), the Russian nation-state group behind the SolarWinds supply chain attack. Similarities have also been unearthed between the backdoor and another malware strain dubbed  Kazuar , which is attributed to the Turla group (aka Krypton, Secre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AuKill tool uses BYOVD attack to disable EDR software<a href="https://securityaffairs.com/145227/malware/aukill-tool-byovd-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators use the AuKill tool to disable EDR software through Bring Your Own Vulnerable Driver (BYOVD) attack.
+Sophos researchers reported that threat actors are using a previously undocumented defense evasion tool, dubbed AuKill, to...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Group Adds Two New Tools to Harvest More Data<a href="https://cyware.com/news/play-ransomware-group-adds-two-new-tools-to-harvest-more-data-59f23898"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group has added two custom tools written in .NET to expand the effectiveness of its attacks. Named Grixba and Volume Shadow Copy Service (VSS), these tools enable attackers to keep track of users in compromised networks and gather information about security, backup, and remote a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers Using AuKill Tool to Disable EDR Software Using BYOVD Attack<a href="https://thehackernews.com/2023/04/ransomware-hackers-using-aukill-tool-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are employing a previously undocumented "defense evasion tool" dubbed AuKill that's designed to disable endpoint detection and response (EDR) software by means of a Bring Your Own Vulnerable Driver ( BYOVD ) attack. "The AuKill tool abuses an outdated version of the  driver  used by version 16.32 of the Microsoft utility,  Process Explorer , to disable EDR processes before deploying either a backdoor or ransomware on the target system," Sophos researcher Andreas Klopsch  said  in a report published last week. Incidents analyzed by the cybersecurity firm show the use of AuKill since the start of 2023 to deploy various ransomware strains such as Medusa Locker and LockBit. Six different versions of the malware have been identified to date. The oldest AuKill sample features a November 2022 compilation timestamp. The  BYOVD technique  relies on threat actors misusing a legitimate, but out-of-date and exploitable, driver signed by Microsoft (or usin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC Exploit code for actively exploited PaperCut flaw<a href="https://securityaffairs.com/145215/hacking/papercut-poc-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting PaperCut MF/NG print management software flaws in attacks in the wild, while researchers released PoC exploit code.
+Hackers are actively exploiting PaperCut MF/NG print management software flaws (tracked as CVE-2023-27350 and CVE-2023-27351)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Blind Eagle Attack Chain Discovered<a href="https://cyware.com/news/new-blind-eagle-attack-chain-discovered-3b30e99e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Blind Eagle cyberespionage group was identified as the source of a new multi-stage attack chain that ultimately results in the deployment of NjRAT on compromised systems. In this attack campaign, Blind Eagle leverages social engineering, custom malware, and spear-phishing attacks. Therefore, up ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study: 84% of Companies Use Breached SaaS Applications - Here's How to Fix it for Free!<a href="https://thehackernews.com/2023/04/study-84-of-companies-use-breached-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent review by Wing Security, a SaaS security company that analyzed the data of over 500 companies,  revealed some worrisome information . According to this review, 84% of the companies had employees using an average of 3.5 SaaS applications that were breached in the previous 3 months. While this is concerning, it isn't much of a surprise. The exponential growth in SaaS usage has security and IT teams struggling to keep up with which SaaS applications are being used and how. This isn't to say that SaaS should be avoided or blocked; on the contrary, SaaS applications must be used to ensure business growth. But using them has to be done with some level of caution. Determining which SaaS applications are risky The most intuitive risk factor to determining whether an application is risky is looking it up and seeing if it has been breached. SaaS applications are clearly a target as we see more and more SaaS related attacks. A breach is a clear indication to stay away, at leas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilExtractor, a new All-in-One info stealer appeared on the Dark Web<a href="https://securityaffairs.com/145200/cyber-crime/evilextractor-info-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EvilExtractor is a new "all-in-one" info stealer for Windows that is being advertised for sale on dark web cybercrime forums.
+Fortinet FortiGuard Labs researchers discovered a new "all-in-one" info stealer for Windows, dubbed EvilExtractor (sometimes...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AuKill Exploits Process Explorer Utility via BYOVD, Deploys Ransomware<a href="https://cyware.com/news/aukill-exploits-process-explorer-utility-via-byovd-deploys-ransomware-b116c37b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos X-Ops uncovered a defense evasion tool called AuKill. The tool exploits an outdated version of the driver used by version 16.32 of the Microsoft utility Process Explorer to disable EDR processes to deploy either a backdoor or ransomware on the targeted system. Since the beginning of 2023, th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Outdated WordPress Plugin to Backdoor Thousands of WordPress Sites<a href="https://thehackernews.com/2023/04/hackers-exploit-outdated-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed leveraging a legitimate but outdated WordPress plugin to surreptitiously backdoor websites as part of an ongoing campaign, Sucuri  revealed  in a report published last week. The plugin in question is Eval PHP, released by a developer named flashpixx. It allows users to insert PHP code pages and posts of WordPress sites that's then executed every time the posts are opened in a web browser. While  Eval PHP  has never received an update in 11 years, statistics gathered by WordPress show that it's installed on over 8,000 websites, with the number of downloads skyrocketing from one or two on average since September 2022 to 6,988 on March 30, 2023. On April 23, 2023, alone, it was downloaded 2,140 times. The plugin has racked up 23,110 downloads over the past seven days. GoDaddy-owned Sucuri said it observed some infected websites' databases injected with malicious code into the  "wp_posts" table , which stores a site's  posts,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime group likely behind ongoing exploitation of PaperCut flaws<a href="https://securityaffairs.com/145190/hacking/russian-hackers-papercut-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Print management software provider PaperCut confirmed ongoing active exploitation of CVE-2023-27350 vulnerability.
+On April 19th, Print management software provider PaperCut confirmed that it is aware of the active exploitation of the CVE-2023-27350...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mint Sandstorm Targets U.S. Critical Infrastructure<a href="https://cyware.com/news/mint-sandstorm-targets-us-critical-infrastructure-44cb3101"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft connected the Iranian Mint Sandstorm APT group (aka PHOSPHORUS) to a wave of attacks, between late-2021 and mid-2022, targeting the U.S. critical infrastructure. The group targets private/public organizations, including activists, journalists, the Defense Industrial Base (DIB), political  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New All-in-One "EvilExtractor" Stealer for Windows Systems Surfaces on the Dark Web<a href="https://thehackernews.com/2023/04/new-all-in-one-evilextractor-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new "all-in-one" stealer malware named  EvilExtractor  (also spelled Evil Extractor) is being marketed for sale for other threat actors to steal data and files from Windows systems. "It includes several modules that all work via an FTP service," Fortinet FortiGuard Labs researcher Cara Lin  said . "It also contains environment checking and Anti-VM functions. Its primary purpose seems to be to steal browser data and information from compromised endpoints and then upload it to the attacker's FTP server." The network security company said it observed a surge in attacks spreading the malware in the wild in March 2023, with a majority of the victims located in Europe and the U.S. While marketed as an educational tool, EvilExtractor has been adopted by threat actors for use as an information stealer. The attack tool is being sold by an actor named Kodex on cybercrime forums like Cracked dating back to October 22, 2022. It's continually updated and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can hack organizations using data found on their discarded enterprise network equipment<a href="https://securityaffairs.com/145168/hacking/discarded-enterprise-network-equipment-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers explained that enterprise network equipment that was discarded, but not destroyed, could reveal corporate secrets.
+ESET researchers purchased a few used routers to set up a test environment and made a shocking discovery, in many cases,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These two countries are teaming up to develop AI for cybersecurity<a href="https://www.zdnet.com/article/these-two-countries-are-teaming-up-to-develop-ai-for-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore and France have announced plans to set up a research facility to jointly develop artificial intelligence (AI) capabilities that can be applied in cyber defense.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Suspected in Ongoing Exploitation of Unpatched PaperCut Servers<a href="https://thehackernews.com/2023/04/russian-hackers-suspected-in-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Print management software provider PaperCut said that it has "evidence to suggest that unpatched servers are being exploited in the wild," citing two vulnerability reports from cybersecurity company Trend Micro. "PaperCut has conducted analysis on all customer reports, and the earliest signature of suspicious activity on a customer server potentially linked to this vulnerability is 14th April 01:29 AEST / 13th April 15:29 UTC," it further  added . The update comes as the U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a critical improper access control flaw ( CVE-2023-27350 , CVSS score: 9.8) in PaperCut MF and NG to the Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. Cybersecurity company Huntress, which found about 1,800 publicly exposed PaperCut servers, said it observed PowerShell commands being spawned from PaperCut software to install remote management and maintenance (RMM) software like Atera an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Package names repurposed to push malware on PyPI<a href="https://www.reversinglabs.com/blog/package-names-repurposed-to-push-malware-on-pypi?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the beginning of March, ReversingLabs researchers encountered a malicious package on the Python Package Index (PyPI) named termcolour, a three-stage downloader published in multiple versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Mac Users With New ‘RustBucket’ Malware<a href="https://www.securityweek.com/north-korean-hackers-target-mac-users-with-new-rustbucket-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed RustBucket and able to fetch additional payloads from its command-and-control (C&C) server, the malware has been attributed to the APT actor BlueNoroff, which is believed to be a subgroup of the infamous Lazarus hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can use ChatGPT to sharpen cyberthreats, but no need to panic yet<a href="https://www.cybersecuritydive.com/news/chatgpt-sharpen-cyberthreats/648292/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the generative artificial intelligence chatbot was released in November, Palo Alto Networks’ Unit 42 has detected up to 118 malicious URLs related to ChatGPT daily and domain squatting related to the tool has surged 17,818%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Generative AI to Spread RedLine Stealer MaaS<a href="https://securityboulevard.com/2023/04/hackers-exploit-generative-ai-to-spread-redline-stealer-maas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As generative AI tools like OpenAI ChatGPT and Google Bard continue to dominate the headlines—and pundits debate whether the technology has taken off too quickly without necessary guardrails—cybercriminals are showing no hesitance in exploiting them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
