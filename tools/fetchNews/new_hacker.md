@@ -8,6 +8,105 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Tomiris Targeting Central Asia for Intelligence Gathering<a href="https://thehackernews.com/2023/04/russian-hackers-tomiris-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-speaking threat actor behind a backdoor known as Tomiris is primarily focused on gathering intelligence in Central Asia, fresh findings from Kaspersky reveal. "Tomiris's endgame consistently appears to be the regular theft of internal documents," security researchers Pierre Delcher and Ivan Kwiatkowski&nbsp; said &nbsp;in an analysis published today. "The threat actor targets government and diplomatic entities in the CIS." The Russian cybersecurity firm's latest assessment is based on three new attack campaigns mounted by the hacking crew between 2021 and 2023. Tomiris first came to light in September 2021 when Kaspersky&nbsp; highlighted &nbsp;its potential connections to&nbsp; Nobelium &nbsp;(aka APT29, Cozy Bear, or Midnight Blizzard), the Russian nation-state group behind the SolarWinds supply chain attack. Similarities have also been unearthed between the backdoor and another malware strain dubbed&nbsp; Kazuar , which is attributed to the Turla group (aka Krypton, Secre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Outdated WordPress Plugin to Backdoor Thousands of WordPress Sites<a href="https://thehackernews.com/2023/04/hackers-exploit-outdated-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed leveraging a legitimate but outdated WordPress plugin to surreptitiously backdoor websites as part of an ongoing campaign, Sucuri&nbsp; revealed &nbsp;in a report published last week. The plugin in question is Eval PHP, released by a developer named flashpixx. It allows users to insert PHP code pages and posts of WordPress sites that's then executed every time the posts are opened in a web browser. While&nbsp; Eval PHP &nbsp;has never received an update in 11 years, statistics gathered by WordPress show that it's installed on over 8,000 websites, with the number of downloads skyrocketing from one or two on average since September 2022 to 6,988 on March 30, 2023. On April 23, 2023, alone, it was downloaded 2,140 times. The plugin has racked up 23,110 downloads over the past seven days. GoDaddy-owned Sucuri said it observed some infected websites' databases injected with malicious code into the&nbsp; "wp_posts" table , which stores a site's&nbsp; posts,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can hack organizations using data found on their discarded enterprise network equipment<a href="https://securityaffairs.com/145168/hacking/discarded-enterprise-network-equipment-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET researchers explained that enterprise network equipment that was discarded, but not destroyed, could reveal corporate secrets.
+ESET researchers purchased a few used routers to set up a test environment and made a shocking discovery, in many cases,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Suspected in Ongoing Exploitation of Unpatched PaperCut Servers<a href="https://thehackernews.com/2023/04/russian-hackers-suspected-in-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Print management software provider PaperCut said that it has "evidence to suggest that unpatched servers are being exploited in the wild," citing two vulnerability reports from cybersecurity company Trend Micro. "PaperCut has conducted analysis on all customer reports, and the earliest signature of suspicious activity on a customer server potentially linked to this vulnerability is 14th April 01:29 AEST / 13th April 15:29 UTC," it further&nbsp; added . The update comes as the U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a critical improper access control flaw ( CVE-2023-27350 , CVSS score: 9.8) in PaperCut MF and NG to the Known&nbsp;Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. Cybersecurity company Huntress, which found about 1,800 publicly exposed PaperCut servers, said it observed PowerShell commands being spawned from PaperCut software to install remote management and maintenance (RMM) software like Atera an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Mac Users With New ‘RustBucket’ Malware<a href="https://www.securityweek.com/north-korean-hackers-target-mac-users-with-new-rustbucket-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dubbed RustBucket and able to fetch additional payloads from its command-and-control (C&amp;C) server, the malware has been attributed to the APT actor BlueNoroff, which is believed to be a subgroup of the infamous Lazarus hacking group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can use ChatGPT to sharpen cyberthreats, but no need to panic yet<a href="https://www.cybersecuritydive.com/news/chatgpt-sharpen-cyberthreats/648292/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since the generative artificial intelligence chatbot was released in November, Palo Alto Networks’ Unit 42 has detected up to 118 malicious URLs related to ChatGPT daily and domain squatting related to the tool has surged 17,818%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Generative AI to Spread RedLine Stealer MaaS<a href="https://securityboulevard.com/2023/04/hackers-exploit-generative-ai-to-spread-redline-stealer-maas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As generative AI tools like OpenAI ChatGPT and Google Bard continue to dominate the headlines—and pundits debate whether the technology has taken off too quickly without necessary guardrails—cybercriminals are showing no hesitance in exploiting them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

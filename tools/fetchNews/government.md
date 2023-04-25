@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+April 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds 3 Actively Exploited Flaws to KEV Catalog, including Critical PaperCut Bug<a href="https://thehackernews.com/2023/04/cisa-adds-3-actively-exploited-flaws-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The&nbsp; three vulnerabilities &nbsp;are as follows - CVE-2023-28432 &nbsp;(CVSS score - 7.5) - MinIO Information Disclosure Vulnerability&nbsp; CVE-2023-27350 &nbsp;(CVSS score - 9.8) - PaperCut MF/NG Improper Access Control Vulnerability CVE-2023-2136 &nbsp;(CVSS score - TBD) - Google Chrome Skia Integer Overflow Vulnerability "In a cluster deployment, MinIO returns all environment variables, including MINIO_SECRET_KEY and MINIO_ROOT_PASSWORD, resulting in information disclosure," MinIO maintainers&nbsp; said &nbsp;in an advisory published on March 21, 2023. Data gathered by GreyNoise shows that as many as&nbsp; 18 unique malicious IP addresses &nbsp;from the U.S., the Netherlands, France, Japan, and Finland have&nbsp; attempted to exploit &nbsp;the flaw over the past 30 days. The threat intelligence company, in an&nbsp; alert &nbsp;p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds MinIO, PaperCut, and Chrome bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/145139/security/known-exploited-vulnerabilities-catalog-minio-papercut-and-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added MinIO, PaperCut, and Chrome vulnerabilities to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following three...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

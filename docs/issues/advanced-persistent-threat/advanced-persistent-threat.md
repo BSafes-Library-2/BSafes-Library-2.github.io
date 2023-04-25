@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mint Sandstorm Targets U.S. Critical Infrastructure<a href="https://cyware.com/news/mint-sandstorm-targets-us-critical-infrastructure-44cb3101"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft connected the Iranian Mint Sandstorm APT group (aka PHOSPHORUS) to a wave of attacks, between late-2021 and mid-2022, targeting the U.S. critical infrastructure. The group targets private/public organizations, including activists, journalists, the Defense Industrial Base (DIB), political  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

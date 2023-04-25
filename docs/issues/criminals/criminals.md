@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang of Cryptojackers Exploit Log4Shell to Mint Coins<a href="https://cyware.com/news/8220-gang-of-cryptojackers-exploit-log4shell-to-mint-coins-dc4e6f17"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found 8220 Gang exploiting the Log4Shell vulnerability to install CoinMiner in VMware Horizon servers of Korean energy-related companies. The gang uses a PowerShell script to download ScrubCrypt and establish persistence by making edits to the registry entries. System administrators are ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian cybercrime group likely behind ongoing exploitation of PaperCut flaws<a href="https://securityaffairs.com/145190/hacking/russian-hackers-papercut-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Print management software provider PaperCut confirmed ongoing active exploitation of CVE-2023-27350 vulnerability.
+On April 19th,&nbsp;Print management software provider PaperCut confirmed that it is aware of the active exploitation of the CVE-2023-27350...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

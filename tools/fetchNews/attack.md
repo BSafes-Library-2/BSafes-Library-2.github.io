@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+April 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Health insurer Point32Health suffered a ransomware attack<a href="https://securityaffairs.com/145183/cyber-crime/point32health-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Non-profit health insurer Point32Health suffered a ransomware attack and has taken systems offline in response to the incident.
+Non-profit health insurer Point32Health has taken systems offline in response to a ransomware attack that took place on April...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus X_TRADER Hack Impacts Critical Infrastructure Beyond 3CX Breach<a href="https://thehackernews.com/2023/04/lazarus-xtrader-hack-impacts-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lazarus, the prolific North Korean hacking group behind the cascading&nbsp; supply chain attack targeting 3CX , also breached two critical infrastructure organizations in the power and energy sector and two other businesses involved in financial trading using the trojanized X_TRADER application. The new findings, which come courtesy of&nbsp; Symantec's Threat Hunter Team , confirm earlier suspicions that the X_TRADER application compromise affected more organizations than 3CX. The names of the organizations were not revealed. Eric Chien, director of security response at Broadcom-owned Symantec, told The Hacker News in a statement that the attacks took place between September 2022 and November 2022. "The impact from these infections is unknown at this time – more investigation is required and is on-going," Chien said, adding it's possible that there's "likely more to this story and possibly even other packages that are trojanized." The development comes as Ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

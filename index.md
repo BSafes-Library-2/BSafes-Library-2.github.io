@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8220 Gang of Cryptojackers Exploit Log4Shell to Mint Coins<a href="https://cyware.com/news/8220-gang-of-cryptojackers-exploit-log4shell-to-mint-coins-dc4e6f17"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Tomiris Targeting Central Asia for Intelligence Gathering<a href="https://thehackernews.com/2023/04/russian-hackers-tomiris-targeting.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AuKill tool uses BYOVD attack to disable EDR software<a href="https://securityaffairs.com/145227/malware/aukill-tool-byovd-attack.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play Ransomware Group Adds Two New Tools to Harvest More Data<a href="https://cyware.com/news/play-ransomware-group-adds-two-new-tools-to-harvest-more-data-59f23898"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hackers Using AuKill Tool to Disable EDR Software Using BYOVD Attack<a href="https://thehackernews.com/2023/04/ransomware-hackers-using-aukill-tool-to.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts released PoC Exploit code for actively exploited PaperCut flaw<a href="https://securityaffairs.com/145215/hacking/papercut-poc-exploit-code.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Blind Eagle Attack Chain Discovered<a href="https://cyware.com/news/new-blind-eagle-attack-chain-discovered-3b30e99e"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Study: 84% of Companies Use Breached SaaS Applications - Here's How to Fix it for Free!<a href="https://thehackernews.com/2023/04/study-84-of-companies-use-breached-saas.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EvilExtractor, a new All-in-One info stealer appeared on the Dark Web<a href="https://securityaffairs.com/145200/cyber-crime/evilextractor-info-stealer.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AuKill Exploits Process Explorer Utility via BYOVD, Deploys Ransomware<a href="https://cyware.com/news/aukill-exploits-process-explorer-utility-via-byovd-deploys-ransomware-b116c37b"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Outdated WordPress Plugin to Backdoor Thousands of WordPress Sites<a href="https://thehackernews.com/2023/04/hackers-exploit-outdated-wordpress.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian cybercrime group likely behind ongoing exploitation of PaperCut flaws<a href="https://securityaffairs.com/145190/hacking/russian-hackers-papercut-flaws-attacks.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mint Sandstorm Targets U.S. Critical Infrastructure<a href="https://cyware.com/news/mint-sandstorm-targets-us-critical-infrastructure-44cb3101"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New All-in-One "EvilExtractor" Stealer for Windows Systems Surfaces on the Dark Web<a href="https://thehackernews.com/2023/04/new-all-in-one-evilextractor-stealer.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can hack organizations using data found on their discarded enterprise network equipment<a href="https://securityaffairs.com/145168/hacking/discarded-enterprise-network-equipment-risks.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These two countries are teaming up to develop AI for cybersecurity<a href="https://www.zdnet.com/article/these-two-countries-are-teaming-up-to-develop-ai-for-cybersecurity/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Suspected in Ongoing Exploitation of Unpatched PaperCut Servers<a href="https://thehackernews.com/2023/04/russian-hackers-suspected-in-ongoing.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Package names repurposed to push malware on PyPI<a href="https://www.reversinglabs.com/blog/package-names-repurposed-to-push-malware-on-pypi?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Target Mac Users With New ‘RustBucket’ Malware<a href="https://www.securityweek.com/north-korean-hackers-target-mac-users-with-new-rustbucket-malware/?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors can use ChatGPT to sharpen cyberthreats, but no need to panic yet<a href="https://www.cybersecuritydive.com/news/chatgpt-sharpen-cyberthreats/648292/?&web_view=true"> Full Text</a>
@@ -359,7 +359,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 24, 2023
+April 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Generative AI to Spread RedLine Stealer MaaS<a href="https://securityboulevard.com/2023/04/hackers-exploit-generative-ai-to-spread-redline-stealer-maas/?&web_view=true"> Full Text</a>

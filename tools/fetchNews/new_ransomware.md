@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Group Adds Two New Tools to Harvest More Data<a href="https://cyware.com/news/play-ransomware-group-adds-two-new-tools-to-harvest-more-data-59f23898"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group has added two custom tools written in .NET to expand the effectiveness of its attacks. Named Grixba and Volume Shadow Copy Service (VSS), these tools enable attackers to keep track of users in compromised networks and gather information about security, backup, and remote a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers Using AuKill Tool to Disable EDR Software Using BYOVD Attack<a href="https://thehackernews.com/2023/04/ransomware-hackers-using-aukill-tool-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are employing a previously undocumented "defense evasion tool" dubbed AuKill that's designed to disable endpoint detection and response (EDR) software by means of a Bring Your Own Vulnerable Driver ( BYOVD ) attack. "The AuKill tool abuses an outdated version of the&nbsp; driver &nbsp;used by version 16.32 of the Microsoft utility,&nbsp; Process Explorer , to disable EDR processes before deploying either a backdoor or ransomware on the target system," Sophos researcher Andreas Klopsch&nbsp; said &nbsp;in a report published last week. Incidents analyzed by the cybersecurity firm show the use of AuKill since the start of 2023 to deploy various ransomware strains such as Medusa Locker and LockBit. Six different versions of the malware have been identified to date. The oldest AuKill sample features a November 2022 compilation timestamp. The&nbsp; BYOVD technique &nbsp;relies on threat actors misusing a legitimate, but out-of-date and exploitable, driver signed by Microsoft (or usin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
