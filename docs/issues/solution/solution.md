@@ -8,6 +8,35 @@ nav_order: 900195
 
 ## Solution
 ---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modernizing Vulnerability Management: The Move Toward Exposure Management<a href="https://thehackernews.com/2023/04/modernizing-vulnerability-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managing vulnerabilities in the constantly evolving technological landscape is a difficult task. Although vulnerabilities emerge regularly, not all vulnerabilities present the same level of risk. Traditional metrics such as CVSS score or the number of vulnerabilities are insufficient for effective vulnerability management as they lack business context, prioritization, and understanding of attackers' opportunities. Vulnerabilities only represent a small part of the attack surface that attackers can leverage. Initially, organizations used manual methods to address known security weaknesses, but as technology and cyber threats evolved, a more automated and comprehensive approach became necessary. However, legacy vulnerability management tools were designed primarily for compliance and modern tools still face challenges in prioritization and limited resources, especially in dynamic and agile cloud environments. Modern vulnerability management integrates security tools such as scanne
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Authenticator App now supports Google Account synchronization<a href="https://securityaffairs.com/145258/security/google-authenticator-google-account-synchronization.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced that its Authenticator app for Android and iOS now supports Google Account synchronization.
+Google announced that its Google Authenticator app for both iOS and Android now supports Google Account synchronization that allows to safely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

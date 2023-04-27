@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peugeot leaks access to user information in South America<a href="https://securityaffairs.com/145253/security/peugeot-leaks-access-to-user-information-in-south-america.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peugeot, a French brand of automobiles owned by Stellantis, exposed its users in Peru, a South American country with a population of nearly 34 million.
+A brand, best known for its lion roaring for over a century, has leaked access to its user data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

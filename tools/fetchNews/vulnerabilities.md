@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC Exploit code for actively exploited PaperCut flaw<a href="https://securityaffairs.com/145215/hacking/papercut-poc-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting PaperCut MF/NG print management software flaws in attacks in the wild, while researchers released PoC exploit code.
+Hackers are actively exploiting PaperCut MF/NG print management software flaws (tracked as&nbsp;CVE-2023-27350&nbsp;and&nbsp;CVE-2023-27351)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

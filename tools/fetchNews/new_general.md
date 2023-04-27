@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Security Survey: 87% of SaaS Adopters Exposed to Browser-borne Attacks<a href="https://thehackernews.com/2023/04/browser-security-survey-87-of-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The browser serves as the primary interface between the on-premises environment, the cloud, and the web in the modern enterprise. Therefore, the browser is also exposed to multiple types of cyber threats and operational risks.&nbsp; In light of this significant challenge, how are CISOs responding? LayerX, Browser Security platform provider, has polled more than 150 CISOs across multiple verticals and geolocations. They asked them about their security practices for SaaS access, BYOD, phishing, browser data loss and browser security. The results of this extensive poll can be found in the report "2023 Browser Security Survey". In this article, we bring a taste of the report. You can read all the results and analysis here . Main Highlights Organizations in the cloud are exposed to web-borne attacks. 87% of all-SaaS adopters and 79% of CISOs in a hybrid environment experienced a web-borne security threat in the past 12 months. Account takeover is a top concern. 48% list credential phis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teenagers, young adults pose prevalent cyberthreat to US, Mandiant says<a href="https://www.cybersecuritydive.com/news/teenagers-young-adults-cyberthreat-mandiant/648554/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of teenagers and individuals in their 20s from the U.S. and the U.K are among the most prevalent threat actors today, Mandiant Consulting CTO Charles Carmakal said Monday at an off-site media briefing during the RSA Conference.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are logging in instead of breaking in<a href="https://www.helpnetsecurity.com/2023/04/25/attacks-dwell-time/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers leveraged more than 500 unique tools and tactics in 2022, according to Sophos. The data was analyzed from more than 150 Sophos Incident Response (IR) cases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Political Cybersecurity Blindfold in Latin America<a href="https://www.lawfareblog.com/political-cybersecurity-blindfold-latin-america"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latin America has been at the epicenter of a wave of cyberattacks since the start of the coronavirus pandemic; however, it is still hard to understand what cybersecurity means politically for the countries in the region.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

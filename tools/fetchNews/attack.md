@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Blind Eagle Attack Chain Discovered<a href="https://cyware.com/news/new-blind-eagle-attack-chain-discovered-3b30e99e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Blind Eagle cyberespionage group was identified as the source of a new multi-stage attack chain that ultimately results in the deployment of NjRAT on compromised systems. In this attack campaign, Blind Eagle leverages social engineering, custom malware, and spear-phishing attacks. Therefore, up ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,478 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud Platform Flaw 'GhostToken' Offers Ghost Entry to Attackers<a href="https://cyware.com/news/google-cloud-platform-flaw-ghosttoken-offers-ghost-entry-to-attackers-e0f021d7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google patched a security hole dubbed GhostToken that affects all the users of Google Cloud Platform (GCP). This flaw enables attackers to gain access to user accounts through the installation of malicious OAuth applications obtained from either the Google Marketplace or third-party providers. Crim ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Spotted Using Linux Variant of PingPull in Targeted Cyberattacks<a href="https://thehackernews.com/2023/04/chinese-hackers-using-pingpull-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese nation-state group dubbed  Alloy Taurus  is using a Linux variant of a backdoor called PingPull as well as a new undocumented tool codenamed Sword2033. That's according to findings from Palo Alto Networks Unit 42, which  discovered  recent malicious cyber activity carried out by the group targeting South Africa and Nepal. Alloy Taurus is the constellation-themed moniker assigned to a threat actor that's known for its attacks targeting telecom companies since at least 2012. It's also tracked by Microsoft as Granite Typhoon (previously Gallium). Last month, the adversary was attributed to a campaign called  Tainted Love  targeting telecommunication providers in the Middle East as part of a broader operation referred to as Soft Cell. Recent cyber espionage attacks mounted by Alloy Taurus have also broadened their victimology footprint to include financial institutions and government entities. PingPull,  first documented  by Unit 42 in June 2022, is a remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Alloy Taurus APT uses a Linux variant of PingPull malware<a href="https://securityaffairs.com/145335/apt/alloy-taurus-apt-pingpull-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actor tracked as Alloy Taurus is using a Linux variant of the PingPull backdoor and a new tool dubbed Sword2033.
+Researchers from Palo Alto Networks Unit 42 recently observed the China-linked Alloy Taurus group  (aka GALLIUM,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ads Abused to Distribute New LOBSHOT Malware<a href="https://cyware.com/news/google-ads-abused-to-distribute-new-lobshot-malware-ef54547d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elastic Security Labs has uncovered LOBSHOT, a previously unknown hVNC malware, that impersonates legitimate software for financial gain and is promoted through malvertising, such as Google Ads, to extend their reach and perpetrate their attacks. It targets 32 Chrome extensions, nine Edge wallet ex ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten's New BellaCiao Malware Discovered in Multi-Country Attacks<a href="https://thehackernews.com/2023/04/charming-kittens-new-bellaciao-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific Iranian nation-state group known as  Charming Kitten  is actively targeting multiple victims in the U.S., Europe, the Middle East and India with a novel malware dubbed  BellaCiao , adding to its ever-expanding list of custom tools. Discovered by Bitdefender Labs, BellaCiao is a "personalized dropper" that's capable of delivering other malware payloads onto a victim machine based on commands received from an actor-controlled server. "Each sample collected was tied up to a specific victim and included hard-coded information such as company name, specially crafted subdomains, or associated public IP address," the Romanian cybersecurity firm  said  in a report shared with The Hacker News. Charming Kitten, also known as APT35, Cobalt Illusion, Educated Manticore, ITG18, Mint Sandstorm (née Phosphorus), TA453, and Yellow Garuda, is an Iranian state-sponsored APT group associated with the Islamic Revolutionary Guard Corps ( IRGC ). Over the years, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A component in Huawei network appliances could be used to take down Germany’s telecoms networks<a href="https://securityaffairs.com/145323/intelligence/german-government-warns-huawei-sabotage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German government warns that technology to regulate power consumption in Huawei network appliances could be used for sabotage purposes. 
+In March, the interior ministry announced it was conducting an audit on the network appliance from Chinese telecoms...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Use Over 3,000 Fake Facebook Profiles to Lure Victims<a href="https://cyware.com/news/scammers-use-over-3000-fake-facebook-profiles-to-lure-victims-56b735d0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB spotted a new phishing campaign targeting Facebook users, leveraging 3,200 fake profiles, in an attempt to steal account credentials from public figures, businesses, celebs, and others. The profiles were either created by the actors or were genuinely hacked accounts of users. Of these fake ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using MgBot Malware to Target International NGOs in Mainland China<a href="https://thehackernews.com/2023/04/chinese-hackers-using-mgbot-malware-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) group referred to as  Evasive Panda  has been observed targeting an international non-governmental organization (NGO) in Mainland China with malware delivered via update channels of legitimate applications like Tencent QQ. The attack chains are designed to distribute a Windows installer for MgBot malware, ESET security researcher Facundo Muñoz said in a new report published today. The activity commenced in November 2020 and continued throughout 2021. Evasive Panda, also known as Bronze Highland and Daggerfly, is a Chinese-speaking APT group that has been attributed to a series of  cyber espionage attacks  targeting various entities in China, Hong Kong, and other countries located in East and South Asia since at least late December 2012. The group's hallmark is the use of the custom MgBot modular malware framework, which is capable of receiving additional components on the fly to expand on its intelligence-gathering capabilities. Some of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of publicly-exposed Apache Superset installs exposed to RCE attacks<a href="https://securityaffairs.com/145317/hacking/superset-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache Superset open-source data visualization platform is affected by an insecure default configuration that could lead to remote code execution.
+Apache Superset is an open-source data visualization and data exploration platform. The maintainers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Variant Explores TP-Link to Grow its Army of DDoS Devices<a href="https://cyware.com/news/mirai-botnet-variant-explores-tp-link-to-grow-its-army-of-ddos-devices-572bcb7a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai botnet operators were seen abusing CVE-2023-1389, a vulnerability in the TP-Link Archer A21 (AX1800) WiFi router, and trying to make those devices part of their future DDoS attacks. The initial study of the attack infrastructure revealed targeted devices in the Eastern Europe region, howe ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Browser Security Survey: 87% of SaaS Adopters Exposed to Browser-borne Attacks<a href="https://thehackernews.com/2023/04/browser-security-survey-87-of-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The browser serves as the primary interface between the on-premises environment, the cloud, and the web in the modern enterprise. Therefore, the browser is also exposed to multiple types of cyber threats and operational risks.  In light of this significant challenge, how are CISOs responding? LayerX, Browser Security platform provider, has polled more than 150 CISOs across multiple verticals and geolocations. They asked them about their security practices for SaaS access, BYOD, phishing, browser data loss and browser security. The results of this extensive poll can be found in the report "2023 Browser Security Survey". In this article, we bring a taste of the report. You can read all the results and analysis here . Main Highlights Organizations in the cloud are exposed to web-borne attacks. 87% of all-SaaS adopters and 79% of CISOs in a hybrid environment experienced a web-borne security threat in the past 12 months. Account takeover is a top concern. 48% list credential phis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia hacking group executed a disruptive attack against a Canadian gas pipeline<a href="https://securityaffairs.com/145307/cyber-warfare-2/canadian-gas-pipeline-disruptive-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia hacking group Zarya caused a cybersecurity incident at a Canadian gas pipeline, the critical infrastructure sector is on alert.
+A Canadian gas pipeline suffered a cyber security incident, Canada’s top cyber official and Pro-Russia hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Anatomy of a Scalping Bot: NSB Was Copped!<a href="https://www.imperva.com/blog/the-anatomy-of-a-scalping-bot-nsb-was-copped/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past eight years, NSB has been used by bot operators to acquire limited edition and hard-to-find items from over 100 online shops. It's considered one of the best scalping bots available on the market, with an annual price of $499.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+Apache Superset Vulnerability: Insecure Default Configuration Exposes Servers to RCE Attacks<a href="https://thehackernews.com/2023/04/apache-superset-vulnerability-insecure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the  Apache Superset  open source data visualization software have released fixes to plug an insecure default configuration that could lead to remote code execution. The vulnerability, tracked as  CVE-2023-27524  (CVSS score: 8.9), impacts versions up to and including 2.0.1 and relates to the use of a default SECRET_KEY that could be abused by attackers to authenticate and access unauthorized resources on internet-exposed installations. Naveen Sunkavally, the chief architect at Horizon3.ai, described the issue as "a dangerous default configuration in Apache Superset that allows an unauth attacker to gain remote code execution, harvest credentials, and compromise data." It's worth noting that the flaw does not affect Superset instances that have changed the default value for the SECRET_KEY config to a more cryptographically secure random string. The cybersecurity firm, which found that the SECRET_KEY is defaulted to the value "\x02\x01thisismy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Caught Exploiting Recent Veeam Backup & Replication Vulnerability<a href="https://www.securityweek.com/fin7-hackers-caught-exploiting-recent-veeam-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of March 2023, WithSecure caught FIN7 attacks that exploited internet-facing servers running Veeam Backup & Replication software to execute payloads on the compromised environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Critical Patches for Workstation and Fusion Software<a href="https://thehackernews.com/2023/04/vmware-releases-critical-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released updates to resolve multiple security flaws impacting its Workstation and Fusion software, the most critical of which could allow a local attacker to achieve code execution. The vulnerability, tracked as CVE-2023-20869 (CVSS score: 9.3), is described as a stack-based buffer-overflow vulnerability that resides in the functionality for sharing host Bluetooth devices with the virtual machine. "A malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host," the company  said . Also patched by VMware is an out-of-bounds read vulnerability affecting the same feature (CVE-2023-20870, CVSS score: 7.1), that could be abused by a local adversary with admin privileges to read sensitive information contained in hypervisor memory from a virtual machine. Both vulnerabilities were  demonstrated  by researchers from STAR Labs on the third day of the Pwn2O
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teenagers, young adults pose prevalent cyberthreat to US, Mandiant says<a href="https://www.cybersecuritydive.com/news/teenagers-young-adults-cyberthreat-mandiant/648554/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of teenagers and individuals in their 20s from the U.S. and the U.K are among the most prevalent threat actors today, Mandiant Consulting CTO Charles Carmakal said Monday at an off-site media briefing during the RSA Conference.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten APT Uses BellaCiao Malware to Target Victims in US, Europe, Middle East, and India<a href="https://businessinsights.bitdefender.com/unpacking-bellaciao-a-closer-look-at-irans-latest-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This malware is tailored to suit individual targets and exhibits a higher level of complexity, evidenced by a unique communication approach with its command-and-control (C2) infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers are logging in instead of breaking in<a href="https://www.helpnetsecurity.com/2023/04/25/attacks-dwell-time/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyberattackers leveraged more than 500 unique tools and tactics in 2022, according to Sophos. The data was analyzed from more than 150 Sophos Incident Response (IR) cases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Political Cybersecurity Blindfold in Latin America<a href="https://www.lawfareblog.com/political-cybersecurity-blindfold-latin-america"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latin America has been at the epicenter of a wave of cyberattacks since the start of the coronavirus pandemic; however, it is still hard to understand what cybersecurity means politically for the countries in the region.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SLP flaw allows DDoS attacks with an amplification factor as high as 2200 times<a href="https://securityaffairs.com/145295/hacking/slp-flaw-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the Service Location Protocol (SLP), tracked as CVE-2023-29552, can allow to carry out powerful DDoS attacks.
+A high-severity security vulnerability (CVE-2023-29552, CVSS score: 8.6) impacting the Service Location Protocol (SLP) can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed two zero-day flaws demonstrated at Pwn2Own Vancouver 2023<a href="https://securityaffairs.com/145287/security/vmware-fixes-critical-zero-days-pwn2own.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed zero-day flaws that can be chained to achieve arbitrary code execution on Workstation and Fusion software hypervisors.
+VMware released security updates to address two zero-day vulnerabilities (CVE-2023-20869, CVE-2023-20870) that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SLP Vulnerability Could Let Attackers Launch 2200x Powerful DDoS Attacks<a href="https://thehackernews.com/2023/04/new-slp-vulnerability-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a high-severity security vulnerability impacting Service Location Protocol ( SLP ) that could be weaponized to launch volumetric denial-of-service attacks against targets. "Attackers exploiting this vulnerability could leverage vulnerable instances to launch massive Denial-of-Service (DoS) amplification attacks with a factor as high as 2,200 times, potentially making it one of the largest amplification attacks ever reported," Bitsight and Curesec researchers Pedro Umbelino and Marco Lux  said  in a report shared with The Hacker News. The vulnerability, which has been assigned the identifier  CVE-2023-29552  (CVSS score: 8.6), is said to impact more than 2,000 global organizations and over 54,000 SLP instances that are accessible over the internet. This includes VMWare ESXi Hypervisor, Konica Minolta printers, Planex Routers, IBM Integrated Management Module (IMM), SMC IPMI, and 665 other product types. The top 10 countries with the most organi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Mirai botnet variant targets TP-Link Archer A21<a href="https://securityaffairs.com/145278/hacking/mirai-botnet-cve-2023-1389-tp-link-archer-a21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai botnet started exploiting the CVE-2023-1389 vulnerability (aka ZDI-CAN-19557/ZDI-23-451) in TP-Link Archer A21 in recent attacks.
+Last week, the Zero Day Initiative (ZDI) threat-hunting team observed the Mirai botnet attempting to exploit the CVE-2023-1389...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Launch Sophisticated Attacks Targeting Israel with PowerLess Backdoor<a href="https://thehackernews.com/2023/04/iranian-hackers-launch-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian nation-state threat actor has been linked to a new wave of phishing attacks targeting Israel that's designed to deploy an updated version of a Windows backdoor called PowerLess . Cybersecurity firm Check Point is tracking the activity cluster under its mythical creature handle  Educated Manticore , which exhibits "strong overlaps" with a hacking crew known as APT35, Charming Kitten, Cobalt Illusion, ITG18, Mint Sandstorm (formerly Phosphorus), TA453, and Yellow Garuda. "Like many other actors, Educated Manticore has adopted recent trends and started using ISO images and possibly other archive files to initiate infection chains," the Israeli company  said  in a technical report published today. Active since at least 2011, APT35 has cast a  wide net of targets  by leveraging  fake social media personas ,  spear-phishing techniques , and  N-day vulnerabilities in internet-exposed applications  to gain initial access and drop various payloads, includi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google researchers found multiple security issues in Intel TDX<a href="https://securityaffairs.com/145268/security/intel-tdx-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud Security and Project Zero researchers found multiple vulnerabilities in the Intel Trust Domain Extensions (TDX).
+Google Cloud Security and Project Zero researchers, working with Intel experts, discovered multiple vulnerabilities in the Intel...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modernizing Vulnerability Management: The Move Toward Exposure Management<a href="https://thehackernews.com/2023/04/modernizing-vulnerability-management.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managing vulnerabilities in the constantly evolving technological landscape is a difficult task. Although vulnerabilities emerge regularly, not all vulnerabilities present the same level of risk. Traditional metrics such as CVSS score or the number of vulnerabilities are insufficient for effective vulnerability management as they lack business context, prioritization, and understanding of attackers' opportunities. Vulnerabilities only represent a small part of the attack surface that attackers can leverage. Initially, organizations used manual methods to address known security weaknesses, but as technology and cyber threats evolved, a more automated and comprehensive approach became necessary. However, legacy vulnerability management tools were designed primarily for compliance and modern tools still face challenges in prioritization and limited resources, especially in dynamic and agile cloud environments. Modern vulnerability management integrates security tools such as scanne
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Authenticator App now supports Google Account synchronization<a href="https://securityaffairs.com/145258/security/google-authenticator-google-account-synchronization.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced that its Authenticator app for Android and iOS now supports Google Account synchronization.
+Google announced that its Google Authenticator app for both iOS and Android now supports Google Account synchronization that allows to safely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Peugeot leaks access to user information in South America<a href="https://securityaffairs.com/145253/security/peugeot-leaks-access-to-user-information-in-south-america.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Peugeot, a French brand of automobiles owned by Stellantis, exposed its users in Peru, a South American country with a population of nearly 34 million.
+A brand, best known for its lion roaring for over a century, has leaked access to its user data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

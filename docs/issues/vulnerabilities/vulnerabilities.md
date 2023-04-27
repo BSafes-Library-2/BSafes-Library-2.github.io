@@ -8,6 +8,135 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud Platform Flaw 'GhostToken' Offers Ghost Entry to Attackers<a href="https://cyware.com/news/google-cloud-platform-flaw-ghosttoken-offers-ghost-entry-to-attackers-e0f021d7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google patched a security hole dubbed GhostToken that affects all the users of Google Cloud Platform (GCP). This flaw enables attackers to gain access to user accounts through the installation of malicious OAuth applications obtained from either the Google Marketplace or third-party providers. Crim ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A component in Huawei network appliances could be used to take down Germany’s telecoms networks<a href="https://securityaffairs.com/145323/intelligence/german-government-warns-huawei-sabotage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German government warns that technology to regulate power consumption in Huawei network appliances could be used for sabotage purposes.&nbsp;
+In March, the interior ministry announced it was conducting an audit on the network appliance from Chinese telecoms...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of publicly-exposed Apache Superset installs exposed to RCE attacks<a href="https://securityaffairs.com/145317/hacking/superset-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache Superset&nbsp;open-source data visualization platform is affected by an insecure default configuration that could lead to remote code execution.
+Apache Superset is an open-source data visualization and data exploration platform. The maintainers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+Apache Superset Vulnerability: Insecure Default Configuration Exposes Servers to RCE Attacks<a href="https://thehackernews.com/2023/04/apache-superset-vulnerability-insecure.html"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the&nbsp; Apache Superset &nbsp;open source data visualization software have released fixes to plug an insecure default configuration that could lead to remote code execution. The vulnerability, tracked as&nbsp; CVE-2023-27524 &nbsp;(CVSS score: 8.9), impacts versions up to and including 2.0.1 and relates to the use of a default SECRET_KEY that could be abused by attackers to authenticate and access unauthorized resources on internet-exposed installations. Naveen Sunkavally, the chief architect at Horizon3.ai, described the issue as "a dangerous default configuration in Apache Superset that allows an unauth attacker to gain remote code execution, harvest credentials, and compromise data." It's worth noting that the flaw does not affect Superset instances that have changed the default value for the SECRET_KEY config to a more cryptographically secure random string. The cybersecurity firm, which found that the SECRET_KEY is defaulted to the value "\x02\x01thisismy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware Releases Critical Patches for Workstation and Fusion Software<a href="https://thehackernews.com/2023/04/vmware-releases-critical-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released updates to resolve multiple security flaws impacting its Workstation and Fusion software, the most critical of which could allow a local attacker to achieve code execution. The vulnerability, tracked as CVE-2023-20869 (CVSS score: 9.3), is described as a stack-based buffer-overflow vulnerability that resides in the functionality for sharing host Bluetooth devices with the virtual machine. "A malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host," the company&nbsp; said . Also patched by VMware is an out-of-bounds read vulnerability affecting the same feature (CVE-2023-20870, CVSS score: 7.1), that could be abused by a local adversary with admin privileges to read sensitive information contained in hypervisor memory from a virtual machine. Both vulnerabilities were&nbsp; demonstrated &nbsp;by researchers from STAR Labs on the third day of the Pwn2O
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SLP flaw allows DDoS attacks with an amplification factor as high as 2200 times<a href="https://securityaffairs.com/145295/hacking/slp-flaw-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in the Service Location Protocol (SLP), tracked as CVE-2023-29552, can allow to carry out powerful DDoS attacks.
+A high-severity security vulnerability (CVE-2023-29552, CVSS score: 8.6) impacting the Service Location Protocol (SLP) can be exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed two zero-day flaws demonstrated at Pwn2Own Vancouver 2023<a href="https://securityaffairs.com/145287/security/vmware-fixes-critical-zero-days-pwn2own.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed zero-day flaws that can be chained to achieve arbitrary code execution on Workstation and Fusion software hypervisors.
+VMware released security updates to address two zero-day vulnerabilities (CVE-2023-20869, CVE-2023-20870) that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SLP Vulnerability Could Let Attackers Launch 2200x Powerful DDoS Attacks<a href="https://thehackernews.com/2023/04/new-slp-vulnerability-could-let.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a high-severity security vulnerability impacting Service Location Protocol ( SLP ) that could be weaponized to launch volumetric denial-of-service attacks against targets. "Attackers exploiting this vulnerability could leverage vulnerable instances to launch massive Denial-of-Service (DoS) amplification attacks with a factor as high as 2,200 times, potentially making it one of the largest amplification attacks ever reported," Bitsight and Curesec researchers Pedro Umbelino and Marco Lux&nbsp; said &nbsp;in a report shared with The Hacker News. The vulnerability, which has been assigned the identifier&nbsp; CVE-2023-29552 &nbsp;(CVSS score: 8.6), is said to impact more than 2,000 global organizations and over 54,000 SLP instances that are accessible over the internet. This includes VMWare ESXi Hypervisor, Konica Minolta printers, Planex Routers, IBM Integrated Management Module (IMM), SMC IPMI, and 665 other product types. The top 10 countries with the most organi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google researchers found multiple security issues in Intel TDX<a href="https://securityaffairs.com/145268/security/intel-tdx-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud Security and Project Zero researchers found multiple vulnerabilities in the Intel Trust Domain Extensions (TDX).
+Google Cloud Security and Project Zero researchers, working with Intel experts, discovered multiple vulnerabilities in the Intel...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

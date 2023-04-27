@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Alloy Taurus APT uses a Linux variant of PingPull malware<a href="https://securityaffairs.com/145335/apt/alloy-taurus-apt-pingpull-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked threat actor tracked as&nbsp;Alloy Taurus&nbsp;is using a Linux variant of the PingPull backdoor and a new tool dubbed Sword2033.
+Researchers from Palo Alto Networks Unit 42 recently observed the China-linked Alloy Taurus group &nbsp;(aka GALLIUM,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten APT Uses BellaCiao Malware to Target Victims in US, Europe, Middle East, and India<a href="https://businessinsights.bitdefender.com/unpacking-bellaciao-a-closer-look-at-irans-latest-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This malware is tailored to suit individual targets and exhibits a higher level of complexity, evidenced by a unique communication approach with its command-and-control (C2) infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

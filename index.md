@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud Platform Flaw 'GhostToken' Offers Ghost Entry to Attackers<a href="https://cyware.com/news/google-cloud-platform-flaw-ghosttoken-offers-ghost-entry-to-attackers-e0f021d7"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Spotted Using Linux Variant of PingPull in Targeted Cyberattacks<a href="https://thehackernews.com/2023/04/chinese-hackers-using-pingpull-linux.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Alloy Taurus APT uses a Linux variant of PingPull malware<a href="https://securityaffairs.com/145335/apt/alloy-taurus-apt-pingpull-linux-variant.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads Abused to Distribute New LOBSHOT Malware<a href="https://cyware.com/news/google-ads-abused-to-distribute-new-lobshot-malware-ef54547d"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten's New BellaCiao Malware Discovered in Multi-Country Attacks<a href="https://thehackernews.com/2023/04/charming-kittens-new-bellaciao-malware.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A component in Huawei network appliances could be used to take down Germany’s telecoms networks<a href="https://securityaffairs.com/145323/intelligence/german-government-warns-huawei-sabotage.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Use Over 3,000 Fake Facebook Profiles to Lure Victims<a href="https://cyware.com/news/scammers-use-over-3000-fake-facebook-profiles-to-lure-victims-56b735d0"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Using MgBot Malware to Target International NGOs in Mainland China<a href="https://thehackernews.com/2023/04/chinese-hackers-using-mgbot-malware-to.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of publicly-exposed Apache Superset installs exposed to RCE attacks<a href="https://securityaffairs.com/145317/hacking/superset-flaw.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Botnet Variant Explores TP-Link to Grow its Army of DDoS Devices<a href="https://cyware.com/news/mirai-botnet-variant-explores-tp-link-to-grow-its-army-of-ddos-devices-572bcb7a"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Security Survey: 87% of SaaS Adopters Exposed to Browser-borne Attacks<a href="https://thehackernews.com/2023/04/browser-security-survey-87-of-saas.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia hacking group executed a disruptive attack against a Canadian gas pipeline<a href="https://securityaffairs.com/145307/cyber-warfare-2/canadian-gas-pipeline-disruptive-attack.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Anatomy of a Scalping Bot: NSB Was Copped!<a href="https://www.imperva.com/blog/the-anatomy-of-a-scalping-bot-nsb-was-copped/?&web_view=true"> Full Text</a>
@@ -246,9 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 Apache Superset Vulnerability: Insecure Default Configuration Exposes Servers to RCE Attacks<a href="https://thehackernews.com/2023/04/apache-superset-vulnerability-insecure.html"> Full Text</a>
 </p>
 <details>
@@ -262,7 +260,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Hackers Caught Exploiting Recent Veeam Backup & Replication Vulnerability<a href="https://www.securityweek.com/fin7-hackers-caught-exploiting-recent-veeam-vulnerability/?&web_view=true"> Full Text</a>
@@ -278,7 +276,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Critical Patches for Workstation and Fusion Software<a href="https://thehackernews.com/2023/04/vmware-releases-critical-patches-for.html"> Full Text</a>
@@ -294,7 +292,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Teenagers, young adults pose prevalent cyberthreat to US, Mandiant says<a href="https://www.cybersecuritydive.com/news/teenagers-young-adults-cyberthreat-mandiant/648554/?&web_view=true"> Full Text</a>
@@ -310,7 +308,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten APT Uses BellaCiao Malware to Target Victims in US, Europe, Middle East, and India<a href="https://businessinsights.bitdefender.com/unpacking-bellaciao-a-closer-look-at-irans-latest-malware?&web_view=true"> Full Text</a>
@@ -326,7 +324,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are logging in instead of breaking in<a href="https://www.helpnetsecurity.com/2023/04/25/attacks-dwell-time/?&web_view=true"> Full Text</a>
@@ -342,7 +340,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Political Cybersecurity Blindfold in Latin America<a href="https://www.lawfareblog.com/political-cybersecurity-blindfold-latin-america"> Full Text</a>
@@ -358,7 +356,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SLP flaw allows DDoS attacks with an amplification factor as high as 2200 times<a href="https://securityaffairs.com/145295/hacking/slp-flaw-ddos-attacks.html"> Full Text</a>
@@ -375,7 +373,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed two zero-day flaws demonstrated at Pwn2Own Vancouver 2023<a href="https://securityaffairs.com/145287/security/vmware-fixes-critical-zero-days-pwn2own.html"> Full Text</a>
@@ -392,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SLP Vulnerability Could Let Attackers Launch 2200x Powerful DDoS Attacks<a href="https://thehackernews.com/2023/04/new-slp-vulnerability-could-let.html"> Full Text</a>
@@ -408,7 +406,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Mirai botnet variant targets TP-Link Archer A21<a href="https://securityaffairs.com/145278/hacking/mirai-botnet-cve-2023-1389-tp-link-archer-a21.html"> Full Text</a>
@@ -425,7 +423,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Launch Sophisticated Attacks Targeting Israel with PowerLess Backdoor<a href="https://thehackernews.com/2023/04/iranian-hackers-launch-sophisticated.html"> Full Text</a>
@@ -441,7 +439,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google researchers found multiple security issues in Intel TDX<a href="https://securityaffairs.com/145268/security/intel-tdx-flaws.html"> Full Text</a>
@@ -458,7 +456,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modernizing Vulnerability Management: The Move Toward Exposure Management<a href="https://thehackernews.com/2023/04/modernizing-vulnerability-management.html"> Full Text</a>
@@ -474,7 +472,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Authenticator App now supports Google Account synchronization<a href="https://securityaffairs.com/145258/security/google-authenticator-google-account-synchronization.html"> Full Text</a>
@@ -491,7 +489,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Peugeot leaks access to user information in South America<a href="https://securityaffairs.com/145253/security/peugeot-leaks-access-to-user-information-in-south-america.html"> Full Text</a>

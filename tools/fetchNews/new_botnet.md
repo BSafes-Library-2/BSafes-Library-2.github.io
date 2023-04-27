@@ -8,6 +8,49 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Variant Explores TP-Link to Grow its Army of DDoS Devices<a href="https://cyware.com/news/mirai-botnet-variant-explores-tp-link-to-grow-its-army-of-ddos-devices-572bcb7a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mirai botnet operators were seen abusing CVE-2023-1389, a vulnerability in the TP-Link Archer A21 (AX1800) WiFi router, and trying to make those devices part of their future DDoS attacks. The initial study of the attack infrastructure revealed targeted devices in the Eastern Europe region, howe ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Anatomy of a Scalping Bot: NSB Was Copped!<a href="https://www.imperva.com/blog/the-anatomy-of-a-scalping-bot-nsb-was-copped/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past eight years, NSB has been used by bot operators to acquire limited edition and hard-to-find items from over 100 online shops. It's considered one of the best scalping bots available on the market, with an annual price of $499.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new Mirai botnet variant targets TP-Link Archer A21<a href="https://securityaffairs.com/145278/hacking/mirai-botnet-cve-2023-1389-tp-link-archer-a21.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mirai botnet started exploiting the CVE-2023-1389 vulnerability (aka ZDI-CAN-19557/ZDI-23-451) in TP-Link Archer A21 in recent attacks.
+Last week, the Zero Day Initiative (ZDI) threat-hunting team observed the Mirai botnet attempting to exploit the CVE-2023-1389...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Study: 84% of Companies Use Breached SaaS Applications - Here's How to Fix it for Free!<a href="https://thehackernews.com/2023/04/study-84-of-companies-use-breached-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent review by Wing Security, a SaaS security company that analyzed the data of over 500 companies,&nbsp; revealed some worrisome information . According to this review, 84% of the companies had employees using an average of 3.5 SaaS applications that were breached in the previous 3 months. While this is concerning, it isn't much of a surprise. The exponential growth in SaaS usage has security and IT teams struggling to keep up with which SaaS applications are being used and how. This isn't to say that SaaS should be avoided or blocked; on the contrary, SaaS applications must be used to ensure business growth. But using them has to be done with some level of caution. Determining which SaaS applications are risky The most intuitive risk factor to determining whether an application is risky is looking it up and seeing if it has been breached. SaaS applications are clearly a target as we see more and more SaaS related attacks. A breach is a clear indication to stay away, at leas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These two countries are teaming up to develop AI for cybersecurity<a href="https://www.zdnet.com/article/these-two-countries-are-teaming-up-to-develop-ai-for-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singapore and France have announced plans to set up a research facility to jointly develop artificial intelligence (AI) capabilities that can be applied in cyber defense.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

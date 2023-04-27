@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia hacking group executed a disruptive attack against a Canadian gas pipeline<a href="https://securityaffairs.com/145307/cyber-warfare-2/canadian-gas-pipeline-disruptive-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russia hacking group Zarya caused a cybersecurity incident at a Canadian gas pipeline, the critical infrastructure sector is on alert.
+A Canadian gas pipeline suffered a cyber security incident, Canada’s top cyber official and Pro-Russia hacking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Launch Sophisticated Attacks Targeting Israel with PowerLess Backdoor<a href="https://thehackernews.com/2023/04/iranian-hackers-launch-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian nation-state threat actor has been linked to a new wave of phishing attacks targeting Israel that's designed to deploy an updated version of a Windows backdoor called PowerLess . Cybersecurity firm Check Point is tracking the activity cluster under its mythical creature handle&nbsp; Educated Manticore , which exhibits "strong overlaps" with a hacking crew known as APT35, Charming Kitten, Cobalt Illusion, ITG18, Mint Sandstorm (formerly Phosphorus), TA453, and Yellow Garuda. "Like many other actors, Educated Manticore has adopted recent trends and started using ISO images and possibly other archive files to initiate infection chains," the Israeli company&nbsp; said &nbsp;in a technical report published today. Active since at least 2011, APT35 has cast a&nbsp; wide net of targets &nbsp;by leveraging&nbsp; fake social media personas ,&nbsp; spear-phishing techniques , and&nbsp; N-day vulnerabilities in internet-exposed applications &nbsp;to gain initial access and drop various payloads, includi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
