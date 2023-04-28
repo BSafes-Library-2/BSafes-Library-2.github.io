@@ -8,6 +8,64 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers found the first Linux variant of the RTM locker<a href="https://securityaffairs.com/145383/cyber-crime/linux-rtm-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RTM ransomware-as-a-service (RaaS) started offering locker ransomware that targets Linux, NAS, and ESXi systems.
+The&nbsp;Uptycs threat research team&nbsp;discovered the first ransomware binary attributed to the RTM ransomware-as-a-service (RaaS) provider....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks use PaperCut exploits to deliver Cl0p and LockBit ransomware<a href="https://securityaffairs.com/145377/hacking/papercut-exploits-cl0p-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that recent attacks against PaperCut servers&nbsp;aimed at distributing Cl0p and LockBit ransomware.
+Microsoft linked the recent attacks against PaperCut servers to a financially motivated threat actor tracked as Lace Tempest&nbsp;(formerly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker's First Linux Ransomware Strain Targeting NAS and ESXi Hosts<a href="https://thehackernews.com/2023/04/rtm-lockers-first-linux-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind&nbsp; RTM Locker &nbsp;have developed a ransomware strain that's capable of targeting Linux machines, marking the group's first foray into the open source operating system. "Its locker ransomware infects Linux, NAS, and ESXi hosts and appears to be inspired by&nbsp; Babuk &nbsp;ransomware's leaked source code," Uptycs said in a new report published Wednesday. "It uses a combination of&nbsp; ECDH &nbsp;on Curve25519 (asymmetric encryption) and&nbsp; Chacha20 &nbsp;(symmetric encryption) to encrypt files." RTM Locker was&nbsp; first documented &nbsp;by Trellix earlier this month, describing the adversary as a private ransomware-as-a-service (RaaS) provider. It has its roots in a cybercrime group called Read The Manual (RTM) that's known to be active since at least 2015. The group is notable for deliberately avoiding high-profile targets such as critical infrastructure, law enforcement, and hospitals so as to draw as little attention as possible. It also leverages affilia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New coercive tactics used to extort ransomware payments<a href="https://www.helpnetsecurity.com/2023/04/26/q1-2023-ransomware-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in reported ransomware victims across Q1 2023 reflects the continued prevalence of ransomware as a worldwide, industry-agnostic threat, according to GuidePoint Security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

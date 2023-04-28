@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCR restores more services following ransomware attack<a href="https://www.cybersecuritydive.com/news/ncr-restores-ransomware-attack/648664/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers<a href="https://thehackernews.com/2023/04/google-gets-court-order-to-take-down.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 911? We Have an Emergency: Cyberattacks On Emergency Response Systems<a href="https://www.lawfareblog.com/911-we-have-emergency-cyberattacks-emergency-response-systems"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers found the first Linux variant of the RTM locker<a href="https://securityaffairs.com/145383/cyber-crime/linux-rtm-locker.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google adds new risk assessment tool for Chrome extensions<a href="https://www.helpnetsecurity.com/2023/04/25/risk-assessment-chrome-extensions/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Paperbug Attack: New Politically-Motivated Surveillance Campaign in Tajikistan<a href="https://thehackernews.com/2023/04/paperbug-attack-new-politically.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks use PaperCut exploits to deliver Cl0p and LockBit ransomware<a href="https://securityaffairs.com/145377/hacking/papercut-exploits-cl0p-lockbit-ransomware.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA505 Allegedly Behind New Malware Deployed Using Fake Websites and Malvertising<a href="https://heimdalsecurity.com/blog/new-lobshot-malware-deployed-via-google-ads/?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LimeRAT Malware Analysis: Extracting the Config<a href="https://thehackernews.com/2023/04/limerat-malware-analysis-extracting.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CryptoRom: OkCupid scam cost Florida man $480k – we followed the money to Binance<a href="https://securityaffairs.com/145369/cyber-crime/cryptorom-okcupid-scam-florida-man.html"> Full Text</a>
@@ -197,7 +197,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Corporate boards pressure CISOs to step up risk mitigation efforts<a href="https://www.helpnetsecurity.com/2023/04/26/effective-it-risk-management/?&web_view=true"> Full Text</a>
@@ -213,7 +213,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RTM Locker's First Linux Ransomware Strain Targeting NAS and ESXi Hosts<a href="https://thehackernews.com/2023/04/rtm-lockers-first-linux-ransomware.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Charming Kitten APT used a new BellaCiao malware in recent wave of attacks<a href="https://securityaffairs.com/145354/malware/iran-charming-kitten-bellaciao.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New coercive tactics used to extort ransomware payments<a href="https://www.helpnetsecurity.com/2023/04/26/q1-2023-ransomware-victims/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Confirms PaperCut Servers Used to Deliver LockBit and Cl0p Ransomware<a href="https://thehackernews.com/2023/04/microsoft-confirms-papercut-servers.html"> Full Text</a>
@@ -278,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Disrupts Lowell City Government, Shuts Down Computers<a href="https://www.cbsnews.com/boston/news/cyberattack-lowell-city-government/?&web_view=true"> Full Text</a>
@@ -294,7 +294,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs: unsupported, unheard, and invisible<a href="https://www.helpnetsecurity.com/2023/04/26/cisos-lack-executive-board-support/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2023
+April 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OkCupid scam cost Florida man $480k – researchers followed the money to Binance<a href="https://securityaffairs.com/145369/cyber-crime/cryptorom-okcupid-scam-florida-man.html?&web_view=true"> Full Text</a>

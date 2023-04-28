@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google adds new risk assessment tool for Chrome extensions<a href="https://www.helpnetsecurity.com/2023/04/25/risk-assessment-chrome-extensions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has made available a new tool for Google Workspace admins and security teams to make an assessment of the risk different Chrome extensions may present to their users: Spin.AI App Risk Assessment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

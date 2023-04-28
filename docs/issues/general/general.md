@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+911? We Have an Emergency: Cyberattacks On Emergency Response Systems<a href="https://www.lawfareblog.com/911-we-have-emergency-cyberattacks-emergency-response-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unsecured 911 services can be exploited to sow distrust in the U.S. government among the American public.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corporate boards pressure CISOs to step up risk mitigation efforts<a href="https://www.helpnetsecurity.com/2023/04/26/effective-it-risk-management/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While those working in InfoSec and GRC have high levels of confidence in their cyber/IT risk management systems, persistent problems may be making them less effective than perceived, according to RiskOptics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs: unsupported, unheard, and invisible<a href="https://www.helpnetsecurity.com/2023/04/26/cisos-lack-executive-board-support/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study conducted among CISOs worldwide from various industries sheds light on their strategies amid a challenging threat environment, identifies obstacles from business functions, and highlights their requirements for achieving success.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

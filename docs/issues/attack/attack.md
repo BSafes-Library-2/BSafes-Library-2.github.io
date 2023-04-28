@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paperbug Attack: New Politically-Motivated Surveillance Campaign in Tajikistan<a href="https://thehackernews.com/2023/04/paperbug-attack-new-politically.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A little-known Russian-speaking cyber-espionage group has been linked to a new politically-motivated surveillance campaign targeting high-ranking government officials, telecom services, and public service infrastructures in Tajikistan. The intrusion set, dubbed&nbsp; Paperbug &nbsp;by Swiss cybersecurity company PRODAFT, has been attributed to a threat actor known as&nbsp; Nomadic Octopus &nbsp;(aka DustSquad). "The types of compromised machines range from individuals' computers to [operational technology] devices," PRODAFT said in a deep dive technical report shared with The Hacker News. "These targets make operation 'Paperbug' intelligence-driven." The ultimate motive behind the attacks is unclear at this stage, but the cybersecurity firm has raised the possibility that it could be the work of opposition forces within the country or, alternatively, an intelligence-gathering mission carried out by Russia or China. Nomadic Octopus first came to light in October 2018 w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

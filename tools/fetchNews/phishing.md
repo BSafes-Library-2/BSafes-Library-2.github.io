@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Use Over 3,000 Fake Facebook Profiles to Lure Victims<a href="https://cyware.com/news/scammers-use-over-3000-fake-facebook-profiles-to-lure-victims-56b735d0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB spotted a new phishing campaign targeting Facebook users, leveraging 3,200 fake profiles, in an attempt to steal account credentials from public figures, businesses, celebs, and others. The profiles were either created by the actors or were genuinely hacked accounts of users. Of these fake ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Spotted Using Linux Variant of PingPull in Targeted Cyberattacks<a href="https://thehackernews.com/2023/04/chinese-hackers-using-pingpull-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese nation-state group dubbed&nbsp; Alloy Taurus &nbsp;is using a Linux variant of a backdoor called PingPull as well as a new undocumented tool codenamed Sword2033. That's according to findings from Palo Alto Networks Unit 42, which&nbsp; discovered &nbsp;recent malicious cyber activity carried out by the group targeting South Africa and Nepal. Alloy Taurus is the constellation-themed moniker assigned to a threat actor that's known for its attacks targeting telecom companies since at least 2012. It's also tracked by Microsoft as Granite Typhoon (previously Gallium). Last month, the adversary was attributed to a campaign called&nbsp; Tainted Love &nbsp;targeting telecommunication providers in the Middle East as part of a broader operation referred to as Soft Cell. Recent cyber espionage attacks mounted by Alloy Taurus have also broadened their victimology footprint to include financial institutions and government entities. PingPull,&nbsp; first documented &nbsp;by Unit 42 in June 2022, is a remote
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using MgBot Malware to Target International NGOs in Mainland China<a href="https://thehackernews.com/2023/04/chinese-hackers-using-mgbot-malware-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) group referred to as&nbsp; Evasive Panda &nbsp;has been observed targeting an international non-governmental organization (NGO) in Mainland China with malware delivered via update channels of legitimate applications like Tencent QQ. The attack chains are designed to distribute a Windows installer for MgBot malware, ESET security researcher Facundo Muñoz said in a new report published today. The activity commenced in November 2020 and continued throughout 2021. Evasive Panda, also known as Bronze Highland and Daggerfly, is a Chinese-speaking APT group that has been attributed to a series of&nbsp; cyber espionage attacks &nbsp;targeting various entities in China, Hong Kong, and other countries located in East and South Asia since at least late December 2012. The group's hallmark is the use of the custom MgBot modular malware framework, which is capable of receiving additional components on the fly to expand on its intelligence-gathering capabilities. Some of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Caught Exploiting Recent Veeam Backup &amp; Replication Vulnerability<a href="https://www.securityweek.com/fin7-hackers-caught-exploiting-recent-veeam-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At the end of March 2023, WithSecure caught FIN7 attacks that exploited internet-facing servers running Veeam Backup &amp; Replication software to execute payloads on the compromised environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

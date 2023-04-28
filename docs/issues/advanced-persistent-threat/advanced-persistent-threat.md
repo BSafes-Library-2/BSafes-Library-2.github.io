@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Charming Kitten APT used a new BellaCiao malware in recent wave of attacks<a href="https://securityaffairs.com/145354/malware/iran-charming-kitten-bellaciao.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group&nbsp;Charming Kitten&nbsp;employed a new malware dubbed&nbsp;BellaCiao in attacks against victims in the U.S., Europe, the Middle East and India.
+Iran-linked&nbsp;Charming Kitten&nbsp;group, (aka&nbsp;APT35,&nbsp;Phosphorus,&nbsp;Newscaster, and&nbsp;Ajax Security&nbsp;Team)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

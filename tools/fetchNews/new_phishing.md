@@ -8,6 +8,49 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA505 Allegedly Behind New Malware Deployed Using Fake Websites and Malvertising<a href="https://heimdalsecurity.com/blog/new-lobshot-malware-deployed-via-google-ads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To trick unsuspecting users into downloading malware onto their systems, threat actors often used the Google advertisements platform to promote fake websites on legit software and application updates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoRom: OkCupid scam cost Florida man $480k – we followed the money to Binance<a href="https://securityaffairs.com/145369/cyber-crime/cryptorom-okcupid-scam-florida-man.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews analyzed a classic cryptocurrency romance scam, also known as CryptoRom, explaining how scammers hid the money
+CryptoRom scammers hid the money with several layers of obfuscation, but the Cybernews research team discovered that the stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OkCupid scam cost Florida man $480k – researchers followed the money to Binance<a href="https://securityaffairs.com/145369/cyber-crime/cryptorom-okcupid-scam-florida-man.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers had lured a victim from Florida into parting with $480,000 after cultivating a long-term relationship, eventually coaxing him into making cryptocurrency investments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

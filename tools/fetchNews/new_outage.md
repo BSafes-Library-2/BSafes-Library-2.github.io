@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCR restores more services following ransomware attack<a href="https://www.cybersecuritydive.com/news/ncr-restores-ransomware-attack/648664/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCR is making progress restoring services after a ransomware attack led to a data center outage that impacted its Aloha cloud-based services and Counterpoint applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Disrupts Lowell City Government, Shuts Down Computers<a href="https://www.cbsnews.com/boston/news/cyberattack-lowell-city-government/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Lowell is alerting residents to a cyberattack that impacted the municipality's computer systems starting early on Monday. "We realized Monday morning around 3 to 5 AM that there was a breach," said City Manager Tom Golden.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
