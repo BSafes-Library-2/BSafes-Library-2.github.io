@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCR restores more services following ransomware attack<a href="https://www.cybersecuritydive.com/news/ncr-restores-ransomware-attack/648664/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NCR is making progress restoring services after a ransomware attack led to a data center outage that impacted its Aloha cloud-based services and Counterpoint applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers<a href="https://thehackernews.com/2023/04/google-gets-court-order-to-take-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday said it obtained a temporary court order in the U.S. to disrupt the distribution of a Windows-based information-stealing malware called  CryptBot  and "decelerate" its growth. The tech giant's Mike Trinh and Pierre-Marc Bureau  said  the efforts are part of steps it takes to "not only hold criminal operators of malware accountable, but also those who profit from its distribution." CryptBot is estimated to have infected over 670,000 computers in 2022 with the goal of stealing sensitive data such as authentication credentials, social media account logins, and cryptocurrency wallets from users of Google Chrome. The harvested data is then exfiltrated to the threat actors, who then sell the data to other attackers for use in data breach campaigns. CryptBot was  first discovered  in the wild in December 2019. The malware has been traditionally delivered via maliciously modified versions of legitimate and popular software packages such as Goog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+911? We Have an Emergency: Cyberattacks On Emergency Response Systems<a href="https://www.lawfareblog.com/911-we-have-emergency-cyberattacks-emergency-response-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unsecured 911 services can be exploited to sow distrust in the U.S. government among the American public.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers found the first Linux variant of the RTM locker<a href="https://securityaffairs.com/145383/cyber-crime/linux-rtm-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RTM ransomware-as-a-service (RaaS) started offering locker ransomware that targets Linux, NAS, and ESXi systems.
+The Uptycs threat research team discovered the first ransomware binary attributed to the RTM ransomware-as-a-service (RaaS) provider....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google adds new risk assessment tool for Chrome extensions<a href="https://www.helpnetsecurity.com/2023/04/25/risk-assessment-chrome-extensions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has made available a new tool for Google Workspace admins and security teams to make an assessment of the risk different Chrome extensions may present to their users: Spin.AI App Risk Assessment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paperbug Attack: New Politically-Motivated Surveillance Campaign in Tajikistan<a href="https://thehackernews.com/2023/04/paperbug-attack-new-politically.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A little-known Russian-speaking cyber-espionage group has been linked to a new politically-motivated surveillance campaign targeting high-ranking government officials, telecom services, and public service infrastructures in Tajikistan. The intrusion set, dubbed  Paperbug  by Swiss cybersecurity company PRODAFT, has been attributed to a threat actor known as  Nomadic Octopus  (aka DustSquad). "The types of compromised machines range from individuals' computers to [operational technology] devices," PRODAFT said in a deep dive technical report shared with The Hacker News. "These targets make operation 'Paperbug' intelligence-driven." The ultimate motive behind the attacks is unclear at this stage, but the cybersecurity firm has raised the possibility that it could be the work of opposition forces within the country or, alternatively, an intelligence-gathering mission carried out by Russia or China. Nomadic Octopus first came to light in October 2018 w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks use PaperCut exploits to deliver Cl0p and LockBit ransomware<a href="https://securityaffairs.com/145377/hacking/papercut-exploits-cl0p-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft revealed that recent attacks against PaperCut servers aimed at distributing Cl0p and LockBit ransomware.
+Microsoft linked the recent attacks against PaperCut servers to a financially motivated threat actor tracked as Lace Tempest (formerly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA505 Allegedly Behind New Malware Deployed Using Fake Websites and Malvertising<a href="https://heimdalsecurity.com/blog/new-lobshot-malware-deployed-via-google-ads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To trick unsuspecting users into downloading malware onto their systems, threat actors often used the Google advertisements platform to promote fake websites on legit software and application updates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LimeRAT Malware Analysis: Extracting the Config<a href="https://thehackernews.com/2023/04/limerat-malware-analysis-extracting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote Access Trojans (RATs) have taken the third leading position in ANY. RUN's  Q1 2023 report  on the most prevalent malware types, making it highly probable that your organization may face this threat. Though LimeRAT might not be the most well-known RAT family, its versatility is what sets it apart. Capable of carrying out a broad spectrum of malicious activities, it excels not only in data exfiltration, but also in creating DDoS botnets and facilitating crypto mining. Its compact footprint allows it to elude endpoint detection systems, making it a stealthy adversary. Interestingly, LimeRAT shares similarities with njRAT, which ANY.RUN ranks as the third most popular malware family in terms of uploads during Q1 2023. ANY.RUN researchers have recently conducted an in-depth analysis of a LimeRAT sample and successfully extracted its configuration. In this article, we'll provide a brief overview of that analysis. Collected artifacts SHA1 14836dd608efb4a0c552a4f370e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoRom: OkCupid scam cost Florida man $480k – we followed the money to Binance<a href="https://securityaffairs.com/145369/cyber-crime/cryptorom-okcupid-scam-florida-man.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews analyzed a classic cryptocurrency romance scam, also known as CryptoRom, explaining how scammers hid the money
+CryptoRom scammers hid the money with several layers of obfuscation, but the Cybernews research team discovered that the stolen...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corporate boards pressure CISOs to step up risk mitigation efforts<a href="https://www.helpnetsecurity.com/2023/04/26/effective-it-risk-management/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While those working in InfoSec and GRC have high levels of confidence in their cyber/IT risk management systems, persistent problems may be making them less effective than perceived, according to RiskOptics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Locker's First Linux Ransomware Strain Targeting NAS and ESXi Hosts<a href="https://thehackernews.com/2023/04/rtm-lockers-first-linux-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind  RTM Locker  have developed a ransomware strain that's capable of targeting Linux machines, marking the group's first foray into the open source operating system. "Its locker ransomware infects Linux, NAS, and ESXi hosts and appears to be inspired by  Babuk  ransomware's leaked source code," Uptycs said in a new report published Wednesday. "It uses a combination of  ECDH  on Curve25519 (asymmetric encryption) and  Chacha20  (symmetric encryption) to encrypt files." RTM Locker was  first documented  by Trellix earlier this month, describing the adversary as a private ransomware-as-a-service (RaaS) provider. It has its roots in a cybercrime group called Read The Manual (RTM) that's known to be active since at least 2015. The group is notable for deliberately avoiding high-profile targets such as critical infrastructure, law enforcement, and hospitals so as to draw as little attention as possible. It also leverages affilia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Charming Kitten APT used a new BellaCiao malware in recent wave of attacks<a href="https://securityaffairs.com/145354/malware/iran-charming-kitten-bellaciao.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group Charming Kitten employed a new malware dubbed BellaCiao in attacks against victims in the U.S., Europe, the Middle East and India.
+Iran-linked Charming Kitten group, (aka APT35, Phosphorus, Newscaster, and Ajax Security Team)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New coercive tactics used to extort ransomware payments<a href="https://www.helpnetsecurity.com/2023/04/26/q1-2023-ransomware-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in reported ransomware victims across Q1 2023 reflects the continued prevalence of ransomware as a worldwide, industry-agnostic threat, according to GuidePoint Security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Confirms PaperCut Servers Used to Deliver LockBit and Cl0p Ransomware<a href="https://thehackernews.com/2023/04/microsoft-confirms-papercut-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that the  active exploitation of PaperCut servers  is linked to attacks that are designed to deliver Cl0p and LockBit ransomware families. The tech giant's threat intelligence team is attributing a subset of the intrusions to a financially motivated actor it tracks under the name  Lace Tempest  (formerly DEV-0950), which overlaps with other hacking groups like FIN11, TA505, and Evil Corp. "In observed attacks, Lace Tempest ran multiple PowerShell commands to deliver a TrueBot DLL, which connected to a C2 server, attempted to steal LSASS credentials, and injected the  TrueBot payload  into the conhost.exe service," Microsoft  said  in a series of tweets. The next phase of the attack entailed the deployment of Cobalt Strike Beacon implant to conduct reconnaissance, move laterally across the network using WMI, and exfiltrate files of interest via the file-sharing service MegaSync. Lace Tempest is a Cl0p ransomware affiliate that's said to hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Disrupts Lowell City Government, Shuts Down Computers<a href="https://www.cbsnews.com/boston/news/cyberattack-lowell-city-government/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Lowell is alerting residents to a cyberattack that impacted the municipality's computer systems starting early on Monday. "We realized Monday morning around 3 to 5 AM that there was a breach," said City Manager Tom Golden.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs: unsupported, unheard, and invisible<a href="https://www.helpnetsecurity.com/2023/04/26/cisos-lack-executive-board-support/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A study conducted among CISOs worldwide from various industries sheds light on their strategies amid a challenging threat environment, identifies obstacles from business functions, and highlights their requirements for achieving success.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OkCupid scam cost Florida man $480k – researchers followed the money to Binance<a href="https://securityaffairs.com/145369/cyber-crime/cryptorom-okcupid-scam-florida-man.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers had lured a victim from Florida into parting with $480,000 after cultivating a long-term relationship, eventually coaxing him into making cryptocurrency investments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Cloud Platform Flaw 'GhostToken' Offers Ghost Entry to Attackers<a href="https://cyware.com/news/google-cloud-platform-flaw-ghosttoken-offers-ghost-entry-to-attackers-e0f021d7"> Full Text</a>
@@ -50,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Spotted Using Linux Variant of PingPull in Targeted Cyberattacks<a href="https://thehackernews.com/2023/04/chinese-hackers-using-pingpull-linux.html"> Full Text</a>
@@ -66,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Alloy Taurus APT uses a Linux variant of PingPull malware<a href="https://securityaffairs.com/145335/apt/alloy-taurus-apt-pingpull-linux-variant.html"> Full Text</a>
@@ -83,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Ads Abused to Distribute New LOBSHOT Malware<a href="https://cyware.com/news/google-ads-abused-to-distribute-new-lobshot-malware-ef54547d"> Full Text</a>
@@ -99,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten's New BellaCiao Malware Discovered in Multi-Country Attacks<a href="https://thehackernews.com/2023/04/charming-kittens-new-bellaciao-malware.html"> Full Text</a>
@@ -115,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A component in Huawei network appliances could be used to take down Germany’s telecoms networks<a href="https://securityaffairs.com/145323/intelligence/german-government-warns-huawei-sabotage.html"> Full Text</a>
@@ -132,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Use Over 3,000 Fake Facebook Profiles to Lure Victims<a href="https://cyware.com/news/scammers-use-over-3000-fake-facebook-profiles-to-lure-victims-56b735d0"> Full Text</a>
@@ -148,7 +440,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Using MgBot Malware to Target International NGOs in Mainland China<a href="https://thehackernews.com/2023/04/chinese-hackers-using-mgbot-malware-to.html"> Full Text</a>
@@ -164,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of publicly-exposed Apache Superset installs exposed to RCE attacks<a href="https://securityaffairs.com/145317/hacking/superset-flaw.html"> Full Text</a>
@@ -181,7 +473,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Botnet Variant Explores TP-Link to Grow its Army of DDoS Devices<a href="https://cyware.com/news/mirai-botnet-variant-explores-tp-link-to-grow-its-army-of-ddos-devices-572bcb7a"> Full Text</a>
@@ -197,7 +489,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Browser Security Survey: 87% of SaaS Adopters Exposed to Browser-borne Attacks<a href="https://thehackernews.com/2023/04/browser-security-survey-87-of-saas.html"> Full Text</a>
@@ -213,7 +505,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia hacking group executed a disruptive attack against a Canadian gas pipeline<a href="https://securityaffairs.com/145307/cyber-warfare-2/canadian-gas-pipeline-disruptive-attack.html"> Full Text</a>
@@ -230,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Anatomy of a Scalping Bot: NSB Was Copped!<a href="https://www.imperva.com/blog/the-anatomy-of-a-scalping-bot-nsb-was-copped/?&web_view=true"> Full Text</a>
@@ -246,9 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 Apache Superset Vulnerability: Insecure Default Configuration Exposes Servers to RCE Attacks<a href="https://thehackernews.com/2023/04/apache-superset-vulnerability-insecure.html"> Full Text</a>
 </p>
 <details>
@@ -262,7 +552,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Hackers Caught Exploiting Recent Veeam Backup & Replication Vulnerability<a href="https://www.securityweek.com/fin7-hackers-caught-exploiting-recent-veeam-vulnerability/?&web_view=true"> Full Text</a>
@@ -278,7 +568,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Releases Critical Patches for Workstation and Fusion Software<a href="https://thehackernews.com/2023/04/vmware-releases-critical-patches-for.html"> Full Text</a>
@@ -294,7 +584,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Teenagers, young adults pose prevalent cyberthreat to US, Mandiant says<a href="https://www.cybersecuritydive.com/news/teenagers-young-adults-cyberthreat-mandiant/648554/?&web_view=true"> Full Text</a>
@@ -310,7 +600,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten APT Uses BellaCiao Malware to Target Victims in US, Europe, Middle East, and India<a href="https://businessinsights.bitdefender.com/unpacking-bellaciao-a-closer-look-at-irans-latest-malware?&web_view=true"> Full Text</a>
@@ -326,7 +616,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2023
+April 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers are logging in instead of breaking in<a href="https://www.helpnetsecurity.com/2023/04/25/attacks-dwell-time/?&web_view=true"> Full Text</a>
@@ -342,7 +632,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Political Cybersecurity Blindfold in Latin America<a href="https://www.lawfareblog.com/political-cybersecurity-blindfold-latin-america"> Full Text</a>
@@ -358,7 +648,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SLP flaw allows DDoS attacks with an amplification factor as high as 2200 times<a href="https://securityaffairs.com/145295/hacking/slp-flaw-ddos-attacks.html"> Full Text</a>
@@ -375,7 +665,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed two zero-day flaws demonstrated at Pwn2Own Vancouver 2023<a href="https://securityaffairs.com/145287/security/vmware-fixes-critical-zero-days-pwn2own.html"> Full Text</a>
@@ -392,7 +682,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SLP Vulnerability Could Let Attackers Launch 2200x Powerful DDoS Attacks<a href="https://thehackernews.com/2023/04/new-slp-vulnerability-could-let.html"> Full Text</a>
@@ -408,7 +698,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new Mirai botnet variant targets TP-Link Archer A21<a href="https://securityaffairs.com/145278/hacking/mirai-botnet-cve-2023-1389-tp-link-archer-a21.html"> Full Text</a>
@@ -425,7 +715,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Launch Sophisticated Attacks Targeting Israel with PowerLess Backdoor<a href="https://thehackernews.com/2023/04/iranian-hackers-launch-sophisticated.html"> Full Text</a>
@@ -441,7 +731,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google researchers found multiple security issues in Intel TDX<a href="https://securityaffairs.com/145268/security/intel-tdx-flaws.html"> Full Text</a>
@@ -458,7 +748,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modernizing Vulnerability Management: The Move Toward Exposure Management<a href="https://thehackernews.com/2023/04/modernizing-vulnerability-management.html"> Full Text</a>
@@ -474,7 +764,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Authenticator App now supports Google Account synchronization<a href="https://securityaffairs.com/145258/security/google-authenticator-google-account-synchronization.html"> Full Text</a>
@@ -491,7 +781,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2023
+April 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Peugeot leaks access to user information in South America<a href="https://securityaffairs.com/145253/security/peugeot-leaks-access-to-user-information-in-south-america.html"> Full Text</a>
