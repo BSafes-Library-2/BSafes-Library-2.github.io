@@ -34,6 +34,347 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Flaws in Illumina's DNA Sequencing Instruments<a href="https://thehackernews.com/2023/04/cisa-warns-of-critical-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released an Industrial Control Systems (ICS) medical advisory warning of a critical flaw impacting Illumina medical devices. The issues impact the Universal Copy Service (UCS) software in the Illumina MiSeqDx, NextSeq 550Dx, iScan, iSeq 100, MiniSeq, MiSeq, NextSeq 500, NextSeq 550, NextSeq 1000/2000, and NovaSeq 6000 DNA sequencing instruments. The most severe of the flaws, CVE-2023-1968 (CVSS score: 10.0), permits remote attackers to bind to exposed IP addresses, thereby making it possible to eavesdrop on network traffic and remotely transmit arbitrary commands. The second issue relates to a case of privilege misconfiguration (CVE-2023-1966, CVSS score: 7.4) that could enable a remote unauthenticated malicious actor to upload and execute code with elevated permissions. "Successful exploitation of these vulnerabilities could allow an attacker to take any action at the operating system level," CISA  sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT is Back in Italy After Addressing Data Privacy Concerns<a href="https://thehackernews.com/2023/04/chatgpt-is-back-in-italy-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI, the company behind ChatGPT, has officially made a return to Italy after the company met the  data protection authority's demands  ahead of April 30, 2023, deadline. The development was  first reported  by the Associated Press. OpenAI's CEO, Sam Altman,  tweeted , "we're excited ChatGPT is available in [Italy] again!" The reinstatement comes following Garante's decision to  temporarily block  access to the popular AI chatbot service in Italy on March 31, 2023, over concerns that its practices are in violation of data protection laws in the region. Generative AI systems like ChatGPT and Google Bard primarily rely on huge amounts of information freely available on the internet as well as the data its users provide over the course of their interactions. OpenAI, which published a  new FAQ , said it filters and removes information such as hate speech, adult content, sites that primarily aggregate personal information, and spam. It also emphasized that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atomic - New macOS Info-stealer in Town<a href="https://cyware.com/news/atomic-new-macos-info-stealer-in-town-34496257"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private Telegram channels are being abused by cybercriminals to sell a new macOS malware variant that can infect over 50 cryptocurrency extensions to steal data. Dubbed Atomic, the malware author provides its buyers a ready-to-use web panel for easy victim management, a cryptocurrency checker, a Me ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden’s Spyware Order: A Needed First Step<a href="https://www.lawfareblog.com/bidens-spyware-order-needed-first-step"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The executive order’s ultimate impact will depend on whether the White House can galvanize similar action in Congress, at the local level, and among like-minded governments abroad.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI reinstates ChatGPT service in Italy after meeting Garante Privacy’s demands<a href="https://securityaffairs.com/145434/security/openai-chatgpt-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI announced that access to its chatbot service ChatGPT is allowed again in Italy after the company met the demands of regulators.
+OpenAI restored access to ChatGPT in Italy after the company met the demands of the Italian Data Protection Authority,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapture, a Ransomware Family With Similarities to Paradise<a href="https://www.trendmicro.com/en_us/research/23/d/rapture-a-ransomware-family-with-similarities-to-paradise.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In March and April 2023, Trend Micro researchers observed a type of ransomware targeting its victims via a minimalistic approach with tools that leave only a minimal footprint behind.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses a bug in the Prime Collaboration Deployment solution<a href="https://securityaffairs.com/145423/security/cisco-prime-collaboration-deployment-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is working on a patch for a bug in the Prime Collaboration Deployment solution that was reported by a member of NATO’s Cyber Security Centre (NCSC).
+Cisco informed its customers that it’s working on a patch for cross-site scripting (XSS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FDA, CISA: Illumina Medical Devices Vulnerable to Remote Hacking<a href="https://www.securityweek.com/fda-cisa-illumina-medical-devices-vulnerable-to-remote-hacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is notifying healthcare providers and lab personnel about a component used by several Illumina medical devices being affected by serious vulnerabilities that can allow remote hacking.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Atomic macOS Malware Steals Keychain Passwords and Crypto Wallets<a href="https://thehackernews.com/2023/04/new-atomic-macos-stealer-can-steal-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are advertising a new information stealer for the Apple macOS operating system called  Atomic macOS Stealer  (or AMOS) on Telegram for $1,000 per month, joining the likes of  MacStealer . "The Atomic macOS Stealer can steal various types of information from the victim's machine, including Keychain passwords, complete system information, files from the desktop and documents folder, and even the macOS password," Cyble researchers  said  in a technical report. Among other features include its ability to extract data from web browsers and cryptocurrency wallets like Atomic, Binance, Coinomi, Electrum, and Exodus. Threat actors who purchase the stealer from its developers are also provided a ready-to-use web panel for managing the victims. The malware takes the form of an unsigned disk image file (Setup.dmg) that, when executed, urges the victim to enter their system password on a bogus prompt to escalate privileges and carry out its malicious activities --
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixed a critical RCE flaw in its firewall devices and urges customers to install the patches<a href="https://securityaffairs.com/145416/hacking/zyxel-firewall-cve-2023-28771-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability impacting Zyxel firewalls, tracked as CVE-2023-28771, can be exploited to execute arbitary code on vulnerable devices.
+Researchers from TRAPA Security have discovered a critical remote code execution vulnerability, tracked as CVE-2023-28771...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TrafficStealer Malware Monetizes Network Traffic<a href="https://cyware.com/news/new-trafficstealer-malware-monetizes-network-traffic-540d1f0b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrendMicro uncovered a new risk to Docker containers from a piece of malware called TrafficStealer. It influences web traffic and ad interaction via the use of containers to generate illegal income. TrafficStealer uses a combination of two techniques: web crawling and click simulation. Experts ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Your Detection-First Security Approach Isn't Working<a href="https://thehackernews.com/2023/04/why-your-detection-first-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stopping new and evasive threats is one of the greatest challenges in cybersecurity. This is among the biggest reasons why  attacks increased dramatically in the past year  yet again, despite the estimated $172 billion spent on global cybersecurity in 2022. Armed with cloud-based tools and backed by sophisticated affiliate networks, threat actors can develop new and evasive malware more quickly than organizations can update their protections.  Relying on malware signatures and blocklists against these rapidly changing attacks has become futile. As a result, the SOC toolkit now largely revolves around threat detection and investigation. If an attacker can bypass your initial blocks, you expect your tools to pick them up at some point in the attack chain. Every organization's digital architecture is now seeded with security controls that log anything potentially malicious. Security analysts pore through these logs and determine what to investigate further. Does this work? Let'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine cyber police arrested a man for selling data of 300M people<a href="https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyber police arrested a Ukraine man for selling the data of over 300 million people from different countries.
+The Ukrainian cyber police have arrested a man (36) from the city of Netishyn for selling the personal data and sensitive information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks on Israel's Independence Day Take Down Websites of News Outlet, Government Authority<a href="https://www.jpost.com/breaking-news/article-741298?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The websites of major Israeli news outlet Maariv, sister publication of The Jerusalem Post, were taken offline on Wednesday. The Anonymous Sudan group also managed to take down the website of the Israel Ports Authority and the Meretz political party.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewall Devices Vulnerable to Remote Code Execution Attacks — Patch Now<a href="https://thehackernews.com/2023/04/zyxel-firewall-devices-vulnerable-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Zyxel has released patches for a critical security flaw in its firewall devices that could be exploited to achieve remote code execution on affected systems. The issue, tracked as  CVE-2023-28771 , is rated 9.8 on the CVSS scoring system. Researchers from TRAPA Security have been credited with reporting the flaw. "Improper error message handling in some firewall versions could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device," Zyxel  said  in an advisory on April 25, 2023. Products impacted by the flaw are - ATP (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) USG FLEX (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) VPN (versions ZLD V4.60 to V5.35, patched in ZLD V5.36), and ZyWALL/USG (versions ZLD V4.60 to V4.73, patched in ZLD V4.73 Patch 1) Zyxel has also  addressed  a high-severity post-authentication command injection vulnerability affecting select firewa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google obtained a temporary court order against CryptBot distributors<a href="https://securityaffairs.com/145396/malware/google-court-order-cryptbot-distributors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google obtained a temporary court order in the U.S. to disrupt the operations of the CryptBot information stealer.
+Google announced that a federal judge in the Southern District of New York unsealed its civil action against the operators of the information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK school hit by ransomware attack<a href="https://www.computing.co.uk/news/4113037/uk-school-hit-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A school in Wiltshire was hit by a ransomware attack last weekend. Hardenhuish School, a mixed secondary academy in Chippenham, sent texts to parents and guardians of its 1,623 pupils notifying them of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ViperSoftX InfoStealer Adopts Sophisticated Techniques to Avoid Detection<a href="https://thehackernews.com/2023/04/vipersoftx-infostealer-adopts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant number of victims in the consumer and enterprise sectors located across Australia, Japan, the U.S., and India have been affected by an evasive information-stealing malware called  ViperSoftX . ViperSoftX was first documented by Fortinet in 2020, with cybersecurity company Avast detailing a campaign in November 2022 that  leveraged  the malware to distribute a malicious Google Chrome extension capable of siphoning cryptocurrencies from wallet applications. Now a  new analysis  from Trend Micro has revealed the malware's adoption of "more sophisticated encryption and basic anti-analysis techniques, such as byte remapping and web browser communication blocking." The arrival vector of ViperSoftX is typically a software crack or a key generator (keygen), while also employing actual non-malicious software like multimedia editors and system cleaner apps as "carriers." One of the key steps performed by the malware before downloading a first-stage Po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina's Spartanburg County Suffers Ransomware Attack<a href="https://www.wyff4.com/article/south-carolina-ransomware-attack-spartanburg-county/43725703#?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack has been reported in Spartanburg County.  WYFF News 4 reached out to Spartanburg County officials and the South Carolina Judicial Branch after hearing about a possible computer issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attention Online Shoppers: Don't Be Fooled by Their Sleek, Modern Looks — It's Magecart!<a href="https://thehackernews.com/2023/04/attention-online-shoppers-dont-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing  Magecart  campaign has attracted the attention of cybersecurity researchers for leveraging realistic-looking fake payment screens to capture sensitive data entered by unsuspecting users. "The threat actor used original logos from the compromised store and customized a web element known as a modal to perfectly hijack the checkout page," Jérôme Segura, director of threat intelligence at Malwarebytes,  said . "The remarkable thing here is that the skimmer looks more authentic than the original payment page." The term  Magecart  is a catch-all that refers to several cybercrime groups which employ online skimming techniques to steal personal data from websites – most commonly, customer details and payment information on e-commerce websites. The name originates from the groups' initial targeting of the Magento platform. According to  data  shared by Sansec, the first Magecart-like attacks were observed as early as 2010. As of 2022, more than 70,000 sto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tonto Team Uses Anti-Malware File to Launch Attacks on South Korean Institutions<a href="https://thehackernews.com/2023/04/tonto-team-uses-anti-malware-file-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean education, construction, diplomatic, and political institutions are at the receiving end of new attacks perpetrated by a China-aligned threat actor known as the  Tonto Team . "Recent cases have revealed that the group is using a file related to anti-malware products to ultimately execute their malicious attacks," the AhnLab Security Emergency Response Center (ASEC)  said  in a report published this week. Tonto Team, active since at least 2009, has a track record of targeting various sectors across Asia and Eastern Europe. Earlier this year, the group was  attributed  to an unsuccessful phishing attack on cybersecurity company Group-IB. The attack sequence discovered by ASEC starts with a Microsoft Compiled HTML Help (.CHM) file that executes a binary file to side-load a malicious DLL file (slc.dll) and launch  ReVBShell , an open source VBScript backdoor also put to use by another Chinese threat actor called  Tick . ReVBShell is subsequently leveraged to do
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 27, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
