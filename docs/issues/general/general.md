@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI reinstates ChatGPT service in Italy after meeting Garante Privacy’s demands<a href="https://securityaffairs.com/145434/security/openai-chatgpt-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI announced that access to its chatbot service ChatGPT is allowed again in Italy after the company met the demands of regulators.
+OpenAI restored access to ChatGPT in Italy after the company met the demands of the Italian Data Protection Authority,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attention Online Shoppers: Don't Be Fooled by Their Sleek, Modern Looks — It's Magecart!<a href="https://thehackernews.com/2023/04/attention-online-shoppers-dont-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing&nbsp; Magecart &nbsp;campaign has attracted the attention of cybersecurity researchers for leveraging realistic-looking fake payment screens to capture sensitive data entered by unsuspecting users. "The threat actor used original logos from the compromised store and customized a web element known as a modal to perfectly hijack the checkout page," Jérôme Segura, director of threat intelligence at Malwarebytes,&nbsp; said . "The remarkable thing here is that the skimmer looks more authentic than the original payment page." The term&nbsp; Magecart &nbsp;is a catch-all that refers to several cybercrime groups which employ online skimming techniques to steal personal data from websites – most commonly, customer details and payment information on e-commerce websites. The name originates from the groups' initial targeting of the Magento platform. According to&nbsp; data &nbsp;shared by Sansec, the first Magecart-like attacks were observed as early as 2010. As of 2022, more than 70,000 sto
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Your Detection-First Security Approach Isn't Working<a href="https://thehackernews.com/2023/04/why-your-detection-first-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stopping new and evasive threats is one of the greatest challenges in cybersecurity. This is among the biggest reasons why&nbsp; attacks increased dramatically in the past year &nbsp;yet again, despite the estimated $172 billion spent on global cybersecurity in 2022. Armed with cloud-based tools and backed by sophisticated affiliate networks, threat actors can develop new and evasive malware more quickly than organizations can update their protections.&nbsp; Relying on malware signatures and blocklists against these rapidly changing attacks has become futile. As a result, the SOC toolkit now largely revolves around threat detection and investigation. If an attacker can bypass your initial blocks, you expect your tools to pick them up at some point in the attack chain. Every organization's digital architecture is now seeded with security controls that log anything potentially malicious. Security analysts pore through these logs and determine what to investigate further. Does this work? Let'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Confirms PaperCut Servers Used to Deliver LockBit and Cl0p Ransomware<a href="https://thehackernews.com/2023/04/microsoft-confirms-papercut-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed that the&nbsp; active exploitation of PaperCut servers &nbsp;is linked to attacks that are designed to deliver Cl0p and LockBit ransomware families. The tech giant's threat intelligence team is attributing a subset of the intrusions to a financially motivated actor it tracks under the name&nbsp; Lace Tempest &nbsp;(formerly DEV-0950), which overlaps with other hacking groups like FIN11, TA505, and Evil Corp. "In observed attacks, Lace Tempest ran multiple PowerShell commands to deliver a TrueBot DLL, which connected to a C2 server, attempted to steal LSASS credentials, and injected the&nbsp; TrueBot payload &nbsp;into the conhost.exe service," Microsoft&nbsp; said &nbsp;in a series of tweets. The next phase of the attack entailed the deployment of Cobalt Strike Beacon implant to conduct reconnaissance, move laterally across the network using WMI, and exfiltrate files of interest via the file-sharing service MegaSync. Lace Tempest is a Cl0p ransomware affiliate that's said to hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

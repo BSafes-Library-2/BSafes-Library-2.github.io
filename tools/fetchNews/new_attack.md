@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK school hit by ransomware attack<a href="https://www.computing.co.uk/news/4113037/uk-school-hit-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A school in Wiltshire was hit by a ransomware attack last weekend. Hardenhuish School, a mixed secondary academy in Chippenham, sent texts to parents and guardians of its 1,623 pupils notifying them of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Carolina's Spartanburg County Suffers Ransomware Attack<a href="https://www.wyff4.com/article/south-carolina-ransomware-attack-spartanburg-county/43725703#?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack has been reported in Spartanburg County.  WYFF News 4 reached out to Spartanburg County officials and the South Carolina Judicial Branch after hearing about a possible computer issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tonto Team Uses Anti-Malware File to Launch Attacks on South Korean Institutions<a href="https://thehackernews.com/2023/04/tonto-team-uses-anti-malware-file-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean education, construction, diplomatic, and political institutions are at the receiving end of new attacks perpetrated by a China-aligned threat actor known as the&nbsp; Tonto Team . "Recent cases have revealed that the group is using a file related to anti-malware products to ultimately execute their malicious attacks," the AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;in a report published this week. Tonto Team, active since at least 2009, has a track record of targeting various sectors across Asia and Eastern Europe. Earlier this year, the group was&nbsp; attributed &nbsp;to an unsuccessful phishing attack on cybersecurity company Group-IB. The attack sequence discovered by ASEC starts with a Microsoft Compiled HTML Help (.CHM) file that executes a binary file to side-load a malicious DLL file (slc.dll) and launch&nbsp; ReVBShell , an open source VBScript backdoor also put to use by another Chinese threat actor called&nbsp; Tick . ReVBShell is subsequently leveraged to do
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

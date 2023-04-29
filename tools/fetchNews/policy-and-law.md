@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Gets Court Order to Take Down CryptBot That Infected Over 670,000 Computers<a href="https://thehackernews.com/2023/04/google-gets-court-order-to-take-down.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday said it obtained a temporary court order in the U.S. to disrupt the distribution of a Windows-based information-stealing malware called&nbsp; CryptBot &nbsp;and "decelerate" its growth. The tech giant's Mike Trinh and Pierre-Marc Bureau&nbsp; said &nbsp;the efforts are part of steps it takes to "not only hold criminal operators of malware accountable, but also those who profit from its distribution." CryptBot is estimated to have infected over 670,000 computers in 2022 with the goal of stealing sensitive data such as authentication credentials, social media account logins, and cryptocurrency wallets from users of Google Chrome. The harvested data is then exfiltrated to the threat actors, who then sell the data to other attackers for use in data breach campaigns. CryptBot was&nbsp; first discovered &nbsp;in the wild in December 2019. The malware has been traditionally delivered via maliciously modified versions of legitimate and popular software packages such as Goog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
