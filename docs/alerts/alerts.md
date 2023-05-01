@@ -10,6 +10,18 @@ nav_order: 150
 April 27, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Illumina Universal Copy Service <a href="https://www.cisa.gov/news-events/ics-medical-advisories/icsma-23-117-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Successful exploitation of these vulnerabilities could allow an attacker to take any action at the operating system level. A threat actor could impact settings, configurations, software, or data on the affected product; a threat actor could interact through the affected product via a connected network. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 27, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases One Industrial Control Systems Medical Advisory <a href="https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory"> Full Text</a>
 </p>
 <details>

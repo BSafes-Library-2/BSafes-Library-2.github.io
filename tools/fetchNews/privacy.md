@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT is Back in Italy After Addressing Data Privacy Concerns<a href="https://thehackernews.com/2023/04/chatgpt-is-back-in-italy-after.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI, the company behind ChatGPT, has officially made a return to Italy after the company met the&nbsp; data protection authority's demands &nbsp;ahead of April 30, 2023, deadline. The development was&nbsp; first reported &nbsp;by the Associated Press. OpenAI's CEO, Sam Altman,&nbsp; tweeted , "we're excited ChatGPT is available in [Italy] again!" The reinstatement comes following Garante's decision to&nbsp; temporarily block &nbsp;access to the popular AI chatbot service in Italy on March 31, 2023, over concerns that its practices are in violation of data protection laws in the region. Generative AI systems like ChatGPT and Google Bard primarily rely on huge amounts of information freely available on the internet as well as the data its users provide over the course of their interactions. OpenAI, which published a&nbsp; new FAQ , said it filters and removes information such as hate speech, adult content, sites that primarily aggregate personal information, and spam. It also emphasized that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine cyber police arrested a man for selling data of 300M people<a href="https://securityaffairs.com/145406/cyber-crime/ukraine-cyber-police-arrested-man.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian cyber police arrested a Ukraine man for selling the data of over 300 million people from different countries.
+The Ukrainian cyber police have arrested a man (36) from the city of Netishyn for selling the personal data and sensitive information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

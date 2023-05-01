@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White hat hackers showed how to take over a European Space Agency satellite<a href="https://securityaffairs.com/145483/hacking/esa-satellite-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thales cybersecurity researchers have shown this week how they seized control of a European Space Agency (ESA) satellite.
+This week, during the third edition of CYSAT, the European event dedicated to cybersecurity for the space industry, the European...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

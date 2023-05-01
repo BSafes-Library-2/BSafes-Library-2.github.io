@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco discloses a bug in the Prime Collaboration Deployment solution<a href="https://securityaffairs.com/145423/security/cisco-prime-collaboration-deployment-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is working on a patch for a bug in the Prime Collaboration Deployment solution that was reported by a member of NATO’s Cyber Security Centre (NCSC).
+Cisco informed its customers that it’s working on a patch for cross-site scripting (XSS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel fixed a critical RCE flaw in its firewall devices and urges customers to install the patches<a href="https://securityaffairs.com/145416/hacking/zyxel-firewall-cve-2023-28771-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability impacting Zyxel firewalls, tracked as&nbsp;CVE-2023-28771, can be exploited to execute arbitary code on vulnerable devices.
+Researchers from TRAPA Security have discovered a critical remote code execution vulnerability, tracked as CVE-2023-28771...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewall Devices Vulnerable to Remote Code Execution Attacks — Patch Now<a href="https://thehackernews.com/2023/04/zyxel-firewall-devices-vulnerable-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking equipment maker Zyxel has released patches for a critical security flaw in its firewall devices that could be exploited to achieve remote code execution on affected systems. The issue, tracked as&nbsp; CVE-2023-28771 , is rated 9.8 on the CVSS scoring system. Researchers from TRAPA Security have been credited with reporting the flaw. "Improper error message handling in some firewall versions could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device," Zyxel&nbsp; said &nbsp;in an advisory on April 25, 2023. Products impacted by the flaw are - ATP (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) USG FLEX (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) VPN (versions ZLD V4.60 to V5.35, patched in ZLD V5.36), and ZyWALL/USG (versions ZLD V4.60 to V4.73, patched in ZLD V4.73 Patch 1) Zyxel has also&nbsp; addressed &nbsp;a high-severity post-authentication command injection vulnerability affecting select firewa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

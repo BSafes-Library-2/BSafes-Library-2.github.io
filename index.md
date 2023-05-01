@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2023
+May 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Blocks 1.43 Million Malicious Apps, Bans 73,000 Bad Accounts in 2022<a href="https://thehackernews.com/2023/05/google-blocks-143-million-malicious.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2023
+April 30, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks broke into AT&T email accounts to empty their cryptocurrency wallets<a href="https://securityaffairs.com/145508/hacking/att-email-accounts-hacked.html"> Full Text</a>
@@ -67,7 +67,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2023
+April 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT28 uses fake Windows Update instructions to target Ukraine govt bodies<a href="https://securityaffairs.com/145500/apt/spear-phishing-campaign-apt28.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2023
+April 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White hat hackers showed how to take over a European Space Agency satellite<a href="https://securityaffairs.com/145483/hacking/esa-satellite-hack.html"> Full Text</a>
@@ -101,7 +101,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2023
+April 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 417 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145479/breaking-news/security-affairs-newsletter-round-417.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coercion in the Age of Ransomware: New Tactics for Extorting Payments<a href="https://cyware.com/news/coercion-in-the-age-of-ransomware-new-tactics-for-extorting-payments-0c31dba6"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RTM Group Launches its Linux Ransomware<a href="https://cyware.com/news/rtm-group-launches-its-linux-ransomware-eea307ae"> Full Text</a>
@@ -150,7 +150,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel: Hackers leak thousands of personal details as Netanyahu's Facebook account targeted<a href="https://www.middleeastmonitor.com/20230427-israel-hackers-leak-thousands-of-personal-details-as-netanyahus-facebook-account-targeted/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are breaking into AT&T email accounts to steal cryptocurrency<a href="https://techcrunch.com/2023/04/26/hackers-are-breaking-into-att-email-accounts-to-steal-cryptocurrency/?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ViperSoftX uses more sophisticated encryption and anti-analysis techniques<a href="https://securityaffairs.com/145464/malware/vipersoftx-sophisticated-encryption.html"> Full Text</a>
@@ -199,7 +199,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atomic macOS Stealer is advertised on Telegram for $1,000 per month<a href="https://securityaffairs.com/145453/malware/atomic-macos-stealer.html"> Full Text</a>
@@ -216,7 +216,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2023
+April 29, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of a critical flaw affecting Illumina medical devices<a href="https://securityaffairs.com/145445/security/cisa-illumina-medical-devices-flaws.html"> Full Text</a>

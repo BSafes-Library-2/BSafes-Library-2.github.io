@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT28 uses fake Windows Update instructions to target Ukraine govt bodies<a href="https://securityaffairs.com/145500/apt/spear-phishing-campaign-apt28.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA warns of a spear-phishing campaign conducted by APT28 group targeting Ukrainian government bodies with fake ‘Windows Update’ guides.
+Russia-linked APT28 group is targeting Ukrainian government bodies with fake ‘Windows Update’ guides,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

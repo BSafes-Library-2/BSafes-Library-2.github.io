@@ -11,6 +11,21 @@ nav_order: 900075
 April 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of a critical flaw affecting Illumina medical devices<a href="https://securityaffairs.com/145445/security/cisa-illumina-medical-devices-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA released an Industrial Control Systems (ICS) medical advisory warning of a critical flaw affecting Illumina medical devices.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released an Industrial Control Systems (ICS)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Critical Flaws in Illumina's DNA Sequencing Instruments<a href="https://thehackernews.com/2023/04/cisa-warns-of-critical-flaws-in.html"> Full Text</a>
 </p>
 <details>

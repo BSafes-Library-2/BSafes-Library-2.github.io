@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Critical Flaws in Illumina's DNA Sequencing Instruments<a href="https://thehackernews.com/2023/04/cisa-warns-of-critical-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released an Industrial Control Systems (ICS) medical advisory warning of a critical flaw impacting Illumina medical devices. The issues impact the Universal Copy Service (UCS) software in the Illumina MiSeqDx, NextSeq 550Dx, iScan, iSeq 100, MiniSeq, MiSeq, NextSeq 500, NextSeq 550, NextSeq 1000/2000, and NovaSeq 6000 DNA sequencing instruments. The most severe of the flaws, CVE-2023-1968 (CVSS score: 10.0), permits remote attackers to bind to exposed IP addresses, thereby making it possible to eavesdrop on network traffic and remotely transmit arbitrary commands. The second issue relates to a case of privilege misconfiguration (CVE-2023-1966, CVSS score: 7.4) that could enable a remote unauthenticated malicious actor to upload and execute code with elevated permissions. "Successful exploitation of these vulnerabilities could allow an attacker to take any action at the operating system level," CISA&nbsp; sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden’s Spyware Order: A Needed First Step<a href="https://www.lawfareblog.com/bidens-spyware-order-needed-first-step"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The executive order’s ultimate impact will depend on whether the White House can galvanize similar action in Congress, at the local level, and among like-minded governments abroad.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FDA, CISA: Illumina Medical Devices Vulnerable to Remote Hacking<a href="https://www.securityweek.com/fda-cisa-illumina-medical-devices-vulnerable-to-remote-hacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is notifying healthcare providers and lab personnel about a component used by several Illumina medical devices being affected by serious vulnerabilities that can allow remote hacking.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

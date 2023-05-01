@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks on Israel's Independence Day Take Down Websites of News Outlet, Government Authority<a href="https://www.jpost.com/breaking-news/article-741298?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The websites of major Israeli news outlet Maariv, sister publication of The Jerusalem Post, were taken offline on Wednesday. The Anonymous Sudan group also managed to take down the website of the Israel Ports Authority and the Meretz political party.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
