@@ -34,6 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: UK pension funds warned to check on clients’ data after Capita breach<a href="https://therecord.media/uk-pensions-regulator-capita-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capita, the country’s largest outsourcing company, holds contracts to administer the payment systems for pension funds used by more than 4 million individuals in Britain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Decoy Dog Malware Toolkit Uncovered: Targeting Enterprise Networks<a href="https://thehackernews.com/2023/05/new-decoy-dog-malware-toolkit-uncovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of over 70 billion DNS records has led to the discovery of a new sophisticated malware toolkit dubbed  Decoy Dog  targeting enterprise networks. Decoy Dog , as the name implies, is evasive and employs techniques like strategic domain aging and DNS query dribbling, wherein a series of queries are transmitted to the command-and-control (C2) domains so as to not arouse any suspicion. "Decoy Dog is a cohesive toolkit with a number of highly unusual characteristics that make it uniquely identifiable, particularly when examining its domains on a DNS level," Infoblox  said  in an advisory published late last month. The cybersecurity firm, which identified the malware in early April 2023 following anomalous DNS beaconing activity, said its atypical characteristics allowed it to map additional domains that are part of the attack infrastructure. That said, the usage of Decoy Dog in the wild is "very rare," with the DNS signature matching less than 0.0000027%
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile suffered the second data breach in 2023<a href="https://securityaffairs.com/145590/data-breach/t-mobile-second-data-breach-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile disclosed the second data breach of 2023, threat actors had access to the personal information of hundreds of customers since February.
+T-Mobile suffered the second data breach of 2023, threat actors had access to the personal information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nashua School District hit by 'sophisticated' cyberattack<a href="https://www.wmur.com/article/nashua-public-schools-cyberattack-classes-monday/43750709#?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We are working diligently to investigate the incident, confirm its impact on our systems, and securely restore functionality to our environment as soon as possible," the district said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wanted Dead or Alive: Real-Time Protection Against Lateral Movement<a href="https://thehackernews.com/2023/05/wanted-dead-or-alive-real-time.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just a few short years ago, lateral movement was a tactic confined to top APT cybercrime organizations and nation-state operators. Today, however, it has become a commoditized tool, well within the skillset of any ransomware threat actor. This makes real-time detection and prevention of lateral movement a necessity to organizations of all sizes and across all industries. But the disturbing truth is that there is actually no tool in the current security stack that can provide this real-time protection, creating what is arguably the most critical security weakness in an organization's security architecture.  In this article, we'll walk through the most essentials questions around the challenge of lateral movement protection, understand why multifactor authentication (MFA) and service account protection are the gaps that make it possible, and learn how Silverfort's platform turns the tables on attackers and makes lateral movement protection finally within reach. Upcoming We
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts spotted a new sophisticated malware toolkit called Decoy Dog<a href="https://securityaffairs.com/145580/malware/decoy-dog-sophisticated-malware-toolkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Infoblox researchers discovered a new sophisticated malware toolkit, dubbed Decoy Dog, targeting enterprise networks.
+While analyzing billions of DNS records, Infoblox researchers discovered a sophisticated malware toolkit, dubbed Decoy...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi Protocol 0VIX Loses Nearly $2M in Flash-Loan Exploit<a href="https://finance.yahoo.com/news/defi-protocol-0vix-loses-nearly-124421734.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 1.45 million USDC, along with other tokens, was stolen before being bridged to the Ethereum mainnet on Stargate Finance, where it was eventually swapped for ether (ETH).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Threat Actor Infects 500,000 Devices Using 'Malverposting' Tactics<a href="https://thehackernews.com/2023/05/vietnamese-threat-actor-infects-500000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vietnamese threat actor has been attributed as behind a "malverposting" campaign on social media platforms to infect over 500,000 devices worldwide over the past three months to deliver variants of information stealers such as  S1deload Stealer  and  SYS01stealer . Malverposting refers to the use of promoted social media posts on services like Facebook and Twitter to mass propagate malicious software and other security threats. The idea is to reach a broader audience by paying for ads to "amplify" their posts. According to  Guardio Labs , such attacks commence with the adversary creating new business profiles and hijacking already popular accounts to serve ads that claim to offer free adult-rated photo album downloads. Within these ZIP archive files are purported images that are actually executable files, which, when clicked, activate the infection chain and ultimately deploy the stealer malware to siphon session cookies, account data, and other information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German IT provider Bitmarck hit by cyberattack<a href="https://securityaffairs.com/145568/hacking/bitmarck-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitmarck, one of the largest IT service providers for social insurance carriers in Germany, announced yesterday that it has suffered a cyber attack.
+The German IT service provider Bitmarck announced on April 30 it had taken all its systems offline...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Court Records Expose Private Information for Thousands of Missouri Residents<a href="https://www.stltoday.com/news/local/crime-and-courts/court-records-online-include-private-information-for-thousands-of-missouri-residents/article_f5b23bce-e44c-11ed-a554-33728de7a460.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents containing Social Security numbers and other private information for thousands of Missourians are accessible to anyone using the Casenet website, the state’s judicial records system, the Post-Dispatch recently discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Targets Ukrainian Government Entities with Fake "Windows Update" Emails<a href="https://thehackernews.com/2023/05/apt28-targets-ukrainian-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks perpetrated by Russian nation-state hackers targeting various government bodies in the country. The agency  attributed  the phishing campaign to APT28, which is also known by the names Fancy Bear, Forest Blizzard, FROZENLAKE, Iron Twilight, Sednit, and Sofacy. The email messages come with the subject line "Windows Update" and purportedly contain instructions in the Ukrainian language to run a PowerShell command under the pretext of security updates. Running the script loads and executes a next-stage PowerShell script that's designed to collect basic system information through commands like  tasklist  and  systeminfo , and exfiltrate the details via an HTTP request to a  Mocky API . To trick the targets into running the command, the emails impersonated system administrators of the targeted government entities using fake Microsoft Outlook email accounts created with the employees'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian govt uses BouldSpy Android malware for internal surveillance operations<a href="https://securityaffairs.com/145550/hacking/iran-bouldspy-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian authorities have been spotted using the BouldSpy Android malware to spy on minorities and traffickers.
+Researchers at the Lookout Threat Lab have discovered a new Android surveillance spyware, dubbed BouldSpy, that was used by the Law Enforcement...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive Data Leaked From Servers Running Salesforce Community Software<a href="https://arstechnica.com/information-technology/2023/04/misconfigured-servers-running-salesforce-software-are-leaking-sensitive-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Servers running software sold by Salesforce are leaking sensitive data managed by government agencies, banks, and other organizations, according to a post published Friday by KrebsOnSecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Nomadic Octopus hacked Tajikistani carrier<a href="https://securityaffairs.com/145536/apt/nomadic-octopus-targets-tajikistani-carrier.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian APT group Nomadic Octopus hacked a Tajikistani carrier to spy on government officials and public service infrastructures.
+Russian cyber espionage group Nomadic Octopus (aka DustSquad) has hacked a Tajikistani telecoms provider to spy on 18 entities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using multiple solutions adds complexity to your zero trust strategy<a href="https://www.helpnetsecurity.com/2023/05/01/zero-trust-integration-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are also now increasingly reliant on their supply chain, which means partners, suppliers, and shippers are now typically directly connected to a company’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google banned 173k developer accounts in 2022<a href="https://securityaffairs.com/145522/mobile-2/google-play-store-bad-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, Google prevented 1.43 million policy-violating apps from being published in the official Google Play store.
+Google announced that it prevented 1.43 million policy-violating applications from being published on Google Play in 2022. The IT giant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals use proxies to legitimize fraudulent requests<a href="https://www.helpnetsecurity.com/2023/05/01/malicious-bot-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bot attacks were previously seen as a relatively inconsequential type of online fraud, and that mentality has persisted even as threat actors have gained the ability to cause significant damage to revenue and brand reputation, according to HUMAN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘BouldSpy’ Android Malware Used in Iranian Government Surveillance Operations<a href="https://www.securityweek.com/bouldspy-android-malware-used-in-iranian-government-surveillance-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On the infected devices, BouldSpy harvests account usernames and associated application/service, a list of installed apps, browser data, call logs, clipboard content, contact lists, device information, a list of files and folders, and SMS messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
