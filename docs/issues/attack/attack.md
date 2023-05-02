@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nashua School District hit by 'sophisticated' cyberattack<a href="https://www.wmur.com/article/nashua-public-schools-cyberattack-classes-monday/43750709#?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"We are working diligently to investigate the incident, confirm its impact on our systems, and securely restore functionality to our environment as soon as possible," the district said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German IT provider Bitmarck hit by cyberattack<a href="https://securityaffairs.com/145568/hacking/bitmarck-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitmarck, one of the largest IT service providers for&nbsp;social insurance carriers in Germany, announced yesterday that it has suffered a cyber attack.
+The German IT service provider Bitmarck announced on April 30 it had taken all its systems offline...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

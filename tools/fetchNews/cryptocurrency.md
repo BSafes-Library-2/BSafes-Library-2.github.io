@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks broke into AT&amp;T email accounts to empty their cryptocurrency wallets<a href="https://securityaffairs.com/145508/hacking/att-email-accounts-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are gaining access to AT&amp;T email accounts in an attempt to hack into the victim’s cryptocurrency exchange accounts.
+Hackers are&nbsp;breaking into the AT&amp;T email accounts and then using the access they are logging into the victim’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

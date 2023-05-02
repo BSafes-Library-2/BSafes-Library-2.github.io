@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wanted Dead or Alive: Real-Time Protection Against Lateral Movement<a href="https://thehackernews.com/2023/05/wanted-dead-or-alive-real-time.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Just a few short years ago, lateral movement was a tactic confined to top APT cybercrime organizations and nation-state operators. Today, however, it has become a commoditized tool, well within the skillset of any ransomware threat actor. This makes real-time detection and prevention of lateral movement a necessity to organizations of all sizes and across all industries. But the disturbing truth is that there is actually no tool in the current security stack that can provide this real-time protection, creating what is arguably the most critical security weakness in an organization's security architecture.&nbsp; In this article, we'll walk through the most essentials questions around the challenge of lateral movement protection, understand why multifactor authentication (MFA) and service account protection are the gaps that make it possible, and learn how Silverfort's platform turns the tables on attackers and makes lateral movement protection finally within reach. Upcoming We
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coercion in the Age of Ransomware: New Tactics for Extorting Payments<a href="https://cyware.com/news/coercion-in-the-age-of-ransomware-new-tactics-for-extorting-payments-0c31dba6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware report by GuidePoint Security offers valuable information on the current ransomware threat scenario and highlights the coercion tactic utilized by significant ransomware groups such as double extortion and DDoS attack. In the education sector, there was a 17% rise in publicly disclosed ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RTM Group Launches its Linux Ransomware<a href="https://cyware.com/news/rtm-group-launches-its-linux-ransomware-eea307ae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RTM Locker threat actors have launched a new version of the ransomware strain that can infects Linux, NAS, and ESXi hosts. Its code share similarities to the Babuk ransomware's leaked source code, revealed Uptycs experts. The encryption function uses pthreads (aka POSIX threads) to speed up executi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

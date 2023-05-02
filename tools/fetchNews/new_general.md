@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using multiple solutions adds complexity to your zero trust strategy<a href="https://www.helpnetsecurity.com/2023/05/01/zero-trust-integration-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are also now increasingly reliant on their supply chain, which means partners, suppliers, and shippers are now typically directly connected to a company’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google banned 173k developer accounts in 2022<a href="https://securityaffairs.com/145522/mobile-2/google-play-store-bad-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, Google prevented 1.43 million policy-violating apps from being published in the official Google Play store.
+Google announced that it prevented 1.43 million policy-violating applications from being published on Google Play in 2022. The IT giant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

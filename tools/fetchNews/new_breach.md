@@ -8,6 +8,77 @@ nav_order: 900029
 
 ## Breach
 ---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: UK pension funds warned to check on clients’ data after Capita breach<a href="https://therecord.media/uk-pensions-regulator-capita-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capita, the country’s largest outsourcing company, holds contracts to administer the payment systems for pension funds used by more than 4 million individuals in Britain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+T-Mobile suffered the second data breach in 2023<a href="https://securityaffairs.com/145590/data-breach/t-mobile-second-data-breach-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+T-Mobile disclosed the second data breach of 2023, threat actors had access to the personal information of hundreds of customers since February.
+T-Mobile suffered the second data breach of 2023, threat actors had access to the personal information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeFi Protocol 0VIX Loses Nearly $2M in Flash-Loan Exploit<a href="https://finance.yahoo.com/news/defi-protocol-0vix-loses-nearly-124421734.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A total of 1.45 million USDC, along with other tokens, was stolen before being bridged to the Ethereum mainnet on Stargate Finance, where it was eventually swapped for ether (ETH).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Court Records Expose Private Information for Thousands of Missouri Residents<a href="https://www.stltoday.com/news/local/crime-and-courts/court-records-online-include-private-information-for-thousands-of-missouri-residents/article_f5b23bce-e44c-11ed-a554-33728de7a460.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Documents containing Social Security numbers and other private information for thousands of Missourians are accessible to anyone using the Casenet website, the state’s judicial records system, the Post-Dispatch recently discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sensitive Data Leaked From Servers Running Salesforce Community Software<a href="https://arstechnica.com/information-technology/2023/04/misconfigured-servers-running-salesforce-software-are-leaking-sensitive-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Servers running software sold by Salesforce are leaking sensitive data managed by government agencies, banks, and other organizations, according to a post published Friday by KrebsOnSecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

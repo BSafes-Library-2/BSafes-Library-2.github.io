@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals use proxies to legitimize fraudulent requests<a href="https://www.helpnetsecurity.com/2023/05/01/malicious-bot-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bot attacks were previously seen as a relatively inconsequential type of online fraud, and that mentality has persisted even as threat actors have gained the ability to cause significant damage to revenue and brand reputation, according to HUMAN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Threat Actor Infects 500,000 Devices Using 'Malverposting' Tactics<a href="https://thehackernews.com/2023/05/vietnamese-threat-actor-infects-500000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Vietnamese threat actor has been attributed as behind a "malverposting" campaign on social media platforms to infect over 500,000 devices worldwide over the past three months to deliver variants of information stealers such as&nbsp; S1deload Stealer &nbsp;and&nbsp; SYS01stealer . Malverposting refers to the use of promoted social media posts on services like Facebook and Twitter to mass propagate malicious software and other security threats. The idea is to reach a broader audience by paying for ads to "amplify" their posts. According to&nbsp; Guardio Labs , such attacks commence with the adversary creating new business profiles and hijacking already popular accounts to serve ads that claim to offer free adult-rated photo album downloads. Within these ZIP archive files are purported images that are actually executable files, which, when clicked, activate the infection chain and ultimately deploy the stealer malware to siphon session cookies, account data, and other information.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

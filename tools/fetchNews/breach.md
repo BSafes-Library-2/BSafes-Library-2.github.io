@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel: Hackers leak thousands of personal details as Netanyahu's Facebook account targeted<a href="https://www.middleeastmonitor.com/20230427-israel-hackers-leak-thousands-of-personal-details-as-netanyahus-facebook-account-targeted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Facebook account of Israeli Prime Minister Benjamin Netanyahu was hacked into on Wednesday evening, and the identities and names of tens of thousands of Israelis were leaked, following another cyberattack targeting the country's Atid group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are breaking into AT&amp;T email accounts to steal cryptocurrency<a href="https://techcrunch.com/2023/04/26/hackers-are-breaking-into-att-email-accounts-to-steal-cryptocurrency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T spokesperson Jim Kimberly said that the company “identified the unauthorized creation of secure mail keys, which can be used in some cases to access an email account without needing a password.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

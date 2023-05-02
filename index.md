@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: UK pension funds warned to check on clients’ data after Capita breach<a href="https://therecord.media/uk-pensions-regulator-capita-data-breach?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2023
+May 01, 2023-- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Decoy Dog Malware Toolkit Uncovered: Targeting Enterprise Networks<a href="https://thehackernews.com/2023/05/new-decoy-dog-malware-toolkit-uncovered.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile suffered the second data breach in 2023<a href="https://securityaffairs.com/145590/data-breach/t-mobile-second-data-breach-2022.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nashua School District hit by 'sophisticated' cyberattack<a href="https://www.wmur.com/article/nashua-public-schools-cyberattack-classes-monday/43750709#?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2023
+May 01, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wanted Dead or Alive: Real-Time Protection Against Lateral Movement<a href="https://thehackernews.com/2023/05/wanted-dead-or-alive-real-time.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts spotted a new sophisticated malware toolkit called Decoy Dog<a href="https://securityaffairs.com/145580/malware/decoy-dog-sophisticated-malware-toolkit.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeFi Protocol 0VIX Loses Nearly $2M in Flash-Loan Exploit<a href="https://finance.yahoo.com/news/defi-protocol-0vix-loses-nearly-124421734.html?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2023
+May 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Threat Actor Infects 500,000 Devices Using 'Malverposting' Tactics<a href="https://thehackernews.com/2023/05/vietnamese-threat-actor-infects-500000.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German IT provider Bitmarck hit by cyberattack<a href="https://securityaffairs.com/145568/hacking/bitmarck-cyberattack.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Court Records Expose Private Information for Thousands of Missouri Residents<a href="https://www.stltoday.com/news/local/crime-and-courts/court-records-online-include-private-information-for-thousands-of-missouri-residents/article_f5b23bce-e44c-11ed-a554-33728de7a460.html?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 01, 2023
+May 01, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Targets Ukrainian Government Entities with Fake "Windows Update" Emails<a href="https://thehackernews.com/2023/05/apt28-targets-ukrainian-government.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian govt uses BouldSpy Android malware for internal surveillance operations<a href="https://securityaffairs.com/145550/hacking/iran-bouldspy-android-spyware.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sensitive Data Leaked From Servers Running Salesforce Community Software<a href="https://arstechnica.com/information-technology/2023/04/misconfigured-servers-running-salesforce-software-are-leaking-sensitive-data/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT Nomadic Octopus hacked Tajikistani carrier<a href="https://securityaffairs.com/145536/apt/nomadic-octopus-targets-tajikistani-carrier.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using multiple solutions adds complexity to your zero trust strategy<a href="https://www.helpnetsecurity.com/2023/05/01/zero-trust-integration-challenges/?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google banned 173k developer accounts in 2022<a href="https://securityaffairs.com/145522/mobile-2/google-play-store-bad-apps.html"> Full Text</a>
@@ -296,7 +296,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals use proxies to legitimize fraudulent requests<a href="https://www.helpnetsecurity.com/2023/05/01/malicious-bot-attacks/?&web_view=true"> Full Text</a>
@@ -312,7 +312,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2023
+May 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘BouldSpy’ Android Malware Used in Iranian Government Surveillance Operations<a href="https://www.securityweek.com/bouldspy-android-malware-used-in-iranian-government-surveillance-operations/?&web_view=true"> Full Text</a>
