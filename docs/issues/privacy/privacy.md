@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK locks horns with WhatsApp over threat to break encryption<a href="https://www.politico.eu/article/uk-ministers-lock-horns-with-whatsapp-over-threat-to-break-encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Online Safety Bill, the United Kingdom’s landmark effort to regulate social media giants, gives regulator Ofcom the power to require tech companies to identify child sex abuse material in private messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

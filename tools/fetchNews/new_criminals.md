@@ -8,6 +8,50 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and Ukrainian police seized 9 crypto exchanges used by cybercriminals<a href="https://securityaffairs.com/145668/cyber-crime/crypto-exchanges-seizure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation conducted by the FBI and Ukrainian police seized 9 crypto exchanges used by cybercriminal groups for money laundering.
+The Cyber ​​Police Department together with the Main Investigative Department of the National Police, the Office...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Claims Data Theft From Edison Learning<a href="https://thejournal.com/articles/2023/05/01/ransomware-gang-claims-edison-learning-data-theft.aspx?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware is claiming to have infiltrated public school management and virtual learning provider Edison Learning, posting on its dark web data leak site on Wednesday, April 26, that it had stolen 20GB of the company’s data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpecTor operation: 288 individuals arrested in the seizure of marketplace Monopoly Market<a href="https://securityaffairs.com/145656/cyber-crime/law-enforcement-op-spector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International law enforcement operation SpecTor resulted in the seizure of an online marketplace and the arrest of nearly 300 people.
+In an international law enforcement operation coordinated by Europol, codenamed 'SpecTor', the police seized the illegal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

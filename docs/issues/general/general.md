@@ -8,6 +8,46 @@ nav_order: 900072
 
 ## General
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data loss costs go up, and not just from ransom shakedowns<a href="https://www.theregister.com/2023/05/02/data_breach_costs_rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to BakerHostetler, the average ransom paid hit $600,688, up from $511,957 the year before, though still below the peak of $794,620 in pandemic-ravaged 2020. About 40 percent of victims paid a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Telecoms Struggle with SaaS Security<a href="https://thehackernews.com/2023/05/why-telecoms-struggle-with-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telecom industry has always been a tantalizing target for cybercriminals. The combination of interconnected networks, customer data, and sensitive information allows cybercriminals to inflict maximum damage through minimal effort. It's the breaches in telecom companies that tend to have a seismic impact and far-reaching implications — in addition to reputational damage, which can be difficult to measure, telecoms are often at the receiving end of government fines for their cybersecurity and privacy failures. There are few industries in the world that collect as much sensitive data as telecom companies. In recent years, telecom companies have accelerated their digital transformation, shedding legacy systems and reducing costs. These changes, coupled with the need for stronger collaboration with third-party vendors, have led them to SaaS applications to handle their CRM. Today, telecoms are using SaaS apps for billing, HR, call management, field operations management, tracking ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+The warning signs for security analyst burnout and ways to prevent<a href="https://www.helpnetsecurity.com/2023/05/02/security-analyst-burnout-prevention/?&amp;web_view=true"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+Security analysts face the demanding task of investigating and resolving increasing volumes of alerts daily, while adapting to an ever-changing threat landscape and keeping up with new technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

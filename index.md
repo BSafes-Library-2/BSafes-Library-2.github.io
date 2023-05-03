@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Longzhi Returns With New Tricks to Target Organizations in Taiwan, Thailand, the Philippines, and Fiji<a href="https://www.trendmicro.com/en_us/research/23/e/attack-on-security-titans-earth-longzhi-returns-with-new-tricks.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2023
+May 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New BGP Flaws in Popular Internet Routing Protocol Software<a href="https://thehackernews.com/2023/05/researchers-uncover-new-bgp-flaws-in.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Can Better Training Reduce the Success Rate of Phishing Attacks?<a href="https://www.lawfareblog.com/can-better-training-reduce-success-rate-phishing-attacks"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI and Ukrainian police seized 9 crypto exchanges used by cybercriminals<a href="https://securityaffairs.com/145668/cyber-crime/crypto-exchanges-seizure.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gang Claims Data Theft From Edison Learning<a href="https://thejournal.com/articles/2023/05/01/ransomware-gang-claims-edison-learning-data-theft.aspx?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2023
+May 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BouldSpy Android Spyware: Iranian Government's Alleged Tool for Spying on Minority Groups<a href="https://thehackernews.com/2023/05/bouldspy-android-spyware-iranian.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpecTor operation: 288 individuals arrested in the seizure of marketplace Monopoly Market<a href="https://securityaffairs.com/145656/cyber-crime/law-enforcement-op-spector.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data loss costs go up, and not just from ransom shakedowns<a href="https://www.theregister.com/2023/05/02/data_breach_costs_rise/?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2023
+May 02, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Telecoms Struggle with SaaS Security<a href="https://thehackernews.com/2023/05/why-telecoms-struggle-with-saas-security.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The first iPhone Rapid Security Response update released by Apple fails to install<a href="https://securityaffairs.com/145649/security/iphone-rapid-security-response-failure.html"> Full Text</a>
@@ -197,7 +197,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bluefield University, BridgeValley Community and Technical College, and Penncrest School District Suffer Cyberattacks<a href="https://therecord.media/colleges-schools-suffer-from-ransomware-and-cyberattacks?&web_view=true"> Full Text</a>
@@ -213,7 +213,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2023
+May 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LOBSHOT: A Stealthy, Financial Trojan and Info Stealer Delivered through Google Ads<a href="https://thehackernews.com/2023/05/lobshot-stealthy-financial-trojan-and.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet warns of a spike in attacks against TBK DVR devices<a href="https://securityaffairs.com/145636/hacking/tbk-dvr-attacks-spike-cve-2018-9995.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [General](/docs/issues/general/general/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The warning signs for security analyst burnout and ways to prevent<a href="https://www.helpnetsecurity.com/2023/05/02/security-analyst-burnout-prevention/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2023
+May 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's ScarCruft Deploys RokRAT Malware via LNK File Infection Chains<a href="https://thehackernews.com/2023/05/north-koreas-scarcruft-deploys-rokrat.html"> Full Text</a>
@@ -278,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked ScarCruft APT uses large LNK files in infection chains<a href="https://securityaffairs.com/145622/apt/scarcruft-apt-new-infection-chains.html"> Full Text</a>
@@ -295,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet warns of a spike in attacks against TBK DVR devices<a href="https://securityaffairs.com/145636/hacking/tbk-dvr-attacks-spike-cve-2018-9995.html?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 02, 2023
+May 02, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Active Exploitation of TP-Link, Apache, and Oracle Vulnerabilities Detected<a href="https://thehackernews.com/2023/05/active-exploitation-of-tp-link-apache.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds TP-Link, Apache, and Oracle bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/145618/security/known-exploited-vulnerabilities-catalog-flaws-3.html"> Full Text</a>
@@ -344,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data-driven insights help prevent decisions based on fear<a href="https://www.helpnetsecurity.com/2023/05/02/making-data-driven-decisions/?&web_view=true"> Full Text</a>
@@ -360,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Lobshot hVNC malware spreads via Google ads<a href="https://securityaffairs.com/145597/malware/lobshot-malware-hvnc.html"> Full Text</a>
@@ -377,7 +377,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Law Firm HWL Ebsworth Hit by Russian-linked Ransomware Attack<a href="https://www.theguardian.com/technology/2023/may/02/australian-law-firm-hwl-ebsworth-hit-by-russian-linked-ransomware-attack?&web_view=true"> Full Text</a>
@@ -393,7 +393,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2023
+May 2, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK locks horns with WhatsApp over threat to break encryption<a href="https://www.politico.eu/article/uk-ministers-lock-horns-with-whatsapp-over-threat-to-break-encryption/?&web_view=true"> Full Text</a>

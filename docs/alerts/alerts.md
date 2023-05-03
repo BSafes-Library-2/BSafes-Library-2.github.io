@@ -7,6 +7,22 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/ics-medical-advisories/icsma-23-117-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2023-1389 TP-Link Archer AX-21 Command Injection Vulnerability
+CVE-2021-45046 Apache Log4j2 Deserialization of Untrusted Data Vulnerability 
+CVE-2023-21839 Oracle WebLogic Server Unspecified Vulnerability 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 27, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

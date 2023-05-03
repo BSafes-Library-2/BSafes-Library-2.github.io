@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New BGP Flaws in Popular Internet Routing Protocol Software<a href="https://thehackernews.com/2023/05/researchers-uncover-new-bgp-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered weaknesses in a software implementation of the Border Gateway Protocol (BGP) that could be weaponized to achieve a denial-of-service (DoS) condition on vulnerable BGP peers. The three vulnerabilities reside in version 8.4 of&nbsp; FRRouting , a popular open source internet routing protocol suite for Linux and Unix platforms. It's currently used by several vendors like&nbsp; NVIDIA Cumulus ,&nbsp; DENT , and&nbsp; SONiC , posing supply chain risks. The discovery is the result of an analysis of seven different implementations of BGP carried out by Forescout Vedere Labs: FRRouting, BIRD, OpenBGPd, Mikrotik RouterOS, Juniper JunOS, Cisco IOS, and Arista EOS. BGP is a&nbsp; gateway protocol &nbsp;that's designed to exchange routing and reachability information between autonomous systems. It's used to find the most efficient routes for delivering internet traffic. The list of three flaws is as follows - CVE-2022-40302 &nbsp;(CVSS score: 6.5) - Out-of-bounds read whe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The first iPhone Rapid Security Response update released by Apple fails to install<a href="https://securityaffairs.com/145649/security/iphone-rapid-security-response-failure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released its first Rapid Security Response update, but many iPhone users reported problems during the installation of the iOS Security Response.
+On June 2022, Apple announced that the Rapid Security Response feature would be available starting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns of a spike in attacks against TBK DVR devices<a href="https://securityaffairs.com/145636/hacking/tbk-dvr-attacks-spike-cve-2018-9995.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs researchers observed a worrisome level of attacks attempting to exploit an authentication bypass vulnerability in TBK DVR devices.
+FortiGuard Labs researchers are warning of a spike in malicious attacks targeting TBK DVR devices. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

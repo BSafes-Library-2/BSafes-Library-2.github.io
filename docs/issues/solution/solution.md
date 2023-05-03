@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data-driven insights help prevent decisions based on fear<a href="https://www.helpnetsecurity.com/2023/05/02/making-data-driven-decisions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations have strengthened security measures and become more resilient, but threat actors are still finding ways through, according to BakerHostetler. A reduction in ransomware matters in 2022 reversed course by the end of the year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

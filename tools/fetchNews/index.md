@@ -34,6 +34,381 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Longzhi Returns With New Tricks to Target Organizations in Taiwan, Thailand, the Philippines, and Fiji<a href="https://www.trendmicro.com/en_us/research/23/e/attack-on-security-titans-earth-longzhi-returns-with-new-tricks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, which came after months of inactivity, was found to abuse a Windows Defender executable for DLL sideloading and exploit a vulnerable driver, zamguard.sys, to disable security products through a bring-your-own-vulnerable-driver attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New BGP Flaws in Popular Internet Routing Protocol Software<a href="https://thehackernews.com/2023/05/researchers-uncover-new-bgp-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered weaknesses in a software implementation of the Border Gateway Protocol (BGP) that could be weaponized to achieve a denial-of-service (DoS) condition on vulnerable BGP peers. The three vulnerabilities reside in version 8.4 of  FRRouting , a popular open source internet routing protocol suite for Linux and Unix platforms. It's currently used by several vendors like  NVIDIA Cumulus ,  DENT , and  SONiC , posing supply chain risks. The discovery is the result of an analysis of seven different implementations of BGP carried out by Forescout Vedere Labs: FRRouting, BIRD, OpenBGPd, Mikrotik RouterOS, Juniper JunOS, Cisco IOS, and Arista EOS. BGP is a  gateway protocol  that's designed to exchange routing and reachability information between autonomous systems. It's used to find the most efficient routes for delivering internet traffic. The list of three flaws is as follows - CVE-2022-40302  (CVSS score: 6.5) - Out-of-bounds read whe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Better Training Reduce the Success Rate of Phishing Attacks?<a href="https://www.lawfareblog.com/can-better-training-reduce-success-rate-phishing-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A review of Arun Vishwanath, “The Weakest Link: How to Diagnose, Detect, and Defend Users From Phishing Attacks” (MIT Press, 2022)
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and Ukrainian police seized 9 crypto exchanges used by cybercriminals<a href="https://securityaffairs.com/145668/cyber-crime/crypto-exchanges-seizure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation conducted by the FBI and Ukrainian police seized 9 crypto exchanges used by cybercriminal groups for money laundering.
+The Cyber ​​Police Department together with the Main Investigative Department of the National Police, the Office...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Claims Data Theft From Edison Learning<a href="https://thejournal.com/articles/2023/05/01/ransomware-gang-claims-edison-learning-data-theft.aspx?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware is claiming to have infiltrated public school management and virtual learning provider Edison Learning, posting on its dark web data leak site on Wednesday, April 26, that it had stolen 20GB of the company’s data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BouldSpy Android Spyware: Iranian Government's Alleged Tool for Spying on Minority Groups<a href="https://thehackernews.com/2023/05/bouldspy-android-spyware-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android surveillanceware possibly used by the Iranian government has been used to spy on over 300 individuals belonging to minority groups. The malware, dubbed  BouldSpy , has been attributed with moderate confidence to the Law Enforcement Command of the Islamic Republic of Iran ( FARAJA ). Targeted victims include Iranian Kurds, Baluchis, Azeris, and Armenian Christian groups. "The spyware may also have been used in efforts to counter and monitor illegal trafficking activity related to arms, drugs, and alcohol," Lookout  said , based on exfiltrated data that contained photos of drugs, firearms, and official documents issued by FARAJA.  BouldSpy, like other Android malware families, abuses its access to Android's accessibility services and other intrusive permissions to harvest sensitive data such as web browser history, photos, contact lists, SMS logs, keystrokes, screenshots, clipboard content, microphone audio, and video call recordings. It's worth poin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpecTor operation: 288 individuals arrested in the seizure of marketplace Monopoly Market<a href="https://securityaffairs.com/145656/cyber-crime/law-enforcement-op-spector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+International law enforcement operation SpecTor resulted in the seizure of an online marketplace and the arrest of nearly 300 people.
+In an international law enforcement operation coordinated by Europol, codenamed 'SpecTor', the police seized the illegal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data loss costs go up, and not just from ransom shakedowns<a href="https://www.theregister.com/2023/05/02/data_breach_costs_rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to BakerHostetler, the average ransom paid hit $600,688, up from $511,957 the year before, though still below the peak of $794,620 in pandemic-ravaged 2020. About 40 percent of victims paid a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Telecoms Struggle with SaaS Security<a href="https://thehackernews.com/2023/05/why-telecoms-struggle-with-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The telecom industry has always been a tantalizing target for cybercriminals. The combination of interconnected networks, customer data, and sensitive information allows cybercriminals to inflict maximum damage through minimal effort. It's the breaches in telecom companies that tend to have a seismic impact and far-reaching implications — in addition to reputational damage, which can be difficult to measure, telecoms are often at the receiving end of government fines for their cybersecurity and privacy failures. There are few industries in the world that collect as much sensitive data as telecom companies. In recent years, telecom companies have accelerated their digital transformation, shedding legacy systems and reducing costs. These changes, coupled with the need for stronger collaboration with third-party vendors, have led them to SaaS applications to handle their CRM. Today, telecoms are using SaaS apps for billing, HR, call management, field operations management, tracking ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The first iPhone Rapid Security Response update released by Apple fails to install<a href="https://securityaffairs.com/145649/security/iphone-rapid-security-response-failure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released its first Rapid Security Response update, but many iPhone users reported problems during the installation of the iOS Security Response.
+On June 2022, Apple announced that the Rapid Security Response feature would be available starting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluefield University, BridgeValley Community and Technical College, and Penncrest School District Suffer Cyberattacks<a href="https://therecord.media/colleges-schools-suffer-from-ransomware-and-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, thousands of students at several U.S. schools, such as Bluefield University, BridgeValley Community and Technical College, Penncrest School District, and Truman State University, are feeling the impact of ransomware and other cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LOBSHOT: A Stealthy, Financial Trojan and Info Stealer Delivered through Google Ads<a href="https://thehackernews.com/2023/05/lobshot-stealthy-financial-trojan-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another instance of how threat actors are abusing Google Ads to serve malware, a threat actor has been observed leveraging the technique to deliver a new Windows-based financial trojan and information stealer called LOBSHOT . "LOBSHOT continues to collect victims while staying under the radar," Elastic Security Labs researcher Daniel Stepanic said in an analysis published last week. "One of LOBSHOT's core capabilities is around its hVNC (Hidden Virtual Network Computing) component. These kinds of modules allow for direct and unobserved access to the machine." The American-Dutch company attributed the malware strain to a threat actor known as  TA505  based on infrastructure historically connected to the group. TA505 is a financially motivated e-crime syndicate that overlaps with  activity clusters  tracked under the names Evil Corp, FIN11, and Indrik Spider. The latest development is significant because it's a sign that TA505, which is associate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns of a spike in attacks against TBK DVR devices<a href="https://securityaffairs.com/145636/hacking/tbk-dvr-attacks-spike-cve-2018-9995.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs researchers observed a worrisome level of attacks attempting to exploit an authentication bypass vulnerability in TBK DVR devices.
+FortiGuard Labs researchers are warning of a spike in malicious attacks targeting TBK DVR devices. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [General](/docs/issues/general/general/)<br
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The warning signs for security analyst burnout and ways to prevent<a href="https://www.helpnetsecurity.com/2023/05/02/security-analyst-burnout-prevention/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security analysts face the demanding task of investigating and resolving increasing volumes of alerts daily, while adapting to an ever-changing threat landscape and keeping up with new technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's ScarCruft Deploys RokRAT Malware via LNK File Infection Chains<a href="https://thehackernews.com/2023/05/north-koreas-scarcruft-deploys-rokrat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as  ScarCruft  started experimenting with oversized LNK files as a delivery route for RokRAT malware as early as July 2022, the same month Microsoft  began blocking macros  across Office documents by default. "RokRAT has not changed significantly over the years, but its deployment methods have evolved, now utilizing archives containing LNK files that initiate multi-stage infection chains," Check Point  said  in a new technical report. "This is another representation of a major trend in the threat landscape, where APTs and cybercriminals alike attempt to overcome the blocking of macros from untrusted sources." ScarCruft , also known by the names APT37, InkySquid, Nickel Foxcroft, Reaper, RedEyes, and Ricochet Chollima, is a threat group that almost exclusively targets South Korean individuals and entities as part of spear-phishing attacks designed to deliver an array of custom tools. The adversarial collective, unlike the  La
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked ScarCruft APT uses large LNK files in infection chains<a href="https://securityaffairs.com/145622/apt/scarcruft-apt-new-infection-chains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked ScarCruft APT group started using oversized LNK files to deliver the RokRAT malware starting in early July 2022.
+Check Point researchers reported that the infection chains observed in the attacks attributed to North Korea-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns of a spike in attacks against TBK DVR devices<a href="https://securityaffairs.com/145636/hacking/tbk-dvr-attacks-spike-cve-2018-9995.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs researchers are warning of a spike in malicious attacks targeting TBK DVR devices. Threat actors are attempting to exploit a five-year-old authentication bypass issue, tracked as CVE-2018-9995 (CVSS score of 9.8), in TBK DVR devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 02, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Active Exploitation of TP-Link, Apache, and Oracle Vulnerabilities Detected<a href="https://thehackernews.com/2023/05/active-exploitation-of-tp-link-apache.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  three flaws to the Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The security vulnerabilities are as follows - CVE-2023-1389  (CVSS score: 8.8) - TP-Link Archer AX-21 Command Injection Vulnerability CVE-2021-45046  (CVSS score: 9.0) - Apache Log4j2 Deserialization of Untrusted Data Vulnerability CVE-2023-21839  (CVSS score: 7.5) - Oracle WebLogic Server Unspecified Vulnerability CVE-2023-1389 concerns a case of command injection affecting TP-Link Archer AX-21 routers that could be exploited to achieve remote code execution. According to Trend Micro's Zero Day Initiative, the flaw has been  put to use  by threat actors associated with the Mirai botnet since April 11, 2023. The second flaw to be added to the KEV catalog is CVE-2021-45046, a remote code execution affecting the Apache Log4j2 logging library that  came to light  in December 2021. It's cu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds TP-Link, Apache, and Oracle bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/145618/security/known-exploited-vulnerabilities-catalog-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added TP-Link, Apache, and Oracle vulnerabilities to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following three...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data-driven insights help prevent decisions based on fear<a href="https://www.helpnetsecurity.com/2023/05/02/making-data-driven-decisions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations have strengthened security measures and become more resilient, but threat actors are still finding ways through, according to BakerHostetler. A reduction in ransomware matters in 2022 reversed course by the end of the year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Lobshot hVNC malware spreads via Google ads<a href="https://securityaffairs.com/145597/malware/lobshot-malware-hvnc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The previously undetected LOBSHOT malware is distributed using Google ads and gives operators VNC access to Windows devices.
+Researchers from Elastic Security Labs spotted a new remote access trojan dubbed LOBSHOT was being distributed through Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Law Firm HWL Ebsworth Hit by Russian-linked Ransomware Attack<a href="https://www.theguardian.com/technology/2023/may/02/australian-law-firm-hwl-ebsworth-hit-by-russian-linked-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Late last week, the ALPHV/Blackcat ransomware group posted on its website that 4TB of company data had been hacked, including employee CVs, IDs, financial reports, accounting data, client documentation, credit card data, and a complete network map.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK locks horns with WhatsApp over threat to break encryption<a href="https://www.politico.eu/article/uk-ministers-lock-horns-with-whatsapp-over-threat-to-break-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Online Safety Bill, the United Kingdom’s landmark effort to regulate social media giants, gives regulator Ofcom the power to require tech companies to identify child sex abuse material in private messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

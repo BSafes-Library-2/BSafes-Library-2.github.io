@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's ScarCruft Deploys RokRAT Malware via LNK File Infection Chains<a href="https://thehackernews.com/2023/05/north-koreas-scarcruft-deploys-rokrat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as&nbsp; ScarCruft &nbsp;started experimenting with oversized LNK files as a delivery route for RokRAT malware as early as July 2022, the same month Microsoft&nbsp; began blocking macros &nbsp;across Office documents by default. "RokRAT has not changed significantly over the years, but its deployment methods have evolved, now utilizing archives containing LNK files that initiate multi-stage infection chains," Check Point&nbsp; said &nbsp;in a new technical report. "This is another representation of a major trend in the threat landscape, where APTs and cybercriminals alike attempt to overcome the blocking of macros from untrusted sources." ScarCruft , also known by the names APT37, InkySquid, Nickel Foxcroft, Reaper, RedEyes, and Ricochet Chollima, is a threat group that almost exclusively targets South Korean individuals and entities as part of spear-phishing attacks designed to deliver an array of custom tools. The adversarial collective, unlike the&nbsp; La
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

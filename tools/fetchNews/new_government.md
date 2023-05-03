@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+May 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Active Exploitation of TP-Link, Apache, and Oracle Vulnerabilities Detected<a href="https://thehackernews.com/2023/05/active-exploitation-of-tp-link-apache.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;three flaws to the Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The security vulnerabilities are as follows - CVE-2023-1389 &nbsp;(CVSS score: 8.8) - TP-Link Archer AX-21 Command Injection Vulnerability CVE-2021-45046 &nbsp;(CVSS score: 9.0) - Apache Log4j2 Deserialization of Untrusted Data Vulnerability CVE-2023-21839 &nbsp;(CVSS score: 7.5) - Oracle WebLogic Server Unspecified Vulnerability CVE-2023-1389 concerns a case of command injection affecting TP-Link Archer AX-21 routers that could be exploited to achieve remote code execution. According to Trend Micro's Zero Day Initiative, the flaw has been&nbsp; put to use &nbsp;by threat actors associated with the Mirai botnet since April 11, 2023. The second flaw to be added to the KEV catalog is CVE-2021-45046, a remote code execution affecting the Apache Log4j2 logging library that&nbsp; came to light &nbsp;in December 2021. It's cu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds TP-Link, Apache, and Oracle bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/145618/security/known-exploited-vulnerabilities-catalog-flaws-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added TP-Link, Apache, and Oracle vulnerabilities to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following three...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

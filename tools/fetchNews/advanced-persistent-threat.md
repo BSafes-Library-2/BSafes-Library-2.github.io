@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Targets Ukrainian Government Entities with Fake "Windows Update" Emails<a href="https://thehackernews.com/2023/05/apt28-targets-ukrainian-government.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks perpetrated by Russian nation-state hackers targeting various government bodies in the country. The agency&nbsp; attributed &nbsp;the phishing campaign to APT28, which is also known by the names Fancy Bear, Forest Blizzard, FROZENLAKE, Iron Twilight, Sednit, and Sofacy. The email messages come with the subject line "Windows Update" and purportedly contain instructions in the Ukrainian language to run a PowerShell command under the pretext of security updates. Running the script loads and executes a next-stage PowerShell script that's designed to collect basic system information through commands like&nbsp; tasklist &nbsp;and&nbsp; systeminfo , and exfiltrate the details via an HTTP request to a&nbsp; Mocky API . To trick the targets into running the command, the emails impersonated system administrators of the targeted government entities using fake Microsoft Outlook email accounts created with the employees'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT Nomadic Octopus hacked Tajikistani carrier<a href="https://securityaffairs.com/145536/apt/nomadic-octopus-targets-tajikistani-carrier.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian APT group Nomadic Octopus hacked a Tajikistani carrier to spy on government officials and public service infrastructures.
+Russian cyber espionage group Nomadic Octopus (aka DustSquad) has hacked a Tajikistani telecoms provider to spy on 18 entities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
