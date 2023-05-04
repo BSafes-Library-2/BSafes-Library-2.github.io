@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities dismantled the card-checking platform Try2Check<a href="https://securityaffairs.com/145710/cyber-crime/try2check-platform-dismantled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities dismantled the Try2Check platform, a Card-Checking platform that generated tens of millions of dollars in revenue.
+The U.S. DoJ charged the Russian citizen Denis Gennadievich Kulkov with running the Card-Checking services. The platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation SpecTor: $53.4 Million Seized, 288 Vendors Arrested in Dark Web Drug Bust<a href="https://thehackernews.com/2023/05/operation-spector-534-million-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has resulted in the arrest of 288 vendors who are believed to be involved in drug trafficking on the dark web, adding to a long list of&nbsp; criminal enterprises &nbsp;that have been shuttered in recent years. The effort, codenamed Operation SpecTor , also saw the authorities confiscating more than $53.4 million in cash and virtual currencies, 850 kg of drugs, and 117 firearms. The largest number of arrests were made in the U.S. (153), followed by the U.K. (55), Germany (52), the Netherlands (10), Austria (9), France (5), Switzerland (2), Poland (1), and Brazil (1). "This represents the most funds seized and the highest number of arrests in any coordinated international action," U.S. Attorney General Merrick B. Garland&nbsp; said . "The drug traffickers are confident that, by operating anonymously on the dark web, they can operate outside the bounds of the law. They are wrong." The arrests stem from evidence gathered after the&nbsp; tak
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

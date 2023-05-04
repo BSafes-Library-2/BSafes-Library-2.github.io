@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Can Better Training Reduce the Success Rate of Phishing Attacks?<a href="https://www.lawfareblog.com/can-better-training-reduce-success-rate-phishing-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A review of Arun Vishwanath, “The Weakest Link: How to Diagnose, Detect, and Defend Users From Phishing Attacks” (MIT Press, 2022)
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

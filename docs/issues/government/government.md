@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Advisory on Critical RCE Affecting ME RTU Remote Terminal Units<a href="https://thehackernews.com/2023/05/cisa-issues-advisory-on-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday&nbsp; released &nbsp;an Industrial Control Systems (ICS) advisory about a critical flaw affecting ME RTU remote terminal units. The security vulnerability, tracked as&nbsp; CVE-2023-2131 , has received the highest severity rating of 10.0 on the CVSS scoring system for its low attack complexity. "Successful exploitation of this vulnerability could allow remote code execution," CISA&nbsp; said , describing it as a case of command injection affecting versions of INEA ME RTU firmware prior to&nbsp; version 3.36 . Security researcher Floris Hendriks of Radboud University has been credited with reporting the issue to CISA. Also published by CISA is an&nbsp; alert &nbsp;related to multiple known security holes in Intel(R) processors impacting Factory Automation (FA) products from Mitsubishi Electric that could result in privilege escalation and a denial-of-service (DoS) condition. The development comes as the agency&nbsp; recommended &nbsp;criti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

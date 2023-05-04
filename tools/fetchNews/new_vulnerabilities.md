@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KEV Catalog Adds Vulnerabilities Affecting TP-Link, Apache, and Oracle WebLogic Server<a href="https://cyware.com/news/kev-catalog-adds-vulnerabilities-affecting-tp-link-apache-and-oracle-weblogic-server-989f105b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Watch out for bugs in TP-Link, Apache Log4j2, and Oracle WebLogic Server that are under active exploitation by different cybercriminal groups, warns CISA. FCEB agencies are required to apply vendor-provided fixes by May 22, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers found DoS flaws in popular BGP implementation<a href="https://securityaffairs.com/145676/security/bgp-frrouting-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in a software implementation of the Border Gateway Protocol (BGP) that could be weaponized to trigger a DoS condition on BGP peers.
+Forescout Vedere Labs researchers discovered multiple vulnerabilities in the software implementation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 113 Released With 15 Security Patches<a href="https://www.securityweek.com/chrome-113-released-with-15-security-patches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Released roughly two weeks after Google resolved two zero-day vulnerabilities in the popular browser, the latest Chrome update only resolves medium- and low-severity flaws, despite the major version change.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting 5-year-old Unpatched Vulnerability in TBK DVR Devices<a href="https://thehackernews.com/2023/05/hackers-exploiting-5-year-old-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting an unpatched five-year-old flaw impacting TBK digital video recording (DVR) devices, according to an advisory issued by Fortinet FortiGuard Labs. The vulnerability in question is&nbsp; CVE-2018-9995 &nbsp;(CVSS score: 9.8), a critical authentication bypass issue that could be exploited by remote actors to gain elevated permissions. "The 5-year-old vulnerability (CVE-2018-9995) is due to an error when handling a maliciously crafted HTTP cookie," Fortinet&nbsp; said &nbsp;in an outbreak alert on May 1, 2023. "A remote attacker may be able to exploit this flaw to bypass authentication and obtain administrative privileges eventually leading access to camera video feeds." The network security company said it observed over 50,000 attempts to exploit TBK DVR devices using the flaw in the month of April 2023. Despite the availability of a proof-of-concept ( PoC ) exploit, there are no fixes that address the vulnerability. The flaw impacts TBK DVR4104
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

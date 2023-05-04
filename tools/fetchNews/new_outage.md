@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Murfreesboro Medical Clinic Closed for Multiple Days After Cyberattack<a href="https://rutherfordsource.com/murfreesboro-medical-clinic-closed-for-multiple-days-after-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminal cyberattack on April 22 led Murfreesboro Medical Clinic &amp; SurgiCenter to initiate an emergency shutdown of their network to limit the spread of stolen information within their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

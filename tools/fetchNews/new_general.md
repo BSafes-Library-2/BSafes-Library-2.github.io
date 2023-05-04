@@ -8,6 +8,50 @@ nav_order: 900072
 
 ## General
 ---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless sign-in with passkeys is now available for Google accounts<a href="https://securityaffairs.com/145697/security/google-passwordless-auth-passkeys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the introduction of the passwordless secure sign-in with Passkeys for Google Accounts on all platforms.
+Google is rolling out the passwordless secure sign-in with Passkeys for Google Accounts on all platforms.
+Passwords are essential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most open source maintainers still consider themselves hobbyists, despite compensation pledges<a href="https://www.cybersecuritydive.com/news/60-open-source-maintainers-hobbyists/649170/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite a major push to strengthen the security of the software supply chain, a report released Tuesday from Tidelift shows more than 60% of open source maintainers describe themselves as unpaid hobbyists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks increasingly use malicious HTML email attachments<a href="https://www.csoonline.com/article/3695075/attacks-increasingly-use-malicious-html-email-attachments.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that attackers are relying more on malicious HTML files in their attacks, with malicious files now accounting for half of all HTML attachments sent via email.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

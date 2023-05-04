@@ -8,6 +8,35 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Group Earth Longzhi Resurfaces with Advanced Malware Tactics<a href="https://thehackernews.com/2023/05/chinese-hacker-group-earth-longzhi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored hacking outfit has resurfaced with a new campaign targeting government, healthcare, technology, and manufacturing entities based in Taiwan, Thailand, the Philippines, and Fiji after more than six months of no activity. Trend Micro&nbsp; attributed &nbsp;the intrusion set to a cyber espionage group it tracks under the name&nbsp; Earth Longzhi , which is a subgroup within&nbsp; APT41 &nbsp;(aka HOODOO or Winnti) and shares overlaps with various other clusters known as Earth Baku, SparklingGoblin, and GroupCC. Earth Longzhi was&nbsp; first documented &nbsp;by the cybersecurity firm in November 2022, detailing its attacks against various organizations located in East and Southeast Asia as well as Ukraine. Attack chains mounted by the threat actor leverage vulnerable public-facing applications as entry points to deploy the&nbsp; BEHINDER web shell , and then leverage that access to drop additional payloads, including a new variant of a Cobalt Strike loader called CroxLoader. "This recent campa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are taking advantage of the interest in generative AI to install Malware<a href="https://securityaffairs.com/145692/security/generative-ai-lure-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the promise of generative AI like ChatGPT to deliver malware, Facebook parent Meta warned.
+Threat actors are taking advantage of the huge interest in generative AI like ChatGPT to trick victims into installing malware, Meta...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked ScarCruft APT uses large LNK files in infection chains<a href="https://securityaffairs.com/145622/apt/scarcruft-apt-new-infection-chains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked ScarCruft&nbsp;APT group started using oversized LNK files to deliver the RokRAT malware starting in early July 2022.
+Check Point researchers reported that the infection chains observed in the attacks attributed to North Korea-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

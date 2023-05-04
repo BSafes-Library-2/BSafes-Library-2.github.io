@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KEV Catalog Adds Vulnerabilities Affecting TP-Link, Apache, and Oracle WebLogic Server<a href="https://cyware.com/news/kev-catalog-adds-vulnerabilities-affecting-tp-link-apache-and-oracle-weblogic-server-989f105b"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Introduces Passwordless Secure Sign-In with Passkeys for Google Accounts<a href="https://thehackernews.com/2023/05/google-introduces-passwordless-secure.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities dismantled the card-checking platform Try2Check<a href="https://securityaffairs.com/145710/cyber-crime/try2check-platform-dismantled.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Targets Romanian Telecom Users<a href="https://cyware.com/news/phishing-campaign-targets-romanian-telecom-users-316ba5ff"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hacker Group Earth Longzhi Resurfaces with Advanced Malware Tactics<a href="https://thehackernews.com/2023/05/chinese-hacker-group-earth-longzhi.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passwordless sign-in with passkeys is now available for Google accounts<a href="https://securityaffairs.com/145697/security/google-passwordless-auth-passkeys.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AresLoader Malware Attacking Citrix Users Through Malicious GitLab Repo<a href="https://gbhackers.com/aresloader-malware-attacking-citrix-users/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation SpecTor: $53.4 Million Seized, 288 Vendors Arrested in Dark Web Drug Bust<a href="https://thehackernews.com/2023/05/operation-spector-534-million-seized.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers are taking advantage of the interest in generative AI to install Malware<a href="https://securityaffairs.com/145692/security/generative-ai-lure-malware.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Promising Jobs at the U.S. Postal Service, ‘US Job Services’ Website Leaks Customer Data<a href="https://krebsonsecurity.com/2023/05/promising-jobs-at-the-u-s-postal-service-us-job-services-leaks-customer-data/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Download the eBook: What Does it Take to be a Full-Fledged Virtual CISO?<a href="https://thehackernews.com/2023/05/download-ebook-what-does-it-take-to-be.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers found DoS flaws in popular BGP implementation<a href="https://securityaffairs.com/145676/security/bgp-frrouting-flaws.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 113 Released With 15 Security Patches<a href="https://www.securityweek.com/chrome-113-released-with-15-security-patches/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple and Google Join Forces to Stop Unauthorized Location-Tracking Devices<a href="https://thehackernews.com/2023/05/apple-and-google-join-forces-to-stop.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most open source maintainers still consider themselves hobbyists, despite compensation pledges<a href="https://www.cybersecuritydive.com/news/60-open-source-maintainers-hobbyists/649170/?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting 5-year-old Unpatched Vulnerability in TBK DVR Devices<a href="https://thehackernews.com/2023/05/hackers-exploiting-5-year-old-unpatched.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Murfreesboro Medical Clinic Closed for Multiple Days After Cyberattack<a href="https://rutherfordsource.com/murfreesboro-medical-clinic-closed-for-multiple-days-after-cyberattack/?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 03, 2023
+May 03, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Advisory on Critical RCE Affecting ME RTU Remote Terminal Units<a href="https://thehackernews.com/2023/05/cisa-issues-advisory-on-critical-rce.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Card Skimmers and ATMs Used to Drain EBT Accounts in SoCal<a href="https://www.hackread.com/card-skimmers-atms-drain-ebt-accounts-socal/?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2023
+May 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacks increasingly use malicious HTML email attachments<a href="https://www.csoonline.com/article/3695075/attacks-increasingly-use-malicious-html-email-attachments.html?&web_view=true"> Full Text</a>

@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Longzhi Returns With New Tricks to Target Organizations in Taiwan, Thailand, the Philippines, and Fiji<a href="https://www.trendmicro.com/en_us/research/23/e/attack-on-security-titans-earth-longzhi-returns-with-new-tricks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, which came after months of inactivity, was found to abuse a Windows Defender executable for DLL sideloading and exploit a vulnerable driver, zamguard.sys, to disable security products through a bring-your-own-vulnerable-driver attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bluefield University, BridgeValley Community and Technical College, and Penncrest School District Suffer Cyberattacks<a href="https://therecord.media/colleges-schools-suffer-from-ransomware-and-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, thousands of students at several U.S. schools, such as Bluefield University, BridgeValley Community and Technical College, Penncrest School District, and Truman State University, are feeling the impact of ransomware and other cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns of a spike in attacks against TBK DVR devices<a href="https://securityaffairs.com/145636/hacking/tbk-dvr-attacks-spike-cve-2018-9995.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs researchers are warning of a spike in malicious attacks targeting TBK DVR devices. Threat actors are attempting to exploit a five-year-old authentication bypass issue, tracked as CVE-2018-9995 (CVSS score of 9.8), in TBK DVR devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Law Firm HWL Ebsworth Hit by Russian-linked Ransomware Attack<a href="https://www.theguardian.com/technology/2023/may/02/australian-law-firm-hwl-ebsworth-hit-by-russian-linked-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Late last week, the ALPHV/Blackcat ransomware group posted on its website that 4TB of company data had been hacked, including employee CVs, IDs, financial reports, accounting data, client documentation, credit card data, and a complete network map.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple and Google Join Forces to Stop Unauthorized Location-Tracking Devices<a href="https://thehackernews.com/2023/05/apple-and-google-join-forces-to-stop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple and Google have&nbsp; teamed up &nbsp;to work on a&nbsp; draft industry-wide specification &nbsp;that's designed to tackle safety risks and alert users when they are being tracked without their knowledge or permission using devices like AirTags. "The first-of-its-kind specification will allow Bluetooth location-tracking devices to be compatible with unauthorized tracking detection and alerts across Android and iOS platforms," the companies said in a joint statement. While these trackers are primarily designed to keep tabs on personal belongings like keys, wallets, luggage, and other items, such devices have also been abused by bad actors for&nbsp; criminal or nefarious purposes , including instances of&nbsp; stalking, harassment, and theft . The goal is to standardize the alerting mechanisms and minimize opportunities for misuse across Bluetooth location-tracking devices from different vendors. To that end, Samsung, Tile, Chipolo, eufy Security, and Pebblebee have all come on board. In doi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

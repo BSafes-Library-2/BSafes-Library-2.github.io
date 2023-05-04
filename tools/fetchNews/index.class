@@ -34,6 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KEV Catalog Adds Vulnerabilities Affecting TP-Link, Apache, and Oracle WebLogic Server<a href="https://cyware.com/news/kev-catalog-adds-vulnerabilities-affecting-tp-link-apache-and-oracle-weblogic-server-989f105b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Watch out for bugs in TP-Link, Apache Log4j2, and Oracle WebLogic Server that are under active exploitation by different cybercriminal groups, warns CISA. FCEB agencies are required to apply vendor-provided fixes by May 22, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Introduces Passwordless Secure Sign-In with Passkeys for Google Accounts<a href="https://thehackernews.com/2023/05/google-introduces-passwordless-secure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost five months after Google  added support  for passkeys to its Chrome browser, the tech giant has begun rolling out the  passwordless solution  across Google Accounts on all platforms. Passkeys , backed by the FIDO Alliance, are a more secure way to sign in to apps and websites without having to use a traditional password. This, in turn, can be achieved by simply unlocking their computer or mobile device with their biometrics (e.g., fingerprint or facial recognition) or a local PIN. "And, unlike passwords, passkeys are resistant to online attacks like phishing, making them more secure than things like SMS one-time codes," Google  noted . Passkeys, once created, are locally stored on the device, and are not shared with any other party. This also obviates the need for setting up two-factor authentication, as it proves that "you have access to your device and are able to unlock it." Users also have the choice of creating passkeys for every device they use to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities dismantled the card-checking platform Try2Check<a href="https://securityaffairs.com/145710/cyber-crime/try2check-platform-dismantled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities dismantled the Try2Check platform, a Card-Checking platform that generated tens of millions of dollars in revenue.
+The U.S. DoJ charged the Russian citizen Denis Gennadievich Kulkov with running the Card-Checking services. The platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targets Romanian Telecom Users<a href="https://cyware.com/news/phishing-campaign-targets-romanian-telecom-users-316ba5ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Heimdal Security's SOC team has discovered an ongoing phishing campaign that seems to be aimed at customers of Romanian telecom providers. The fraudulent page requests the victims to submit their credit card information to cover a tax related to changing a delivery address. Experts recommend avoidi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Group Earth Longzhi Resurfaces with Advanced Malware Tactics<a href="https://thehackernews.com/2023/05/chinese-hacker-group-earth-longzhi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored hacking outfit has resurfaced with a new campaign targeting government, healthcare, technology, and manufacturing entities based in Taiwan, Thailand, the Philippines, and Fiji after more than six months of no activity. Trend Micro  attributed  the intrusion set to a cyber espionage group it tracks under the name  Earth Longzhi , which is a subgroup within  APT41  (aka HOODOO or Winnti) and shares overlaps with various other clusters known as Earth Baku, SparklingGoblin, and GroupCC. Earth Longzhi was  first documented  by the cybersecurity firm in November 2022, detailing its attacks against various organizations located in East and Southeast Asia as well as Ukraine. Attack chains mounted by the threat actor leverage vulnerable public-facing applications as entry points to deploy the  BEHINDER web shell , and then leverage that access to drop additional payloads, including a new variant of a Cobalt Strike loader called CroxLoader. "This recent campa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passwordless sign-in with passkeys is now available for Google accounts<a href="https://securityaffairs.com/145697/security/google-passwordless-auth-passkeys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the introduction of the passwordless secure sign-in with Passkeys for Google Accounts on all platforms.
+Google is rolling out the passwordless secure sign-in with Passkeys for Google Accounts on all platforms.
+Passwords are essential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AresLoader Malware Attacking Citrix Users Through Malicious GitLab Repo<a href="https://gbhackers.com/aresloader-malware-attacking-citrix-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble has recently detected AresLoader, a novel loader that is found to be disseminating numerous malware families. Malware loaders are designed to deploy and execute diverse malware strains on the targeted computer system of the victim.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation SpecTor: $53.4 Million Seized, 288 Vendors Arrested in Dark Web Drug Bust<a href="https://thehackernews.com/2023/05/operation-spector-534-million-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation has resulted in the arrest of 288 vendors who are believed to be involved in drug trafficking on the dark web, adding to a long list of  criminal enterprises  that have been shuttered in recent years. The effort, codenamed Operation SpecTor , also saw the authorities confiscating more than $53.4 million in cash and virtual currencies, 850 kg of drugs, and 117 firearms. The largest number of arrests were made in the U.S. (153), followed by the U.K. (55), Germany (52), the Netherlands (10), Austria (9), France (5), Switzerland (2), Poland (1), and Brazil (1). "This represents the most funds seized and the highest number of arrests in any coordinated international action," U.S. Attorney General Merrick B. Garland  said . "The drug traffickers are confident that, by operating anonymously on the dark web, they can operate outside the bounds of the law. They are wrong." The arrests stem from evidence gathered after the  tak
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are taking advantage of the interest in generative AI to install Malware<a href="https://securityaffairs.com/145692/security/generative-ai-lure-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the promise of generative AI like ChatGPT to deliver malware, Facebook parent Meta warned.
+Threat actors are taking advantage of the huge interest in generative AI like ChatGPT to trick victims into installing malware, Meta...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Promising Jobs at the U.S. Postal Service, ‘US Job Services’ Website Leaks Customer Data<a href="https://krebsonsecurity.com/2023/05/promising-jobs-at-the-u-s-postal-service-us-job-services-leaks-customer-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sprawling online company based in Georgia that has made tens of millions of dollars purporting to sell access to jobs at the United States Postal Service (USPS) has exposed its internal IT operations and database of nearly 900,000 customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download the eBook: What Does it Take to be a Full-Fledged Virtual CISO?<a href="https://thehackernews.com/2023/05/download-ebook-what-does-it-take-to-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost half of MSP clients fell victim to a cyberattack within the last 12 months. In the SMB world, the danger is especially acute as only 50% of SMBs have a dedicated internal IT person to take care of cybersecurity. No wonder cybercriminals are targeting SMBs so heavily. No wonder SMBs are increasingly willing to pay a subscription or retainer to gain access to expert C-level cyber-assistance in devising and implementing strategies to prevent breaches, reduce risk, and mitigate the consequences of attacks. Hence the popularity of Virtual Chief Information Security Officer (vCISO) services. They are especially attractive to MSPs and MSSPs as:  They enable service providers to address a growing need from their SMB clients for proactive cyber resilience  They offer the potential to grow recurring revenues - expand into a new customer base or sell a new service to existing customers They help service providers differentiate themselves They are an excellent vehicle from which to u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers found DoS flaws in popular BGP implementation<a href="https://securityaffairs.com/145676/security/bgp-frrouting-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerabilities in a software implementation of the Border Gateway Protocol (BGP) that could be weaponized to trigger a DoS condition on BGP peers.
+Forescout Vedere Labs researchers discovered multiple vulnerabilities in the software implementation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 113 Released With 15 Security Patches<a href="https://www.securityweek.com/chrome-113-released-with-15-security-patches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Released roughly two weeks after Google resolved two zero-day vulnerabilities in the popular browser, the latest Chrome update only resolves medium- and low-severity flaws, despite the major version change.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple and Google Join Forces to Stop Unauthorized Location-Tracking Devices<a href="https://thehackernews.com/2023/05/apple-and-google-join-forces-to-stop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple and Google have  teamed up  to work on a  draft industry-wide specification  that's designed to tackle safety risks and alert users when they are being tracked without their knowledge or permission using devices like AirTags. "The first-of-its-kind specification will allow Bluetooth location-tracking devices to be compatible with unauthorized tracking detection and alerts across Android and iOS platforms," the companies said in a joint statement. While these trackers are primarily designed to keep tabs on personal belongings like keys, wallets, luggage, and other items, such devices have also been abused by bad actors for  criminal or nefarious purposes , including instances of  stalking, harassment, and theft . The goal is to standardize the alerting mechanisms and minimize opportunities for misuse across Bluetooth location-tracking devices from different vendors. To that end, Samsung, Tile, Chipolo, eufy Security, and Pebblebee have all come on board. In doi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most open source maintainers still consider themselves hobbyists, despite compensation pledges<a href="https://www.cybersecuritydive.com/news/60-open-source-maintainers-hobbyists/649170/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite a major push to strengthen the security of the software supply chain, a report released Tuesday from Tidelift shows more than 60% of open source maintainers describe themselves as unpaid hobbyists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting 5-year-old Unpatched Vulnerability in TBK DVR Devices<a href="https://thehackernews.com/2023/05/hackers-exploiting-5-year-old-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting an unpatched five-year-old flaw impacting TBK digital video recording (DVR) devices, according to an advisory issued by Fortinet FortiGuard Labs. The vulnerability in question is  CVE-2018-9995  (CVSS score: 9.8), a critical authentication bypass issue that could be exploited by remote actors to gain elevated permissions. "The 5-year-old vulnerability (CVE-2018-9995) is due to an error when handling a maliciously crafted HTTP cookie," Fortinet  said  in an outbreak alert on May 1, 2023. "A remote attacker may be able to exploit this flaw to bypass authentication and obtain administrative privileges eventually leading access to camera video feeds." The network security company said it observed over 50,000 attempts to exploit TBK DVR devices using the flaw in the month of April 2023. Despite the availability of a proof-of-concept ( PoC ) exploit, there are no fixes that address the vulnerability. The flaw impacts TBK DVR4104
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Murfreesboro Medical Clinic Closed for Multiple Days After Cyberattack<a href="https://rutherfordsource.com/murfreesboro-medical-clinic-closed-for-multiple-days-after-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminal cyberattack on April 22 led Murfreesboro Medical Clinic & SurgiCenter to initiate an emergency shutdown of their network to limit the spread of stolen information within their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 03, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Advisory on Critical RCE Affecting ME RTU Remote Terminal Units<a href="https://thehackernews.com/2023/05/cisa-issues-advisory-on-critical-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday  released  an Industrial Control Systems (ICS) advisory about a critical flaw affecting ME RTU remote terminal units. The security vulnerability, tracked as  CVE-2023-2131 , has received the highest severity rating of 10.0 on the CVSS scoring system for its low attack complexity. "Successful exploitation of this vulnerability could allow remote code execution," CISA  said , describing it as a case of command injection affecting versions of INEA ME RTU firmware prior to  version 3.36 . Security researcher Floris Hendriks of Radboud University has been credited with reporting the issue to CISA. Also published by CISA is an  alert  related to multiple known security holes in Intel(R) processors impacting Factory Automation (FA) products from Mitsubishi Electric that could result in privilege escalation and a denial-of-service (DoS) condition. The development comes as the agency  recommended  criti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Card Skimmers and ATMs Used to Drain EBT Accounts in SoCal<a href="https://www.hackread.com/card-skimmers-atms-drain-ebt-accounts-socal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspects are accused of using card skimmers and ATMs to drain electronic benefit transfer (EBT) accounts, which are used to pay for food through the Supplemental Nutrition Assistance Program (SNAP).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks increasingly use malicious HTML email attachments<a href="https://www.csoonline.com/article/3695075/attacks-increasingly-use-malicious-html-email-attachments.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that attackers are relying more on malicious HTML files in their attacks, with malicious files now accounting for half of all HTML attachments sent via email.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

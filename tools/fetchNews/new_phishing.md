@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targets Romanian Telecom Users<a href="https://cyware.com/news/phishing-campaign-targets-romanian-telecom-users-316ba5ff"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Heimdal Security's SOC team has discovered an ongoing phishing campaign that seems to be aimed at customers of Romanian telecom providers. The fraudulent page requests the victims to submit their credit card information to cover a tax related to changing a delivery address. Experts recommend avoidi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

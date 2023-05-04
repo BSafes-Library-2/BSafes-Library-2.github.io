@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Promising Jobs at the U.S. Postal Service, ‘US Job Services’ Website Leaks Customer Data<a href="https://krebsonsecurity.com/2023/05/promising-jobs-at-the-u-s-postal-service-us-job-services-leaks-customer-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sprawling online company based in Georgia that has made tens of millions of dollars purporting to sell access to jobs at the United States Postal Service (USPS) has exposed its internal IT operations and database of nearly 900,000 customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

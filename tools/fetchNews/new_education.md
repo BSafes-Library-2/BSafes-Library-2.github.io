@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Download the eBook: What Does it Take to be a Full-Fledged Virtual CISO?<a href="https://thehackernews.com/2023/05/download-ebook-what-does-it-take-to-be.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost half of MSP clients fell victim to a cyberattack within the last 12 months. In the SMB world, the danger is especially acute as only 50% of SMBs have a dedicated internal IT person to take care of cybersecurity. No wonder cybercriminals are targeting SMBs so heavily. No wonder SMBs are increasingly willing to pay a subscription or retainer to gain access to expert C-level cyber-assistance in devising and implementing strategies to prevent breaches, reduce risk, and mitigate the consequences of attacks. Hence the popularity of Virtual Chief Information Security Officer (vCISO) services. They are especially attractive to MSPs and MSSPs as:&nbsp; They enable service providers to address a growing need from their SMB clients for proactive cyber resilience&nbsp; They offer the potential to grow recurring revenues - expand into a new customer base or sell a new service to existing customers They help service providers differentiate themselves They are an excellent vehicle from which to u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
