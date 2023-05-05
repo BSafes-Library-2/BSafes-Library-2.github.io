@@ -34,6 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Overview of Malicious Activities in Q1; Telegram Bots in Spotlight<a href="https://cyware.com/news/an-overview-of-malicious-activities-in-q1-telegram-bots-in-spotlight-20e3d467"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Cofense revealed that the volume of malicious campaigns utilizing Telegram bots in Q1 2023 exceeded that of Q4 2022 by 397% and surpassed the entire volume of 2022 by 310%. Additionally, YouTube was listed in the top 10 domains being used by threat actors to launch redirect phishing ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover 3 Vulnerabilities in Microsoft Azure API Management Service<a href="https://thehackernews.com/2023/05/researchers-discover-3-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new security flaws have been disclosed in Microsoft Azure API Management service that could be abused by malicious actors to gain access to sensitive information or backend services. This includes two server-side request forgery (SSRF) flaws and one instance of unrestricted file upload functionality in the API Management developer portal, according to Israeli cloud security firm Ermetic. "By abusing the SSRF vulnerabilities, attackers could send requests from the service's CORS Proxy and the hosting proxy itself, access internal Azure assets, deny service and bypass web application firewalls," security researcher Liv Matan said in a report shared with The Hacker News. "With the file upload path traversal, attackers could upload malicious files to Azure's hosted internal workload." Azure API Management is a  multicloud management platform  that allows organizations to securely expose their APIs to external and internal customers and enable a wide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco EoL SPA112 2-Port Phone Adapters are affected by critical RCE<a href="https://securityaffairs.com/145763/security/cisco-spa112-2-port-phone-adapters-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is warning customers of a critical remote code execution vulnerability affecting its EoL SPA112 2-Port Phone Adapters.
+Cisco is warning of a critical remote code execution (RCE) vulnerability, tracked as CVE-2023-20126 (CVSS score of 9.8), impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon Breath APT Uses Double DLL Sideloading Tactic<a href="https://cyware.com/news/dragon-breath-apt-uses-double-dll-sideloading-tactic-aab66767"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of advanced persistent hackers, who go by the alias Dragon Breath, has adopted a new strategy of utilizing multiple sophisticated versions of the conventional DLL sideloading method to avoid detection. Its attack strategy involves using an initial vector that exploits a legitimate applicati ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Exploit for PaperCut Vulnerability That Can Bypass Detection<a href="https://thehackernews.com/2023/05/researchers-uncover-new-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have found a way to exploit a recently disclosed critical flaw in PaperCut servers in a manner that bypasses all current detections. Tracked as  CVE-2023-27350  (CVSS score: 9.8), the issue affects PaperCut MF and NG installations that could be exploited by an unauthenticated attacker to execute arbitrary code with SYSTEM privileges. While the flaw was  patched  by the Australian company on March 8, 2023, the first signs of active exploitation emerged on April 13, 2023. Since then, the vulnerability has been  weaponized  by multiple threat groups, including  ransomware actors , with post-exploitation activity resulting in the execution of PowerShell commands designed to drop additional payloads. Now, VulnCheck has  published  a proof-of-concept (PoC) exploit that sidesteps existing detection signatures by leveraging the fact that "PaperCut NG and MF offer multiple paths to code execution." It's worth noting that public exploits for the fla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devised a new exploit for the PaperCut flaw that can bypass all current detection<a href="https://securityaffairs.com/145752/hacking/papercut-new-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VulnCheck researchers devised a new exploit for a recently disclosed critical flaw in PaperCut servers that bypasses all current detections.
+Cybersecurity researchers from VulnCheck have developed a new exploit for the recently disclosed critical...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Observe a Spike in Attacks Against TBK DVR Camera Devices<a href="https://cyware.com/news/researchers-observe-a-spike-in-attacks-against-tbk-dvr-camera-devices-2530267c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs warned of attackers exploiting a five-year-old authentication bypass vulnerability in TBK DVR devices, that has over 600,000 cameras and 50,000 recorders installed globally, providing a significant threat to camera video feeds. A remote attacker can also exploit the flaw to bypass a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the Things You Don't Know about the Dark Web May Be Your Biggest Cybersecurity Threat<a href="https://thehackernews.com/2023/05/why-things-you-dont-know-about-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and cybersecurity teams are so inundated with security notifications and alerts within their own systems, it's difficult to monitor external malicious environments – which only makes them that much more threatening.  In March, a high-profile data breach hit national headlines when personally identifiable information connected to hundreds of lawmakers and staff was leaked on the dark web. The cybersecurity incident involved the DC Health Link, an online marketplace that administers health plans for members of Congress and Capitol Hill staff. According to news reports, the FBI had successfully purchased a portion of the data – which included social security numbers and other sensitive information – on the dark web.  Because of the prominence of the victims, the story was picked up by a slew of media outlets that rarely cover dark web-related cybersecurity crimes. The story not only shed light on one of the most dangerous aspects of the internet, it reminded us that the dark web con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook warns of a new information-stealing malware dubbed NodeStealer<a href="https://securityaffairs.com/145743/malware/facebook-warns-of-a-new-information-stealing-malware-dubbed-nodestealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook discovered a new information-stealing malware, dubbed 'NodeStealer,' that is being distributed on Meta.
+NodeStealer is a new information-stealing malware distributed on Meta that allows stealing browser cookies to hijack accounts on multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Websites and ChatGPT - Recipe for High Risk<a href="https://cyware.com/news/fake-websites-and-chatgpt-recipe-for-high-risk-6a234297"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts are cautioning against malware impersonating a ChatGPT Windows desktop client that is capable of copying login credentials from the Google Chrome login data directory. Users are advised to not click on random emails or links without prior knowledge or idea.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia<a href="https://thehackernews.com/2023/05/meta-uncovers-massive-social-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three different threat actors leveraged hundreds of elaborate fictitious personas on Facebook and Instagram to target individuals located in South Asia as part of disparate attacks. "Each of these APTs relied heavily on social engineering to trick people into clicking on malicious links, downloading malware or sharing personal information across the internet," Guy Rosen, chief information security officer at Meta,  said . "This investment in social engineering meant that these threat actors did not have to invest as much on the malware side." The fake accounts, in addition to using traditional lures like women looking for a romantic connection, masqueraded as recruiters, journalists, or military personnel. At least two of the  cyber espionage efforts  entailed the use of low-sophistication malware with reduced capabilities, likely in an attempt to get past  app verification checks  established by Apple and Google.  One of the groups that came under Meta's r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Sandworm APT uses WinRAR in destructive attacks on Ukraine’s public sector<a href="https://securityaffairs.com/145731/cyber-warfare-2/sandworm-apt-winrar-destructive-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA is warning of destructive cyberattacks conducted by the Russia-linked Sandworm APT group against the Ukraine public sector.
+Russia-linked APT group Sandworm is behind destructive cyberattacks against Ukrainian state networks, the Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28APT28 Uses 'Windows Update' Phishing Emails to Target Ukrainian Agencies<a href="https://cyware.com/news/apt28apt28-uses-windows-update-phishing-emails-to-target-ukrainian-agencies-1ebf4bae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored hacking group APT28 is targeting Ukrainian government entities with malicious emails disguised as Windows update instructions - warned CERT-UA. The attack begins with phishing emails sent to employees in government bodies, masquerading as system administrators of their depar ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Takes Down Malware Campaign That Used ChatGPT as a Lure to Steal Accounts<a href="https://thehackernews.com/2023/05/meta-takes-down-malware-campaign-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta said it took steps to take down more than 1,000 malicious URLs from being shared across its services that were found to leverage OpenAI's ChatGPT as a lure to propagate about 10 malware families since March 2023. The development comes  against  the backdrop of  fake ChatGPT   web browser extensions  being increasingly used to steal users' Facebook account credentials with an aim to run unauthorized ads from hijacked business accounts. "Threat actors create malicious browser extensions available in official web stores that claim to offer ChatGPT-based tools," Meta  said . "They would then promote these malicious extensions on social media and through sponsored search results to trick people into downloading malware." The social media giant said it has blocked several iterations of a multi-pronged malware campaign dubbed  Ducktail  over the years, adding it issued a cease and desist letter to individuals behind the operation who are located in Vietna
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Dallas shut down IT services after ransomware attack<a href="https://securityaffairs.com/145723/cyber-crime/city-of-dallas-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Dallas, Texas, was hit by a ransomware attack that forced it to shut down some of its IT systems.
+The IT systems at the City of Dallas, Texas, have been targeted by a ransomware attack. To prevent the threat from spreading within the network,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Surveillance Operations Use BouldSpy to Track Minority Groups<a href="https://cyware.com/news/iranian-surveillance-operations-use-bouldspy-to-track-minority-groups-763d054f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law enforcement command of the Islamic Republic of Iran (FARAJA) is allegedly physically deploying a malware strain known as BouldSpy on the devices of a section of people. As per reports, it is in use since at least 2020 and has claimed more than 300 victims to date. The malware serves the pur ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AresLoader Masquerades as Citrix Project to Drop Multiple Payloads<a href="https://cyware.com/news/aresloader-masquerades-as-citrix-project-to-drop-multiple-payloads-81f529df"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at Cyble laid bare AresLoader, a new type of loader that distributes multiple malware strains, including IcedID, Aurora Stealer, and Laplas Clipper. A GitHub repository masquerading as a Citrix project was being used to distribute the malware. Experts recommend creating multiple lines  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google opens up passkeys to personal account holders<a href="https://www.theregister.com/2023/05/04/google_passkey/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google wants to take us further into a passwordless future by allowing personal account holders to login using passkeys rather than using passphrases and multifactor authentication (MFA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now-Patched Vulnerability in TikTok Could Have Revealed User Activity and Information<a href="https://www.imperva.com/blog/imperva-red-team-discovers-vulnerability-in-tiktok-that-can-reveal-user-activity-and-information/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, which has now been fixed, was caused by a window message event handler that does not properly validate the message origin, providing attackers access to sensitive user information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
