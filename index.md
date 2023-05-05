@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Overview of Malicious Activities in Q1; Telegram Bots in Spotlight<a href="https://cyware.com/news/an-overview-of-malicious-activities-in-q1-telegram-bots-in-spotlight-20e3d467"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover 3 Vulnerabilities in Microsoft Azure API Management Service<a href="https://thehackernews.com/2023/05/researchers-discover-3-vulnerabilities.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco EoL SPA112 2-Port Phone Adapters are affected by critical RCE<a href="https://securityaffairs.com/145763/security/cisco-spa112-2-port-phone-adapters-rce.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dragon Breath APT Uses Double DLL Sideloading Tactic<a href="https://cyware.com/news/dragon-breath-apt-uses-double-dll-sideloading-tactic-aab66767"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Exploit for PaperCut Vulnerability That Can Bypass Detection<a href="https://thehackernews.com/2023/05/researchers-uncover-new-exploit-for.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts devised a new exploit for the PaperCut flaw that can bypass all current detection<a href="https://securityaffairs.com/145752/hacking/papercut-new-exploit.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Observe a Spike in Attacks Against TBK DVR Camera Devices<a href="https://cyware.com/news/researchers-observe-a-spike-in-attacks-against-tbk-dvr-camera-devices-2530267c"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why the Things You Don't Know about the Dark Web May Be Your Biggest Cybersecurity Threat<a href="https://thehackernews.com/2023/05/why-things-you-dont-know-about-dark-web.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook warns of a new information-stealing malware dubbed NodeStealer<a href="https://securityaffairs.com/145743/malware/facebook-warns-of-a-new-information-stealing-malware-dubbed-nodestealer.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Websites and ChatGPT - Recipe for High Risk<a href="https://cyware.com/news/fake-websites-and-chatgpt-recipe-for-high-risk-6a234297"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia<a href="https://thehackernews.com/2023/05/meta-uncovers-massive-social-media.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Sandworm APT uses WinRAR in destructive attacks on Ukraine’s public sector<a href="https://securityaffairs.com/145731/cyber-warfare-2/sandworm-apt-winrar-destructive-attacks.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28APT28 Uses 'Windows Update' Phishing Emails to Target Ukrainian Agencies<a href="https://cyware.com/news/apt28apt28-uses-windows-update-phishing-emails-to-target-ukrainian-agencies-1ebf4bae"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Takes Down Malware Campaign That Used ChatGPT as a Lure to Steal Accounts<a href="https://thehackernews.com/2023/05/meta-takes-down-malware-campaign-that.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Dallas shut down IT services after ransomware attack<a href="https://securityaffairs.com/145723/cyber-crime/city-of-dallas-ransomware-attack.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Surveillance Operations Use BouldSpy to Track Minority Groups<a href="https://cyware.com/news/iranian-surveillance-operations-use-bouldspy-to-track-minority-groups-763d054f"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AresLoader Masquerades as Citrix Project to Drop Multiple Payloads<a href="https://cyware.com/news/aresloader-masquerades-as-citrix-project-to-drop-multiple-payloads-81f529df"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google opens up passkeys to personal account holders<a href="https://www.theregister.com/2023/05/04/google_passkey/?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Now-Patched Vulnerability in TikTok Could Have Revealed User Activity and Information<a href="https://www.imperva.com/blog/imperva-red-team-discovers-vulnerability-in-tiktok-that-can-reveal-user-activity-and-information/?&web_view=true"> Full Text</a>

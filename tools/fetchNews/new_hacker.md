@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Surveillance Operations Use BouldSpy to Track Minority Groups<a href="https://cyware.com/news/iranian-surveillance-operations-use-bouldspy-to-track-minority-groups-763d054f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The law enforcement command of the Islamic Republic of Iran (FARAJA) is allegedly physically deploying a malware strain known as BouldSpy on the devices of a section of people. As per reports, it is in use since at least 2020 and has claimed more than 300 victims to date. The malware serves the pur ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

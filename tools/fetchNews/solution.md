@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Introduces Passwordless Secure Sign-In with Passkeys for Google Accounts<a href="https://thehackernews.com/2023/05/google-introduces-passwordless-secure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Almost five months after Google&nbsp; added support &nbsp;for passkeys to its Chrome browser, the tech giant has begun rolling out the&nbsp; passwordless solution &nbsp;across Google Accounts on all platforms. Passkeys , backed by the FIDO Alliance, are a more secure way to sign in to apps and websites without having to use a traditional password. This, in turn, can be achieved by simply unlocking their computer or mobile device with their biometrics (e.g., fingerprint or facial recognition) or a local PIN. "And, unlike passwords, passkeys are resistant to online attacks like phishing, making them more secure than things like SMS one-time codes," Google&nbsp; noted . Passkeys, once created, are locally stored on the device, and are not shared with any other party. This also obviates the need for setting up two-factor authentication, as it proves that "you have access to your device and are able to unlock it." Users also have the choice of creating passkeys for every device they use to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

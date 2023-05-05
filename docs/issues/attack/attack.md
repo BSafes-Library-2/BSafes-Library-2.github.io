@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Observe a Spike in Attacks Against TBK DVR Camera Devices<a href="https://cyware.com/news/researchers-observe-a-spike-in-attacks-against-tbk-dvr-camera-devices-2530267c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs warned of attackers exploiting a five-year-old authentication bypass vulnerability in TBK DVR devices, that has over 600,000 cameras and 50,000 recorders installed globally, providing a significant threat to camera video feeds. A remote attacker can also exploit the flaw to bypass a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Takes Down Malware Campaign That Used ChatGPT as a Lure to Steal Accounts<a href="https://thehackernews.com/2023/05/meta-takes-down-malware-campaign-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta said it took steps to take down more than 1,000 malicious URLs from being shared across its services that were found to leverage OpenAI's ChatGPT as a lure to propagate about 10 malware families since March 2023. The development comes&nbsp; against &nbsp;the backdrop of&nbsp; fake ChatGPT &nbsp; web browser extensions &nbsp;being increasingly used to steal users' Facebook account credentials with an aim to run unauthorized ads from hijacked business accounts. "Threat actors create malicious browser extensions available in official web stores that claim to offer ChatGPT-based tools," Meta&nbsp; said . "They would then promote these malicious extensions on social media and through sponsored search results to trick people into downloading malware." The social media giant said it has blocked several iterations of a multi-pronged malware campaign dubbed&nbsp; Ducktail &nbsp;over the years, adding it issued a cease and desist letter to individuals behind the operation who are located in Vietna
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

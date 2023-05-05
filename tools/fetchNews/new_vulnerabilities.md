@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover 3 Vulnerabilities in Microsoft Azure API Management Service<a href="https://thehackernews.com/2023/05/researchers-discover-3-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new security flaws have been disclosed in Microsoft Azure API Management service that could be abused by malicious actors to gain access to sensitive information or backend services. This includes two server-side request forgery (SSRF) flaws and one instance of unrestricted file upload functionality in the API Management developer portal, according to Israeli cloud security firm Ermetic. "By abusing the SSRF vulnerabilities, attackers could send requests from the service's CORS Proxy and the hosting proxy itself, access internal Azure assets, deny service and bypass web application firewalls," security researcher Liv Matan said in a report shared with The Hacker News. "With the file upload path traversal, attackers could upload malicious files to Azure's hosted internal workload." Azure API Management is a&nbsp; multicloud management platform &nbsp;that allows organizations to securely expose their APIs to external and internal customers and enable a wide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco EoL SPA112 2-Port Phone Adapters are affected by critical RCE<a href="https://securityaffairs.com/145763/security/cisco-spa112-2-port-phone-adapters-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is warning customers of a critical remote code execution vulnerability affecting its EoL SPA112 2-Port Phone Adapters.
+Cisco is warning of a critical remote code execution (RCE) vulnerability, tracked as CVE-2023-20126 (CVSS score of 9.8), impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Exploit for PaperCut Vulnerability That Can Bypass Detection<a href="https://thehackernews.com/2023/05/researchers-uncover-new-exploit-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have found a way to exploit a recently disclosed critical flaw in PaperCut servers in a manner that bypasses all current detections. Tracked as&nbsp; CVE-2023-27350 &nbsp;(CVSS score: 9.8), the issue affects PaperCut MF and NG installations that could be exploited by an unauthenticated attacker to execute arbitrary code with SYSTEM privileges. While the flaw was&nbsp; patched &nbsp;by the Australian company on March 8, 2023, the first signs of active exploitation emerged on April 13, 2023. Since then, the vulnerability has been&nbsp; weaponized &nbsp;by multiple threat groups, including&nbsp; ransomware actors , with post-exploitation activity resulting in the execution of PowerShell commands designed to drop additional payloads. Now, VulnCheck has&nbsp; published &nbsp;a proof-of-concept (PoC) exploit that sidesteps existing detection signatures by leveraging the fact that "PaperCut NG and MF offer multiple paths to code execution." It's worth noting that public exploits for the fla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now-Patched Vulnerability in TikTok Could Have Revealed User Activity and Information<a href="https://www.imperva.com/blog/imperva-red-team-discovers-vulnerability-in-tiktok-that-can-reveal-user-activity-and-information/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, which has now been fixed, was caused by a window message event handler that does not properly validate the message origin, providing attackers access to sensitive user information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
