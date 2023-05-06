@@ -34,7 +34,493 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Cracks Down on South Asian Cyberespionage Groups<a href="https://www.bankinfosecurity.com/meta-cracks-down-on-south-asian-cyberespionage-groups-a-21992?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media giant Meta took down hundreds of fake Facebook and Instagram accounts used by South Asia advanced persistent threat groups to glean sensitive information and coax users into installing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon Breath APT Group Using Double-Clean-App Technique to Target Gambling Industry<a href="https://thehackernews.com/2023/05/dragon-breath-apt-group-using-double.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor known as  Dragon Breath  has been observed adding new layers of complexity to its attacks by adopting a novel  DLL side-loading  mechanism. "The attack is based on a classic side-loading attack, consisting of a clean application, a malicious loader, and an encrypted payload, with various modifications made to these components over time," Sophos researcher Gabor Szappanos  said . "The latest campaigns add a twist in which a first-stage clean application 'side'-loads a second clean application and auto-executes it. The second clean application side-loads the malicious loader DLL. After that, the malicious loader DLL executes the final payload." Operation Dragon Breath, also tracked under the names APT-Q-27 and Golden Eye, was  first   documented  by QiAnXin in 2020, detailing a watering hole campaign designed to trick users into downloading a trojanized Windows installer for Telegram. A  subsequent   campaign  de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Advanced Custom Fields plugin XSS exposes +2M sites to attacks<a href="https://securityaffairs.com/145847/hacking/wordpress-advanced-custom-fields-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reflected cross-site scripting vulnerability is the Advanced Custom Fields plugin for WordPress exposed over 2 million sites to hacking.
+Assetnote researchers discovered a reflected cross-site scripting vulnerability, tracked as CVE-2023-29489 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability in Popular WordPress Plugin Exposes Over 2 Million Sites to Cyberattacks<a href="https://thehackernews.com/2023/05/new-vulnerability-in-popular-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Advanced Custom Fields plugin for WordPress are being urged to update version 6.1.6 following the discovery of a security flaw. The issue, assigned the identifier CVE-2023-30777, relates to a case of reflected cross-site scripting (XSS) that could be abused to inject arbitrary executable scripts into otherwise benign websites. The plugin, which is available both as a free and pro version, has over  two million active installations . The issue was discovered and reported to the maintainers on May 2, 2023. "This vulnerability allows any unauthenticated user from stealing sensitive information to, in this case, privilege escalation on the WordPress site by tricking a privileged user to visit the crafted URL path," Patchstack researcher Rafie Muhammad  said . Reflected XSS  attacks usually occur when victims are tricked into clicking on a bogus link sent via email or another route, causing the malicious code to be sent to the vulnerable website, which reflects the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 5th 2023 - Targeting the public sector<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-5th-2023-targeting-the-public-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's ransomware news has been dominated by a Royal ransomware attack on the City of Dallas that took down part of the IT infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android FluHorse malware steals your passwords, 2FA codes<a href="https://www.bleepingcomputer.com/news/security/new-android-fluhorse-malware-steals-your-passwords-2fa-codes/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware called 'FluHorse' has been discovered, targeting users in Eastern Asia with malicious apps that imitate legitimate versions.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hackers Claim Downing of French Senate Website<a href="https://www.securityweek.com/pro-russian-hackers-claim-downing-of-french-senate-website/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Access to the site has been disrupted since this morning,” the upper house of Parliament said on Twitter shortly before midday, saying a team was busy fixing the problem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed two severe issues in FortiADC and FortiOS<a href="https://securityaffairs.com/145825/security/fortinet-fortiadc-fortios-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has addressed a couple of high-severity vulnerabilities impacting FortiADC, FortiOS, and FortiProxy.
+Fortinet addressed nine security vulnerabilities affecting multiple products, including two high-severity issues, tracked as CVE-2023-27999...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android updates fix kernel bug exploited in spyware attacks<a href="https://www.bleepingcomputer.com/news/security/new-android-updates-fix-kernel-bug-exploited-in-spyware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android security updates released this month patch a high-severity vulnerability exploited as a zero-day to install commercial spyware on compromised devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure API Management Vulnerabilities Allowed Unauthorized Access<a href="https://www.securityweek.com/azure-api-management-vulnerabilities-allowed-unauthorized-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities in the Azure API Management service could be exploited to perform various types of malicious actions, cloud security company Ermetic reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware 'FluHorse' Targeting East Asian Markets with Deceptive Tactics<a href="https://thehackernews.com/2023/05/new-android-malware-fluhorse-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Various sectors in East Asian markets have been subjected to a new email phishing campaign that distributes a previously undocumented strain of Android malware called  FluHorse  that abuses the Flutter software development framework. "The malware features several malicious Android applications that mimic legitimate applications, most of which have more than 1,000,000 installs," Check Point  said  in a technical report. "These malicious apps steal the victims' credentials and two-factor authentication (2FA) codes." The malicious apps have been found to imitate popular apps like ETC and VPBank Neo, which are widely used in Taiwan and Vietnam. Evidence gathered so far shows that the activity has been active since at least May 2022.  The phishing scheme in itself is fairly straightforward, wherein victims are lured with emails that contain links to a bogus website that hosts malicious APK files. Also added to the website are checks that aim to screen victims an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group NoName took down multiple France sites, including the French Senate one<a href="https://securityaffairs.com/145813/hacktivism/noname-ddos-french-senate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French Senate’s website was taken offline by a DDoS attack launched by the pro-Russian hacker group NoName.
+The pro-Russia hacker group NoName is claiming responsibility for a DDoS attack that took the website of the French Senate offline.
+"Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV gang claims ransomware attack on Constellation Software<a href="https://www.bleepingcomputer.com/news/security/alphv-gang-claims-ransomware-attack-on-constellation-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian diversified software company Constellation Software confirmed on Thursday that some of its systems were breached by threat actors who also stole personal information and business data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches High-Severity Vulnerabilities in FortiADC, FortiOS<a href="https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities-in-fortiadc-fortios/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet this week announced its monthly set of security updates that address nine vulnerabilities in multiple products, including two high-severity bugs in FortiADC, FortiOS, and FortiProxy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Italian Corporate Banking Clients with New Web-Inject Toolkit DrIBAN<a href="https://thehackernews.com/2023/05/hackers-targeting-italian-corporate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian corporate banking clients are the target of an ongoing financial fraud campaign that has been leveraging a new web-inject toolkit called  drIBAN  since at least 2019. "The main goal of drIBAN fraud operations is to infect Windows workstations inside corporate environments trying to alter legitimate banking transfers performed by the victims by changing the beneficiary and transferring money to an illegitimate bank account," Cleafy researchers Federico Valentini and Alessandro Strino  said . The bank accounts, per the Italian cybersecurity firm, are either controlled by the threat actors themselves or their affiliates, who are then tasked with laundering the stolen funds. The use of web injects is a time-tested tactic that makes it possible for malware to inject custom scripts on the client side by means of a man-in-the-browser ( MitB ) attack and intercept traffic to and from the server. The fraudulent transactions are often realized by means of a technique call
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Kimsuky APT uses new recon tool ReconShark<a href="https://securityaffairs.com/145781/apt/kimsuky-reconshark-recon-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Kimsuky has been observed using a new reconnaissance tool dubbed ReconShark in a recent campaign.
+SentinelOne researchers observed an ongoing campaign from North Korea-linked Kimsuky Group that is using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress custom field plugin bug exposes over 1M sites to XSS attacks<a href="https://www.bleepingcomputer.com/news/security/wordpress-custom-field-plugin-bug-exposes-over-1m-sites-to-xss-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn that the 'Advanced Custom Fields' and 'Advanced Custom Fields Pro' WordPress plugins, with millions of installs, are vulnerable to cross-site scripting attacks (XSS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Could Have Been Exploited for ‘Unlimited’ Free Credit on OpenAI Accounts<a href="https://www.securityweek.com/vulnerability-could-have-been-exploited-for-unlimited-free-credit-on-openai-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in OpenAI’s account validation process allowed anyone to obtain virtually unlimited free credit for the company’s services by registering new accounts using the same phone number, application security firm Checkmarx says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Kimsuky Hackers Using New Recon Tool ReconShark in Latest Cyberattacks<a href="https://thehackernews.com/2023/05/n-korean-kimsuky-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean state-sponsored threat actor known as  Kimsuky  has been discovered using a new reconnaissance tool called  ReconShark  as part of an ongoing global campaign. "[ReconShark] is actively delivered to specifically targeted individuals through spear-phishing emails, OneDrive links leading to document downloads, and the execution of malicious macros," SentinelOne researchers Tom Hegel and Aleksandar Milenkoski  said . Kimsuky  is also known by the names APT43, ARCHIPELAGO, Black Banshee, Nickel Kimball, Emerald Sleet (previously Thallium), and Velvet Chollima. Active since at least 2012, the  prolific   threat actor  has been linked to  targeted   attacks  on non-governmental organizations (NGOs), think tanks, diplomatic agencies, military organizations, economic groups, and research entities across North America, Asia, and Europe. The latest intrusion set documented by SentinelOne leverages geopolitical themes related to North Korea's nuclear proliferat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fleckpe Android malware totaled +620K downloads via Google Play Store<a href="https://securityaffairs.com/145771/malware/fleckpe-android-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fleckpe is a new Android subscription Trojan that was discovered in the Google Play Store, totaling more than 620,000 downloads since 2022.
+Fleckpe is a new Android subscription Trojan that spreads via Google Play, the malware discovered by Kaspersky...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of Visibility: The Challenge of Protecting Websites from Third-Party Scripts<a href="https://thehackernews.com/2023/05/lack-of-visibility-challenge-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Third-party apps such as Google Analytics, Meta Pixel, HotJar, and JQuery have become critical tools for businesses to optimize their website performance and services for a global audience. However, as their importance has grown, so has the threat of cyber incidents involving unmanaged third-party apps and open-source tools. Online businesses increasingly struggle to maintain complete visibility and control over the ever-changing third-party threat landscape, with sophisticated threats like evasive skimmers, Magecart attacks, and unlawful tracking practices potentially causing severe damage. This article explores the challenges of protecting modern websites from third-party scripts and the security risks associated with a lack of visibility over these scripts. Invisible to Standard Security Controls  Third-party scripts are often invisible to standard security controls like Web Application Firewalls (WAFs) because they are loaded from external sources that are not under the control
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Packagist Repository Hacked: Over a Dozen PHP Packages with 500 Million Installs Compromised<a href="https://thehackernews.com/2023/05/packagist-repository-hacked-over-dozen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PHP software package repository Packagist revealed that an "attacker" gained access to four inactive accounts on the platform to hijack over a dozen packages with over 500 million installs to date. "The attacker forked each of the packages and replaced the package description in  composer.json  with their own message but did not otherwise make any malicious changes," Packagist's Nils Adermann  said . "The package URLs were then changed to point to the forked repositories." The four user accounts are said to have had access to a total of 14 packages, including multiple Doctrine packages. The incident took place on May 1, 2023. The complete list of impacted packages is as follows - acmephp/acmephp acmephp/core acmephp/ssl doctrine/doctrine-cache-bundle doctrine/doctrine-module doctrine/doctrine-mongo-odm-module doctrine/doctrine-orm-module doctrine/instantiator growthbook/growthbook jdorn/file-system-cache jdorn/sql-formatter khanamiryan/
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fleckpe Android Malware Sneaks onto Google Play Store with Over 620,000 Downloads<a href="https://thehackernews.com/2023/05/fleckpe-android-malware-sneaks-onto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android subscription malware named  Fleckpe  has been unearthed on the Google Play Store, amassing more than 620,000 downloads in total since 2022. Kaspersky, which identified 11 apps on the official app storefront, said the malware masqueraded as legitimate photo editing apps, camera, and smartphone wallpaper packs. The apps have since been taken down. The operation primarily targets users from Thailand, although telemetry data gathered by the Russian cybersecurity firm has revealed victims in Poland, Malaysia, Indonesia, and Singapore. The apps further offer the promised functionality to avoid raising red flags, but conceal their real purpose under the hood. The list of the offending apps is as follows - Beauty Camera Plus (com.beauty.camera.plus.photoeditor) Beauty Photo Camera (com.apps.camera.photos) Beauty Slimming Photo Editor (com.beauty.slimming.pro) Fingertip Graffiti (com.draw.graffiti) GIF Camera Editor (com.gif.camera.editor) HD 4K Wallpaper (com.hd.h4ks.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Vulnerability in Popular Phone Adapter, Urges Migration to Newer Model<a href="https://thehackernews.com/2023/05/cisco-warns-of-vulnerability-in-popular.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has warned of a critical security flaw in SPA112 2-Port Phone Adapters that it said could be exploited by a remote attacker to execute arbitrary code on affected devices. The issue, tracked as  CVE-2023-20126 , is rated 9.8 out of a maximum of 10 on the CVSS scoring system. The company credited Catalpa of DBappSecurity for reporting the shortcoming. The  product in question  makes it possible to connect analog phones and fax machines to a VoIP service provider without requiring an upgrade. "This vulnerability is due to a missing authentication process within the firmware upgrade function," the company  said  in a bulletin. "An attacker could exploit this vulnerability by upgrading an affected device to a crafted version of firmware. A successful exploit could allow the attacker to execute arbitrary code on the affected device with full privileges." Despite the severity of the flaw, the networking equipment maker said it does not intend to release fixes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky hackers use new recon tool to find security gaps<a href="https://www.bleepingcomputer.com/news/security/kimsuky-hackers-use-new-recon-tool-to-find-security-gaps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean Kimsuky hacking group has been observed employing a new version of its reconnaissance malware, now called 'ReconShark,' in a cyberespionage campaign with a global reach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get 50% off Malwarebytes Premium + Privacy in this limited-time deal<a href="https://www.bleepingcomputer.com/news/security/get-50-percent-off-malwarebytes-premium-plus-privacy-in-this-limited-time-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you are concerned about the security and privacy of your online activities, this new 50% off Malwarebytes deal can bring you peace of mind.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Fleckpe Android malware installed 600K times on Google Play<a href="https://www.bleepingcomputer.com/news/security/new-fleckpe-android-malware-installed-600k-times-on-google-play/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android subscription malware named 'Fleckpe' has been spotted on Google Play, the official Android app store, disguised as legitimate apps downloaded over 620,000 times.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco phone adapters vulnerable to RCE attacks, no fix available<a href="https://www.bleepingcomputer.com/news/security/cisco-phone-adapters-vulnerable-to-rce-attacks-no-fix-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed a vulnerability in the web-based management interface of Cisco SPA112 2-Port Phone Adapters, allowing an unauthenticated, remote attacker to execute arbitrary code on the devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang hijacks university alert system to issue threats<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-hijacks-university-alert-system-to-issue-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avos ransomware gang hijacked Bluefield University's emergency broadcast system, "RamAlert," to send students and staff SMS texts and email alerts that their data was stolen and would soon be released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How To Create Seamless Digital Experiences For Web And Mobile<a href="https://www.bleepingcomputer.com/news/security/how-to-create-seamless-digital-experiences-for-web-and-mobile/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are simple steps to follow when an organization is developing a web application or needs to lift its digital experience and match a customer's expectations. Learn more here from LambdaTest.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Overview of Malicious Activities in Q1; Telegram Bots in Spotlight<a href="https://cyware.com/news/an-overview-of-malicious-activities-in-q1-telegram-bots-in-spotlight-20e3d467"> Full Text</a>
@@ -50,7 +536,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover 3 Vulnerabilities in Microsoft Azure API Management Service<a href="https://thehackernews.com/2023/05/researchers-discover-3-vulnerabilities.html"> Full Text</a>
@@ -66,7 +552,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco EoL SPA112 2-Port Phone Adapters are affected by critical RCE<a href="https://securityaffairs.com/145763/security/cisco-spa112-2-port-phone-adapters-rce.html"> Full Text</a>
@@ -83,7 +569,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dragon Breath APT Uses Double DLL Sideloading Tactic<a href="https://cyware.com/news/dragon-breath-apt-uses-double-dll-sideloading-tactic-aab66767"> Full Text</a>
@@ -99,7 +585,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Exploit for PaperCut Vulnerability That Can Bypass Detection<a href="https://thehackernews.com/2023/05/researchers-uncover-new-exploit-for.html"> Full Text</a>
@@ -115,7 +601,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts devised a new exploit for the PaperCut flaw that can bypass all current detection<a href="https://securityaffairs.com/145752/hacking/papercut-new-exploit.html"> Full Text</a>
@@ -132,7 +618,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Observe a Spike in Attacks Against TBK DVR Camera Devices<a href="https://cyware.com/news/researchers-observe-a-spike-in-attacks-against-tbk-dvr-camera-devices-2530267c"> Full Text</a>
@@ -148,7 +634,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why the Things You Don't Know about the Dark Web May Be Your Biggest Cybersecurity Threat<a href="https://thehackernews.com/2023/05/why-things-you-dont-know-about-dark-web.html"> Full Text</a>
@@ -164,7 +650,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook warns of a new information-stealing malware dubbed NodeStealer<a href="https://securityaffairs.com/145743/malware/facebook-warns-of-a-new-information-stealing-malware-dubbed-nodestealer.html"> Full Text</a>
@@ -181,7 +667,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Websites and ChatGPT - Recipe for High Risk<a href="https://cyware.com/news/fake-websites-and-chatgpt-recipe-for-high-risk-6a234297"> Full Text</a>
@@ -197,7 +683,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia<a href="https://thehackernews.com/2023/05/meta-uncovers-massive-social-media.html"> Full Text</a>
@@ -213,7 +699,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked Sandworm APT uses WinRAR in destructive attacks on Ukraine’s public sector<a href="https://securityaffairs.com/145731/cyber-warfare-2/sandworm-apt-winrar-destructive-attacks.html"> Full Text</a>
@@ -230,7 +716,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28APT28 Uses 'Windows Update' Phishing Emails to Target Ukrainian Agencies<a href="https://cyware.com/news/apt28apt28-uses-windows-update-phishing-emails-to-target-ukrainian-agencies-1ebf4bae"> Full Text</a>
@@ -246,7 +732,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 04, 2023
+May 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Takes Down Malware Campaign That Used ChatGPT as a Lure to Steal Accounts<a href="https://thehackernews.com/2023/05/meta-takes-down-malware-campaign-that.html"> Full Text</a>
@@ -262,7 +748,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 City of Dallas shut down IT services after ransomware attack<a href="https://securityaffairs.com/145723/cyber-crime/city-of-dallas-ransomware-attack.html"> Full Text</a>
@@ -279,7 +765,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Surveillance Operations Use BouldSpy to Track Minority Groups<a href="https://cyware.com/news/iranian-surveillance-operations-use-bouldspy-to-track-minority-groups-763d054f"> Full Text</a>
@@ -295,7 +781,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AresLoader Masquerades as Citrix Project to Drop Multiple Payloads<a href="https://cyware.com/news/aresloader-masquerades-as-citrix-project-to-drop-multiple-payloads-81f529df"> Full Text</a>
@@ -311,7 +797,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google opens up passkeys to personal account holders<a href="https://www.theregister.com/2023/05/04/google_passkey/?&web_view=true"> Full Text</a>
@@ -327,7 +813,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2023
+May 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Now-Patched Vulnerability in TikTok Could Have Revealed User Activity and Information<a href="https://www.imperva.com/blog/imperva-red-team-discovers-vulnerability-in-tiktok-that-can-reveal-user-activity-and-information/?&web_view=true"> Full Text</a>
