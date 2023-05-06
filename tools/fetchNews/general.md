@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the Things You Don't Know about the Dark Web May Be Your Biggest Cybersecurity Threat<a href="https://thehackernews.com/2023/05/why-things-you-dont-know-about-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT and cybersecurity teams are so inundated with security notifications and alerts within their own systems, it's difficult to monitor external malicious environments – which only makes them that much more threatening.&nbsp; In March, a high-profile data breach hit national headlines when personally identifiable information connected to hundreds of lawmakers and staff was leaked on the dark web. The cybersecurity incident involved the DC Health Link, an online marketplace that administers health plans for members of Congress and Capitol Hill staff. According to news reports, the FBI had successfully purchased a portion of the data – which included social security numbers and other sensitive information – on the dark web.&nbsp; Because of the prominence of the victims, the story was picked up by a slew of media outlets that rarely cover dark web-related cybersecurity crimes. The story not only shed light on one of the most dangerous aspects of the internet, it reminded us that the dark web con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Websites and ChatGPT - Recipe for High Risk<a href="https://cyware.com/news/fake-websites-and-chatgpt-recipe-for-high-risk-6a234297"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts are cautioning against malware impersonating a ChatGPT Windows desktop client that is capable of copying login credentials from the Google Chrome login data directory. Users are advised to not click on random emails or links without prior knowledge or idea.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Uncovers Massive Social Media Cyber Espionage Operations Across South Asia<a href="https://thehackernews.com/2023/05/meta-uncovers-massive-social-media.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three different threat actors leveraged hundreds of elaborate fictitious personas on Facebook and Instagram to target individuals located in South Asia as part of disparate attacks. "Each of these APTs relied heavily on social engineering to trick people into clicking on malicious links, downloading malware or sharing personal information across the internet," Guy Rosen, chief information security officer at Meta,&nbsp; said . "This investment in social engineering meant that these threat actors did not have to invest as much on the malware side." The fake accounts, in addition to using traditional lures like women looking for a romantic connection, masqueraded as recruiters, journalists, or military personnel. At least two of the&nbsp; cyber espionage efforts &nbsp;entailed the use of low-sophistication malware with reduced capabilities, likely in an attempt to get past&nbsp; app verification checks &nbsp;established by Apple and Google.&nbsp; One of the groups that came under Meta's r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google opens up passkeys to personal account holders<a href="https://www.theregister.com/2023/05/04/google_passkey/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google wants to take us further into a passwordless future by allowing personal account holders to login using passkeys rather than using passphrases and multifactor authentication (MFA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

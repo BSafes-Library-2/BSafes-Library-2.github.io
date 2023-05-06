@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Packagist Repository Hacked: Over a Dozen PHP Packages with 500 Million Installs Compromised<a href="https://thehackernews.com/2023/05/packagist-repository-hacked-over-dozen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PHP software package repository Packagist revealed that an "attacker" gained access to four inactive accounts on the platform to hijack over a dozen packages with over 500 million installs to date. "The attacker forked each of the packages and replaced the package description in&nbsp; composer.json &nbsp;with their own message but did not otherwise make any malicious changes," Packagist's Nils Adermann&nbsp; said . "The package URLs were then changed to point to the forked repositories." The four user accounts are said to have had access to a total of 14 packages, including multiple Doctrine packages. The incident took place on May 1, 2023. The complete list of impacted packages is as follows - acmephp/acmephp acmephp/core acmephp/ssl doctrine/doctrine-cache-bundle doctrine/doctrine-module doctrine/doctrine-mongo-odm-module doctrine/doctrine-orm-module doctrine/instantiator growthbook/growthbook jdorn/file-system-cache jdorn/sql-formatter khanamiryan/
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

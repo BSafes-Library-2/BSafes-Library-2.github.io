@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Overview of Malicious Activities in Q1; Telegram Bots in Spotlight<a href="https://cyware.com/news/an-overview-of-malicious-activities-in-q1-telegram-bots-in-spotlight-20e3d467"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by Cofense revealed that the volume of malicious campaigns utilizing Telegram bots in Q1 2023 exceeded that of Q4 2022 by 397% and surpassed the entire volume of 2022 by 310%. Additionally, YouTube was listed in the top 10 domains being used by threat actors to launch redirect phishing ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,148 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Advanced Custom Fields plugin XSS exposes +2M sites to attacks<a href="https://securityaffairs.com/145847/hacking/wordpress-advanced-custom-fields-xss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reflected cross-site scripting vulnerability is the Advanced Custom Fields plugin for WordPress exposed over 2 million sites to hacking.
+Assetnote researchers discovered a reflected cross-site scripting vulnerability, tracked as CVE-2023-29489 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerability in Popular WordPress Plugin Exposes Over 2 Million Sites to Cyberattacks<a href="https://thehackernews.com/2023/05/new-vulnerability-in-popular-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Advanced Custom Fields plugin for WordPress are being urged to update version 6.1.6 following the discovery of a security flaw. The issue, assigned the identifier CVE-2023-30777, relates to a case of reflected cross-site scripting (XSS) that could be abused to inject arbitrary executable scripts into otherwise benign websites. The plugin, which is available both as a free and pro version, has over&nbsp; two million active installations . The issue was discovered and reported to the maintainers on May 2, 2023. "This vulnerability allows any unauthenticated user from stealing sensitive information to, in this case, privilege escalation on the WordPress site by tricking a privileged user to visit the crafted URL path," Patchstack researcher Rafie Muhammad&nbsp; said . Reflected XSS &nbsp;attacks usually occur when victims are tricked into clicking on a bogus link sent via email or another route, causing the malicious code to be sent to the vulnerable website, which reflects the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed two severe issues in FortiADC and FortiOS<a href="https://securityaffairs.com/145825/security/fortinet-fortiadc-fortios-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has addressed a couple of high-severity vulnerabilities impacting FortiADC, FortiOS, and FortiProxy.
+Fortinet addressed nine security vulnerabilities affecting multiple products, including two high-severity issues, tracked as CVE-2023-27999...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android updates fix kernel bug exploited in spyware attacks<a href="https://www.bleepingcomputer.com/news/security/new-android-updates-fix-kernel-bug-exploited-in-spyware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android security updates released this month patch a high-severity vulnerability exploited as a zero-day to install commercial spyware on compromised devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure API Management Vulnerabilities Allowed Unauthorized Access<a href="https://www.securityweek.com/azure-api-management-vulnerabilities-allowed-unauthorized-access/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities in the Azure API Management service could be exploited to perform various types of malicious actions, cloud security company Ermetic reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches High-Severity Vulnerabilities in FortiADC, FortiOS<a href="https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities-in-fortiadc-fortios/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet this week announced its monthly set of security updates that address nine vulnerabilities in multiple products, including two high-severity bugs in FortiADC, FortiOS, and FortiProxy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress custom field plugin bug exposes over 1M sites to XSS attacks<a href="https://www.bleepingcomputer.com/news/security/wordpress-custom-field-plugin-bug-exposes-over-1m-sites-to-xss-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers warn that the 'Advanced Custom Fields' and 'Advanced Custom Fields Pro' WordPress plugins, with millions of installs, are vulnerable to cross-site scripting attacks (XSS).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Could Have Been Exploited for ‘Unlimited’ Free Credit on OpenAI Accounts<a href="https://www.securityweek.com/vulnerability-could-have-been-exploited-for-unlimited-free-credit-on-openai-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in OpenAI’s account validation process allowed anyone to obtain virtually unlimited free credit for the company’s services by registering new accounts using the same phone number, application security firm Checkmarx says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Vulnerability in Popular Phone Adapter, Urges Migration to Newer Model<a href="https://thehackernews.com/2023/05/cisco-warns-of-vulnerability-in-popular.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has warned of a critical security flaw in SPA112 2-Port Phone Adapters that it said could be exploited by a remote attacker to execute arbitrary code on affected devices. The issue, tracked as&nbsp; CVE-2023-20126 , is rated 9.8 out of a maximum of 10 on the CVSS scoring system. The company credited Catalpa of DBappSecurity for reporting the shortcoming. The&nbsp; product in question &nbsp;makes it possible to connect analog phones and fax machines to a VoIP service provider without requiring an upgrade. "This vulnerability is due to a missing authentication process within the firmware upgrade function," the company&nbsp; said &nbsp;in a bulletin. "An attacker could exploit this vulnerability by upgrading an affected device to a crafted version of firmware. A successful exploit could allow the attacker to execute arbitrary code on the affected device with full privileges." Despite the severity of the flaw, the networking equipment maker said it does not intend to release fixes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco phone adapters vulnerable to RCE attacks, no fix available<a href="https://www.bleepingcomputer.com/news/security/cisco-phone-adapters-vulnerable-to-rce-attacks-no-fix-available/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has disclosed a vulnerability in the web-based management interface of Cisco SPA112 2-Port Phone Adapters, allowing an unauthenticated, remote attacker to execute arbitrary code on the devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon Breath APT Uses Double DLL Sideloading Tactic<a href="https://cyware.com/news/dragon-breath-apt-uses-double-dll-sideloading-tactic-aab66767"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of advanced persistent hackers, who go by the alias Dragon Breath, has adopted a new strategy of utilizing multiple sophisticated versions of the conventional DLL sideloading method to avoid detection. Its attack strategy involves using an initial vector that exploits a legitimate applicati ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked Sandworm APT uses WinRAR in destructive attacks on Ukraine’s public sector<a href="https://securityaffairs.com/145731/cyber-warfare-2/sandworm-apt-winrar-destructive-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA is warning of destructive cyberattacks conducted by the Russia-linked Sandworm APT group against the Ukraine public sector.
+Russia-linked APT group Sandworm is behind destructive cyberattacks against Ukrainian state networks, the Ukrainian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28APT28 Uses 'Windows Update' Phishing Emails to Target Ukrainian Agencies<a href="https://cyware.com/news/apt28apt28-uses-windows-update-phishing-emails-to-target-ukrainian-agencies-1ebf4bae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored hacking group APT28 is targeting Ukrainian government entities with malicious emails disguised as Windows update instructions - warned CERT-UA. The attack begins with phishing emails sent to employees in government bodies, masquerading as system administrators of their depar ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

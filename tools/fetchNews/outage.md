@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+May 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Dallas shut down IT services after ransomware attack<a href="https://securityaffairs.com/145723/cyber-crime/city-of-dallas-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The City of Dallas, Texas, was hit by a ransomware attack that forced it to shut down some of its IT systems.
+The IT systems at the City of Dallas, Texas, have been targeted by a ransomware attack. To prevent the threat from spreading within the network,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

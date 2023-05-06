@@ -8,6 +8,22 @@ nav_order: 900140
 
 ## Outage
 ---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia group NoName took down multiple France sites, including the French Senate one<a href="https://securityaffairs.com/145813/hacktivism/noname-ddos-french-senate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French Senate’s website was taken offline by a DDoS attack launched by the pro-Russian hacker group NoName.
+The pro-Russia hacker group NoName is claiming responsibility for a DDoS attack that took the website of the French Senate offline.
+"Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
