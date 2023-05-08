@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2023
+May 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Bernardino County Sheriff’s Department paid a $1.1M ransom<a href="https://securityaffairs.com/145892/cyber-crime/san-bernardino-county-sheriff-paid-ransom.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2023
+May 7, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dragon Breath APT uses double-dip DLL sideloading strategy<a href="https://securityaffairs.com/145876/apt/dragon-breath-double-dll-sideloading.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Enhances its BabyShark Recon Tool in a Global Campaign<a href="https://cyware.com/news/kimsuky-enhances-its-babyshark-recon-tool-in-a-global-campaign-01e6faca"> Full Text</a>
@@ -84,7 +84,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drone Goggles Maker Orqa Hit with 'Time-bomb' Ransomware Attack<a href="https://cyware.com/news/drone-goggles-maker-orqa-hit-with-time-bomb-ransomware-attack-821e7295"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian actor Uses WinRAR and DD Command to Destroy Ukrainian Data<a href="https://cyware.com/news/russian-actor-uses-winrar-and-dd-command-to-destroy-ukrainian-data-9796918c"> Full Text</a>
@@ -116,7 +116,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 418 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145871/breaking-news/security-affairs-newsletter-round-418.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter confirmed that a security incident publicly exposed Circle tweets<a href="https://securityaffairs.com/145865/social-networks/twitter-circle-security-incident.html"> Full Text</a>
@@ -151,7 +151,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI seized other domains used by the shadow eBook library Z-Library<a href="https://securityaffairs.com/145854/cyber-crime/z-library-domains-seized.html"> Full Text</a>

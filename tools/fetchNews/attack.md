@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hackers Claim Downing of French Senate Website<a href="https://www.securityweek.com/pro-russian-hackers-claim-downing-of-french-senate-website/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Access to the site has been disrupted since this morning,” the upper house of Parliament said on Twitter shortly before midday, saying a team was busy fixing the problem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV gang claims ransomware attack on Constellation Software<a href="https://www.bleepingcomputer.com/news/security/alphv-gang-claims-ransomware-attack-on-constellation-software/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canadian diversified software company Constellation Software confirmed on Thursday that some of its systems were breached by threat actors who also stole personal information and business data.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

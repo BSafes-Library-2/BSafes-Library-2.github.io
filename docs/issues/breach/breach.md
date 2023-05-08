@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+May 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Bernardino County Sheriff’s Department paid a $1.1M ransom<a href="https://securityaffairs.com/145892/cyber-crime/san-bernardino-county-sheriff-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Bernardino County Sheriff’s Department confirmed that it has paid a $1.1-million ransom after the April ransomware attack.
+The San Bernardino County Sheriff’s Department opted to pay a $1.1-million ransom after a ransomware attack infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter confirmed that a security incident publicly exposed Circle tweets<a href="https://securityaffairs.com/145865/social-networks/twitter-circle-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security problem caused the public sharing of private tweets sent to Twitter Circles to users outside of the Circle, the company admitted.
+Since August 2022, the Twitter Circle feature allows users to send tweets to a restricted circle of users,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

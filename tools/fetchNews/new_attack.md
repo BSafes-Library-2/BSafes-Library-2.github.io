@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drone Goggles Maker Orqa Hit with 'Time-bomb' Ransomware Attack<a href="https://cyware.com/news/drone-goggles-maker-orqa-hit-with-time-bomb-ransomware-attack-821e7295"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orqa, a maker of FPV drone racing goggles, claimed that a contractor introduced code into the firmware of the devices, designed to brick them as a time bomb.&nbsp;Findings say that the contractor had been in business relations with Orqa for several years and had waited for the code bomb to detonate ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

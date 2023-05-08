@@ -8,6 +8,22 @@ nav_order: 900072
 
 ## General
 ---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 418 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145871/breaking-news/security-affairs-newsletter-round-418.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+We are in the final!
+Please vote for Security Affairs (https://securityaffairs.com/) as the best...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

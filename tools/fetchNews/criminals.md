@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware gang hijacks university alert system to issue threats<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-hijacks-university-alert-system-to-issue-threats/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Avos ransomware gang hijacked Bluefield University's emergency broadcast system, "RamAlert," to send students and staff SMS texts and email alerts that their data was stolen and would soon be released.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

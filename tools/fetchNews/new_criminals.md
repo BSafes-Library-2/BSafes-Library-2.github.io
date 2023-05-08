@@ -8,6 +8,22 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized other domains used by the shadow eBook library Z-Library<a href="https://securityaffairs.com/145854/cyber-crime/z-library-domains-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI disrupted once again the illegal eBook library Z-Library the authorities seized several domains used by the service.
+The Federal Bureau of Investigation (FBI) seized multiple domains used by the illegal shadow eBook library Z-Library.
+Z-Library...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

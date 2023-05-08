@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon Breath APT Group Using Double-Clean-App Technique to Target Gambling Industry<a href="https://thehackernews.com/2023/05/dragon-breath-apt-group-using-double.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) actor known as&nbsp; Dragon Breath &nbsp;has been observed adding new layers of complexity to its attacks by adopting a novel&nbsp; DLL side-loading &nbsp;mechanism. "The attack is based on a classic side-loading attack, consisting of a clean application, a malicious loader, and an encrypted payload, with various modifications made to these components over time," Sophos researcher Gabor Szappanos&nbsp; said . "The latest campaigns add a twist in which a first-stage clean application 'side'-loads a second clean application and auto-executes it. The second clean application side-loads the malicious loader DLL. After that, the malicious loader DLL executes the final payload." Operation Dragon Breath, also tracked under the names APT-Q-27 and Golden Eye, was&nbsp; first &nbsp; documented &nbsp;by QiAnXin in 2020, detailing a watering hole campaign designed to trick users into downloading a trojanized Windows installer for Telegram. A&nbsp; subsequent &nbsp; campaign &nbsp;de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Kimsuky APT uses new recon tool ReconShark<a href="https://securityaffairs.com/145781/apt/kimsuky-reconshark-recon-tool.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT&nbsp;group Kimsuky&nbsp;has been observed using a new reconnaissance tool dubbed ReconShark&nbsp;in a recent campaign.
+SentinelOne researchers observed an ongoing campaign from North Korea-linked Kimsuky Group that is using...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

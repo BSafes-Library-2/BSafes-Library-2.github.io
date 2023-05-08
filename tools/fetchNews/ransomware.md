@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Week in Ransomware - May 5th 2023 - Targeting the public sector<a href="https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-5th-2023-targeting-the-public-sector/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week's ransomware news has been dominated by a Royal ransomware attack on the City of Dallas that took down part of the IT infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

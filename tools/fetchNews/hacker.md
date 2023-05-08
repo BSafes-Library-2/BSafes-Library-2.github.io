@@ -8,6 +8,62 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Cracks Down on South Asian Cyberespionage Groups<a href="https://www.bankinfosecurity.com/meta-cracks-down-on-south-asian-cyberespionage-groups-a-21992?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Social media giant Meta took down hundreds of fake Facebook and Instagram accounts used by South Asia advanced persistent threat groups to glean sensitive information and coax users into installing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Targeting Italian Corporate Banking Clients with New Web-Inject Toolkit DrIBAN<a href="https://thehackernews.com/2023/05/hackers-targeting-italian-corporate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italian corporate banking clients are the target of an ongoing financial fraud campaign that has been leveraging a new web-inject toolkit called&nbsp; drIBAN &nbsp;since at least 2019. "The main goal of drIBAN fraud operations is to infect Windows workstations inside corporate environments trying to alter legitimate banking transfers performed by the victims by changing the beneficiary and transferring money to an illegitimate bank account," Cleafy researchers Federico Valentini and Alessandro Strino&nbsp; said . The bank accounts, per the Italian cybersecurity firm, are either controlled by the threat actors themselves or their affiliates, who are then tasked with laundering the stolen funds. The use of web injects is a time-tested tactic that makes it possible for malware to inject custom scripts on the client side by means of a man-in-the-browser ( MitB ) attack and intercept traffic to and from the server. The fraudulent transactions are often realized by means of a technique call
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Kimsuky Hackers Using New Recon Tool ReconShark in Latest Cyberattacks<a href="https://thehackernews.com/2023/05/n-korean-kimsuky-hackers-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean state-sponsored threat actor known as&nbsp; Kimsuky &nbsp;has been discovered using a new reconnaissance tool called&nbsp; ReconShark &nbsp;as part of an ongoing global campaign. "[ReconShark] is actively delivered to specifically targeted individuals through spear-phishing emails, OneDrive links leading to document downloads, and the execution of malicious macros," SentinelOne researchers Tom Hegel and Aleksandar Milenkoski&nbsp; said . Kimsuky &nbsp;is also known by the names APT43, ARCHIPELAGO, Black Banshee, Nickel Kimball, Emerald Sleet (previously Thallium), and Velvet Chollima. Active since at least 2012, the&nbsp; prolific &nbsp; threat actor &nbsp;has been linked to&nbsp; targeted &nbsp; attacks &nbsp;on non-governmental organizations (NGOs), think tanks, diplomatic agencies, military organizations, economic groups, and research entities across North America, Asia, and Europe. The latest intrusion set documented by SentinelOne leverages geopolitical themes related to North Korea's nuclear proliferat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky hackers use new recon tool to find security gaps<a href="https://www.bleepingcomputer.com/news/security/kimsuky-hackers-use-new-recon-tool-to-find-security-gaps/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean Kimsuky hacking group has been observed employing a new version of its reconnaissance malware, now called 'ReconShark,' in a cyberespionage campaign with a global reach.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

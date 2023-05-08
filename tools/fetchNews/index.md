@@ -34,6 +34,141 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Bernardino County Sheriff’s Department paid a $1.1M ransom<a href="https://securityaffairs.com/145892/cyber-crime/san-bernardino-county-sheriff-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The San Bernardino County Sheriff’s Department confirmed that it has paid a $1.1-million ransom after the April ransomware attack.
+The San Bernardino County Sheriff’s Department opted to pay a $1.1-million ransom after a ransomware attack infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon Breath APT uses double-dip DLL sideloading strategy<a href="https://securityaffairs.com/145876/apt/dragon-breath-double-dll-sideloading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group tracked as Dragon Breath has been observed employing a new DLL sideloading technique.
+Sophos researchers observed an APT group, tracked as Dragon Breath (aka APT-Q-27 and Golden Eye), that is using a new DLL sideloading technique that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Enhances its BabyShark Recon Tool in a Global Campaign<a href="https://cyware.com/news/kimsuky-enhances-its-babyshark-recon-tool-in-a-global-campaign-01e6faca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hacking group Kimsuky is distributing a new version of its reconnaissance malware called ReconShark. The cyberespionage campaign involves sending emails containing a link to a password-protected doc hosted on Microsoft OneDrive. The malware can steal sensitive data from the infected sy ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Drone Goggles Maker Orqa Hit with 'Time-bomb' Ransomware Attack<a href="https://cyware.com/news/drone-goggles-maker-orqa-hit-with-time-bomb-ransomware-attack-821e7295"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orqa, a maker of FPV drone racing goggles, claimed that a contractor introduced code into the firmware of the devices, designed to brick them as a time bomb. Findings say that the contractor had been in business relations with Orqa for several years and had waited for the code bomb to detonate ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian actor Uses WinRAR and DD Command to Destroy Ukrainian Data<a href="https://cyware.com/news/russian-actor-uses-winrar-and-dd-command-to-destroy-ukrainian-data-9796918c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA confirmed the discovery of a malicious script dubbed RoarBat that is most probably being used by the Russian threat group Sandworm to wipe off data from Ukrainian state networks. The script uses the WinRaR application for archiving and compressing applications and then deleting specific fil ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 418 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145871/breaking-news/security-affairs-newsletter-round-418.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+We are in the final!
+Please vote for Security Affairs (https://securityaffairs.com/) as the best...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter confirmed that a security incident publicly exposed Circle tweets<a href="https://securityaffairs.com/145865/social-networks/twitter-circle-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security problem caused the public sharing of private tweets sent to Twitter Circles to users outside of the Circle, the company admitted.
+Since August 2022, the Twitter Circle feature allows users to send tweets to a restricted circle of users,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized other domains used by the shadow eBook library Z-Library<a href="https://securityaffairs.com/145854/cyber-crime/z-library-domains-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI disrupted once again the illegal eBook library Z-Library the authorities seized several domains used by the service.
+The Federal Bureau of Investigation (FBI) seized multiple domains used by the illegal shadow eBook library Z-Library.
+Z-Library...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

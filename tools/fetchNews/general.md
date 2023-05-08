@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of Visibility: The Challenge of Protecting Websites from Third-Party Scripts<a href="https://thehackernews.com/2023/05/lack-of-visibility-challenge-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Third-party apps such as Google Analytics, Meta Pixel, HotJar, and JQuery have become critical tools for businesses to optimize their website performance and services for a global audience. However, as their importance has grown, so has the threat of cyber incidents involving unmanaged third-party apps and open-source tools. Online businesses increasingly struggle to maintain complete visibility and control over the ever-changing third-party threat landscape, with sophisticated threats like evasive skimmers, Magecart attacks, and unlawful tracking practices potentially causing severe damage. This article explores the challenges of protecting modern websites from third-party scripts and the security risks associated with a lack of visibility over these scripts. Invisible to Standard Security Controls&nbsp; Third-party scripts are often invisible to standard security controls like Web Application Firewalls (WAFs) because they are loaded from external sources that are not under the control
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Get 50% off Malwarebytes Premium + Privacy in this limited-time deal<a href="https://www.bleepingcomputer.com/news/security/get-50-percent-off-malwarebytes-premium-plus-privacy-in-this-limited-time-deal/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you are concerned about the security and privacy of your online activities, this new&nbsp;50% off Malwarebytes deal&nbsp;can bring you peace of mind.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
