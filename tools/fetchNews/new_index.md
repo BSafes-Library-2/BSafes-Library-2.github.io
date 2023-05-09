@@ -34,7 +34,285 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2023
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HUB Security Raises Up to $16 Million in Growth Investment from The Lind Partners<a href="https://finance.yahoo.com/news/hub-security-raises-16-million-133500330.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This investment is expected to provide HUB Security with additional resources to fuel its rapid growth and development, enhance its financial stability, and enable the company to pursue its future plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Join Our Webinar: Learn How to Defeat Ransomware with Identity-Focused Protection<a href="https://thehackernews.com/2023/05/join-our-webinar-learn-how-to-defeat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you concerned about ransomware attacks? You're not alone. In recent years, these attacks have become increasingly common and can cause significant damage to organizations of all sizes. But there's good news - with the right security measures in place, such as real-time MFA and service account protection, you can effectively protect yourself against these types of attacks. That's why we're excited to invite you to our upcoming webinar with Yiftach Keshet, cybersecurity expert and Chief Marketing Officer at Silverfort. During this webinar, Yiftach will share his insights on how real-time MFA and service account protection can defeat ransomware attacks, and why identity-focused protection is the only way to stop lateral movement and ransomware spread. Some of the key topics that will be covered in this webinar include: The increasing risk of lateral movement and how it's become one of the most critical risks facing organizations today. The blind spots in MFA
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money Message gang leaked private code signing keys from MSI data breach<a href="https://securityaffairs.com/145940/data-breach/msi-data-breach-key-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware gang behind the attack on Taiwanese PC maker MSI leaked the company's private code signing keys on their darkweb leak site.
+In early April, the ransomware gang Money Message announced to have hacked the Taiwanese multinational IT corporation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Immuta Receives Investment from Databricks Ventures<a href="https://www.finsmes.com/2023/05/immuta-receives-investment-from-databricks-ventures.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immuta, a Boston, MA-based leader in data security, received a strategic investment from Databricks Ventures, the investment arm of Databricks, a data and AI company and pioneer of the lakehouse. The amount of the deal was not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSI Data Breach: Private Code Signing Keys Leaked on the Dark Web<a href="https://thehackernews.com/2023/05/msi-data-breach-private-code-signing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the ransomware attack on Taiwanese PC maker MSI last month have leaked the company's private code signing keys on their dark website. "Confirmed, Intel OEM private key leaked, causing an impact on the entire ecosystem," Alex Matrosov, founder and CEO of firmware security firm Binarly,  said  in a tweet over the weekend. "It appears that Intel Boot Guard may not be effective on certain devices based on the 11th Tiger Lake, 12th Adler Lake, and 13th Raptor Lake." Present in the leaked data are firmware image signing keys associated with 57 PCs and private signing keys for Intel Boot Guard used on 116 MSI products. The Boot Guard keys from MSI are believed to impact several device vendors, including Intel, Lenovo and Supermicro. Intel Boot Guard is a  hardware-based security technology  that's designed to protect computers against executing tampered UEFI firmware. The development comes a month after MSI  fell victim  to a double
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NextGen Healthcare suffered a data breach that impacted +1 Million individuals<a href="https://securityaffairs.com/145935/data-breach/nextgen-healthcare-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NextGen Healthcare suffered a data breach, the security incident exposed the personal information of approximately 1 million individuals.
+Healthcare solutions provider NextGen Healthcare suffered a data breach that exposed the personal information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kenya: Kabarak University ICT Manager suspended as hackers table their demand<a href="https://www.pulselive.co.ke/news/local/kabarak-university-gives-way-forward-after-hackers-tabled-their-demand/448rzl2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kabarak University's Facebook account was seized by hackers who have been using it to spread malicious and misleading images and content that contravenes the institution’s Christian values and have since tabled their demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Confirms Customer Data Stolen by Hackers in March Breach<a href="https://thehackernews.com/2023/05/western-digital-confirms-customer-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital storage giant Western Digital confirmed that an "unauthorized third party" gained access to its systems and stole personal information belonging to the company's online store customers. "This information included customer names, billing and shipping addresses, email addresses and telephone numbers," the San Jose-based company  said  in a disclosure last week. "In addition, the database contained, in encrypted format, hashed and salted passwords and partial credit card numbers. We will communicate directly with impacted customers." The development comes a little over a month after Western Digital  divulged  a "network security incident" on March 26, 2023, prompting the company to take its cloud services offline. A subsequent report from TechCrunch last month  revealed  that the threat actors behind the attack were allegedly in possession of "around 10 terabytes of data," and were negotiating with Western Digital for a r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital notifies customers of data breach after March cyberattack<a href="https://securityaffairs.com/145922/data-breach/western-digital-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is notifying its customers of a data breach that exposed their sensitive personal information, the incident took place in March.
+In March 2022, Western Digital was hit by a ransomware attack and in response to the incident, it shut...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at Hong Kong healthcare group may have exposed 100,000 patients’ data<a href="https://www.scmp.com/news/hong-kong/health-environment/article/3219827/personal-data-medical-history-100000-patients-may-have-been-leaked-cyberattack-hong-kong-healthcare?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OT&P Healthcare CEO Robin Green on Monday said the cyberattack took place within the clinic’s management and operating system. “That system holds both patient identity and medical records. We have no idea … how much data was taken,” he said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy Using Action RAT and AllaKore RAT to infiltrate Indian Organizations<a href="https://thehackernews.com/2023/05/sidecopy-using-action-rat-and-allakore.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspected Pakistan-aligned threat actor known as  SideCopy  has been observed leveraging themes related to the Indian military research organization as part of an ongoing phishing campaign. This involves using a ZIP archive lure pertaining to India's Defence Research and Development Organization ( DRDO ) to deliver a malicious payload capable of harvesting sensitive information, Fortinet FortiGuard Labs  said  in a new report. The cyber espionage group, with  activity  dating back to at least 2019, targets entities that align with Pakistan government interests. It's believed to share overlaps with another Pakistani hacking crew called  Transparent Tribe . SideCopy's use of DRDO-related decoys for malware distribution was previously flagged by  Cyble  and Chinese cybersecurity firm  QiAnXin  in March 2023, and again by  Team Cymru  last month. Interestingly, the same attack chains have been observed to load and execute Action RAT as well as an open source remote ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA warns of an ongoing SmokeLoader campaign<a href="https://securityaffairs.com/145911/malware/cert-ua-smokeloader-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's CERT-UA warns of an ongoing phishing campaign aimed at distributing the SmokeLoader malware in the form of a polyglot file.
+CERT-UA warns of an ongoing phishing campaign that is distributing the SmokeLoader malware in the form of a polyglot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House official says Counter Ransomware Initiative focused on ‘expanding the tent,’ with Jordan, Costa Rica, Colombia joining<a href="https://therecord.media/counter-ransomware-initiative-expands-neuberger?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to White House Deputy National Security Adviser Anne Neuberger, there were more than 6,500 ransomware attacks across the globe between 2020 and 2022, prompting difficult discussions about ways to disrupt the ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Set Up a Threat Hunting and Threat Intelligence Program<a href="https://thehackernews.com/2023/05/how-to-set-up-threat-hunting-and-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunting is an essential component of your cybersecurity strategy. Whether you're getting started or in an advanced state, this article will help you ramp up your threat intelligence program. What is Threat Hunting? The cybersecurity industry is shifting from a reactive to a proactive approach. Instead of waiting for cybersecurity alerts and then addressing them, security organizations are now deploying red teams to actively seek out breaches, threats and risks, so they can be isolated. This is also known as "threat hunting."  Why is Threat Hunting Required? Threat hunting complements existing prevention and detection security controls. These controls are essential for mitigating threats. However, they are optimized for low false positive alerting. Hunt solutions, on the other hand, are optimized for low false negatives. This means that the anomalies and outliers that are considered false positives for detection solutions, are hunting solutions' leads, to b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC issued a record award of $279 million to a whistleblower<a href="https://securityaffairs.com/145903/laws-and-regulations/sec-whistleblower-awards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Commission (SEC) announced the largest-ever award, approximately $279 million, to a whistleblower.
+The Securities and Exchange Commission (SEC) paid a record sum of approximately $279 million to a whistleblower.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One Million Impacted by Data Breach at NextGen Healthcare<a href="https://www.securityweek.com/1-million-impacted-by-data-breach-at-nextgen-healthcare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Headquartered in Atlanta, Georgia, the company makes and sells electronic health records software and provides doctors and medical professionals with practice management services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Warns of SmokeLoader and RoarBAT Malware Attacks Against Ukraine<a href="https://thehackernews.com/2023/05/cert-ua-warns-of-smokeloader-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing campaign with invoice-themed lures is being used to distribute the SmokeLoader malware in the form of a polyglot file, according to the Computer Emergency Response Team of Ukraine (CERT-UA). The emails, per the  agency , are sent using compromised accounts and come with a ZIP archive that, in reality, is a  polyglot file  containing a decoy document and a JavaScript file. The JavaScript code is then used to launch an executable that paves for the execution of the  SmokeLoader malware . SmokeLoader, first detected in 2011, is a  loader  whose main objective is to download or load a stealthier or more effective malware onto infected systems. CERT-UA attributed the activity to a threat actor it calls UAC-0006 and characterized it as a financially motivated operation carried out with the goal of stealing credentials and making unauthorized fund transfers. In a related advisory, Ukraine's cybersecurity authority also revealed details of destructive attacks orch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Bernardino County Sheriff’s Department paid a $1.1M ransom<a href="https://securityaffairs.com/145892/cyber-crime/san-bernardino-county-sheriff-paid-ransom.html"> Full Text</a>
@@ -51,7 +329,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 7, 2023
+May 7, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dragon Breath APT uses double-dip DLL sideloading strategy<a href="https://securityaffairs.com/145876/apt/dragon-breath-double-dll-sideloading.html"> Full Text</a>
@@ -68,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Enhances its BabyShark Recon Tool in a Global Campaign<a href="https://cyware.com/news/kimsuky-enhances-its-babyshark-recon-tool-in-a-global-campaign-01e6faca"> Full Text</a>
@@ -84,7 +362,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Drone Goggles Maker Orqa Hit with 'Time-bomb' Ransomware Attack<a href="https://cyware.com/news/drone-goggles-maker-orqa-hit-with-time-bomb-ransomware-attack-821e7295"> Full Text</a>
@@ -100,7 +378,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian actor Uses WinRAR and DD Command to Destroy Ukrainian Data<a href="https://cyware.com/news/russian-actor-uses-winrar-and-dd-command-to-destroy-ukrainian-data-9796918c"> Full Text</a>
@@ -116,7 +394,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 418 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/145871/breaking-news/security-affairs-newsletter-round-418.html"> Full Text</a>
@@ -134,7 +412,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter confirmed that a security incident publicly exposed Circle tweets<a href="https://securityaffairs.com/145865/social-networks/twitter-circle-security-incident.html"> Full Text</a>
@@ -151,7 +429,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023
+May 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI seized other domains used by the shadow eBook library Z-Library<a href="https://securityaffairs.com/145854/cyber-crime/z-library-domains-seized.html"> Full Text</a>
