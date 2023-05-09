@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA warns of an ongoing SmokeLoader campaign<a href="https://securityaffairs.com/145911/malware/cert-ua-smokeloader-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's CERT-UA warns of an ongoing phishing campaign aimed at distributing the SmokeLoader malware in the form of a polyglot file.
+CERT-UA warns of an ongoing phishing campaign that is distributing the SmokeLoader malware in the form of a polyglot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House official says Counter Ransomware Initiative focused on ‘expanding the tent,’ with Jordan, Costa Rica, Colombia joining<a href="https://therecord.media/counter-ransomware-initiative-expands-neuberger?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to White House Deputy National Security Adviser Anne Neuberger, there were more than 6,500 ransomware attacks across the globe between 2020 and 2022, prompting difficult discussions about ways to disrupt the ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

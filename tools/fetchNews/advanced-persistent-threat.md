@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dragon Breath APT uses double-dip DLL sideloading strategy<a href="https://securityaffairs.com/145876/apt/dragon-breath-double-dll-sideloading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An APT group tracked as Dragon Breath&nbsp;has been observed employing a new DLL sideloading&nbsp;technique.
+Sophos researchers observed an APT group, tracked as Dragon Breath (aka APT-Q-27 and Golden Eye), that is using a new DLL sideloading&nbsp;technique that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Join Our Webinar: Learn How to Defeat Ransomware with Identity-Focused Protection<a href="https://thehackernews.com/2023/05/join-our-webinar-learn-how-to-defeat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Are you concerned about ransomware attacks? You're not alone. In recent years, these attacks have become increasingly common and can cause significant damage to organizations of all sizes. But there's good news - with the right security measures in place, such as real-time MFA and service account protection, you can effectively protect yourself against these types of attacks. That's why we're excited to invite you to our upcoming webinar with Yiftach Keshet, cybersecurity expert and Chief Marketing Officer at Silverfort. During this webinar, Yiftach will share his insights on how real-time MFA and service account protection can defeat ransomware attacks, and why identity-focused protection is the only way to stop lateral movement and ransomware spread. Some of the key topics that will be covered in this webinar include: The increasing risk of lateral movement and how it's become one of the most critical risks facing organizations today. The blind spots in MFA
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Set Up a Threat Hunting and Threat Intelligence Program<a href="https://thehackernews.com/2023/05/how-to-set-up-threat-hunting-and-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunting is an essential component of your cybersecurity strategy. Whether you're getting started or in an advanced state, this article will help you ramp up your threat intelligence program. What is Threat Hunting? The cybersecurity industry is shifting from a reactive to a proactive approach. Instead of waiting for cybersecurity alerts and then addressing them, security organizations are now deploying red teams to actively seek out breaches, threats and risks, so they can be isolated. This is also known as "threat hunting."&nbsp; Why is Threat Hunting Required? Threat hunting complements existing prevention and detection security controls. These controls are essential for mitigating threats. However, they are optimized for low false positive alerting. Hunt solutions, on the other hand, are optimized for low false negatives. This means that the anomalies and outliers that are considered false positives for detection solutions, are hunting solutions' leads, to b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

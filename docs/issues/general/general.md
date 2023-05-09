@@ -8,6 +8,22 @@ nav_order: 900072
 
 ## General
 ---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC issued a record award of $279 million to a whistleblower<a href="https://securityaffairs.com/145903/laws-and-regulations/sec-whistleblower-awards.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Securities and Exchange Commission (SEC) announced the largest-ever award, approximately $279 million, to a whistleblower.
+The Securities and Exchange Commission (SEC) paid a record sum of approximately $279 million to a whistleblower.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

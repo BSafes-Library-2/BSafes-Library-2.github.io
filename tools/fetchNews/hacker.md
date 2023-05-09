@@ -11,6 +11,34 @@ nav_order: 900080
 May 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Enhances its BabyShark Recon Tool in a Global Campaign<a href="https://cyware.com/news/kimsuky-enhances-its-babyshark-recon-tool-in-a-global-campaign-01e6faca"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hacking group Kimsuky is distributing a new version of its reconnaissance malware called ReconShark. The cyberespionage campaign involves sending emails containing a link to a password-protected doc hosted on Microsoft OneDrive. The malware can steal sensitive data from the infected sy ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian actor Uses WinRAR and DD Command to Destroy Ukrainian Data<a href="https://cyware.com/news/russian-actor-uses-winrar-and-dd-command-to-destroy-ukrainian-data-9796918c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA confirmed the discovery of a malicious script dubbed RoarBat that is most probably being used by the Russian threat group Sandworm to wipe off data from Ukrainian state networks. The script uses the WinRaR application for archiving and compressing applications and then deleting specific fil ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Meta Cracks Down on South Asian Cyberespionage Groups<a href="https://www.bankinfosecurity.com/meta-cracks-down-on-south-asian-cyberespionage-groups-a-21992?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

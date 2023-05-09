@@ -8,6 +8,92 @@ nav_order: 900029
 
 ## Breach
 ---
+May 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MSI Data Breach: Private Code Signing Keys Leaked on the Dark Web<a href="https://thehackernews.com/2023/05/msi-data-breach-private-code-signing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the ransomware attack on Taiwanese PC maker MSI last month have leaked the company's private code signing keys on their dark website. "Confirmed, Intel OEM private key leaked, causing an impact on the entire ecosystem," Alex Matrosov, founder and CEO of firmware security firm Binarly,&nbsp; said &nbsp;in a tweet over the weekend. "It appears that Intel Boot Guard may not be effective on certain devices based on the 11th Tiger Lake, 12th Adler Lake, and 13th Raptor Lake." Present in the leaked data are firmware image signing keys associated with 57 PCs and private signing keys for Intel Boot Guard used on 116 MSI products. The Boot Guard keys from MSI are believed to impact several device vendors, including Intel, Lenovo and Supermicro. Intel Boot Guard is a&nbsp; hardware-based security technology &nbsp;that's designed to protect computers against executing tampered UEFI firmware. The development comes a month after MSI&nbsp; fell victim &nbsp;to a double
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NextGen Healthcare suffered a data breach that impacted +1 Million individuals<a href="https://securityaffairs.com/145935/data-breach/nextgen-healthcare-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NextGen Healthcare suffered a data breach, the security incident exposed the personal information of approximately 1 million individuals.
+Healthcare solutions provider NextGen Healthcare suffered a data breach that exposed the personal information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kenya: Kabarak University ICT Manager suspended as hackers table their demand<a href="https://www.pulselive.co.ke/news/local/kabarak-university-gives-way-forward-after-hackers-tabled-their-demand/448rzl2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kabarak University's Facebook account was seized by hackers who have been using it to spread malicious and misleading images and content that contravenes the institution’s Christian values and have since tabled their demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Confirms Customer Data Stolen by Hackers in March Breach<a href="https://thehackernews.com/2023/05/western-digital-confirms-customer-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital storage giant Western Digital confirmed that an "unauthorized third party" gained access to its systems and stole personal information belonging to the company's online store customers. "This information included customer names, billing and shipping addresses, email addresses and telephone numbers," the San Jose-based company&nbsp; said &nbsp;in a disclosure last week. "In addition, the database contained, in encrypted format, hashed and salted passwords and partial credit card numbers. We will communicate directly with impacted customers." The development comes a little over a month after Western Digital&nbsp; divulged &nbsp;a "network security incident" on March 26, 2023, prompting the company to take its cloud services offline. A subsequent report from TechCrunch last month&nbsp; revealed &nbsp;that the threat actors behind the attack were allegedly in possession of "around 10 terabytes of data," and were negotiating with Western Digital for a r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital notifies customers of data breach after March cyberattack<a href="https://securityaffairs.com/145922/data-breach/western-digital-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Western Digital is notifying its customers of a data breach that exposed their sensitive personal information, the incident took place in March.
+In March 2022, Western Digital was hit by a ransomware attack and in response to the incident, it shut...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One Million Impacted by Data Breach at NextGen Healthcare<a href="https://www.securityweek.com/1-million-impacted-by-data-breach-at-nextgen-healthcare/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Headquartered in Atlanta, Georgia, the company makes and sells electronic health records software and provides doctors and medical professionals with practice management services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
