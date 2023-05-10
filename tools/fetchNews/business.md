@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HUB Security Raises Up to $16 Million in Growth Investment from The Lind Partners<a href="https://finance.yahoo.com/news/hub-security-raises-16-million-133500330.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This investment is expected to provide HUB Security with additional resources to fuel its rapid growth and development, enhance its financial stability, and enable the company to pursue its future plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Immuta Receives Investment from Databricks Ventures<a href="https://www.finsmes.com/2023/05/immuta-receives-investment-from-databricks-ventures.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Immuta, a Boston, MA-based leader in data security, received a strategic investment from Databricks Ventures, the investment arm of Databricks, a data and AI company and pioneer of the lakehouse. The amount of the deal was not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

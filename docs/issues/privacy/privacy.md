@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nationwide push to require social media age verification raises questions about privacy, industry standards<a href="https://cyberscoop.com/age-verfication-schatz-cotton-social-media/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers in Washington and in statehouses around the country are seeking to compel tech companies to prove the age of their users, part of a growing national effort to better protect young children from the harms of the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

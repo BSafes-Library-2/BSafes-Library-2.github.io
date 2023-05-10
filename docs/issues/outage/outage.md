@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Dallas restores core emergency dispatch systems<a href="https://www.cybersecuritydive.com/news/dallas-restores-emergency-dispatch/649789/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city continues to recover and restore access to its computer-assisted dispatch system. The city’s municipal court system remains offline, and court hearings and trials have been suspended since Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

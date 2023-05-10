@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Money Message gang leaked private code signing keys from MSI data breach<a href="https://securityaffairs.com/145940/data-breach/msi-data-breach-key-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware gang behind the attack on Taiwanese PC maker MSI leaked the company's private code signing keys on their darkweb leak site.
+In early April, the ransomware gang Money Message announced to have hacked the Taiwanese multinational IT corporation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CACTUS ransomware appeared in the threat landscape<a href="https://securityaffairs.com/145960/malware/new-cactus-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new ransomware family called CACTUS that exploits known vulnerabilities in VPN appliances to gain initial access to victims' networks.
+Researchers from cybersecurity firm Kroll have analyzed on a new ransomware family called...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Strain 'CACTUS' Exploits VPN Flaws to Infiltrate Networks<a href="https://thehackernews.com/2023/05/new-ransomware-strain-cactus-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a new ransomware strain called CACTUS that has been found to leverage known flaws in VPN appliances to obtain initial access to targeted networks. "Once inside the network, CACTUS actors attempt to enumerate local and network user accounts in addition to reachable endpoints before creating new user accounts and leveraging custom scripts to automate the deployment and detonation of the ransomware encryptor via scheduled tasks," Kroll said in a report shared with The Hacker News. The ransomware has been observed targeting large commercial entities since March 2023, with attacks employing double extortion tactics to steal sensitive data prior to encryption. No data leak site has been identified to date. Following a successful exploitation of vulnerable VPN devices, an SSH backdoor is set up to maintain persistent access and a series of PowerShell commands are executed to conduct network scanning and identify a list of machines fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

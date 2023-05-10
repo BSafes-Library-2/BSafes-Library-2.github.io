@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Security: Harnessing the Collective Experience and Collaborative Tools in DevSecOps<a href="https://thehackernews.com/2023/05/strengthening-product-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the fast-paced cybersecurity landscape, product security takes center stage. DevSecOps swoops in, seamlessly merging security practices into DevOps, empowering teams to tackle challenges. Let's dive into DevSecOps and explore how collaboration can give your team the edge to fight cyber villains. Application security and product security Regrettably, application security teams often intervene late in the development process. They maintain the security level of exposed software, ensuring the integrity and confidentiality of consumed or produced data. They focus on securing data flows, isolating environments with firewalls, and implementing strong user authentication and access control. Product security teams aim to guarantee the intrinsic reliability of applications. They recommend tools and resources, making them available to developers and operations. In the DevSecOps approach, each team is responsible for the security of the applications they create. These teams apply secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

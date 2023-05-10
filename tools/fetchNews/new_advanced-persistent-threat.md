@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover SideWinder's Latest Server-Based Polymorphism Technique<a href="https://thehackernews.com/2023/05/researchers-uncover-sidewinders-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as SideWinder has been accused of deploying a backdoor in attacks directed against Pakistan government organizations as part of a campaign that commenced in late November 2022. "In this campaign, the SideWinder advanced persistent threat (APT) group used a server-based polymorphism technique to deliver the next stage payload," the BlackBerry Research and Intelligence Team&nbsp; said &nbsp;in a technical report published Monday. Another campaign discovered by the Canadian cybersecurity company in early March 2023 shows that Turkey has also landed in the crosshairs of the threat actor's collection priorities. SideWinder &nbsp;has been on the radar since at least 2012 and it's primarily known to target various Southeast Asian entities located across Pakistan, Afghanistan, Bhutan, China, Myanmar, Nepal, and Sri Lanka. Suspected to be an Indian state-sponsored group, SideWinder is also tracked under the monikers APT-C-17, APT-Q-39, Ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT groups started exploiting Papercut flaw<a href="https://securityaffairs.com/145952/apt/iranian-apt-papercut-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of Iran-linked APT groups that are targeting vulnerable PaperCut MF/NG print management servers.
+Microsoft warns that Iran-linked APT groups have been observed exploiting the CVE-2023-27350 flaw in attacks against PaperCut MF/NG print...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

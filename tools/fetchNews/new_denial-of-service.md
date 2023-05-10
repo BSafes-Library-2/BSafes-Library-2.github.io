@@ -8,6 +8,21 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized 13 domains linked to DDoS-for-hire platforms<a href="https://securityaffairs.com/145973/cyber-crime/fbi-seized-13-ddos-for-hire-platforms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DoJ announced the seizure of 13 new domains associated with DDoS-for-hire platforms as part of Operation PowerOFF.
+The U.S. Justice Department announced the seizure of 13 domains linked to DDoS-for-hire services as part of a coordinated international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

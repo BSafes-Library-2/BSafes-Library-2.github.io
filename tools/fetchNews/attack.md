@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack at Hong Kong healthcare group may have exposed 100,000 patients’ data<a href="https://www.scmp.com/news/hong-kong/health-environment/article/3219827/personal-data-medical-history-100000-patients-may-have-been-leaked-cyberattack-hong-kong-healthcare?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OT&amp;P Healthcare CEO Robin Green on Monday said the cyberattack took place within the clinic’s management and operating system. “That system holds both patient identity and medical records. We have no idea … how much data was taken,” he said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Warns of SmokeLoader and RoarBAT Malware Attacks Against Ukraine<a href="https://thehackernews.com/2023/05/cert-ua-warns-of-smokeloader-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing phishing campaign with invoice-themed lures is being used to distribute the SmokeLoader malware in the form of a polyglot file, according to the Computer Emergency Response Team of Ukraine (CERT-UA). The emails, per the&nbsp; agency , are sent using compromised accounts and come with a ZIP archive that, in reality, is a&nbsp; polyglot file &nbsp;containing a decoy document and a JavaScript file. The JavaScript code is then used to launch an executable that paves for the execution of the&nbsp; SmokeLoader malware . SmokeLoader, first detected in 2011, is a&nbsp; loader &nbsp;whose main objective is to download or load a stealthier or more effective malware onto infected systems. CERT-UA attributed the activity to a threat actor it calls UAC-0006 and characterized it as a financially motivated operation carried out with the goal of stealing credentials and making unauthorized fund transfers. In a related advisory, Ukraine's cybersecurity authority also revealed details of destructive attacks orch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

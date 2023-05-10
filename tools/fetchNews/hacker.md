@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy Using Action RAT and AllaKore RAT to infiltrate Indian Organizations<a href="https://thehackernews.com/2023/05/sidecopy-using-action-rat-and-allakore.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspected Pakistan-aligned threat actor known as&nbsp; SideCopy &nbsp;has been observed leveraging themes related to the Indian military research organization as part of an ongoing phishing campaign. This involves using a ZIP archive lure pertaining to India's Defence Research and Development Organization ( DRDO ) to deliver a malicious payload capable of harvesting sensitive information, Fortinet FortiGuard Labs&nbsp; said &nbsp;in a new report. The cyber espionage group, with&nbsp; activity &nbsp;dating back to at least 2019, targets entities that align with Pakistan government interests. It's believed to share overlaps with another Pakistani hacking crew called&nbsp; Transparent Tribe . SideCopy's use of DRDO-related decoys for malware distribution was previously flagged by&nbsp; Cyble &nbsp;and Chinese cybersecurity firm&nbsp; QiAnXin &nbsp;in March 2023, and again by&nbsp; Team Cymru &nbsp;last month. Interestingly, the same attack chains have been observed to load and execute Action RAT as well as an open source remote ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

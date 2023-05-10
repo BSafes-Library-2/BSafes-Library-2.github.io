@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation ChattyGoblin: Hackers Targeting Gambling Firms via Chat Apps<a href="https://thehackernews.com/2023/05/operation-chattygoblin-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A gambling company in the Philippines was the target of a China-aligned threat actor as part of a campaign that has been ongoing since October 2021. Slovak cybersecurity firm ESET is tracking the series of attacks against Southeast Asian gambling companies under the name&nbsp; Operation ChattyGoblin . "These attacks use a specific tactic: targeting the victim companies' support agents via chat applications – in particular, the Comm100 and LiveHelp100 apps," ESET&nbsp; said &nbsp;in a report shared with The Hacker News. The use of a trojanized Comm100 installer to deliver malware was&nbsp; first documented &nbsp;by CrowdStrike in October 2022. The company attributed the supply chain compromise to a threat actor likely with associations to China. The attack chains leverage the aforementioned chat apps to distribute a C# dropper that, in turn, deploys another C# executable, which ultimately serves as a conduit to drop a Cobalt Strike beacon on hacked workstations. Also highlighted in ESET'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More actors are exploiting unpatched CVE-2023-27350 in print management software <a href="https://twitter.com/MsftSecIntel/status/1654610012457648129"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More actors are exploiting unpatched CVE-2023-27350 in print management software Papercut since we last reported on Lace Tempest. Microsoft has now observed Iranian state-sponsored threat actors Mint Sandstorm (PHOSPHORUS) & Mango Sandstorm (MERCURY) exploiting CVE-2023-27350.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 2, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
