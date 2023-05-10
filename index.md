@@ -34,6 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Dallas restores core emergency dispatch systems<a href="https://www.cybersecuritydive.com/news/dallas-restores-emergency-dispatch/649789/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city continues to recover and restore access to its computer-assisted dispatch system. The city’s municipal court system remains offline, and court hearings and trials have been suspended since Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Seize 13 Domains Offering Criminal DDoS-for-Hire Services<a href="https://thehackernews.com/2023/05/us-authorities-seize-13-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have announced the seizure of 13 internet domains that offered DDoS-for-hire services to other criminal actors. The takedown is part of an ongoing international initiative dubbed  Operation PowerOFF  that's aimed at dismantling criminal DDoS-for-hire infrastructures worldwide. The development comes almost five months after a "sweep" in December 2022  dismantled 48 similar services  for abetting paying users to launch distributed denial-of-service (DDoS) attacks against targets of interest. This includes school districts, universities, financial institutions, and government websites, according to the U.S. Department of Justice (DoJ). Ten of the 13 illicit domains seized are "reincarnations" of booter or stresser services that were previously shuttered towards the end of last year. "In recent years, booter services have continued to proliferate, as they offer a low barrier to entry for users looking to engage in cybercriminal activity,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The global food distribution giant Sysco discloses a data breach<a href="https://securityaffairs.com/145996/data-breach/sysco-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sysco, the global food distribution giant, disclosed a data breach, the compromised data includes customer and employee data.
+Sysco Corporation is an American multinational corporation involved in marketing and distributing food products, smallwares,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nationwide push to require social media age verification raises questions about privacy, industry standards<a href="https://cyberscoop.com/age-verfication-schatz-cotton-social-media/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers in Washington and in statehouses around the country are seeking to compel tech companies to prove the age of their users, part of a growing national effort to better protect young children from the harms of the internet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation ChattyGoblin: Hackers Targeting Gambling Firms via Chat Apps<a href="https://thehackernews.com/2023/05/operation-chattygoblin-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A gambling company in the Philippines was the target of a China-aligned threat actor as part of a campaign that has been ongoing since October 2021. Slovak cybersecurity firm ESET is tracking the series of attacks against Southeast Asian gambling companies under the name  Operation ChattyGoblin . "These attacks use a specific tactic: targeting the victim companies' support agents via chat applications – in particular, the Comm100 and LiveHelp100 apps," ESET  said  in a report shared with The Hacker News. The use of a trojanized Comm100 installer to deliver malware was  first documented  by CrowdStrike in October 2022. The company attributed the supply chain compromise to a threat actor likely with associations to China. The attack chains leverage the aforementioned chat apps to distribute a C# dropper that, in turn, deploys another C# executable, which ultimately serves as a conduit to drop a Cobalt Strike beacon on hacked workstations. Also highlighted in ESET'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Linux NetFilter kernel flaw allows escalating privileges to ‘root’<a href="https://securityaffairs.com/145989/security/linux-netfilter-kernel-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux NetFilter kernel flaw, tracked as CVE-2023-32233, can be exploited by unprivileged local users to escalate their privileges to root.
+Netfilter is a framework provided by the Linux kernel that allows various networking-related operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Actors Leading Cause of Cyber Concern in Public Sector<a href="https://www.nextgov.com/cybersecurity/2023/05/state-sponsored-actors-leading-cause-cyber-concern-public-sector/386101/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new SolarWinds report details how foreign hackers have become the largest concern among government entities, and how zero-trust strategies have become the most popular defense.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Security: Harnessing the Collective Experience and Collaborative Tools in DevSecOps<a href="https://thehackernews.com/2023/05/strengthening-product-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the fast-paced cybersecurity landscape, product security takes center stage. DevSecOps swoops in, seamlessly merging security practices into DevOps, empowering teams to tackle challenges. Let's dive into DevSecOps and explore how collaboration can give your team the edge to fight cyber villains. Application security and product security Regrettably, application security teams often intervene late in the development process. They maintain the security level of exposed software, ensuring the integrity and confidentiality of consumed or produced data. They focus on securing data flows, isolating environments with firewalls, and implementing strong user authentication and access control. Product security teams aim to guarantee the intrinsic reliability of applications. They recommend tools and resources, making them available to developers and operations. In the DevSecOps approach, each team is responsible for the security of the applications they create. These teams apply secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns of a spike of the activity linked to AndoryuBot DDoS botnet<a href="https://securityaffairs.com/145980/cyber-crime/andoryubot-ddos-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A DDoS botnet dubbed AndoryuBot has been observed exploiting an RCE, tracked as CVE-2023-25717, in Ruckus access points.
+FortiGuard Labs researchers have recently observed a spike in attacks attempting to exploit the Ruckus Wireless Admin remote code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building Automation System Exploit Brings KNX Security Back in Spotlight<a href="https://www.securityweek.com/building-automation-system-exploit-brings-knx-security-back-in-spotlight/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A public exploit targeting building automation systems has brought KNX security back into the spotlight, with industrial giant Schneider Electric releasing a security bulletin to warn customers about the potential risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover SideWinder's Latest Server-Based Polymorphism Technique<a href="https://thehackernews.com/2023/05/researchers-uncover-sidewinders-latest.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as SideWinder has been accused of deploying a backdoor in attacks directed against Pakistan government organizations as part of a campaign that commenced in late November 2022. "In this campaign, the SideWinder advanced persistent threat (APT) group used a server-based polymorphism technique to deliver the next stage payload," the BlackBerry Research and Intelligence Team  said  in a technical report published Monday. Another campaign discovered by the Canadian cybersecurity company in early March 2023 shows that Turkey has also landed in the crosshairs of the threat actor's collection priorities. SideWinder  has been on the radar since at least 2012 and it's primarily known to target various Southeast Asian entities located across Pakistan, Afghanistan, Bhutan, China, Myanmar, Nepal, and Sri Lanka. Suspected to be an Indian state-sponsored group, SideWinder is also tracked under the monikers APT-C-17, APT-Q-39, Ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI seized 13 domains linked to DDoS-for-hire platforms<a href="https://securityaffairs.com/145973/cyber-crime/fbi-seized-13-ddos-for-hire-platforms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DoJ announced the seizure of 13 new domains associated with DDoS-for-hire platforms as part of Operation PowerOFF.
+The U.S. Justice Department announced the seizure of 13 domains linked to DDoS-for-hire services as part of a coordinated international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Leaks 600 GB of Data Stolen From Indian Lender<a href="https://www.bankinfosecurity.com/lockbit-30-leaks-600-gbs-data-stolen-from-indian-lender-a-22010?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit 3.0 ransomware group on Monday leaked 600 gigabytes of critical data stolen from Indian lender Fullerton India, two weeks after the group demanded a $3 million ransom from the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of State-Sponsored Attacks Exploiting Critical PaperCut Vulnerability<a href="https://thehackernews.com/2023/05/microsoft-warns-of-state-sponsored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian nation-state groups have now joined financially motivated actors in actively exploiting a critical flaw in PaperCut print management software, Microsoft disclosed over the weekend. The tech giant's threat intelligence team said it observed both Mango Sandstorm (Mercury) and Mint Sandstorm (Phosphorus) weaponizing CVE-2023-27350 in their operations to achieve initial access. "This activity shows Mint Sandstorm's continued ability to  rapidly incorporate [proof-of-concept] exploits  into their operations," Microsoft  said  in a series of tweets. On the other hand, CVE-2023-27350 exploitation activity associated with Mango Sandstorm is said to be on the lower end of the spectrum, with the state-sponsored group "using tools from prior intrusions to connect to their C2 infrastructure." It's worth noting that  Mango Sandstorm  is linked to Iran's Ministry of Intelligence and Security (MOIS) and  Mint Sandstorm  is associated with the Islamic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CACTUS ransomware appeared in the threat landscape<a href="https://securityaffairs.com/145960/malware/new-cactus-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a new ransomware family called CACTUS that exploits known vulnerabilities in VPN appliances to gain initial access to victims' networks.
+Researchers from cybersecurity firm Kroll have analyzed on a new ransomware family called...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DrIBAN Toolkit Targets Italian Corporate Banking<a href="https://cyware.com/news/driban-toolkit-targets-italian-corporate-banking-bb24016d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts at Cleafy disclosed nearly a four-year-long online fraud campaign that infected Windows systems in organizations using drIBAN, a web inject kit. Criminals attempted to alter legitimate banking transfers by changing the beneficiary details and redirecting the funds to their accounts. Organiz ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Strain 'CACTUS' Exploits VPN Flaws to Infiltrate Networks<a href="https://thehackernews.com/2023/05/new-ransomware-strain-cactus-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a new ransomware strain called CACTUS that has been found to leverage known flaws in VPN appliances to obtain initial access to targeted networks. "Once inside the network, CACTUS actors attempt to enumerate local and network user accounts in addition to reachable endpoints before creating new user accounts and leveraging custom scripts to automate the deployment and detonation of the ransomware encryptor via scheduled tasks," Kroll said in a report shared with The Hacker News. The ransomware has been observed targeting large commercial entities since March 2023, with attacks employing double extortion tactics to steal sensitive data prior to encryption. No data leak site has been identified to date. Following a successful exploitation of vulnerable VPN devices, an SSH backdoor is set up to maintain persistent access and a series of PowerShell commands are executed to conduct network scanning and identify a list of machines fo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT groups started exploiting Papercut flaw<a href="https://securityaffairs.com/145952/apt/iranian-apt-papercut-exploitation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warns of Iran-linked APT groups that are targeting vulnerable PaperCut MF/NG print management servers.
+Microsoft warns that Iran-linked APT groups have been observed exploiting the CVE-2023-27350 flaw in attacks against PaperCut MF/NG print...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
