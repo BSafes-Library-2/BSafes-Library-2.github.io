@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of State-Sponsored Attacks Exploiting Critical PaperCut Vulnerability<a href="https://thehackernews.com/2023/05/microsoft-warns-of-state-sponsored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian nation-state groups have now joined financially motivated actors in actively exploiting a critical flaw in PaperCut print management software, Microsoft disclosed over the weekend. The tech giant's threat intelligence team said it observed both Mango Sandstorm (Mercury) and Mint Sandstorm (Phosphorus) weaponizing CVE-2023-27350 in their operations to achieve initial access. "This activity shows Mint Sandstorm's continued ability to&nbsp; rapidly incorporate [proof-of-concept] exploits &nbsp;into their operations," Microsoft&nbsp; said &nbsp;in a series of tweets. On the other hand, CVE-2023-27350 exploitation activity associated with Mango Sandstorm is said to be on the lower end of the spectrum, with the state-sponsored group "using tools from prior intrusions to connect to their C2 infrastructure." It's worth noting that&nbsp; Mango Sandstorm &nbsp;is linked to Iran's Ministry of Intelligence and Security (MOIS) and&nbsp; Mint Sandstorm &nbsp;is associated with the Islamic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

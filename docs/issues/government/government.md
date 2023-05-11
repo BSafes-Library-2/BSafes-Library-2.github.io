@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Neutralizes Russia's Most Sophisticated Snake Cyber Espionage Tool<a href="https://thehackernews.com/2023/05/us-government-neutralizes-russias-most.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday announced the court-authorized disruption of a global network compromised by an advanced malware strain known as&nbsp; Snake &nbsp;wielded by Russia's Federal Security Service (FSB). Snake, dubbed the "most sophisticated cyber espionage tool," is the handiwork of a Russian state-sponsored group called&nbsp; Turla &nbsp;(aka Iron Hunter, Secret Blizzard, SUMMIT, Uroburos, Venomous Bear, and Waterbug), which the U.S. government attributes to a unit within Center 16 of the FSB. The threat actor has a&nbsp; track record &nbsp;of heavily focusing on entities in Europe, the Commonwealth of Independent States (CIS), and countries affiliated with NATO, with recent activity expanding its footprint to incorporate Middle Eastern nations deemed a threat to countries supported by Russia in the region. "For nearly 20 years, this unit [...] has used versions of the Snake malware to steal sensitive documents from hundreds of computer systems in at least 50 countries, which have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

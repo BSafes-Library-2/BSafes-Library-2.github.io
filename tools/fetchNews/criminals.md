@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Seize 13 Domains Offering Criminal DDoS-for-Hire Services<a href="https://thehackernews.com/2023/05/us-authorities-seize-13-domains.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. authorities have announced the seizure of 13 internet domains that offered DDoS-for-hire services to other criminal actors. The takedown is part of an ongoing international initiative dubbed&nbsp; Operation PowerOFF &nbsp;that's aimed at dismantling criminal DDoS-for-hire infrastructures worldwide. The development comes almost five months after a "sweep" in December 2022&nbsp; dismantled 48 similar services &nbsp;for abetting paying users to launch distributed denial-of-service (DDoS) attacks against targets of interest. This includes school districts, universities, financial institutions, and government websites, according to the U.S. Department of Justice (DoJ). Ten of the 13 illicit domains seized are "reincarnations" of booter or stresser services that were previously shuttered towards the end of last year. "In recent years, booter services have continued to proliferate, as they offer a low barrier to entry for users looking to engage in cybercriminal activity,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

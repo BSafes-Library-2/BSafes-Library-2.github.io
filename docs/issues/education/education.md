@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Honeytokens Are the Future of Intrusion Detection<a href="https://thehackernews.com/2023/05/why-honeytokens-are-future-of-intrusion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few weeks ago, the 32nd edition of RSA, one of the world's largest cybersecurity conferences, wrapped up in San Francisco. Among the highlights, Kevin Mandia, CEO of Mandiant at Google Cloud, presented a retrospective on&nbsp; the state of cybersecurity . During his keynote, Mandia stated: "There are clear steps organizations can take beyond common safeguards and security tools to strengthen their defenses and increase their chances of detecting, thwarting or minimizing attack [...] Honeypots , or fake accounts deliberately left untouched by authorized users,&nbsp; are effective at helping organizations detect intrusions or malicious activities that security products can't stop ". "Build honeypots" was one of his seven pieces of advice to help organizations avoid some of the attacks that might require engagement with Mandiant or other incident response firms. As a reminder, honeypots are&nbsp; decoy systems &nbsp;that are set up to lure attackers and divert their attentio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet warns of a spike of the activity linked to AndoryuBot DDoS botnet<a href="https://securityaffairs.com/145980/cyber-crime/andoryubot-ddos-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A DDoS botnet dubbed AndoryuBot has been observed exploiting an RCE, tracked as CVE-2023-25717, in Ruckus access points.
+FortiGuard Labs researchers have recently observed a spike in attacks attempting to exploit the Ruckus Wireless Admin remote code...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

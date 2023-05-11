@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US disrupts Russia-linked Snake implant’s network<a href="https://securityaffairs.com/146017/apt/turla-snake-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government announced to have disrupted the peer-to-peer (P2P) network of computers compromised by the Snake malware.
+The Snake implant is one of the most sophisticated implants used by Russia-linked threat actors for cyberespionage purposes....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's TechnologyOne halts trading after being hit by cyberattack<a href="https://www.reuters.com/technology/australias-technologyone-halts-trading-after-being-hit-by-cyber-attack-2023-05-09/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's TechnologyOne Ltd said on Wednesday it had detected an unauthorised third-party access to its back-office systems, becoming the latest target in a series of cyberattacks that has bogged companies in the country since last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

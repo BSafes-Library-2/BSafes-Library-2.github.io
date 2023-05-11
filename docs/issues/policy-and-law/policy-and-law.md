@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Disruption through Civil Litigation and Equitable Remedies<a href="https://www.lawfareblog.com/cybercrime-disruption-through-civil-litigation-and-equitable-remedies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No single tool, legal or technical, is able to fight cybercrime. But civil action litigation, however imperfect, is an effective tool to disrupt cybercrime that is available now.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastermind Behind Twitter 2020 Hack Pleads Guilty and Faces up to 70 Years in Prison<a href="https://thehackernews.com/2023/05/mastermind-behind-twitter-2020-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. national has pleaded guilty in connection with the July 2020 Twitter attack affecting numerous high-profile accounts and defrauding other users of the platform. Joseph James O'Connor, who also went by the online alias PlugwalkJoe , admitted to "his role in cyberstalking and multiple schemes that involve computer hacking, including the July 2020 hack of Twitter," the U.S. Department of Justice (DoJ) said. The 23-year-old individual was extradited from Spain on April 26 after the Spanish National Court, in February,&nbsp; approved &nbsp;the DoJ request to hand over O'Connor to face 14 criminal charges in the U.S. The&nbsp; massive hack , which took on July 15, 2020, involved O'Connor and his co-conspirators seizing control of 130 Twitter accounts, including those belonging to Barack Obama, Bill Gates, and Elon Musk, to perpetrate a cryptocurrency scam that netted them $120,000 in a few hours. The attack was made possible by using social engineering techniques to obtain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

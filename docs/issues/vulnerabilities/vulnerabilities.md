@@ -8,6 +8,105 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Bypass for a Fixed Bug; MSFT Patches Again<a href="https://www.bankinfosecurity.com/researchers-find-bypass-for-fixed-bug-msft-patches-again-a-22034?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft patched the modified attack - tracked as CVE-2023-29324 - during this month's dump of fixes, rating the bug as "important" but not "critical." Researchers from Akamai, which found and disclosed the bug, say it merits a critical rating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Address Few Dozen ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-few-dozen-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has published six new advisories describing 26 vulnerabilities in Siveillance Video products, Cloud Connect 7, and more. Schneider Electric has published four new advisories that describe half a dozen vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail New Zero-Click Windows Vulnerability for NTLM Credential Theft<a href="https://thehackernews.com/2023/05/experts-detail-new-zero-click-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shared details about a now-patched security flaw in Windows MSHTML platform that could be abused to bypass integrity protections on targeted machines. The vulnerability, tracked as&nbsp; CVE-2023-29324 &nbsp;(CVSS score: 6.5), has been described as a security feature bypass. It was&nbsp; addressed &nbsp;by Microsoft as part of its Patch Tuesday updates for May 2023. Akamai security researcher Ben Barnea, who discovered and reported the bug, noted that all Windows versions are affected, but pointed out Microsoft, Exchange&nbsp; servers with the March update omit the vulnerable feature. "An unauthenticated attacker on the internet could use the vulnerability to coerce an Outlook client to connect to an attacker-controlled server," Barnea&nbsp; said &nbsp;in a report shared with The Hacker News. "This results in NTLM credentials theft. It is a zero-click vulnerability, meaning it can be triggered with no user interaction." It's also worth noting that CVE-2023-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 14 Vulnerabilities in Substance 3D Painter<a href="https://www.securityweek.com/adobe-patches-14-vulnerabilities-in-substance-3d-painter/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has announced security updates for its Substance 3D Painter product to address more than a dozen vulnerabilities. This is the only product for which the software giant released updates this Patch Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for May 2023 fixed 2 actively exploited zero-day flaws<a href="https://securityaffairs.com/146007/security/microsoft-patch-tuesday-may-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday Security updates for May 2023 address a total of 40 vulnerabilities, including two zero-day actively exploited in attacks.
+Microsoft’s May 2023 security updates address 40 vulnerabilities, including two zero-day flaws actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Address Over 100 Vulnerabilities on Patch Tuesday<a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-address-over-100-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has released 38 advisories covering over 80 vulnerabilities. The company has addressed nearly two dozen issues rated ‘high severity’ — the remaining bugs have been rated ‘medium severity’ and one is ‘low severity’.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's May Patch Tuesday Fixes 38 Flaws, Including Active Zero-Day Bug<a href="https://thehackernews.com/2023/05/microsofts-may-patch-tuesday-fixes-38.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has rolled out&nbsp; Patch Tuesday updates &nbsp;for May 2023 to address 38 security flaws, including one zero-day bug that it said is being actively exploited in the wild. Trend Micro's Zero Day Initiative (ZDI)&nbsp; said &nbsp;the volume is the lowest since August 2021, although it pointed out that "this number is expected to rise in the coming months." Of the 38 vulnerabilities, six are rated Critical and 32 are rated Important in severity. Eight of the flaws have been tagged with "Exploitation More Likely" assessment by Microsoft. This is aside from&nbsp; 18 flaws &nbsp;– including 11 bugs since the start of May – the Windows maker resolved in its Chromium-based Edge browser following the release of April Patch Tuesday updates. Topping the list is&nbsp; CVE-2023-29336 &nbsp;(CVSS score: 7.8), a privilege escalation flaw in Win32k that has come under active exploitation. It's not immediately clear how widespread the attacks are. "An attacker who successfully exploited thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Bypass for a Fixed Bug; MSFT Patches Again<a href="https://www.bankinfosecurity.com/researchers-find-bypass-for-fixed-bug-msft-patches-again-a-22034?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Announces New Privacy, Safety, and Security Features Across Its Services<a href="https://thehackernews.com/2023/05/google-announces-new-privacy-safety-and.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Disruption through Civil Litigation and Equitable Remedies<a href="https://www.lawfareblog.com/cybercrime-disruption-through-civil-litigation-and-equitable-remedies"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity firm Dragos shared details about a failed extortion attempt it suffered<a href="https://securityaffairs.com/146053/cyber-crime/dragos-failed-extortion-attempt.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens, Schneider Electric Address Few Dozen ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-few-dozen-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detail New Zero-Click Windows Vulnerability for NTLM Credential Theft<a href="https://thehackernews.com/2023/05/experts-detail-new-zero-click-windows.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DownEx cyberespionage operation targets Central Asia<a href="https://securityaffairs.com/146034/cyber-crime/downex-malware-central-asia-attacks.html"> Full Text</a>
@@ -148,7 +148,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smashing Pumpkins frontman paid ransom to a hacker who threatened to leak the band’s songs<a href="https://securityaffairs.com/146029/cyber-crime/smashing-pumpkins-paid-ransom.html?&web_view=true"> Full Text</a>
@@ -164,7 +164,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated DownEx Malware Campaign Targeting Central Asian Governments<a href="https://thehackernews.com/2023/05/sophisticated-downex-malware-campaign.html"> Full Text</a>
@@ -180,7 +180,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smashing Pumpkins frontman paid ransom to a hacker who threatened to leak the band’s songs<a href="https://securityaffairs.com/146029/cyber-crime/smashing-pumpkins-paid-ransom.html"> Full Text</a>
@@ -197,7 +197,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches 14 Vulnerabilities in Substance 3D Painter<a href="https://www.securityweek.com/adobe-patches-14-vulnerabilities-in-substance-3d-painter/?&web_view=true"> Full Text</a>
@@ -213,7 +213,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Honeytokens Are the Future of Intrusion Detection<a href="https://thehackernews.com/2023/05/why-honeytokens-are-future-of-intrusion.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US disrupts Russia-linked Snake implant’s network<a href="https://securityaffairs.com/146017/apt/turla-snake-malware.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia's TechnologyOne halts trading after being hit by cyberattack<a href="https://www.reuters.com/technology/australias-technologyone-halts-trading-after-being-hit-by-cyber-attack-2023-05-09/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mastermind Behind Twitter 2020 Hack Pleads Guilty and Faces up to 70 Years in Prison<a href="https://thehackernews.com/2023/05/mastermind-behind-twitter-2020-hack.html"> Full Text</a>
@@ -278,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for May 2023 fixed 2 actively exploited zero-day flaws<a href="https://securityaffairs.com/146007/security/microsoft-patch-tuesday-may-2023.html"> Full Text</a>
@@ -295,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel, AMD Address Over 100 Vulnerabilities on Patch Tuesday<a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-address-over-100-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Neutralizes Russia's Most Sophisticated Snake Cyber Espionage Tool<a href="https://thehackernews.com/2023/05/us-government-neutralizes-russias-most.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Windows System Update Drops Aurora Stealer via Invalid Printer Loader<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/05/fake-system-update-drops-new-highly-evasive-loader?&web_view=true"> Full Text</a>
@@ -343,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's May Patch Tuesday Fixes 38 Flaws, Including Active Zero-Day Bug<a href="https://thehackernews.com/2023/05/microsofts-may-patch-tuesday-fixes-38.html"> Full Text</a>
@@ -359,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2023
+May 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than 45,000 Affected by December Cyberattack on Metropolitan Opera<a href="https://therecord.media/met-opera-cyberattack-impacts-more-than-45000?&web_view=true"> Full Text</a>

@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Linux NetFilter kernel flaw allows escalating privileges to ‘root’<a href="https://securityaffairs.com/145989/security/linux-netfilter-kernel-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux NetFilter kernel flaw, tracked as CVE-2023-32233, can be exploited by unprivileged local users to escalate their privileges to root.
+Netfilter&nbsp;is a&nbsp;framework&nbsp;provided by the&nbsp;Linux kernel&nbsp;that allows various&nbsp;networking-related operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

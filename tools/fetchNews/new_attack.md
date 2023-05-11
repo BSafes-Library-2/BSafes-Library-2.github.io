@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firm Dragos shared details about a failed extortion attempt it suffered<a href="https://securityaffairs.com/146053/cyber-crime/dragos-failed-extortion-attempt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity firm Dragos revealed that a ransomware group attempted to breach its infrastructure and extort it.
+Industrial cybersecurity firm Dragos revealed that on May 8, 2023, a known ransomware group attempted and failed to breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smashing Pumpkins frontman paid ransom to a hacker who threatened to leak the band’s songs<a href="https://securityaffairs.com/146029/cyber-crime/smashing-pumpkins-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frontman of the American&nbsp;alternative rock&nbsp;band Smashing Pumpkins,&nbsp;Billy Corgan,&nbsp;has revealed he paid hackers who stole the band's songs
+The frontman of the alternative rock band Smashing Pumpkins,&nbsp;Billy Corgan, revealed he paid a ransom after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 45,000 Affected by December Cyberattack on Metropolitan Opera<a href="https://therecord.media/met-opera-cyberattack-impacts-more-than-45000?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization notified that the names, financial account information, tax identification numbers, Social Security numbers, payment card information, and driver’s license numbers of 45,094 people were leaked during the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

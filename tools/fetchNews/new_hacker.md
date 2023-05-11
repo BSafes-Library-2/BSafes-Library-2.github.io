@@ -8,6 +8,21 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DownEx cyberespionage operation targets Central Asia<a href="https://securityaffairs.com/146034/cyber-crime/downex-malware-central-asia-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new sophisticated malware strain, dubbed&nbsp;DownEx, was involved in attacks aimed at Government organizations in Central Asia.
+In late 2022,&nbsp;Bitdefender Labs&nbsp;researchers first observed a highly targeted cyberattack targeting foreign government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

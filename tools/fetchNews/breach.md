@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The global food distribution giant Sysco discloses a data breach<a href="https://securityaffairs.com/145996/data-breach/sysco-discloses-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sysco, the global food distribution giant, disclosed a data breach, the compromised data includes customer and employee data.
+Sysco Corporation&nbsp;is an American&nbsp;multinational corporation&nbsp;involved in marketing and distributing food products, smallwares,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Leaks 600 GB of Data Stolen From Indian Lender<a href="https://www.bankinfosecurity.com/lockbit-30-leaks-600-gbs-data-stolen-from-indian-lender-a-22010?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit 3.0 ransomware group on Monday leaked 600 gigabytes of critical data stolen from Indian lender Fullerton India, two weeks after the group demanded a $3 million ransom from the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
