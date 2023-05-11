@@ -34,6 +34,347 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Bypass for a Fixed Bug; MSFT Patches Again<a href="https://www.bankinfosecurity.com/researchers-find-bypass-for-fixed-bug-msft-patches-again-a-22034?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft patched the modified attack - tracked as CVE-2023-29324 - during this month's dump of fixes, rating the bug as "important" but not "critical." Researchers from Akamai, which found and disclosed the bug, say it merits a critical rating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Announces New Privacy, Safety, and Security Features Across Its Services<a href="https://thehackernews.com/2023/05/google-announces-new-privacy-safety-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google unveiled a slew of new privacy, safety, and security features today at its annual developer conference, Google I/O. The tech giant's latest initiatives are aimed at protecting its users from cyber threats, including phishing attacks and malicious websites, while providing more control and transparency over their personal data. Here is a short list of the newly introduced features - Improved data control and transparency Gmail Dark Web Scan Report Effortlessly Delete Maps Search History AI-Powered Safe Browsing Content Safety API Expansion About this Image Spam View in Google Drive Among the newly introduced features, the first on the list is improved data control and transparency. Google has unveiled an update for its Android operating system that allows users to better control location sharing through apps installed on their devices. "Starting with location data, you will be informed in permission requests when an app shares your information with third-par
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Disruption through Civil Litigation and Equitable Remedies<a href="https://www.lawfareblog.com/cybercrime-disruption-through-civil-litigation-and-equitable-remedies"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No single tool, legal or technical, is able to fight cybercrime. But civil action litigation, however imperfect, is an effective tool to disrupt cybercrime that is available now.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity firm Dragos shared details about a failed extortion attempt it suffered<a href="https://securityaffairs.com/146053/cyber-crime/dragos-failed-extortion-attempt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industrial cybersecurity firm Dragos revealed that a ransomware group attempted to breach its infrastructure and extort it.
+Industrial cybersecurity firm Dragos revealed that on May 8, 2023, a known ransomware group attempted and failed to breach...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens, Schneider Electric Address Few Dozen ICS Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-schneider-electric-address-few-dozen-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has published six new advisories describing 26 vulnerabilities in Siveillance Video products, Cloud Connect 7, and more. Schneider Electric has published four new advisories that describe half a dozen vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail New Zero-Click Windows Vulnerability for NTLM Credential Theft<a href="https://thehackernews.com/2023/05/experts-detail-new-zero-click-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shared details about a now-patched security flaw in Windows MSHTML platform that could be abused to bypass integrity protections on targeted machines. The vulnerability, tracked as  CVE-2023-29324  (CVSS score: 6.5), has been described as a security feature bypass. It was  addressed  by Microsoft as part of its Patch Tuesday updates for May 2023. Akamai security researcher Ben Barnea, who discovered and reported the bug, noted that all Windows versions are affected, but pointed out Microsoft, Exchange  servers with the March update omit the vulnerable feature. "An unauthenticated attacker on the internet could use the vulnerability to coerce an Outlook client to connect to an attacker-controlled server," Barnea  said  in a report shared with The Hacker News. "This results in NTLM credentials theft. It is a zero-click vulnerability, meaning it can be triggered with no user interaction." It's also worth noting that CVE-2023-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DownEx cyberespionage operation targets Central Asia<a href="https://securityaffairs.com/146034/cyber-crime/downex-malware-central-asia-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new sophisticated malware strain, dubbed DownEx, was involved in attacks aimed at Government organizations in Central Asia.
+In late 2022, Bitdefender Labs researchers first observed a highly targeted cyberattack targeting foreign government...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smashing Pumpkins frontman paid ransom to a hacker who threatened to leak the band’s songs<a href="https://securityaffairs.com/146029/cyber-crime/smashing-pumpkins-paid-ransom.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frontman of the alternative rock band Smashing Pumpkins, Billy Corgan, revealed that he paid a ransom after a hacker stole the band’s songs and threatened to leak them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated DownEx Malware Campaign Targeting Central Asian Governments<a href="https://thehackernews.com/2023/05/sophisticated-downex-malware-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government organizations in Central Asia are the target of a sophisticated espionage campaign that leverages a previously undocumented strain of malware dubbed  DownEx . Bitdefender, in a  report  shared with The Hacker News, said the activity remains active, with evidence likely pointing to the involvement of Russia-based threat actors. The Romanian cybersecurity firm said it first detected the malware in a highly targeted attack aimed at foreign government institutions in Kazakhstan in late 2022. Subsequently, another attack was observed in Afghanistan. The use of a diplomat-themed lure document and the campaign's focus on data exfiltration suggests the involvement of a state-sponsored group, although the exact identity of the hacking outfit remains indeterminate at this stage. The initial intrusion vector for the campaign is suspected to be a spear-phishing email bearing a booby-trapped payload, which is a loader executable that masquerades as a Microsoft Word file. Openi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smashing Pumpkins frontman paid ransom to a hacker who threatened to leak the band’s songs<a href="https://securityaffairs.com/146029/cyber-crime/smashing-pumpkins-paid-ransom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frontman of the American alternative rock band Smashing Pumpkins, Billy Corgan, has revealed he paid hackers who stole the band's songs
+The frontman of the alternative rock band Smashing Pumpkins, Billy Corgan, revealed he paid a ransom after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 14 Vulnerabilities in Substance 3D Painter<a href="https://www.securityweek.com/adobe-patches-14-vulnerabilities-in-substance-3d-painter/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has announced security updates for its Substance 3D Painter product to address more than a dozen vulnerabilities. This is the only product for which the software giant released updates this Patch Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Honeytokens Are the Future of Intrusion Detection<a href="https://thehackernews.com/2023/05/why-honeytokens-are-future-of-intrusion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few weeks ago, the 32nd edition of RSA, one of the world's largest cybersecurity conferences, wrapped up in San Francisco. Among the highlights, Kevin Mandia, CEO of Mandiant at Google Cloud, presented a retrospective on  the state of cybersecurity . During his keynote, Mandia stated: "There are clear steps organizations can take beyond common safeguards and security tools to strengthen their defenses and increase their chances of detecting, thwarting or minimizing attack [...] Honeypots , or fake accounts deliberately left untouched by authorized users,  are effective at helping organizations detect intrusions or malicious activities that security products can't stop ". "Build honeypots" was one of his seven pieces of advice to help organizations avoid some of the attacks that might require engagement with Mandiant or other incident response firms. As a reminder, honeypots are  decoy systems  that are set up to lure attackers and divert their attentio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US disrupts Russia-linked Snake implant’s network<a href="https://securityaffairs.com/146017/apt/turla-snake-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government announced to have disrupted the peer-to-peer (P2P) network of computers compromised by the Snake malware.
+The Snake implant is one of the most sophisticated implants used by Russia-linked threat actors for cyberespionage purposes....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia's TechnologyOne halts trading after being hit by cyberattack<a href="https://www.reuters.com/technology/australias-technologyone-halts-trading-after-being-hit-by-cyber-attack-2023-05-09/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australia's TechnologyOne Ltd said on Wednesday it had detected an unauthorised third-party access to its back-office systems, becoming the latest target in a series of cyberattacks that has bogged companies in the country since last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastermind Behind Twitter 2020 Hack Pleads Guilty and Faces up to 70 Years in Prison<a href="https://thehackernews.com/2023/05/mastermind-behind-twitter-2020-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. national has pleaded guilty in connection with the July 2020 Twitter attack affecting numerous high-profile accounts and defrauding other users of the platform. Joseph James O'Connor, who also went by the online alias PlugwalkJoe , admitted to "his role in cyberstalking and multiple schemes that involve computer hacking, including the July 2020 hack of Twitter," the U.S. Department of Justice (DoJ) said. The 23-year-old individual was extradited from Spain on April 26 after the Spanish National Court, in February,  approved  the DoJ request to hand over O'Connor to face 14 criminal charges in the U.S. The  massive hack , which took on July 15, 2020, involved O'Connor and his co-conspirators seizing control of 130 Twitter accounts, including those belonging to Barack Obama, Bill Gates, and Elon Musk, to perpetrate a cryptocurrency scam that netted them $120,000 in a few hours. The attack was made possible by using social engineering techniques to obtain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for May 2023 fixed 2 actively exploited zero-day flaws<a href="https://securityaffairs.com/146007/security/microsoft-patch-tuesday-may-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday Security updates for May 2023 address a total of 40 vulnerabilities, including two zero-day actively exploited in attacks.
+Microsoft’s May 2023 security updates address 40 vulnerabilities, including two zero-day flaws actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intel, AMD Address Over 100 Vulnerabilities on Patch Tuesday<a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-address-over-100-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has released 38 advisories covering over 80 vulnerabilities. The company has addressed nearly two dozen issues rated ‘high severity’ — the remaining bugs have been rated ‘medium severity’ and one is ‘low severity’.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Neutralizes Russia's Most Sophisticated Snake Cyber Espionage Tool<a href="https://thehackernews.com/2023/05/us-government-neutralizes-russias-most.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday announced the court-authorized disruption of a global network compromised by an advanced malware strain known as  Snake  wielded by Russia's Federal Security Service (FSB). Snake, dubbed the "most sophisticated cyber espionage tool," is the handiwork of a Russian state-sponsored group called  Turla  (aka Iron Hunter, Secret Blizzard, SUMMIT, Uroburos, Venomous Bear, and Waterbug), which the U.S. government attributes to a unit within Center 16 of the FSB. The threat actor has a  track record  of heavily focusing on entities in Europe, the Commonwealth of Independent States (CIS), and countries affiliated with NATO, with recent activity expanding its footprint to incorporate Middle Eastern nations deemed a threat to countries supported by Russia in the region. "For nearly 20 years, this unit [...] has used versions of the Snake malware to steal sensitive documents from hundreds of computer systems in at least 50 countries, which have
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Windows System Update Drops Aurora Stealer via Invalid Printer Loader<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/05/fake-system-update-drops-new-highly-evasive-loader?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using malicious ads to redirect users to what looks like a Windows security update. The scheme is very well designed as it relies on the web browser to display a full-screen animation resembling what you'd expect from Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's May Patch Tuesday Fixes 38 Flaws, Including Active Zero-Day Bug<a href="https://thehackernews.com/2023/05/microsofts-may-patch-tuesday-fixes-38.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has rolled out  Patch Tuesday updates  for May 2023 to address 38 security flaws, including one zero-day bug that it said is being actively exploited in the wild. Trend Micro's Zero Day Initiative (ZDI)  said  the volume is the lowest since August 2021, although it pointed out that "this number is expected to rise in the coming months." Of the 38 vulnerabilities, six are rated Critical and 32 are rated Important in severity. Eight of the flaws have been tagged with "Exploitation More Likely" assessment by Microsoft. This is aside from  18 flaws  – including 11 bugs since the start of May – the Windows maker resolved in its Chromium-based Edge browser following the release of April Patch Tuesday updates. Topping the list is  CVE-2023-29336  (CVSS score: 7.8), a privilege escalation flaw in Win32k that has come under active exploitation. It's not immediately clear how widespread the attacks are. "An attacker who successfully exploited thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 45,000 Affected by December Cyberattack on Metropolitan Opera<a href="https://therecord.media/met-opera-cyberattack-impacts-more-than-45000?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization notified that the names, financial account information, tax identification numbers, Social Security numbers, payment card information, and driver’s license numbers of 45,094 people were leaked during the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 9, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
