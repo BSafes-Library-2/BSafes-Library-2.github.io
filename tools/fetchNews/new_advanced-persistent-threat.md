@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Group Red Stinger Targets Military and Critical Infrastructure in Eastern Europe<a href="https://thehackernews.com/2023/05/new-apt-group-red-stinger-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected advanced persistent threat (APT) actor dubbed&nbsp; Red Stinger &nbsp;has been linked to attacks targeting Eastern Europe since 2020. "Military, transportation, and critical infrastructure were some of the entities being targeted, as well as some involved in the&nbsp; September East Ukraine referendums ," Malwarebytes disclosed in a&nbsp; report &nbsp;published today. "Depending on the campaign, attackers managed to exfiltrate snapshots, USB drives, keyboard strokes, and microphone recordings." Red Stinger overlaps with a threat cluster Kaspersky revealed under the name&nbsp; Bad Magic &nbsp;last month as having targeted government, agriculture, and transportation organizations located in Donetsk, Lugansk, and Crimea last year. While there were indications that the APT group may have been active since at least September 2021, the latest findings from Malwarebytes push the group's origins back by nearly a year, with the first operation taking place in December 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT breached the Seoul National University Hospital<a href="https://securityaffairs.com/146088/apt/seoul-national-university-hospital-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Korean National Police Agency (KNPA) warns that a North Korea-linked APT group had breached the Seoul National University Hospital (SNUH).
+The Korean National Police Agency (KNPA) revealed that a North Korea-linked APT group has breached one of the largest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

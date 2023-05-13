@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smashing Pumpkins frontman paid ransom to a hacker who threatened to leak the band’s songs<a href="https://securityaffairs.com/146029/cyber-crime/smashing-pumpkins-paid-ransom.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frontman of the alternative rock band Smashing Pumpkins, Billy Corgan, revealed that he paid a ransom after a hacker stole the band’s songs and threatened to leak them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

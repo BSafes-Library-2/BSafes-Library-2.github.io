@@ -8,6 +8,64 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bl00dy Ransomware Gang actively targets the education sector exploiting PaperCut RCE<a href="https://securityaffairs.com/146154/cyber-crime/bl00dy-ransomware-targets-education-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA and FBI warned of attacks conducted by the&nbsp;Bl00dy Ransomware Gang against the education sector in the country.
+The FBI and CISA issued a joint advisory warning that the Bl00dy Ransomware group is actively targeting the education sector...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Threat Group Uses Fake Company Acquisitions in CEO Fraud Schemes<a href="https://www.csoonline.com/article/3696274/israeli-threat-group-uses-fake-company-acquisitions-in-ceo-fraud-schemes.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of cybercriminals based in Israel has launched more than 350 business email compromise (BEC) campaigns over the past two years, targeting large multinational companies from around the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Black Basta ransomware gang hit multinational company ABB<a href="https://securityaffairs.com/146132/cyber-crime/black-basta-ransomware-hit-abb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss electrification and automation technology giant ABB suffered a Black Basta ransomware attack that impacted its business operations.
+Swiss multinational company ABB, a leading electrification and automation technology provider, it the last victim...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Police Takes Down Massive Cybercrime Ring, 40 Arrested<a href="https://thehackernews.com/2023/05/spanish-police-takes-down-massive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Police of Spain said it arrested 40 individuals for their alleged involvement in an organized crime gang called Trinitarians . Among those apprehended include two hackers who carried out bank scams through phishing and smishing techniques and 15 other members of the crime syndicate, who have all been charged with a number of offenses such as bank fraud, forging documents, identity theft, and money laundering. In all, the nefarious scheme is believed to have defrauded more than 300,000 victims, resulting in losses of over €700,000. "The criminal organization used hacking tools and business logistics to carry out computer scams," officials&nbsp; said . To pull off the attacks, the cybercriminals sent bogus links via SMS that, when clicked, redirected users to a phishing panel masquerading as legitimate financial institutions to steal their credentials and abuse the access to request for loans and link the cards to cryptocurrency wallets under their control. These
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

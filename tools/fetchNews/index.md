@@ -34,6 +34,416 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amtel, LLC dba Connectivity Source Notifies 17,835 Current and Former Employees of Recent Data Breach<a href="https://www.jdsupra.com/legalnews/amtel-llc-dba-connectivity-source-3147197/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 10, the firm filed a notice of data breach with the Maine Attorney General after learning that an unauthorized party had gained access to the company’s IT network and accessed sensitive information belonging to current and former employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XWorm Malware Exploits Follina Vulnerability in New Wave of Attacks<a href="https://thehackernews.com/2023/05/xworm-malware-exploits-follina.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered an ongoing phishing campaign that makes use of a unique attack chain to deliver the  XWorm malware  on targeted systems. Securonix, which is tracking the activity cluster under the name  MEME#4CHAN , said some of the attacks have primarily targeted manufacturing firms and healthcare clinics located in Germany. "The attack campaign has been leveraging rather unusual meme-filled PowerShell code, followed by a heavily obfuscated XWorm payload to infect its victims," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a new analysis shared with The Hacker News. The report builds on  recent findings  from Elastic Security Labs, which revealed the threat actor's reservation-themed lures to deceive victims into opening malicious documents capable of delivering XWorm and Agent Tesla payloads. The attacks begin with phishing attacks to distribute decoy Microsoft Word documents that, instead of using macros, weaponi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bl00dy Ransomware Gang actively targets the education sector exploiting PaperCut RCE<a href="https://securityaffairs.com/146154/cyber-crime/bl00dy-ransomware-targets-education-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. CISA and FBI warned of attacks conducted by the Bl00dy Ransomware Gang against the education sector in the country.
+The FBI and CISA issued a joint advisory warning that the Bl00dy Ransomware group is actively targeting the education sector...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Informed of Over a Dozen Vulnerabilities in Rockwell Automation Products<a href="https://www.securityweek.com/organizations-informed-of-over-a-dozen-vulnerabilities-in-rockwell-automation-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation published six new security advisories this week and four of them have also been distributed by the US Cybersecurity and Infrastructure Security Agency (CISA). The advisories describe a total of more than a dozen vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Routers' Flaws Expose Users to Malware, Remote Attacks, and Surveillance<a href="https://thehackernews.com/2023/05/netgear-routers-flaws-expose-users-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five security flaws have been disclosed in Netgear RAX30 routers that could be chained to bypass authentication and achieve remote code execution. "Successful exploits could allow attackers to monitor users' internet activity, hijack internet connections, and redirect traffic to malicious websites or inject malware into network traffic," Claroty security researcher Uri Katz  said  in a report. Additionally, a network-adjacent threat actor could also weaponize the flaws to access and control networked smart devices like security cameras, thermostats, smart locks; tamper with router settings, and even use a compromised network to launch attacks against other devices or networks. The list of flaws, which were  demonstrated  at the Pwn2Own hacking competition held at Toronto in December 2022, is as follows - CVE-2023-27357 (CVSS score: 6.5) - Missing Authentication Information Disclosure Vulnerability CVE-2023-27368 (CVSS score: 8.8) - Stack-based Buffer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked source code of Babuk ransomware used by 10 different ransomware families targeting VMware ESXi<a href="https://securityaffairs.com/146144/cyber-crime/babuk-ransomware-code-used-10-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak of the source code of the Babuk ransomware allowed 9 ransomware gangs to create their own ransomware targeting VMware ESXi systems.
+SentinelLabs researchers have identified 10 ransomware families using VMware ESXi lockers based on the source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tennessee, Georgia colleges respond to cyberattacks as school year wraps up<a href="https://therecord.media/cyberattacks-chattanooga-state-mercer-university?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tennessee’s Chattanooga State Community College has been responding to a cyberattack since Saturday, forcing the school to cancel classes on Monday and modify schedules for staff members. The school serves more than 11,000 students.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy Variant of Linux Backdoor BPFDoor Emerges from the Shadows<a href="https://thehackernews.com/2023/05/new-variant-of-linux-backdoor-bpfdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented and mostly undetected variant of a Linux backdoor called  BPFDoor  has been spotted in the wild, cybersecurity firm Deep Instinct said in a technical report published this week. " BPFDoor  retains its reputation as an extremely stealthy and difficult-to-detect malware with this latest iteration," security researchers Shaul Vilkomir-Preisman and Eliran Nissan said . BPFDoor (aka JustForFun), first documented by  PwC  and  Elastic Security Labs  in May 2022, is a passive Linux backdoor associated with a Chinese threat actor called  Red Menshen (aka  DecisiveArchitect  or Red Dev 18), which is known to single out telecom providers across the Middle East and Asia since at least 2021. The malware is specifically geared towards  establishing persistent remote access  to compromised target environments for extended periods of time, with evidence pointing to the hacking crew operating the backdoor undetected for years. BPFDoor gets its name from the u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Email Security Landscape Looks Like in 2023<a href="https://securityaffairs.com/146141/hacking/email-security-landscape-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email-based threats have become increasingly sophisticated, how is changing the Email Security Landscape?
+For over a decade, email has been a common source of cybersecurity threats. During that time, email-based threats have become increasingly sophisticated....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Threat Group Uses Fake Company Acquisitions in CEO Fraud Schemes<a href="https://www.csoonline.com/article/3696274/israeli-threat-group-uses-fake-company-acquisitions-in-ceo-fraud-schemes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of cybercriminals based in Israel has launched more than 350 business email compromise (BEC) campaigns over the past two years, targeting large multinational companies from around the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solving Your Teams Secure Collaboration Challenges<a href="https://thehackernews.com/2023/05/solving-your-teams-secure-collaboration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's interconnected world, where organisations regularly exchange sensitive information with customers, partners and employees, secure collaboration has become increasingly vital. However, collaboration can pose a security risk if not managed properly. To ensure that collaboration remains secure, organisations need to take steps to protect their data. Since collaborating is essential for almost any team to succeed, shouldn't you be able to do it securely? Whether you're sharing a Wi-Fi password, a social media account, or the passwords to a financial account, you deserve peace of mind. The risks of not protecting your sensitive data can be disastrous, from data breaches and reputational damage to legal ramifications and financial loss. But let's face it: Secure collaboration can be a real nightmare. Challenges of Secure Collaboration and Password Sharing It's another day in the office, and your team needs to share a ridiculous amount of sensitive informati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Black Basta ransomware gang hit multinational company ABB<a href="https://securityaffairs.com/146132/cyber-crime/black-basta-ransomware-hit-abb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swiss electrification and automation technology giant ABB suffered a Black Basta ransomware attack that impacted its business operations.
+Swiss multinational company ABB, a leading electrification and automation technology provider, it the last victim...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of mobile phones come pre-infected with malware<a href="https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware turns the devices into proxies which are used to steal and sell SMS messages, take over social media and online messaging accounts, and used as monetization opportunities via adverts and click fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bl00dy Ransomware Gang Strikes Education Sector with Critical PaperCut Vulnerability<a href="https://thehackernews.com/2023/05/bl00dy-ransomware-gang-strikes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have warned of attacks carried out by a threat actor known as the  Bl00dy Ransomware Gang  that attempt to exploit vulnerable PaperCut servers against the education facilities sector in the country. The attacks took place in early May 2023, the Federal Bureau of Investigation (FBI) and Cybersecurity and Infrastructure Security Agency (CISA) said in a joint cybersecurity advisory issued Thursday. "The Bl00dy Ransomware Gang gained access to victim networks across the Education Facilities Subsector where PaperCut servers vulnerable to  CVE-2023-27350  were exposed to the internet," the agencies  said . "Ultimately, some of these operations led to data exfiltration and encryption of victim systems. The Bl00dy Ransomware Gang left ransom notes on victim systems demanding payment in exchange for decryption of encrypted files." CVE-2023-27350 is a now-patched critical security flaw affecting some versions of PaperCut MF a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the Essential ‘Addons for Elementor’ WordPress plugin poses 1M sites at risk of hacking<a href="https://securityaffairs.com/146119/hacking/essential-addons-for-elementor-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of an unauthenticated privilege escalation flaw in the popular Essential 'Addons for Elementor' WordPress plugin.
+Essential 'Addons for Elementor' WordPress plugin is a collection of 90+ creative elements and extensions Enhance that allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One Million WordPress Sites Impacted by Exploited Plugin Vulnerability<a href="https://www.securityweek.com/1-million-wordpress-sites-impacted-by-exploited-plugin-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploitation of a critical vulnerability in the Essential Addons for Elementor WordPress plugin began immediately after a patch was released, WordPress security firm Defiant warns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaw in WordPress Plugin Used by Over a Million Sites Under Active Exploitation<a href="https://thehackernews.com/2023/05/severe-security-flaw-exposes-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been disclosed in the popular WordPress plugin  Essential Addons for Elementor  that could be potentially exploited to achieve elevated privileges on affected sites. The issue, tracked as CVE-2023-32243, has been addressed by the plugin maintainers in version 5.7.2 that was shipped on May 11, 2023. Essential Addons for Elementor has over one million active installations. "This plugin suffers from an unauthenticated privilege escalation vulnerability and allows any unauthenticated user to escalate their privilege to that of any user on the WordPress site," Patchstack researcher Rafie Muhammad  said . Successful exploitation of the flaw could permit a threat actor to reset the password of any arbitrary user as long as the malicious party is aware of their username. The shortcoming is believed to have existed since version 5.4.0. This can have serious ramifications as the flaw could be weaponized to reset the password associated with an administ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts share details of five flaws that can be chained to hack Netgear RAX30 Routers<a href="https://securityaffairs.com/146111/hacking/netgear-router-exploit-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed the details of five vulnerabilities that can be chained to take over some Netgear router models.
+Industrial and IoT cybersecurity firm Claroty disclosed technical details of five vulnerabilities that be exploited to hack some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Group Red Stinger Targets Military and Critical Infrastructure in Eastern Europe<a href="https://thehackernews.com/2023/05/new-apt-group-red-stinger-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected advanced persistent threat (APT) actor dubbed  Red Stinger  has been linked to attacks targeting Eastern Europe since 2020. "Military, transportation, and critical infrastructure were some of the entities being targeted, as well as some involved in the  September East Ukraine referendums ," Malwarebytes disclosed in a  report  published today. "Depending on the campaign, attackers managed to exfiltrate snapshots, USB drives, keyboard strokes, and microphone recordings." Red Stinger overlaps with a threat cluster Kaspersky revealed under the name  Bad Magic  last month as having targeted government, agriculture, and transportation organizations located in Donetsk, Lugansk, and Crimea last year. While there were indications that the APT group may have been active since at least September 2021, the latest findings from Malwarebytes push the group's origins back by nearly a year, with the first operation taking place in December 2020.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We are in the final! Please vote for Security Affairs and Pierluigi Paganini<a href="https://securityaffairs.com/146108/breaking-news/we-are-in-the-final-please-vote-for-security-affairs-and-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dear readers and friends, once again we are in the final of the European Cybersecurity Blogger Awards 2022 and I need your support.
+Please help me in reaching this new target. I work hard every day to provide updated news to students, passionate readers,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attack Surface Management Supports Continuous Threat Exposure Management<a href="https://thehackernews.com/2023/05/how-attack-surface-management-supports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Forrester, External Attack Surface Management (EASM) emerged as a market category in 2021 and gained popularity in 2022. In a different report, Gartner concluded that vulnerability management vendors are expanding their offerings to include  Attack Surface Management (ASM)  for a suite of comprehensive offensive security solutions. Recognition from global analysts has officially put ASM on the map, evolving the way security leaders approach their cybersecurity.  Why Now is the Right Time for Attack Surface Management  Businesses today rely more on digital assets than ever before. Shifts over time include more use of the cloud, an increase in remote workforces, and greater expansion of digital assets in part because of mergers and acquisitions. This resulted in an expansion of both known and unknown attack surfaces that businesses manage, presenting a greater number of pathways for malicious actors to gain entry to an environment.  Consider this analogy for example: I
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will provide dark web monitoring to all US Gmail users and more<a href="https://securityaffairs.com/146095/deep-web/google-dark-web-monitoring-us-gmail-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the opening of the dark web monitoring report security feature to all Gmail users in the United States.
+Google is going to offer dark web monitoring to all U.S. Gmail users, the feature allows them to search for their email addresses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish Police Takes Down Massive Cybercrime Ring, 40 Arrested<a href="https://thehackernews.com/2023/05/spanish-police-takes-down-massive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Police of Spain said it arrested 40 individuals for their alleged involvement in an organized crime gang called Trinitarians . Among those apprehended include two hackers who carried out bank scams through phishing and smishing techniques and 15 other members of the crime syndicate, who have all been charged with a number of offenses such as bank fraud, forging documents, identity theft, and money laundering. In all, the nefarious scheme is believed to have defrauded more than 300,000 victims, resulting in losses of over €700,000. "The criminal organization used hacking tools and business logistics to carry out computer scams," officials  said . To pull off the attacks, the cybercriminals sent bogus links via SMS that, when clicked, redirected users to a phishing panel masquerading as legitimate financial institutions to steal their credentials and abuse the access to request for loans and link the cards to cryptocurrency wallets under their control. These
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT breached the Seoul National University Hospital<a href="https://securityaffairs.com/146088/apt/seoul-national-university-hospital-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Korean National Police Agency (KNPA) warns that a North Korea-linked APT group had breached the Seoul National University Hospital (SNUH).
+The Korean National Police Agency (KNPA) revealed that a North Korea-linked APT group has breached one of the largest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter now supports Encrypted Direct Messages, with some limitations<a href="https://securityaffairs.com/146075/security/twitter-encrypted-direct-messages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter is rolling out support for encrypted direct messages (DMs), the security feature will be initially available for the verified users.
+Twitter is rolling out support for encrypted direct messages (DMs), the feature is initially limited to verified users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

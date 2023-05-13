@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Announces New Privacy, Safety, and Security Features Across Its Services<a href="https://thehackernews.com/2023/05/google-announces-new-privacy-safety-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google unveiled a slew of new privacy, safety, and security features today at its annual developer conference, Google I/O. The tech giant's latest initiatives are aimed at protecting its users from cyber threats, including phishing attacks and malicious websites, while providing more control and transparency over their personal data. Here is a short list of the newly introduced features - Improved data control and transparency Gmail Dark Web Scan Report Effortlessly Delete Maps Search History AI-Powered Safe Browsing Content Safety API Expansion About this Image Spam View in Google Drive Among the newly introduced features, the first on the list is improved data control and transparency. Google has unveiled an update for its Android operating system that allows users to better control location sharing through apps installed on their devices. "Starting with location data, you will be informed in permission requests when an app shares your information with third-par
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tennessee, Georgia colleges respond to cyberattacks as school year wraps up<a href="https://therecord.media/cyberattacks-chattanooga-state-mercer-university?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tennessee’s Chattanooga State Community College has been responding to a cyberattack since Saturday, forcing the school to cancel classes on Monday and modify schedules for staff members. The school serves more than 11,000 students.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bl00dy Ransomware Gang Strikes Education Sector with Critical PaperCut Vulnerability<a href="https://thehackernews.com/2023/05/bl00dy-ransomware-gang-strikes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have warned of attacks carried out by a threat actor known as the&nbsp; Bl00dy Ransomware Gang &nbsp;that attempt to exploit vulnerable PaperCut servers against the education facilities sector in the country. The attacks took place in early May 2023, the Federal Bureau of Investigation (FBI) and Cybersecurity and Infrastructure Security Agency (CISA) said in a joint cybersecurity advisory issued Thursday. "The Bl00dy Ransomware Gang gained access to victim networks across the Education Facilities Subsector where PaperCut servers vulnerable to&nbsp; CVE-2023-27350 &nbsp;were exposed to the internet," the agencies&nbsp; said . "Ultimately, some of these operations led to data exfiltration and encryption of victim systems. The Bl00dy Ransomware Gang left ransom notes on victim systems demanding payment in exchange for decryption of encrypted files." CVE-2023-27350 is a now-patched critical security flaw affecting some versions of PaperCut MF a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
