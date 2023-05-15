@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CLR SqlShell Malware Targets MS SQL Servers for Crypto Mining and Ransomware<a href="https://thehackernews.com/2023/05/clr-sqlshell-malware-targets-ms-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly managed Microsoft SQL (MS SQL) servers are the target of a new campaign that's designed to propagate a category of malware called  CLR SqlShell  that ultimately facilitates the deployment of cryptocurrency miners and ransomware. "Similar to web shell, which can be installed on web servers, SqlShell is a malware strain that supports various features after being installed on an MS SQL server, such as executing commands from threat actors and carrying out all sorts of malicious behavior," AhnLab Security Emergency response Center (ASEC)  said  in a report published last week. A stored procedure is a subroutine that contains a set of Structured Query Language (SQL) statements for use across multiple programs in a relational database management system (RDBMS). CLR (short for common language runtime) stored procedures – available in SQL Server 2005 and later – refer to  stored procedures  that are written in a .NET language such as C# or Visual Basic. The attack me
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Ubiquiti Employee Gets 6 Years in Jail for $2 Million Crypto Extortion Case<a href="https://thehackernews.com/2023/05/former-ubiquiti-employee-gets-6-years.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of Ubiquiti has been  sentenced  to six years in jail after he pleaded guilty to posing as an anonymous hacker and a whistleblower in an attempt to extort almost $2 million worth of cryptocurrency while working at the company. Nickolas Sharp, 37, was arrested in December 2021 for using his insider access as a senior developer to steal confidential data and sending an anonymous email asking the network technology provider to pay 50 bitcoin (about $2 million at the time) in exchange for the siphoned information. Ubiquiti, however, didn't yield to the ransom attempt and instead looped in law enforcement, which eventually identified Sharp as the hacker after tracing a VPN connection to a Surfshark account purchased with his PayPal account. "Sharp repeatedly misused his administrative access to download gigabytes of confidential data from his employer," the U.S. Justice Department said, adding he "modified session file names to attempt to make it ap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
