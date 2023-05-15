@@ -34,6 +34,175 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The latest variant of the RapperBot botnet adds cryptojacking capabilities<a href="https://securityaffairs.com/146207/malware/rapperbot-botnet-adds-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs Researchers spotted new samples of the RapperBot botnet that support cryptojacking capabilities.
+FortiGuard Labs researchers have discovered new samples of the RapperBot bot that added cryptojacking capabilities.
+Researchers from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capita warns customers to assume that their data was stolen<a href="https://securityaffairs.com/146200/data-breach/capita-warns-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK outsourcing giant Capita is informing customers that their data may have been stolen in the cyberattack that hit the company in early April.
+In early April, the UK outsourcing giant Capita confirmed that its staff was locked out of their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 419 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146195/breaking-news/security-affairs-newsletter-round-419.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+We are in the final!
+Please vote for Security Affairs (https://securityaffairs.com/) as the best...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Plugin Vulnerability Exposed Ferrari Website to Hackers<a href="https://www.securityweek.com/wordpress-plugin-vulnerability-exposed-ferrari-website-to-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers noticed that the ‘media.ferrari.com’ domain is powered by WordPress and it was running a very old version of W3 Total Cache, a plugin installed on more than a million websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing-as-a-Service Platform Lets Cybercriminals Generate Convincing Phishing Pages<a href="https://thehackernews.com/2023/05/new-phishing-as-service-platform-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service (PhaaS or PaaS) platform named  Greatness  has been leveraged by cybercriminals to target business users of the Microsoft 365 cloud service since at least mid-2022, effectively lowering the bar to entry for phishing attacks. "Greatness, for now, is only focused on Microsoft 365 phishing pages, providing its affiliates with an attachment and link builder that creates highly convincing decoy and login pages," Cisco Talos researcher Tiago Pereira  said . "It contains features such as having the victim's email address pre-filled and displaying their appropriate company logo and background image, extracted from the target organization's real Microsoft 365 login page." Campaigns involving Greatness have mainly manufacturing, health care, and technology entities located in the U.S., the U.K., Australia, South Africa, and Canada, with a spike in activity detected in December 2022 and March 2023. Phishing kits like Greatness offer th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 237,000 US government employees breached<a href="https://www.yahoo.com/news/data-237-000-us-government-232707971.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of 237,000 current and former federal government employees has been exposed in a data breach at the U.S. Transportation Department (USDOT), sources briefed on the matter said on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal info of 90k hikers leaked by French tourism company La Malle Postale<a href="https://securityaffairs.com/146191/data-breach/personal-info-of-90k-hikers-leaked-by-french-tourism-company-la-malle-postale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+La Malle Postale, a transportation company serving hikers on popular hiking trails in France, leaked personal data and private messages of their clients.
+The Cybernews research team has discovered a data leak on La Malle Postale’s system that exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of more than 2M Toyota customers exposed in ten years-long data breach<a href="https://securityaffairs.com/146178/data-breach/toyota-10-years-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach disclosed by Toyota Motor Corporation exposed info of more than 2 million customers for ten years
+Toyota Motor Corporation disclosed a data breach that exposed the car-location information of 2,150,000 customers between November 6, 2013,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord suffered a data after third-party support agent was hacked<a href="https://securityaffairs.com/146171/data-breach/discord-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discord disclosed a data breach, the security breach was caused by the compromise of a third-party support agent's account.
+Discord, the popular VoIP and instant messaging social platform, disclosed a data breach and is notifying the impacted users....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-affiliated CheckMate ransomware quietly targets popular file-sharing protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CheckMate ransomware operators have been targeting the Server Message Block (SMB) communication protocol used for file sharing to compromise their victims’ networks.
+Unlike most ransom campaigns, CheckMate, discovered in 2022, has been quiet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

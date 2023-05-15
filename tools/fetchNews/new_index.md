@@ -34,7 +34,176 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The latest variant of the RapperBot botnet adds cryptojacking capabilities<a href="https://securityaffairs.com/146207/malware/rapperbot-botnet-adds-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs Researchers spotted new samples of the RapperBot botnet that support cryptojacking capabilities.
+FortiGuard Labs researchers have discovered new samples of the RapperBot bot that added cryptojacking capabilities.
+Researchers from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capita warns customers to assume that their data was stolen<a href="https://securityaffairs.com/146200/data-breach/capita-warns-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK outsourcing giant Capita is informing customers that their data may have been stolen in the cyberattack that hit the company in early April.
+In early April, the UK outsourcing giant Capita confirmed that its staff was locked out of their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 419 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146195/breaking-news/security-affairs-newsletter-round-419.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+We are in the final!
+Please vote for Security Affairs (https://securityaffairs.com/) as the best...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Plugin Vulnerability Exposed Ferrari Website to Hackers<a href="https://www.securityweek.com/wordpress-plugin-vulnerability-exposed-ferrari-website-to-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers noticed that the ‘media.ferrari.com’ domain is powered by WordPress and it was running a very old version of W3 Total Cache, a plugin installed on more than a million websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing-as-a-Service Platform Lets Cybercriminals Generate Convincing Phishing Pages<a href="https://thehackernews.com/2023/05/new-phishing-as-service-platform-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service (PhaaS or PaaS) platform named  Greatness  has been leveraged by cybercriminals to target business users of the Microsoft 365 cloud service since at least mid-2022, effectively lowering the bar to entry for phishing attacks. "Greatness, for now, is only focused on Microsoft 365 phishing pages, providing its affiliates with an attachment and link builder that creates highly convincing decoy and login pages," Cisco Talos researcher Tiago Pereira  said . "It contains features such as having the victim's email address pre-filled and displaying their appropriate company logo and background image, extracted from the target organization's real Microsoft 365 login page." Campaigns involving Greatness have mainly manufacturing, health care, and technology entities located in the U.S., the U.K., Australia, South Africa, and Canada, with a spike in activity detected in December 2022 and March 2023. Phishing kits like Greatness offer th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 237,000 US government employees breached<a href="https://www.yahoo.com/news/data-237-000-us-government-232707971.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of 237,000 current and former federal government employees has been exposed in a data breach at the U.S. Transportation Department (USDOT), sources briefed on the matter said on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal info of 90k hikers leaked by French tourism company La Malle Postale<a href="https://securityaffairs.com/146191/data-breach/personal-info-of-90k-hikers-leaked-by-french-tourism-company-la-malle-postale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+La Malle Postale, a transportation company serving hikers on popular hiking trails in France, leaked personal data and private messages of their clients.
+The Cybernews research team has discovered a data leak on La Malle Postale’s system that exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of more than 2M Toyota customers exposed in ten years-long data breach<a href="https://securityaffairs.com/146178/data-breach/toyota-10-years-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach disclosed by Toyota Motor Corporation exposed info of more than 2 million customers for ten years
+Toyota Motor Corporation disclosed a data breach that exposed the car-location information of 2,150,000 customers between November 6, 2013,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord suffered a data after third-party support agent was hacked<a href="https://securityaffairs.com/146171/data-breach/discord-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discord disclosed a data breach, the security breach was caused by the compromise of a third-party support agent's account.
+Discord, the popular VoIP and instant messaging social platform, disclosed a data breach and is notifying the impacted users....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-affiliated CheckMate ransomware quietly targets popular file-sharing protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CheckMate ransomware operators have been targeting the Server Message Block (SMB) communication protocol used for file sharing to compromise their victims’ networks.
+Unlike most ransom campaigns, CheckMate, discovered in 2022, has been quiet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Amtel, LLC dba Connectivity Source Notifies 17,835 Current and Former Employees of Recent Data Breach<a href="https://www.jdsupra.com/legalnews/amtel-llc-dba-connectivity-source-3147197/?&web_view=true"> Full Text</a>
@@ -50,7 +219,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XWorm Malware Exploits Follina Vulnerability in New Wave of Attacks<a href="https://thehackernews.com/2023/05/xworm-malware-exploits-follina.html"> Full Text</a>
@@ -66,7 +235,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bl00dy Ransomware Gang actively targets the education sector exploiting PaperCut RCE<a href="https://securityaffairs.com/146154/cyber-crime/bl00dy-ransomware-targets-education-sector.html"> Full Text</a>
@@ -83,7 +252,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Informed of Over a Dozen Vulnerabilities in Rockwell Automation Products<a href="https://www.securityweek.com/organizations-informed-of-over-a-dozen-vulnerabilities-in-rockwell-automation-products/?&web_view=true"> Full Text</a>
@@ -99,7 +268,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Routers' Flaws Expose Users to Malware, Remote Attacks, and Surveillance<a href="https://thehackernews.com/2023/05/netgear-routers-flaws-expose-users-to.html"> Full Text</a>
@@ -115,7 +284,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaked source code of Babuk ransomware used by 10 different ransomware families targeting VMware ESXi<a href="https://securityaffairs.com/146144/cyber-crime/babuk-ransomware-code-used-10-ransomware.html"> Full Text</a>
@@ -132,7 +301,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tennessee, Georgia colleges respond to cyberattacks as school year wraps up<a href="https://therecord.media/cyberattacks-chattanooga-state-mercer-university?&web_view=true"> Full Text</a>
@@ -148,7 +317,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy Variant of Linux Backdoor BPFDoor Emerges from the Shadows<a href="https://thehackernews.com/2023/05/new-variant-of-linux-backdoor-bpfdoor.html"> Full Text</a>
@@ -164,7 +333,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What the Email Security Landscape Looks Like in 2023<a href="https://securityaffairs.com/146141/hacking/email-security-landscape-2023.html"> Full Text</a>
@@ -181,7 +350,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Threat Group Uses Fake Company Acquisitions in CEO Fraud Schemes<a href="https://www.csoonline.com/article/3696274/israeli-threat-group-uses-fake-company-acquisitions-in-ceo-fraud-schemes.html?&web_view=true"> Full Text</a>
@@ -197,7 +366,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Solving Your Teams Secure Collaboration Challenges<a href="https://thehackernews.com/2023/05/solving-your-teams-secure-collaboration.html"> Full Text</a>
@@ -213,7 +382,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Black Basta ransomware gang hit multinational company ABB<a href="https://securityaffairs.com/146132/cyber-crime/black-basta-ransomware-hit-abb.html"> Full Text</a>
@@ -230,7 +399,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of mobile phones come pre-infected with malware<a href="https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/?&web_view=true"> Full Text</a>
@@ -246,7 +415,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bl00dy Ransomware Gang Strikes Education Sector with Critical PaperCut Vulnerability<a href="https://thehackernews.com/2023/05/bl00dy-ransomware-gang-strikes.html"> Full Text</a>
@@ -262,7 +431,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in the Essential ‘Addons for Elementor’ WordPress plugin poses 1M sites at risk of hacking<a href="https://securityaffairs.com/146119/hacking/essential-addons-for-elementor-flaw.html"> Full Text</a>
@@ -279,7 +448,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One Million WordPress Sites Impacted by Exploited Plugin Vulnerability<a href="https://www.securityweek.com/1-million-wordpress-sites-impacted-by-exploited-plugin-vulnerability/?&web_view=true"> Full Text</a>
@@ -295,7 +464,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 12, 2023
+May 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaw in WordPress Plugin Used by Over a Million Sites Under Active Exploitation<a href="https://thehackernews.com/2023/05/severe-security-flaw-exposes-over.html"> Full Text</a>
@@ -311,7 +480,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts share details of five flaws that can be chained to hack Netgear RAX30 Routers<a href="https://securityaffairs.com/146111/hacking/netgear-router-exploit-2.html"> Full Text</a>
@@ -328,7 +497,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New APT Group Red Stinger Targets Military and Critical Infrastructure in Eastern Europe<a href="https://thehackernews.com/2023/05/new-apt-group-red-stinger-targets.html"> Full Text</a>
@@ -344,7 +513,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 We are in the final! Please vote for Security Affairs and Pierluigi Paganini<a href="https://securityaffairs.com/146108/breaking-news/we-are-in-the-final-please-vote-for-security-affairs-and-pierluigi-paganini.html"> Full Text</a>
@@ -361,7 +530,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Attack Surface Management Supports Continuous Threat Exposure Management<a href="https://thehackernews.com/2023/05/how-attack-surface-management-supports.html"> Full Text</a>
@@ -377,7 +546,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google will provide dark web monitoring to all US Gmail users and more<a href="https://securityaffairs.com/146095/deep-web/google-dark-web-monitoring-us-gmail-users.html"> Full Text</a>
@@ -394,7 +563,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish Police Takes Down Massive Cybercrime Ring, 40 Arrested<a href="https://thehackernews.com/2023/05/spanish-police-takes-down-massive.html"> Full Text</a>
@@ -410,7 +579,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked APT breached the Seoul National University Hospital<a href="https://securityaffairs.com/146088/apt/seoul-national-university-hospital-hack.html"> Full Text</a>
@@ -427,7 +596,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2023
+May 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter now supports Encrypted Direct Messages, with some limitations<a href="https://securityaffairs.com/146075/security/twitter-encrypted-direct-messages.html"> Full Text</a>
