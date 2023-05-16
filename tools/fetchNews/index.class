@@ -34,6 +34,486 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BPFDoor Backdoor Gets Stealthier with New Variant<a href="https://cyware.com/news/bpfdoor-backdoor-gets-stealthier-with-new-variant-1a83eacf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts took the wraps off of a newer variant of BPFDoor (BPF stands for Berkeley Packet Filter), which is capable of maintaining persistent access to breached systems for extended periods. The new variant has remained entirely undetected by all the virus-detection engines on VirusTot ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Cellular Routers at Risk: 11 New Vulnerabilities Expose OT Networks<a href="https://thehackernews.com/2023/05/industrial-cellular-routers-at-risk-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several security vulnerabilities have been disclosed in cloud management platforms associated with three industrial cellular router vendors that could expose operational technology (OT) networks to external attacks. The findings were  presented  by Israeli industrial cybersecurity firm OTORIO at the Black Hat Asia 2023 conference last week. The 11 vulnerabilities allow "remote code execution and full control over hundreds of thousands of devices and OT networks - in some cases, even those not actively configured to use the cloud." Specifically, the shortcomings reside in the cloud-based management solutions offered by Sierra Wireless, Teltonika Networks, and InHand Networks to remotely manage and operate devices. Successful exploitation of the vulnerabilities could pose severe risks to industrial environments, allowing adversaries to sidestep security layers as well as exfiltrate sensitive information and achieve code execution remotely on the internal networks. Even w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PharMerica data breach impacts more than 5.8 million individuals<a href="https://securityaffairs.com/146259/data-breach/pharmerica-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National pharmacy network PharMerica discloses a data breach that impacted more than 5.8 million individuals.
+National pharmacy network PharMerica disclosed a data breach that exposed the personal information of 5,815,591 individuals. The incident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in Attacks Against ESXi: Babuk Source Code Inspires Nine Different Ransomware Strains<a href="https://cyware.com/news/rise-in-attacks-against-esxi-babuk-source-code-inspires-nine-different-ransomware-strains-ce3f4f1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs detected 10 ransomware families employing VMware ESXi lockers, derived from the leaked 2021 Babuk source code. These variants emerged between H2 2022 and H1 2023. The report also highlights similarities between Babuk's source code and the ESXi encrypters used by Conti and REvil, indica ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Gang RA Group Hits U.S. and South Korean Organizations<a href="https://thehackernews.com/2023/05/new-ransomware-gang-ra-group-hits-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware group known as  RA Group  has become the latest threat actor to leverage the leaked Babuk ransomware source code to spawn its own locker variant. The cybercriminal gang, which is said to have been operating since at least April 22, 2023, is rapidly expanding its operations, according to cybersecurity firm Cisco Talos. "To date, the group has compromised three organizations in the U.S. and one in South Korea across several business verticals, including manufacturing, wealth management, insurance providers and pharmaceuticals," security researcher Chetan Raghuprasad said in a report shared with The Hacker News. RA Group is no different from other ransomware gangs in that it launches double extortion attacks and runs a date leak site to apply additional pressure on victims into paying ransoms. The Windows-based binary employs  intermittent encryption  to speed up the process and evade detection, not to mention delete volume shadow copies and contents of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RA Group ransomware gang is the latest group using leaked Babuk source code<a href="https://securityaffairs.com/146248/cyber-crime/new-ra-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown ransomware group known as RA Group is targeting companies in U.S. and South Korea with leaked Babuk source code.
+Cisco Talos researchers recently discovered a new ransomware operation called RA Group that has been active since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly identified RA Group compromises companies in U.S. and South Korea with leaked Babuk source code<a href="https://blog.talosintelligence.com/ra-group-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is swiftly expanding its operations. To date, it has compromised three organizations in the U.S. and one in South Korea across several business verticals, including manufacturing, wealth management, insurance providers, and pharmaceuticals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why High Tech Companies Struggle with SaaS Security<a href="https://thehackernews.com/2023/05/why-high-tech-companies-struggle-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's easy to think high-tech companies have a security advantage over other older, more mature industries. Most are unburdened by 40 years of legacy systems and software. They draw some of the world's youngest, brightest digital natives to their ranks, all of whom consider cybersecurity issues their entire lives. Perhaps it is due to their familiarity with technology that causes them to overlook SaaS security configurations. During the last Christmas holiday season, Slack had some private code stolen from its GitHub repository. According to Slack, the stolen code didn't impact production, and no customer data was taken. Still, the breach should serve as a warning sign to other tech companies. Stolen tokens allowed threat actors to access the GitHub instance and download the code. If this type of attack can happen to Slack on GitHub, it can happen to any high-tech company. Tech companies must take SaaS security seriously to prevent resources from leaking or being stolen. App Bre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing the DRM-Report Q1 2023: Unveiling the Current State of Ransomware<a href="https://securityaffairs.com/146241/malware/drm-dashboard-ransomware-monitor-q1-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DRM Dashboard Ransomware Monitor released the first quarterly report for the year 2023 about the activities of ransomware groups globally.
+DRM Dashboard Ransomware Monitor, an independent platform of cybersecurity monitoring, is pleased to release...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois Data Breach Exposes Private Information of Medicaid, SNAP, and TANF Recipients<a href="https://www.countryherald.com/news/local/illinois-data-breach-exposes-private-information-of-medicaid-snap-and-tanf-recipients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Illinois Department of Healthcare and Family Services (HFS) and Department of Human Services (IDHS) have disclosed a data breach within the State of Illinois Application for Benefits Eligibility (ABE) system’s Manage My Case (MMC) portal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Powerful Backdoor and Custom Implant in Year-Long Cyber Campaign<a href="https://thehackernews.com/2023/05/researchers-uncover-powerful-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government, aviation, education, and telecom sectors located in South and Southeast Asia have come under the radar of a new hacking group as part of a highly-targeted campaign that commenced in mid-2022 and continued into the first quarter of 2023. Symantec, by Broadcom Software, is tracking the activity under its insect-themed moniker  Lancefly , with the attacks making use of a "powerful" backdoor called Merdoor. Evidence gathered so far points to the custom implant being utilized as far back as 2018. The ultimate goal of the campaign, based on the tools and the victimology pattern, is assessed to be intelligence gathering. "The backdoor is used very selectively, appearing on just a handful of networks and a small number of machines over the years, with its use appearing to be highly targeted," Symantec  said  in an analysis shared with The Hacker News. "The attackers in this campaign also have access to an updated version of the ZXShell rootkit."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Ubiquiti employee gets 6 years in jail for stealing confidential data and extorting company<a href="https://securityaffairs.com/146228/cyber-crime/uiti-employee-sentenced-6-years.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Ubiquiti employee has been sentenced to six years in jail for the theft of confidential data and extorting company for ransom.
+NICKOLAS SHARP, a former Ubiquiti employee was sentenced today to six years in prison.
+In December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insured companies more likely to be ransomware victims, sometimes more than once<a href="https://www.csoonline.com/article/3696350/insured-companies-more-likely-to-be-ransomware-victims-sometimes-more-than-once.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although threat actors may not be directly correlating the insurance factor to find targets, a reason for this may be that as insurers require more from companies those able to pay for insurance are also likely to be able to afford bigger ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'MichaelKors' Ransomware-as-a-Service Targeting Linux and VMware ESXi Systems<a href="https://thehackernews.com/2023/05/new-michaelkors-ransomware-as-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware-as-service (RaaS) operation called MichaelKors has become the latest file-encrypting malware to target Linux and  VMware ESXi systems  as of April 2023. The development points to cybercriminal actors increasingly setting their eyes on the ESXi, cybersecurity firm CrowdStrike said in a report shared with The Hacker News. "This trend is especially noteworthy given the fact that ESXi, by design, does not support third-party agents or AV software," the company said. "In fact, VMware goes as far as to claim it's not required. This, combined with the popularity of ESXi as a widespread and popular virtualization and management system, makes the hypervisor a highly attractive target for modern adversaries." The  targeting of VMware ESXi hypervisors  with ransomware to scale such campaigns is a technique known as  hypervisor jackpotting . Over the years, the approach has been adopted by several ransomware groups, including Royal. What's more,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former ByteDance executive alleges TikTok of wrongful conduct<a href="https://securityaffairs.com/146219/social-networks/tiktok-alleged-wrongful-conduct.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former ByteDance executive revealed that the China government has access to TikTok data, including data stored in the United.
+Yintao Yu, the head of engineering for ByteDance’s U.S. operations from August 2017 to November 2018, revealed that the Chinese...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PharMerica Discloses Data Breach Impacting 5.8 Million Individuals<a href="https://www.securityweek.com/pharmerica-discloses-data-breach-impacting-5-8-million-individuals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PharMerica’s letter does not provide details on the type of cyberattack that it suffered, but it appears that the Money Message ransomware group is responsible for the incident
+the group started leaking PII and PHI allegedly stolen from PharMerica.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Affiliated CheckMate Ransomware Quietly Targets Popular File-Sharing Protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After gaining access to SMB shares, threat actors behind CheckMate ransomware encrypt all files and leave a ransom note demanding payment in exchange for the decryption key.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CLR SqlShell Malware Targets MS SQL Servers for Crypto Mining and Ransomware<a href="https://thehackernews.com/2023/05/clr-sqlshell-malware-targets-ms-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly managed Microsoft SQL (MS SQL) servers are the target of a new campaign that's designed to propagate a category of malware called  CLR SqlShell  that ultimately facilitates the deployment of cryptocurrency miners and ransomware. "Similar to web shell, which can be installed on web servers, SqlShell is a malware strain that supports various features after being installed on an MS SQL server, such as executing commands from threat actors and carrying out all sorts of malicious behavior," AhnLab Security Emergency response Center (ASEC)  said  in a report published last week. A stored procedure is a subroutine that contains a set of Structured Query Language (SQL) statements for use across multiple programs in a relational database management system (RDBMS). CLR (short for common language runtime) stored procedures – available in SQL Server 2005 and later – refer to  stored procedures  that are written in a .NET language such as C# or Visual Basic. The attack me
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Ubiquiti Employee Gets 6 Years in Jail for $2 Million Crypto Extortion Case<a href="https://thehackernews.com/2023/05/former-ubiquiti-employee-gets-6-years.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of Ubiquiti has been  sentenced  to six years in jail after he pleaded guilty to posing as an anonymous hacker and a whistleblower in an attempt to extort almost $2 million worth of cryptocurrency while working at the company. Nickolas Sharp, 37, was arrested in December 2021 for using his insider access as a senior developer to steal confidential data and sending an anonymous email asking the network technology provider to pay 50 bitcoin (about $2 million at the time) in exchange for the siphoned information. Ubiquiti, however, didn't yield to the ransom attempt and instead looped in law enforcement, which eventually identified Sharp as the hacker after tracing a VPN connection to a Surfshark account purchased with his PayPal account. "Sharp repeatedly misused his administrative access to download gigabytes of confidential data from his employer," the U.S. Justice Department said, adding he "modified session file names to attempt to make it ap
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The latest variant of the RapperBot botnet adds cryptojacking capabilities<a href="https://securityaffairs.com/146207/malware/rapperbot-botnet-adds-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs Researchers spotted new samples of the RapperBot botnet that support cryptojacking capabilities.
+FortiGuard Labs researchers have discovered new samples of the RapperBot bot that added cryptojacking capabilities.
+Researchers from...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capita warns customers to assume that their data was stolen<a href="https://securityaffairs.com/146200/data-breach/capita-warns-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK outsourcing giant Capita is informing customers that their data may have been stolen in the cyberattack that hit the company in early April.
+In early April, the UK outsourcing giant Capita confirmed that its staff was locked out of their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 419 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146195/breaking-news/security-affairs-newsletter-round-419.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+We are in the final!
+Please vote for Security Affairs (https://securityaffairs.com/) as the best...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Plugin Vulnerability Exposed Ferrari Website to Hackers<a href="https://www.securityweek.com/wordpress-plugin-vulnerability-exposed-ferrari-website-to-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers noticed that the ‘media.ferrari.com’ domain is powered by WordPress and it was running a very old version of W3 Total Cache, a plugin installed on more than a million websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing-as-a-Service Platform Lets Cybercriminals Generate Convincing Phishing Pages<a href="https://thehackernews.com/2023/05/new-phishing-as-service-platform-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service (PhaaS or PaaS) platform named  Greatness  has been leveraged by cybercriminals to target business users of the Microsoft 365 cloud service since at least mid-2022, effectively lowering the bar to entry for phishing attacks. "Greatness, for now, is only focused on Microsoft 365 phishing pages, providing its affiliates with an attachment and link builder that creates highly convincing decoy and login pages," Cisco Talos researcher Tiago Pereira  said . "It contains features such as having the victim's email address pre-filled and displaying their appropriate company logo and background image, extracted from the target organization's real Microsoft 365 login page." Campaigns involving Greatness have mainly manufacturing, health care, and technology entities located in the U.S., the U.K., Australia, South Africa, and Canada, with a spike in activity detected in December 2022 and March 2023. Phishing kits like Greatness offer th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 237,000 US government employees breached<a href="https://www.yahoo.com/news/data-237-000-us-government-232707971.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of 237,000 current and former federal government employees has been exposed in a data breach at the U.S. Transportation Department (USDOT), sources briefed on the matter said on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal info of 90k hikers leaked by French tourism company La Malle Postale<a href="https://securityaffairs.com/146191/data-breach/personal-info-of-90k-hikers-leaked-by-french-tourism-company-la-malle-postale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+La Malle Postale, a transportation company serving hikers on popular hiking trails in France, leaked personal data and private messages of their clients.
+The Cybernews research team has discovered a data leak on La Malle Postale’s system that exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of more than 2M Toyota customers exposed in ten years-long data breach<a href="https://securityaffairs.com/146178/data-breach/toyota-10-years-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach disclosed by Toyota Motor Corporation exposed info of more than 2 million customers for ten years
+Toyota Motor Corporation disclosed a data breach that exposed the car-location information of 2,150,000 customers between November 6, 2013,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord suffered a data after third-party support agent was hacked<a href="https://securityaffairs.com/146171/data-breach/discord-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discord disclosed a data breach, the security breach was caused by the compromise of a third-party support agent's account.
+Discord, the popular VoIP and instant messaging social platform, disclosed a data breach and is notifying the impacted users....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-affiliated CheckMate ransomware quietly targets popular file-sharing protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CheckMate ransomware operators have been targeting the Server Message Block (SMB) communication protocol used for file sharing to compromise their victims’ networks.
+Unlike most ransom campaigns, CheckMate, discovered in 2022, has been quiet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

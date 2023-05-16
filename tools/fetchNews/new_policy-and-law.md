@@ -8,6 +8,22 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Ubiquiti employee gets 6 years in jail for stealing confidential data and extorting company<a href="https://securityaffairs.com/146228/cyber-crime/uiti-employee-sentenced-6-years.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former Ubiquiti employee has been&nbsp;sentenced&nbsp;to six years in jail for the theft of confidential data and extorting company for ransom.
+NICKOLAS SHARP, a former Ubiquiti employee was sentenced today to six years in prison.
+In December...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

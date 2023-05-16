@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing-as-a-Service Platform Lets Cybercriminals Generate Convincing Phishing Pages<a href="https://thehackernews.com/2023/05/new-phishing-as-service-platform-lets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing-as-a-service (PhaaS or PaaS) platform named&nbsp; Greatness &nbsp;has been leveraged by cybercriminals to target business users of the Microsoft 365 cloud service since at least mid-2022, effectively lowering the bar to entry for phishing attacks. "Greatness, for now, is only focused on Microsoft 365 phishing pages, providing its affiliates with an attachment and link builder that creates highly convincing decoy and login pages," Cisco Talos researcher Tiago Pereira&nbsp; said . "It contains features such as having the victim's email address pre-filled and displaying their appropriate company logo and background image, extracted from the target organization's real Microsoft 365 login page." Campaigns involving Greatness have mainly manufacturing, health care, and technology entities located in the U.S., the U.K., Australia, South Africa, and Canada, with a spike in activity detected in December 2022 and March 2023. Phishing kits like Greatness offer th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

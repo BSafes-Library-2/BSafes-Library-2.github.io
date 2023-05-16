@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Informed of Over a Dozen Vulnerabilities in Rockwell Automation Products<a href="https://www.securityweek.com/organizations-informed-of-over-a-dozen-vulnerabilities-in-rockwell-automation-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rockwell Automation published six new security advisories this week and four of them have also been distributed by the US Cybersecurity and Infrastructure Security Agency (CISA). The advisories describe a total of more than a dozen vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Routers' Flaws Expose Users to Malware, Remote Attacks, and Surveillance<a href="https://thehackernews.com/2023/05/netgear-routers-flaws-expose-users-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five security flaws have been disclosed in Netgear RAX30 routers that could be chained to bypass authentication and achieve remote code execution. "Successful exploits could allow attackers to monitor users' internet activity, hijack internet connections, and redirect traffic to malicious websites or inject malware into network traffic," Claroty security researcher Uri Katz&nbsp; said &nbsp;in a report. Additionally, a network-adjacent threat actor could also weaponize the flaws to access and control networked smart devices like security cameras, thermostats, smart locks; tamper with router settings, and even use a compromised network to launch attacks against other devices or networks. The list of flaws, which were&nbsp; demonstrated &nbsp;at the Pwn2Own hacking competition held at Toronto in December 2022, is as follows - CVE-2023-27357 (CVSS score: 6.5) - Missing Authentication Information Disclosure Vulnerability CVE-2023-27368 (CVSS score: 8.8) - Stack-based Buffer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in the Essential ‘Addons for Elementor’ WordPress plugin poses 1M sites at risk of hacking<a href="https://securityaffairs.com/146119/hacking/essential-addons-for-elementor-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of an unauthenticated privilege escalation flaw in the popular Essential 'Addons for Elementor' WordPress plugin.
+Essential 'Addons for Elementor' WordPress plugin is a collection of 90+ creative elements and extensions Enhance that allow...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One Million WordPress Sites Impacted by Exploited Plugin Vulnerability<a href="https://www.securityweek.com/1-million-wordpress-sites-impacted-by-exploited-plugin-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploitation of a critical vulnerability in the Essential Addons for Elementor WordPress plugin began immediately after a patch was released, WordPress security firm Defiant warns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Flaw in WordPress Plugin Used by Over a Million Sites Under Active Exploitation<a href="https://thehackernews.com/2023/05/severe-security-flaw-exposes-over.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security vulnerability has been disclosed in the popular WordPress plugin&nbsp; Essential Addons for Elementor &nbsp;that could be potentially exploited to achieve elevated privileges on affected sites. The issue, tracked as CVE-2023-32243, has been addressed by the plugin maintainers in version 5.7.2 that was shipped on May 11, 2023. Essential Addons for Elementor has over one million active installations. "This plugin suffers from an unauthenticated privilege escalation vulnerability and allows any unauthenticated user to escalate their privilege to that of any user on the WordPress site," Patchstack researcher Rafie Muhammad&nbsp; said . Successful exploitation of the flaw could permit a threat actor to reset the password of any arbitrary user as long as the malicious party is aware of their username. The shortcoming is believed to have existed since version 5.4.0. This can have serious ramifications as the flaw could be weaponized to reset the password associated with an administ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts share details of five flaws that can be chained to hack Netgear RAX30 Routers<a href="https://securityaffairs.com/146111/hacking/netgear-router-exploit-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed the details of five vulnerabilities that can be chained to take over some Netgear router models.
+Industrial and IoT cybersecurity firm Claroty disclosed technical details of five vulnerabilities that be exploited to hack some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

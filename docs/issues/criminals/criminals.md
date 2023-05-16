@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Gang RA Group Hits U.S. and South Korean Organizations<a href="https://thehackernews.com/2023/05/new-ransomware-gang-ra-group-hits-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware group known as&nbsp; RA Group &nbsp;has become the latest threat actor to leverage the leaked Babuk ransomware source code to spawn its own locker variant. The cybercriminal gang, which is said to have been operating since at least April 22, 2023, is rapidly expanding its operations, according to cybersecurity firm Cisco Talos. "To date, the group has compromised three organizations in the U.S. and one in South Korea across several business verticals, including manufacturing, wealth management, insurance providers and pharmaceuticals," security researcher Chetan Raghuprasad said in a report shared with The Hacker News. RA Group is no different from other ransomware gangs in that it launches double extortion attacks and runs a date leak site to apply additional pressure on victims into paying ransoms. The Windows-based binary employs&nbsp; intermittent encryption &nbsp;to speed up the process and evade detection, not to mention delete volume shadow copies and contents of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RA Group ransomware gang is the latest group using leaked Babuk source code<a href="https://securityaffairs.com/146248/cyber-crime/new-ra-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown ransomware group known as RA Group is targeting companies in U.S. and South Korea with leaked Babuk source code.
+Cisco Talos researchers recently discovered a new ransomware operation called RA Group that has been active since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaked source code of Babuk ransomware used by 10 different ransomware families targeting VMware ESXi<a href="https://securityaffairs.com/146144/cyber-crime/babuk-ransomware-code-used-10-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak of the source code of the Babuk ransomware allowed 9 ransomware gangs to create their own ransomware targeting VMware ESXi systems.
+SentinelLabs researchers have identified 10 ransomware families using VMware ESXi lockers based on the source...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BPFDoor Backdoor Gets Stealthier with New Variant<a href="https://cyware.com/news/bpfdoor-backdoor-gets-stealthier-with-new-variant-1a83eacf"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Cellular Routers at Risk: 11 New Vulnerabilities Expose OT Networks<a href="https://thehackernews.com/2023/05/industrial-cellular-routers-at-risk-11.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PharMerica data breach impacts more than 5.8 million individuals<a href="https://securityaffairs.com/146259/data-breach/pharmerica-data-breach.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rise in Attacks Against ESXi: Babuk Source Code Inspires Nine Different Ransomware Strains<a href="https://cyware.com/news/rise-in-attacks-against-esxi-babuk-source-code-inspires-nine-different-ransomware-strains-ce3f4f1e"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Gang RA Group Hits U.S. and South Korean Organizations<a href="https://thehackernews.com/2023/05/new-ransomware-gang-ra-group-hits-us.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RA Group ransomware gang is the latest group using leaked Babuk source code<a href="https://securityaffairs.com/146248/cyber-crime/new-ra-group.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly identified RA Group compromises companies in U.S. and South Korea with leaked Babuk source code<a href="https://blog.talosintelligence.com/ra-group-ransomware/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why High Tech Companies Struggle with SaaS Security<a href="https://thehackernews.com/2023/05/why-high-tech-companies-struggle-with.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Introducing the DRM-Report Q1 2023: Unveiling the Current State of Ransomware<a href="https://securityaffairs.com/146241/malware/drm-dashboard-ransomware-monitor-q1-2023.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Illinois Data Breach Exposes Private Information of Medicaid, SNAP, and TANF Recipients<a href="https://www.countryherald.com/news/local/illinois-data-breach-exposes-private-information-of-medicaid-snap-and-tanf-recipients/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Powerful Backdoor and Custom Implant in Year-Long Cyber Campaign<a href="https://thehackernews.com/2023/05/researchers-uncover-powerful-backdoor.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Ubiquiti employee gets 6 years in jail for stealing confidential data and extorting company<a href="https://securityaffairs.com/146228/cyber-crime/uiti-employee-sentenced-6-years.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insured companies more likely to be ransomware victims, sometimes more than once<a href="https://www.csoonline.com/article/3696350/insured-companies-more-likely-to-be-ransomware-victims-sometimes-more-than-once.html?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'MichaelKors' Ransomware-as-a-Service Targeting Linux and VMware ESXi Systems<a href="https://thehackernews.com/2023/05/new-michaelkors-ransomware-as-service.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former ByteDance executive alleges TikTok of wrongful conduct<a href="https://securityaffairs.com/146219/social-networks/tiktok-alleged-wrongful-conduct.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PharMerica Discloses Data Breach Impacting 5.8 Million Individuals<a href="https://www.securityweek.com/pharmerica-discloses-data-breach-impacting-5-8-million-individuals/?&web_view=true"> Full Text</a>
@@ -297,7 +297,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Affiliated CheckMate Ransomware Quietly Targets Popular File-Sharing Protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html?&web_view=true"> Full Text</a>
@@ -313,7 +313,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CLR SqlShell Malware Targets MS SQL Servers for Crypto Mining and Ransomware<a href="https://thehackernews.com/2023/05/clr-sqlshell-malware-targets-ms-sql.html"> Full Text</a>
@@ -329,7 +329,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2023
+May 15, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Ubiquiti Employee Gets 6 Years in Jail for $2 Million Crypto Extortion Case<a href="https://thehackernews.com/2023/05/former-ubiquiti-employee-gets-6-years.html"> Full Text</a>
@@ -345,7 +345,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2023
+May 14, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The latest variant of the RapperBot botnet adds cryptojacking capabilities<a href="https://securityaffairs.com/146207/malware/rapperbot-botnet-adds-cryptojacking.html"> Full Text</a>
@@ -363,7 +363,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2023
+May 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Capita warns customers to assume that their data was stolen<a href="https://securityaffairs.com/146200/data-breach/capita-warns-customers.html"> Full Text</a>
@@ -380,7 +380,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2023
+May 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 419 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146195/breaking-news/security-affairs-newsletter-round-419.html"> Full Text</a>
@@ -398,7 +398,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Plugin Vulnerability Exposed Ferrari Website to Hackers<a href="https://www.securityweek.com/wordpress-plugin-vulnerability-exposed-ferrari-website-to-hackers/?&web_view=true"> Full Text</a>
@@ -414,7 +414,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phishing-as-a-Service Platform Lets Cybercriminals Generate Convincing Phishing Pages<a href="https://thehackernews.com/2023/05/new-phishing-as-service-platform-lets.html"> Full Text</a>
@@ -430,7 +430,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 237,000 US government employees breached<a href="https://www.yahoo.com/news/data-237-000-us-government-232707971.html?&web_view=true"> Full Text</a>
@@ -446,7 +446,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal info of 90k hikers leaked by French tourism company La Malle Postale<a href="https://securityaffairs.com/146191/data-breach/personal-info-of-90k-hikers-leaked-by-french-tourism-company-la-malle-postale.html"> Full Text</a>
@@ -463,7 +463,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of more than 2M Toyota customers exposed in ten years-long data breach<a href="https://securityaffairs.com/146178/data-breach/toyota-10-years-data-breach.html"> Full Text</a>
@@ -480,7 +480,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord suffered a data after third-party support agent was hacked<a href="https://securityaffairs.com/146171/data-breach/discord-suffered-data-breach.html"> Full Text</a>
@@ -497,7 +497,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 13, 2023
+May 13, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-affiliated CheckMate ransomware quietly targets popular file-sharing protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html"> Full Text</a>

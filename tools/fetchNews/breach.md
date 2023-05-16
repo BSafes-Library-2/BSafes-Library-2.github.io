@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Amtel, LLC dba Connectivity Source Notifies 17,835 Current and Former Employees of Recent Data Breach<a href="https://www.jdsupra.com/legalnews/amtel-llc-dba-connectivity-source-3147197/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 10, the firm filed a notice of data breach with the Maine Attorney General after learning that an unauthorized party had gained access to the company’s IT network and accessed sensitive information belonging to current and former employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

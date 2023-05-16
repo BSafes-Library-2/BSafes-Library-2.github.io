@@ -8,6 +8,50 @@ nav_order: 900195
 
 ## Solution
 ---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Attack Surface Management Supports Continuous Threat Exposure Management<a href="https://thehackernews.com/2023/05/how-attack-surface-management-supports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Forrester, External Attack Surface Management (EASM) emerged as a market category in 2021 and gained popularity in 2022. In a different report, Gartner concluded that vulnerability management vendors are expanding their offerings to include&nbsp; Attack Surface Management (ASM) &nbsp;for a suite of comprehensive offensive security solutions. Recognition from global analysts has officially put ASM on the map, evolving the way security leaders approach their cybersecurity.&nbsp; Why Now is the Right Time for Attack Surface Management&nbsp; Businesses today rely more on digital assets than ever before. Shifts over time include more use of the cloud, an increase in remote workforces, and greater expansion of digital assets in part because of mergers and acquisitions. This resulted in an expansion of both known and unknown attack surfaces that businesses manage, presenting a greater number of pathways for malicious actors to gain entry to an environment.&nbsp; Consider this analogy for example: I
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will provide dark web monitoring to all US Gmail users and more<a href="https://securityaffairs.com/146095/deep-web/google-dark-web-monitoring-us-gmail-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced the opening of the dark web monitoring report security feature to all Gmail users in the United States.
+Google is going to offer dark web monitoring to all U.S. Gmail users, the feature allows them to search for their email addresses...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter now supports Encrypted Direct Messages, with some limitations<a href="https://securityaffairs.com/146075/security/twitter-encrypted-direct-messages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twitter is rolling out support for&nbsp;encrypted direct messages (DMs), the security feature will be initially available for the verified users.
+Twitter is rolling out support for&nbsp;encrypted direct messages (DMs), the feature is initially limited to verified&nbsp;users...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

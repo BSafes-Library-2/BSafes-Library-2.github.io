@@ -8,6 +8,138 @@ nav_order: 900029
 
 ## Breach
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PharMerica data breach impacts more than 5.8 million individuals<a href="https://securityaffairs.com/146259/data-breach/pharmerica-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National pharmacy network PharMerica discloses a data breach that impacted more than 5.8 million individuals.
+National pharmacy network PharMerica disclosed a data breach that exposed the personal information of 5,815,591 individuals. The incident...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly identified RA Group compromises companies in U.S. and South Korea with leaked Babuk source code<a href="https://blog.talosintelligence.com/ra-group-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is swiftly expanding its operations. To date, it has compromised three organizations in the U.S. and one in South Korea across several business verticals, including manufacturing, wealth management, insurance providers, and pharmaceuticals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois Data Breach Exposes Private Information of Medicaid, SNAP, and TANF Recipients<a href="https://www.countryherald.com/news/local/illinois-data-breach-exposes-private-information-of-medicaid-snap-and-tanf-recipients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Illinois Department of Healthcare and Family Services (HFS) and Department of Human Services (IDHS) have disclosed a data breach within the State of Illinois Application for Benefits Eligibility (ABE) system’s Manage My Case (MMC) portal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PharMerica Discloses Data Breach Impacting 5.8 Million Individuals<a href="https://www.securityweek.com/pharmerica-discloses-data-breach-impacting-5-8-million-individuals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PharMerica’s letter does not provide details on the type of cyberattack that it suffered, but it appears that the Money Message ransomware group is responsible for the incident
+the group started leaking PII and PHI allegedly stolen from PharMerica.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Capita warns customers to assume that their data was stolen<a href="https://securityaffairs.com/146200/data-breach/capita-warns-customers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK outsourcing giant Capita is informing customers that their data may have been stolen in the cyberattack that hit the company in early April.
+In early April, the UK outsourcing giant Capita confirmed that its staff was locked out of their accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 237,000 US government employees breached<a href="https://www.yahoo.com/news/data-237-000-us-government-232707971.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of 237,000 current and former federal government employees has been exposed in a data breach at the U.S. Transportation Department (USDOT), sources briefed on the matter said on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal info of 90k hikers leaked by French tourism company La Malle Postale<a href="https://securityaffairs.com/146191/data-breach/personal-info-of-90k-hikers-leaked-by-french-tourism-company-la-malle-postale.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+La Malle Postale, a transportation company serving hikers on popular hiking trails in France, leaked personal data and private messages of their clients.
+The Cybernews research team has discovered a data leak on La Malle Postale’s system that exposed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of more than 2M Toyota customers exposed in ten years-long data breach<a href="https://securityaffairs.com/146178/data-breach/toyota-10-years-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A data breach disclosed by Toyota Motor Corporation exposed info of more than 2 million customers for ten years
+Toyota Motor Corporation disclosed a data breach that exposed the car-location information of 2,150,000 customers between November 6, 2013,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord suffered a data after third-party support agent was hacked<a href="https://securityaffairs.com/146171/data-breach/discord-suffered-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discord disclosed a data breach, the security breach was caused by the compromise of a third-party support agent's account.
+Discord, the popular VoIP&nbsp;and&nbsp;instant messaging&nbsp;social platform, disclosed a data breach and is notifying the impacted users....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

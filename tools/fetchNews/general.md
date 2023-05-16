@@ -8,6 +8,64 @@ nav_order: 900072
 
 ## General
 ---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What the Email Security Landscape Looks Like in 2023<a href="https://securityaffairs.com/146141/hacking/email-security-landscape-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email-based threats have become increasingly sophisticated, how is changing the Email Security Landscape?
+For over a decade, email has been a common source of cybersecurity threats. During that time, email-based threats have become increasingly sophisticated....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Solving Your Teams Secure Collaboration Challenges<a href="https://thehackernews.com/2023/05/solving-your-teams-secure-collaboration.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's interconnected world, where organisations regularly exchange sensitive information with customers, partners and employees, secure collaboration has become increasingly vital. However, collaboration can pose a security risk if not managed properly. To ensure that collaboration remains secure, organisations need to take steps to protect their data. Since collaborating is essential for almost any team to succeed, shouldn't you be able to do it securely? Whether you're sharing a Wi-Fi password, a social media account, or the passwords to a financial account, you deserve peace of mind. The risks of not protecting your sensitive data can be disastrous, from data breaches and reputational damage to legal ramifications and financial loss. But let's face it: Secure collaboration can be a real nightmare. Challenges of Secure Collaboration and Password Sharing It's another day in the office, and your team needs to share a ridiculous amount of sensitive informati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of mobile phones come pre-infected with malware<a href="https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware turns the devices into proxies which are used to steal and sell SMS messages, take over social media and online messaging accounts, and used as monetization opportunities via adverts and click fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+We are in the final! Please vote for Security Affairs and Pierluigi Paganini<a href="https://securityaffairs.com/146108/breaking-news/we-are-in-the-final-please-vote-for-security-affairs-and-pierluigi-paganini.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dear readers and friends, once again we are in the final of the European Cybersecurity Blogger Awards 2022 and I need your support.
+Please help me in reaching this new target. I work hard every day to provide updated news to students, passionate readers,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

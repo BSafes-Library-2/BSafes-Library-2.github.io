@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Powerful Backdoor and Custom Implant in Year-Long Cyber Campaign<a href="https://thehackernews.com/2023/05/researchers-uncover-powerful-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government, aviation, education, and telecom sectors located in South and Southeast Asia have come under the radar of a new hacking group as part of a highly-targeted campaign that commenced in mid-2022 and continued into the first quarter of 2023. Symantec, by Broadcom Software, is tracking the activity under its insect-themed moniker&nbsp; Lancefly , with the attacks making use of a "powerful" backdoor called Merdoor. Evidence gathered so far points to the custom implant being utilized as far back as 2018. The ultimate goal of the campaign, based on the tools and the victimology pattern, is assessed to be intelligence gathering. "The backdoor is used very selectively, appearing on just a handful of networks and a small number of machines over the years, with its use appearing to be highly targeted," Symantec&nbsp; said &nbsp;in an analysis shared with The Hacker News. "The attackers in this campaign also have access to an updated version of the ZXShell rootkit."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
