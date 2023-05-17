@@ -34,6 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Houthi hacking group linked to spyware operation on Arabian Peninsula<a href="https://cyberscoop.com/oil-alpha-houthi-yemen/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From April to May 2022, as Saudi Arabia hosted negotiations between Yemeni leaders involved in the nearly decade-long civil war, OilAlpha sent malicious Android files through WhatsApp to political representatives and journalists, researchers noted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Mustang Panda Hackers Exploit TP-Link Routers for Persistent Attacks<a href="https://thehackernews.com/2023/05/chinas-mustang-panda-hackers-exploit-tp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese nation-state actor known as  Mustang Panda  has been linked to a new set of sophisticated and targeted attacks aimed at European foreign affairs entities since January 2023. An analysis of these intrusions, per Check Point researchers Itay Cohen and Radoslaw Madej, has revealed a custom firmware implant designed explicitly for TP-Link routers. "The implant features several malicious components, including a custom backdoor named 'Horse Shell' that enables the attackers to maintain persistent access, build anonymous infrastructure, and enable lateral movement into compromised networks," the company said . "Due to its firmware-agnostic design, the implant's components can be integrated into various firmware by different vendors." The Israeli cybersecurity firm is tracking the threat group under the name Camaro Dragon,  which  is  also known as  BASIN, Bronze President, Earth Preta, HoneyMyte, RedDelta, and Red Lich. The exact method used
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lacroix Group shut down three facilities after a ‘targeted cyberattack’<a href="https://securityaffairs.com/146335/cyber-crime/lacroix-group-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French electronics manufacturer Lacroix Group shut down three plants after a cyber attack, experts believe it was the victim of a ransomware attack.
+The French electronics manufacturer Lacroix Group shut down three facilities in France, Germany, and Tunisia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Evolves With New Strategies<a href="https://www.trendmicro.com/en_us/research/23/e/8220-gang-evolution-new-strategies-adapted.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers observed a recent attack from the 8220 Gang exploiting the Oracle WebLogic vulnerability CVE-2017-3506 (CVSS score of 7.4) captured by one of their honeypots.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Qilin Ransomware: Affiliates Take Home 85% of Ransom Payouts<a href="https://thehackernews.com/2023/05/inside-qilin-ransomware-affiliates-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware affiliates associated with the Qilin ransomware-as-a-service (RaaS) scheme earn anywhere between 80% to 85% of each ransom payment, according to new findings from Group-IB. The cybersecurity firm said it was able to infiltrate the group in March 2023, uncovering details about the affiliates' payment structure and the inner workings of the RaaS program following a private conversation with a Qilin recruiter who goes by the online alias Haise. "Many Qilin ransomware attacks are customized for each victim to maximize their impact," the Singapore-headquartered company  said  in an exhaustive report. "To do this, the threat actors can leverage such tactics as changing the filename extensions of encrypted files and terminating specific processes and services." Qilin, also known as Agenda, was  first documented  by Trend Micro in August 2022, starting off as a Go-based ransomware before  switching to Rust  in December 2022. The adoption of Rust is also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Mustang Panda targets TP-Link routers with a custom firmware implant<a href="https://securityaffairs.com/146301/apt/mustang-panda-targets-tp-link-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Mustang Panda employed a custom firmware implant targeting TP-Link routers in targeted attacks since January 2023.
+Since January 2023, Check Point Research monitored a series of targeted attacks aimed at European foreign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Huntress Closes $60M Series C for MDR Expansion<a href="https://www.securityweek.com/huntress-closes-60m-series-c-for-mdr-expansion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $60 million Series C was led by Sapphire Ventures and brings the total raised by Huntress to a whopping $118 million. Existing investors JMI Equity and Forgepoint Capital expanded their equity stake.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyolo Product Overview: Secure Remote Access to All Environments<a href="https://thehackernews.com/2023/05/cyolo-product-overview-secure-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operational technology (OT) cybersecurity is a challenging but critical aspect of protecting organizations' essential systems and resources. Cybercriminals no longer break into systems, but instead log in – making access security more complex and also more important to manage and control than ever before. In an effort to solve the access-related challenges facing OT and critical infrastructure operators, the team at Cyolo built a zero-trust access platform designed to meet the unique safety, security, and uptime requirements of OT and industrial control systems (ICS) environments. Let's look under the hood:  The Cyolo solution is a high-powered combination of Zero Trust Network Access (ZTNA), Identity Provider (IdP), and Privileged Access Management (PAM). What makes this approach stand out from the pack is that other ZTNA solutions do not offer IdP or PAM capabilities, while Identity and Access Management tools (IdPs and PAMs) do not extend connectivity. And unlike other pl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Zelensky imposes sanctions against the Russian IT sector<a href="https://securityaffairs.com/146293/cyber-warfare-2/president-zelensky-sanctions-russia-it-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s President Zelensky and the country’s Council of National Security introduced new sanctions against individuals and businesses.
+Ukraine’s President Volodymyr Zelensky and the country’s Council of National Security introduced new sanctions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Dallas says it 'will likely take weeks to get back to full functionality' after ransomware attack<a href="https://therecord.media/dallas-ransomware-attack-will-take-weeks-to-recover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the last two weeks, the city has been engulfed in a massive recovery effort after the Royal ransomware gang caused significant damage to systems that manage the city’s police, fire department, courts, critical infrastructure, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CopperStealer Malware Crew Resurfaces with New Rootkit and Phishing Kit Modules<a href="https://thehackernews.com/2023/05/water-orthrus-copperstealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the CopperStealer malware resurfaced with two new campaigns in March and April 2023 that are designed to deliver two novel payloads dubbed CopperStealth and CopperPhish. Trend Micro is tracking the financially motivated group under the name  Water Orthrus . The adversary is also assessed to be  behind   another campaign  known as  Scranos , which was detailed by Bitdefender in 2019. Active since at least 2021, Water Orthrus has a track record of leveraging pay-per-install (PPI) networks to redirect victims landing on  cracked   software download sites  to drop an information stealer codenamed  CopperStealer . Another campaign spotted in August 2022 entailed the use of CopperStealer to distribute  Chromium-based web browser extensions  that are capable of performing unauthorized transactions and transferring cryptocurrency from victims' wallets to ones under attackers' control. The latest attack sequences documented by Trend Micro don't mark mu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Ruckus bug and another six flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146285/hacking/known-exploited-vulnerabilities-catalog-ruckus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added seven new flaws to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following three new issues to its Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Orthrus APT Re-Emerges with Two New Malware Families<a href="https://cyware.com/news/water-orthrus-apt-re-emerges-with-two-new-malware-families-bcdaa369"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Water Orthrus was spotted with two new campaigns in March and April 2023 that intended to deliver CopperStealth and CopperPhish payloads. The new malware have been upgraded for different purposes, such as injecting network advertisements, acquiring personal informatio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Golang Variant of Cobalt Strike to Target Apple macOS Systems<a href="https://thehackernews.com/2023/05/hackers-using-golang-variant-of-cobalt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Golang implementation of Cobalt Strike called Geacon is likely to garner the attention of threat actors looking to target Apple macOS systems. That's according to findings from SentinelOne, which observed an increase in the number of Geacon payloads appearing on VirusTotal in recent months. "While some of these are likely red-team operations, others bear the characteristics of genuine malicious attacks," security researchers Phil Stokes and Dinesh Devadoss  said  in a report. Cobalt Strike  is a well-known red teaming and adversary simulation tool developed by Fortra. Owing to its myriad capabilities, illegally cracked versions of the software have been abused by threat actors over the years. While post-exploitation activity associated with Cobalt Strike has primarily singled out Windows, such attacks against macOS are something of a rarity. In May 2022, software supply chain firm Sonatype  disclosed  details of a rogue Python package called " pymafka "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lancefly APT uses powerful Merdoor backdoor in attacks on Asian orgs<a href="https://securityaffairs.com/146274/apt/lancefly-apt-merdoor-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lancefly APT group is using a custom powerful backdoor called Merdoor in attacks against organizations in South and Southeast Asia.
+Symantec researchers reported that the Lancefly APT group is using a custom-written backdoor in attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is human threat hunting a fool’s errand?<a href="https://www.helpnetsecurity.com/2023/05/15/automated-threat-hunting-processes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the rate of cyberattacks steadily increases, automated threat hunting processes are being integrated to help stem the tide by providing quicker security insights, more efficient operations, and human error reductions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
