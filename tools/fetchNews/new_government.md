@@ -8,6 +8,36 @@ nav_order: 900075
 
 ## Government
 ---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Zelensky imposes sanctions against the Russian IT sector<a href="https://securityaffairs.com/146293/cyber-warfare-2/president-zelensky-sanctions-russia-it-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine’s President Zelensky and the country’s Council of National Security introduced new sanctions against individuals and businesses.
+Ukraine’s President Volodymyr Zelensky and the country’s Council of National Security introduced new sanctions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Ruckus bug and another six flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146285/hacking/known-exploited-vulnerabilities-catalog-ruckus.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Cybersecurity and Infrastructure Security Agency (CISA) added seven new flaws to its Known Exploited Vulnerabilities catalog.
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the following three new issues to its&nbsp;Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

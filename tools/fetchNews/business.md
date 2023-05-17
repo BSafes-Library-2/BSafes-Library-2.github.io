@@ -8,6 +8,21 @@ nav_order: 900027
 
 ## Business
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former ByteDance executive alleges TikTok of wrongful conduct<a href="https://securityaffairs.com/146219/social-networks/tiktok-alleged-wrongful-conduct.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former ByteDance executive revealed that the China government has access to TikTok data, including data stored in the United.
+Yintao Yu, the head of engineering for ByteDance’s U.S. operations from August 2017 to November 2018, revealed that the Chinese...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

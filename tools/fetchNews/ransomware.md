@@ -8,6 +8,78 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rise in Attacks Against ESXi: Babuk Source Code Inspires Nine Different Ransomware Strains<a href="https://cyware.com/news/rise-in-attacks-against-esxi-babuk-source-code-inspires-nine-different-ransomware-strains-ce3f4f1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelLabs detected 10 ransomware families employing VMware ESXi lockers, derived from the leaked 2021 Babuk source code. These variants emerged between H2 2022 and H1 2023. The report also highlights similarities between Babuk's source code and the ESXi encrypters used by Conti and REvil, indica ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing the DRM-Report Q1 2023: Unveiling the Current State of Ransomware<a href="https://securityaffairs.com/146241/malware/drm-dashboard-ransomware-monitor-q1-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DRM Dashboard Ransomware Monitor released the first quarterly report for the year 2023 about the activities of ransomware groups globally.
+DRM Dashboard Ransomware Monitor, an independent platform of cybersecurity monitoring, is pleased to release...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'MichaelKors' Ransomware-as-a-Service Targeting Linux and VMware ESXi Systems<a href="https://thehackernews.com/2023/05/new-michaelkors-ransomware-as-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware-as-service (RaaS) operation called MichaelKors has become the latest file-encrypting malware to target Linux and&nbsp; VMware ESXi systems &nbsp;as of April 2023. The development points to cybercriminal actors increasingly setting their eyes on the ESXi, cybersecurity firm CrowdStrike said in a report shared with The Hacker News. "This trend is especially noteworthy given the fact that ESXi, by design, does not support third-party agents or AV software," the company said. "In fact, VMware goes as far as to claim it's not required. This, combined with the popularity of ESXi as a widespread and popular virtualization and management system, makes the hypervisor a highly attractive target for modern adversaries." The&nbsp; targeting of VMware ESXi hypervisors &nbsp;with ransomware to scale such campaigns is a technique known as&nbsp; hypervisor jackpotting . Over the years, the approach has been adopted by several ransomware groups, including Royal. What's more,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Affiliated CheckMate Ransomware Quietly Targets Popular File-Sharing Protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After gaining access to SMB shares, threat actors behind CheckMate ransomware encrypt all files and leave a ransom note demanding payment in exchange for the decryption key.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-affiliated CheckMate ransomware quietly targets popular file-sharing protocol<a href="https://securityaffairs.com/146166/malware/checkmate-ransomware-file-sharing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CheckMate ransomware operators have been targeting the Server Message Block (SMB) communication protocol used for file sharing to compromise their victims’ networks.
+Unlike most ransom campaigns, CheckMate, discovered in 2022, has been quiet...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

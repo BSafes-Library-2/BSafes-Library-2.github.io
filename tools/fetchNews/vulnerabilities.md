@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Cellular Routers at Risk: 11 New Vulnerabilities Expose OT Networks<a href="https://thehackernews.com/2023/05/industrial-cellular-routers-at-risk-11.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several security vulnerabilities have been disclosed in cloud management platforms associated with three industrial cellular router vendors that could expose operational technology (OT) networks to external attacks. The findings were&nbsp; presented &nbsp;by Israeli industrial cybersecurity firm OTORIO at the Black Hat Asia 2023 conference last week. The 11 vulnerabilities allow "remote code execution and full control over hundreds of thousands of devices and OT networks - in some cases, even those not actively configured to use the cloud." Specifically, the shortcomings reside in the cloud-based management solutions offered by Sierra Wireless, Teltonika Networks, and InHand Networks to remotely manage and operate devices. Successful exploitation of the vulnerabilities could pose severe risks to industrial environments, allowing adversaries to sidestep security layers as well as exfiltrate sensitive information and achieve code execution remotely on the internal networks. Even w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Plugin Vulnerability Exposed Ferrari Website to Hackers<a href="https://www.securityweek.com/wordpress-plugin-vulnerability-exposed-ferrari-website-to-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers noticed that the ‘media.ferrari.com’ domain is powered by WordPress and it was running a very old version of W3 Total Cache, a plugin installed on more than a million websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

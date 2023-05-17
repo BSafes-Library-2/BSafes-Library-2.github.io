@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Houthi hacking group linked to spyware operation on Arabian Peninsula<a href="https://cyberscoop.com/oil-alpha-houthi-yemen/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From April to May 2022, as Saudi Arabia hosted negotiations between Yemeni leaders involved in the nearly decade-long civil war, OilAlpha sent malicious Android files through WhatsApp to political representatives and journalists, researchers noted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Mustang Panda Hackers Exploit TP-Link Routers for Persistent Attacks<a href="https://thehackernews.com/2023/05/chinas-mustang-panda-hackers-exploit-tp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese nation-state actor known as&nbsp; Mustang Panda &nbsp;has been linked to a new set of sophisticated and targeted attacks aimed at European foreign affairs entities since January 2023. An analysis of these intrusions, per Check Point researchers Itay Cohen and Radoslaw Madej, has revealed a custom firmware implant designed explicitly for TP-Link routers. "The implant features several malicious components, including a custom backdoor named 'Horse Shell' that enables the attackers to maintain persistent access, build anonymous infrastructure, and enable lateral movement into compromised networks," the company said . "Due to its firmware-agnostic design, the implant's components can be integrated into various firmware by different vendors." The Israeli cybersecurity firm is tracking the threat group under the name Camaro Dragon,&nbsp; which &nbsp;is&nbsp; also known as &nbsp;BASIN, Bronze President, Earth Preta, HoneyMyte, RedDelta, and Red Lich. The exact method used
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Golang Variant of Cobalt Strike to Target Apple macOS Systems<a href="https://thehackernews.com/2023/05/hackers-using-golang-variant-of-cobalt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Golang implementation of Cobalt Strike called Geacon is likely to garner the attention of threat actors looking to target Apple macOS systems. That's according to findings from SentinelOne, which observed an increase in the number of Geacon payloads appearing on VirusTotal in recent months. "While some of these are likely red-team operations, others bear the characteristics of genuine malicious attacks," security researchers Phil Stokes and Dinesh Devadoss&nbsp; said &nbsp;in a report. Cobalt Strike &nbsp;is a well-known red teaming and adversary simulation tool developed by Fortra. Owing to its myriad capabilities, illegally cracked versions of the software have been abused by threat actors over the years. While post-exploitation activity associated with Cobalt Strike has primarily singled out Windows, such attacks against macOS are something of a rarity. In May 2022, software supply chain firm Sonatype&nbsp; disclosed &nbsp;details of a rogue Python package called " pymafka "
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

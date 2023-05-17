@@ -8,6 +8,50 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Mustang Panda targets TP-Link routers with a custom firmware implant<a href="https://securityaffairs.com/146301/apt/mustang-panda-targets-tp-link-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Mustang Panda&nbsp;employed a custom firmware implant targeting TP-Link routers in targeted attacks since January 2023.
+Since January 2023, Check Point Research monitored a series of targeted attacks aimed at European foreign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Water Orthrus APT Re-Emerges with Two New Malware Families<a href="https://cyware.com/news/water-orthrus-apt-re-emerges-with-two-new-malware-families-bcdaa369"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Water Orthrus was spotted with two new campaigns in March and April 2023 that intended to deliver CopperStealth and CopperPhish payloads.&nbsp;The new malware have been upgraded for different purposes, such as injecting network advertisements, acquiring personal informatio ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lancefly APT uses powerful Merdoor backdoor in attacks on Asian orgs<a href="https://securityaffairs.com/146274/apt/lancefly-apt-merdoor-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lancefly APT group is using a custom powerful backdoor called Merdoor in attacks against organizations in South and Southeast Asia.
+Symantec researchers reported that the Lancefly APT group is using a custom-written backdoor in attacks targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

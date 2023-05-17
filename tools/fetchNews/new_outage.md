@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lacroix Group shut down three facilities after a ‘targeted cyberattack’<a href="https://securityaffairs.com/146335/cyber-crime/lacroix-group-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+French electronics manufacturer Lacroix Group shut down three plants after a cyber attack, experts believe it was the victim of a ransomware attack.
+The French electronics manufacturer Lacroix Group shut down three facilities in France, Germany, and Tunisia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Dallas says it 'will likely take weeks to get back to full functionality' after ransomware attack<a href="https://therecord.media/dallas-ransomware-attack-will-take-weeks-to-recover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the last two weeks, the city has been engulfed in a massive recovery effort after the Royal ransomware gang caused significant damage to systems that manage the city’s police, fire department, courts, critical infrastructure, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

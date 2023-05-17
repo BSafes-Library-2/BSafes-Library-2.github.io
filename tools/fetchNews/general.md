@@ -8,6 +8,50 @@ nav_order: 900072
 
 ## General
 ---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why High Tech Companies Struggle with SaaS Security<a href="https://thehackernews.com/2023/05/why-high-tech-companies-struggle-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's easy to think high-tech companies have a security advantage over other older, more mature industries. Most are unburdened by 40 years of legacy systems and software. They draw some of the world's youngest, brightest digital natives to their ranks, all of whom consider cybersecurity issues their entire lives. Perhaps it is due to their familiarity with technology that causes them to overlook SaaS security configurations. During the last Christmas holiday season, Slack had some private code stolen from its GitHub repository. According to Slack, the stolen code didn't impact production, and no customer data was taken. Still, the breach should serve as a warning sign to other tech companies. Stolen tokens allowed threat actors to access the GitHub instance and download the code. If this type of attack can happen to Slack on GitHub, it can happen to any high-tech company. Tech companies must take SaaS security seriously to prevent resources from leaking or being stolen. App Bre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insured companies more likely to be ransomware victims, sometimes more than once<a href="https://www.csoonline.com/article/3696350/insured-companies-more-likely-to-be-ransomware-victims-sometimes-more-than-once.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although threat actors may not be directly correlating the insurance factor to find targets, a reason for this may be that as insurers require more from companies those able to pay for insurance are also likely to be able to afford bigger ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 419 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146195/breaking-news/security-affairs-newsletter-round-419.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+We are in the final!
+Please vote for Security Affairs (https://securityaffairs.com/) as the best...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

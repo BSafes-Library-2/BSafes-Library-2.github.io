@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Houthi hacking group linked to spyware operation on Arabian Peninsula<a href="https://cyberscoop.com/oil-alpha-houthi-yemen/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's Mustang Panda Hackers Exploit TP-Link Routers for Persistent Attacks<a href="https://thehackernews.com/2023/05/chinas-mustang-panda-hackers-exploit-tp.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lacroix Group shut down three facilities after a ‘targeted cyberattack’<a href="https://securityaffairs.com/146335/cyber-crime/lacroix-group-ransomware-attack.html"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside Qilin Ransomware: Affiliates Take Home 85% of Ransom Payouts<a href="https://thehackernews.com/2023/05/inside-qilin-ransomware-affiliates-take.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Mustang Panda targets TP-Link routers with a custom firmware implant<a href="https://securityaffairs.com/146301/apt/mustang-panda-targets-tp-link-routers.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Huntress Closes $60M Series C for MDR Expansion<a href="https://www.securityweek.com/huntress-closes-60m-series-c-for-mdr-expansion/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyolo Product Overview: Secure Remote Access to All Environments<a href="https://thehackernews.com/2023/05/cyolo-product-overview-secure-remote.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 President Zelensky imposes sanctions against the Russian IT sector<a href="https://securityaffairs.com/146293/cyber-warfare-2/president-zelensky-sanctions-russia-it-sector.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Dallas says it 'will likely take weeks to get back to full functionality' after ransomware attack<a href="https://therecord.media/dallas-ransomware-attack-will-take-weeks-to-recover?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CopperStealer Malware Crew Resurfaces with New Rootkit and Phishing Kit Modules<a href="https://thehackernews.com/2023/05/water-orthrus-copperstealer-malware.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Ruckus bug and another six flaws to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146285/hacking/known-exploited-vulnerabilities-catalog-ruckus.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Water Orthrus APT Re-Emerges with Two New Malware Families<a href="https://cyware.com/news/water-orthrus-apt-re-emerges-with-two-new-malware-families-bcdaa369"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Using Golang Variant of Cobalt Strike to Target Apple macOS Systems<a href="https://thehackernews.com/2023/05/hackers-using-golang-variant-of-cobalt.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lancefly APT uses powerful Merdoor backdoor in attacks on Asian orgs<a href="https://securityaffairs.com/146274/apt/lancefly-apt-merdoor-backdoor.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is human threat hunting a fool’s errand?<a href="https://www.helpnetsecurity.com/2023/05/15/automated-threat-hunting-processes/?&web_view=true"> Full Text</a>
