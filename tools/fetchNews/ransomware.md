@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside Qilin Ransomware: Affiliates Take Home 85% of Ransom Payouts<a href="https://thehackernews.com/2023/05/inside-qilin-ransomware-affiliates-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware affiliates associated with the Qilin ransomware-as-a-service (RaaS) scheme earn anywhere between 80% to 85% of each ransom payment, according to new findings from Group-IB. The cybersecurity firm said it was able to infiltrate the group in March 2023, uncovering details about the affiliates' payment structure and the inner workings of the RaaS program following a private conversation with a Qilin recruiter who goes by the online alias Haise. "Many Qilin ransomware attacks are customized for each victim to maximize their impact," the Singapore-headquartered company&nbsp; said &nbsp;in an exhaustive report. "To do this, the threat actors can leverage such tactics as changing the filename extensions of encrypted files and terminating specific processes and services." Qilin, also known as Agenda, was&nbsp; first documented &nbsp;by Trend Micro in August 2022, starting off as a Go-based ransomware before&nbsp; switching to Rust &nbsp;in December 2022. The adoption of Rust is also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

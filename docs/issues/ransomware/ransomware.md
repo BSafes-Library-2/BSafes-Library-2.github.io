@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MalasLocker ransomware targets Zimbra servers, demands charity donation<a href="https://www.bleepingcomputer.com/news/security/malaslocker-ransomware-targets-zimbra-servers-demands-charity-donation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation is hacking Zimbra servers to steal emails and encrypt files. However, instead of demanding a ransom payment, the threat actors claim to require a donation to charity to provide an encryptor and prevent data leaking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM snags Polar Security to boost cloud data practice<a href="https://www.techrepublic.com/article/ibm-snags-polar-cloud-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an effort to grow its hybrid cloud and artificial intelligence capabilities, IBM announced on Tuesday that it was acquiring Polar Security, an Israel-based company specializing in data security posture management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

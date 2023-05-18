@@ -34,6 +34,522 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Cisco Small Business Switches Could Allow Remote Attacks<a href="https://thehackernews.com/2023/05/critical-flaws-in-cisco-small-business.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released updates to address a set of nine security flaws in its Small Business Series Switches that could be exploited by an unauthenticated, remote attacker to run arbitrary code or cause a denial-of-service (DoS) condition. "These vulnerabilities are due to improper validation of requests that are sent to the web interface," Cisco  said , crediting an unnamed external researcher for reporting the issues. Four of the nine vulnerabilities are rated 9.8 out of 10 on the CVSS scoring system, making them critical in nature. The nine flaws affect the following product lines - 250 Series Smart Switches (Fixed in firmware version 2.5.9.16) 350 Series Managed Switches (Fixed in firmware version 2.5.9.16) 350X Series Stackable Managed Switches (Fixed in firmware version 2.5.9.16) 550X Series Stackable Managed Switches (Fixed in firmware version 2.5.9.16) Business 250 Series Smart Switches (Fixed in firmware version 3.3.0.16) Business 350 Series Managed Switches (F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MalasLocker ransomware targets Zimbra servers, demands charity donation<a href="https://www.bleepingcomputer.com/news/security/malaslocker-ransomware-targets-zimbra-servers-demands-charity-donation/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware operation is hacking Zimbra servers to steal emails and encrypt files. However, instead of demanding a ransom payment, the threat actors claim to require a donation to charity to provide an encryptor and prevent data leaking.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXi Servers Face New Threats From MichaelKors RaaS Affiliates<a href="https://cyware.com/news/esxi-servers-face-new-threats-from-michaelkors-raas-affiliates-1ac3470e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB infiltrated the infrastructure of MichaelKors RaaS to divulge never-before-heard secrets of its affiliate nexus, which would often target critical sector entities. For instance, affiliates take back 80-85% of the ransomware payments. The common attack tactics used by MichaelKors include ph ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monitoring the dark web to identify threats to energy sector organizations<a href="https://securityaffairs.com/146357/deep-web/dark-web-initial-access-energy-sector-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Searchlight Cyber researchers warn of threat actors that are offering on the dark web access to energy sector organizations.
+Dark web intelligence firm Searchlight Cyber published a report that analyzes how threat actors in the dark web prepare their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of critical switch bugs with public exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-switch-bugs-with-public-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warned customers today of four critical remote code execution vulnerabilities with public exploit code affecting multiple Small Business Series Switches.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lancefly APT Group Uses 'Merdoor' In Espionage Campaign<a href="https://cyware.com/news/lancefly-apt-group-uses-merdoor-in-espionage-campaign-3939c8bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lancefly APT group is targeting government, aviation, education, and telecom sectors in South and Southeast Asia using a powerful backdoor called Merdoor for intelligence gathering. The exact initial intrusion vector is not clear at present, though attackers are believed to have used SSH brute- ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OilAlpha: Emerging Houthi-linked Cyber Threat Targets Arabian Android Users<a href="https://thehackernews.com/2023/05/oilalpha-emerging-houthi-linked-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group dubbed  OilAlpha  with suspected ties to Yemen's  Houthi movement  has been linked to a cyber espionage campaign targeting development, humanitarian, media, and non-governmental organizations in the Arabian peninsula. "OilAlpha used encrypted chat messengers like WhatsApp to launch social engineering attacks against its targets," cybersecurity company Recorded Future  said  in a technical report published Tuesday. "It has also used URL link shorteners. Per victimology assessment, it appears a majority of the targeted entities were Arabic-language speakers and operated Android devices." OilAlpha is the new cryptonym given by Recorded Future to two overlapping clusters previously tracked by the company under the names TAG-41 and TAG-62 since April 2022. TAG-XX (short for Threat Activity Group) is the temporary moniker assigned to emerging threat groups. The assessment that the adversary is acting in the interest of the Houthi movement is base
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov offers a $10M reward for a Russian ransomware actor<a href="https://securityaffairs.com/146345/cyber-crime/russian-ransomware-actor-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is offering a $10M reward for Russian national Mikhail Pavlovich Matveev (30) charged for his role in ransomware attacks
+The US Justice Department charged Russian national Mikhail Pavlovich Matveev (30), aka Wazawaka, m1x, Boriselcin,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft pulls Defender update fixing Windows LSA Protection bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-defender-update-fixing-windows-lsa-protection-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has pulled a recent Microsoft Defender update that was supposed to fix a known issue triggering persistent restart alerts and Windows Security warnings that Local Security Authority (LSA) Protection is off.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice and Commerce Department 'strike force' target theft of quantum, autonomous technologies<a href="https://cyberscoop.com/justice-commerce-strike-force-quantum-russia-china/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly formed Justice and Commerce Department’s joint Disruptive Technology Strike Force announced five coordinated enforcement actions taking aim at individuals seeking to help China, Russia and Iran gain access to sensitive U.S. technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identifying a Patch Management Solution: Overview of Key Criteria<a href="https://thehackernews.com/2023/05/identifying-patch-management-solution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software is rarely a one-and-done proposition. In fact, any application available today will likely need to be updated – or patched – to fix bugs,  address vulnerabilities , and update key features at multiple points in the future. With the typical enterprise relying on a multitude of applications, servers, and end-point devices in their day-to-day operations, the acquisition of a robust  patch management platform  to identify, test, deploy, install, and document all appropriate patches are critical for ensuring systems remain stable and secure.  As with most tech tools, not all patch management solutions are created equal, and what's seen as robust by one organization may prove inadequate for another. However, an evaluation that begins with a focus on specific key criteria – essential attributes and functionality likely to be offered by many vendors but not all – will allow IT teams to narrow down their options as they work to identify the best solution for their organization&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple flaws in Teltonika industrial cellular router expose OT networks to hack<a href="https://securityaffairs.com/146317/hacking/teltonika-industrial-cellular-routers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found multiple vulnerabilities in Teltonika industrial cellular routers that could expose OT networks to cyber attacks.
+A joint analysis conducted by industrial cybersecurity firms Claroty and Otorio discovered multiple flaws in Teltonika...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Microsoft VSCode extensions steal passwords, open remote shells<a href="https://www.bleepingcomputer.com/news/security/malicious-microsoft-vscode-extensions-steal-passwords-open-remote-shells/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are starting to target Microsoft's VSCode Marketplace, uploading three malicious Visual Studio extensions that Windows developers downloaded 46,600 times.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 113 Security Update Patches Critical Vulnerability<a href="https://www.securityweek.com/chrome-113-security-update-patches-critical-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of a Chrome 113 security update that resolves a total of 12 vulnerabilities, including one rated ‘critical’. Six of the flaws were reported by external researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Group UNC3944 Abusing Azure Serial Console for Total VM Takeover<a href="https://thehackernews.com/2023/05/threat-group-unc3944-abusing-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cyber actor has been observed abusing Microsoft Azure  Serial Console  on virtual machines (VMs) to install third-party remote management tools within compromised environments. Google-owned Mandiant attributed the activity to a threat group it tracks under the name  UNC3944 , which is also known as Roasted 0ktapus and Scattered Spider. "This method of attack was unique in that it avoided many of the traditional detection methods employed within Azure and provided the attacker with full administrative access to the VM," the threat intelligence firm  said . The emerging adversary, which first came to light late last year, is known to  leverage SIM swapping attacks  to breach telecommunications and business process outsourcing (BPO) companies since at least May 2022. Subsequently, Mandiant also  found  UNC3944 utilizing a loader named STONESTOP to install a malicious signed driver dubbed POORTRY that's designed to terminate processes associated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University admission platform Leverage EDU exposed student passports<a href="https://securityaffairs.com/146329/data-breach/university-admission-platform-leverage-edu-exposed-student-passports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular university admission platform Leverage EDU leaked almost 240,000 sensitive files, including students’ passports, financial documents, certificates, and exam results.
+The Cybernews research team discovered that Leverage EDU leaked extremely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScanSource says ransomware attack behind multi-day outages<a href="https://www.bleepingcomputer.com/news/security/scansource-says-ransomware-attack-behind-multi-day-outages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technology provider ScanSource has announced it has fallen victim to a ransomware attack impacting some of its systems, business operations, and customer portals.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Skynet Carder Market Founder Pleads Guilty<a href="https://www.bankinfosecurity.com/skynet-carder-market-founder-pleads-guilty-a-22090?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Illinois man pleaded guilty Monday to eight criminal counts stemming from the three years he spent leading a conspiracy to sell stolen financial information on darknet markets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious Unpatched Vulnerability Uncovered in Popular Belkin Wemo Smart Plugs<a href="https://thehackernews.com/2023/05/serious-unpatched-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second generation version of Belkin's Wemo Mini Smart Plug has been found to contain a buffer overflow vulnerability that could be weaponized by a threat actor to inject arbitrary commands remotely. The issue, assigned the identifier  CVE-2023-27217 , was discovered and reported to Belkin on January 9, 2023, by Israeli IoT security company Sternum , which reverse-engineered the device and gained firmware access. Wemo Mini Smart Plug V2 ( F7C063 ) offers convenient remote control, allowing users to turn electronic devices on or off using a companion app installed on a smartphone or tablet. The heart of the problem lies in a feature that makes it possible to rename the smart plug to a more " FriendlyName ." The default name assigned is " Wemo mini 6E9 ." "The name length is limited to 30 characters or less, but this rule is only enforced by the app itself," security researchers Amit Serper and Reuven Yakar  said  in a report shared with The Hac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirms BianLian ransomware switch to extortion only attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-confirms-bianlian-ransomware-switch-to-extortion-only-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and Australian Cyber Security Centre (ACSC) have published a joint advisory to inform organizations of the latest tactics, techniques, and procedures (TTPs) and known indicators of compromise (IOCs) of the BianLian ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transportation Needs to Improve Cyber Policy Implementation, Watchdog Finds<a href="https://www.nextgov.com/cybersecurity/2023/05/transportation-needs-improve-cyber-policy-implementation-watchdog-finds/386371/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Transportation should better implement its policies for established cyber roles, including improving training and role expectations, according to a recent GAO report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Sidewinder Hacker Group's Covert Attack Infrastructure Uncovered<a href="https://thehackernews.com/2023/05/state-sponsored-sidewinder-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed previously undocumented attack infrastructure used by the prolific state-sponsored group  SideWinder  to strike entities located in Pakistan and China. This comprises a network of 55 domains and IP addresses used by the threat actor, cybersecurity companies Group-IB and Bridewell said in a joint report shared with The Hacker News. "The identified phishing domains mimic various organizations in the news, government, telecommunications, and financial sectors," researchers Nikita Rostovtsev, Joshua Penny, and Yashraj Solanki  said . SideWinder has been known to be active since at least 2012, with attack chains primarily leveraging spear-phishing as an intrusion mechanism to obtain a foothold into targeted environments. The target range of the group is widely believed to be associated with Indian espionage interests. The most frequently attacked nations include Pakistan, China, Sri Lanka, Afghanistan, Bangladesh, Myanmar, the Philippi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Franklin County Public Schools Hit by Ransomware Attack<a href="https://martinsvillebulletin.com/news/franklin-county-public-schools-hit-by-ransomware-attack/article_22fddcb8-f41b-11ed-85bc-833affcd6772.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a statement from schools Superintendent Bernice Cobbs, the decision was made to cancel classes Monday in the interest of on-campus security as the impact of the cyberattack was being reviewed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Bounty for Capture of Notorious Russian Ransomware Operator<a href="https://thehackernews.com/2023/05/us-offers-10-million-bounty-for-capture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national has been charged and indicted by the U.S. Department of Justice (DoJ) for launching ransomware attacks against "thousands of victims" in the country and across the world. Mikhail Pavlovich Matveev  (aka  Wazawaka , m1x, Boriselcin, and Uhodiransomwar), the 30-year-old individual in question, is alleged to be a "central figure" in the development and deployment of  LockBit ,  Babuk , and  Hive  ransomware variants since at least June 2020. "These victims include law enforcement and other government agencies, hospitals, and schools," DoJ  said . "Total ransom demands allegedly made by the members of these three global ransomware campaigns to their victims amount to as much as $400 million, while total victim ransom payments amount to as much as $200 million." LockBit, Babuk, and Hive operate alike, leveraging unlawfully obtained access to exfiltrate valuable data and deploy ransomware on compromised networks. The threat actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM snags Polar Security to boost cloud data practice<a href="https://www.techrepublic.com/article/ibm-snags-polar-cloud-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an effort to grow its hybrid cloud and artificial intelligence capabilities, IBM announced on Tuesday that it was acquiring Polar Security, an Israel-based company specializing in data security posture management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Azure Serial Console for stealthy access to VMs<a href="https://www.bleepingcomputer.com/news/security/hackers-use-azure-serial-console-for-stealthy-access-to-vms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybergang tracked by Mandiant as 'UNC3944' is using phishing and SIM swapping attacks to hijack Microsoft Azure admin accounts and gain access to virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZIP domains spark debate among cybersecurity experts<a href="https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers and IT admins have raised concerns over Google's new ZIP and MOV Internet domains, warning that threat actors could use them for phishing attacks and malware delivery.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers infect TP-Link router firmware to attack EU entities<a href="https://www.bleepingcomputer.com/news/security/hackers-infect-tp-link-router-firmware-to-attack-eu-entities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored hacking group named "Camaro Dragon" infects residential TP-Link routers with a custom "Horse Shell" malware used to attack European foreign affairs organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ransomware affiliate charged with attacks on critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-affiliate-charged-with-attacks-on-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department has filed charges against a Russian citizen named Mikhail Pavlovich Matveev (also known as Wazawaka or Boriselcin) for involvement in three ransomware operations that targeted victims across the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Prevention – Are Meeting Password Security Requirements Enough<a href="https://www.bleepingcomputer.com/news/security/ransomware-prevention-are-meeting-password-security-requirements-enough/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware attacks continue to wreak havoc on organizations worldwide, many official standards and regulations have been established to address this pressing issue. Explore whether these regulated standards are sufficient or if organizations should strive for more robust security measures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parental control app with 5 million downloads vulnerable to attacks<a href="https://www.bleepingcomputer.com/news/security/parental-control-app-with-5-million-downloads-vulnerable-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiddowares 'Parental Control - Kids Place' app for Android is impacted by multiple vulnerabilities that could enable attackers to upload arbitrary files on protected devices, steal user credentials, and allow children to bypass restrictions without the parents noticing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-source Cobalt Strike port 'Geacon' used in macOS attacks<a href="https://www.bleepingcomputer.com/news/security/open-source-cobalt-strike-port-geacon-used-in-macos-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Geacon, a Go-based implementation of the beacon from the widely abused penetration testing suite Cobalt Strike, is being used more and more to target macOS devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

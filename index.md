@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in Cisco Small Business Switches Could Allow Remote Attacks<a href="https://thehackernews.com/2023/05/critical-flaws-in-cisco-small-business.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MalasLocker ransomware targets Zimbra servers, demands charity donation<a href="https://www.bleepingcomputer.com/news/security/malaslocker-ransomware-targets-zimbra-servers-demands-charity-donation/"> Full Text</a>
@@ -66,7 +66,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESXi Servers Face New Threats From MichaelKors RaaS Affiliates<a href="https://cyware.com/news/esxi-servers-face-new-threats-from-michaelkors-raas-affiliates-1ac3470e"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monitoring the dark web to identify threats to energy sector organizations<a href="https://securityaffairs.com/146357/deep-web/dark-web-initial-access-energy-sector-orgs.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns of critical switch bugs with public exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-switch-bugs-with-public-exploit-code/"> Full Text</a>
@@ -115,7 +115,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lancefly APT Group Uses 'Merdoor' In Espionage Campaign<a href="https://cyware.com/news/lancefly-apt-group-uses-merdoor-in-espionage-campaign-3939c8bc"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OilAlpha: Emerging Houthi-linked Cyber Threat Targets Arabian Android Users<a href="https://thehackernews.com/2023/05/oilalpha-emerging-houthi-linked-cyber.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Gov offers a $10M reward for a Russian ransomware actor<a href="https://securityaffairs.com/146345/cyber-crime/russian-ransomware-actor-reward.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft pulls Defender update fixing Windows LSA Protection bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-defender-update-fixing-windows-lsa-protection-bug/"> Full Text</a>
@@ -180,7 +180,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Justice and Commerce Department 'strike force' target theft of quantum, autonomous technologies<a href="https://cyberscoop.com/justice-commerce-strike-force-quantum-russia-china/?&web_view=true"> Full Text</a>
@@ -196,7 +196,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identifying a Patch Management Solution: Overview of Key Criteria<a href="https://thehackernews.com/2023/05/identifying-patch-management-solution.html"> Full Text</a>
@@ -212,7 +212,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple flaws in Teltonika industrial cellular router expose OT networks to hack<a href="https://securityaffairs.com/146317/hacking/teltonika-industrial-cellular-routers-flaws.html"> Full Text</a>
@@ -229,7 +229,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Microsoft VSCode extensions steal passwords, open remote shells<a href="https://www.bleepingcomputer.com/news/security/malicious-microsoft-vscode-extensions-steal-passwords-open-remote-shells/"> Full Text</a>
@@ -245,7 +245,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 113 Security Update Patches Critical Vulnerability<a href="https://www.securityweek.com/chrome-113-security-update-patches-critical-vulnerability/?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Group UNC3944 Abusing Azure Serial Console for Total VM Takeover<a href="https://thehackernews.com/2023/05/threat-group-unc3944-abusing-azure.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University admission platform Leverage EDU exposed student passports<a href="https://securityaffairs.com/146329/data-breach/university-admission-platform-leverage-edu-exposed-student-passports.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScanSource says ransomware attack behind multi-day outages<a href="https://www.bleepingcomputer.com/news/security/scansource-says-ransomware-attack-behind-multi-day-outages/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Skynet Carder Market Founder Pleads Guilty<a href="https://www.bankinfosecurity.com/skynet-carder-market-founder-pleads-guilty-a-22090?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Serious Unpatched Vulnerability Uncovered in Popular Belkin Wemo Smart Plugs<a href="https://thehackernews.com/2023/05/serious-unpatched-vulnerability.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI confirms BianLian ransomware switch to extortion only attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-confirms-bianlian-ransomware-switch-to-extortion-only-attacks/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transportation Needs to Improve Cyber Policy Implementation, Watchdog Finds<a href="https://www.nextgov.com/cybersecurity/2023/05/transportation-needs-improve-cyber-policy-implementation-watchdog-finds/386371/?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Sponsored Sidewinder Hacker Group's Covert Attack Infrastructure Uncovered<a href="https://thehackernews.com/2023/05/state-sponsored-sidewinder-hacker.html"> Full Text</a>
@@ -390,7 +390,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Franklin County Public Schools Hit by Ransomware Attack<a href="https://martinsvillebulletin.com/news/franklin-county-public-schools-hit-by-ransomware-attack/article_22fddcb8-f41b-11ed-85bc-833affcd6772.html?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Offers $10 Million Bounty for Capture of Notorious Russian Ransomware Operator<a href="https://thehackernews.com/2023/05/us-offers-10-million-bounty-for-capture.html"> Full Text</a>
@@ -422,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2023
+May 17, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM snags Polar Security to boost cloud data practice<a href="https://www.techrepublic.com/article/ibm-snags-polar-cloud-data/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers use Azure Serial Console for stealthy access to VMs<a href="https://www.bleepingcomputer.com/news/security/hackers-use-azure-serial-console-for-stealthy-access-to-vms/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZIP domains spark debate among cybersecurity experts<a href="https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers infect TP-Link router firmware to attack EU entities<a href="https://www.bleepingcomputer.com/news/security/hackers-infect-tp-link-router-firmware-to-attack-eu-entities/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian ransomware affiliate charged with attacks on critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-affiliate-charged-with-attacks-on-critical-infrastructure/"> Full Text</a>
@@ -502,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Prevention – Are Meeting Password Security Requirements Enough<a href="https://www.bleepingcomputer.com/news/security/ransomware-prevention-are-meeting-password-security-requirements-enough/"> Full Text</a>
@@ -518,7 +518,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Parental control app with 5 million downloads vulnerable to attacks<a href="https://www.bleepingcomputer.com/news/security/parental-control-app-with-5-million-downloads-vulnerable-to-attacks/"> Full Text</a>
@@ -534,7 +534,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2023
+May 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open-source Cobalt Strike port 'Geacon' used in macOS attacks<a href="https://www.bleepingcomputer.com/news/security/open-source-cobalt-strike-port-geacon-used-in-macos-attacks/"> Full Text</a>

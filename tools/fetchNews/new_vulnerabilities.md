@@ -8,6 +8,119 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in Cisco Small Business Switches Could Allow Remote Attacks<a href="https://thehackernews.com/2023/05/critical-flaws-in-cisco-small-business.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released updates to address a set of nine security flaws in its Small Business Series Switches that could be exploited by an unauthenticated, remote attacker to run arbitrary code or cause a denial-of-service (DoS) condition. "These vulnerabilities are due to improper validation of requests that are sent to the web interface," Cisco&nbsp; said , crediting an unnamed external researcher for reporting the issues. Four of the nine vulnerabilities are rated 9.8 out of 10 on the CVSS scoring system, making them critical in nature. The nine flaws affect the following product lines - 250 Series Smart Switches (Fixed in firmware version 2.5.9.16) 350 Series Managed Switches (Fixed in firmware version 2.5.9.16) 350X Series Stackable Managed Switches (Fixed in firmware version 2.5.9.16) 550X Series Stackable Managed Switches (Fixed in firmware version 2.5.9.16) Business 250 Series Smart Switches (Fixed in firmware version 3.3.0.16) Business 350 Series Managed Switches (F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of critical switch bugs with public exploit code<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-switch-bugs-with-public-exploit-code/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warned customers today of four critical remote code execution vulnerabilities with public exploit code affecting multiple&nbsp;Small Business Series Switches.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft pulls Defender update fixing Windows LSA Protection bug<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-defender-update-fixing-windows-lsa-protection-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has pulled a recent Microsoft Defender update that was supposed to fix a known issue triggering persistent restart alerts and Windows Security warnings that Local Security Authority (LSA) Protection is off.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple flaws in Teltonika industrial cellular router expose OT networks to hack<a href="https://securityaffairs.com/146317/hacking/teltonika-industrial-cellular-routers-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found multiple vulnerabilities in Teltonika industrial cellular routers that could expose OT networks to cyber attacks.
+A joint analysis conducted by industrial cybersecurity firms Claroty and Otorio discovered multiple flaws in Teltonika...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 113 Security Update Patches Critical Vulnerability<a href="https://www.securityweek.com/chrome-113-security-update-patches-critical-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced the release of a Chrome 113 security update that resolves a total of 12 vulnerabilities, including one rated ‘critical’. Six of the flaws were reported by external researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Serious Unpatched Vulnerability Uncovered in Popular Belkin Wemo Smart Plugs<a href="https://thehackernews.com/2023/05/serious-unpatched-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second generation version of Belkin's Wemo Mini Smart Plug has been found to contain a buffer overflow vulnerability that could be weaponized by a threat actor to inject arbitrary commands remotely. The issue, assigned the identifier&nbsp; CVE-2023-27217 , was discovered and reported to Belkin on January 9, 2023, by Israeli IoT security company Sternum , which reverse-engineered the device and gained firmware access. Wemo Mini Smart Plug V2 ( F7C063 ) offers convenient remote control, allowing users to turn electronic devices on or off using a companion app installed on a smartphone or tablet. The heart of the problem lies in a feature that makes it possible to rename the smart plug to a more " FriendlyName ." The default name assigned is " Wemo mini 6E9 ." "The name length is limited to 30 characters or less, but this rule is only enforced by the app itself," security researchers Amit Serper and Reuven Yakar&nbsp; said &nbsp;in a report shared with The Hac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZIP domains spark debate among cybersecurity experts<a href="https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers and IT admins have raised concerns over Google's new ZIP and MOV Internet domains, warning that threat actors could use them for phishing attacks and malware delivery.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Parental control app with 5 million downloads vulnerable to attacks<a href="https://www.bleepingcomputer.com/news/security/parental-control-app-with-5-million-downloads-vulnerable-to-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiddowares 'Parental Control - Kids Place' app for Android is impacted by multiple vulnerabilities that could enable attackers to upload arbitrary files on protected devices, steal user credentials, and allow children to bypass restrictions without the parents noticing.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

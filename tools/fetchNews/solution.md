@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyolo Product Overview: Secure Remote Access to All Environments<a href="https://thehackernews.com/2023/05/cyolo-product-overview-secure-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operational technology (OT) cybersecurity is a challenging but critical aspect of protecting organizations' essential systems and resources. Cybercriminals no longer break into systems, but instead log in – making access security more complex and also more important to manage and control than ever before. In an effort to solve the access-related challenges facing OT and critical infrastructure operators, the team at Cyolo built a zero-trust access platform designed to meet the unique safety, security, and uptime requirements of OT and industrial control systems (ICS) environments. Let's look under the hood:&nbsp; The Cyolo solution is a high-powered combination of Zero Trust Network Access (ZTNA), Identity Provider (IdP), and Privileged Access Management (PAM). What makes this approach stand out from the pack is that other ZTNA solutions do not offer IdP or PAM capabilities, while Identity and Access Management tools (IdPs and PAMs) do not extend connectivity. And unlike other pl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

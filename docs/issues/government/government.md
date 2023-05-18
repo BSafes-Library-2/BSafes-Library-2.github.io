@@ -8,6 +8,77 @@ nav_order: 900075
 
 ## Government
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov offers a $10M reward for a Russian ransomware actor<a href="https://securityaffairs.com/146345/cyber-crime/russian-ransomware-actor-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government is offering a $10M reward for Russian national Mikhail Pavlovich Matveev (30) charged for his role in ransomware attacks
+The US Justice Department charged Russian national Mikhail Pavlovich Matveev (30), aka Wazawaka, m1x, Boriselcin,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice and Commerce Department 'strike force' target theft of quantum, autonomous technologies<a href="https://cyberscoop.com/justice-commerce-strike-force-quantum-russia-china/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly formed Justice and Commerce Department’s joint Disruptive Technology Strike Force announced five coordinated enforcement actions taking aim at individuals seeking to help China, Russia and Iran gain access to sensitive U.S. technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI confirms BianLian ransomware switch to extortion only attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-confirms-bianlian-ransomware-switch-to-extortion-only-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), and Australian Cyber Security Centre (ACSC) have published a joint advisory to inform organizations of the latest tactics, techniques, and procedures (TTPs) and known indicators of compromise (IOCs) of the BianLian ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transportation Needs to Improve Cyber Policy Implementation, Watchdog Finds<a href="https://www.nextgov.com/cybersecurity/2023/05/transportation-needs-improve-cyber-policy-implementation-watchdog-finds/386371/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Transportation should better implement its policies for established cyber roles, including improving training and role expectations, according to a recent GAO report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Offers $10 Million Bounty for Capture of Notorious Russian Ransomware Operator<a href="https://thehackernews.com/2023/05/us-offers-10-million-bounty-for-capture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national has been charged and indicted by the U.S. Department of Justice (DoJ) for launching ransomware attacks against "thousands of victims" in the country and across the world. Mikhail Pavlovich Matveev &nbsp;(aka&nbsp; Wazawaka , m1x, Boriselcin, and Uhodiransomwar), the 30-year-old individual in question, is alleged to be a "central figure" in the development and deployment of&nbsp; LockBit ,&nbsp; Babuk , and&nbsp; Hive &nbsp;ransomware variants since at least June 2020. "These victims include law enforcement and other government agencies, hospitals, and schools," DoJ&nbsp; said . "Total ransom demands allegedly made by the members of these three global ransomware campaigns to their victims amount to as much as $400 million, while total victim ransom payments amount to as much as $200 million." LockBit, Babuk, and Hive operate alike, leveraging unlawfully obtained access to exfiltrate valuable data and deploy ransomware on compromised networks. The threat actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

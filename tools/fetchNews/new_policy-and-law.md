@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Skynet Carder Market Founder Pleads Guilty<a href="https://www.bankinfosecurity.com/skynet-carder-market-founder-pleads-guilty-a-22090?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Illinois man pleaded guilty Monday to eight criminal counts stemming from the three years he spent leading a conspiracy to sell stolen financial information on darknet markets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian ransomware affiliate charged with attacks on critical infrastructure<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-affiliate-charged-with-attacks-on-critical-infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department has filed charges against a Russian citizen named Mikhail Pavlovich Matveev (also known as Wazawaka or Boriselcin) for involvement in three ransomware operations that targeted victims across the United States.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
