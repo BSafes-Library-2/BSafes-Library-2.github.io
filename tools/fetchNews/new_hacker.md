@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukrainians' Personal Data, Says Kyiv<a href="https://www.bankinfosecurity.com/russian-hackers-target-ukrainians-personal-data-says-kyiv-a-22097?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's top cybersecurity agency says Russian hackers took a sudden interest in obtaining personal data and mounted successful attacks against more than one-third of the country's largest insurers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

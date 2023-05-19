@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monitoring the dark web to identify threats to energy sector organizations<a href="https://securityaffairs.com/146357/deep-web/dark-web-initial-access-energy-sector-orgs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Searchlight Cyber researchers warn of threat actors that are offering on the dark web access to energy sector organizations.
+Dark web intelligence firm Searchlight Cyber published a report that analyzes how threat actors in the dark web prepare their...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

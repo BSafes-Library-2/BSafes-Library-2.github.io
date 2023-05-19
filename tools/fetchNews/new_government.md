@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine, Ireland, Japan and Iceland join NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)<a href="https://securityaffairs.com/146372/cyber-warfare-2/nato-ccdcoe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) announced that Ukraine, Ireland, Japan and Iceland joined the organization.
+The NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) is a multinational organization established...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

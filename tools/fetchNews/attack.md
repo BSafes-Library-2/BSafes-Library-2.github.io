@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Franklin County Public Schools Hit by Ransomware Attack<a href="https://martinsvillebulletin.com/news/franklin-county-public-schools-hit-by-ransomware-attack/article_22fddcb8-f41b-11ed-85bc-833affcd6772.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a statement from schools Superintendent Bernice Cobbs, the decision was made to cancel classes Monday in the interest of on-campus security as the impact of the cyberattack was being reviewed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

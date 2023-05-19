@@ -11,6 +11,20 @@ nav_order: 900072
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Prevention – Are Meeting Password Security Requirements Enough<a href="https://www.bleepingcomputer.com/news/security/ransomware-prevention-are-meeting-password-security-requirements-enough/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As ransomware attacks continue to wreak havoc on organizations worldwide, many official standards and regulations have been established to address this pressing issue. Explore whether these regulated standards are sufficient or if organizations should strive for more robust security measures.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Is human threat hunting a fool’s errand?<a href="https://www.helpnetsecurity.com/2023/05/15/automated-threat-hunting-processes/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

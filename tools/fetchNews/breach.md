@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University admission platform Leverage EDU exposed student passports<a href="https://securityaffairs.com/146329/data-breach/university-admission-platform-leverage-edu-exposed-student-passports.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The popular university admission platform Leverage EDU leaked almost 240,000 sensitive files, including students’ passports, financial documents, certificates, and exam results.
+The Cybernews research team discovered that Leverage EDU leaked extremely...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

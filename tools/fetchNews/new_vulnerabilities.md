@@ -11,6 +11,51 @@ nav_order: 900220
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed three new actively exploited zero-day vulnerabilities<a href="https://securityaffairs.com/146411/security/apple-3-new-zero-day-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to address three zero-day vulnerabilities in iPhones, Macs, and iPads that are actively exploited in attacks.
+Apple has addressed three new zero-day vulnerabilities that are actively exploited in attacks in the wild...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KeePass 2.X Master Password Dumper allows retrieving the KeePass master password<a href="https://securityaffairs.com/146404/hacking/keepass-2-x-master-password-dumper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher published a PoC tool to retrieve the master password from KeePass by exploiting the CVE-2023-32784 vulnerability.
+Security researcher Vdohney released a PoC tool called&nbsp;KeePass 2.X Master Password Dumper that allows retrieving the master...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical fixed critical flaws in Cisco Small Business Switches<a href="https://securityaffairs.com/146383/breaking-news/critical-flaws-cisco-small-business-switches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed nine flaws in its Small Business Series Switches that could be exploited to execute arbitrary code or cause a DoS condition.
+Cisco has released security updates to address nine security vulnerabilities in the web-based user interface of certain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in Cisco Small Business Switches Could Allow Remote Attacks<a href="https://thehackernews.com/2023/05/critical-flaws-in-cisco-small-business.html"> Full Text</a>
 </p>
 <details>

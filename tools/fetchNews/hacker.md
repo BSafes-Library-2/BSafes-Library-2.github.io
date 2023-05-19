@@ -8,6 +8,90 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESXi Servers Face New Threats From MichaelKors RaaS Affiliates<a href="https://cyware.com/news/esxi-servers-face-new-threats-from-michaelkors-raas-affiliates-1ac3470e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Group-IB infiltrated the infrastructure of MichaelKors RaaS to divulge never-before-heard secrets of its affiliate nexus, which would often target critical sector entities. For instance, affiliates take back 80-85% of the ransomware payments. The common attack tactics used by MichaelKors include ph ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OilAlpha: Emerging Houthi-linked Cyber Threat Targets Arabian Android Users<a href="https://thehackernews.com/2023/05/oilalpha-emerging-houthi-linked-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group dubbed&nbsp; OilAlpha &nbsp;with suspected ties to Yemen's&nbsp; Houthi movement &nbsp;has been linked to a cyber espionage campaign targeting development, humanitarian, media, and non-governmental organizations in the Arabian peninsula. "OilAlpha used encrypted chat messengers like WhatsApp to launch social engineering attacks against its targets," cybersecurity company Recorded Future&nbsp; said &nbsp;in a technical report published Tuesday. "It has also used URL link shorteners. Per victimology assessment, it appears a majority of the targeted entities were Arabic-language speakers and operated Android devices." OilAlpha is the new cryptonym given by Recorded Future to two overlapping clusters previously tracked by the company under the names TAG-41 and TAG-62 since April 2022. TAG-XX (short for Threat Activity Group) is the temporary moniker assigned to emerging threat groups. The assessment that the adversary is acting in the interest of the Houthi movement is base
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Group UNC3944 Abusing Azure Serial Console for Total VM Takeover<a href="https://thehackernews.com/2023/05/threat-group-unc3944-abusing-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cyber actor has been observed abusing Microsoft Azure&nbsp; Serial Console &nbsp;on virtual machines (VMs) to install third-party remote management tools within compromised environments. Google-owned Mandiant attributed the activity to a threat group it tracks under the name&nbsp; UNC3944 , which is also known as Roasted 0ktapus and Scattered Spider. "This method of attack was unique in that it avoided many of the traditional detection methods employed within Azure and provided the attacker with full administrative access to the VM," the threat intelligence firm&nbsp; said . The emerging adversary, which first came to light late last year, is known to&nbsp; leverage SIM swapping attacks &nbsp;to breach telecommunications and business process outsourcing (BPO) companies since at least May 2022. Subsequently, Mandiant also&nbsp; found &nbsp;UNC3944 utilizing a loader named STONESTOP to install a malicious signed driver dubbed POORTRY that's designed to terminate processes associated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Sponsored Sidewinder Hacker Group's Covert Attack Infrastructure Uncovered<a href="https://thehackernews.com/2023/05/state-sponsored-sidewinder-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed previously undocumented attack infrastructure used by the prolific state-sponsored group&nbsp; SideWinder &nbsp;to strike entities located in Pakistan and China. This comprises a network of 55 domains and IP addresses used by the threat actor, cybersecurity companies Group-IB and Bridewell said in a joint report shared with The Hacker News. "The identified phishing domains mimic various organizations in the news, government, telecommunications, and financial sectors," researchers Nikita Rostovtsev, Joshua Penny, and Yashraj Solanki&nbsp; said . SideWinder has been known to be active since at least 2012, with attack chains primarily leveraging spear-phishing as an intrusion mechanism to obtain a foothold into targeted environments. The target range of the group is widely believed to be associated with Indian espionage interests. The most frequently attacked nations include Pakistan, China, Sri Lanka, Afghanistan, Bangladesh, Myanmar, the Philippi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers use Azure Serial Console for stealthy access to VMs<a href="https://www.bleepingcomputer.com/news/security/hackers-use-azure-serial-console-for-stealthy-access-to-vms/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated cybergang tracked by Mandiant as 'UNC3944' is using phishing and SIM swapping attacks to hijack Microsoft Azure admin accounts and gain access to virtual machines.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers infect TP-Link router firmware to attack EU entities<a href="https://www.bleepingcomputer.com/news/security/hackers-infect-tp-link-router-firmware-to-attack-eu-entities/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese state-sponsored hacking group named "Camaro Dragon" infects residential TP-Link routers with a custom "Horse Shell" malware used to attack European foreign affairs organizations.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

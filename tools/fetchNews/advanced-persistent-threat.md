@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lancefly APT Group Uses 'Merdoor' In Espionage Campaign<a href="https://cyware.com/news/lancefly-apt-group-uses-merdoor-in-espionage-campaign-3939c8bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lancefly APT group is targeting government, aviation, education, and telecom sectors in South and Southeast Asia using a powerful backdoor called Merdoor for intelligence gathering. The exact initial intrusion vector is not clear at present, though attackers are believed to have used SSH brute- ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

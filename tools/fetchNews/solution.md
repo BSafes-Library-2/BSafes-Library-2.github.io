@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identifying a Patch Management Solution: Overview of Key Criteria<a href="https://thehackernews.com/2023/05/identifying-patch-management-solution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software is rarely a one-and-done proposition. In fact, any application available today will likely need to be updated – or patched – to fix bugs,&nbsp; address vulnerabilities , and update key features at multiple points in the future. With the typical enterprise relying on a multitude of applications, servers, and end-point devices in their day-to-day operations, the acquisition of a robust&nbsp; patch management platform &nbsp;to identify, test, deploy, install, and document all appropriate patches are critical for ensuring systems remain stable and secure.&nbsp; As with most tech tools, not all patch management solutions are created equal, and what's seen as robust by one organization may prove inadequate for another. However, an evaluation that begins with a focus on specific key criteria – essential attributes and functionality likely to be offered by many vendors but not all – will allow IT teams to narrow down their options as they work to identify the best solution for their organization&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

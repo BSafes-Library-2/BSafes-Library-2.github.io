@@ -8,6 +8,49 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Admin of the darknet carding platform Skynet Market pleads guilty<a href="https://securityaffairs.com/146394/cyber-crime/skynet-market-kingping-pleaded-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US national has pleaded guilty to operating the carding site Skynet Market and selling financial information belonging to tens of thousands of US victims.
+The U.S. national Michael D. Mihalo, aka Dale Michael Mihalo Jr. and ggmccloud1, pleaded guilty...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darknet Carding Kingpin Pleads Guilty: Sold Financial Info of Tens of Thousands<a href="https://thehackernews.com/2023/05/darknet-carding-kingpin-pleads-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. national has pleaded guilty in a Missouri court to operating a darknet carding site and selling financial information belonging to tens of thousands of victims in the country. Michael D. Mihalo , aka Dale Michael Mihalo Jr. and ggmccloud1, has been accused of setting up a carding site called Skynet Market that specialized in the trafficking of credit and debit card data. Mihalo and his associates also peddled their warez on other dark web marketplaces such as AlphaBay Market, Wall Street Market, and Hansa Market between February 22, 2016, and October 1, 2019. "Mihalo assembled and directed the team that helped him sell this stolen financial information on the darknet," the U.S. Department of Justice (DoJ)&nbsp; said &nbsp;in a press statement released on May 16, 2023. "Mihalo personally possessed, sent, and received the information associated with 49,084 stolen payment cards with the intent that the payment card information would be trafficked on darknet sites, all i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers advance cyber bills aimed at open-source, satellite vulnerabilities<a href="https://therecord.media/house-senate-committees-advance-cyber-bills-aimed-at-open-source-satellite-vulnerabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Homeland Security Committee on Wednesday easily advanced legislation to ensure the federal government and critical infrastructure can tap open-source software securely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

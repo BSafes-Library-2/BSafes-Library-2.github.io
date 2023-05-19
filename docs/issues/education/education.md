@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Trust + Deception: Join This Webinar to Learn How to Outsmart Attackers!<a href="https://thehackernews.com/2023/05/join-this-webinar-zero-trust-deception.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is constantly evolving, but complexity can give hostile actors an advantage. To stay ahead of current and future attacks, it's essential to simplify and reframe your defenses. Zscaler Deception is a state-of-the-art next-generation deception technology seamlessly integrated with the Zscaler Zero Trust Exchange. It creates a hostile environment for attackers and enables you to track the entire attack sequence. We're hosting a session where we'll demonstrate how you can set up Zscaler Deception to detect advanced attacks, investigate threats, and contain them. Join us to learn about the latest advances and best practices directly from our technical product experts. Don't let lateral threats compromise your environment. Why attend? Learn how Zscaler Deception can help you generate private threat intelligence, detect compromised users, stop lateral movement, and secure Active Directory. Discover automated deception campaigns that can be launched within
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Reduce Exposure on the Manufacturing Attack Surface<a href="https://thehackernews.com/2023/05/how-to-reduce-exposure-on-manufacturing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digitalization initiatives are connecting once-isolated Operational Technology (OT) environments with their Information Technology (IT) counterparts. This digital transformation of the factory floor has accelerated the connection of machinery to digital systems and data. Computer systems for managing and monitoring digital systems and data have been added to the hardware and software used for managing and monitoring industrial devices and machines, connecting OT to IT. Such connectivity enhances productivity, reduces operational costs and speeds up processes. However, this convergence has also increased organizations' security risk, making manufacturers more susceptible to attacks. In fact, in 2022 alone, there were 2,337 security breaches of manufacturing systems, 338 with confirmed data disclosure (Verizon, 2022 DBIR Report).&nbsp; Ransomware: A Growing Threat for Manufacturers The nature of attacks has also changed. In the past, attackers may have been espionage-driven, targeting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Cybercrime Syndicate Pre-Infected Over 8.9 Million Android Phones Worldwide<a href="https://thehackernews.com/2023/05/this-cybercrime-syndicate-pre-infected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime enterprise known as&nbsp; Lemon Group &nbsp;is leveraging millions of pre-infected Android smartphones worldwide to carry out their malicious operations, posing significant supply chain risks. "The infection turns these devices into mobile proxies, tools for stealing and selling SMS messages, social media and online messaging accounts and monetization via advertisements and click fraud," cybersecurity firm Trend Micro&nbsp; said . The activity encompasses no fewer than 8.9 million compromised Android devices, particularly budget phones, with a majority of the infections discovered in the U.S., Mexico, Indonesia, Thailand, Russia, South Africa, India, Angola, the Philippines, and Argentina. The findings were&nbsp; presented &nbsp;by researchers Fyodor Yarochkin, Zhengyu Dong, Vladimir Kropotov, and Paul Pajares at the Black Hat Asia conference held in Singapore last week. Describing it as a&nbsp; continuously evolving problem , the cybersecurity firm said the threat actors are branching o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Exploiting Oracle WebLogic Flaw to Hijack Servers and Mine Cryptocurrency<a href="https://thehackernews.com/2023/05/8220-gang-exploiting-oracle-weblogic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cryptojacking group tracked as&nbsp; 8220 Gang &nbsp;has been spotted weaponizing a six-year-old security flaw in Oracle WebLogic servers to ensnare vulnerable instances into a botnet and distribute cryptocurrency mining malware. The flaw in question is&nbsp; CVE-2017-3506 &nbsp;(CVSS score: 7.4), which, when successfully exploited, could allow an unauthenticated attacker to execute arbitrary commands remotely. "This allows attackers to gain unauthorized access to sensitive data or compromise the entire system," Trend Micro researcher Sunil Bharti&nbsp; said &nbsp;in a report published this week. 8220 Gang,&nbsp; first documented &nbsp;by Cisco Talos in late 2018, is so named for its original use of port 8220 for command-and-control (C2) network communications. "8220 Gang identifies targets via scanning for misconfigured or vulnerable hosts on the public internet," SentinelOne&nbsp; noted &nbsp;last year. "8220 Gang is known to make use of SSH brute force attacks post-infection for the purp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware Group Builds Its Own Malware Loader<a href="https://www.bankinfosecurity.com/royal-ransomware-group-builds-its-own-malware-loader-a-22096?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware group, which spun off from Conti in early 2022, is refining its downloader using tactics and techniques that appear to draw directly from other post-Conti groups, says Yelisey Bohuslavskiy, chief research officer at Red Sense.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
