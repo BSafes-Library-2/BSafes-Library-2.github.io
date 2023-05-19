@@ -34,6 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualys Discovers New Sotdas Malware Variant<a href="https://cyware.com/news/qualys-discovers-new-sotdas-malware-variant-c4c83a5f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest iteration of the Sotdas malware has emerged, showcasing a variety of innovative features and advanced techniques for evading detection. This malware family is written in C++. After achieving persistence and collecting system information, Sotdas leverages this data for optimizing resource ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Cybercrime Syndicate Pre-Infected Over 8.9 Million Android Phones Worldwide<a href="https://thehackernews.com/2023/05/this-cybercrime-syndicate-pre-infected.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cybercrime enterprise known as  Lemon Group  is leveraging millions of pre-infected Android smartphones worldwide to carry out their malicious operations, posing significant supply chain risks. "The infection turns these devices into mobile proxies, tools for stealing and selling SMS messages, social media and online messaging accounts and monetization via advertisements and click fraud," cybersecurity firm Trend Micro  said . The activity encompasses no fewer than 8.9 million compromised Android devices, particularly budget phones, with a majority of the infections discovered in the U.S., Mexico, Indonesia, Thailand, Russia, South Africa, India, Angola, the Philippines, and Argentina. The findings were  presented  by researchers Fyodor Yarochkin, Zhengyu Dong, Vladimir Kropotov, and Paul Pajares at the Black Hat Asia conference held in Singapore last week. Describing it as a  continuously evolving problem , the cybersecurity firm said the threat actors are branching o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple fixed three new actively exploited zero-day vulnerabilities<a href="https://securityaffairs.com/146411/security/apple-3-new-zero-day-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates to address three zero-day vulnerabilities in iPhones, Macs, and iPads that are actively exploited in attacks.
+Apple has addressed three new zero-day vulnerabilities that are actively exploited in attacks in the wild...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patients angered after Oklahoma allergy clinic blames cyberattack for shutdown<a href="https://therecord.media/oklahoma-allergy-clinic-blames-ransomware-for-shutdown?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Oklahoma Institute of Allergy Asthma and Immunology posted a notice on its doors this month saying it will be closing "effective immediately due to a cybersecurity event.” Clinics in the towns of Norman and Yukon were both closed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Trust + Deception: Join This Webinar to Learn How to Outsmart Attackers!<a href="https://thehackernews.com/2023/05/join-this-webinar-zero-trust-deception.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is constantly evolving, but complexity can give hostile actors an advantage. To stay ahead of current and future attacks, it's essential to simplify and reframe your defenses. Zscaler Deception is a state-of-the-art next-generation deception technology seamlessly integrated with the Zscaler Zero Trust Exchange. It creates a hostile environment for attackers and enables you to track the entire attack sequence. We're hosting a session where we'll demonstrate how you can set up Zscaler Deception to detect advanced attacks, investigate threats, and contain them. Join us to learn about the latest advances and best practices directly from our technical product experts. Don't let lateral threats compromise your environment. Why attend? Learn how Zscaler Deception can help you generate private threat intelligence, detect compromised users, stop lateral movement, and secure Active Directory. Discover automated deception campaigns that can be launched within
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KeePass 2.X Master Password Dumper allows retrieving the KeePass master password<a href="https://securityaffairs.com/146404/hacking/keepass-2-x-master-password-dumper.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher published a PoC tool to retrieve the master password from KeePass by exploiting the CVE-2023-32784 vulnerability.
+Security researcher Vdohney released a PoC tool called KeePass 2.X Master Password Dumper that allows retrieving the master...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leveraging Dropbox to Soar Into Inbox<a href="https://www.avanan.com/blog/leveraging-dropbox-to-soar-into-inbox?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new way that hackers originate BEC 3.0 attacks is through legitimate services. In this attack, hackers create free Dropbox accounts and leverage their domain legitimacy to create pages with phishing embedded within them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Reduce Exposure on the Manufacturing Attack Surface<a href="https://thehackernews.com/2023/05/how-to-reduce-exposure-on-manufacturing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digitalization initiatives are connecting once-isolated Operational Technology (OT) environments with their Information Technology (IT) counterparts. This digital transformation of the factory floor has accelerated the connection of machinery to digital systems and data. Computer systems for managing and monitoring digital systems and data have been added to the hardware and software used for managing and monitoring industrial devices and machines, connecting OT to IT. Such connectivity enhances productivity, reduces operational costs and speeds up processes. However, this convergence has also increased organizations' security risk, making manufacturers more susceptible to attacks. In fact, in 2022 alone, there were 2,337 security breaches of manufacturing systems, 338 with confirmed data disclosure (Verizon, 2022 DBIR Report).  Ransomware: A Growing Threat for Manufacturers The nature of attacks has also changed. In the past, attackers may have been espionage-driven, targeting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Admin of the darknet carding platform Skynet Market pleads guilty<a href="https://securityaffairs.com/146394/cyber-crime/skynet-market-kingping-pleaded-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A US national has pleaded guilty to operating the carding site Skynet Market and selling financial information belonging to tens of thousands of US victims.
+The U.S. national Michael D. Mihalo, aka Dale Michael Mihalo Jr. and ggmccloud1, pleaded guilty...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukrainians' Personal Data, Says Kyiv<a href="https://www.bankinfosecurity.com/russian-hackers-target-ukrainians-personal-data-says-kyiv-a-22097?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's top cybersecurity agency says Russian hackers took a sudden interest in obtaining personal data and mounted successful attacks against more than one-third of the country's largest insurers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalating China-Taiwan Tensions Fuel Alarming Surge in Cyber Attacks<a href="https://thehackernews.com/2023/05/escalating-china-taiwan-tensions-fuel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  rising   geopolitical tensions  between China and Taiwan in recent months have sparked a noticeable uptick in cyber attacks on the East Asian island country. "From malicious emails and URLs to malware, the strain between China's claim of Taiwan as part of its territory and Taiwan's maintained independence has evolved into a worrying surge in attacks," the Trellix Advanced Research Center  said  in a new report. The attacks, which have targeted a variety of sectors in the region, are mainly designed to deliver malware and steal sensitive information, the cybersecurity firm said, adding it detected a four-fold jump in the volume of malicious emails between April 7 and April 10, 2023. Some of the most impacted industry verticals during the four-day time period were networking, manufacturing, and logistics. What's more, the spike in malicious emails targeting Taiwan has been followed by a 15x increase in PlugX detections between April 10 and April 12, 2023,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical fixed critical flaws in Cisco Small Business Switches<a href="https://securityaffairs.com/146383/breaking-news/critical-flaws-cisco-small-business-switches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco fixed nine flaws in its Small Business Series Switches that could be exploited to execute arbitrary code or cause a DoS condition.
+Cisco has released security updates to address nine security vulnerabilities in the web-based user interface of certain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Smartphones Distributed Worldwide With Preinstalled ‘Guerrilla’ Malware<a href="https://www.securityweek.com/millions-of-smartphones-distributed-worldwide-with-preinstalled-guerrilla-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since 2021, Trend Micro has been tracking a different operation that appears to be linked to Triada. The group behind the campaign is tracked by the cybersecurity firm as Lemon Group and the malware preloaded on devices is called Guerrilla.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8220 Gang Exploiting Oracle WebLogic Flaw to Hijack Servers and Mine Cryptocurrency<a href="https://thehackernews.com/2023/05/8220-gang-exploiting-oracle-weblogic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cryptojacking group tracked as  8220 Gang  has been spotted weaponizing a six-year-old security flaw in Oracle WebLogic servers to ensnare vulnerable instances into a botnet and distribute cryptocurrency mining malware. The flaw in question is  CVE-2017-3506  (CVSS score: 7.4), which, when successfully exploited, could allow an unauthenticated attacker to execute arbitrary commands remotely. "This allows attackers to gain unauthorized access to sensitive data or compromise the entire system," Trend Micro researcher Sunil Bharti  said  in a report published this week. 8220 Gang,  first documented  by Cisco Talos in late 2018, is so named for its original use of port 8220 for command-and-control (C2) network communications. "8220 Gang identifies targets via scanning for misconfigured or vulnerable hosts on the public internet," SentinelOne  noted  last year. "8220 Gang is known to make use of SSH brute force attacks post-infection for the purp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine, Ireland, Japan and Iceland join NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)<a href="https://securityaffairs.com/146372/cyber-warfare-2/nato-ccdcoe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) announced that Ukraine, Ireland, Japan and Iceland joined the organization.
+The NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) is a multinational organization established...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware Group Builds Its Own Malware Loader<a href="https://www.bankinfosecurity.com/royal-ransomware-group-builds-its-own-malware-loader-a-22096?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware group, which spun off from Conti in early 2022, is refining its downloader using tactics and techniques that appear to draw directly from other post-Conti groups, says Yelisey Bohuslavskiy, chief research officer at Red Sense.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Darknet Carding Kingpin Pleads Guilty: Sold Financial Info of Tens of Thousands<a href="https://thehackernews.com/2023/05/darknet-carding-kingpin-pleads-guilty.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.S. national has pleaded guilty in a Missouri court to operating a darknet carding site and selling financial information belonging to tens of thousands of victims in the country. Michael D. Mihalo , aka Dale Michael Mihalo Jr. and ggmccloud1, has been accused of setting up a carding site called Skynet Market that specialized in the trafficking of credit and debit card data. Mihalo and his associates also peddled their warez on other dark web marketplaces such as AlphaBay Market, Wall Street Market, and Hansa Market between February 22, 2016, and October 1, 2019. "Mihalo assembled and directed the team that helped him sell this stolen financial information on the darknet," the U.S. Department of Justice (DoJ)  said  in a press statement released on May 16, 2023. "Mihalo personally possessed, sent, and received the information associated with 49,084 stolen payment cards with the intent that the payment card information would be trafficked on darknet sites, all i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawmakers advance cyber bills aimed at open-source, satellite vulnerabilities<a href="https://therecord.media/house-senate-committees-advance-cyber-bills-aimed-at-open-source-satellite-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Homeland Security Committee on Wednesday easily advanced legislation to ensure the federal government and critical infrastructure can tap open-source software securely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Thwarts $2 Billion in App Store Fraud, Rejects 1.7 Million App Submissions<a href="https://thehackernews.com/2023/05/apple-thwarts-2-billion-in-app-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has announced that it prevented over $2 billion in potentially fraudulent transactions and rejected roughly 1.7 million app submissions for privacy and security violations in 2022. The computing giant said it terminated 428,000 developer accounts for potential fraudulent activity, blocked 105,000 fake developer account creations, and deactivated 282 million bogus customer accounts. It further noted that it thwarted 198 million attempted fraudulent new accounts prior to their creation. In contrast, Apple is estimated to have booted out 802,000 developer accounts in 2021. The company attributed the decline to new App Store "methods and protocols" that prevent the creation of such accounts in the first place. "In 2022, Apple protected users from nearly 57,000 untrustworthy apps from illegitimate storefronts," the company  emphasized . "These unauthorized marketplaces distribute harmful software that can imitate popular apps or alter them without the cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Taiwan Tensions Spark Surge in Cyberattacks on Taiwan<a href="https://www.trellix.com/en-us/about/newsroom/stories/research/china-taiwan-tensions-spark-surge-in-cyberattacks-on-taiwan.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix has observed a surge in malicious emails targeted toward Taiwan, starting April 7 and continuing until April 10. The number of malicious emails during this time increased to over four times the usual amount.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
