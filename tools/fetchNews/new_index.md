@@ -34,7 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC3944 Threat Group Uses Azure Built-in Tools to Abuse Azure VMs<a href="https://cyware.com/news/unc3944-threat-group-uses-azure-built-in-tools-to-abuse-azure-vms-d7d3d66f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially-motivated UNC3944 gang was found using phishing and SIM swapping attacks to hijack Microsoft Azure admin accounts and gain access to virtual machines to steal data from victim organizations. The threat actor gains initial access to an Azure administrator's account by using stolen creden ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Cyber Gang FIN7 Returns Cl0p Ransomware in New Wave of Attacks<a href="https://thehackernews.com/2023/05/notorious-cyber-gang-fin7-returns-cl0p.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime group known as FIN7 has been observed deploying  Cl0p  (aka Clop) ransomware, marking the threat actor's first ransomware campaign since late 2021. Microsoft, which detected the activity in April 2023, is tracking the financially motivated actor under its new taxonomy  Sangria Tempest . "In these recent attacks, Sangria Tempest uses the PowerShell script POWERTRASH to load the Lizar post-exploitation tool and get a foothold into a target network," the company's threat intelligence team  said . "They then use OpenSSH and Impacket to move laterally and deploy Clop ransomware." FIN7  (aka Carbanak, ELBRUS, and ITG14) has been linked to other ransomware families such as Black Basta, DarkSide, REvil, and LockBit, with the threat actor acting as a precursor for Maze and Ryuk ransomware attacks.  Active since at least 2012, the group has a  track record  of  targeting  a broad spectrum of organizations spanning software, consulting, f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Hijacks TP-Link Routers of European Foreign Affairs Entities<a href="https://cyware.com/news/mustang-panda-hijacks-tp-link-routers-of-european-foreign-affairs-entities-6f79f557"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European foreign affairs organizations are being targeted by a Chinese state-sponsored Camaro Dragon hacking group with a custom malware variant. This group has been found infecting residential TP-Link routers with a specialized malware called Horse Shell. Attackers can execute arbitrary commands,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Samsung Devices Under Attack! New Security Flaw Exposed<a href="https://thehackernews.com/2023/05/samsung-devices-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned of active exploitation of a medium-severity flaw affecting Samsung devices. The issue, tracked as  CVE-2023-21492  (CVSS score: 4.4), impacts select Samsung devices running Android versions 11, 12, and 13. The South Korean electronics giant described the issue as an information disclosure flaw that could be exploited by a privileged attacker to bypass address space layout randomization ( ASLR ) protections. ASLR is a  security technique  that's designed to thwart memory corruption and code execution flaws by obscuring the location of an executable in a device's memory. Samsung, in an  advisory  released this month, said it was "notified that an exploit for this issue had existed in the wild," adding it was privately disclosed to the company on January 17, 2023. Other details about how the flaw is being exploited are currently not known, but vulnerabilities in Samsung phones have been weapon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golang Variant of Cobalt Strike 'Geacon' Targets macOS<a href="https://cyware.com/news/golang-variant-of-cobalt-strike-geacon-targets-macos-b640d2b4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a growing trend in utilizing Geacon (a Golang implementation of the Cobalt Strike beacon), to target macOS devices, revealed SentinelOne. The package appeared specifically crafted to first verify its execution on a macOS system and subsequently retrieve an unsigned 'Geacon Plus' payload fr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pimcore Platform Flaws Exposed Users to Code Execution<a href="https://www.securityweek.com/pimcore-platform-flaws-exposed-users-to-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that vulnerabilities patched in the open-source Pimcore platform could have led to the execution of arbitrary code when clicking on a link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minas — a multi-stage cryptocurrency miner infection<a href="https://securelist.com/minas-miner-on-the-way-to-complexity/109692/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In June 2022, Kaspersky researchers found a suspicious shellcode running in the memory of a system process. Based on their reconstruction of the infection chain, they determined that it originated from running an encoded PowerShell script as a task.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+February cyber incident will cost molten metal flow engineering firm Vesuvius £3.5 million<a href="https://securityaffairs.com/146442/hacking/vesuvius-cyber-incident-cost-3-5m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vesuvius, a leader in molten metal flow engineering and technology, revealed that the February cyber incident will cost it £3.5 million
+Vesuvius is a global leader in molten metal flow engineering and technology, it employs more than 10,000 people...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM packages found containing the TurkoRat infostealer<a href="https://securityaffairs.com/146432/cyber-crime/npm-packages-contained-turkorat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts discovered two malicious packages in the npm package repository, both were laced with an open-source info-stealer called TurkoRat.
+ReversingLabs discovered two malicious packages, respectively named nodejs-encrypt-agent and nodejs-cookie-proxy-agent,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Sandbox Initiative: Google to Phase Out Third-Party Cookies Starting 2024<a href="https://thehackernews.com/2023/05/privacy-sandbox-initiative-google-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to officially flip the switch on its twice-delayed  Privacy Sandbox  initiatives as it slowly works its way to deprecate support for third-party cookies in Chrome browser. To that end, the search and advertising giant said it intends to phase out third-party cookies for 1% of Chrome users globally in the first quarter of 2024. "This will support developers in conducting real world experiments that assess the readiness and effectiveness of their products without third-party cookies," Anthony Chavez, vice president of Privacy Sandbox at Google,  said . Prior to rolling this out, Google said it would introduce the ability for third-party developers to simulate the process for a configurable subset of their users (up to 10%) in Q4 2023. Google further emphasized that the plans have been designed and developed with regulatory oversight and input from the U.K.'s Competition and Markets Authority ( CMA ), which is overseeing the implementation to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemon Group gang pre-infected 9 million Android devices for fraudulent activities<a href="https://securityaffairs.com/146418/cyber-crime/lemon-group-infects-millions-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lemon Group cybercrime ring has reportedly pre-installed malware known as Guerilla on almost 9 million Android devices.
+A cybercrime group tracked has Lemon Group has reportedly pre-installed malware known as Guerilla on almost 9 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dr. Active Directory vs. Mr. Exposed Attack Surface: Who'll Win This Fight?<a href="https://thehackernews.com/2023/05/dr-active-directory-vs-mr-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active Directory (AD) is among the oldest pieces of software still used in the production environment and can be found in most organizations today. This is despite the fact that its historical security gaps have never been amended. For example, because of its inability to apply any security measures beyond checking for a password and username match, AD (as well the resources it manages) is dangerously exposed to the use of compromised credentials. Furthermore, this exposure is not confined to the on-prem environment. The common practice of syncing passwords between AD and the cloud identity provider means any AD breach is a potential risk to the SaaS environment as well. In this article, we'll explore AD's inherent security weaknesses and examine their scope and potential impact. We'll then learn how Silverfort's Unified Identity Protection platform can address these weaknesses at their root and provide organizations using AD with the resiliency they need to thwart identity threa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developer Alert: NPM Packages for Node.js Hiding Dangerous TurkoRat Malware<a href="https://thehackernews.com/2023/05/developer-alert-npm-packages-for-nodejs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two malicious packages discovered in the npm package repository have been found to conceal an open source information stealer malware called  TurkoRat . The packages – named nodejs-encrypt-agent and nodejs-cookie-proxy-agent – were collectively downloaded approximately 1,200 times and were available for more than two months before they were identified and taken down. ReversingLabs, which broke down the details of the campaign, described TurkoRat as an information stealer capable of harvesting sensitive information such as login credentials, website cookies, and data from cryptocurrency wallets.  While nodejs-encrypt-agent came fitted with the malware inside, nodejs-cookie-proxy-agent was found to disguise the trojan as a dependency under the name axios-proxy. nodejs-encrypt-agent was also engineered to masquerade as another legitimate npm module known as  agent-base , which has been downloaded over 25 million times to date. The list of the rogue packages and their associated vers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dole incurs $10.5M in direct costs from February ransomware attack<a href="https://www.cybersecuritydive.com/news/dole-10m-costs-ransomware/650711/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About $4.8 million of those costs were related to continuing operations. The attack had a limited overall impact on its operations, with the main disruption occurring in its fresh vegetables and Chilean business.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Searching for AI Tools? Watch Out for Rogue Sites Distributing RedLine Malware<a href="https://thehackernews.com/2023/05/searching-for-ai-tools-watch-out-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious Google Search ads for generative AI services like OpenAI ChatGPT and Midjourney are being used to direct users to sketchy websites as part of a BATLOADER campaign designed to deliver  RedLine Stealer  malware. "Both AI services are extremely popular but lack first-party standalone apps (i.e., users interface with ChatGPT via their web interface while Midjourney uses Discord)," eSentire said in an analysis. "This vacuum has been exploited by threat actors looking to drive AI app-seekers to imposter web pages promoting fake apps." BATLOADER is a loader malware that's propagated via drive-by downloads where users searching for certain keywords on search engines are displayed bogus ads that, when clicked, redirect them to rogue landing pages hosting malware. The installer file, per eSentire, is rigged with an executable file (ChatGPT.exe or midjourney.exe) and a PowerShell script (Chat.ps1 or Chat-Ready.ps1) that downloads and loads RedLine Stealer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Food distributor Sysco says cyberattack potentially leaked 125,000 Social Security numbers<a href="https://therecord.media/sysco-data-breach-social-security-numbers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack on Sysco, one of the world’s largest food distributors, gave hackers access to the sensitive personal information of more than 125,000 current and former employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WebKit Under Attack: Apple Issues Emergency Patches for 3 New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2023/05/webkit-under-attack-apple-issues.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday  rolled out security updates  to iOS, iPadOS, macOS, tvOS, watchOS, and the Safari web browser to address dozens of flaws, including three new zero-days that it said are being actively exploited in the wild. The three security shortcomings are listed below - CVE-2023-32409  - A WebKit flaw that could be exploited by a malicious actor to break out of the Web Content sandbox. It was addressed with improved bounds checks. CVE-2023-28204  - An out-of-bounds read issue in WebKit that could be abused to disclose sensitive information when processing web content. It was addressed with improved input validation. CVE-2023-32373  - A use-after free bug in WebKit that could lead to arbitrary code execution when processing maliciously crafted web content. It was addressed with improved memory management. The iPhone maker credited Clément Lecigne of Google's Threat Analysis Group (TAG) and Donncha Ó Cearbhaill of Amnesty International's Security Lab for reporting C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Identify Second Developer of ‘Golden Chickens’ Malware<a href="https://www.securityweek.com/researchers-identify-second-developer-of-golden-chickens-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Offered under a malware-as-a-service (MaaS) model since 2018, Golden Chickens has been used by the Russia-based Cobalt Group and FIN6 cybercrime rings to target organizations in various industries, causing financial losses or more than $1.4 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualys Discovers New Sotdas Malware Variant<a href="https://cyware.com/news/qualys-discovers-new-sotdas-malware-variant-c4c83a5f"> Full Text</a>
@@ -50,7 +341,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Cybercrime Syndicate Pre-Infected Over 8.9 Million Android Phones Worldwide<a href="https://thehackernews.com/2023/05/this-cybercrime-syndicate-pre-infected.html"> Full Text</a>
@@ -66,7 +357,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple fixed three new actively exploited zero-day vulnerabilities<a href="https://securityaffairs.com/146411/security/apple-3-new-zero-day-bugs.html"> Full Text</a>
@@ -83,7 +374,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patients angered after Oklahoma allergy clinic blames cyberattack for shutdown<a href="https://therecord.media/oklahoma-allergy-clinic-blames-ransomware-for-shutdown?&web_view=true"> Full Text</a>
@@ -99,7 +390,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero Trust + Deception: Join This Webinar to Learn How to Outsmart Attackers!<a href="https://thehackernews.com/2023/05/join-this-webinar-zero-trust-deception.html"> Full Text</a>
@@ -115,7 +406,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KeePass 2.X Master Password Dumper allows retrieving the KeePass master password<a href="https://securityaffairs.com/146404/hacking/keepass-2-x-master-password-dumper.html"> Full Text</a>
@@ -132,7 +423,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leveraging Dropbox to Soar Into Inbox<a href="https://www.avanan.com/blog/leveraging-dropbox-to-soar-into-inbox?&web_view=true"> Full Text</a>
@@ -148,7 +439,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Reduce Exposure on the Manufacturing Attack Surface<a href="https://thehackernews.com/2023/05/how-to-reduce-exposure-on-manufacturing.html"> Full Text</a>
@@ -164,7 +455,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Admin of the darknet carding platform Skynet Market pleads guilty<a href="https://securityaffairs.com/146394/cyber-crime/skynet-market-kingping-pleaded-guilty.html"> Full Text</a>
@@ -181,7 +472,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Target Ukrainians' Personal Data, Says Kyiv<a href="https://www.bankinfosecurity.com/russian-hackers-target-ukrainians-personal-data-says-kyiv-a-22097?&web_view=true"> Full Text</a>
@@ -197,7 +488,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Escalating China-Taiwan Tensions Fuel Alarming Surge in Cyber Attacks<a href="https://thehackernews.com/2023/05/escalating-china-taiwan-tensions-fuel.html"> Full Text</a>
@@ -213,7 +504,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical fixed critical flaws in Cisco Small Business Switches<a href="https://securityaffairs.com/146383/breaking-news/critical-flaws-cisco-small-business-switches.html"> Full Text</a>
@@ -230,7 +521,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Smartphones Distributed Worldwide With Preinstalled ‘Guerrilla’ Malware<a href="https://www.securityweek.com/millions-of-smartphones-distributed-worldwide-with-preinstalled-guerrilla-malware/?&web_view=true"> Full Text</a>
@@ -246,7 +537,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8220 Gang Exploiting Oracle WebLogic Flaw to Hijack Servers and Mine Cryptocurrency<a href="https://thehackernews.com/2023/05/8220-gang-exploiting-oracle-weblogic.html"> Full Text</a>
@@ -262,7 +553,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine, Ireland, Japan and Iceland join NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE)<a href="https://securityaffairs.com/146372/cyber-warfare-2/nato-ccdcoe.html"> Full Text</a>
@@ -279,7 +570,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Ransomware Group Builds Its Own Malware Loader<a href="https://www.bankinfosecurity.com/royal-ransomware-group-builds-its-own-malware-loader-a-22096?&web_view=true"> Full Text</a>
@@ -295,7 +586,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Darknet Carding Kingpin Pleads Guilty: Sold Financial Info of Tens of Thousands<a href="https://thehackernews.com/2023/05/darknet-carding-kingpin-pleads-guilty.html"> Full Text</a>
@@ -311,7 +602,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawmakers advance cyber bills aimed at open-source, satellite vulnerabilities<a href="https://therecord.media/house-senate-committees-advance-cyber-bills-aimed-at-open-source-satellite-vulnerabilities?&web_view=true"> Full Text</a>
@@ -327,7 +618,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Thwarts $2 Billion in App Store Fraud, Rejects 1.7 Million App Submissions<a href="https://thehackernews.com/2023/05/apple-thwarts-2-billion-in-app-store.html"> Full Text</a>
@@ -343,7 +634,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2023
+May 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Taiwan Tensions Spark Surge in Cyberattacks on Taiwan<a href="https://www.trellix.com/en-us/about/newsroom/stories/research/china-taiwan-tensions-spark-surge-in-cyberattacks-on-taiwan.html?&web_view=true"> Full Text</a>
