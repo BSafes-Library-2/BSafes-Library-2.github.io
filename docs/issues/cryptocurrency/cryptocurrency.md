@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minas — a multi-stage cryptocurrency miner infection<a href="https://securelist.com/minas-miner-on-the-way-to-complexity/109692/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In June 2022, Kaspersky researchers found a suspicious shellcode running in the memory of a system process. Based on their reconstruction of the infection chain, they determined that it originated from running an encoded PowerShell script as a task.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

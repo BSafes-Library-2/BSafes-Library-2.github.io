@@ -7,6 +7,23 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+    CVE-2004-1464 Cisco IOS Denial-of-Service Vulnerability
+    CVE-2016-6415 Cisco IOS, IOS XR, and IOS XE IKEv1 Information Disclosure Vulnerability
+    CVE-2023-21492 Samsung Mobile Devices Insertion of Sensitive Information Into Log File Vulnerability
+
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

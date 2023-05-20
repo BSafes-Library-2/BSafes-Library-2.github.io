@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Notorious Cyber Gang FIN7 Returns Cl0p Ransomware in New Wave of Attacks<a href="https://thehackernews.com/2023/05/notorious-cyber-gang-fin7-returns-cl0p.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious cybercrime group known as FIN7 has been observed deploying&nbsp; Cl0p &nbsp;(aka Clop) ransomware, marking the threat actor's first ransomware campaign since late 2021. Microsoft, which detected the activity in April 2023, is tracking the financially motivated actor under its new taxonomy&nbsp; Sangria Tempest . "In these recent attacks, Sangria Tempest uses the PowerShell script POWERTRASH to load the Lizar post-exploitation tool and get a foothold into a target network," the company's threat intelligence team&nbsp; said . "They then use OpenSSH and Impacket to move laterally and deploy Clop ransomware." FIN7 &nbsp;(aka Carbanak, ELBRUS, and ITG14) has been linked to other ransomware families such as Black Basta, DarkSide, REvil, and LockBit, with the threat actor acting as a precursor for Maze and Ryuk ransomware attacks.&nbsp; Active since at least 2012, the group has a&nbsp; track record &nbsp;of&nbsp; targeting &nbsp;a broad spectrum of organizations spanning software, consulting, f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lemon Group gang pre-infected 9 million Android devices for fraudulent activities<a href="https://securityaffairs.com/146418/cyber-crime/lemon-group-infects-millions-phone.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lemon Group cybercrime ring has reportedly pre-installed malware known as Guerilla on almost 9 million Android devices.
+A cybercrime group tracked has Lemon Group&nbsp;has reportedly pre-installed malware known as Guerilla on almost 9 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

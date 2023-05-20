@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC3944 Threat Group Uses Azure Built-in Tools to Abuse Azure VMs<a href="https://cyware.com/news/unc3944-threat-group-uses-azure-built-in-tools-to-abuse-azure-vms-d7d3d66f"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notorious Cyber Gang FIN7 Returns Cl0p Ransomware in New Wave of Attacks<a href="https://thehackernews.com/2023/05/notorious-cyber-gang-fin7-returns-cl0p.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda Hijacks TP-Link Routers of European Foreign Affairs Entities<a href="https://cyware.com/news/mustang-panda-hijacks-tp-link-routers-of-european-foreign-affairs-entities-6f79f557"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Samsung Devices Under Attack! New Security Flaw Exposed<a href="https://thehackernews.com/2023/05/samsung-devices-under-active.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Golang Variant of Cobalt Strike 'Geacon' Targets macOS<a href="https://cyware.com/news/golang-variant-of-cobalt-strike-geacon-targets-macos-b640d2b4"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pimcore Platform Flaws Exposed Users to Code Execution<a href="https://www.securityweek.com/pimcore-platform-flaws-exposed-users-to-code-execution/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minas — a multi-stage cryptocurrency miner infection<a href="https://securelist.com/minas-miner-on-the-way-to-complexity/109692/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 February cyber incident will cost molten metal flow engineering firm Vesuvius £3.5 million<a href="https://securityaffairs.com/146442/hacking/vesuvius-cyber-incident-cost-3-5m.html"> Full Text</a>
@@ -163,7 +163,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM packages found containing the TurkoRat infostealer<a href="https://securityaffairs.com/146432/cyber-crime/npm-packages-contained-turkorat.html"> Full Text</a>
@@ -180,7 +180,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Sandbox Initiative: Google to Phase Out Third-Party Cookies Starting 2024<a href="https://thehackernews.com/2023/05/privacy-sandbox-initiative-google-to.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lemon Group gang pre-infected 9 million Android devices for fraudulent activities<a href="https://securityaffairs.com/146418/cyber-crime/lemon-group-infects-millions-phone.html"> Full Text</a>
@@ -213,7 +213,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dr. Active Directory vs. Mr. Exposed Attack Surface: Who'll Win This Fight?<a href="https://thehackernews.com/2023/05/dr-active-directory-vs-mr-exposed.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developer Alert: NPM Packages for Node.js Hiding Dangerous TurkoRat Malware<a href="https://thehackernews.com/2023/05/developer-alert-npm-packages-for-nodejs.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dole incurs $10.5M in direct costs from February ransomware attack<a href="https://www.cybersecuritydive.com/news/dole-10m-costs-ransomware/650711/?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Searching for AI Tools? Watch Out for Rogue Sites Distributing RedLine Malware<a href="https://thehackernews.com/2023/05/searching-for-ai-tools-watch-out-for.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Food distributor Sysco says cyberattack potentially leaked 125,000 Social Security numbers<a href="https://therecord.media/sysco-data-breach-social-security-numbers?&web_view=true"> Full Text</a>
@@ -293,7 +293,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WebKit Under Attack: Apple Issues Emergency Patches for 3 New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2023/05/webkit-under-attack-apple-issues.html"> Full Text</a>
@@ -309,7 +309,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Identify Second Developer of ‘Golden Chickens’ Malware<a href="https://www.securityweek.com/researchers-identify-second-developer-of-golden-chickens-malware/?&web_view=true"> Full Text</a>

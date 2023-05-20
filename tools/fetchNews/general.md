@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Thwarts $2 Billion in App Store Fraud, Rejects 1.7 Million App Submissions<a href="https://thehackernews.com/2023/05/apple-thwarts-2-billion-in-app-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has announced that it prevented over $2 billion in potentially fraudulent transactions and rejected roughly 1.7 million app submissions for privacy and security violations in 2022. The computing giant said it terminated 428,000 developer accounts for potential fraudulent activity, blocked 105,000 fake developer account creations, and deactivated 282 million bogus customer accounts. It further noted that it thwarted 198 million attempted fraudulent new accounts prior to their creation. In contrast, Apple is estimated to have booted out 802,000 developer accounts in 2021. The company attributed the decline to new App Store "methods and protocols" that prevent the creation of such accounts in the first place. "In 2022, Apple protected users from nearly 57,000 untrustworthy apps from illegitimate storefronts," the company&nbsp; emphasized . "These unauthorized marketplaces distribute harmful software that can imitate popular apps or alter them without the cons
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

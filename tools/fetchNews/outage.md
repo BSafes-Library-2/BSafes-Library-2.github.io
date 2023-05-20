@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patients angered after Oklahoma allergy clinic blames cyberattack for shutdown<a href="https://therecord.media/oklahoma-allergy-clinic-blames-ransomware-for-shutdown?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Oklahoma Institute of Allergy Asthma and Immunology posted a notice on its doors this month saying it will be closing "effective immediately due to a cybersecurity event.” Clinics in the towns of Norman and Yukon were both closed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

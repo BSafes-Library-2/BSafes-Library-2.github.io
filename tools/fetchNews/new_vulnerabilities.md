@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: Samsung Devices Under Attack! New Security Flaw Exposed<a href="https://thehackernews.com/2023/05/samsung-devices-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned of active exploitation of a medium-severity flaw affecting Samsung devices. The issue, tracked as&nbsp; CVE-2023-21492 &nbsp;(CVSS score: 4.4), impacts select Samsung devices running Android versions 11, 12, and 13. The South Korean electronics giant described the issue as an information disclosure flaw that could be exploited by a privileged attacker to bypass address space layout randomization ( ASLR ) protections. ASLR is a&nbsp; security technique &nbsp;that's designed to thwart memory corruption and code execution flaws by obscuring the location of an executable in a device's memory. Samsung, in an&nbsp; advisory &nbsp;released this month, said it was "notified that an exploit for this issue had existed in the wild," adding it was privately disclosed to the company on January 17, 2023. Other details about how the flaw is being exploited are currently not known, but vulnerabilities in Samsung phones have been weapon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pimcore Platform Flaws Exposed Users to Code Execution<a href="https://www.securityweek.com/pimcore-platform-flaws-exposed-users-to-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning that vulnerabilities patched in the open-source Pimcore platform could have led to the execution of arbitrary code when clicking on a link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dr. Active Directory vs. Mr. Exposed Attack Surface: Who'll Win This Fight?<a href="https://thehackernews.com/2023/05/dr-active-directory-vs-mr-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active Directory (AD) is among the oldest pieces of software still used in the production environment and can be found in most organizations today. This is despite the fact that its historical security gaps have never been amended. For example, because of its inability to apply any security measures beyond checking for a password and username match, AD (as well the resources it manages) is dangerously exposed to the use of compromised credentials. Furthermore, this exposure is not confined to the on-prem environment. The common practice of syncing passwords between AD and the cloud identity provider means any AD breach is a potential risk to the SaaS environment as well. In this article, we'll explore AD's inherent security weaknesses and examine their scope and potential impact. We'll then learn how Silverfort's Unified Identity Protection platform can address these weaknesses at their root and provide organizations using AD with the resiliency they need to thwart identity threa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WebKit Under Attack: Apple Issues Emergency Patches for 3 New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2023/05/webkit-under-attack-apple-issues.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday&nbsp; rolled out security updates &nbsp;to iOS, iPadOS, macOS, tvOS, watchOS, and the Safari web browser to address dozens of flaws, including three new zero-days that it said are being actively exploited in the wild. The three security shortcomings are listed below - CVE-2023-32409 &nbsp;- A WebKit flaw that could be exploited by a malicious actor to break out of the Web Content sandbox. It was addressed with improved bounds checks. CVE-2023-28204 &nbsp;- An out-of-bounds read issue in WebKit that could be abused to disclose sensitive information when processing web content. It was addressed with improved input validation. CVE-2023-32373 &nbsp;- A use-after free bug in WebKit that could lead to arbitrary code execution when processing maliciously crafted web content. It was addressed with improved memory management. The iPhone maker credited Clément Lecigne of Google's Threat Analysis Group (TAG) and Donncha Ó Cearbhaill of Amnesty International's Security Lab for reporting C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

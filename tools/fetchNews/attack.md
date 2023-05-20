@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalating China-Taiwan Tensions Fuel Alarming Surge in Cyber Attacks<a href="https://thehackernews.com/2023/05/escalating-china-taiwan-tensions-fuel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; rising &nbsp; geopolitical tensions &nbsp;between China and Taiwan in recent months have sparked a noticeable uptick in cyber attacks on the East Asian island country. "From malicious emails and URLs to malware, the strain between China's claim of Taiwan as part of its territory and Taiwan's maintained independence has evolved into a worrying surge in attacks," the Trellix Advanced Research Center&nbsp; said &nbsp;in a new report. The attacks, which have targeted a variety of sectors in the region, are mainly designed to deliver malware and steal sensitive information, the cybersecurity firm said, adding it detected a four-fold jump in the volume of malicious emails between April 7 and April 10, 2023. Some of the most impacted industry verticals during the four-day time period were networking, manufacturing, and logistics. What's more, the spike in malicious emails targeting Taiwan has been followed by a 15x increase in PlugX detections between April 10 and April 12, 2023,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Taiwan Tensions Spark Surge in Cyberattacks on Taiwan<a href="https://www.trellix.com/en-us/about/newsroom/stories/research/china-taiwan-tensions-spark-surge-in-cyberattacks-on-taiwan.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trellix has observed a surge in malicious emails targeted toward Taiwan, starting April 7 and continuing until April 10. The number of malicious emails during this time increased to over four times the usual amount.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

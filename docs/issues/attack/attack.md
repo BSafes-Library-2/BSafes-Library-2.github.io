@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Hijacks TP-Link Routers of European Foreign Affairs Entities<a href="https://cyware.com/news/mustang-panda-hijacks-tp-link-routers-of-european-foreign-affairs-entities-6f79f557"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European foreign affairs organizations are being targeted by a Chinese state-sponsored Camaro Dragon hacking group with a custom malware variant. This group has been found infecting residential TP-Link routers with a specialized malware called Horse Shell. Attackers can execute arbitrary commands,  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+February cyber incident will cost molten metal flow engineering firm Vesuvius £3.5 million<a href="https://securityaffairs.com/146442/hacking/vesuvius-cyber-incident-cost-3-5m.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vesuvius, a leader in molten metal flow engineering and technology, revealed that the February cyber incident will cost it £3.5 million
+Vesuvius is a global leader in molten metal flow engineering and technology, it employs more than 10,000 people...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dole incurs $10.5M in direct costs from February ransomware attack<a href="https://www.cybersecuritydive.com/news/dole-10m-costs-ransomware/650711/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About $4.8 million of those costs were related to continuing operations. The attack had a limited overall impact on its operations, with the main disruption occurring in its fresh vegetables and Chilean business.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

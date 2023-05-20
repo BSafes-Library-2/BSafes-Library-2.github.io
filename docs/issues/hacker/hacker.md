@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC3944 Threat Group Uses Azure Built-in Tools to Abuse Azure VMs<a href="https://cyware.com/news/unc3944-threat-group-uses-azure-built-in-tools-to-abuse-azure-vms-d7d3d66f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially-motivated UNC3944 gang was found using phishing and SIM swapping attacks to hijack Microsoft Azure admin accounts and gain access to virtual machines to steal data from victim organizations. The threat actor gains initial access to an Azure administrator's account by using stolen creden ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
