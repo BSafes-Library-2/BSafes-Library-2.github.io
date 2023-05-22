@@ -34,7 +34,205 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Under Attack: User Sign-Ups and Package Uploads Temporarily Halted<a href="https://thehackernews.com/2023/05/pypi-repository-under-attack-user-sign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Python Package Index (PyPI), the official third-party software repository for the Python programming language, have temporarily disabled the ability for users to sign up and upload new packages until further notice. "The volume of malicious users and malicious projects being created on the index in the past week has outpaced our ability to respond to it in a timely fashion, especially with multiple PyPI administrators on leave," the admins  said  in a notice published on May 20, 2023. No additional details about the nature of the malware and threat actors involved in publishing those rogue packages to PyPI were disclosed. The decision to freeze new user and project registrations comes as software registries such as PyPI have proven time and time again to be a popular target for attackers looking to poison the software supply chain and compromise developer environments. Earlier this week, Israeli cybersecurity startup Phylum  uncovered  an active malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository temporarily suspends user sign-ups and package uploads due to ongoing attacks<a href="https://securityaffairs.com/146488/cyber-crime/pypi-repository-suspends-sign-ups-package-uploads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) maintainers have temporarily disabled the sign up and package upload processes due to an ongoing attack.
+The maintainers of Python Package Index (PyPI), the Python software repository, have temporarily disabled the sign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 420 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146483/breaking-news/security-affairs-newsletter-round-420.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+We...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CommonMagic Implants Linked to CloudWizard<a href="https://cyware.com/news/commonmagic-implants-linked-to-cloudwizard-151861d6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT campaign employs a modular framework called CloudWizard. This framework is capable of taking screenshots, keylogging, and recording audio from the microphone. The CloudWizard framework comprises nine modules that enable a variety of hacking capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious VSCode Extensions: Password Theft and Remote Shell Exploits<a href="https://cyware.com/news/malicious-vscode-extensions-password-theft-and-remote-shell-exploits-f86e00f7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point took the wraps off of three malicious Microsoft Visual Studio extensions on May 4, 2023, aimed at exploiting VSCode Marketplace visitors. These extensions named Theme Darcula dark, python-vscode, and prettiest java, were downloaded by Windows developers nearly 46,000 times. Actors could ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet 'Jack' from Romania! Mastermind Behind Golden Chickens Malware<a href="https://thehackernews.com/2023/05/meet-jack-from-romania-mastermind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The identity of the second threat actor behind the Golden Chickens malware has been uncovered courtesy of a "fatal" operational security blunder, cybersecurity firm eSentire said. The individual in question, who lives in Bucharest, Romania, has been given the codename Jack. He is one of the two criminals operating an account on the Russian-language Exploit.in forum under the name "badbullzvenom," the other being " Chuck from Montreal ." eSentire characterized Jack as the true mastermind behind Golden Chickens. Evidence unearthed by the Canadian company shows that he is also listed as the owner of a vegetable and fruit import and export business. "Like 'Chuck from Montreal,' 'Jack' uses multiple aliases for the underground forums, social media, and Jabber accounts, and he too has gone to great lengths to disguise himself," eSentire researchers Joe Stewart and Keegan Keplinger said . "'Jack' has taken great pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newcomer MalasLocker Group Demands Ransom as Donation for Charity<a href="https://cyware.com/news/newcomer-malaslocker-group-demands-ransom-as-donation-for-charity-23074650"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalasLocker emerged as a new ransomware operation, since the end of March, targeting Zimbra servers. The group gains access to servers by exploiting vulnerabilities in Zimbra software. Instead of demanding a ransom payment, MalasLocker demands a donation to a charity to provide a decryptor and prev ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 data breach exposed data of 70 Million Luxottica customers<a href="https://securityaffairs.com/146472/data-breach/luxottica-2021-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxottica has finally confirmed the 2021 data breach that exposed the personal information of 70 million customers.
+Luxottica Group S.p.A. is an Italian eyewear conglomerate and the world’s largest company in the eyewear industry. As a vertically...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers tie FIN7 cybercrime family to Clop ransomware<a href="https://therecord.media/researchers-tie-fin7-cybercrime-family-to-clop-ransomware-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Long-running cybercrime cartel FIN7, which has made use of ransomware variants developed by groups including REvil and Maze, has added another strain to its arsenal. This time, its the Cl0p ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime gang FIN7 returned and was spotted delivering Clop ransomware<a href="https://securityaffairs.com/146465/cyber-crime/fin7-delivering-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminal gang FIN7 returned with a new wave of attacks aimed at deploying the Clop ransomware on victims' networks.
+Researchers at Microsoft Security Intelligence team published a series of tweets to warn of a new wave of attacks aimed at distributing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Vendor Sells IP Addresses to Duck Anomaly Detection<a href="https://www.bankinfosecurity.com/phishing-vendor-sells-ip-addresses-to-duck-anomaly-detection-a-22121?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BulletProofLink, also referred to as BulletProftLink or Anthrax, sells access to phishing kits, email templates, hosting, and automated series "at a relatively low cost".
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA warns of a Samsung vulnerability under active exploitation<a href="https://securityaffairs.com/146457/security/cisa-warns-samsung-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added the vulnerability CVE-2023-21492 flaw affecting Samsung devices to its Known Exploited Vulnerabilities Catalog.
+US CISA added the vulnerability CVE-2023-21492 vulnerability (CVSS score: 4.4) affecting Samsung devices to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UNC3944 Threat Group Uses Azure Built-in Tools to Abuse Azure VMs<a href="https://cyware.com/news/unc3944-threat-group-uses-azure-built-in-tools-to-abuse-azure-vms-d7d3d66f"> Full Text</a>
@@ -50,7 +248,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Notorious Cyber Gang FIN7 Returns Cl0p Ransomware in New Wave of Attacks<a href="https://thehackernews.com/2023/05/notorious-cyber-gang-fin7-returns-cl0p.html"> Full Text</a>
@@ -66,7 +264,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda Hijacks TP-Link Routers of European Foreign Affairs Entities<a href="https://cyware.com/news/mustang-panda-hijacks-tp-link-routers-of-european-foreign-affairs-entities-6f79f557"> Full Text</a>
@@ -82,7 +280,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Samsung Devices Under Attack! New Security Flaw Exposed<a href="https://thehackernews.com/2023/05/samsung-devices-under-active.html"> Full Text</a>
@@ -98,7 +296,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Golang Variant of Cobalt Strike 'Geacon' Targets macOS<a href="https://cyware.com/news/golang-variant-of-cobalt-strike-geacon-targets-macos-b640d2b4"> Full Text</a>
@@ -114,7 +312,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pimcore Platform Flaws Exposed Users to Code Execution<a href="https://www.securityweek.com/pimcore-platform-flaws-exposed-users-to-code-execution/?&web_view=true"> Full Text</a>
@@ -130,7 +328,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Minas — a multi-stage cryptocurrency miner infection<a href="https://securelist.com/minas-miner-on-the-way-to-complexity/109692/?&web_view=true"> Full Text</a>
@@ -146,7 +344,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 February cyber incident will cost molten metal flow engineering firm Vesuvius £3.5 million<a href="https://securityaffairs.com/146442/hacking/vesuvius-cyber-incident-cost-3-5m.html"> Full Text</a>
@@ -163,7 +361,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM packages found containing the TurkoRat infostealer<a href="https://securityaffairs.com/146432/cyber-crime/npm-packages-contained-turkorat.html"> Full Text</a>
@@ -180,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Sandbox Initiative: Google to Phase Out Third-Party Cookies Starting 2024<a href="https://thehackernews.com/2023/05/privacy-sandbox-initiative-google-to.html"> Full Text</a>
@@ -196,7 +394,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lemon Group gang pre-infected 9 million Android devices for fraudulent activities<a href="https://securityaffairs.com/146418/cyber-crime/lemon-group-infects-millions-phone.html"> Full Text</a>
@@ -213,7 +411,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dr. Active Directory vs. Mr. Exposed Attack Surface: Who'll Win This Fight?<a href="https://thehackernews.com/2023/05/dr-active-directory-vs-mr-exposed.html"> Full Text</a>
@@ -229,7 +427,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developer Alert: NPM Packages for Node.js Hiding Dangerous TurkoRat Malware<a href="https://thehackernews.com/2023/05/developer-alert-npm-packages-for-nodejs.html"> Full Text</a>
@@ -245,7 +443,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dole incurs $10.5M in direct costs from February ransomware attack<a href="https://www.cybersecuritydive.com/news/dole-10m-costs-ransomware/650711/?&web_view=true"> Full Text</a>
@@ -261,7 +459,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Searching for AI Tools? Watch Out for Rogue Sites Distributing RedLine Malware<a href="https://thehackernews.com/2023/05/searching-for-ai-tools-watch-out-for.html"> Full Text</a>
@@ -277,7 +475,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Food distributor Sysco says cyberattack potentially leaked 125,000 Social Security numbers<a href="https://therecord.media/sysco-data-breach-social-security-numbers?&web_view=true"> Full Text</a>
@@ -293,7 +491,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WebKit Under Attack: Apple Issues Emergency Patches for 3 New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2023/05/webkit-under-attack-apple-issues.html"> Full Text</a>
@@ -309,7 +507,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 19, 2023
+May 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Identify Second Developer of ‘Golden Chickens’ Malware<a href="https://www.securityweek.com/researchers-identify-second-developer-of-golden-chickens-malware/?&web_view=true"> Full Text</a>
