@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+May 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository temporarily suspends user sign-ups and package uploads due to ongoing attacks<a href="https://securityaffairs.com/146488/cyber-crime/pypi-repository-suspends-sign-ups-package-uploads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) maintainers have temporarily disabled the sign up and package upload processes due to an ongoing attack.
+The maintainers of Python Package Index (PyPI), the Python software repository, have temporarily disabled the sign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

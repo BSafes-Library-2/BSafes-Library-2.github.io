@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Under Attack: User Sign-Ups and Package Uploads Temporarily Halted<a href="https://thehackernews.com/2023/05/pypi-repository-under-attack-user-sign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Python Package Index (PyPI), the official third-party software repository for the Python programming language, have temporarily disabled the ability for users to sign up and upload new packages until further notice. "The volume of malicious users and malicious projects being created on the index in the past week has outpaced our ability to respond to it in a timely fashion, especially with multiple PyPI administrators on leave," the admins&nbsp; said &nbsp;in a notice published on May 20, 2023. No additional details about the nature of the malware and threat actors involved in publishing those rogue packages to PyPI were disclosed. The decision to freeze new user and project registrations comes as software registries such as PyPI have proven time and time again to be a popular target for attackers looking to poison the software supply chain and compromise developer environments. Earlier this week, Israeli cybersecurity startup Phylum&nbsp; uncovered &nbsp;an active malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

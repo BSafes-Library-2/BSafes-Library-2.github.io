@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Repository Under Attack: User Sign-Ups and Package Uploads Temporarily Halted<a href="https://thehackernews.com/2023/05/pypi-repository-under-attack-user-sign.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Repository temporarily suspends user sign-ups and package uploads due to ongoing attacks<a href="https://securityaffairs.com/146488/cyber-crime/pypi-repository-suspends-sign-ups-package-uploads.html"> Full Text</a>
@@ -67,7 +67,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 420 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146483/breaking-news/security-affairs-newsletter-round-420.html"> Full Text</a>
@@ -85,7 +85,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CommonMagic Implants Linked to CloudWizard<a href="https://cyware.com/news/commonmagic-implants-linked-to-cloudwizard-151861d6"> Full Text</a>
@@ -101,7 +101,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious VSCode Extensions: Password Theft and Remote Shell Exploits<a href="https://cyware.com/news/malicious-vscode-extensions-password-theft-and-remote-shell-exploits-f86e00f7"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meet 'Jack' from Romania! Mastermind Behind Golden Chickens Malware<a href="https://thehackernews.com/2023/05/meet-jack-from-romania-mastermind.html"> Full Text</a>
@@ -133,7 +133,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newcomer MalasLocker Group Demands Ransom as Donation for Charity<a href="https://cyware.com/news/newcomer-malaslocker-group-demands-ransom-as-donation-for-charity-23074650"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 2021 data breach exposed data of 70 Million Luxottica customers<a href="https://securityaffairs.com/146472/data-breach/luxottica-2021-data-breach.html"> Full Text</a>
@@ -166,7 +166,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers tie FIN7 cybercrime family to Clop ransomware<a href="https://therecord.media/researchers-tie-fin7-cybercrime-family-to-clop-ransomware-microsoft?&web_view=true"> Full Text</a>
@@ -182,7 +182,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime gang FIN7 returned and was spotted delivering Clop ransomware<a href="https://securityaffairs.com/146465/cyber-crime/fin7-delivering-clop-ransomware.html"> Full Text</a>
@@ -199,7 +199,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Vendor Sells IP Addresses to Duck Anomaly Detection<a href="https://www.bankinfosecurity.com/phishing-vendor-sells-ip-addresses-to-duck-anomaly-detection-a-22121?&web_view=true"> Full Text</a>
@@ -215,7 +215,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2023
+May 20, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US CISA warns of a Samsung vulnerability under active exploitation<a href="https://securityaffairs.com/146457/security/cisa-warns-samsung-flaw.html"> Full Text</a>

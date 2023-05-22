@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Sandbox Initiative: Google to Phase Out Third-Party Cookies Starting 2024<a href="https://thehackernews.com/2023/05/privacy-sandbox-initiative-google-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to officially flip the switch on its twice-delayed&nbsp; Privacy Sandbox &nbsp;initiatives as it slowly works its way to deprecate support for third-party cookies in Chrome browser. To that end, the search and advertising giant said it intends to phase out third-party cookies for 1% of Chrome users globally in the first quarter of 2024. "This will support developers in conducting real world experiments that assess the readiness and effectiveness of their products without third-party cookies," Anthony Chavez, vice president of Privacy Sandbox at Google,&nbsp; said . Prior to rolling this out, Google said it would introduce the ability for third-party developers to simulate the process for a configurable subset of their users (up to 10%) in Q4 2023. Google further emphasized that the plans have been designed and developed with regulatory oversight and input from the U.K.'s Competition and Markets Authority ( CMA ), which is overseeing the implementation to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

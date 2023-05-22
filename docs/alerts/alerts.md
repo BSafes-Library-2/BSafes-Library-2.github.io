@@ -24,6 +24,18 @@ CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 19, 2023 - Microsoft Threat Intelligence
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially motivated cybercriminal group Sangria Tempest (ELBRUS, FIN7) has come out of a long period of inactivity. <a href="https://www.cisa.gov/news-events/alerts/2023/05/19/cisa-adds-three-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated cybercriminal group Sangria Tempest (ELBRUS, FIN7) has come out of a long period of inactivity. The group was observed deploying the Clop ransomware in opportunistic attacks in April 2023, its first ransomware campaign since late 2021.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 16, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -36,7 +48,7 @@ CISA released three Industrial Control Systems (ICS) advisories on May 16, 2023.
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2023 - Microsoft
+May 6, 2023 - Microsoft Threat Intelligence
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More actors are exploiting unpatched CVE-2023-27350 in print management software <a href="https://twitter.com/MsftSecIntel/status/1654610012457648129"> Full Text</a>

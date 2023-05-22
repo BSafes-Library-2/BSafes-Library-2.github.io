@@ -8,6 +8,37 @@ nav_order: 900072
 
 ## General
 ---
+May 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 420 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146483/breaking-news/security-affairs-newsletter-round-420.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+We...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2021 data breach exposed data of 70 Million Luxottica customers<a href="https://securityaffairs.com/146472/data-breach/luxottica-2021-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Luxottica has finally confirmed the 2021 data breach that exposed the personal information of 70 million customers.
+Luxottica Group S.p.A.&nbsp;is an Italian eyewear conglomerate and the world’s largest company in the eyewear industry. As a vertically...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

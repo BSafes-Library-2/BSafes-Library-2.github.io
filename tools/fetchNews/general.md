@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Searching for AI Tools? Watch Out for Rogue Sites Distributing RedLine Malware<a href="https://thehackernews.com/2023/05/searching-for-ai-tools-watch-out-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious Google Search ads for generative AI services like OpenAI ChatGPT and Midjourney are being used to direct users to sketchy websites as part of a BATLOADER campaign designed to deliver&nbsp; RedLine Stealer &nbsp;malware. "Both AI services are extremely popular but lack first-party standalone apps (i.e., users interface with ChatGPT via their web interface while Midjourney uses Discord)," eSentire said in an analysis. "This vacuum has been exploited by threat actors looking to drive AI app-seekers to imposter web pages promoting fake apps." BATLOADER is a loader malware that's propagated via drive-by downloads where users searching for certain keywords on search engines are displayed bogus ads that, when clicked, redirect them to rogue landing pages hosting malware. The installer file, per eSentire, is rigged with an executable file (ChatGPT.exe or midjourney.exe) and a PowerShell script (Chat.ps1 or Chat-Ready.ps1) that downloads and loads RedLine Stealer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

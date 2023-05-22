@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newcomer MalasLocker Group Demands Ransom as Donation for Charity<a href="https://cyware.com/news/newcomer-malaslocker-group-demands-ransom-as-donation-for-charity-23074650"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalasLocker emerged as a new ransomware operation, since the end of March, targeting Zimbra servers. The group gains access to servers by exploiting vulnerabilities in Zimbra software. Instead of demanding a ransom payment, MalasLocker demands a donation to a charity to provide a decryptor and prev ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

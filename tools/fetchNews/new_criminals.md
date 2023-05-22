@@ -11,6 +11,35 @@ nav_order: 900031
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Researchers tie FIN7 cybercrime family to Clop ransomware<a href="https://therecord.media/researchers-tie-fin7-cybercrime-family-to-clop-ransomware-microsoft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Long-running cybercrime cartel FIN7, which has made use of ransomware variants developed by groups including REvil and Maze, has added another strain to its arsenal. This time, its the Cl0p ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime gang FIN7 returned and was spotted delivering Clop ransomware<a href="https://securityaffairs.com/146465/cyber-crime/fin7-delivering-clop-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminal gang FIN7 returned with a new wave of attacks aimed at deploying the Clop ransomware on victims' networks.
+Researchers at Microsoft Security Intelligence team published a series of tweets to warn of a new wave of attacks aimed at distributing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Notorious Cyber Gang FIN7 Returns Cl0p Ransomware in New Wave of Attacks<a href="https://thehackernews.com/2023/05/notorious-cyber-gang-fin7-returns-cl0p.html"> Full Text</a>
 </p>
 <details>
