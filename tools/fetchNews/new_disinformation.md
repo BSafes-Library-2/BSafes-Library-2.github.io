@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon explosion hoax goes viral after verified Twitter accounts push<a href="https://www.bleepingcomputer.com/news/security/pentagon-explosion-hoax-goes-viral-after-verified-twitter-accounts-push/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Highly realistic AI-generated images depicting an explosion near the Pentagon that went viral on Twitter caused the stock market&nbsp;to&nbsp;dip briefly earlier today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dish Network says the February ransomware attack impacted +300,000 individuals<a href="https://securityaffairs.com/146515/cyber-crime/dish-network-disclosed-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Satellite TV giant Dish Network disclosed a data breach after the February ransomware attack and started notifying impacted individuals.
+The American satellite broadcast provider Dish Network went offline on February 24, 2023, the outage impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Dallas under pressure as Royal ransomware group threatens leak<a href="https://www.cybersecuritydive.com/news/dallas-ransomware-data-leak-threat/650883/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack against Dallas entered a new and all-too-common phase Friday as Royal, the threat actor behind the attack, listed the city on its leak site almost three weeks after the city was first made aware of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Councils Caught in Capita Unsecured AWS Bucket Data Leak<a href="https://www.theregister.com/2023/05/22/capita_security_pensions_aws_bucket_city_councils/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bad news train keeps rolling for Capita, with more local British councils surfacing to say their data was put on the line by an unsecured AWS bucket, and, separately, pension clients warning of possible data theft in March's mega breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

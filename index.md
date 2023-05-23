@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google launches bug bounty program for its Android applications<a href="https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guerrilla Campaign: Lemon Group’s Business of Pre-infected Devices<a href="https://cyware.com/news/guerrilla-campaign-lemon-groups-business-of-pre-infected-devices-e630d261"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Regulators Hit Meta with Record $1.3 Billion Fine for Data Transfer Violations<a href="https://thehackernews.com/2023/05/eu-regulators-hit-meta-with-record-13.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds iPhone bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146531/security/cisa-iphone-bugs-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Windows kernel drivers used in BlackCat ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/malicious-windows-kernel-drivers-used-in-blackcat-ransomware-attacks/"> Full Text</a>
@@ -115,7 +115,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GAO Tells Federal Agencies to Fully Implement Key Cloud Security Practices<a href="https://www.securityweek.com/gao-tells-federal-agencies-to-fully-implement-key-cloud-security-practices/?&web_view=true"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesian Cybercriminals Exploit AWS for Profitable Crypto Mining Operations<a href="https://thehackernews.com/2023/05/indonesian-cybercriminals-exploit-aws.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU hits Meta with $1.3 billion fine for transferring European user data to the US<a href="https://securityaffairs.com/146525/laws-and-regulations/eu-fined-meta-1-3b.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pentagon explosion hoax goes viral after verified Twitter accounts push<a href="https://www.bleepingcomputer.com/news/security/pentagon-explosion-hoax-goes-viral-after-verified-twitter-accounts-push/"> Full Text</a>
@@ -180,7 +180,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious links and misaddressed emails slip past security controls<a href="https://www.helpnetsecurity.com/2023/05/22/email-communication-security/?&web_view=true"> Full Text</a>
@@ -196,7 +196,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bad Magic's Extended Reign in Cyber Espionage Goes Back Over a Decade<a href="https://thehackernews.com/2023/05/bad-magics-extended-reign-in-cyber.html"> Full Text</a>
@@ -212,7 +212,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dish Network says the February ransomware attack impacted +300,000 individuals<a href="https://securityaffairs.com/146515/cyber-crime/dish-network-disclosed-data-breach.html"> Full Text</a>
@@ -229,7 +229,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto phishing service Inferno Drainer defrauds thousands of victims<a href="https://www.bleepingcomputer.com/news/security/crypto-phishing-service-inferno-drainer-defrauds-thousands-of-victims/"> Full Text</a>
@@ -245,7 +245,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Dallas under pressure as Royal ransomware group threatens leak<a href="https://www.cybersecuritydive.com/news/dallas-ransomware-data-leak-threat/650883/?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Your APIs Leaking Sensitive Data?<a href="https://thehackernews.com/2023/05/are-your-apis-leaking-sensitive-data.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China bans chip maker Micron from its key information infrastructure<a href="https://securityaffairs.com/146511/security/china-bans-micron-products.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders govt agencies to patch iPhone bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Onfido acquires Airside to boost identity verification for individuals and businesses<a href="https://www.helpnetsecurity.com/2023/05/22/onfido-airside-mobile/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K. Fraudster Behind iSpoof Scam Receives 13-Year Jail Term for Cyber Crimes<a href="https://thehackernews.com/2023/05/uk-fraudster-behind-ispoof-scam.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BatLoader campaign impersonates ChatGPT and Midjourney to deliver Redline Stealer<a href="https://securityaffairs.com/146496/malware/batloader-campaign-impersonates-chatgpt-midjourney.html"> Full Text</a>
@@ -359,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU slaps Meta with $1.3 billion fine for moving data to US servers<a href="https://www.bleepingcomputer.com/news/technology/eu-slaps-meta-with-13-billion-fine-for-moving-data-to-us-servers/"> Full Text</a>
@@ -375,7 +375,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Councils Caught in Capita Unsecured AWS Bucket Data Leak<a href="https://www.theregister.com/2023/05/22/capita_security_pensions_aws_bucket_city_councils/?&web_view=true"> Full Text</a>
@@ -391,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KeePass Exploit Allows Attackers to Recover Master Passwords from Memory<a href="https://thehackernews.com/2023/05/keepass-exploit-allows-attackers-to.html"> Full Text</a>
@@ -407,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An AI-based Chrome Extension Against Phishing, Malware, and Ransomware<a href="https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/"> Full Text</a>
@@ -423,7 +423,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkBERT could help automate dark web mining for cyber threat intelligence<a href="https://www.helpnetsecurity.com/2023/05/19/cti-dark-web/?&web_view=true"> Full Text</a>
@@ -439,7 +439,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Deploys New Signed Kernel Driver<a href="https://www.trendmicro.com/en_us/research/23/e/blackcat-ransomware-deploys-new-signed-kernel-driver.html?&web_view=true"> Full Text</a>
@@ -455,7 +455,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Parent Meta Hit With Record Fine for Transferring European User Data to US<a href="https://www.securityweek.com/facebook-parent-meta-hit-with-record-fine-for-transferring-european-user-data-to-us/?&web_view=true"> Full Text</a>
@@ -471,7 +471,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google will delete accounts inactive for more than 2 years<a href="https://www.bleepingcomputer.com/news/security/google-will-delete-accounts-inactive-for-more-than-2-years/"> Full Text</a>
@@ -487,7 +487,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android phones are vulnerable to fingerprint brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/android-phones-are-vulnerable-to-fingerprint-brute-force-attacks/"> Full Text</a>

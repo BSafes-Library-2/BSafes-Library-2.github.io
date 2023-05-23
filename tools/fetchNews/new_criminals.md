@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guerrilla Campaign: Lemon Group’s Business of Pre-infected Devices<a href="https://cyware.com/news/guerrilla-campaign-lemon-groups-business-of-pre-infected-devices-e630d261"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lemon Group gained control over millions of smartphones globally through the preinstallation of a malware called Guerrilla, reported Trend Micro. The campaign has been active since 2018. Lemon Group conducts business for marketing and advertising companies and utilizes big data.&nbsp;This highl ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesian Cybercriminals Exploit AWS for Profitable Crypto Mining Operations<a href="https://thehackernews.com/2023/05/indonesian-cybercriminals-exploit-aws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor of Indonesian origin has been observed leveraging Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instances to carry out illicit crypto mining operations. Cloud security company's Permiso P0 Labs, which first detected the group in November 2021, has assigned it the moniker&nbsp; GUI-vil &nbsp;(pronounced Goo-ee-vil). "The group displays a preference for Graphical User Interface (GUI) tools, specifically S3 Browser (version 9.5.5) for their initial operations," the company said in a report shared with The Hacker News. "Upon gaining AWS Console access, they conduct their operations directly through the web browser." Attack chains mounted by GUI-vil entail obtaining initial access by weaponizing AWS keys in publicly exposed source code repositories on GitHub or scanning for GitLab instances that are vulnerable to remote code execution flaws (e.g.,&nbsp; CVE-2021-22205 ). A successful ingress is followed by privilege escalation and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,35 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023 - United States Government Accountability Office 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Selected Agencies Need to Fully Implement Key Practices <a href="https://www.gao.gov/assets/gao-23-105482.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud computing provides agencies with potential opportunities to obtain IT services more efficiently; however, if not effectively implemented, it also poses cybersecurity risks. To facilitate the adoption and use of cloud services, the Office of Management and Budget and other federal agencies have issued policies and guidance on key practices that agencies are to implement to ensure the security of agency systems that leverage cloud services (i.e., cloud systems).  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2023/05/22/cisa-adds-three-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+    CVE-2023-32409 Apple Multiple Products WebKit Sandbox Escape Vulnerability
+    CVE-2023-28204 Apple Multiple Products WebKit Out-of-Bounds Read Vulnerability
+    CVE-2023-32373 Apple Multiple Products WebKit Use-After-Free Vulnerability
+
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

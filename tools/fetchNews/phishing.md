@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Vendor Sells IP Addresses to Duck Anomaly Detection<a href="https://www.bankinfosecurity.com/phishing-vendor-sells-ip-addresses-to-duck-anomaly-detection-a-22121?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BulletProofLink, also referred to as BulletProftLink or Anthrax, sells access to phishing kits, email templates, hosting, and automated series "at a relatively low cost".
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

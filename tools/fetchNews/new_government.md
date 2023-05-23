@@ -8,6 +8,78 @@ nav_order: 900075
 
 ## Government
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds iPhone bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146531/security/cisa-iphone-bugs-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added three zero-day vulnerabilities affecting&nbsp;iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added three zero-day vulnerabilities affecting&nbsp;iPhones, Macs,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GAO Tells Federal Agencies to Fully Implement Key Cloud Security Practices<a href="https://www.securityweek.com/gao-tells-federal-agencies-to-fully-implement-key-cloud-security-practices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new US Government Accountability Office (GAO) report shows that the Departments of Agriculture, Homeland Security (DHS), Labor, and the Treasury have not fully implemented six key cloud security practices for their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China bans chip maker Micron from its key information infrastructure<a href="https://securityaffairs.com/146511/security/china-bans-micron-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese government announced the ban on the products made by the US memory chip giant Micron Technology over national security concerns.
+The Cyberspace Administration of China announced the ban on products made by US memory chip giant Micron Technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders govt agencies to patch iPhone bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the U.S. Cybersecurity &amp; Infrastructure Security Agency (CISA) ordered federal agencies to address three recently patched zero-day flaws affecting&nbsp;iPhones, Macs, and iPads known to be exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU slaps Meta with $1.3 billion fine for moving data to US servers<a href="https://www.bleepingcomputer.com/news/technology/eu-slaps-meta-with-13-billion-fine-for-moving-data-to-us-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) has announced a $1.3 billion fine on Facebook after claiming that the company violated Article 46(1) of the GDPR (General Data Protection Regulation).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

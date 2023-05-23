@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches bug bounty program for its Android applications<a href="https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has launched the Mobile Vulnerability Rewards Program (Mobile VRP), a new bug bounty program that will pay security researchers for flaws found in the company's Android applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU hits Meta with $1.3 billion fine for transferring European user data to the US<a href="https://securityaffairs.com/146525/laws-and-regulations/eu-fined-meta-1-3b.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union condemned&nbsp;Meta&nbsp;with a record $1.3 billion fine for transferring European user data to the US.
+The European Union fined&nbsp;Meta&nbsp;$1.3 billion for transferring user data to the US. This is the biggest fine since the adoption of the General...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will delete accounts inactive for more than 2 years<a href="https://www.bleepingcomputer.com/news/security/google-will-delete-accounts-inactive-for-more-than-2-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has updated its policy for personal accounts across its services to allow a maximum period of inactivity of two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

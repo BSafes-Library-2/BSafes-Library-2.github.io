@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An AI-based Chrome Extension Against Phishing, Malware, and Ransomware<a href="https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminal IP's Chrome extension offers real-time scanning of websites worldwide, using AI-based detection to identify recently created phishing sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBERT could help automate dark web mining for cyber threat intelligence<a href="https://www.helpnetsecurity.com/2023/05/19/cti-dark-web/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed DarkBERT, a language model pre-trained on dark web data, to help cybersecurity pros extract cyber threat intelligence (CTI) from the Internet’s virtual underbelly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

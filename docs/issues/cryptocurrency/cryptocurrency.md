@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto phishing service Inferno Drainer defrauds thousands of victims<a href="https://www.bleepingcomputer.com/news/security/crypto-phishing-service-inferno-drainer-defrauds-thousands-of-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency phishing and scam service called 'Inferno Drainer' has reportedly stolen over $5.9 million worth of crypto from 4,888 victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

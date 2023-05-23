@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious links and misaddressed emails slip past security controls<a href="https://www.helpnetsecurity.com/2023/05/22/email-communication-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of organizations use six or more communication tools, across channels, with email remaining the channel seen as the most vulnerable to attacks (38%), according to Armorblox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BatLoader campaign impersonates ChatGPT and Midjourney to deliver Redline Stealer<a href="https://securityaffairs.com/146496/malware/batloader-campaign-impersonates-chatgpt-midjourney.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified an ongoing BatLoader campaign relying on Google Search Ads to deliver rogue web pages for ChatGPT and Midjourney.
+In early May, researchers at eSentire Threat Response Unit (TRU) spotted an ongoing BatLoader campaign using Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

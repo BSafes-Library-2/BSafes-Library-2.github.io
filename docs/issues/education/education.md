@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Your APIs Leaking Sensitive Data?<a href="https://thehackernews.com/2023/05/are-your-apis-leaking-sensitive-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that data leaks have become a major concern for both citizens and institutions across the globe. They can cause serious damage to an organization's reputation, induce considerable financial losses, and even have serious legal repercussions. From the infamous Cambridge Analytica scandal to the Equifax data breach, there have been some pretty high-profile leaks resulting in massive consequences for the world's biggest brands. Breaches can also have a huge impact on individuals as well – ultimately leading to the loss of personal information, such as passwords or credit card details, which could be used by criminals for malicious purposes. Most notably victims are left vulnerable to identity theft or financial fraud.&nbsp; When you think about the sheer volume of these leaks, one would imagine that the world would stop and focus on the attack vector(s) being exploited. The unfortunate reality is the world didn't stop. To make things more interesting, the most
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

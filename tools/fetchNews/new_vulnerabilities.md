@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android phones are vulnerable to fingerprint brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/android-phones-are-vulnerable-to-fingerprint-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Tencent Labs and Zhejiang University have presented a new attack called 'BrutePrint,' which brute-forces fingerprints on modern smartphones to bypass user authentication and take control of the device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
