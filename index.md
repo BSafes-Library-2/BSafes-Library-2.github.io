@@ -34,6 +34,475 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google launches bug bounty program for its Android applications<a href="https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has launched the Mobile Vulnerability Rewards Program (Mobile VRP), a new bug bounty program that will pay security researchers for flaws found in the company's Android applications.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guerrilla Campaign: Lemon Group’s Business of Pre-infected Devices<a href="https://cyware.com/news/guerrilla-campaign-lemon-groups-business-of-pre-infected-devices-e630d261"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lemon Group gained control over millions of smartphones globally through the preinstallation of a malware called Guerrilla, reported Trend Micro. The campaign has been active since 2018. Lemon Group conducts business for marketing and advertising companies and utilizes big data. This highl ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Regulators Hit Meta with Record $1.3 Billion Fine for Data Transfer Violations<a href="https://thehackernews.com/2023/05/eu-regulators-hit-meta-with-record-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's parent company Meta has been fined a record $1.3 billion by European Union data protection regulators for transferring the personal data of users in the region to the U.S. In a binding decision taken by the European Data Protection Board (EDPB), the social media giant has been ordered to bring its data transfers into compliance with the GDPR and delete unlawfully stored and processed data within six months. Additionally, Meta has been given five months to suspend any future transfer of Facebook users' data to the U.S. Instagram and WhatsApp, which are also owned by the company, are not subject to the order. "The EDPB found that Meta IE's infringement is very serious since it concerns transfers that are systematic, repetitive, and continuous," Andrea Jelinek, EDPB Chair,  said  in a statement. "Facebook has millions of users in Europe, so the volume of personal data transferred is massive. The unprecedented fine is a strong signal to organizati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds iPhone bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146531/security/cisa-iphone-bugs-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added three zero-day vulnerabilities affecting iPhones, Macs, and iPads to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added three zero-day vulnerabilities affecting iPhones, Macs,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Windows kernel drivers used in BlackCat ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/malicious-windows-kernel-drivers-used-in-blackcat-ransomware-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware group (aka BlackCat) was observed employing signed malicious Windows kernel drivers to evade detection by security software during attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GAO Tells Federal Agencies to Fully Implement Key Cloud Security Practices<a href="https://www.securityweek.com/gao-tells-federal-agencies-to-fully-implement-key-cloud-security-practices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new US Government Accountability Office (GAO) report shows that the Departments of Agriculture, Homeland Security (DHS), Labor, and the Treasury have not fully implemented six key cloud security practices for their systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indonesian Cybercriminals Exploit AWS for Profitable Crypto Mining Operations<a href="https://thehackernews.com/2023/05/indonesian-cybercriminals-exploit-aws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor of Indonesian origin has been observed leveraging Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instances to carry out illicit crypto mining operations. Cloud security company's Permiso P0 Labs, which first detected the group in November 2021, has assigned it the moniker  GUI-vil  (pronounced Goo-ee-vil). "The group displays a preference for Graphical User Interface (GUI) tools, specifically S3 Browser (version 9.5.5) for their initial operations," the company said in a report shared with The Hacker News. "Upon gaining AWS Console access, they conduct their operations directly through the web browser." Attack chains mounted by GUI-vil entail obtaining initial access by weaponizing AWS keys in publicly exposed source code repositories on GitHub or scanning for GitLab instances that are vulnerable to remote code execution flaws (e.g.,  CVE-2021-22205 ). A successful ingress is followed by privilege escalation and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU hits Meta with $1.3 billion fine for transferring European user data to the US<a href="https://securityaffairs.com/146525/laws-and-regulations/eu-fined-meta-1-3b.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union condemned Meta with a record $1.3 billion fine for transferring European user data to the US.
+The European Union fined Meta $1.3 billion for transferring user data to the US. This is the biggest fine since the adoption of the General...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon explosion hoax goes viral after verified Twitter accounts push<a href="https://www.bleepingcomputer.com/news/security/pentagon-explosion-hoax-goes-viral-after-verified-twitter-accounts-push/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Highly realistic AI-generated images depicting an explosion near the Pentagon that went viral on Twitter caused the stock market to dip briefly earlier today.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious links and misaddressed emails slip past security controls<a href="https://www.helpnetsecurity.com/2023/05/22/email-communication-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of organizations use six or more communication tools, across channels, with email remaining the channel seen as the most vulnerable to attacks (38%), according to Armorblox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad Magic's Extended Reign in Cyber Espionage Goes Back Over a Decade<a href="https://thehackernews.com/2023/05/bad-magics-extended-reign-in-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings about a hacker group linked to cyber attacks targeting companies in the Russo-Ukrainian conflict area reveal that it may have been around for much longer than previously thought. The threat actor, tracked as  Bad Magic  (aka Red Stinger), has not only been linked to a fresh sophisticated campaign, but also to an activity cluster that first came to light in May 2016. "While the previous targets were primarily located in the Donetsk, Luhansk, and Crimea regions, the scope has now widened to include individuals, diplomatic entities, and research organizations in Western and Central Ukraine," Russian cybersecurity firm Kaspersky  said  in a technical report published last week. The campaign is characterized by the use of a novel modular framework codenamed CloudWizard, which features capabilities to take screenshots, record microphone, log keystrokes, grab passwords, and harvest Gmail inboxes. Bad Magic was  first documented  by the company in March 2023, detail
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dish Network says the February ransomware attack impacted +300,000 individuals<a href="https://securityaffairs.com/146515/cyber-crime/dish-network-disclosed-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Satellite TV giant Dish Network disclosed a data breach after the February ransomware attack and started notifying impacted individuals.
+The American satellite broadcast provider Dish Network went offline on February 24, 2023, the outage impacted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto phishing service Inferno Drainer defrauds thousands of victims<a href="https://www.bleepingcomputer.com/news/security/crypto-phishing-service-inferno-drainer-defrauds-thousands-of-victims/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency phishing and scam service called 'Inferno Drainer' has reportedly stolen over $5.9 million worth of crypto from 4,888 victims.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Dallas under pressure as Royal ransomware group threatens leak<a href="https://www.cybersecuritydive.com/news/dallas-ransomware-data-leak-threat/650883/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack against Dallas entered a new and all-too-common phase Friday as Royal, the threat actor behind the attack, listed the city on its leak site almost three weeks after the city was first made aware of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Your APIs Leaking Sensitive Data?<a href="https://thehackernews.com/2023/05/are-your-apis-leaking-sensitive-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It's no secret that data leaks have become a major concern for both citizens and institutions across the globe. They can cause serious damage to an organization's reputation, induce considerable financial losses, and even have serious legal repercussions. From the infamous Cambridge Analytica scandal to the Equifax data breach, there have been some pretty high-profile leaks resulting in massive consequences for the world's biggest brands. Breaches can also have a huge impact on individuals as well – ultimately leading to the loss of personal information, such as passwords or credit card details, which could be used by criminals for malicious purposes. Most notably victims are left vulnerable to identity theft or financial fraud.  When you think about the sheer volume of these leaks, one would imagine that the world would stop and focus on the attack vector(s) being exploited. The unfortunate reality is the world didn't stop. To make things more interesting, the most
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China bans chip maker Micron from its key information infrastructure<a href="https://securityaffairs.com/146511/security/china-bans-micron-products.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese government announced the ban on the products made by the US memory chip giant Micron Technology over national security concerns.
+The Cyberspace Administration of China announced the ban on products made by US memory chip giant Micron Technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders govt agencies to patch iPhone bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the U.S. Cybersecurity & Infrastructure Security Agency (CISA) ordered federal agencies to address three recently patched zero-day flaws affecting iPhones, Macs, and iPads known to be exploited in attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Onfido acquires Airside to boost identity verification for individuals and businesses<a href="https://www.helpnetsecurity.com/2023/05/22/onfido-airside-mobile/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Onfido acquired Airside Mobile to deliver user-controlled, shareable digital identity designed with data privacy and time-saving convenience at its core.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Fraudster Behind iSpoof Scam Receives 13-Year Jail Term for Cyber Crimes<a href="https://thehackernews.com/2023/05/uk-fraudster-behind-ispoof-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. national responsible for his role as the administrator of the now-defunct  iSpoof  online phone number spoofing service has been sentenced to 13 years and 4 months in prison. Tejay Fletcher, 35, of Western Gateway, London, was awarded the sentence on May 18, 2023. He  pleaded guilty  last month to a number of cyber offenses, including facilitating fraud and possessing and transferring criminal property. iSpoof , which was available as a paid service, allowed fraudsters to mask their phone numbers and masquerade as representatives from banks, tax offices, and other official bodies to defraud victims. The help desk scam purported to warn targets of suspicious activity on their accounts and tricked them into disclosing sensitive financial information or transferring money to accounts under the threat actor's control. According to the U.K. Metropolitan Police, the criminals assumed false identities as representatives of various banks such as Barclays, Santander, HSBC, Lloy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BatLoader campaign impersonates ChatGPT and Midjourney to deliver Redline Stealer<a href="https://securityaffairs.com/146496/malware/batloader-campaign-impersonates-chatgpt-midjourney.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers identified an ongoing BatLoader campaign relying on Google Search Ads to deliver rogue web pages for ChatGPT and Midjourney.
+In early May, researchers at eSentire Threat Response Unit (TRU) spotted an ongoing BatLoader campaign using Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU slaps Meta with $1.3 billion fine for moving data to US servers<a href="https://www.bleepingcomputer.com/news/technology/eu-slaps-meta-with-13-billion-fine-for-moving-data-to-us-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) has announced a $1.3 billion fine on Facebook after claiming that the company violated Article 46(1) of the GDPR (General Data Protection Regulation).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Councils Caught in Capita Unsecured AWS Bucket Data Leak<a href="https://www.theregister.com/2023/05/22/capita_security_pensions_aws_bucket_city_councils/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bad news train keeps rolling for Capita, with more local British councils surfacing to say their data was put on the line by an unsecured AWS bucket, and, separately, pension clients warning of possible data theft in March's mega breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KeePass Exploit Allows Attackers to Recover Master Passwords from Memory<a href="https://thehackernews.com/2023/05/keepass-exploit-allows-attackers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proof-of-concept (PoC) has been made available for a security flaw impacting the KeePass password manager that could be exploited to recover a victim's master password in cleartext under specific circumstances. The issue, tracked as  CVE-2023-32784 , impacts KeePass versions 2.x for Windows, Linux, and macOS, and is  expected to be patched  in version 2.54, which is likely to be released early next month. "Apart from the first password character, it is mostly able to recover the password in plaintext," security researcher "vdohney," who discovered the flaw and devised a PoC,  said . "No code execution on the target system is required, just a memory dump." "It doesn't matter where the memory comes from," the researcher added, stating, "it doesn't matter whether or not the workspace is locked. It is also possible to dump the password from RAM after KeePass is no longer running, although the chance of that working goes down w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An AI-based Chrome Extension Against Phishing, Malware, and Ransomware<a href="https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Criminal IP's Chrome extension offers real-time scanning of websites worldwide, using AI-based detection to identify recently created phishing sites.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBERT could help automate dark web mining for cyber threat intelligence<a href="https://www.helpnetsecurity.com/2023/05/19/cti-dark-web/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed DarkBERT, a language model pre-trained on dark web data, to help cybersecurity pros extract cyber threat intelligence (CTI) from the Internet’s virtual underbelly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Deploys New Signed Kernel Driver<a href="https://www.trendmicro.com/en_us/research/23/e/blackcat-ransomware-deploys-new-signed-kernel-driver.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers reported on an incident involving the BlackCat ransomware that took place in February 2023. The researchers highlighted a new capability, which involved the utilization of a signed kernel driver for evasion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Parent Meta Hit With Record Fine for Transferring European User Data to US<a href="https://www.securityweek.com/facebook-parent-meta-hit-with-record-fine-for-transferring-european-user-data-to-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union slapped Meta with a record $1.3 billion privacy fine Monday and ordered it to stop transferring user data across the Atlantic, the latest salvo in a decadelong case sparked by U.S. cyberespionage fears.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google will delete accounts inactive for more than 2 years<a href="https://www.bleepingcomputer.com/news/security/google-will-delete-accounts-inactive-for-more-than-2-years/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has updated its policy for personal accounts across its services to allow a maximum period of inactivity of two years.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android phones are vulnerable to fingerprint brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/android-phones-are-vulnerable-to-fingerprint-brute-force-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Tencent Labs and Zhejiang University have presented a new attack called 'BrutePrint,' which brute-forces fingerprints on modern smartphones to bypass user authentication and take control of the device.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 21, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
