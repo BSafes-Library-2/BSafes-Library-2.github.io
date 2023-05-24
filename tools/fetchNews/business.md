@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Onfido acquires Airside to boost identity verification for individuals and businesses<a href="https://www.helpnetsecurity.com/2023/05/22/onfido-airside-mobile/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Onfido acquired Airside Mobile to deliver user-controlled, shareable digital identity designed with data privacy and time-saving convenience at its core.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Parent Meta Hit With Record Fine for Transferring European User Data to US<a href="https://www.securityweek.com/facebook-parent-meta-hit-with-record-fine-for-transferring-european-user-data-to-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union slapped Meta with a record $1.3 billion privacy fine Monday and ordered it to stop transferring user data across the Atlantic, the latest salvo in a decadelong case sparked by U.S. cyberespionage fears.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

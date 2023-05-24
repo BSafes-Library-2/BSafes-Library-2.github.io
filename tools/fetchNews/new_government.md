@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury Department sanctions entities tied to North Korean IT scams, hacking<a href="https://cyberscoop.com/treasury-department-sanctions-north-korea-hackers-crypto/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department issued sanctions on Tuesday cracking down on four entities and one individual involved in malicious cyber activities supporting the Democratic People’s Republic of Korea and its weapons programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Bans U.S. Chip Giant Micron, Citing "Serious Cybersecurity Problems"<a href="https://thehackernews.com/2023/05/china-bans-us-chip-giant-micron-citing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China has banned U.S. chip maker Micron from selling its products to Chinese companies working on key infrastructure projects, citing national security risks. The development comes nearly two months after the country's cybersecurity authority&nbsp; initiated a probe &nbsp;in late March 2023 to assess potential network security risks. "The purpose of this network security review of Micron's products is to prevent product network security problems from endangering the security of national critical information infrastructure, which is a necessary measure to maintain national security," the Cyberspace Administration of China (CAC)&nbsp; said . The CAC further said the investigation found "serious cybersecurity problems" in Micron's products, endangering the country's critical information infrastructure supply chain. As a result, operators involved in such critical information infrastructure projects should stop purchasing products from Micron, it added. The autho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

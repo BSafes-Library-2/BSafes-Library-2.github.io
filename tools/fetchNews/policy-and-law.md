@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Regulators Hit Meta with Record $1.3 Billion Fine for Data Transfer Violations<a href="https://thehackernews.com/2023/05/eu-regulators-hit-meta-with-record-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's parent company Meta has been fined a record $1.3 billion by European Union data protection regulators for transferring the personal data of users in the region to the U.S. In a binding decision taken by the European Data Protection Board (EDPB), the social media giant has been ordered to bring its data transfers into compliance with the GDPR and delete unlawfully stored and processed data within six months. Additionally, Meta has been given five months to suspend any future transfer of Facebook users' data to the U.S. Instagram and WhatsApp, which are also owned by the company, are not subject to the order. "The EDPB found that Meta IE's infringement is very serious since it concerns transfers that are systematic, repetitive, and continuous," Andrea Jelinek, EDPB Chair,&nbsp; said &nbsp;in a statement. "Facebook has millions of users in Europe, so the volume of personal data transferred is massive. The unprecedented fine is a strong signal to organizati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Fraudster Behind iSpoof Scam Receives 13-Year Jail Term for Cyber Crimes<a href="https://thehackernews.com/2023/05/uk-fraudster-behind-ispoof-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. national responsible for his role as the administrator of the now-defunct&nbsp; iSpoof &nbsp;online phone number spoofing service has been sentenced to 13 years and 4 months in prison. Tejay Fletcher, 35, of Western Gateway, London, was awarded the sentence on May 18, 2023. He&nbsp; pleaded guilty &nbsp;last month to a number of cyber offenses, including facilitating fraud and possessing and transferring criminal property. iSpoof , which was available as a paid service, allowed fraudsters to mask their phone numbers and masquerade as representatives from banks, tax offices, and other official bodies to defraud victims. The help desk scam purported to warn targets of suspicious activity on their accounts and tricked them into disclosing sensitive financial information or transferring money to accounts under the threat actor's control. According to the U.K. Metropolitan Police, the criminals assumed false identities as representatives of various banks such as Barclays, Santander, HSBC, Lloy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

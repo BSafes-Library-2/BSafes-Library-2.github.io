@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad Magic's Extended Reign in Cyber Espionage Goes Back Over a Decade<a href="https://thehackernews.com/2023/05/bad-magics-extended-reign-in-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings about a hacker group linked to cyber attacks targeting companies in the Russo-Ukrainian conflict area reveal that it may have been around for much longer than previously thought. The threat actor, tracked as&nbsp; Bad Magic &nbsp;(aka Red Stinger), has not only been linked to a fresh sophisticated campaign, but also to an activity cluster that first came to light in May 2016. "While the previous targets were primarily located in the Donetsk, Luhansk, and Crimea regions, the scope has now widened to include individuals, diplomatic entities, and research organizations in Western and Central Ukraine," Russian cybersecurity firm Kaspersky&nbsp; said &nbsp;in a technical report published last week. The campaign is characterized by the use of a novel modular framework codenamed CloudWizard, which features capabilities to take screenshots, record microphone, log keystrokes, grab passwords, and harvest Gmail inboxes. Bad Magic was&nbsp; first documented &nbsp;by the company in March 2023, detail
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

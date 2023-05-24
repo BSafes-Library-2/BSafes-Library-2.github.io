@@ -8,6 +8,64 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments<a href="https://thehackernews.com/2023/05/goldenjackal-new-threat-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and diplomatic entities in the Middle East and South Asia are the target of a new advanced persistent threat actor named&nbsp; GoldenJackal . Russian cybersecurity firm Kaspersky, which has been&nbsp; keeping tabs &nbsp;on the group's activities since mid-2020, characterized the adversary as both capable and stealthy. The targeting scope of the campaign is focused on Afghanistan, Azerbaijan, Iran, Iraq, Pakistan, and Turkey, infecting victims with tailored malware that steals data, propagates across systems via removable drives, and conducts surveillance. GoldenJackal is suspected to have been active for at least four years, although little is known about the group. Kaspersky said it has been unable to determine its origin or affiliation with known threat actors, but the actor's modus operandi suggests an espionage motivation. What's more, the threat actor's attempts to maintain a low profile and disappear into the shadows bears all the hallmarks of a state-sponsored g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The previously undocumented GoldenJackal APT targets Middle East, South Asia entities<a href="https://securityaffairs.com/146580/apt/goldenjackal-apt-targets-middle-east-south-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented APT group tracked as GoldenJackal has been targeting government and diplomatic entities in the Middle East and South Asia since 2019.
+Kaspersky researchers shared details about the activity of a previously undocumented APT group,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Kimsuky Hackers Strike Again with Advanced Reconnaissance Malware<a href="https://thehackernews.com/2023/05/north-korean-kimsuky-hackers-strike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean advanced persistent threat (APT) group known as Kimsuky has been observed using a piece of custom malware called RandomQuery as part of a reconnaissance and information exfiltration operation. "Lately, Kimsuky has been consistently distributing custom malware as part of reconnaissance campaigns to enable subsequent attacks," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel said in a report published today. The ongoing targeted campaign, per the cybersecurity firm, is primarily geared towards information services as well as organizations supporting human rights activists and North Korean defectors. Kimsuky, active since 2012, has exhibited targeting patterns that align with North Korea's operational mandates and priorities. The intelligence collection missions have involved the use of a diverse set of malware, including another reconnaissance program called ReconShark , as detailed by SentinelOne earlier this month. The latest activity
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A deeper insight into the CloudWizard APT’s activity revealed a long-running activity<a href="https://securityaffairs.com/146549/apt/cloudwizard-apt-russo-ukrainian-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a threat actor, tracked as&nbsp;CloudWizard APT, that is targeting organizations involved in the region of the Russo-Ukrainian conflict.
+On March 2023, researchers from Kaspersky spotted a previously unknown APT group, tracked as&nbsp;Bad...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

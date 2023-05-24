@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suzuki Motorcycle India Manufacturing Plant Shut Down by Cyberattack<a href="https://www.bitdefender.com/blog/hotforsecurity/suzuki-motorcycle-plant-shut-down-by-cyber-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since May 10, the production of bikes and scooters at Suzuki Motorcycle's Indian plant has reportedly been temporarily suspended with the loss of an estimated 20,000 vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
