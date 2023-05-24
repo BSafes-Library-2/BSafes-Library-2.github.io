@@ -34,7 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CapCut Websites Spread Information Stealers<a href="https://cyware.com/news/fake-capcut-websites-spread-information-stealers-7ac5436c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are distributing a fake version of CapCut, ByteDance's official video editor tool, to infect users with different malware. In most cases, they employ SEO poisoning techniques, utilize search ads, and leverage social media platforms to promote the tool via malicious websites created b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldenJackal: New Threat Group Targeting Middle Eastern and South Asian Governments<a href="https://thehackernews.com/2023/05/goldenjackal-new-threat-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and diplomatic entities in the Middle East and South Asia are the target of a new advanced persistent threat actor named  GoldenJackal . Russian cybersecurity firm Kaspersky, which has been  keeping tabs  on the group's activities since mid-2020, characterized the adversary as both capable and stealthy. The targeting scope of the campaign is focused on Afghanistan, Azerbaijan, Iran, Iraq, Pakistan, and Turkey, infecting victims with tailored malware that steals data, propagates across systems via removable drives, and conducts surveillance. GoldenJackal is suspected to have been active for at least four years, although little is known about the group. Kaspersky said it has been unable to determine its origin or affiliation with known threat actors, but the actor's modus operandi suggests an espionage motivation. What's more, the threat actor's attempts to maintain a low profile and disappear into the shadows bears all the hallmarks of a state-sponsored g
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking and Cybersecurity: Class 1, Practical Cybersecurity<a href="https://www.lawfareblog.com/hacking-and-cybersecurity-class-1-practical-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first class of Lawfare's cybersecurity and hacking course is now available to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The previously undocumented GoldenJackal APT targets Middle East, South Asia entities<a href="https://securityaffairs.com/146580/apt/goldenjackal-apt-targets-middle-east-south-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented APT group tracked as GoldenJackal has been targeting government and diplomatic entities in the Middle East and South Asia since 2019.
+Kaspersky researchers shared details about the activity of a previously undocumented APT group,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Treasury Department sanctions entities tied to North Korean IT scams, hacking<a href="https://cyberscoop.com/treasury-department-sanctions-north-korea-hackers-crypto/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Treasury Department issued sanctions on Tuesday cracking down on four entities and one individual involved in malicious cyber activities supporting the Democratic People’s Republic of Korea and its weapons programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Kimsuky Hackers Strike Again with Advanced Reconnaissance Malware<a href="https://thehackernews.com/2023/05/north-korean-kimsuky-hackers-strike.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean advanced persistent threat (APT) group known as Kimsuky has been observed using a piece of custom malware called RandomQuery as part of a reconnaissance and information exfiltration operation. "Lately, Kimsuky has been consistently distributing custom malware as part of reconnaissance campaigns to enable subsequent attacks," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel said in a report published today. The ongoing targeted campaign, per the cybersecurity firm, is primarily geared towards information services as well as organizations supporting human rights activists and North Korean defectors. Kimsuky, active since 2012, has exhibited targeting patterns that align with North Korea's operational mandates and priorities. The intelligence collection missions have involved the use of a diverse set of malware, including another reconnaissance program called ReconShark , as detailed by SentinelOne earlier this month. The latest activity
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announced its Mobile VRP (vulnerability rewards program)<a href="https://securityaffairs.com/146578/security/google-mobile-vrp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduced Mobile VRP (vulnerability rewards program), a new bug bounty program for reporting vulnerabilities in its mobile applications.
+Google announced a new bug bounty program, named Mobile VRP (vulnerability rewards program), that covers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T resolves issue that would allow account takeover through ZIP code and phone number<a href="https://therecord.media/att-resolves-issue-allowing-account-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue allowed security researcher Joseph Harris to effectively merge his own account with anyone else’s, giving him the ability to update that account’s password and take control of it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rising Threat of Secrets Sprawl and the Need for Action<a href="https://thehackernews.com/2023/05/the-rising-threat-of-secrets-sprawl-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most precious asset in today's information age is the secret safeguarded under lock and key. Regrettably, maintaining secrets has become increasingly challenging, as highlighted by the  2023 State of Secrets Sprawl  report, the largest analysis of public GitHub activity.  The report shows a  67% year-over-year increase  in the number of secrets found, with 10 million hard-coded secrets detected in 2022 alone. This alarming surge in secrets sprawl highlights  the need for action  and underscores the importance of secure software development. Secrets sprawl refers to secrets appearing in plaintext in various sources, such as source code, build scripts, infrastructure as code, logs, etc. While secrets like API tokens and private keys securely connect the components of the modern software supply chain, their widespread distribution among developers, machines, applications, and infrastructure systems heightens the likelihood of leaks. Cybersecurity Incidents Highlight the Danger
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German arms manufacturer Rheinmetall suffered Black Basta ransomware attack<a href="https://securityaffairs.com/146571/cyber-crime/rheinmetall-black-basta-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German automotive and arms manufacturer Rheinmetall announced it was victim of a Black Basta ransomware attack that took place last month.
+Rheinmetall is a German automotive and arms manufacturer that is listed on the Frankfurt stock exchange....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Patches Memory Address Randomization Bypass Flaw<a href="https://www.bankinfosecurity.com/samsung-patches-memory-address-randomization-bypass-flaw-a-22139?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency on Friday gave federal agencies until June 9 to patch affected Samsung-made Android devices and added the flaw to its Known Exploited Vulnerabilities Catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WinTapix.sys Malware Engages in Multi-Stage Attack Across Middle East<a href="https://thehackernews.com/2023/05/new-wintapixsys-malware-engages-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been observed leveraging a malicious Windows kernel driver in attacks likely targeting the Middle East since at least May 2020. Fortinet Fortiguard Labs, which dubbed the artifact WINTAPIX (WinTapix.sys), attributed the malware with low confidence to an Iranian threat actor. "WinTapix.sys is essentially a loader," security researchers Geri Revay and Hossein Jazi said in a report published on Monday. "Thus, its primary purpose is to produce and execute the next stage of the attack. This is done using a shellcode." Samples and telemetry data analyzed by Fortinet show that the campaign's primary focus is on Saudi Arabia, Jordan, Qatar, and the United Arab Emirates. The activity has not been tied to a known threat actor or group. By using a malicious kernel mode driver, the idea is to subvert or disable security mechanisms and gain entrenched access to the targeted host. Such drivers run within the kernel memory and can, there
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A deeper insight into the CloudWizard APT’s activity revealed a long-running activity<a href="https://securityaffairs.com/146549/apt/cloudwizard-apt-russo-ukrainian-conflict.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a threat actor, tracked as CloudWizard APT, that is targeting organizations involved in the region of the Russo-Ukrainian conflict.
+On March 2023, researchers from Kaspersky spotted a previously unknown APT group, tracked as Bad...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberespionage Campaign Targets Ukraine, Israel, India, Kazakhstan, and Other Nations<a href="https://therecord.media/cyber-espionage-ukraine-uac-0063-cert-ua?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from targeting Ukrainian government entities, a threat actor identified by researchers as UAC-0063 “has also shown interest” in targeting Mongolia, Kazakhstan, Kyrgyzstan, Israel, and India, according to the report published on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Bans U.S. Chip Giant Micron, Citing "Serious Cybersecurity Problems"<a href="https://thehackernews.com/2023/05/china-bans-us-chip-giant-micron-citing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China has banned U.S. chip maker Micron from selling its products to Chinese companies working on key infrastructure projects, citing national security risks. The development comes nearly two months after the country's cybersecurity authority  initiated a probe  in late March 2023 to assess potential network security risks. "The purpose of this network security review of Micron's products is to prevent product network security problems from endangering the security of national critical information infrastructure, which is a necessary measure to maintain national security," the Cyberspace Administration of China (CAC)  said . The CAC further said the investigation found "serious cybersecurity problems" in Micron's products, endangering the country's critical information infrastructure supply chain. As a result, operators involved in such critical information infrastructure projects should stop purchasing products from Micron, it added. The autho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware affiliate uses signed kernel driver to evade detection<a href="https://securityaffairs.com/146536/malware/blackcat-ransomware-uses-kernel-driver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted the ALPHV/BlackCat ransomware group using signed malicious Windows kernel drivers to evade detection.
+Trend Micro researchers shared details about ALPHV/BlackCat ransomware incident that took place on February 2023. A BlackCat affiliate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Zyxel firewalls may soon be widely exploited<a href="https://www.helpnetsecurity.com/2023/05/22/cve-2023-28771/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The command injection vulnerability (CVE-2023-28771) affects Zyxel APT, USG FLEX, and VPN firewalls running versions v4.60 to v5.35 of the ZDL firmware, and Zyxel ZyWALL/USG gateways/firewalls running ZLD v4.60 to v4.73.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suzuki Motorcycle India Manufacturing Plant Shut Down by Cyberattack<a href="https://www.bitdefender.com/blog/hotforsecurity/suzuki-motorcycle-plant-shut-down-by-cyber-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since May 10, the production of bikes and scooters at Suzuki Motorcycle's Indian plant has reportedly been temporarily suspended with the loss of an estimated 20,000 vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google launches bug bounty program for its Android applications<a href="https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/"> Full Text</a>
@@ -50,7 +343,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guerrilla Campaign: Lemon Group’s Business of Pre-infected Devices<a href="https://cyware.com/news/guerrilla-campaign-lemon-groups-business-of-pre-infected-devices-e630d261"> Full Text</a>
@@ -66,7 +359,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU Regulators Hit Meta with Record $1.3 Billion Fine for Data Transfer Violations<a href="https://thehackernews.com/2023/05/eu-regulators-hit-meta-with-record-13.html"> Full Text</a>
@@ -82,7 +375,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds iPhone bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146531/security/cisa-iphone-bugs-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -99,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Windows kernel drivers used in BlackCat ransomware attacks<a href="https://www.bleepingcomputer.com/news/security/malicious-windows-kernel-drivers-used-in-blackcat-ransomware-attacks/"> Full Text</a>
@@ -115,7 +408,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GAO Tells Federal Agencies to Fully Implement Key Cloud Security Practices<a href="https://www.securityweek.com/gao-tells-federal-agencies-to-fully-implement-key-cloud-security-practices/?&web_view=true"> Full Text</a>
@@ -131,7 +424,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indonesian Cybercriminals Exploit AWS for Profitable Crypto Mining Operations<a href="https://thehackernews.com/2023/05/indonesian-cybercriminals-exploit-aws.html"> Full Text</a>
@@ -147,7 +440,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU hits Meta with $1.3 billion fine for transferring European user data to the US<a href="https://securityaffairs.com/146525/laws-and-regulations/eu-fined-meta-1-3b.html"> Full Text</a>
@@ -164,7 +457,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pentagon explosion hoax goes viral after verified Twitter accounts push<a href="https://www.bleepingcomputer.com/news/security/pentagon-explosion-hoax-goes-viral-after-verified-twitter-accounts-push/"> Full Text</a>
@@ -180,7 +473,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious links and misaddressed emails slip past security controls<a href="https://www.helpnetsecurity.com/2023/05/22/email-communication-security/?&web_view=true"> Full Text</a>
@@ -196,7 +489,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bad Magic's Extended Reign in Cyber Espionage Goes Back Over a Decade<a href="https://thehackernews.com/2023/05/bad-magics-extended-reign-in-cyber.html"> Full Text</a>
@@ -212,7 +505,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dish Network says the February ransomware attack impacted +300,000 individuals<a href="https://securityaffairs.com/146515/cyber-crime/dish-network-disclosed-data-breach.html"> Full Text</a>
@@ -229,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto phishing service Inferno Drainer defrauds thousands of victims<a href="https://www.bleepingcomputer.com/news/security/crypto-phishing-service-inferno-drainer-defrauds-thousands-of-victims/"> Full Text</a>
@@ -245,7 +538,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Dallas under pressure as Royal ransomware group threatens leak<a href="https://www.cybersecuritydive.com/news/dallas-ransomware-data-leak-threat/650883/?&web_view=true"> Full Text</a>
@@ -261,7 +554,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Your APIs Leaking Sensitive Data?<a href="https://thehackernews.com/2023/05/are-your-apis-leaking-sensitive-data.html"> Full Text</a>
@@ -277,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China bans chip maker Micron from its key information infrastructure<a href="https://securityaffairs.com/146511/security/china-bans-micron-products.html"> Full Text</a>
@@ -294,7 +587,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA orders govt agencies to patch iPhone bugs exploited in attacks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/"> Full Text</a>
@@ -310,7 +603,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Onfido acquires Airside to boost identity verification for individuals and businesses<a href="https://www.helpnetsecurity.com/2023/05/22/onfido-airside-mobile/?&web_view=true"> Full Text</a>
@@ -326,7 +619,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K. Fraudster Behind iSpoof Scam Receives 13-Year Jail Term for Cyber Crimes<a href="https://thehackernews.com/2023/05/uk-fraudster-behind-ispoof-scam.html"> Full Text</a>
@@ -342,7 +635,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BatLoader campaign impersonates ChatGPT and Midjourney to deliver Redline Stealer<a href="https://securityaffairs.com/146496/malware/batloader-campaign-impersonates-chatgpt-midjourney.html"> Full Text</a>
@@ -359,7 +652,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU slaps Meta with $1.3 billion fine for moving data to US servers<a href="https://www.bleepingcomputer.com/news/technology/eu-slaps-meta-with-13-billion-fine-for-moving-data-to-us-servers/"> Full Text</a>
@@ -375,7 +668,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Councils Caught in Capita Unsecured AWS Bucket Data Leak<a href="https://www.theregister.com/2023/05/22/capita_security_pensions_aws_bucket_city_councils/?&web_view=true"> Full Text</a>
@@ -391,7 +684,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KeePass Exploit Allows Attackers to Recover Master Passwords from Memory<a href="https://thehackernews.com/2023/05/keepass-exploit-allows-attackers-to.html"> Full Text</a>
@@ -407,7 +700,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An AI-based Chrome Extension Against Phishing, Malware, and Ransomware<a href="https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/"> Full Text</a>
@@ -423,7 +716,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkBERT could help automate dark web mining for cyber threat intelligence<a href="https://www.helpnetsecurity.com/2023/05/19/cti-dark-web/?&web_view=true"> Full Text</a>
@@ -439,7 +732,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Deploys New Signed Kernel Driver<a href="https://www.trendmicro.com/en_us/research/23/e/blackcat-ransomware-deploys-new-signed-kernel-driver.html?&web_view=true"> Full Text</a>
@@ -455,7 +748,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2023
+May 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook Parent Meta Hit With Record Fine for Transferring European User Data to US<a href="https://www.securityweek.com/facebook-parent-meta-hit-with-record-fine-for-transferring-european-user-data-to-us/?&web_view=true"> Full Text</a>
@@ -471,7 +764,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google will delete accounts inactive for more than 2 years<a href="https://www.bleepingcomputer.com/news/security/google-will-delete-accounts-inactive-for-more-than-2-years/"> Full Text</a>
@@ -487,7 +780,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2023
+May 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android phones are vulnerable to fingerprint brute-force attacks<a href="https://www.bleepingcomputer.com/news/security/android-phones-are-vulnerable-to-fingerprint-brute-force-attacks/"> Full Text</a>
