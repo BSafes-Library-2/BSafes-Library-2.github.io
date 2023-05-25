@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda Email Security Gateway (ESG) hacked via zero-day bug<a href="https://securityaffairs.com/146620/hacking/barracuda-email-security-gateway-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda warned customers that some of its Email Security Gateway (ESG) appliances were breached exploiting a zero-day vulnerability.
+Network security solutions provider Barracuda warned customers that some of its Email Security Gateway (ESG) appliances...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apria Sends IT Security Breach Notifications to Nearly Two Million People<a href="https://www.theregister.com/2023/05/23/apria_healthcare_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "unauthorized third party" broke into "select Apria systems" containing personal information from April 5, 2019, to May 7, 2019, and then a second time from August 27, 2021, to October 10, 2021, according to the alert.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

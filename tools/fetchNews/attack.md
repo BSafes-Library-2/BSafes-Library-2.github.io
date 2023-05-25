@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German arms manufacturer Rheinmetall suffered Black Basta ransomware attack<a href="https://securityaffairs.com/146571/cyber-crime/rheinmetall-black-basta-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German&nbsp;automotive&nbsp;and&nbsp;arms manufacturer Rheinmetall announced it was victim of a Black Basta ransomware attack that took place last month.
+Rheinmetall is a German&nbsp;automotive&nbsp;and&nbsp;arms manufacturer that is listed on the Frankfurt stock exchange....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberespionage Campaign Targets Ukraine, Israel, India, Kazakhstan, and Other Nations<a href="https://therecord.media/cyber-espionage-ukraine-uac-0063-cert-ua?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apart from targeting Ukrainian government entities, a threat actor identified by researchers as UAC-0063 “has also shown interest” in targeting Mongolia, Kazakhstan, Kyrgyzstan, Israel, and India, according to the report published on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

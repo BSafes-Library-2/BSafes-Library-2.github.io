@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp Decline in Crypto Hacks in Q1 2023 Unlikely to Last<a href="https://www.bankinfosecurity.com/sharp-decline-in-crypto-hacks-in-q1-2023-unlikely-to-last-a-22147?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement and regulatory action over the past year in the US most likely dissuaded hackers from stealing cryptocurrency, making the amount stolen in the first quarter of the year the lowest compared to each of the four quarters in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

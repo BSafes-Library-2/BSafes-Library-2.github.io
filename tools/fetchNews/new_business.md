@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memcyco raises $10 million to deliver real-time brandjacking protection<a href="https://www.helpnetsecurity.com/2023/05/24/memcyco-raises-10-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israel-based real-time website impersonation detection and prevention solution provider has completed a $10 million seed round led by Capri Ventures and Venture Guides.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

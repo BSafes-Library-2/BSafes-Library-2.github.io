@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking and Cybersecurity: Class 1, Practical Cybersecurity<a href="https://www.lawfareblog.com/hacking-and-cybersecurity-class-1-practical-cybersecurity"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first class of Lawfare's cybersecurity and hacking course is now available to the public.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rising Threat of Secrets Sprawl and the Need for Action<a href="https://thehackernews.com/2023/05/the-rising-threat-of-secrets-sprawl-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most precious asset in today's information age is the secret safeguarded under lock and key. Regrettably, maintaining secrets has become increasingly challenging, as highlighted by the&nbsp; 2023 State of Secrets Sprawl &nbsp;report, the largest analysis of public GitHub activity.&nbsp; The report shows a &nbsp;67% year-over-year increase &nbsp;in the number of secrets found, with 10 million hard-coded secrets detected in 2022 alone. This alarming surge in secrets sprawl highlights&nbsp; the need for action &nbsp;and underscores the importance of secure software development. Secrets sprawl refers to secrets appearing in plaintext in various sources, such as source code, build scripts, infrastructure as code, logs, etc. While secrets like API tokens and private keys securely connect the components of the modern software supply chain, their widespread distribution among developers, machines, applications, and infrastructure systems heightens the likelihood of leaks. Cybersecurity Incidents Highlight the Danger
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

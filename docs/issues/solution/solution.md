@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What to Look for When Selecting a Static Application Security Testing (SAST) Solution<a href="https://thehackernews.com/2023/05/what-to-look-for-when-selecting-static.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're involved in securing the applications your organization develops, there is no question that Static Application Security Testing (SAST) solutions are an important part of a comprehensive application security strategy. SAST secures software, supports business more securely, cuts down on costs, reduces risk, and speeds time to development, delivery, and deployment of mission-critical applications.&nbsp; SAST scans code early during development, so your AppSec team won't be scrambling to fix unexpected vulnerabilities right before that big launch is planned. You'll avoid surprises and launch delays without inadvertently releasing risky software to customers — or into production.&nbsp; But if you consider SAST as a part of a larger AppSec platform, crucial for those who wish to&nbsp; shift security everywhere &nbsp;possible in the software development life cycle (SDLC), some SAST solutions outshine others.&nbsp; Knowing what to focus on With a plethora of players in the market, sometimes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

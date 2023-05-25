@@ -8,6 +8,36 @@ nav_order: 900075
 
 ## Government
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The US government sanctioned four entities and one individual for supporting cyber operations conducted by North Korea<a href="https://securityaffairs.com/146611/cyber-warfare-2/us-santioned-north-korea-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of the Treasury sanctioned four entities and one individual for their role in cyber operations conducted by North Korea.
+The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) announced sanctions against four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s CERT-UA warns of espionage activity conducted by UAC-0063<a href="https://securityaffairs.com/146602/apt/cert-ua-espionage-uac-0063.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of a cyberespionage campaign targeting state bodies in the country.
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks targeting state bodies in the country...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

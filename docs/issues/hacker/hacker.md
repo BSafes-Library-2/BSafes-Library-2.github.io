@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Lazarus Group Targets Microsoft IIS Servers to Deploy Espionage Malware<a href="https://thehackernews.com/2023/05/n-korean-lazarus-group-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous Lazarus Group actor has been targeting vulnerable versions of Microsoft Internet Information Services ( IIS ) servers as an initial breach route to deploy malware on targeted systems. The findings come from the AhnLab Security Emergency response Center (ASEC), which detailed the advanced persistent threat's (APT) continued abuse of DLL side-loading techniques to run arbitrary payloads. "The threat actor places a malicious DLL (msvcr100.dll) in the same folder path as a normal application (Wordconv.exe) via the Windows IIS web server process, w3wp.exe," ASEC explained . "They then execute the normal application to initiate the execution of the malicious DLL." DLL side-loading , similar to DLL search-order hijacking, refers to the proxy execution of a rogue DLL via a benign binary planted in the same directory. Lazarus , a highly-capable and relentless nation-state group linked to North Korea, was most recently spotted leveraging the same t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

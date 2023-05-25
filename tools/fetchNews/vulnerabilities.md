@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announced its Mobile VRP (vulnerability rewards program)<a href="https://securityaffairs.com/146578/security/google-mobile-vrp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google introduced Mobile VRP (vulnerability rewards program), a new bug bounty program for reporting vulnerabilities in its mobile applications.
+Google announced a new bug bounty program, named Mobile VRP (vulnerability rewards program), that covers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T resolves issue that would allow account takeover through ZIP code and phone number<a href="https://therecord.media/att-resolves-issue-allowing-account-takeover?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue allowed security researcher Joseph Harris to effectively merge his own account with anyone else’s, giving him the ability to update that account’s password and take control of it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Samsung Patches Memory Address Randomization Bypass Flaw<a href="https://www.bankinfosecurity.com/samsung-patches-memory-address-randomization-bypass-flaw-a-22139?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency on Friday gave federal agencies until June 9 to patch affected Samsung-made Android devices and added the flaw to its Known Exploited Vulnerabilities Catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Zyxel firewalls may soon be widely exploited<a href="https://www.helpnetsecurity.com/2023/05/22/cve-2023-28771/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The command injection vulnerability (CVE-2023-28771) affects Zyxel APT, USG FLEX, and VPN firewalls running versions v4.60 to v5.35 of the ZDL firmware, and Zyxel ZyWALL/USG gateways/firewalls running ZLD v4.60 to v4.73.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

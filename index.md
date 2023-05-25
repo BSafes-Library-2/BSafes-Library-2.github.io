@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Use Residential IP Addresses to Launch BEC Attacks<a href="https://cyware.com/news/scammers-use-residential-ip-addresses-to-launch-bec-attacks-8f1edd6e"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Tortoiseshell Hackers Targeting Israeli Logistics Industry<a href="https://thehackernews.com/2023/05/iranian-tortoiseshell-hackers-targeting.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda Email Security Gateway (ESG) hacked via zero-day bug<a href="https://securityaffairs.com/146620/hacking/barracuda-email-security-gateway-bug.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Kernel Drivers Used in BlackCat Attacks<a href="https://cyware.com/news/windows-kernel-drivers-used-in-blackcat-attacks-3c413945"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What to Look for When Selecting a Static Application Security Testing (SAST) Solution<a href="https://thehackernews.com/2023/05/what-to-look-for-when-selecting-static.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The US government sanctioned four entities and one individual for supporting cyber operations conducted by North Korea<a href="https://securityaffairs.com/146611/cyber-warfare-2/us-santioned-north-korea-entities.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp Decline in Crypto Hacks in Q1 2023 Unlikely to Last<a href="https://www.bankinfosecurity.com/sharp-decline-in-crypto-hacks-in-q1-2023-unlikely-to-last-a-22147?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Stealing Malware Discovered in Popular Android Screen Recorder App<a href="https://thehackernews.com/2023/05/data-stealing-malware-discovered-in.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine’s CERT-UA warns of espionage activity conducted by UAC-0063<a href="https://securityaffairs.com/146602/apt/cert-ua-espionage-uac-0063.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OAuth Vulnerabilities in Widely Used Expo Framework Allowed Account Takeovers<a href="https://www.securityweek.com/oauth-vulnerabilities-in-widely-used-expo-framework-allowed-account-takeovers/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Legion Malware Upgraded to Target SSH Servers and AWS Credentials<a href="https://thehackernews.com/2023/05/legion-malware-upgraded-to-target-ssh.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AhRat Android RAT was concealed in iRecorder app in Google Play<a href="https://securityaffairs.com/146593/malware/ahrat-malware-google-play.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Memcyco raises $10 million to deliver real-time brandjacking protection<a href="https://www.helpnetsecurity.com/2023/05/24/memcyco-raises-10-million/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N. Korean Lazarus Group Targets Microsoft IIS Servers to Deploy Espionage Malware<a href="https://thehackernews.com/2023/05/n-korean-lazarus-group-targets.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mikrotik Belatedly Patches RouterOS Flaw Exploited at Pwn2Own<a href="https://www.securityweek.com/mikrotik-belatedly-patches-routeros-flaw-exploited-at-pwn2own/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Attacks Strike Ukraine's State Bodies in Espionage Operation<a href="https://thehackernews.com/2023/05/cyber-attacks-strike-ukraines-state.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2023
+May 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apria Sends IT Security Breach Notifications to Nearly Two Million People<a href="https://www.theregister.com/2023/05/23/apria_healthcare_breach/?&web_view=true"> Full Text</a>

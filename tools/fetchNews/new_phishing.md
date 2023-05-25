@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Use Residential IP Addresses to Launch BEC Attacks<a href="https://cyware.com/news/scammers-use-residential-ip-addresses-to-launch-bec-attacks-8f1edd6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Signals report revealed that Microsoft detected 35 million BEC attempts with an average of 156,000 attempts daily between April 2022 and April 2023. Microsoft also noticed a pattern in which attackers used a phishing-as-a-service platform, BulletProftLink, to obtain login credentials. To  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
