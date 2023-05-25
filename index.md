@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Use Residential IP Addresses to Launch BEC Attacks<a href="https://cyware.com/news/scammers-use-residential-ip-addresses-to-launch-bec-attacks-8f1edd6e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Signals report revealed that Microsoft detected 35 million BEC attempts with an average of 156,000 attempts daily between April 2022 and April 2023. Microsoft also noticed a pattern in which attackers used a phishing-as-a-service platform, BulletProftLink, to obtain login credentials. To  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Tortoiseshell Hackers Targeting Israeli Logistics Industry<a href="https://thehackernews.com/2023/05/iranian-tortoiseshell-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least eight websites associated with shipping, logistics, and financial services companies in Israel were targeted as part of a watering hole attack. Tel Aviv-based cybersecurity company ClearSky attributed the attacks with low confidence to an Iranian threat actor tracked as  Tortoiseshell , which is also called Crimson Sandstorm (previously Curium), Imperial Kitten, and TA456. "The infected sites collect preliminary user information through a script," ClearSky  said  in a technical report published Tuesday. Most of the impacted websites have been stripped of the rogue code. Tortoiseshell  is known to be active since at least July 2018, with  early attacks  targeting IT providers in Saudi Arabia. It has also been observed  setting up fake hiring websites  for U.S. military veterans in a bid to trick them into downloading remote access trojans. That said, this is not the first time Iranian activity clusters have set their sights on the Israeli shipping sector with wa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda Email Security Gateway (ESG) hacked via zero-day bug<a href="https://securityaffairs.com/146620/hacking/barracuda-email-security-gateway-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda warned customers that some of its Email Security Gateway (ESG) appliances were breached exploiting a zero-day vulnerability.
+Network security solutions provider Barracuda warned customers that some of its Email Security Gateway (ESG) appliances...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Kernel Drivers Used in BlackCat Attacks<a href="https://cyware.com/news/windows-kernel-drivers-used-in-blackcat-attacks-3c413945"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro revealed that the BlackCat ransomware group is using a signed kernel driver for evasion tactics. The driver was utilized in conjunction with a separate user client executable, with the intention of manipulating, pausing, and terminating specific processes associated with the security on ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What to Look for When Selecting a Static Application Security Testing (SAST) Solution<a href="https://thehackernews.com/2023/05/what-to-look-for-when-selecting-static.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're involved in securing the applications your organization develops, there is no question that Static Application Security Testing (SAST) solutions are an important part of a comprehensive application security strategy. SAST secures software, supports business more securely, cuts down on costs, reduces risk, and speeds time to development, delivery, and deployment of mission-critical applications.  SAST scans code early during development, so your AppSec team won't be scrambling to fix unexpected vulnerabilities right before that big launch is planned. You'll avoid surprises and launch delays without inadvertently releasing risky software to customers — or into production.  But if you consider SAST as a part of a larger AppSec platform, crucial for those who wish to  shift security everywhere  possible in the software development life cycle (SDLC), some SAST solutions outshine others.  Knowing what to focus on With a plethora of players in the market, sometimes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The US government sanctioned four entities and one individual for supporting cyber operations conducted by North Korea<a href="https://securityaffairs.com/146611/cyber-warfare-2/us-santioned-north-korea-entities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of the Treasury sanctioned four entities and one individual for their role in cyber operations conducted by North Korea.
+The US Department of the Treasury’s Office of Foreign Assets Control (OFAC) announced sanctions against four...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp Decline in Crypto Hacks in Q1 2023 Unlikely to Last<a href="https://www.bankinfosecurity.com/sharp-decline-in-crypto-hacks-in-q1-2023-unlikely-to-last-a-22147?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement and regulatory action over the past year in the US most likely dissuaded hackers from stealing cryptocurrency, making the amount stolen in the first quarter of the year the lowest compared to each of the four quarters in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Stealing Malware Discovered in Popular Android Screen Recorder App<a href="https://thehackernews.com/2023/05/data-stealing-malware-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has removed a screen recording app named "iRecorder - Screen Recorder" from the Play Store after it was found to sneak in information stealing capabilities nearly a year after the app was published as an innocuous app. The app (APK package name "com.tsoft.app.iscreenrecorder"), which accrued over 50,000 installations, was first uploaded on September 19, 2021. The malicious functionality is believed to have been introduced in version 1.3.8, which was released on August 24, 2022. "It is rare for a developer to upload a legitimate app, wait almost a year, and then update it with malicious code," ESET security researcher Lukáš Štefanko  said  in a technical report. "The malicious code that was added to the clean version of iRecorder is based on the open source  AhMyth  Android RAT (remote access trojan) and has been customized into what we named AhRat." iRecorder was  first flagged  as harboring the AhMyth trojan on October 28, 2022, by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s CERT-UA warns of espionage activity conducted by UAC-0063<a href="https://securityaffairs.com/146602/apt/cert-ua-espionage-uac-0063.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) warns of a cyberespionage campaign targeting state bodies in the country.
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks targeting state bodies in the country...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAuth Vulnerabilities in Widely Used Expo Framework Allowed Account Takeovers<a href="https://www.securityweek.com/oauth-vulnerabilities-in-widely-used-expo-framework-allowed-account-takeovers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OAuth-related vulnerabilities found in the widely used application development framework Expo could have been exploited to take control of user accounts, according to API security firm Salt Security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legion Malware Upgraded to Target SSH Servers and AWS Credentials<a href="https://thehackernews.com/2023/05/legion-malware-upgraded-to-target-ssh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of the commodity malware called Legion comes with expanded features to compromise SSH servers and Amazon Web Services (AWS) credentials associated with DynamoDB and CloudWatch. "This recent update demonstrates a widening of scope, with new capabilities such the ability to compromise SSH servers and retrieve additional AWS-specific credentials from Laravel web applications," Cado Labs researcher Matt Muir  said  in a report shared with The Hacker News. "It's clear that the developer's targeting of cloud services is advancing with each iteration." Legion, a Python-based hack tool, was  first documented  last month by the cloud security firm, detailing its ability to breach vulnerable SMTP servers in order to harvest credentials. It's also known to exploit web servers running content management systems (CMS), leverage Telegram as a data exfiltration point, and send spam SMS messages to a list of dynamically-generated U.S. mobile num
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AhRat Android RAT was concealed in iRecorder app in Google Play<a href="https://securityaffairs.com/146593/malware/ahrat-malware-google-play.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET found a new remote access trojan (RAT), dubbed AhRat, on the Google Play Store that was concealed in an Android screen recording app.
+ESET researchers have discovered an Android app on Google Play that was hiding a new remote access trojan (RAT)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memcyco raises $10 million to deliver real-time brandjacking protection<a href="https://www.helpnetsecurity.com/2023/05/24/memcyco-raises-10-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israel-based real-time website impersonation detection and prevention solution provider has completed a $10 million seed round led by Capri Ventures and Venture Guides.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Lazarus Group Targets Microsoft IIS Servers to Deploy Espionage Malware<a href="https://thehackernews.com/2023/05/n-korean-lazarus-group-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infamous Lazarus Group actor has been targeting vulnerable versions of Microsoft Internet Information Services ( IIS ) servers as an initial breach route to deploy malware on targeted systems. The findings come from the AhnLab Security Emergency response Center (ASEC), which detailed the advanced persistent threat's (APT) continued abuse of DLL side-loading techniques to run arbitrary payloads. "The threat actor places a malicious DLL (msvcr100.dll) in the same folder path as a normal application (Wordconv.exe) via the Windows IIS web server process, w3wp.exe," ASEC explained . "They then execute the normal application to initiate the execution of the malicious DLL." DLL side-loading , similar to DLL search-order hijacking, refers to the proxy execution of a rogue DLL via a benign binary planted in the same directory. Lazarus , a highly-capable and relentless nation-state group linked to North Korea, was most recently spotted leveraging the same t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mikrotik Belatedly Patches RouterOS Flaw Exploited at Pwn2Own<a href="https://www.securityweek.com/mikrotik-belatedly-patches-routeros-flaw-exploited-at-pwn2own/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latvian network equipment manufacturer MikroTik has shipped a patch for a major security defect in its RouterOS product and confirmed the vulnerability was exploited five months ago at the Pwn2Own Toronto hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attacks Strike Ukraine's State Bodies in Espionage Operation<a href="https://thehackernews.com/2023/05/cyber-attacks-strike-ukraines-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks targeting state bodies in the country as part of an espionage campaign. The  intrusion set , attributed to a threat actor tracked by the authority as UAC-0063 since 2021, leverages phishing lures to deploy a variety of malicious tools on infected systems. The origins of the hacking crew are presently unknown. In the attack chain described by the agency, the emails targeted an unspecified ministry and purported to be from the Embassy of Tajikistan in Ukraine. It's suspected that the messages were sent from a previously compromised mailbox. The emails come attached with a Microsoft Word document that, upon enabling macros, launches an encoded VBScript called HATVIBE, which is then used to drop additional malware. This includes a keylogger (LOGPIE), a Python-based backdoor capable of running commands sent from a remote server (CHERRYSPY), and a tool focused on exfiltrating files with specific e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apria Sends IT Security Breach Notifications to Nearly Two Million People<a href="https://www.theregister.com/2023/05/23/apria_healthcare_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An "unauthorized third party" broke into "select Apria systems" containing personal information from April 5, 2019, to May 7, 2019, and then a second time from August 27, 2021, to October 10, 2021, according to the alert.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 23, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
