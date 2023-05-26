@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broad coalition of advocacy groups urges Slack to protect users' messages from eavesdropping<a href="https://cyberscoop.com/advocacy-groups-slack-encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there are no reported instances of Slack messages being weaponized, the trove of communications the platform collects from clients ranging from government agencies to activists has made user communications a target of both lawsuits and hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

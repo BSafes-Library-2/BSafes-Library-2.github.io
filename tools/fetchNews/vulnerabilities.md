@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAuth Vulnerabilities in Widely Used Expo Framework Allowed Account Takeovers<a href="https://www.securityweek.com/oauth-vulnerabilities-in-widely-used-expo-framework-allowed-account-takeovers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OAuth-related vulnerabilities found in the widely used application development framework Expo could have been exploited to take control of user accounts, according to API security firm Salt Security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mikrotik Belatedly Patches RouterOS Flaw Exploited at Pwn2Own<a href="https://www.securityweek.com/mikrotik-belatedly-patches-routeros-flaw-exploited-at-pwn2own/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latvian network equipment manufacturer MikroTik has shipped a patch for a major security defect in its RouterOS product and confirmed the vulnerability was exploited five months ago at the Pwn2Own Toronto hacking contest.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

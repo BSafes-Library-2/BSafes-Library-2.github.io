@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and Partners Release Joint Cybersecurity Advisory on Volt Typhoon<a href="https://www.lawfareblog.com/us-and-partners-release-joint-cybersecurity-advisory-volt-typhoon"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The joint advisory warns of the tactics, techniques, and procedures used by a China state-sponsored cyber actor targeting U.S. critical infrastructure organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Update the #StopRansomware Guide Developed Through the Joint Ransomware Task Force<a href="https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updated guide, developed through the Joint Ransomware Task Force, reflects lessons learned in the last few years, adding the FBI and NSA as co-authors. It offers recommendations to prevent initial intrusion and protect data using cloud backups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

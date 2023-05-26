@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Tortoiseshell Hackers Targeting Israeli Logistics Industry<a href="https://thehackernews.com/2023/05/iranian-tortoiseshell-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least eight websites associated with shipping, logistics, and financial services companies in Israel were targeted as part of a watering hole attack. Tel Aviv-based cybersecurity company ClearSky attributed the attacks with low confidence to an Iranian threat actor tracked as&nbsp; Tortoiseshell , which is also called Crimson Sandstorm (previously Curium), Imperial Kitten, and TA456. "The infected sites collect preliminary user information through a script," ClearSky&nbsp; said &nbsp;in a technical report published Tuesday. Most of the impacted websites have been stripped of the rogue code. Tortoiseshell &nbsp;is known to be active since at least July 2018, with&nbsp; early attacks &nbsp;targeting IT providers in Saudi Arabia. It has also been observed&nbsp; setting up fake hiring websites &nbsp;for U.S. military veterans in a bid to trick them into downloading remote access trojans. That said, this is not the first time Iranian activity clusters have set their sights on the Israeli shipping sector with wa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Attacks Strike Ukraine's State Bodies in Espionage Operation<a href="https://thehackernews.com/2023/05/cyber-attacks-strike-ukraines-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks targeting state bodies in the country as part of an espionage campaign. The&nbsp; intrusion set , attributed to a threat actor tracked by the authority as UAC-0063 since 2021, leverages phishing lures to deploy a variety of malicious tools on infected systems. The origins of the hacking crew are presently unknown. In the attack chain described by the agency, the emails targeted an unspecified ministry and purported to be from the Embassy of Tajikistan in Ukraine. It's suspected that the messages were sent from a previously compromised mailbox. The emails come attached with a Microsoft Word document that, upon enabling macros, launches an encoded VBScript called HATVIBE, which is then used to drop additional malware. This includes a keylogger (LOGPIE), a Python-based backdoor capable of running commands sent from a remote server (CHERRYSPY), and a tool focused on exfiltrating files with specific e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

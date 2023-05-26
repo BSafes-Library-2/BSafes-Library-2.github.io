@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link fixes two critical flaws in D-View 8 network management suite<a href="https://securityaffairs.com/146667/security/d-link-critical-flaws-d-view-8.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D-Link fixed two critical flaws in its D-View 8 network management suite that could lead to authentication bypass and arbitrary code execution.
+D-Link has addressed two critical vulnerabilities (CVSS score: 9.8) in its D-View 8 network management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Issues Critical Security Patches for Firewall and VPN Products<a href="https://thehackernews.com/2023/05/zyxel-issues-critical-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has released software updates to address two critical security flaws affecting select firewall and VPN products that could be abused by remote attackers to achieve code execution. Both the flaws –&nbsp; CVE-2023-33009 and CVE-2023-33010 &nbsp;– are&nbsp; buffer overflow vulnerabilities &nbsp;and are rated 9.8 out of 10 on the CVSS scoring system. A brief description of the two issues is below - CVE-2023-33009 &nbsp;- A buffer overflow vulnerability in the notification function that could enable an unauthenticated attacker to cause a denial-of-service (DoS) condition and remote code execution. CVE-2023-33010 &nbsp;- A buffer overflow vulnerability in the ID processing function that could enable an unauthenticated attacker to cause a denial-of-service (DoS) condition and remote code execution. The following devices are impacted - ATP (versions ZLD V4.32 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX (versions ZLD V4.50 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX50(W) / USG20(W
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel firewall and VPN devices affected by critical flaws<a href="https://securityaffairs.com/146660/security/zyxel-firewall-vpn-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel fixed two&nbsp;critical flaws in multiple firewall and VPN products that can lead to remote code execution or cause a DoS condition.
+Zyxel addressed two&nbsp;critical buffer overflow vulnerabilities, tracked as CVE-2023-33009&nbsp;and CVE-2023-33010, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

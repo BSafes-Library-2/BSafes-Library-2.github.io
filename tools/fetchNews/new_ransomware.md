@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Buhti Ransomware Operation Relies on Repurposed Payloads<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/buhti-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the group doesn’t develop its own ransomware, it does utilize what appears to be one custom-developed tool, an information stealer designed to search for and archive specified file types.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

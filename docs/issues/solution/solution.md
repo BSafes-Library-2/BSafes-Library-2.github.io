@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet Protects Hospital From Lethal Infection<a href="https://thehackernews.com/2023/05/cynet-protects-hospital-from-lethal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hospital with 2,000 employees in the E.U. deployed Cynet protections across its environment. The hospital was in the process of upgrading several expensive imaging systems that were still supported by Windows XP and Windows 7 machines. Cynet protections were in place on most of the Windows XP and Windows 7 machines during the upgrade process, ensuring that legacy operating systems would not cause vulnerabilities or delay the activation of an&nbsp; incident response plan . The hospital's I.T. security team appreciated this coverage after their previous provider abandoned support for Windows XP and Windows 7. "One of the many reasons we chose Cynet was their support of legacy Windows machines. It's expensive, difficult and time consuming to upgrade our imaging system software, but we needed protections as we slowly migrated to more current Windows environments. Cynet was one of the few providers that continue to protect these older Windows environments." The Attack Alo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

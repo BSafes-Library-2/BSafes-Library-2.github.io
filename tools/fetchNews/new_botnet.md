@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Frost Botnet Launches Devastating DDoS Attacks on Gaming Industry<a href="https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet called&nbsp; Dark Frost &nbsp;has been observed launching distributed denial-of-service (DDoS) attacks against the gaming industry. "The Dark Frost botnet, modeled after Gafgyt, QBot, Mirai, and other malware strains, has expanded to encompass hundreds of compromised devices," Akamai security researcher Allen West&nbsp; said &nbsp;in a new technical analysis shared with The Hacker News. Targets include gaming companies, game server hosting&nbsp; providers, online streamers, and even other gaming community members with whom the threat actor has interacted directly. As of February 2023, the botnet comprises 414 machines running various instruction set architectures such as ARMv4, x86, MIPSEL, MIPS, and ARM7.&nbsp; Botnets are usually made up of a vast network of compromised devices around the world. The operators tend to use the enslaved hosts to mine cryptocurrency, steal sensitive data, or harness the collective internet bandwidth from these bots to knock down other websites and intern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

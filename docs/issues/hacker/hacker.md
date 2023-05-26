@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian hackers target Portuguese financial institutions<a href="https://cyberscoop.com/brazilian-hackers-portuguese-banks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian hacking crew targeted users of over 30 Portuguese financial institutions earlier this year in a campaign that provides the latest example of financially motivated hackers in Brazil hitting foreign targets, according to SentinelLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Agrius Hackers Targeting Israeli Organizations with Moneybird Ransomware<a href="https://thehackernews.com/2023/05/iranian-agrius-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as&nbsp; Agrius &nbsp;is leveraging a new ransomware strain called Moneybird in its attacks targeting Israeli organizations. Agrius, also known as Pink Sandstorm (formerly Americium), has a&nbsp; track record &nbsp;of staging destructive data-wiping attacks aimed at Israel under the guise of ransomware infections. Microsoft has attributed the threat actor to Iran's Ministry of Intelligence and Security (MOIS), which also operates&nbsp; MuddyWater . It's known to be active since at least December 2020. In December 2022, the hacking crew was&nbsp; attributed &nbsp;to a set of attempted disruptive intrusions that were directed against diamond industries in South Africa, Israel, and Hong Kong. These attacks involved the use of a .NET-based wiper-turned-ransomware called&nbsp; Apostle &nbsp;and its successor known as Fantasy. Unlike Apostle, Moneybird is programmed in C++. "The use of a new ransomware, written in C++, is noteworthy, as it demonstrates the group's expanding capabil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

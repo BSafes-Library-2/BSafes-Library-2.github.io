@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buhti Ransomware Gang Switches Tactics, Utilizes Leaked LockBit and Babuk Code<a href="https://thehackernews.com/2023/05/buhti-ransomware-gang-switches-tactics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the nascent&nbsp; Buhti &nbsp;ransomware have eschewed their custom payload in favor of leaked LockBit and Babuk ransomware families to strike Windows and Linux systems. "While the group doesn't develop its own ransomware, it does utilize what appears to be one custom-developed tool, an information stealer designed to search for and archive specified file types," Symantec&nbsp; said &nbsp;in a report shared with The Hacker News. The cybersecurity firm is tracking the cybercrime group under the name&nbsp; Blacktail . Buhti was first highlighted by Palo Alto Networks Unit 42 in February 2023,&nbsp; describing &nbsp;it as a Golang ransomware targeting the Linux platform. Later that same month, Bitdefender revealed the use of a Windows variant that was deployed against Zoho ManageEngine products that were vulnerable to critical remote code execution flaws ( CVE-2022-47966 ). The operators have since been observed swiftly exploiting other severe bugs impacting IBM's Aspera Fasp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
