@@ -34,6 +34,379 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation "Total Exchange": New PowerExchange Backdoor Discovered in the UAE<a href="https://www.fortinet.com/blog/threat-research/operation-total-exchange-backdoor-discovered?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While investigating attacks targeting a government entity in the UAE, Fortinet researchers also discovered an implant on Microsoft Exchange servers which was a novel web shell, dubbed ExchangeLeech, due to its unique ability to harvest credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Frost Botnet Launches Devastating DDoS Attacks on Gaming Industry<a href="https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet called  Dark Frost  has been observed launching distributed denial-of-service (DDoS) attacks against the gaming industry. "The Dark Frost botnet, modeled after Gafgyt, QBot, Mirai, and other malware strains, has expanded to encompass hundreds of compromised devices," Akamai security researcher Allen West  said  in a new technical analysis shared with The Hacker News. Targets include gaming companies, game server hosting  providers, online streamers, and even other gaming community members with whom the threat actor has interacted directly. As of February 2023, the botnet comprises 414 machines running various instruction set architectures such as ARMv4, x86, MIPSEL, MIPS, and ARM7.  Botnets are usually made up of a vast network of compromised devices around the world. The operators tend to use the enslaved hosts to mine cryptocurrency, steal sensitive data, or harness the collective internet bandwidth from these bots to knock down other websites and intern
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. and Partners Release Joint Cybersecurity Advisory on Volt Typhoon<a href="https://www.lawfareblog.com/us-and-partners-release-joint-cybersecurity-advisory-volt-typhoon"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The joint advisory warns of the tactics, techniques, and procedures used by a China state-sponsored cyber actor targeting U.S. critical infrastructure organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+D-Link fixes two critical flaws in D-View 8 network management suite<a href="https://securityaffairs.com/146667/security/d-link-critical-flaws-d-view-8.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+D-Link fixed two critical flaws in its D-View 8 network management suite that could lead to authentication bypass and arbitrary code execution.
+D-Link has addressed two critical vulnerabilities (CVSS score: 9.8) in its D-View 8 network management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YouTube Pirated Software Videos Deliver Triple Threat: Vidar Stealer, Laplas Clipper, XMRig Miner<a href="https://www.fortinet.com/blog/threat-research/youtube-pirated-software-videos-deliver-triple-threat-vidar-stealer-laplas-clipper-xmrig-miner?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs came across an ongoing threat campaign targeting YouTube users searching for pirated software earlier this month. Videos advertising downloads of pirated software are uploaded by verified YouTube channels with large subscriber counts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Issues Critical Security Patches for Firewall and VPN Products<a href="https://thehackernews.com/2023/05/zyxel-issues-critical-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has released software updates to address two critical security flaws affecting select firewall and VPN products that could be abused by remote attackers to achieve code execution. Both the flaws –  CVE-2023-33009 and CVE-2023-33010  – are  buffer overflow vulnerabilities  and are rated 9.8 out of 10 on the CVSS scoring system. A brief description of the two issues is below - CVE-2023-33009  - A buffer overflow vulnerability in the notification function that could enable an unauthenticated attacker to cause a denial-of-service (DoS) condition and remote code execution. CVE-2023-33010  - A buffer overflow vulnerability in the ID processing function that could enable an unauthenticated attacker to cause a denial-of-service (DoS) condition and remote code execution. The following devices are impacted - ATP (versions ZLD V4.32 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX (versions ZLD V4.50 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX50(W) / USG20(W
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel firewall and VPN devices affected by critical flaws<a href="https://securityaffairs.com/146660/security/zyxel-firewall-vpn-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel fixed two critical flaws in multiple firewall and VPN products that can lead to remote code execution or cause a DoS condition.
+Zyxel addressed two critical buffer overflow vulnerabilities, tracked as CVE-2023-33009 and CVE-2023-33010, that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Broad coalition of advocacy groups urges Slack to protect users' messages from eavesdropping<a href="https://cyberscoop.com/advocacy-groups-slack-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there are no reported instances of Slack messages being weaponized, the trove of communications the platform collects from clients ranging from government agencies to activists has made user communications a target of both lawsuits and hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cynet Protects Hospital From Lethal Infection<a href="https://thehackernews.com/2023/05/cynet-protects-hospital-from-lethal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hospital with 2,000 employees in the E.U. deployed Cynet protections across its environment. The hospital was in the process of upgrading several expensive imaging systems that were still supported by Windows XP and Windows 7 machines. Cynet protections were in place on most of the Windows XP and Windows 7 machines during the upgrade process, ensuring that legacy operating systems would not cause vulnerabilities or delay the activation of an  incident response plan . The hospital's I.T. security team appreciated this coverage after their previous provider abandoned support for Windows XP and Windows 7. "One of the many reasons we chose Cynet was their support of legacy Windows machines. It's expensive, difficult and time consuming to upgrade our imaging system software, but we needed protections as we slowly migrated to more current Windows environments. Cynet was one of the few providers that continue to protect these older Windows environments." The Attack Alo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Volt Typhoon targets critical infrastructure organizations<a href="https://securityaffairs.com/146649/hacking/china-linked-apt-volt-typhoon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group, tracked as Volt Typhoon, breached critical infrastructure organizations in the U.S. and Guam without being detected.
+China-linked APT cyber espionage group Volt Typhoon infiltrated critical infrastructure organizations in the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian hackers target Portuguese financial institutions<a href="https://cyberscoop.com/brazilian-hackers-portuguese-banks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian hacking crew targeted users of over 30 Portuguese financial institutions earlier this year in a campaign that provides the latest example of financially motivated hackers in Brazil hitting foreign targets, according to SentinelLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerExchange Backdoor Used in Iranian Cyber Attack on UAE Government<a href="https://thehackernews.com/2023/05/new-powerexchange-backdoor-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed government entity associated with the United Arab Emirates (U.A.E.) was targeted by a likely Iranian threat actor to breach the victim's Microsoft Exchange Server with a "simple yet effective" backdoor dubbed  PowerExchange . According to a new report from Fortinet FortiGuard Labs, the intrusion relied on email phishing as an initial access pathway, leading to the execution of a .NET executable contained with a ZIP file attachment. The binary, which masquerades as a PDF document, functions as a dropper to execute the final payload, which then launches the backdoor. PowerExchange, written in PowerShell, employs text files attached to emails for command-and-control (C2) communication. It allows the threat actor to run arbitrary payloads and upload and download files from and to the system. The custom implant achieves this by making use of the Exchange Web Services ( EWS ) API to connect to the victim's Exchange Server and uses a mailbox on the server to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT targets Microsoft IIS servers to deploy malware<a href="https://securityaffairs.com/146639/hacking/lazarus-targets-microsoft-iis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Lazarus actor has been targeting vulnerable Microsoft IIS servers to deploy malware.
+AhnLab Security Emergency response Center (ASEC) researchers reported that the Lazarus APT Group is targeting vulnerable versions of Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Buhti Ransomware Operation Relies on Repurposed Payloads<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/buhti-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the group doesn’t develop its own ransomware, it does utilize what appears to be one custom-developed tool, an information stealer designed to search for and archive specified file types.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Brazilian Hackers Targeting Users of Over 30 Portuguese Banks<a href="https://thehackernews.com/2023/05/alert-brazilian-hackers-targeting-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian threat actor is targeting more than 30 Portuguese financial institutions with information-stealing malware as part of a long-running campaign that commenced in 2021. "The attackers can steal credentials and exfiltrate users' data and personal information, which can be leveraged for malicious activities beyond financial gain," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel  said  in a new report shared with The Hacker News. The cybersecurity firm, which began tracking "Operation Magalenha" earlier this year, said the intrusions culminate in the deployment of two variants of a backdoor called  PeepingTitle  so as to "maximize attack potency." The links to Brazil stem from the use of the Brazilian-Portuguese language within the detected artifacts as well as source code overlaps with another banking trojan known as  Maxtrilha , which was first disclosed in September 2021. PeepingTitle, like Maxtrilha, is written in the Delphi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Tortoiseshell APT behind watering hole attacks on shipping and logistics Israeli websites<a href="https://securityaffairs.com/146625/apt/iranian-tortoiseshell-israeli-logistics-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actor Tortoiseshell targeted shipping, logistics, and financial services companies in Israel with watering hole attacks.
+ClearSky Cyber Security uncovered a watering hole attack on at least eight Israeli websites belonging to shipping,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Update the #StopRansomware Guide Developed Through the Joint Ransomware Task Force<a href="https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updated guide, developed through the Joint Ransomware Task Force, reflects lessons learned in the last few years, adding the FBI and NSA as co-authors. It offers recommendations to prevent initial intrusion and protect data using cloud backups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar with Guest Forrester: Browser Security New Approaches<a href="https://thehackernews.com/2023/05/webinar-with-guest-forrester-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, browser security has become an increasingly pressing issue, making it essential for organizations to be aware of the latest threats to browser security. That's why the Browser Security platform LayerX is hosting  a webinar  featuring guest speaker Paddy Harrington, a senior analyst at Forrester and the lead author of Forrester's browser security report "Securing The Browser In The World Of Anywhere Work ". During this webinar, Harrington will join LayerX CEO, to discuss the emergence of the browser security category, the browser security risk and threat landscape, and why addressing browser security can wait no longer. The webinar will also cover browser security solutions, explaining their pros, cons, and differences, and how organizations can work more securely in the browser. Additionally, the session will focus on using browser security solutions as a cost-saver for security teams. Participants will also get an exclusive opport
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reality check: What will generative AI really do for cybersecurity?<a href="https://cyberscoop.com/generative-ai-chatbots-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent rapid advances in ML have made the potential power of AI blindingly obvious. What’s much less obvious is how it is going to be usefully deployed in security contexts and whether it will deliver the major breakthroughs its proponents promise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Buhti Ransomware Gang Switches Tactics, Utilizes Leaked LockBit and Babuk Code<a href="https://thehackernews.com/2023/05/buhti-ransomware-gang-switches-tactics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the nascent  Buhti  ransomware have eschewed their custom payload in favor of leaked LockBit and Babuk ransomware families to strike Windows and Linux systems. "While the group doesn't develop its own ransomware, it does utilize what appears to be one custom-developed tool, an information stealer designed to search for and archive specified file types," Symantec  said  in a report shared with The Hacker News. The cybersecurity firm is tracking the cybercrime group under the name  Blacktail . Buhti was first highlighted by Palo Alto Networks Unit 42 in February 2023,  describing  it as a Golang ransomware targeting the Linux platform. Later that same month, Bitdefender revealed the use of a Windows variant that was deployed against Zoho ManageEngine products that were vulnerable to critical remote code execution flaws ( CVE-2022-47966 ). The operators have since been observed swiftly exploiting other severe bugs impacting IBM's Aspera Fasp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free VPN Service SuperVPN Exposes 360 Million User Records<a href="https://www.hackread.com/free-vpn-service-supervpn-leaks-user-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed database contained a staggering 360,308,817 records, totaling 133 GB in size. These records included a wide range of sensitive information, including user email addresses, original IP addresses, geolocation data, and server usage records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Stealthy Hackers Infiltrate U.S. and Guam Critical Infrastructure Undetected<a href="https://thehackernews.com/2023/05/chinas-stealthy-hackers-infiltrate-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy China-based group managed to establish a persistent foothold into critical infrastructure organizations in the U.S. and Guam without being detected,  Microsoft  and  the "Five Eyes" nations  said on Wednesday. The tech giant's threat intelligence team is tracking the activity, which includes post-compromise credential access and network system discovery, under the name  Volt Typhoon . The state-sponsored actor is  geared  towards espionage and information gathering, with the cluster active since June 2021 and obscuring its intrusion footprint by taking advantage of tools already installed or built into infected machines. Some of the prominent sectors targeted include communications, manufacturing, utility, transportation, construction, maritime, government, information technology, and education. The company further assessed with moderate confidence that the campaign is "pursuing development of capabilities that could disrupt critical communications i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Agrius Hackers Targeting Israeli Organizations with Moneybird Ransomware<a href="https://thehackernews.com/2023/05/iranian-agrius-hackers-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as  Agrius  is leveraging a new ransomware strain called Moneybird in its attacks targeting Israeli organizations. Agrius, also known as Pink Sandstorm (formerly Americium), has a  track record  of staging destructive data-wiping attacks aimed at Israel under the guise of ransomware infections. Microsoft has attributed the threat actor to Iran's Ministry of Intelligence and Security (MOIS), which also operates  MuddyWater . It's known to be active since at least December 2020. In December 2022, the hacking crew was  attributed  to a set of attempted disruptive intrusions that were directed against diamond industries in South Africa, Israel, and Hong Kong. These attacks involved the use of a .NET-based wiper-turned-ransomware called  Apostle  and its successor known as Fantasy. Unlike Apostle, Moneybird is programmed in C++. "The use of a new ransomware, written in C++, is noteworthy, as it demonstrates the group's expanding capabil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 24, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
