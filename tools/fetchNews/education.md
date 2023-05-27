@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar with Guest Forrester: Browser Security New Approaches<a href="https://thehackernews.com/2023/05/webinar-with-guest-forrester-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, browser security has become an increasingly pressing issue, making it essential for organizations to be aware of the latest threats to browser security. That's why the Browser Security platform LayerX is hosting&nbsp; a webinar &nbsp;featuring guest speaker Paddy Harrington, a senior analyst at Forrester and the lead author of Forrester's browser security report "Securing The Browser In The World Of Anywhere Work ". During this webinar, Harrington will join LayerX CEO, to discuss the emergence of the browser security category, the browser security risk and threat landscape, and why addressing browser security can wait no longer. The webinar will also cover browser security solutions, explaining their pros, cons, and differences, and how organizations can work more securely in the browser. Additionally, the session will focus on using browser security solutions as a cost-saver for security teams. Participants will also get an exclusive opport
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

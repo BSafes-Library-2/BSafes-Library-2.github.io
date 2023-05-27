@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerExchange Backdoor Used in Iranian Cyber Attack on UAE Government<a href="https://thehackernews.com/2023/05/new-powerexchange-backdoor-used-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed government entity associated with the United Arab Emirates (U.A.E.) was targeted by a likely Iranian threat actor to breach the victim's Microsoft Exchange Server with a "simple yet effective" backdoor dubbed&nbsp; PowerExchange . According to a new report from Fortinet FortiGuard Labs, the intrusion relied on email phishing as an initial access pathway, leading to the execution of a .NET executable contained with a ZIP file attachment. The binary, which masquerades as a PDF document, functions as a dropper to execute the final payload, which then launches the backdoor. PowerExchange, written in PowerShell, employs text files attached to emails for command-and-control (C2) communication. It allows the threat actor to run arbitrary payloads and upload and download files from and to the system. The custom implant achieves this by making use of the Exchange Web Services ( EWS ) API to connect to the victim's Exchange Server and uses a mailbox on the server to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free VPN Service SuperVPN Exposes 360 Million User Records<a href="https://www.hackread.com/free-vpn-service-supervpn-leaks-user-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed database contained a staggering 360,308,817 records, totaling 133 GB in size. These records included a wide range of sensitive information, including user email addresses, original IP addresses, geolocation data, and server usage records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's Stealthy Hackers Infiltrate U.S. and Guam Critical Infrastructure Undetected<a href="https://thehackernews.com/2023/05/chinas-stealthy-hackers-infiltrate-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy China-based group managed to establish a persistent foothold into critical infrastructure organizations in the U.S. and Guam without being detected,&nbsp; Microsoft &nbsp;and&nbsp; the "Five Eyes" nations &nbsp;said on Wednesday. The tech giant's threat intelligence team is tracking the activity, which includes post-compromise credential access and network system discovery, under the name&nbsp; Volt Typhoon . The state-sponsored actor is&nbsp; geared &nbsp;towards espionage and information gathering, with the cluster active since June 2021 and obscuring its intrusion footprint by taking advantage of tools already installed or built into infected machines. Some of the prominent sectors targeted include communications, manufacturing, utility, transportation, construction, maritime, government, information technology, and education. The company further assessed with moderate confidence that the campaign is "pursuing development of capabilities that could disrupt critical communications i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

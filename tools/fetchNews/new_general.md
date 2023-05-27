@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ahead of summer holiday weekends, IT security leaders brace for deliberate cyber mischief<a href="https://www.cybersecuritydive.com/news/summer-holiday-weekends-cyber/651434/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Memorial Day weekend marks the start of the summer travel season. U.S. authorities and network defenders in the private sector are quietly paying attention to potential threats that may emerge during key holiday weekends over the next three months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

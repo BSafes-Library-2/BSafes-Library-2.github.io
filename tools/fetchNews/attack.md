@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Brazilian Hackers Targeting Users of Over 30 Portuguese Banks<a href="https://thehackernews.com/2023/05/alert-brazilian-hackers-targeting-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian threat actor is targeting more than 30 Portuguese financial institutions with information-stealing malware as part of a long-running campaign that commenced in 2021. "The attackers can steal credentials and exfiltrate users' data and personal information, which can be leveraged for malicious activities beyond financial gain," SentinelOne researchers Aleksandar Milenkoski and Tom Hegel&nbsp; said &nbsp;in a new report shared with The Hacker News. The cybersecurity firm, which began tracking "Operation Magalenha" earlier this year, said the intrusions culminate in the deployment of two variants of a backdoor called&nbsp; PeepingTitle &nbsp;so as to "maximize attack potency." The links to Brazil stem from the use of the Brazilian-Portuguese language within the detected artifacts as well as source code overlaps with another banking trojan known as&nbsp; Maxtrilha , which was first disclosed in September 2021. PeepingTitle, like Maxtrilha, is written in the Delphi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

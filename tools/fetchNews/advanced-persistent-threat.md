@@ -8,6 +8,51 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Volt Typhoon targets critical infrastructure organizations<a href="https://securityaffairs.com/146649/hacking/china-linked-apt-volt-typhoon.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group, tracked as Volt Typhoon, breached critical infrastructure organizations in the U.S. and Guam without being detected.
+China-linked APT cyber espionage group Volt Typhoon infiltrated critical infrastructure organizations in the U.S....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Lazarus APT targets Microsoft IIS servers to deploy malware<a href="https://securityaffairs.com/146639/hacking/lazarus-targets-microsoft-iis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Lazarus actor has been targeting vulnerable Microsoft IIS servers to deploy malware.
+AhnLab Security Emergency response Center (ASEC) researchers reported that the Lazarus APT Group&nbsp;is targeting vulnerable versions of Microsoft...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Tortoiseshell APT behind watering hole attacks on shipping and logistics Israeli websites<a href="https://securityaffairs.com/146625/apt/iranian-tortoiseshell-israeli-logistics-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked threat actor Tortoiseshell targeted shipping, logistics, and financial services companies in Israel with watering hole attacks.
+ClearSky Cyber Security uncovered a watering hole attack on at least eight Israeli websites belonging to shipping,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

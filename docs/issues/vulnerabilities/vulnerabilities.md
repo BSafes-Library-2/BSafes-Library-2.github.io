@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical OAuth Vulnerability in Expo Framework Allows Account Hijacking<a href="https://thehackernews.com/2023/05/critical-oauth-vulnerability-in-expo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in the Open Authorization (OAuth) implementation of the application development framework Expo.io. The shortcoming, assigned the CVE identifier&nbsp; CVE-2023-28131 , has a severity rating of 9.6 on the CVSS scoring system. API security firm Salt Labs&nbsp; said &nbsp;the issue rendered services using the framework susceptible to credential leakage, which could then be used to hijack accounts and siphon sensitive data. Under certain circumstances, a threat actor could have taken advantage of the flaw to perform arbitrary actions on behalf of a compromised user on various platforms such as Facebook, Google, or Twitter. Expo, similar to Electron, is an open source platform for developing universal native apps that run on Android, iOS, and the web. It's worth noting that for the attack to be successful, sites and applications using Expo should have configured the AuthSession Proxy setting for single sign-on (SSO) using a third-party provider
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Flaw in Google Cloud's Cloud SQL Service Exposed Confidential Data<a href="https://thehackernews.com/2023/05/severe-flaw-in-google-clouds-cloud-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security flaw has been disclosed in the Google Cloud Platform's (GCP) Cloud SQL service that could be potentially exploited to obtain access to confidential data. "The vulnerability could have enabled a malicious actor to escalate from a basic Cloud SQL user to a full-fledged sysadmin on a container, gaining access to internal GCP data like secrets, sensitive files, passwords, in addition to customer data," Israeli cloud security firm Dig&nbsp; said . Cloud SQL &nbsp;is a fully-managed solution to build MySQL, PostgreSQL, and SQL Server databases for cloud-based applications. The multi-stage attack chain identified by Dig, in a nutshell, leveraged a gap in the cloud platform's security layer associated with SQL Server to escalate the privileges of a user to that of an administrator role. The elevated permissions subsequently made it possible to abuse another critical misconfiguration to obtain system administrator rights and take full control of the database server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda Warns of Zero-Day Exploited to Breach Email Security Gateway Appliances<a href="https://thehackernews.com/2023/05/barracuda-warns-of-zero-day-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email protection and network security services provider Barracuda is warning users about a zero-day flaw that it said has been exploited to breach the company's Email Security Gateway (ESG) appliances. The zero-day is being tracked as&nbsp; CVE-2023-2868 &nbsp;and has been described as a remote code injection vulnerability affecting versions 5.1.3.001 through 9.2.0.006. The California-headquartered firm&nbsp; said &nbsp;the issue is rooted in a component that screens the attachments of incoming emails. "The vulnerability arises out of a failure to comprehensively sanitize the processing of .tar file (tape archives)," according to an&nbsp; advisory &nbsp;from the NIST's national vulnerability database. "The vulnerability stems from incomplete input validation of a user-supplied .tar file as it pertains to the names of the files contained within the archive. As a consequence, a remote attacker can specifically format these file names in a particular manner that will result in remotely exe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

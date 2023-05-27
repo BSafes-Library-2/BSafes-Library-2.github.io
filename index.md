@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lender OneMain fined $4.25 million for cybersecurity lapses<a href="https://therecord.media/one-main-fined-ny-for-cybersecurity-lapses?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy Bandit Stealer Targeting Web Browsers and Cryptocurrency Wallets<a href="https://thehackernews.com/2023/05/new-stealthy-bandit-stealer-targeting.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus spyware was deployed in Armenia amid Nagorno-Karabakh war<a href="https://therecord.media/pegasus-used-armenia-during-war?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical OAuth Vulnerability in Expo Framework Allows Account Hijacking<a href="https://thehackernews.com/2023/05/critical-oauth-vulnerability-in-expo.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOD Submits Classified Cyber Strategy to Congress<a href="https://www.nextgov.com/cybersecurity/2023/05/dod-submits-classified-cyber-strategy-congress/386849/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Specialty Practice Says Recent Hack Affects 224,500<a href="https://www.bankinfosecurity.com/medical-specialty-practice-says-recent-hack-affects-224500-a-22181?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Latitude Financial Attack Costs Company Up to $68.5 Million<a href="https://www.bankinfosecurity.com/latitude-financial-attack-costs-company-up-to-au105-million-a-22184?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PowerExchange Backdoor linked to an Iranian APT group<a href="https://securityaffairs.com/146690/apt/powerexchange-backdoor-iran.html"> Full Text</a>
@@ -163,7 +163,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Frost Botnet targets the gaming sector with powerful DDoS<a href="https://securityaffairs.com/146683/malware/dark-frost-botnet.html"> Full Text</a>
@@ -180,7 +180,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Severe Flaw in Google Cloud's Cloud SQL Service Exposed Confidential Data<a href="https://thehackernews.com/2023/05/severe-flaw-in-google-clouds-cloud-sql.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CosmicEnergy ICS malware threatens energy grid assets<a href="https://securityaffairs.com/146675/ics-scada/cosmicenergy-ics-malware.html"> Full Text</a>
@@ -213,7 +213,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Predator Android Spyware: Researchers Uncover New Data Theft Capabilities<a href="https://thehackernews.com/2023/05/predator-android-spyware-researchers.html"> Full Text</a>
@@ -229,7 +229,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [5G](/docs/issues/5g/5g/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Must-Know Facts about 5G Network Security and Its Cloud Benefits<a href="https://thehackernews.com/2023/05/5-must-know-facts-about-5g-network.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WinTapix Attack Campaign Targets Middle East Nations<a href="https://cyware.com/news/wintapix-attack-campaign-targets-middle-east-nations-eabc515e"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New COSMICENERGY Malware Exploits ICS Protocol to Sabotage Power Grids<a href="https://thehackernews.com/2023/05/new-cosmicenergy-malware-exploits-ics.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ahead of summer holiday weekends, IT security leaders brace for deliberate cyber mischief<a href="https://www.cybersecuritydive.com/news/summer-holiday-weekends-cyber/651434/?&web_view=true"> Full Text</a>
@@ -293,7 +293,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda Warns of Zero-Day Exploited to Breach Email Security Gateway Appliances<a href="https://thehackernews.com/2023/05/barracuda-warns-of-zero-day-exploited.html"> Full Text</a>
@@ -309,7 +309,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 26, 2023
+May 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italy's Industry Ministry reports 'heavy' cyberattack<a href="https://www.reuters.com/technology/italys-industry-ministry-reports-heavy-cyberattack-2023-05-26/?&web_view=true"> Full Text</a>

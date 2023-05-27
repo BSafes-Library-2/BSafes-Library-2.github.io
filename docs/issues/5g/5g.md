@@ -8,6 +8,20 @@ nav_order: 800050
 
 ## 5G
 ---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Must-Know Facts about 5G Network Security and Its Cloud Benefits<a href="https://thehackernews.com/2023/05/5-must-know-facts-about-5g-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+5G is a game changer for mobile connectivity, including mobile connectivity to the cloud. The technology provides high speed and low latency when connecting smartphones and IoT devices to cloud infrastructure. 5G networks are a critical part of all infrastructure layers between the end user and the end service; these networks transmit sensitive data that can be vital for governments and businesses, not to mention individuals. As a result, 5G networks are a prime target for attackers. For this reason, cybersecurity has been a key consideration in developing the 5G standard. 5G encompasses robust security features that guarantee confidentiality, integrity, and availability of network services and user data. In this article, Seva Vayner, Product Owner of&nbsp; Gcore's Edge Cloud service , gives a deep dive into five of 5 G's cutting-edge security measures. He also delves into the pivotal performance capabilities of 5G, accompanied by use cases that demonstrate how contemporary, cloud
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

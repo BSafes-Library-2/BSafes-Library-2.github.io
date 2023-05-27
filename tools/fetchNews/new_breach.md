@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Specialty Practice Says Recent Hack Affects 224,500<a href="https://www.bankinfosecurity.com/medical-specialty-practice-says-recent-hack-affects-224500-a-22181?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An upstate New York medical specialty practice told regulators that hackers compromised the personal and protected health information of nearly 224,500 employees and patients in an incident discovered in March.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
