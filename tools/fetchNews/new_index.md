@@ -34,7 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lender OneMain fined $4.25 million for cybersecurity lapses<a href="https://therecord.media/one-main-fined-ny-for-cybersecurity-lapses?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OneMain Financial Group, which specializes in issuing loans to people with “nonprime” credit histories, will pay a $4.25 million penalty in New York state for cybersecurity lapses found during a government investigation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy Bandit Stealer Targeting Web Browsers and Cryptocurrency Wallets<a href="https://thehackernews.com/2023/05/new-stealthy-bandit-stealer-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new stealthy information stealer malware called Bandit Stealer has caught the attention of cybersecurity researchers for its ability to target numerous web browsers and cryptocurrency wallets.  "It has the potential to expand to other platforms as Bandit Stealer was developed using the Go programming language, possibly allowing cross-platform compatibility," Trend Micro  said  in a Friday report. The malware is currently focused on targeting Windows by using a legitimate command-line tool called  runas.exe  that allows users to run programs as another user with different permissions. The goal is to escalate privileges and execute itself with administrative access, thereby effectively bypassing security measures to harvest wide swathes of data. That said, Microsoft's access control mitigations to prevent unauthorized execution of the tool means an attempt to run the malware binary as an administrator requires providing the necessary credentials. "By using the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus spyware was deployed in Armenia amid Nagorno-Karabakh war<a href="https://therecord.media/pegasus-used-armenia-during-war?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of individuals from Armenia contacted the digital rights organizations CyberHUB-AM, an Armenian organization, and Access Now to check their devices for evidence of such spyware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical OAuth Vulnerability in Expo Framework Allows Account Hijacking<a href="https://thehackernews.com/2023/05/critical-oauth-vulnerability-in-expo.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability has been disclosed in the Open Authorization (OAuth) implementation of the application development framework Expo.io. The shortcoming, assigned the CVE identifier  CVE-2023-28131 , has a severity rating of 9.6 on the CVSS scoring system. API security firm Salt Labs  said  the issue rendered services using the framework susceptible to credential leakage, which could then be used to hijack accounts and siphon sensitive data. Under certain circumstances, a threat actor could have taken advantage of the flaw to perform arbitrary actions on behalf of a compromised user on various platforms such as Facebook, Google, or Twitter. Expo, similar to Electron, is an open source platform for developing universal native apps that run on Android, iOS, and the web. It's worth noting that for the attack to be successful, sites and applications using Expo should have configured the AuthSession Proxy setting for single sign-on (SSO) using a third-party provider
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD Submits Classified Cyber Strategy to Congress<a href="https://www.nextgov.com/cybersecurity/2023/05/dod-submits-classified-cyber-strategy-congress/386849/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Defense announced on Friday that it submitted its classified 2023 cyber strategy to Congress “earlier this week” and plans to release an unclassified summary of its new cybersecurity approach “in the coming months.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Specialty Practice Says Recent Hack Affects 224,500<a href="https://www.bankinfosecurity.com/medical-specialty-practice-says-recent-hack-affects-224500-a-22181?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An upstate New York medical specialty practice told regulators that hackers compromised the personal and protected health information of nearly 224,500 employees and patients in an incident discovered in March.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Latitude Financial Attack Costs Company Up to $68.5 Million<a href="https://www.bankinfosecurity.com/latitude-financial-attack-costs-company-up-to-au105-million-a-22184?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latitude was able to process transactions during the incident, but "account originations and collections were closed or severely restricted." The company has since fully recovered, it says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerExchange Backdoor linked to an Iranian APT group<a href="https://securityaffairs.com/146690/apt/powerexchange-backdoor-iran.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An alleged Iran-linked APT group targeted an organization linked to the United Arab Emirates (U.A.E.) with the new PowerExchange backdoor.
+Researchers from the Fortinet FortiGuard Labs observed an attack targeting a government entity in the United...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Frost Botnet targets the gaming sector with powerful DDoS<a href="https://securityaffairs.com/146683/malware/dark-frost-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new botnet dubbed Dark Frost that is used to launch distributed denial-of-service (DDoS) attacks against the gaming industry.
+Researchers from Akamai discovered a new botnet called Dark Frost that was employed in distributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Flaw in Google Cloud's Cloud SQL Service Exposed Confidential Data<a href="https://thehackernews.com/2023/05/severe-flaw-in-google-clouds-cloud-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security flaw has been disclosed in the Google Cloud Platform's (GCP) Cloud SQL service that could be potentially exploited to obtain access to confidential data. "The vulnerability could have enabled a malicious actor to escalate from a basic Cloud SQL user to a full-fledged sysadmin on a container, gaining access to internal GCP data like secrets, sensitive files, passwords, in addition to customer data," Israeli cloud security firm Dig  said . Cloud SQL  is a fully-managed solution to build MySQL, PostgreSQL, and SQL Server databases for cloud-based applications. The multi-stage attack chain identified by Dig, in a nutshell, leveraged a gap in the cloud platform's security layer associated with SQL Server to escalate the privileges of a user to that of an administrator role. The elevated permissions subsequently made it possible to abuse another critical misconfiguration to obtain system administrator rights and take full control of the database server.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CosmicEnergy ICS malware threatens energy grid assets<a href="https://securityaffairs.com/146675/ics-scada/cosmicenergy-ics-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts detailed a new piece of malware, named CosmicEnergy, that is linked to Russia and targets industrial control systems (ICS). 
+Researchers from Mandiant discovered a new malware, named CosmicEnergy, designed to target operational technology...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predator Android Spyware: Researchers Uncover New Data Theft Capabilities<a href="https://thehackernews.com/2023/05/predator-android-spyware-researchers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have detailed the inner workings of the commercial Android spyware called Predator, which is marketed by the Israeli company Intellexa (previously Cytrox). Predator was  first documented  by Google's Threat Analysis Group (TAG) in May 2022 as part of attacks leveraging five different zero-day flaws in the Chrome web browser and Android. The spyware, which is delivered by means of another loader component called Alien, is equipped to record audio from phone calls and VoIP-based apps as well as gather contacts and messages, including from Signal, WhatsApp, and Telegram. Its other functionalities allow it to hide applications and prevent applications from being executed upon rebooting the handset. "A deep dive into both spyware components indicates that Alien is more than just a loader for Predator and actively sets up the low-level capabilities needed for Predator to spy on its victims," Cisco Talos  said  in a technical report. Spyware like Preda
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Must-Know Facts about 5G Network Security and Its Cloud Benefits<a href="https://thehackernews.com/2023/05/5-must-know-facts-about-5g-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+5G is a game changer for mobile connectivity, including mobile connectivity to the cloud. The technology provides high speed and low latency when connecting smartphones and IoT devices to cloud infrastructure. 5G networks are a critical part of all infrastructure layers between the end user and the end service; these networks transmit sensitive data that can be vital for governments and businesses, not to mention individuals. As a result, 5G networks are a prime target for attackers. For this reason, cybersecurity has been a key consideration in developing the 5G standard. 5G encompasses robust security features that guarantee confidentiality, integrity, and availability of network services and user data. In this article, Seva Vayner, Product Owner of  Gcore's Edge Cloud service , gives a deep dive into five of 5 G's cutting-edge security measures. He also delves into the pivotal performance capabilities of 5G, accompanied by use cases that demonstrate how contemporary, cloud
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinTapix Attack Campaign Targets Middle East Nations<a href="https://cyware.com/news/wintapix-attack-campaign-targets-middle-east-nations-eabc515e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor group has been observed employing a malicious Windows kernel driver in targeted attacks, primarily focusing on the Middle East region. Fortinet security experts have dubbed the artifact as WINTAPIX (WinTapix.sys). To stay protected, users are suggested to immediately im ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New COSMICENERGY Malware Exploits ICS Protocol to Sabotage Power Grids<a href="https://thehackernews.com/2023/05/new-cosmicenergy-malware-exploits-ics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new strain of malicious software that's engineered to penetrate and disrupt critical systems in industrial environments has been unearthed. Google-owned threat intelligence firm Mandiant dubbed the malware  COSMICENERGY , adding it was uploaded to the VirusTotal public malware scanning utility in December 2021 by a submitter in Russia. There is no evidence that it has been put to use in the wild. "The malware is designed to cause electric power disruption by interacting with IEC 60870-5-104 (IEC-104) devices, such as remote terminal units ( RTUs ), that are commonly leveraged in electric transmission and distribution operations in Europe, the Middle East, and Asia," the company  said . COSMICENERGY is the latest addition to  specialized   malware  like Stuxnet, Havex, Triton, IRONGATE, BlackEnergy2, Industroyer, and PIPEDREAM, which are capable of sabotaging critical systems and wreaking havoc. Mandiant said that there are circumstantial links that it may have bee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ahead of summer holiday weekends, IT security leaders brace for deliberate cyber mischief<a href="https://www.cybersecuritydive.com/news/summer-holiday-weekends-cyber/651434/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Memorial Day weekend marks the start of the summer travel season. U.S. authorities and network defenders in the private sector are quietly paying attention to potential threats that may emerge during key holiday weekends over the next three months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda Warns of Zero-Day Exploited to Breach Email Security Gateway Appliances<a href="https://thehackernews.com/2023/05/barracuda-warns-of-zero-day-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email protection and network security services provider Barracuda is warning users about a zero-day flaw that it said has been exploited to breach the company's Email Security Gateway (ESG) appliances. The zero-day is being tracked as  CVE-2023-2868  and has been described as a remote code injection vulnerability affecting versions 5.1.3.001 through 9.2.0.006. The California-headquartered firm  said  the issue is rooted in a component that screens the attachments of incoming emails. "The vulnerability arises out of a failure to comprehensively sanitize the processing of .tar file (tape archives)," according to an  advisory  from the NIST's national vulnerability database. "The vulnerability stems from incomplete input validation of a user-supplied .tar file as it pertains to the names of the files contained within the archive. As a consequence, a remote attacker can specifically format these file names in a particular manner that will result in remotely exe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy's Industry Ministry reports 'heavy' cyberattack<a href="https://www.reuters.com/technology/italys-industry-ministry-reports-heavy-cyberattack-2023-05-26/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technicians were working to "mitigate the consequences" of the attack, the ministry wrote in a statement, adding that initial checks showed no evidence of data theft. It was too early to predict when activities would be back to normal, it said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation "Total Exchange": New PowerExchange Backdoor Discovered in the UAE<a href="https://www.fortinet.com/blog/threat-research/operation-total-exchange-backdoor-discovered?&web_view=true"> Full Text</a>
@@ -50,7 +341,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Frost Botnet Launches Devastating DDoS Attacks on Gaming Industry<a href="https://thehackernews.com/2023/05/dark-frost-botnet-launches-devastating.html"> Full Text</a>
@@ -66,7 +357,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. and Partners Release Joint Cybersecurity Advisory on Volt Typhoon<a href="https://www.lawfareblog.com/us-and-partners-release-joint-cybersecurity-advisory-volt-typhoon"> Full Text</a>
@@ -82,7 +373,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 D-Link fixes two critical flaws in D-View 8 network management suite<a href="https://securityaffairs.com/146667/security/d-link-critical-flaws-d-view-8.html"> Full Text</a>
@@ -99,7 +390,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YouTube Pirated Software Videos Deliver Triple Threat: Vidar Stealer, Laplas Clipper, XMRig Miner<a href="https://www.fortinet.com/blog/threat-research/youtube-pirated-software-videos-deliver-triple-threat-vidar-stealer-laplas-clipper-xmrig-miner?&web_view=true"> Full Text</a>
@@ -115,7 +406,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Issues Critical Security Patches for Firewall and VPN Products<a href="https://thehackernews.com/2023/05/zyxel-issues-critical-security-patches.html"> Full Text</a>
@@ -131,7 +422,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel firewall and VPN devices affected by critical flaws<a href="https://securityaffairs.com/146660/security/zyxel-firewall-vpn-critical-flaw.html"> Full Text</a>
@@ -148,7 +439,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Broad coalition of advocacy groups urges Slack to protect users' messages from eavesdropping<a href="https://cyberscoop.com/advocacy-groups-slack-encryption/?&web_view=true"> Full Text</a>
@@ -164,7 +455,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cynet Protects Hospital From Lethal Infection<a href="https://thehackernews.com/2023/05/cynet-protects-hospital-from-lethal.html"> Full Text</a>
@@ -180,7 +471,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Volt Typhoon targets critical infrastructure organizations<a href="https://securityaffairs.com/146649/hacking/china-linked-apt-volt-typhoon.html"> Full Text</a>
@@ -197,7 +488,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian hackers target Portuguese financial institutions<a href="https://cyberscoop.com/brazilian-hackers-portuguese-banks/?&web_view=true"> Full Text</a>
@@ -213,7 +504,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PowerExchange Backdoor Used in Iranian Cyber Attack on UAE Government<a href="https://thehackernews.com/2023/05/new-powerexchange-backdoor-used-in.html"> Full Text</a>
@@ -229,7 +520,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Lazarus APT targets Microsoft IIS servers to deploy malware<a href="https://securityaffairs.com/146639/hacking/lazarus-targets-microsoft-iis-servers.html"> Full Text</a>
@@ -246,7 +537,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Buhti Ransomware Operation Relies on Repurposed Payloads<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/buhti-ransomware?&web_view=true"> Full Text</a>
@@ -262,7 +553,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Brazilian Hackers Targeting Users of Over 30 Portuguese Banks<a href="https://thehackernews.com/2023/05/alert-brazilian-hackers-targeting-users.html"> Full Text</a>
@@ -278,7 +569,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Tortoiseshell APT behind watering hole attacks on shipping and logistics Israeli websites<a href="https://securityaffairs.com/146625/apt/iranian-tortoiseshell-israeli-logistics-industry.html"> Full Text</a>
@@ -295,7 +586,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and Partners Update the #StopRansomware Guide Developed Through the Joint Ransomware Task Force<a href="https://www.cisa.gov/news-events/alerts/2023/05/23/cisa-and-partners-update-stopransomware-guide-developed-through-joint-ransomware-task-force-jrtf?&web_view=true"> Full Text</a>
@@ -311,7 +602,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar with Guest Forrester: Browser Security New Approaches<a href="https://thehackernews.com/2023/05/webinar-with-guest-forrester-browser.html"> Full Text</a>
@@ -327,7 +618,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reality check: What will generative AI really do for cybersecurity?<a href="https://cyberscoop.com/generative-ai-chatbots-cybersecurity/?&web_view=true"> Full Text</a>
@@ -343,7 +634,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Buhti Ransomware Gang Switches Tactics, Utilizes Leaked LockBit and Babuk Code<a href="https://thehackernews.com/2023/05/buhti-ransomware-gang-switches-tactics.html"> Full Text</a>
@@ -359,7 +650,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free VPN Service SuperVPN Exposes 360 Million User Records<a href="https://www.hackread.com/free-vpn-service-supervpn-leaks-user-records/?&web_view=true"> Full Text</a>
@@ -375,7 +666,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's Stealthy Hackers Infiltrate U.S. and Guam Critical Infrastructure Undetected<a href="https://thehackernews.com/2023/05/chinas-stealthy-hackers-infiltrate-us.html"> Full Text</a>
@@ -391,7 +682,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2023
+May 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Agrius Hackers Targeting Israeli Organizations with Moneybird Ransomware<a href="https://thehackernews.com/2023/05/iranian-agrius-hackers-targeting.html"> Full Text</a>
