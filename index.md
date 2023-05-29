@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2023
+May 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial automation giant ABB disclosed data breach after ransomware attack<a href="https://securityaffairs.com/146752/cyber-crime/abb-ransomware-attack.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2023
+May 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bandit Stealer targets web browsers and cryptocurrency wallets<a href="https://securityaffairs.com/146739/malware/bandit-stealer-cryptocurrency-wallets.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2023
+May 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds recently patched Barracuda zero-day to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146729/security/cisa-barracuda-0day-catalog.html"> Full Text</a>
@@ -85,7 +85,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AHA Tells HHS to 'Amend or Suspend' Web Tracking Guidance<a href="https://www.bankinfosecurity.com/aha-tells-hhs-to-amend-or-suspend-web-tracking-guidance-a-22171?&web_view=true"> Full Text</a>
@@ -101,7 +101,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Prosecutors Indict FinFisher Spyware Executives<a href="https://www.bankinfosecurity.com/german-prosecutors-indict-finfisher-spyware-executives-a-22174?&web_view=true"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 421 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/146735/breaking-news/security-affairs-newsletter-round-421.html"> Full Text</a>
@@ -135,7 +135,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is the BlackByte ransomware gang behind the City of Augusta attack?<a href="https://securityaffairs.com/146717/hacking/city-of-augusta-cyberattack.html"> Full Text</a>
@@ -152,7 +152,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 27, 2023
+May 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Buhti ransomware operation uses rebranded LockBit and Babuk payloads<a href="https://securityaffairs.com/146700/cyber-crime/buhti-ransomware-rebranded-lockbit-babuk.html"> Full Text</a>

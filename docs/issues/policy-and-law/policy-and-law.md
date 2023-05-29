@@ -11,6 +11,20 @@ nav_order: 900163
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+German Prosecutors Indict FinFisher Spyware Executives<a href="https://www.bankinfosecurity.com/german-prosecutors-indict-finfisher-spyware-executives-a-22174?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The indictment accuses the four FinFisher executives, identified only with an initial, of evading export controls by selling the FinSpy hacking tool to Turkey's intelligence agency in 2015 through a Bulgarian front company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Lender OneMain fined $4.25 million for cybersecurity lapses<a href="https://therecord.media/one-main-fined-ny-for-cybersecurity-lapses?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD Submits Classified Cyber Strategy to Congress<a href="https://www.nextgov.com/cybersecurity/2023/05/dod-submits-classified-cyber-strategy-congress/386849/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Defense announced on Friday that it submitted its classified 2023 cyber strategy to Congress “earlier this week” and plans to release an unclassified summary of its new cybersecurity approach “in the coming months.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italy's Industry Ministry reports 'heavy' cyberattack<a href="https://www.reuters.com/technology/italys-industry-ministry-reports-heavy-cyberattack-2023-05-26/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technicians were working to "mitigate the consequences" of the attack, the ministry wrote in a statement, adding that initial checks showed no evidence of data theft. It was too early to predict when activities would be back to normal, it said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

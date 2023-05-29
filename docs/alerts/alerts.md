@@ -25,6 +25,24 @@ sectors worldwide.
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2023 - NSA, CISA, FBI, ACSC, CCCS, NCSC-NZ, NCSC-UK
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection <a href="https://s3.documentcloud.org/documents/23824901/csa_living_off_the_land.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United States and international cybersecurity authorities are issuing this joint
+Cybersecurity Advisory (CSA) to highlight a recently discovered cluster of activity of
+interest associated with a People’s Republic of China (PRC) state-sponsored cyber
+actor, also known as Volt Typhoon. Private sector partners have identified that this
+activity affects networks across U.S. critical infrastructure sectors, and the authoring
+agencies believe the actor could apply the same techniques against these and other
+sectors worldwide.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 23, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -33,6 +51,18 @@ CISA and Partners Update the #StopRansomware Guide, Developed through the Joint 
 <details>
   <summary>Abstract</summary>
 Today, CISA, the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) published an updated version of the #StopRansomware Guide, as ransomware actors have accelerated their tactics and techniques since its initial release in 2020. The update incorporates lessons learned from the past two years and includes additional recommended actions, resources, and tools to maximize its relevancy and effectiveness and to further help reduce the prevalence and impacts of ransomware.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2023 - American Hospital Association 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AHA Letter to OCR on HIPAA Privacy Rule, Online Tracking Guidance <a href="https://www.aha.org/lettercomment/2023-05-22-aha-letter-ocr-hipaa-privacy-rule-online-tracking-guidance"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On behalf of our nearly 5,000 member hospitals, health systems and other health care organizations, our clinical partners — including more than 270,000 affiliated physicians, 2 million nurses and other caregivers — and the 43,000 health care leaders who belong to our professional membership groups, the American Hospital Association (AHA) strongly supports the Office of Civil Rights’ (OCR) proposed rule. The AHA agrees with OCR that a “positive, trusting relationship between individuals and their health care providers is essential to an individual’s health and well-being.”1 The proposed rule will enhance provider-patient relationships by providing heightened privacy protections for information about care that is lawful under the circumstances in which it is provided, but may nonetheless get swept up in criminal, civil or administrative investigations.
 </details>
 </div>
 

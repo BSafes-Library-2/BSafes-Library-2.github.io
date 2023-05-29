@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Buhti ransomware operation uses rebranded LockBit and Babuk payloads<a href="https://securityaffairs.com/146700/cyber-crime/buhti-ransomware-rebranded-lockbit-babuk.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently identified Buhti operation targets organizations worldwide with rebranded LockBit and Babuk ransomware variants.
+Researchers from Symantec discovered a new ransomware operation called Buhti (aka Blacktail) that is using LockBit and Babuk...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

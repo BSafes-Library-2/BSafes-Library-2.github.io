@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is the BlackByte ransomware gang behind the City of Augusta attack?<a href="https://securityaffairs.com/146717/hacking/city-of-augusta-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Augusta&nbsp;in Georgia, U.S., admitted that the recent IT system outage was caused by a cyber attack.
+While the City of Augusta revealed that a cyberattack caused the recent IT outage, the BlackByte ransomware gang has claimed responsibility...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

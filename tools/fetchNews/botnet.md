@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Frost Botnet targets the gaming sector with powerful DDoS<a href="https://securityaffairs.com/146683/malware/dark-frost-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new botnet dubbed&nbsp;Dark Frost&nbsp;that is used to launch distributed denial-of-service (DDoS) attacks against the gaming industry.
+Researchers from Akamai discovered a new botnet called&nbsp;Dark Frost that was employed in distributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

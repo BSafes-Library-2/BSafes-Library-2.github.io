@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Latitude Financial Attack Costs Company Up to $68.5 Million<a href="https://www.bankinfosecurity.com/latitude-financial-attack-costs-company-up-to-au105-million-a-22184?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latitude was able to process transactions during the incident, but "account originations and collections were closed or severely restricted." The company has since fully recovered, it says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinTapix Attack Campaign Targets Middle East Nations<a href="https://cyware.com/news/wintapix-attack-campaign-targets-middle-east-nations-eabc515e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor group has been observed employing a malicious Windows kernel driver in targeted attacks, primarily focusing on the Middle East region. Fortinet security experts have dubbed the artifact as WINTAPIX (WinTapix.sys). To stay protected, users are suggested to immediately im ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

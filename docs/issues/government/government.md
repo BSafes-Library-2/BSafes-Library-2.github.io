@@ -11,6 +11,20 @@ nav_order: 900075
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+AHA Tells HHS to 'Amend or Suspend' Web Tracking Guidance<a href="https://www.bankinfosecurity.com/aha-tells-hhs-to-amend-or-suspend-web-tracking-guidance-a-22171?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AHA is urging federal regulators to back off from recent guidance that treats patient IP addresses as PHI, saying that the new rules would "reduce public access to credible health information" and create hardships for doctors and hospitals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 DOD Submits Classified Cyber Strategy to Congress<a href="https://www.nextgov.com/cybersecurity/2023/05/dod-submits-classified-cyber-strategy-congress/386849/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
